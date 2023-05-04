@@ -1,10 +1,11 @@
 #! /usr/bin/env python
 
 
-
 import json
 import glob
 import re
+import difflib
+
 
 files = """
 _new/Ahornsirup - Kanadas süßer Schatz (ARTE 360° Reportage) [HlFRnPw6Y04].mp4
@@ -638,19 +639,15 @@ s24/s24e21 Indien Kampf den Scharlatanen (YT -Clpkb3JdkI).mp4
 s24/s24e22 Ahornsirup Kanadas süßer Schatz (YT HlFRnPw6Y04).mp4
 """
 
-# import difflib
 
-# words_list = ['sprite','coke','lemon sparkling water']
-# print(difflib.get_close_matches('watter',words_list,cutoff=.35))
-
-json_file = open('episodes.json', 'r')
+json_file = open("episodes.json", "r")
 
 episodes = json.load(json_file)
 
 src_titles: list[str] = []
 for episode in episodes:
     # print(episode['title'])
-    src_titles.append(episode['title'])
+    src_titles.append(episode["title"])
 
 
 def extract_title_from_new(rel_path: str) -> str:
@@ -659,17 +656,31 @@ def extract_title_from_new(rel_path: str) -> str:
 
     -> Sark, die Kanalinsel der Queen
     """
-    rel_path = rel_path.replace('_new/', '')
-    rel_path = rel_path.replace('_new/', '')
+    rel_path = rel_path.replace("_new/", "")
+    rel_path = rel_path.replace("_new/", "")
     rel_path = re.sub(r" \(.*", "", rel_path)
     return rel_path
 
 
-dest_titles: list[str|None] = []
+dest_titles: list[str | None] = []
+dest_files: list[str] = []
 for rel_path in files.splitlines():
-    if rel_path.startswith('_new'):
+    dest_files.append(rel_path)
+    if rel_path.startswith("_new"):
         title = extract_title_from_new(rel_path)
         print(title)
         dest_titles.append(title)
     else:
         dest_titles.append(None)
+
+dest_i = 0
+for title in dest_titles:
+    if title:
+        match = difflib.get_close_matches(title, src_titles, n=1)
+        if len(match) > 0:
+            src_i = src_titles.index(match[0])
+
+            print(src_titles[src_i], dest_titles[dest_i], dest_files[dest_i])
+            print(episodes[src_i])
+            print()
+    dest_i += 1
