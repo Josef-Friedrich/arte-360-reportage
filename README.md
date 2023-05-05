@@ -2,7 +2,7 @@
 
 https://thetvdb.com/series/272599-show
 
-https://www.imdb.com/title/tt0457219/episodes/?ref_=tt_ov_epl
+https://www.imdb.com/title/tt0457219
 
 https://www.themoviedb.org/tv/95966-360-die-geo-reportage
 
