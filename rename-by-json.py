@@ -5,7 +5,8 @@ import json
 import glob
 import re
 import difflib
-
+import dataclasses
+import typing
 
 files = """
 _new/Ahornsirup - Kanadas süßer Schatz (ARTE 360° Reportage) [HlFRnPw6Y04].mp4
@@ -642,7 +643,20 @@ s24/s24e22 Ahornsirup Kanadas süßer Schatz (YT HlFRnPw6Y04).mp4
 
 json_file = open("episodes.json", "r")
 
-episodes = json.load(json_file)
+
+class Episode(typing.TypedDict):
+    id: str
+    season: int
+    episode: int
+    no: int
+    title: str
+    air_data: str
+    duration: int
+    thetvdb_episode_no: int
+
+
+episodes: list[Episode] = json.load(json_file)
+
 
 src_titles: list[str] = []
 for episode in episodes:
@@ -662,6 +676,15 @@ def extract_title_from_new(rel_path: str) -> str:
     return rel_path
 
 
+def get_episode_by_title(title: str | None) -> Episode | None:
+    if not title:
+        return
+    match: list[str] = difflib.get_close_matches(title, src_titles, n=1)
+    if len(match) > 0:
+        src_i: int = src_titles.index(match[0])
+        return episodes[src_i]
+
+
 dest_titles: list[str | None] = []
 dest_files: list[str] = []
 for rel_path in files.splitlines():
@@ -675,12 +698,9 @@ for rel_path in files.splitlines():
 
 dest_i = 0
 for title in dest_titles:
-    if title:
-        match = difflib.get_close_matches(title, src_titles, n=1)
-        if len(match) > 0:
-            src_i = src_titles.index(match[0])
-
-            print(src_titles[src_i], dest_titles[dest_i], dest_files[dest_i])
-            print(episodes[src_i])
-            print()
+    episode = get_episode_by_title(title)
+    if episode:
+        print(src_titles[episode["no"] - 1], dest_titles[dest_i], dest_files[dest_i])
+        print(episode)
+        print()
     dest_i += 1
