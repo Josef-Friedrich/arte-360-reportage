@@ -5,8 +5,8 @@ import json
 import glob
 import re
 import difflib
-import dataclasses
 import typing
+import pathlib
 
 files = """
 _new/Ahornsirup - Kanadas süßer Schatz (ARTE 360° Reportage) [HlFRnPw6Y04].mp4
@@ -698,9 +698,19 @@ for rel_path in files.splitlines():
 
 dest_i = 0
 for title in dest_titles:
-    episode = get_episode_by_title(title)
+    episode: Episode | None = get_episode_by_title(title)
     if episode:
-        print(src_titles[episode["no"] - 1], dest_titles[dest_i], dest_files[dest_i])
-        print(episode)
+        src = pathlib.Path(dest_files[dest_i])
+        print(episode["title"])
+        print(src)
+
+        season: str = str(episode['season']).zfill(2)
+        dest: str = f"s{season}/{episode['id'].lower()} {src.name}"
+
+        dest = re.sub(r" +\(.*\) +", " ", dest)
+        dest = re.sub(r"\[(.*)\]+", r"(YT \1)", dest)
+        print(dest)
+        # print(episode)
+        # src.rename(dest)
         print()
     dest_i += 1
