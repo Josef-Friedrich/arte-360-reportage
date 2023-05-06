@@ -4608,6 +4608,12 @@
       "thetvdb_episode_no": 5927792
     },
     {
+      "title": "Die schwebenden Särge von Georgien",
+      "air_date": "2017-01-28",
+      "thetvdb_episode_no": 7890795,
+      "youtube_trailer": "z_iQOX7V6O8"
+    },
+    {
       "season": 19,
       "episode": 4,
       "id": "S19E04",
@@ -4926,10 +4932,6 @@
       "air_date": "2018-03-18",
       "duration": 55,
       "thetvdb_episode_no": 6597521
-    },
-    {
-      "title": "Die schwebenden Särge von Georgien",
-      "air_date": "2018-03-19"
     },
     {
       "season": 20,
