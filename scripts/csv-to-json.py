@@ -37,7 +37,7 @@ with open("episodes.csv", newline="") as csvfile:
         e["title"] = episode[2]
         e["air_date"] = episode[3]
         e["duration"] = extract_duration(episode[4])
-        e["thetvdb_episode_no"] = int(episode[6])
+        e["thetvdb_episode_id"] = int(episode[6])
         episodes.append(e)
 
 json_dump: str = json.dumps(episodes, indent=2, ensure_ascii=False)

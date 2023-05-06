@@ -63,8 +63,14 @@ if __name__ == "__main__":
 
             index = _lib.get_episode_index_by_title(dest)
 
+            if "air_date" not in episode:
+                episode["air_date"] = str(e["air_date"])
+            elif e["air_date"] != episode["air_date"]:
+                episode["fernsehserien_air_date"] = str(e["air_date"])
+
+            episode["fernsehserien_episode_no"] = int(e["no"])
             episode["fernsehserien_episode_slug"] = str(e["slug"])
-            episode["fernsehserien_episode_no"] = int(e["id"])
+            episode["fernsehserien_episode_id"] = int(e["id"])
 
             geo["episodes"][index] = episode
 
@@ -73,4 +79,4 @@ if __name__ == "__main__":
             print("d", dest)
             print()
 
-    #_lib.write(geo)
+    _lib.write(geo)

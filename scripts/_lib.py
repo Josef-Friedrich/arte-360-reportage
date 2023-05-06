@@ -8,9 +8,11 @@ class Episode(typing.TypedDict):
     air_date: str
     duration: int
     thetvdb_season_episode: str
-    thetvdb_episode_no: int
-    fernsehserien_episode_slug: str
+    thetvdb_episode_id: int
+    fernsehserien_air_date: str
     fernsehserien_episode_no: int
+    fernsehserien_episode_slug: str
+    fernsehserien_episode_id: int
 
 
 class Geo(typing.TypedDict):

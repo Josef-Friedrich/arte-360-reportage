@@ -21,8 +21,8 @@ for old in result["episodes"]:
     if "id" in old:
         episode["thetvdb_season_episode"] = old["id"]
 
-    if "thetvdb_episode_no" in old:
-        episode["thetvdb_episode_no"] = old["thetvdb_episode_no"]
+    if "thetvdb_episode_id" in old:
+        episode["thetvdb_episode_id"] = old["thetvdb_episode_id"]
     new.append(episode)
 
 result["episodes"] = new

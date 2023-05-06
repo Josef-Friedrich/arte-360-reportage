@@ -1,630 +1,630 @@
-| air_date | title | thetvdb | 
-| - | - | - | 
-| 1999-01-04 | Traum-Städte: Beirut - die Milliarden-Dollar-Utopie | [S01E01](https://thetvdb.com/series/272599-show/episodes/4641893) | 
-| 1999-01-05 | Traum-Städte: Chandigarh - Leben im Beton | [S01E02](https://thetvdb.com/series/272599-show/episodes/4641894) | 
-| 1999-01-06 | Traum-Städte: Brasilia - Metropole vom Reißbrett | [S01E03](https://thetvdb.com/series/272599-show/episodes/4641895) | 
-| 1999-01-07 | Traum-Städte: Celebration - Leben in Harmonie | [S01E04](https://thetvdb.com/series/272599-show/episodes/4641896) | 
-| 1999-02-01 | Weibs-Bilder: Die mächtigen Frauen von Juchitán | [S01E05](https://thetvdb.com/series/272599-show/episodes/4641897) | 
-| 1999-02-02 | Weibs-Bilder: Hazeras Geschäfte | [S01E06](https://thetvdb.com/series/272599-show/episodes/4641898) | 
-| 1999-02-03 | Weibs-Bilder: Die neue Kunst des Kinderkriegens | [S01E07](https://thetvdb.com/series/272599-show/episodes/4641899) | 
-| 1999-02-04 | Weibs-Bilder: Der kleine Unterschied im Kopf | [S01E08](https://thetvdb.com/series/272599-show/episodes/4641900) | 
-| 1999-03-01 | Regenwald: Die Spurensucher | [S01E09](https://thetvdb.com/series/272599-show/episodes/4641901) | 
-| 1999-03-02 | Regenwald: Auf dem Holzweg | [S01E10](https://thetvdb.com/series/272599-show/episodes/4641902) | 
-| 1999-03-03 | Regenwald: Der Geist des Vogels - Heilkraft aus dem Urwald | [S01E11](https://thetvdb.com/series/272599-show/episodes/4641903) | 
-| 1999-03-04 | Regenwald: Die Pille für den Wald | [S01E12](https://thetvdb.com/series/272599-show/episodes/4641904) | 
-| 1999-04-05 | Vorbild Natur: Copyright Natur | [S01E13](https://thetvdb.com/series/272599-show/episodes/4641905) | 
-| 1999-04-06 | Vorbild Natur: Mensch Roboter! | [S01E14](https://thetvdb.com/series/272599-show/episodes/4641906) | 
-| 1999-04-07 | Vorbild Natur: ABC des Universums | [S01E15](https://thetvdb.com/series/272599-show/episodes/4641907) | 
-| 1999-04-08 | Vorbild Natur: Die Erfindung der Wirklichkeit | [S01E16](https://thetvdb.com/series/272599-show/episodes/4641908) | 
-| 1999-05-03 | Schönheit: Markt der Schönheit | [S01E17](https://thetvdb.com/series/272599-show/episodes/4641909) | 
-| 1999-05-04 | Schönheit: Kuba - von der stillen Revolte der Schönheit | [S01E18](https://thetvdb.com/series/272599-show/episodes/4641910) | 
-| 1999-05-05 | Schönheit: Das Maß der Schönheit | [S01E19](https://thetvdb.com/series/272599-show/episodes/4641911) | 
-| 1999-05-06 | Schönheit: Die andere Seite der Schönheit | [S01E20](https://thetvdb.com/series/272599-show/episodes/4641912) | 
-| 1999-07-05 | Intelligenz: Geniale Störenfriede | [S01E21](https://thetvdb.com/series/272599-show/episodes/4824521) | 
-| 1999-07-06 | Intelligenz: Musik macht klug | [S01E22](https://thetvdb.com/series/272599-show/episodes/4824525) | 
-| 1999-07-07 | Intelligenz: „Think Tank“ - Die Schule der Affen | [S01E23](https://thetvdb.com/series/272599-show/episodes/4824526) | 
-| 1999-07-08 | Intelligenz: Künstliche Intelligenz | [S01E24](https://thetvdb.com/series/272599-show/episodes/4824528) | 
-| 1999-09-06 | Irren ist menschlich: Der Kaninchen-Krieg | [S01E25](https://thetvdb.com/series/272599-show/episodes/4824530) | 
-| 1999-09-07 | Irren ist menschlich: Countdown ins Desaster | [S01E26](https://thetvdb.com/series/272599-show/episodes/4824531) | 
-| 1999-09-08 | Irren ist menschlich: Liebe und andere Katastrophen | [S01E27](https://thetvdb.com/series/272599-show/episodes/4824532) | 
-| 1999-09-09 | Irren ist menschlich: Verkehrte Sicherheit | [S01E28](https://thetvdb.com/series/272599-show/episodes/4824533) | 
-| 1999-10-11 | Die Suche nach dem Glück: Die Meister des Glücks | [S01E29](https://thetvdb.com/series/272599-show/episodes/4824535) | 
-| 1999-10-12 | Die Suche nach dem Glück: Die Macht des Lachens | [S01E30](https://thetvdb.com/series/272599-show/episodes/4824536) | 
-| 1999-10-13 | Die Suche nach dem Glück: Chemie der Traurigkeit | [S01E31](https://thetvdb.com/series/272599-show/episodes/4824537) | 
-| 1999-10-14 | Die Suche nach dem Glück: Insel der Glücklichsten | [S01E32](https://thetvdb.com/series/272599-show/episodes/4824538) | 
-| 1999-11-01 | Universum des Lichts: Hunger nach Sonne | [S01E33](https://thetvdb.com/series/272599-show/episodes/4824539) | 
-| 1999-11-02 | Universum des Lichts: Die Leuchtkraft der Natur | [S01E34](https://thetvdb.com/series/272599-show/episodes/4824541) | 
-| 1999-11-03 | Universum des Lichts: Die Seele des Lichts | [S01E35](https://thetvdb.com/series/272599-show/episodes/4824542) | 
-| 1999-11-04 | Universum des Lichts: Lichtkunst - Kunstlicht | [S01E36](https://thetvdb.com/series/272599-show/episodes/4824544) | 
-| 1999-12-06 | Im Namen der Liebe: Eine Liebe auf Bali | [S01E37](https://thetvdb.com/series/272599-show/episodes/4824545) | 
-| 1999-12-07 | Im Namen der Liebe: Mythos Mutterliebe | [S01E38](https://thetvdb.com/series/272599-show/episodes/4824549) | 
-| 1999-12-08 | Im Namen der Liebe: Angst macht verführerisch | [S01E39](https://thetvdb.com/series/272599-show/episodes/4824550) | 
-| 1999-12-09 | Im Namen der Liebe: Menü der Zärtlichkeit | [S01E40](https://thetvdb.com/series/272599-show/episodes/4824551) | 
-| 2000-01-10 | Naturgewalten: Ernstfall Erdbeben | [S02E01](https://thetvdb.com/series/272599-show/episodes/4641913) | 
-| 2000-01-11 | Naturgewalten: Tsunami - die Todeswelle | [S02E02](https://thetvdb.com/series/272599-show/episodes/4641914) | 
-| 2000-01-12 | Naturgewalten: Operation Wolkenbruch | [S02E03](https://thetvdb.com/series/272599-show/episodes/4641915) | 
-| 2000-01-13 | Naturgewalten: Im Schatten des Vulkans | [S02E04](https://thetvdb.com/series/272599-show/episodes/4641916) | 
-| 2000-02-07 | Spiele des Lebens: Casino der Häuptlinge | [S02E05](https://thetvdb.com/series/272599-show/episodes/4641917) | 
-| 2000-02-08 | Spiele des Lebens: Schach - Krieg auf 64 Feldern | [S02E06](https://thetvdb.com/series/272599-show/episodes/4641918) | 
-| 2000-02-09 | Spiele des Lebens: Mehr als nur ein Kinderspiel | [S02E07](https://thetvdb.com/series/272599-show/episodes/4641919) | 
-| 2000-02-10 | Spiele des Lebens: Spielplatz Natur | [S02E08](https://thetvdb.com/series/272599-show/episodes/4641920) | 
-| 2000-03-06 | Die Schatzjäger: Beruf Grabräuber | [S02E09](https://thetvdb.com/series/272599-show/episodes/4641921) | 
-| 2000-03-07 | Die Schatzjäger: Schätze aus dem All | [S02E10](https://thetvdb.com/series/272599-show/episodes/4641922) | 
-| 2000-03-08 | Die Schatzjäger: Die Taucher der Goldküste | [S02E11](https://thetvdb.com/series/272599-show/episodes/4641923) | 
-| 2000-03-09 | Die Schatzjäger: Im Bann der Rubine | [S02E12](https://thetvdb.com/series/272599-show/episodes/4641924) | 
-| 2000-05-01 | Medizin der Zukunft: Die Klinik der Schamanen | [S02E13](https://thetvdb.com/series/272599-show/episodes/4641925) | 
-| 2000-05-02 | Medizin der Zukunft: Organe nach Maß | [S02E14](https://thetvdb.com/series/272599-show/episodes/4641926) | 
-| 2000-05-03 | Medizin der Zukunft: Die Jäger des Lassa-Virus | [S02E15](https://thetvdb.com/series/272599-show/episodes/4641927) | 
-| 2000-05-04 | Medizin der Zukunft: Chirurgen am Joystick | [S02E16](https://thetvdb.com/series/272599-show/episodes/4641928) | 
-| 2000-06-05 | Dem Täter auf der Spur: Die Hightech-Polizei | [S02E17](https://thetvdb.com/series/272599-show/episodes/4641929) | 
-| 2000-06-06 | Dem Täter auf der Spur: Die Kunst des Fälschens | [S02E18](https://thetvdb.com/series/272599-show/episodes/4641930) | 
-| 2000-06-07 | Dem Täter auf der Spur: Geheimnisse der Toten | [S02E19](https://thetvdb.com/series/272599-show/episodes/4641931) | 
-| 2000-06-08 | Dem Täter auf der Spur: Psycho-Detektive | [S02E20](https://thetvdb.com/series/272599-show/episodes/4641932) | 
-| 2000-09-04 | Im Reich der Meere: Das Fenster zum Meer - Im Großaquarium von Sydney | [S02E21](https://thetvdb.com/series/272599-show/episodes/4824557) | 
-| 2000-09-05 | Im Reich der Meere: Schwarze Brandung - Nach der Ölkatastrophe an der bretonischen Küste | [S02E22](https://thetvdb.com/series/272599-show/episodes/4824558) | 
-| 2000-09-06 | Im Reich der Meere: Durst nach Meer - Neue Methoden der Trinkwassergewinnung | [S02E23](https://thetvdb.com/series/272599-show/episodes/4824559) | 
-| 2000-09-07 | Im Reich der Meere: SOS auf hoher See - Moderne Rettungstechnik im Einsatz | [S02E24](https://thetvdb.com/series/272599-show/episodes/4824560) | 
-| 2000-10-02 | Die Geheimnisse des Waldes: Die Feuerpatrouille | [S02E25](https://thetvdb.com/series/272599-show/episodes/4824561) | 
-| 2000-10-03 | Die Geheimnisse des Waldes: Der letzte Märchenwald | [S02E26](https://thetvdb.com/series/272599-show/episodes/4824562) | 
-| 2000-10-04 | Die Geheimnisse des Waldes: Chinas grüne Mauer | [S02E27](https://thetvdb.com/series/272599-show/episodes/4824563) | 
-| 2000-10-05 | Die Geheimnisse des Waldes: Die Waldfabrik | [S02E28](https://thetvdb.com/series/272599-show/episodes/4824564) | 
-| 2000-11-06 | Leben am Limit / Grenzen des Körpers: Himalaja - Tödliche Höhe | [S02E29](https://thetvdb.com/series/272599-show/episodes/4824565) | 
-| 2000-11-07 | Leben am Limit / Grenzen des Körpers: Apnoe-Taucher - Im Tiefenrausch | [S02E30](https://thetvdb.com/series/272599-show/episodes/4824566) | 
-| 2000-11-08 | Leben am Limit / Grenzen des Körpers: Radrennen - Ewiger Endspurt | [S02E31](https://thetvdb.com/series/272599-show/episodes/4824567) | 
-| 2000-11-09 | Leben am Limit / Grenzen des Körpers: Sadhus - Heilige Aussteiger | [S02E32](https://thetvdb.com/series/272599-show/episodes/4824568) | 
-| 2000-12-04 | Tiere im Rampenlicht: Die Elefantenschule | [S02E33](https://thetvdb.com/series/272599-show/episodes/4824569) | 
-| 2000-12-05 | Tiere im Rampenlicht: Der Rentier-Trek | [S02E34](https://thetvdb.com/series/272599-show/episodes/4824570) | 
-| 2000-12-06 | Tiere im Rampenlicht: Nicht ohne meinen Hund | [S02E35](https://thetvdb.com/series/272599-show/episodes/4824571) | 
-| 2000-12-07 | Tiere im Rampenlicht: Kamele im Rennen | [S02E36](https://thetvdb.com/series/272599-show/episodes/4824572) | 
-|  | Überleben in der Wüste: Timbuktu | [S03E01](https://thetvdb.com/series/272599-show/episodes/4641935) | 
-| 2001-01-03 | Überleben in der Wüste: Die Frucht, die aus der Dürre kam | [S03E02](https://thetvdb.com/series/272599-show/episodes/4641936) | 
-|  | Überleben in der Wüste: Baumeister der Wüste | [S03E03](https://thetvdb.com/series/272599-show/episodes/4641937) | 
-| 2001-01-05 | Überleben in der Wüste: Wüste auf Bewährung | [S03E04](https://thetvdb.com/series/272599-show/episodes/4641938) | 
-| 2001-03-05 | Die Baustelle des Herrn | [S03E05](https://thetvdb.com/series/272599-show/episodes/4641939) | 
-| 2001-03-06 | Retter des Nebelwaldes | [S03E06](https://thetvdb.com/series/272599-show/episodes/4641940) | 
-| 2001-03-07 | Hollywood auf dem Trockenen | [S03E07](https://thetvdb.com/series/272599-show/episodes/4641941) | 
-| 2001-03-08 | Die Adern von Berlin - Der Wasserkreislauf einer Metropole | [S03E08](https://thetvdb.com/series/272599-show/episodes/4641942) | 
-| 2001-04-09 | Operation Alpentunnel | [S03E09](https://thetvdb.com/series/272599-show/episodes/4641943) | 
-| 2001-04-10 | Brücke in den Orient | [S03E10](https://thetvdb.com/series/272599-show/episodes/4641944) | 
-| 2001-04-11 | Die letzten Nixen - die Taucherinnen von Cheju | [S03E11](https://thetvdb.com/series/272599-show/episodes/4641945) | 
-| 2001-04-12 | Die Fischer vom Rio Negro | [S03E12](https://thetvdb.com/series/272599-show/episodes/4641946) | 
-| 2001-04-30 | Anatomie einer Lawine | [S03E13](https://thetvdb.com/series/272599-show/episodes/4641947) | 
-| 2001-05-01 | Die Erbin Gandhis - Widerstand gegen einen Staudamm | [S03E14](https://thetvdb.com/series/272599-show/episodes/4641948) | 
-| 2001-05-02 | Die Spur der Wüstenkrokodile | [S03E15](https://thetvdb.com/series/272599-show/episodes/4641949) | 
-| 2001-05-03 | Invasion der Biber | [S03E16](https://thetvdb.com/series/272599-show/episodes/4641950) | 
-| 2001-06-04 | Kumbh Mela - Das größte Fest der Welt | [S03E17](https://thetvdb.com/series/272599-show/episodes/4641951) | 
-| 2001-06-05 | Buzkashi - Spiel der Steppenreiter | [S03E18](https://thetvdb.com/series/272599-show/episodes/4641952) | 
-| 2001-06-06 | Wasser im Tank | [S03E19](https://thetvdb.com/series/272599-show/episodes/4641953) | 
-| 2001-06-07 | Stau am Himmel | [S03E20](https://thetvdb.com/series/272599-show/episodes/4641954) | 
-| 2001-09-03 | Das Waisenhaus der Affen | [S03E21](https://thetvdb.com/series/272599-show/episodes/4641955) | 
-| 2001-09-04 | Die Bisonwächter | [S03E22](https://thetvdb.com/series/272599-show/episodes/4641956) | 
-| 2001-09-05 | Die Farm der Schmetterlinge | [S03E23](https://thetvdb.com/series/272599-show/episodes/4641957) | 
-| 2001-09-06 | Fährtensucher online | [S03E24](https://thetvdb.com/series/272599-show/episodes/4641958) | 
-| 2001-10-01 | Nepals verkaufte Töchter | [S03E25](https://thetvdb.com/series/272599-show/episodes/4641959) | 
-| 2001-10-03 | Die Stadt der Diamanten | [S03E26](https://thetvdb.com/series/272599-show/episodes/4641960) | 
-| 2001-10-04 | Gaucho auf Lebenszeit | [S03E27](https://thetvdb.com/series/272599-show/episodes/4641961) | 
-| 2001-10-05 | Der Großvater der Massai | [S03E28](https://thetvdb.com/series/272599-show/episodes/4641962) | 
-| 2002-02-04 | Cunahá - Tod im Regenwald | [S04E01](https://thetvdb.com/series/272599-show/episodes/4641963) | 
-| 2002-02-05 | Walverwandtschaften | [S04E02](https://thetvdb.com/series/272599-show/episodes/4641964) | 
-| 2002-02-06 | Wildreis - Der grüne Schatz der kanadischen Ojibwa -Indianer | [S04E03](https://thetvdb.com/series/272599-show/episodes/4641965) | 
-| 2002-02-07 | Party für eine Leiche - Das Fest der Ahnen in Madagaskar | [S04E04](https://thetvdb.com/series/272599-show/episodes/4641966) | 
-| 2002-03-04 | Filmstars im Pelz | [S04E05](https://thetvdb.com/series/272599-show/episodes/4641967) | 
-| 2002-03-05 | Hongkongs fliegende Küchen | [S04E06](https://thetvdb.com/series/272599-show/episodes/4641968) | 
-| 2002-03-06 | Die Herren der Adler - Kasachische Jäger und ihre Greifvögel | [S04E07](https://thetvdb.com/series/272599-show/episodes/4641969) | 
-| 2002-03-07 | Safran - Ein blühendes Geschäft | [S04E08](https://thetvdb.com/series/272599-show/episodes/4641970) | 
-| 2002-04-01 | Der Dreh mit den Havannas - Die Zigarrenfälschung | [S04E09](https://thetvdb.com/series/272599-show/episodes/4641971) | 
-| 2002-04-02 | Ein göttlicher Zug - das rollende Gotteshaus in Russland | [S04E10](https://thetvdb.com/series/272599-show/episodes/4641972) | 
-| 2002-04-03 | Sinfonie der Straße - Kinderorchester in Venezuela | [S04E11](https://thetvdb.com/series/272599-show/episodes/4641973) | 
-| 2002-05-06 | Ticket in ein neues Leben - Der Lifeline Express in Indien | [S04E12](https://thetvdb.com/series/272599-show/episodes/4641974) | 
-| 2002-05-07 | Die Bernsteintaucher | [S04E13](https://thetvdb.com/series/272599-show/episodes/4641975) | 
-| 2002-05-08 | Mumien im Ausverkauf | [S04E14](https://thetvdb.com/series/272599-show/episodes/4641976) | 
-| 2002-05-09 | Die Minensucher von Kabul | [S04E15](https://thetvdb.com/series/272599-show/episodes/4641977) | 
-| 2002-06-03 | Bermuda: Schatzsuche in der Tiefsee | [S04E16](https://thetvdb.com/series/272599-show/episodes/4641978) | 
-| 2002-06-04 | Die Legende von den Killerbienen | [S04E17](https://thetvdb.com/series/272599-show/episodes/4641979) | 
-| 2002-06-05 | Die Schule der Inuit | [S04E18](https://thetvdb.com/series/272599-show/episodes/4641980) | 
-| 2002-06-06 | Peones - Verkannte Helden | [S04E19](https://thetvdb.com/series/272599-show/episodes/4641981) | 
-| 2002-09-02 | Sir Peter Blake - Expedition ins ewige Eis | [S04E20](https://thetvdb.com/series/272599-show/episodes/4641982) | 
-| 2002-09-03 | Im Wald der Vampire | [S04E21](https://thetvdb.com/series/272599-show/episodes/4641983) | 
-| 2002-09-04 | Nashörner unter dem Hammer | [S04E22](https://thetvdb.com/series/272599-show/episodes/4641984) | 
-| 2002-09-05 | Warten auf den Monsun | [S04E23](https://thetvdb.com/series/272599-show/episodes/4641985) | 
-| 2002-10-07 | Palmasola - Dorf hinter Gittern | [S04E24](https://thetvdb.com/series/272599-show/episodes/4641986) | 
-| 2002-10-08 | Bilder hören - Die blinden Kinder von Tibet | [S04E25](https://thetvdb.com/series/272599-show/episodes/4641987) | 
-| 2002-10-09 | Der Blechmusik-Oscar | [S04E26](https://thetvdb.com/series/272599-show/episodes/4641988) | 
-| 2002-10-10 | Die Riesenflöße vom Jenissej - Ein Floßschiffer auf seiner Fahrt zum Polarmeer | [S04E27](https://thetvdb.com/series/272599-show/episodes/4641989) | 
-| 2002-11-04 | Heiratsmarkt in Marokko | [S04E28](https://thetvdb.com/series/272599-show/episodes/4641990) | 
-| 2002-11-05 | Die türkischen Hochzeitsmacher | [S04E29](https://thetvdb.com/series/272599-show/episodes/4641991) | 
-| 2002-11-06 | Die Frachtensegler von Madagaskar | [S04E30](https://thetvdb.com/series/272599-show/episodes/4641992) | 
-| 2002-11-07 | Die Abalone-Wilderer - Der Kampf um den Erhalt einer Seeschneckenart | [S04E31](https://thetvdb.com/series/272599-show/episodes/4641993) | 
-| 2003-01-06 | Die Mörderinnen von Targsor - Das einzige Frauengefängnis in Rumänien | [S05E01](https://thetvdb.com/series/272599-show/episodes/4641994) | 
-| 2003-01-07 | Das Metall aus dem Vulkan | [S05E02](https://thetvdb.com/series/272599-show/episodes/4641995) | 
-| 2003-01-08 | Die Söldner der Perlen - Der lebensgefährliche Job | [S05E03](https://thetvdb.com/series/272599-show/episodes/4641996) | 
-| 2003-01-09 | Hongkongs Bambusakrobaten | [S05E04](https://thetvdb.com/series/272599-show/episodes/4641997) | 
-| 2003-02-03 | Mission Nordkorea | [S05E05](https://thetvdb.com/series/272599-show/episodes/4641998) | 
-| 2003-02-04 | Radios gegen Kalaschnikows | [S05E06](https://thetvdb.com/series/272599-show/episodes/4641999) | 
-| 2003-02-05 | Die Hightech-Oase - Auf der größten Milchfarm der Welt | [S05E07](https://thetvdb.com/series/272599-show/episodes/4642000) | 
-| 2003-02-06 | Videofabrik Nigeria | [S05E08](https://thetvdb.com/series/272599-show/episodes/4642001) | 
-| 2003-03-03 | Beuteltiere an der Börse | [S05E09](https://thetvdb.com/series/272599-show/episodes/4642002) | 
-| 2003-03-04 | Hongkong - Pferde und Millionen | [S05E10](https://thetvdb.com/series/272599-show/episodes/4642003) | 
-| 2003-03-05 | Wo der wilde Kaffee wächst | [S05E11](https://thetvdb.com/series/272599-show/episodes/4642004) | 
-| 2003-03-06 | Rückkehr der Meeresschildkröten | [S05E12](https://thetvdb.com/series/272599-show/episodes/4642005) | 
-| 2003-04-07 | Samoa Queens - Männer, die als Frauen leben | [S05E13](https://thetvdb.com/series/272599-show/episodes/4642006) | 
-| 2003-04-08 | Einsatz für den Amur-Tiger | [S05E14](https://thetvdb.com/series/272599-show/episodes/4642007) | 
-| 2003-04-09 | Die Seelensammler von Bangkok | [S05E15](https://thetvdb.com/series/272599-show/episodes/4642008) | 
-| 2003-04-10 | Der Vogelhändler von Guangzhou | [S05E16](https://thetvdb.com/series/272599-show/episodes/4642009) | 
-| 2004-01-03 | Goldrausch in Sibirien | [S06E01](https://thetvdb.com/series/272599-show/episodes/4642020) | 
-| 2004-02-28 | Die Waldbahn der Karpaten | [S06E02](https://thetvdb.com/series/272599-show/episodes/4642021) | 
-| 2004-03-27 | Das Vermächtnis der Marquesas-Inseln | [S06E03](https://thetvdb.com/series/272599-show/episodes/4642022) | 
-| 2004-04-24 | Joaquims wilde Reiter | [S06E04](https://thetvdb.com/series/272599-show/episodes/4642023) | 
-| 2004-05-29 | Johannesburg - Eine Stadt macht dicht | [S06E05](https://thetvdb.com/series/272599-show/episodes/4642024) | 
-| 2004-06-26 | Paco Pacos - Die Knatterkisten vom Amazonas | [S06E06](https://thetvdb.com/series/272599-show/episodes/4642025) | 
-| 2004-07-10 | Das Parlament der Kinder | [S06E07](https://thetvdb.com/series/272599-show/episodes/4642026) | 
-| 2004-07-31 | Die Bogenschützin von Bhutan | [S06E08](https://thetvdb.com/series/272599-show/episodes/4642027) | 
-| 2004-09-04 | Überleben am Manila Express | [S06E09](https://thetvdb.com/series/272599-show/episodes/4642028) | 
-| 2004-09-11 | Das Mysterium der sibirischen Mumie | [S06E10](https://thetvdb.com/series/272599-show/episodes/4642029) | 
-| 2004-09-18 | Razzia im Regenwald | [S06E11](https://thetvdb.com/series/272599-show/episodes/4642031) | 
-| 2004-10-16 | In acht Meilen um die Welt | [S06E12](https://thetvdb.com/series/272599-show/episodes/4642033) | 
-| 2004-10-30 | Alphadi und die Farben der Wüste | [S06E13](https://thetvdb.com/series/272599-show/episodes/4642034) | 
-| 2004-11-06 | Die Verwandlungskünstler von Dakar | [S06E14](https://thetvdb.com/series/272599-show/episodes/4642036) | 
-| 2004-11-13 | Kalifornien auf die harte Tour | [S06E15](https://thetvdb.com/series/272599-show/episodes/4642037) | 
-| 2004-11-20 | Der Polarflieger - Ein Pilot in Sibirien | [S06E16](https://thetvdb.com/series/272599-show/episodes/4642038) | 
-| 2004-11-27 | Dagestan - Land über den Wolken | [S06E17](https://thetvdb.com/series/272599-show/episodes/4642039) | 
-| 2004-12-04 | Die versunkenen Flugzeuge | [S06E18](https://thetvdb.com/series/272599-show/episodes/4642040) | 
-| 2004-12-30 | Ein Traum von Schokolade | [S06E19](https://thetvdb.com/series/272599-show/episodes/4642041) | 
-| 2005-01-08 | Die rasenden Engel der Línea 5 | [S07E01](https://thetvdb.com/series/272599-show/episodes/4642146) | 
-| 2005-01-22 | Das Dschungel-Orchester | [S07E02](https://thetvdb.com/series/272599-show/episodes/4642147) | 
-| 2005-01-29 | Überleben in der Wüste - Straffällig gewordene Jugendliche in Arizona | [S07E03](https://thetvdb.com/series/272599-show/episodes/4642148) | 
-| 2005-02-26 | Der Wüstendoktor | [S07E04](https://thetvdb.com/series/272599-show/episodes/4642149) | 
-| 2005-04-09 | Die Kichwa-Krieger und das Öl | [S07E05](https://thetvdb.com/series/272599-show/episodes/4642150) | 
-| 2005-05-07 | Überleben am Manila-Express | [S07E06](https://thetvdb.com/series/272599-show/episodes/4642151) | 
-| 2005-05-21 | Honeymoon auf Hainan | [S07E07](https://thetvdb.com/series/272599-show/episodes/4642152) | 
-| 2005-06-25 | Kambodscha - Die Seele der Seide | [S07E08](https://thetvdb.com/series/272599-show/episodes/4642153) | 
-| 2005-07-09 | Das Postschiff zum Ende der Welt | [S07E09](https://thetvdb.com/series/272599-show/episodes/4642154) | 
-| 2005-08-06 | Vagabunden der Wüste - Kamelzüchter in der Mongolei | [S07E10](https://thetvdb.com/series/272599-show/episodes/4642155) | 
-| 2005-09-17 | Die Mutter der Bonobos | [S07E11](https://thetvdb.com/series/272599-show/episodes/4642156) | 
-| 2005-09-24 | Die Eisenbahn vom Baikal zum Amur | [S07E12](https://thetvdb.com/series/272599-show/episodes/4642157) | 
-| 2005-10-01 | Ein göttlicher Zug | [S07E13](https://thetvdb.com/series/272599-show/episodes/4642158) | 
-| 2005-10-01 | Ticket in ein neues Leben | [S07E14](https://thetvdb.com/series/272599-show/episodes/4642159) | 
-| 2005-10-08 | Das schwimmende Krankenhaus vom Amazonas | [S07E15](https://thetvdb.com/series/272599-show/episodes/4642160) | 
-| 2005-10-22 | Der weiße Berg von Feuerland | [S07E16](https://thetvdb.com/series/272599-show/episodes/4642161) | 
-| 2005-11-12 | Mecaniqueros - Nichts ist unmöglich in Havanna | [S07E17](https://thetvdb.com/series/272599-show/episodes/4642162) | 
-| 2005-12-10 | Eremitage - Palast der Katzen | [S07E18](https://thetvdb.com/series/272599-show/episodes/4642163) | 
-| 2005-12-17 | Traumberuf Schäfer | [S07E19](https://thetvdb.com/series/272599-show/episodes/4642164) | 
-| 2005-12-24 | Die Kinder des Vater Nikolai | [S07E20](https://thetvdb.com/series/272599-show/episodes/4642165) | 
-| 2006-01-14 | Im Land der Schwarzen Witwen | [S08E01](https://thetvdb.com/series/272599-show/episodes/4642167) | 
-| 2006-02-04 | Polen - Ärger im Revier | [S08E02](https://thetvdb.com/series/272599-show/episodes/4642168) | 
-| 2006-03-25 | Lust auf Liebe in Lisdoonvarna | [S08E03](https://thetvdb.com/series/272599-show/episodes/4642169) | 
-| 2006-04-08 | Kung-Fu - Chinas neue Kämpferinnen | [S08E04](https://thetvdb.com/series/272599-show/episodes/4642170) | 
-| 2006-04-22 | Highway durch die Arktis | [S08E05](https://thetvdb.com/series/272599-show/episodes/4642171) | 
-| 2006-05-27 | Churubamba - Frauen am Ball | [S08E06](https://thetvdb.com/series/272599-show/episodes/4642172) | 
-| 2006-07-29 | Chicagos Stahlmänner - Abriss und Wiederaufbau eines Hochofens | [S08E07](https://thetvdb.com/series/272599-show/episodes/4642173) | 
-| 2006-07-29 | Die schwimmenden Dörfer der Ha Long Bucht | [S08E08](https://thetvdb.com/series/272599-show/episodes/4642174) | 
-| 2006-08-26 | Von Männern und Mustangs | [S08E09](https://thetvdb.com/series/272599-show/episodes/4642175) | 
-| 2006-09-09 | Tasmanien: Wächterin im Paradies | [S08E10](https://thetvdb.com/series/272599-show/episodes/4642176) | 
-| 2006-09-16 | Die Teebahn von Darjeeling | [S08E11](https://thetvdb.com/series/272599-show/episodes/4642177) | 
-| 2006-10-07 | Die Millionen-Dollar-Hirsche | [S08E12](https://thetvdb.com/series/272599-show/episodes/4642178) | 
-| 2006-10-14 | Die Dächer von Kairo | [S08E13](https://thetvdb.com/series/272599-show/episodes/4642179) | 
-| 2006-10-21 | Die Trommler von Burundi | [S08E14](https://thetvdb.com/series/272599-show/episodes/4642180) | 
-| 2006-11-04 | Saphir-Fieber auf Madagaskar | [S08E15](https://thetvdb.com/series/272599-show/episodes/4642181) | 
-| 2006-11-18 | Auf den Spuren der Wikinger | [S08E16](https://thetvdb.com/series/272599-show/episodes/4642182) | 
-| 2006-12-02 | Chile - Segen und Fluch einer Kupfermine | [S08E17](https://thetvdb.com/series/272599-show/episodes/4642183) | 
-| 2006-12-16 | Buddhas Kinder im Goldenen Dreieck | [S08E18](https://thetvdb.com/series/272599-show/episodes/4642184) | 
-| 2006-12-23 | Eritrea - Ein Esel für die Zukunft | [S08E19](https://thetvdb.com/series/272599-show/episodes/4642185) | 
-| 2007-01-06 | Hai-Alarm in Polynesien | [S09E01](https://thetvdb.com/series/272599-show/episodes/4642205) | 
-| 2007-01-27 | Sumatra - Ettis Schönheitssalon | [S09E02](https://thetvdb.com/series/272599-show/episodes/4642206) | 
-| 2007-02-10 | Kenia: Das Dorf der Frauen | [S09E03](https://thetvdb.com/series/272599-show/episodes/4642207) | 
-| 2007-03-03 | Boliviens junge Wilde | [S09E04](https://thetvdb.com/series/272599-show/episodes/4642208) | 
-| 2007-03-24 | Ein Dorfladen reist durch Lettland | [S09E05](https://thetvdb.com/series/272599-show/episodes/4642209) | 
-| 2007-04-07 | Miyako: Die Insel des langen Lebens | [S09E06](https://thetvdb.com/series/272599-show/episodes/4642210) | 
-| 2007-04-21 | Die Sandmenschen von Schoina | [S09E07](https://thetvdb.com/series/272599-show/episodes/4642211) | 
-| 2007-05-05 | Bangkoks krabbelnde Delikatessen | [S09E08](https://thetvdb.com/series/272599-show/episodes/4642212) | 
-| 2007-05-12 | Die Windreiter der Anden | [S09E09](https://thetvdb.com/series/272599-show/episodes/4642213) | 
-| 2007-06-02 | Der Lachszähler von Kamtschatka | [S09E10](https://thetvdb.com/series/272599-show/episodes/4642214) | 
-| 2007-06-09 | Kamtschatka: Kochende Erde | [S09E11](https://thetvdb.com/series/272599-show/episodes/4642215) | 
-| 2007-06-30 | Venezuela: Die alte Frau und das Meer | [S09E12](https://thetvdb.com/series/272599-show/episodes/4642216) | 
-| 2007-08-11 | Die Krabbenflut | [S09E13](https://thetvdb.com/series/272599-show/episodes/4642217) | 
-| 2007-09-01 | Thailand: Kinder im Ring | [S09E14](https://thetvdb.com/series/272599-show/episodes/4642245) | 
-| 2007-09-08 | Kolumbien: Ein Riesenrad auf Reisen | [S09E15](https://thetvdb.com/series/272599-show/episodes/4642246) | 
-| 2007-09-15 | Rio: Vom Strich auf den Laufsteg | [S09E16](https://thetvdb.com/series/272599-show/episodes/4642247) | 
-| 2007-09-22 | Oman: Die Rosen der Wüste | [S09E17](https://thetvdb.com/series/272599-show/episodes/4642248) | 
-| 2007-11-03 | Brasilien: Büffel auf Streife | [S09E18](https://thetvdb.com/series/272599-show/episodes/4642249) | 
-| 2007-11-10 | Der Ottermann von Ungarn | [S09E19](https://thetvdb.com/series/272599-show/episodes/4642250) | 
-| 2007-11-17 | Attila und die Pferde der Puszta | [S09E20](https://thetvdb.com/series/272599-show/episodes/4642251) | 
-| 2007-11-25 | Peru: Delfine in Gefahr | [S09E21](https://thetvdb.com/series/272599-show/episodes/4642252) | 
-| 2007-12-01 | Postbote im Himalaya | [S09E22](https://thetvdb.com/series/272599-show/episodes/4642253) | 
-| 2007-12-08 | Wenzhou, die Schuh-Stadt von China | [S09E23](https://thetvdb.com/series/272599-show/episodes/4642254) | 
-| 2007-12-15 | Alligatorjagd in Florida | [S09E24](https://thetvdb.com/series/272599-show/episodes/4642255) | 
-| 2007-12-22 | Russlands Zirkusschule auf Tour | [S09E25](https://thetvdb.com/series/272599-show/episodes/4642256) | 
-| 2007-12-29 | Auf Schlangenfang in Kambodscha | [S09E26](https://thetvdb.com/series/272599-show/episodes/4642257) | 
-| 2008-01-21 | Hexenwahn in Tansania | [S10E01](https://thetvdb.com/series/272599-show/episodes/4642259) | 
-| 2008-01-25 | Die Kämpferinnen von Mexiko | [S10E02](https://thetvdb.com/series/272599-show/episodes/4642260) | 
-| 2008-02-25 | Die Minenratten von Tansania | [S10E03](https://thetvdb.com/series/272599-show/episodes/4642261) | 
-| 2008-02-28 | Philippinen: Rendezvous mit einem Adler | [S10E04](https://thetvdb.com/series/272599-show/episodes/4642262) | 
-| 2008-03-25 | Die Köchin von Bahia | [S10E05](https://thetvdb.com/series/272599-show/episodes/4642263) | 
-| 2008-03-27 | Der Kräutergarten von Java | [S10E06](https://thetvdb.com/series/272599-show/episodes/4642264) | 
-| 2008-04-21 | An den Ufern der Loire | [S10E07](https://thetvdb.com/series/272599-show/episodes/4642265) | 
-| 2008-04-22 | Rom - Das Leben der Komparsen | [S10E08](https://thetvdb.com/series/272599-show/episodes/4642266) | 
-| 2008-05-26 | Kanadas Buschpiloten im Einsatz | [S10E09](https://thetvdb.com/series/272599-show/episodes/4642267) | 
-| 2008-07-26 | Mauretanien: Aufstand der Fischerfrauen | [S10E10](https://thetvdb.com/series/272599-show/episodes/4642268) | 
-| 2008-07-31 | Vom Klassenzimmer in die Kalahari | [S10E11](https://thetvdb.com/series/272599-show/episodes/4642269) | 
-| 2008-08-28 | Nicaragua: Fluch der Langustentaucher | [S10E12](https://thetvdb.com/series/272599-show/episodes/4642270) | 
-| 2008-09-04 | Uganda: Der Weg zum Fahrradtaxi | [S10E13](https://thetvdb.com/series/272599-show/episodes/4642271) | 
-| 2008-09-18 | New York - Die kleinste Oper der Welt | [S10E14](https://thetvdb.com/series/272599-show/episodes/4642272) | 
-| 2008-10-02 | Indien: Das Geschäft mit dem Tempelhaar | [S10E15](https://thetvdb.com/series/272599-show/episodes/4642273) | 
-| 2008-10-16 | Kyushu - Wo Japans grüner Tee wächst | [S10E16](https://thetvdb.com/series/272599-show/episodes/4642274) | 
-| 2008-10-30 | Arganöl - Marokkos weißes Gold | [S10E17](https://thetvdb.com/series/272599-show/episodes/4642275) | 
-| 2008-11-06 | Das Geheimnis der Schweizer Uhren | [S10E18](https://thetvdb.com/series/272599-show/episodes/4642276) | 
-| 2008-11-13 | Johana - Make-up und Motorenöl | [S10E19](https://thetvdb.com/series/272599-show/episodes/4642277) | 
-| 2008-11-27 | Rio de la Plata - SOS am Silberfluss | [S10E20](https://thetvdb.com/series/272599-show/episodes/4642278) | 
-| 2008-12-04 | Der Weinpriester von Bali | [S10E21](https://thetvdb.com/series/272599-show/episodes/4642279) | 
-| 2008-12-11 | Taipeh 101 - Der Himmel über Taiwan | [S10E22](https://thetvdb.com/series/272599-show/episodes/4642280) | 
-| 2008-12-18 | Die einsamen Mönche von Oelenberg | [S10E23](https://thetvdb.com/series/272599-show/episodes/4642281) | 
-| 2009-01-18 | Arktis - Die Route der Atomeisbrecher | [S11E01](https://thetvdb.com/series/272599-show/episodes/4642283) | 
-| 2009-01-24 | Die besten Hütehunde von Wales | [S11E02](https://thetvdb.com/series/272599-show/episodes/4642493) | 
-| 2009-01-31 | Idjwi - Afrikas vergessene Insel | [S11E03](https://thetvdb.com/series/272599-show/episodes/4642284) | 
-| 2009-02-07 | Die Bambusbahn von Kambodscha | [S11E04](https://thetvdb.com/series/272599-show/episodes/4642285) | 
-| 2009-02-21 | Nepal: Die Krieger vom Dach der Welt | [S11E05](https://thetvdb.com/series/272599-show/episodes/4642286) | 
-| 2009-03-21 | Das Whisky-Geheimnis von Islay | [S11E06](https://thetvdb.com/series/272599-show/episodes/4642287) | 
-| 2009-04-18 | Biberkrieg in Bayern | [S11E07](https://thetvdb.com/series/272599-show/episodes/4642288) | 
-| 2009-05-18 | Die Feuerflieger von Valencia | [S11E08](https://thetvdb.com/series/272599-show/episodes/4642290) | 
-| 2009-05-02 | Kaviar - Der Schatz aus dem Iran! | [S11E09](https://thetvdb.com/series/272599-show/episodes/4642289) | 
-| 2009-05-24 | Georgien: Die Wiege des Weins | [S11E10](https://thetvdb.com/series/272599-show/episodes/4642292) | 
-| 2009-05-30 | Die Magellan-Lotsen | [S11E11](https://thetvdb.com/series/272599-show/episodes/4642293) | 
-| 2009-07-05 | Die Falkenärztin von Abu Dhabi | [S11E12](https://thetvdb.com/series/272599-show/episodes/4642294) | 
-| 2009-07-25 | Sokotra, Schatzinsel in Gefahr | [S11E13](https://thetvdb.com/series/272599-show/episodes/4642296) | 
-| 2009-08-08 | Jemens verschleierte Zukunft | [S11E14](https://thetvdb.com/series/272599-show/episodes/4642298) | 
-| 2009-08-22 | Neuseelands Lauf der Extreme | [S11E15](https://thetvdb.com/series/272599-show/episodes/4642492) | 
-| 2009-09-12 | Die Narzisseninsel vor Cornwall | [S11E16](https://thetvdb.com/series/272599-show/episodes/4642494) | 
-| 2009-09-13 | Die Todesküste von Galicien | [S11E17](https://thetvdb.com/series/272599-show/episodes/4642495) | 
-| 2009-09-26 | Das Salz der Inka | [S11E18](https://thetvdb.com/series/272599-show/episodes/4642496) | 
-| 2009-10-10 | Die Holzfäller von British Columbia | [S11E19](https://thetvdb.com/series/272599-show/episodes/4642497) | 
-| 2009-10-31 | Die neuen Nomaden von Kirgisistan | [S11E20](https://thetvdb.com/series/272599-show/episodes/4642498) | 
-| 2009-11-01 | Die Meerfrauen von Japan | [S11E21](https://thetvdb.com/series/272599-show/episodes/4642499) | 
-| 2009-11-14 | Paraguays neue Häuser | [S11E22](https://thetvdb.com/series/272599-show/episodes/4642500) | 
-| 2009-11-28 | Ein Baumhaus in Costa Rica | [S11E23](https://thetvdb.com/series/272599-show/episodes/4642501) | 
-| 2009-12-12 | Ruanda: Land der Frauen | [S11E24](https://thetvdb.com/series/272599-show/episodes/4642502) | 
-| 2009-12-19 | Saint-Pierre und Miquelon: Archipel in der Isolation | [S11E25](https://thetvdb.com/series/272599-show/episodes/4642503) | 
-| 2009-12-26 | Saint Helena: Vergessen im Atlantik | [S11E26](https://thetvdb.com/series/272599-show/episodes/4642504) | 
-| 2010-01-09 | Vietnams vermintes Paradies | [S12E01](https://thetvdb.com/series/272599-show/episodes/4642507) | 
-| 2010-01-30 | Spitzbergen, eisige Insel | [S12E02](https://thetvdb.com/series/272599-show/episodes/4642508) | 
-| 2010-02-06 | Hawaii: Beachboys auf Patrouille | [S12E03](https://thetvdb.com/series/272599-show/episodes/4642509) | 
-| 2010-02-20 | SOS in den Rocky Mountains | [S12E04](https://thetvdb.com/series/272599-show/episodes/4642510) | 
-| 2010-03-06 | Die letzten Kamelkarawanen der Sahara | [S12E05](https://thetvdb.com/series/272599-show/episodes/4642511) | 
-| 2010-03-27 | Mit der Lok durch Angola | [S12E06](https://thetvdb.com/series/272599-show/episodes/4642512) | 
-| 2010-04-10 | Wilde Pferde im Donaudelta | [S12E07](https://thetvdb.com/series/272599-show/episodes/4642513) | 
-| 2010-04-24 | Cranberrysaison auf Cap Cod | [S12E08](https://thetvdb.com/series/272599-show/episodes/4642514) | 
-| 2010-05-29 | Indiens Dschungelbuchklinik | [S12E09](https://thetvdb.com/series/272599-show/episodes/4642515) | 
-| 2010-06-12 | Unterwegs mit der Irish Coast Guard | [S12E10](https://thetvdb.com/series/272599-show/episodes/4642518) | 
-| 2010-09-04 | Jillaroos - Cowgirls im australischen Outback | [S12E11](https://thetvdb.com/series/272599-show/episodes/4642517) | 
-| 2010-09-11 | Das Volk der Bishnoi - Tierliebe bis in den Tod | [S12E12](https://thetvdb.com/series/272599-show/episodes/4642527) | 
-| 2010-09-18 | Falklandinseln - Pinguine auf dem Vormarsch | [S12E13](https://thetvdb.com/series/272599-show/episodes/4642516) | 
-| 2010-10-09 | Taipan, die gefährlichste Schlange der Welt | [S12E14](https://thetvdb.com/series/272599-show/episodes/4642519) | 
-| 2010-10-16 | Baikalsee, ein Wintermärchen | [S12E15](https://thetvdb.com/series/272599-show/episodes/4642520) | 
-| 2010-11-06 | Legende auf Schienen - Skandinaviens Kirunabahn | [S12E16](https://thetvdb.com/series/272599-show/episodes/4642522) | 
-| 2010-11-20 | Sikkim: Das alte Wissen der Schamanen | [S12E17](https://thetvdb.com/series/272599-show/episodes/4777543) | 
-| 2010-12-11 | Die verrückten Karren des Mister Winfield | [S12E18](https://thetvdb.com/series/272599-show/episodes/4642523) | 
-| 2010-12-18 | Anatolien, das Land wo die Aprikosen blühen | [S12E19](https://thetvdb.com/series/272599-show/episodes/4642524) | 
-| 2010-12-25 | Laetitia - allein unter Wölfen | [S12E20](https://thetvdb.com/series/272599-show/episodes/4642526) | 
-| 2011-01-01 | Fremdenlegion - die Hölle im Regenwald | [S13E01](https://thetvdb.com/series/272599-show/episodes/4642528) | 
-| 2011-01-08 | Der Affenflüsterer | [S13E02](https://thetvdb.com/series/272599-show/episodes/4642530) | 
-| 2011-01-15 | Sardinien: Stolz und Ehre hoch zu Ross | [S13E03](https://thetvdb.com/series/272599-show/episodes/4642531) | 
-| 2011-01-22 | Die Feuerspringer von Sibirien | [S13E04](https://thetvdb.com/series/272599-show/episodes/4642532) | 
-| 2011-01-29 | Island: Leben auf dem Pulverfass | [S13E05](https://thetvdb.com/series/272599-show/episodes/4642533) | 
-| 2011-02-05 | Polarschule der Nomadenkinder | [S13E06](https://thetvdb.com/series/272599-show/episodes/4642534) | 
-| 2011-02-12 | Das Perlenimperium von Palawan | [S13E07](https://thetvdb.com/series/272599-show/episodes/4642535) | 
-| 2011-02-19 | Marokko - die andere Seite des Paradieses | [S13E08](https://thetvdb.com/series/272599-show/episodes/4642536) | 
-| 2011-02-26 | Eine Fähre nach Afrika | [S13E09](https://thetvdb.com/series/272599-show/episodes/4642538) | 
-| 2011-04-09 | Großglockner, König der Hochalpen | [S13E10](https://thetvdb.com/series/272599-show/episodes/4642540) | 
-| 2011-04-23 | Champagner für alle! | [S13E11](https://thetvdb.com/series/272599-show/episodes/4642541) | 
-| 2011-05-07 | Armenien, die Früchte aus dem Paradies | [S13E12](https://thetvdb.com/series/272599-show/episodes/4642542) | 
-| 2011-05-21 | Stilikone Panamahut | [S13E13](https://thetvdb.com/series/272599-show/episodes/4642543) | 
-| 2011-06-04 | Die Halligen mitten im Winter, mitten im Wasser | [S13E14](https://thetvdb.com/series/272599-show/episodes/4642544) | 
-| 2011-06-18 | Jenny und ihre Flughunde | [S13E15](https://thetvdb.com/series/272599-show/episodes/4642545) | 
-| 2011-07-02 | Jordanien, Dynastie der Pferde | [S13E16](https://thetvdb.com/series/272599-show/episodes/4642546) | 
-| 2011-07-16 | In den Smaragdbergen von Bahia | [S13E17](https://thetvdb.com/series/272599-show/episodes/4642547) | 
-| 2011-07-30 | Rum auf Guadeloupe | [S13E18](https://thetvdb.com/series/272599-show/episodes/4642549) | 
-| 2011-09-03 | Sumatras letzte Orang-Utans | [S13E19](https://thetvdb.com/series/272599-show/episodes/4642550) | 
-| 2011-09-24 | Kalmückien - Die Rückkehr der Mönche | [S13E20](https://thetvdb.com/series/272599-show/episodes/4642551) | 
-| 2011-10-15 | Auf der Spur des spanischen Luchses | [S13E21](https://thetvdb.com/series/272599-show/episodes/4642552) | 
-| 2011-10-22 | Palawan - das Dorf der Gefangenen | [S13E22](https://thetvdb.com/series/272599-show/episodes/4642553) | 
-| 2011-10-29 | Der Andenkondor - König der Lüfte | [S13E23](https://thetvdb.com/series/272599-show/episodes/4642554) | 
-| 2011-10-29 | Die Rettungshunde vom Gardasee | [S13E24](https://thetvdb.com/series/272599-show/episodes/4776899) | 
-| 2011-11-12 | Aserbaidschans fahrende Hochzeitmusikanten | [S13E25](https://thetvdb.com/series/272599-show/episodes/4642555) | 
-| 2011-11-19 | Florenz - Fußball bis aufs Blut | [S13E26](https://thetvdb.com/series/272599-show/episodes/4642556) | 
-| 2011-12-03 | Guano - Schatzinseln und Vogeldreck | [S13E27](https://thetvdb.com/series/272599-show/episodes/4642557) | 
-| 2011-12-17 | Lamu, die Insel der Esel | [S13E28](https://thetvdb.com/series/272599-show/episodes/4642558) | 
-| 2011-12-24 | Sark - die Kanalinsel der Queen | [S13E29](https://thetvdb.com/series/272599-show/episodes/4642559) | 
-| 2012-01-07 | Schottland - Kampf, Clan und Königin | [S14E01](https://thetvdb.com/series/272599-show/episodes/4642562) | 
-| 2012-01-28 | Die scharfen Klingen der Auvergne | [S14E02](https://thetvdb.com/series/272599-show/episodes/4642563) | 
-| 2012-02-11 | China: Im Reich der Mosuo-Frauen | [S14E03](https://thetvdb.com/series/272599-show/episodes/4642564) | 
-| 2012-02-25 | Majuli - ein Inselvolk trotzt den Fluten | [S14E04](https://thetvdb.com/series/272599-show/episodes/4642565) | 
-| 2012-03-10 | Lappland: Rushhour im hohen Norden | [S14E05](https://thetvdb.com/series/272599-show/episodes/4642566) | 
-| 2012-03-24 | Wildererjagd am Mount Kenya | [S14E06](https://thetvdb.com/series/272599-show/episodes/4642567) | 
-| 2012-04-05 | Tunesien: Die Suche nach dem Tintenfisch | [S14E07](https://thetvdb.com/series/272599-show/episodes/4642568) | 
-| 2012-05-12 | Bahamas - unverfälscht! | [S14E08](https://thetvdb.com/series/272599-show/episodes/4642569) | 
-| 2012-05-26 | Slab City - wildes Leben in der Wüste | [S14E09](https://thetvdb.com/series/272599-show/episodes/4642570) | 
-| 2012-06-09 | Esmeraldas Edelkakao | [S14E10](https://thetvdb.com/series/272599-show/episodes/4642571) | 
-| 2012-06-23 | So schmeckt Australien! | [S14E11](https://thetvdb.com/series/272599-show/episodes/4642572) | 
-| 2012-07-28 | Jerusalem im Morgengrauen | [S14E12](https://thetvdb.com/series/272599-show/episodes/4642573) | 
-| 2012-09-01 | Die letzten Cowboys der Toskana | [S14E13](https://thetvdb.com/series/272599-show/episodes/4642574) | 
-| 2012-09-15 | Modelsuche in Sibirien | [S14E14](https://thetvdb.com/series/272599-show/episodes/4642577) | 
-| 2012-09-22 | Tanganjikasee: Vom Kanonenboot zum Passagierschiff | [S14E15](https://thetvdb.com/series/272599-show/episodes/4642580) | 
-| 2012-10-20 | Auf dem Floß durch die Schluchten der Tara | [S14E16](https://thetvdb.com/series/272599-show/episodes/4642582) | 
-| 2012-10-27 | Indien: Das größte Schulessen der Welt | [S14E17](https://thetvdb.com/series/272599-show/episodes/4642583) | 
-| 2012-11-03 | Myanmar: Ein Dorf braucht Strom | [S14E18](https://thetvdb.com/series/272599-show/episodes/4642584) | 
-| 2012-11-10 | Bolivien: Lebensader Todesstraße | [S14E19](https://thetvdb.com/series/272599-show/episodes/4642585) | 
-| 2012-11-17 | Die Krabbenfischer von Feuerland | [S14E20](https://thetvdb.com/series/272599-show/episodes/4642587) | 
-| 2012-12-22 | Die Exzentriker der Düfte | [S14E21](https://thetvdb.com/series/272599-show/episodes/4642589) | 
-| 2013-01-19 | Arktis - Ein Junge wird Jäger | [S15E01](https://thetvdb.com/series/272599-show/episodes/4642601) | 
-| 2013-10-01 | Shetland, das Ende des Öls | [S15E02](https://thetvdb.com/series/272599-show/episodes/4791696) | 
-| 2013-02-09 | Mezcal, Hochprozentiges aus Mexiko | [S15E03](https://thetvdb.com/series/272599-show/episodes/4642603) | 
-| 2013-02-16 | Atacamawüste - Leben ohne Wasser | [S15E04](https://thetvdb.com/series/272599-show/episodes/4642604) | 
-| 2013-02-23 | Die letzten Köhler von Rumänien | [S15E05](https://thetvdb.com/series/272599-show/episodes/4642605) | 
-| 2013-03-09 | Island - Der große Schafabtrieb | [S15E06](https://thetvdb.com/series/272599-show/episodes/4642606) | 
-| 2013-03-23 | Bangladesch - Schiff der Hoffnung | [S15E07](https://thetvdb.com/series/272599-show/episodes/4642607) | 
-| 2013-03-30 | Iquitos - Regenwaldmetropole am Amazonas | [S15E08](https://thetvdb.com/series/272599-show/episodes/4642609) | 
-| 2013-05-03 | Die Marmorberge von Italien | [S15E09](https://thetvdb.com/series/272599-show/episodes/4642610) | 
-| 2013-05-17 | Bretagne - von Bienen und Leuchttürmen | [S15E10](https://thetvdb.com/series/272599-show/episodes/4642612) | 
-| 2013-06-15 | Thailands Elefanten, raus aus der Stadt! | [S15E11](https://thetvdb.com/series/272599-show/episodes/4642615) | 
-| 2013-06-22 | Tonga - Paradies der Südsee? | [S15E12](https://thetvdb.com/series/272599-show/episodes/4642617) | 
-| 2013-07-12 | Radio Patagonia | [S15E13](https://thetvdb.com/series/272599-show/episodes/4642619) | 
-| 2013-09-14 | Die Polarbahn | [S15E14](https://thetvdb.com/series/272599-show/episodes/4642620) | 
-| 2013-09-21 | Das Koala-Hospital | [S15E15](https://thetvdb.com/series/272599-show/episodes/4642622) | 
-| 2013-09-28 | Sulawesi - Die letzten Seenomaden | [S15E16](https://thetvdb.com/series/272599-show/episodes/4642625) | 
-| 2013-12-07 | Taiwan - Fliegende Fische oder Atommüll? | [S15E17](https://thetvdb.com/series/272599-show/episodes/4779225) | 
-| 2013-10-12 | Rattenjagd im Südpolarmeer | [S15E18](https://thetvdb.com/series/272599-show/episodes/4642602) | 
-| 2013-10-19 | Costa Rica - Leben wie die Faultiere | [S15E19](https://thetvdb.com/series/272599-show/episodes/4791697) | 
-| 2013-10-26 | Der fröhliche Friedhof von Rumänien | [S15E20](https://thetvdb.com/series/272599-show/episodes/4812703) | 
-| 2013-11-09 | Mustang - Flucht aus den Bergen | [S15E21](https://thetvdb.com/series/272599-show/episodes/4812706) | 
-| 2013-11-23 | Chivas, Kolumbiens bunte Busse | [S15E22](https://thetvdb.com/series/272599-show/episodes/4812708) | 
-| 2013-11-30 | Aubrac - Kühe, Käse, Kerle! | [S15E23](https://thetvdb.com/series/272599-show/episodes/4812709) | 
-| 2013-12-07 | Die Samurai von Fukushima | [S15E24](https://thetvdb.com/series/272599-show/episodes/4812710) | 
-| 2013-12-14 | Der gute Mensch von Karachi | [S15E25](https://thetvdb.com/series/272599-show/episodes/4812712) | 
-| 2013-12-21 | Die Austern von Arcachon | [S15E26](https://thetvdb.com/series/272599-show/episodes/4812714) | 
-| 2013-12-28 | Thailand, Raketen für die Götter | [S15E27](https://thetvdb.com/series/272599-show/episodes/4812716) | 
-| 2014-01-04 | Vietnam, Kobra auf dem Teller | [S16E01](https://thetvdb.com/series/272599-show/episodes/4812750) | 
-| 2014-01-25 | Indiens jüngste Polizisten | [S16E02](https://thetvdb.com/series/272599-show/episodes/4812751) | 
-| 2014-02-08 | Kambodscha, Ratte süß-sauer | [S16E03](https://thetvdb.com/series/272599-show/episodes/4812752) | 
-| 2014-02-22 | Azoren, das Geschäft mit den Walen | [S16E04](https://thetvdb.com/series/272599-show/episodes/4812753) | 
-| 2014-03-01 | Fort McMurray, Kanada im Ölfieber | [S16E05](https://thetvdb.com/series/272599-show/episodes/4812754) | 
-| 2014-03-08 | Rosa Amélia - Fische, Freunde, Fado | [S16E06](https://thetvdb.com/series/272599-show/episodes/4812755) | 
-| 2014-03-29 | Schweiz: Das Verschwinden der Gletscher | [S16E07](https://thetvdb.com/series/272599-show/episodes/4812756) | 
-| 2014-04-26 | Bangkoks Schatztaucher | [S16E08](https://thetvdb.com/series/272599-show/episodes/5061390) | 
-| 2014-05-10 | Elbsandsteingebirge - Märchenwelt und Meisterwerke | [S16E09](https://thetvdb.com/series/272599-show/episodes/5063398) | 
-| 2014-05-31 | Die Goldenen Schildkröten von Madagaskar | [S16E10](https://thetvdb.com/series/272599-show/episodes/5078306) | 
-| 2014-06-14 | Hinter den Kulissen von Venedig | [S16E11](https://thetvdb.com/series/272599-show/episodes/5078307) | 
-| 2014-07-05 | Eishockey - Mädchentraum im Himalaya | [S16E12](https://thetvdb.com/series/272599-show/episodes/5078310) | 
-| 2014-08-30 | Die Tango-Spelunken von Buenos Aires | [S16E13](https://thetvdb.com/series/272599-show/episodes/5078313) | 
-| 2014-09-06 | Jadehandel im Goldenen Dreieck | [S16E14](https://thetvdb.com/series/272599-show/episodes/4986446) | 
-| 2014-09-20 | Bolivien: Kleine Käfer, großes Geld! | [S16E15](https://thetvdb.com/series/272599-show/episodes/5150636) | 
-| 2014-10-04 | Åland-Archipel: Warten auf das Eis | [S16E16](https://thetvdb.com/series/272599-show/episodes/5150637) | 
-| 2014-10-18 | Kamelmilch, Kasachstans Wundermedizin | [S16E17](https://thetvdb.com/series/272599-show/episodes/5027540) | 
-| 2014-11-01 | Königliche Mounties - Kanadas berittene Polizei | [S16E18](https://thetvdb.com/series/272599-show/episodes/5041435) | 
-| 2014-11-15 | Peru: Ein Alpaka für Christobal | [S16E19](https://thetvdb.com/series/272599-show/episodes/5047865) | 
-| 2014-11-22 | Gnadenhof „Gut Aiderbichl“ | [S16E20](https://thetvdb.com/series/272599-show/episodes/5061387) | 
-| 2014-11-29 | Unter Haien: Riffpatrouille in der Sulu-See | [S16E21](https://thetvdb.com/series/272599-show/episodes/5061388) | 
-| 2014-12-13 | Andalusien - Edle Pferde, wilde Stiere | [S16E22](https://thetvdb.com/series/272599-show/episodes/5061389) | 
-| 2014-12-20 | Die Eisbergjäger von Neufundland | [S16E23](https://thetvdb.com/series/272599-show/episodes/5078296) | 
-| 2014-12-27 | Lettland - das Land der Sänger | [S16E24](https://thetvdb.com/series/272599-show/episodes/5078299) | 
-| 2015-01-03 | Griechenland: Aufbruch am Olymp | [S17E01](https://thetvdb.com/series/272599-show/episodes/5095522) | 
-| 2015-01-06 | Mohair, das Garn der guten Hoffnung | [S17E02](https://thetvdb.com/series/272599-show/episodes/5095523) | 
-| 2015-01-07 | Der Maestro, Neapels legendärer Boxmeister | [S17E03](https://thetvdb.com/series/272599-show/episodes/5095524) | 
-| 2015-02-16 | Die Baumkletterer von Kalifornien | [S17E04](https://thetvdb.com/series/272599-show/episodes/5095528) | 
-| 2015-02-17 | Kanada: Indianer schreiben Geschichte | [S17E05](https://thetvdb.com/series/272599-show/episodes/5095530) | 
-| 2015-03-23 | Venezuela, die Blitze von Catatumbo | [S17E06](https://thetvdb.com/series/272599-show/episodes/5150638) | 
-| 2015-03-24 | Tasmanien, Sympathie für den Teufel | [S17E07](https://thetvdb.com/series/272599-show/episodes/5150639) | 
-| 2015-03-25 | Kastanien, das Brot der Korsen | [S17E08](https://thetvdb.com/series/272599-show/episodes/5150640) | 
-| 2015-03-26 | Paris, Blitz Motorcycles | [S17E09](https://thetvdb.com/series/272599-show/episodes/5150641) | 
-| 2015-03-27 | Kuba: Eine Generation im Wandel | [S17E10](https://thetvdb.com/series/272599-show/episodes/5150642) | 
-| 2015-05-02 | Hamburg, die Stadt der Schwäne | [S17E11](https://thetvdb.com/series/272599-show/episodes/5221471) | 
-| 2015-08-29 | Camargue, zwischen Himmel und Meer | [S17E12](https://thetvdb.com/series/272599-show/episodes/5328397) | 
-| 2015-09-05 | Bhutan, von Kindern und Kranichen | [S17E13](https://thetvdb.com/series/272599-show/episodes/5328398) | 
-| 2015-09-12 | Bird Island - Allein unter Pinguinen | [S17E14](https://thetvdb.com/series/272599-show/episodes/5328399) | 
-| 2015-09-19 | Basketball - Die kleinen Barfuß-Spieler von Mexiko | [S17E15](https://thetvdb.com/series/272599-show/episodes/5328400) | 
-| 2015-09-26 | Die Spinnenjäger von Venezuela | [S17E16](https://thetvdb.com/series/272599-show/episodes/5328401) | 
-| 2015-10-03 | Das Terrassenwunder von Peru | [S17E17](https://thetvdb.com/series/272599-show/episodes/5328402) | 
-| 2015-10-10 | Kambodscha, Sithas große Waisenfamilie | [S17E18](https://thetvdb.com/series/272599-show/episodes/5328403) | 
-| 2015-11-07 | Die Oldtimer von Curaçao | [S17E19](https://thetvdb.com/series/272599-show/episodes/5396736) | 
-| 2015-11-14 | Italien - Hochzeit auf Neapolitanisch | [S17E20](https://thetvdb.com/series/272599-show/episodes/5404473) | 
-| 2015-11-21 | Yoga, Indiens erstaunliche Medizin | [S17E21](https://thetvdb.com/series/272599-show/episodes/5411577) | 
-| 2015-11-28 | David und die Komodowarane | [S17E22](https://thetvdb.com/series/272599-show/episodes/5420198) | 
-| 2015-12-05 | China, Braut ohne Bräutigam | [S17E23](https://thetvdb.com/series/272599-show/episodes/5431748) | 
-| 2015-12-13 | Sansibars erstes Frauenorchester | [S17E24](https://thetvdb.com/series/272599-show/episodes/5440875) | 
-| 2015-12-21 | Die Bergführer von Chamonix | [S17E25](https://thetvdb.com/series/272599-show/episodes/5446452) | 
-| 2015-12-26 | Polen, Winter in den Waldkarpaten | [S17E26](https://thetvdb.com/series/272599-show/episodes/5455789) | 
-| 2016-01-02 | Kenias Spürhunde - Rettung für die Elefanten | [S18E01](https://thetvdb.com/series/272599-show/episodes/5464152) | 
-| 2016-01-09 | Valparaíso - Die Stadt der Aufzüge | [S18E02](https://thetvdb.com/series/272599-show/episodes/5473961) | 
-| 2016-01-23 | Sibirien - Der Kapitän und die Lena | [S18E03](https://thetvdb.com/series/272599-show/episodes/5473962) | 
-| 2016-02-20 | Spreewald - Kähne, Köche, Klapperstörche | [S18E04](https://thetvdb.com/series/272599-show/episodes/5526195) | 
-| 2016-02-27 | Cocos Island - Paradies für Haie?! | [S18E05](https://thetvdb.com/series/272599-show/episodes/5535287) | 
-| 2016-03-19 | Insekten - Unser Speiseplan für morgen? | [S18E06](https://thetvdb.com/series/272599-show/episodes/5561577) | 
-| 2016-04-09 | Myanmar - Per Zug durch die Zeit | [S18E07](https://thetvdb.com/series/272599-show/episodes/5578061) | 
-| 2016-04-30 | Die Bärenhunde von Nevada | [S18E08](https://thetvdb.com/series/272599-show/episodes/5578064) | 
-| 2016-05-14 | Die Dhaus - Arabiens legendäre Schiffe | [S18E09](https://thetvdb.com/series/272599-show/episodes/5609661) | 
-| 2016-05-28 | Der Waldrapp - Punkvogel aus den Alpen | [S18E10](https://thetvdb.com/series/272599-show/episodes/5628778) | 
-| 2016-06-25 | Die Eisfischer vom Chagan-See | [S18E11](https://thetvdb.com/series/272599-show/episodes/5658015) | 
-| 2016-07-16 | Pythons - Invasion in Florida | [S18E12](https://thetvdb.com/series/272599-show/episodes/5660701) | 
-| 2016-09-03 | Amas Welt - Das neue Ghana | [S18E13](https://thetvdb.com/series/272599-show/episodes/5714108) | 
-| 2016-09-10 | Tunesien - Die Kunst der Berbertattoos | [S18E14](https://thetvdb.com/series/272599-show/episodes/5745112) | 
-| 2016-09-17 | Die Cook Islands - Willkommen im Paradies | [S18E15](https://thetvdb.com/series/272599-show/episodes/5751341) | 
-| 2016-09-24 | Norwegen - Försterinnen auf dem Vormarsch | [S18E16](https://thetvdb.com/series/272599-show/episodes/5739071) | 
-| 2016-10-01 | Vietnam - Das Schicksal der Mondbären | [S18E17](https://thetvdb.com/series/272599-show/episodes/5751342) | 
-| 2016-10-15 | Die letzten Krokodile Venezuelas | [S18E18](https://thetvdb.com/series/272599-show/episodes/5764340) | 
-| 2016-10-29 | Das Elefantenkrankenhaus von Thailand | [S18E19](https://thetvdb.com/series/272599-show/episodes/5822676) | 
-| 2016-11-05 | Die Schlammfußballer von Island | [S18E20](https://thetvdb.com/series/272599-show/episodes/5830614) | 
-| 2016-11-19 | Dänemark - Königin Margrethe und ihr Sommerschloss | [S18E21](https://thetvdb.com/series/272599-show/episodes/5854099) | 
-| 2016-11-26 | Die metallenen Gondeln von Tschiatura | [S18E22](https://thetvdb.com/series/272599-show/episodes/5858780) | 
-| 2016-12-03 | Die Honigsammler von Yunnan | [S18E23](https://thetvdb.com/series/272599-show/episodes/5869469) | 
-| 2016-12-10 | Wilde Schweiz - Von Ringern und Schwingern | [S18E24](https://thetvdb.com/series/272599-show/episodes/5878158) | 
-| 2016-12-17 | St. Bernhard - Von Menschen und Hunden | [S18E25](https://thetvdb.com/series/272599-show/episodes/5888245) | 
-| 2016-12-24 | Rumänien - Eine Weihnachtsreise ins Donaudelta | [S18E26](https://thetvdb.com/series/272599-show/episodes/5895561) | 
-| 2017-01-07 | Die Liebenden von Santa Cruz del Islote | [S19E01](https://thetvdb.com/series/272599-show/episodes/5904645) | 
-| 2017-01-14 | Marseille - Kopfüber ins Blau | [S19E02](https://thetvdb.com/series/272599-show/episodes/5927802) | 
-| 2017-01-21 | Kurt und seine Wölfe | [S19E03](https://thetvdb.com/series/272599-show/episodes/5927792) | 
-| 2017-01-28 | Die schwebenden Särge von Georgien |  | 
-| 2017-01-28 | Pyrenäen - Ein Hirte zwischen Himmel und Erde | [S19E04](https://thetvdb.com/series/272599-show/episodes/5945673) | 
-| 2017-02-04 | Zauberhafte Mosel | [S19E05](https://thetvdb.com/series/272599-show/episodes/5966507) | 
-| 2017-02-18 | Der Kosakenpriester vom Don | [S19E06](https://thetvdb.com/series/272599-show/episodes/5975719) | 
-| 2017-02-25 | Chile - Die Leuchttürme am Ende der Welt | [S19E07](https://thetvdb.com/series/272599-show/episodes/5986947) | 
-| 2017-03-04 | Indien - Heilendes Ayurveda | [S19E08](https://thetvdb.com/series/272599-show/episodes/5987692) | 
-| 2017-03-12 | Spanien - Die Tradition der Menschentürme | [S19E09](https://thetvdb.com/series/272599-show/episodes/6005142) | 
-| 2017-03-19 | Malaysia - Von Frauen und Motorrädern | [S19E10](https://thetvdb.com/series/272599-show/episodes/6010575) | 
-| 2017-03-26 | Eine zweite Art von Frau - Thailand, das Dritte Geschlecht | [S19E11](https://thetvdb.com/series/272599-show/episodes/6021363) | 
-| 2017-05-21 | Myanmars Bambusbrücke - Ein Dorf packt an! | [S19E12](https://thetvdb.com/series/272599-show/episodes/6101743) | 
-| 2017-05-28 | Die Minga - Umzug auf Chilenisch | [S19E13](https://thetvdb.com/series/272599-show/episodes/7219669) | 
-| 2017-08-06 | Kuba - Meister der Drehorgeln | [S19E14](https://thetvdb.com/series/272599-show/episodes/6241979) | 
-| 2017-08-20 | Sri Lanka - Eine legendäre Eisenbahnstrecke | [S19E15](https://thetvdb.com/series/272599-show/episodes/6270747) | 
-| 2017-09-17 | Die Wassernomaden vom Sambesi | [S19E16](https://thetvdb.com/series/272599-show/episodes/6328065) | 
-| 2017-10-01 | Mate-Tee - Die Seele Argentiniens | [S19E17](https://thetvdb.com/series/272599-show/episodes/6348729) | 
-| 2017-10-22 | Louisiana - Land unter bei den Shrimpfischern | [S19E18](https://thetvdb.com/series/272599-show/episodes/6376645) | 
-| 2017-10-29 | Svanetien - Von Lebenden und Toten | [S19E19](https://thetvdb.com/series/272599-show/episodes/6387570) | 
-| 2017-11-05 | Java - Zauberhaftes Schattentheater | [S19E20](https://thetvdb.com/series/272599-show/episodes/6398275) | 
-| 2017-11-12 | Frisch vermählt in Estland | [S19E21](https://thetvdb.com/series/272599-show/episodes/6398624) | 
-| 2017-11-19 | Die Geier sind zurück | [S19E22](https://thetvdb.com/series/272599-show/episodes/6398625) | 
-| 2017-11-26 | Bolivien - Der Kampf um die kleinen Herzen | [S19E23](https://thetvdb.com/series/272599-show/episodes/6398620) | 
-| 2017-11-27 | Sibirien, die Eisstraße ins Polarmeer | [S19E24](https://thetvdb.com/series/272599-show/episodes/6439596) | 
-| 2017-12-10 | Kolumbien: DC3 Oldtimer versorgen den Regenwald | [S19E25](https://thetvdb.com/series/272599-show/episodes/6448641) | 
-| 2017-12-24 | Der Thomanerchor - Leben für die Musik | [S19E26](https://thetvdb.com/series/272599-show/episodes/6468960) | 
-| 2017-06-03 | Die Insel Chiloé | [S19E27](https://thetvdb.com/series/272599-show/episodes/6126640) | 
-| 2018-01-14 | Friaul, Benvenuti im Musiktal | [S20E01](https://thetvdb.com/series/272599-show/episodes/6507973) | 
-| 2018-01-28 | Bisons, die sanften Riesen von Montana | [S20E02](https://thetvdb.com/series/272599-show/episodes/6529015) | 
-| 2018-02-04 | Vietnam, die letzten Pangoline | [S20E03](https://thetvdb.com/series/272599-show/episodes/6538679) | 
-| 2018-02-11 | Schottland: Die Seenotretter der Orkney Islands | [S20E04](https://thetvdb.com/series/272599-show/episodes/6549630) | 
-| 2018-02-25 | Kanada - Mit der Hebamme durch die Badlands | [S20E05](https://thetvdb.com/series/272599-show/episodes/6578381) | 
-| 2018-03-04 | Myanmar - Die Marmorkünstler von Mandalay | [S20E06](https://thetvdb.com/series/272599-show/episodes/6596840) | 
-| 2018-03-11 | Der Lachszähler von Kanada | [S20E07](https://thetvdb.com/series/272599-show/episodes/6590788) | 
-| 2018-03-18 | Kreta - Die süßen Früchte des Johannisbrotbaums | [S20E08](https://thetvdb.com/series/272599-show/episodes/6597521) | 
-| 2018-03-25 | Der Hundeflüsterer der Queen | [S20E09](https://thetvdb.com/series/272599-show/episodes/6615190) | 
-| 2018-04-01 | Italien, eine neue Glocke für Monopoli | [S20E10](https://thetvdb.com/series/272599-show/episodes/6615191) | 
-| 2018-05-13 | Arapaima, der Riesenfisch vom Amazonas | [S20E11](https://thetvdb.com/series/272599-show/episodes/6689543) | 
-| 2018-05-27 | Die fliegenden Wildesel von Kasachstan | [S20E12](https://thetvdb.com/series/272599-show/episodes/6707145) | 
-| 2018-06-22 | Geliebtes Korsika - Kampf gegen das Feuer | [S20E13](https://thetvdb.com/series/272599-show/episodes/6739140) | 
-| 2018-08-30 | Japan - Leben am Fuß des Vulkans | [S20E14](https://thetvdb.com/series/272599-show/episodes/6819062) | 
-| 2018-09-08 | Sucevita - Rumäniens schönste Klosterfresken | [S20E15](https://thetvdb.com/series/272599-show/episodes/6821173) | 
-| 2018-09-15 | Moskaus berühmte Sprengstoffhunde | [S20E16](https://thetvdb.com/series/272599-show/episodes/6829028) | 
-| 2018-09-29 | Neuseeland - Die Tiere vom Ende der Welt | [S20E17](https://thetvdb.com/series/272599-show/episodes/6845491) | 
-| 2018-10-06 | Virunga, der Kampf für die Berggorillas | [S20E18](https://thetvdb.com/series/272599-show/episodes/6856576) | 
-| 2018-10-13 | Gitarren und Flamenco in Granada | [S20E19](https://thetvdb.com/series/272599-show/episodes/6863765) | 
-| 2018-10-20 | Chatuchak - Bangkoks Riesenmarkt | [S20E20](https://thetvdb.com/series/272599-show/episodes/6872146) | 
-| 2018-10-27 | Argentinien - Der Jaguar ist zurück | [S20E21](https://thetvdb.com/series/272599-show/episodes/6881859) | 
-| 2018-11-03 | Rooibos, der rote Tee Südafrikas | [S20E22](https://thetvdb.com/series/272599-show/episodes/6894111) | 
-| 2018-11-07 | Ankaras gerettete Bücher - Die Müll-Bibliothek von Cankaya | [S20E23](https://thetvdb.com/series/272599-show/episodes/6897060) | 
-| 2018-11-17 | Äthiopiens gefräßige Hochland-Affen | [S20E24](https://thetvdb.com/series/272599-show/episodes/6908214) | 
-| 2018-11-12 | Sibirien - Im Reich des Amur-Tigers | [S20E25](https://thetvdb.com/series/272599-show/episodes/6902553) | 
-| 2018-12-01 | Peru, das Goldhaar der Vikunjas | [S20E26](https://thetvdb.com/series/272599-show/episodes/6923991) | 
-| 2018-12-08 | Jonathan, der Flugakrobat | [S20E27](https://thetvdb.com/series/272599-show/episodes/6923990) | 
-| 2018-12-15 | Harris Tweed - Rückkehr einer Legende | [S20E28](https://thetvdb.com/series/272599-show/episodes/6941816) | 
-| 2018-12-22 | Kenia, Let's Dance | [S20E29](https://thetvdb.com/series/272599-show/episodes/6952756) | 
-| 2018-12-31 | Crémant, der feine Elsässer zum Fest | [S20E30](https://thetvdb.com/series/272599-show/episodes/6970951) | 
-| 2019-01-05 | Kushti, Indiens uralter Kampfsport | [S21E01](https://thetvdb.com/series/272599-show/episodes/6977226) | 
-| 2019-01-19 | Georgiens himmlische Klöster | [S21E02](https://thetvdb.com/series/272599-show/episodes/6982371) | 
-| 2019-01-26 | Mexiko - Die edlen Reiterinnen | [S21E03](https://thetvdb.com/series/272599-show/episodes/7010223) | 
-| 2019-02-09 | Kroatien, Das Paradies der Trüffeljäger | [S21E04](https://thetvdb.com/series/272599-show/episodes/7017416) | 
-| 2019-02-23 | Arnika - Von der Kraft einer Heilpflanze | [S21E05](https://thetvdb.com/series/272599-show/episodes/7055450) | 
-| 2019-04-07 | Simbabwe - Leben für den Augenblick | [S21E06](https://thetvdb.com/series/272599-show/episodes/7122902) | 
-| 2019-06-01 | Äthiopien - Heimat des Kaffees | [S21E07](https://thetvdb.com/series/272599-show/episodes/7217846) | 
-| 2019-06-08 | Indien, ein Himmel voller bunter Drachen | [S21E08](https://thetvdb.com/series/272599-show/episodes/7221261) | 
-| 2019-07-15 | Norwegen, die Rentierprinzessin | [S21E09](https://thetvdb.com/series/272599-show/episodes/7284824) | 
-| 2019-08-25 | Thaimassage, die Heilkunst der Buddhisten | [S21E10](https://thetvdb.com/series/272599-show/episodes/7334026) | 
-| 2019-09-07 | Hongkongs magisches Neonlicht | [S21E11](https://thetvdb.com/series/272599-show/episodes/7350925) | 
-| 2019-09-29 | Tibetische Medizin - Heilkraft für die Seele | [S21E12](https://thetvdb.com/series/272599-show/episodes/7378725) | 
-| 2019-10-05 | Sibirien, die Eisschneider von Jakutsk | [S21E13](https://thetvdb.com/series/272599-show/episodes/7397819) | 
-| 2019-10-12 | Auf Schlangenjagd in Bangkok | [S21E14](https://thetvdb.com/series/272599-show/episodes/7398590) | 
-| 2019-10-19 | Die blinde Primaballerina von São Paulo | [S21E15](https://thetvdb.com/series/272599-show/episodes/7412295) | 
-| 2019-10-26 | Slowenien, Land des Honigs | [S21E16](https://thetvdb.com/series/272599-show/episodes/7423109) | 
-| 2019-10-27 | Japan, der Meister des Zen-Gartens | [S21E17](https://thetvdb.com/series/272599-show/episodes/7423122) | 
-| 2019-11-09 | Finnland, die rasenden Schrottkisten | [S21E18](https://thetvdb.com/series/272599-show/episodes/7444447) | 
-| 2019-11-10 | Heilende Schwingungen der Klangschalen | [S21E19](https://thetvdb.com/series/272599-show/episodes/7444458) | 
-| 2019-11-23 | Harpyien, die größten Greifvögel des Regenwaldes | [S21E20](https://thetvdb.com/series/272599-show/episodes/7457468) | 
-| 2019-12-08 | Island: Von strickenden Männern und Pullovern | [S21E21](https://thetvdb.com/series/272599-show/episodes/7486315) | 
-| 2019-12-14 | Kentucky - Die Schlacht von Sacramento | [S21E22](https://thetvdb.com/series/272599-show/episodes/7496325) | 
-| 2019-12-21 | Die letzten Walfänger der Beringsee | [S21E23](https://thetvdb.com/series/272599-show/episodes/7496340) | 
-| 2019-12-22 | Kaviar, das schwarze Gold Italiens | [S21E24](https://thetvdb.com/series/272599-show/episodes/7496351) | 
-| 2019-12-29 | Esmeraldas Edelkakao | [S21E25](https://thetvdb.com/series/272599-show/episodes/7517098) | 
-| 2020-01-05 | Die Vespa-Rebellen in Indonesien | [S22E01](https://thetvdb.com/series/272599-show/episodes/7517155) | 
-| 2020-01-12 | Costa Rica, das größte Hundeheim der Welt | [S22E02](https://thetvdb.com/series/272599-show/episodes/7542877) | 
-| 2020-01-26 | Die Herren des Lavendels | [S22E03](https://thetvdb.com/series/272599-show/episodes/7557995) | 
-| 2020-02-09 | Die Zedernuss, die Königin der Taiga | [S22E04](https://thetvdb.com/series/272599-show/episodes/7581810) | 
-| 2020-02-16 | Die Ostsee, Sehnsuchtsort der Kraniche | [S22E05](https://thetvdb.com/series/272599-show/episodes/7594851) | 
-| 2020-02-23 | Kapverden: Zwei Hunde als Schildkrötenretter | [S22E06](https://thetvdb.com/series/272599-show/episodes/7619012) | 
-| 2020-03-01 | Die Schwestern der Erde | [S22E07](https://thetvdb.com/series/272599-show/episodes/7619535) | 
-| 2020-03-08 | Argentinien, von wilden Pferden und sanfter Hand | [S22E08](https://thetvdb.com/series/272599-show/episodes/7624143) | 
-| 2020-06-14 | Indiens Kurkuma - Heilsam und heilig | [S22E09](https://thetvdb.com/series/272599-show/episodes/7793491) | 
-| 2020-06-28 | Huskys, am Start! | [S22E10](https://thetvdb.com/series/272599-show/episodes/7818444) | 
-| 2020-07-25 | Schignano, ein uralter Karneval in Italiens Bergen | [S22E11](https://thetvdb.com/series/272599-show/episodes/7859337) | 
-| 2020-08-16 | Ring frei für Sambias Boxerinnen! | [S22E12](https://thetvdb.com/series/272599-show/episodes/7890793) | 
-| 2020-09-13 | Singvögel - Die goldenen Stimmen von Singapur | [S22E13](https://thetvdb.com/series/272599-show/episodes/7933483) | 
-| 2020-10-25 | Italiens Kapern - Der Geschmack des Südens | [S22E14](https://thetvdb.com/series/272599-show/episodes/8023022) | 
-| 2020-11-22 | Der letzte Rheinfischer | [S22E15](https://thetvdb.com/series/272599-show/episodes/8076150) | 
-| 2020-11-29 | Mit Volldampf durch Kärnten | [S22E16](https://thetvdb.com/series/272599-show/episodes/8122019) | 
-| 2020-12-06 | Das Elsass, Heimat der Störche | [S22E17](https://thetvdb.com/series/272599-show/episodes/8092659) | 
-| 2020-12-13 | Lichterglanz im Norden - Winter in Stockholm und den Schären | [S22E18](https://thetvdb.com/series/272599-show/episodes/8103945) | 
-| 2020-12-20 | Chartres, die Farben des Himmels | [S22E19](https://thetvdb.com/series/272599-show/episodes/8112897) | 
-| 2021-01-03 | Bretagne, die raue Schönheit | [S23E01](https://thetvdb.com/series/272599-show/episodes/8131737) | 
-| 2021-01-10 | Pelota, die baskische Leidenschaft | [S23E02](https://thetvdb.com/series/272599-show/episodes/8145486) | 
-| 2021-01-31 | Estland und das kleine Königreich der Seto | [S23E03](https://thetvdb.com/series/272599-show/episodes/8209429) | 
-| 2021-02-07 | Puerto Rico: Ein Krankenhaus für Seekühe | [S23E04](https://thetvdb.com/series/272599-show/episodes/8209430) | 
-| 2021-02-14 | Dem Wolf auf der Spur - Schnüffeln für den Artenschutz | [S23E05](https://thetvdb.com/series/272599-show/episodes/8228076) | 
-| 2021-02-21 | Die Eifel und ihre Eulen-Hüter | [S23E06](https://thetvdb.com/series/272599-show/episodes/8230361) | 
-| 2021-02-28 | Percheron, das Kraftpaket mit einer Pferdestärke | [S23E07](https://thetvdb.com/series/272599-show/episodes/8270994) | 
-| 2021-03-07 | Kalkstein - Das weiße Gold von Brac | [S23E08](https://thetvdb.com/series/272599-show/episodes/8271000) | 
-| 2021-03-14 | Hamburg - Welthafen mit schwimmender Kirche | [S23E09](https://thetvdb.com/series/272599-show/episodes/8285562) | 
-| 2021-03-21 | Tradition am Steilhang - Die Schweiz und ihre Wildheuer | [S23E10](https://thetvdb.com/series/272599-show/episodes/8320384) | 
-| 2021-03-28 | Biber, die Baumeister an der Elbe | [S23E11](https://thetvdb.com/series/272599-show/episodes/8320385) | 
-| 2021-04-04 | Pelikane, die Könige des Donaudeltas | [S23E12](https://thetvdb.com/series/272599-show/episodes/8355928) | 
-| 2021-04-18 | Frankreichs Winzer - Tradition trifft Passion | [S23E13](https://thetvdb.com/series/272599-show/episodes/8375958) | 
-| 2021-04-25 | Notruf Nordseeküste - Die Robben-Retter | [S23E14](https://thetvdb.com/series/272599-show/episodes/8375959) | 
-| 2021-05-09 | Australien - Wenn Kunst auf Silos trifft | [S23E15](https://thetvdb.com/series/272599-show/episodes/8375960) | 
-| 2021-08-28 | Der Wüstenzug - die Lebensader Mauretaniens | [S23E16](https://thetvdb.com/series/272599-show/episodes/8634489) | 
-| 2021-09-04 | Escobars Erbe - Kolumbiens Kokain-Hippos | [S23E17](https://thetvdb.com/series/272599-show/episodes/8634490) | 
-| 2021-09-11 | Die heilenden Delfine von Curacao | [S23E18](https://thetvdb.com/series/272599-show/episodes/8634491) | 
-| 2021-09-11 | Der Traum vom Gold - Tirols Überfliegerinnen | [S23E19](https://thetvdb.com/series/272599-show/episodes/8692435) | 
-| 2021-09-25 | Schweiz: Gletscherflieger - Faszination in Weiß | [S23E20](https://thetvdb.com/series/272599-show/episodes/8692436) | 
-| 2019-10-02 | Koh Panyee - Thailands fußballverrückte Insel | [S23E21](https://thetvdb.com/series/272599-show/episodes/8692437) | 
-| 2021-10-09 | Stromboli - Zwischen Feuer und Meer | [S23E22](https://thetvdb.com/series/272599-show/episodes/8692438) | 
-| 2021-10-16 | Italien - Die Igel-Retter aus dem Piemont | [S23E23](https://thetvdb.com/series/272599-show/episodes/8788087) | 
-| 2021-10-30 | Dolomiten: Die Bergführer von San Martino | [S23E24](https://thetvdb.com/series/272599-show/episodes/8814843) | 
-| 2022-01-08 | Die Lowrider-Ladies von L.A. | [S24E01](https://thetvdb.com/series/272599-show/episodes/8949820) | 
-| 2022-01-15 | Tapire - Die Dschungel-Gärtner | [S24E02](https://thetvdb.com/series/272599-show/episodes/8949821) | 
-| 2022-01-22 | Faszination Elbrus - Der Ritt zum Gipfel | [S24E03](https://thetvdb.com/series/272599-show/episodes/8949822) | 
-| 2022-01-29 | Namibias Geparden - Hoffnung für die Raubkatzen | [S24E04](https://thetvdb.com/series/272599-show/episodes/8949823) | 
-| 2022-02-05 | Haute Couture - Federn, Falten, Seidenblumen | [S24E05](https://thetvdb.com/series/272599-show/episodes/8949824) | 
-| 2022-02-19 | Die Odyssee der Mönchsrobbe | [S24E06](https://thetvdb.com/series/272599-show/episodes/8949825) | 
-| 2022-02-26 | Elsass - Land der Orgeln | [S24E07](https://thetvdb.com/series/272599-show/episodes/8949826) | 
-| 2022-03-12 | Wilde Waterkant - Nordfriesland und seine Gänse | [S24E08](https://thetvdb.com/series/272599-show/episodes/8993022) | 
-| 2022-03-26 | Die Puppen tanzen! - Litauens rollendes Theater | [S24E09](https://thetvdb.com/series/272599-show/episodes/9075607) | 
-| 2022-05-07 | Südkorea - die Nonne der Tempelküche | [S24E10](https://thetvdb.com/series/272599-show/episodes/9158123) | 
-| 2022-05-14 | Schwerelos im Windkanal | [S24E11](https://thetvdb.com/series/272599-show/episodes/9158124) | 
-| 2022-05-21 | Frankreichs Gärten - Die kleinen Schätze | [S24E12](https://thetvdb.com/series/272599-show/episodes/9158125) | 
-| 2022-06-04 | Europas Urwälder - Ein Schatz der Natur | [S24E13](https://thetvdb.com/series/272599-show/episodes/9158126) | 
-| 2022-06-11 | Zwischen Naturschutz und Panzern - Bayerns wilder Schießplatz | [S24E14](https://thetvdb.com/series/272599-show/episodes/9158127) | 
-| 2022-06-18 | Kastiliens Kämpfer - Ritterspiele an der Burg Belmonte | [S24E15](https://thetvdb.com/series/272599-show/episodes/9158128) | 
-| 2022-06-25 | Nopal, der Alleskönner aus Mexiko | [S24E16](https://thetvdb.com/series/272599-show/episodes/9254698) | 
-| 2022-07-02 | Tempo und Leidenschaft - Argentiniens Polo-Spielerinnen | [S24E17](https://thetvdb.com/series/272599-show/episodes/9254699) | 
-| 2022-07-09 | Kourou: Palmen, Raketen, Gefängnisinseln | [S24E18](https://thetvdb.com/series/272599-show/episodes/9254700) | 
-| 2022-07-16 | Las Fallas - Valencias feurige Fiesta | [S24E19](https://thetvdb.com/series/272599-show/episodes/9254701) | 
-| 2022-08-06 | Das Gerichtsschiff vom Amazonas | [S24E20](https://thetvdb.com/series/272599-show/episodes/9254702) | 
-| 2022-09-01 | Der Science-Van on Tour: Indien - Kampf den Scharlatanen | [S24E21](https://thetvdb.com/series/272599-show/episodes/9352688) | 
-| 2022-09-17 | Ahornsirup - Kanadas süßer Schatz | [S24E22](https://thetvdb.com/series/272599-show/episodes/9352689) | 
-| 2022-10-01 | Estland - Krötenretter im Einsatz | [S24E23](https://thetvdb.com/series/272599-show/episodes/9352690) | 
-| 2022-10-29 | Sardiniens wertvolle Muschelseide | [S24E24](https://thetvdb.com/series/272599-show/episodes/9352691) | 
-| 2022-11-05 | Cordoba, die Stadt der Patios | [S24E25](https://thetvdb.com/series/272599-show/episodes/9524022) | 
-| 2022-11-19 | Marquesas-Inseln, das Comeback der Tattoos | [S24E26](https://thetvdb.com/series/272599-show/episodes/9524023) | 
-| 2022-12-03 | Die Schweizergarde - Ein Leben für den Papst | [S24E27](https://thetvdb.com/series/272599-show/episodes/9524024) | 
-| 2022-12-10 | Island, die wertvollsten Daunen der Welt | [S24E28](https://thetvdb.com/series/272599-show/episodes/9524025) | 
-| 2022-12-17 | Zuflucht in den Anden - Kolumbiens indigene Transfrauen | [S24E29](https://thetvdb.com/series/272599-show/episodes/9524026) | 
-| 2022-12-24 | Kristall - Die magische Kunst aus den Vogesen | [S24E30](https://thetvdb.com/series/272599-show/episodes/9524027) | 
-| 2023-01-07 | Montenegro - Der Eselretter | [S25E01](https://thetvdb.com/series/272599-show/episodes/9524036) | 
-| 2023-01-16 | Nopal - Das grüne Golde Mexikos | [S25E02](https://thetvdb.com/series/272599-show/episodes/9524037) | 
-| 2023-01-21 | Der Bergkristall - Schatz in den Schweizer Alpen | [S25E03](https://thetvdb.com/series/272599-show/episodes/9524038) | 
-| 2023-01-23 | Indien - Kampf den Scharlatanen | [S25E04](https://thetvdb.com/series/272599-show/episodes/9524039) | 
-| 2023-01-28 | Maine - Hummer oder Wale? | [S25E05](https://thetvdb.com/series/272599-show/episodes/9524040) | 
-| 2023-02-04 | Singvögel - die goldene Stimmen von Singapur | [S25E06](https://thetvdb.com/series/272599-show/episodes/9524041) | 
-| 2023-02-11 | Namibia - von Sandsurfern und Skatern | [S25E07](https://thetvdb.com/series/272599-show/episodes/9524042) | 
-|  | Panzer, Wölfe, Rothirsche - Bayerns wilder Übungsplatz |  | 
-|  | Albanien - Die Stimmen der Schäfer |  | 
-|  | Laos - Futterblöcke und Büffel-Leasing |  | 
-|  | Freiheit auf Pferderücken - Der lange Weg der Nez Perce |  | 
-|  | Peloponnes - Rückkehr zur Erde |  | 
-|  | Handgemacht in Laos - Rares aus Rattan |  | 
-|  | Leben mit dem Tod - Ahnenkult auf Sulawesi |  | 
-|  | Die Waschbären von Berlin |  | 
+| air_date | title | thetvdb | fernsehserien | 
+| - | - | - | - | 
+| 1999-01-04 | Traum-Städte: Beirut - die Milliarden-Dollar-Utopie | [S01E01](https://thetvdb.com/series/272599-show/episodes/4641893) | [1](https://www.fernsehserien.de/arte-360grad-reportage/folgen/1-traum-staedte-beirut-die-milliarden-dollar-utopie-339116) | 
+| 1999-01-05 | Traum-Städte: Chandigarh - Leben im Beton | [S01E02](https://thetvdb.com/series/272599-show/episodes/4641894) | [2](https://www.fernsehserien.de/arte-360grad-reportage/folgen/2-traum-staedte-chandigarh-leben-im-beton-339117) | 
+| 1999-01-06 | Traum-Städte: Brasilia - Metropole vom Reißbrett | [S01E03](https://thetvdb.com/series/272599-show/episodes/4641895) | [3](https://www.fernsehserien.de/arte-360grad-reportage/folgen/3-traum-staedte-brasilia-metropole-vom-reissbrett-339118) | 
+| 1999-01-07 | Traum-Städte: Celebration - Leben in Harmonie | [S01E04](https://thetvdb.com/series/272599-show/episodes/4641896) | [4](https://www.fernsehserien.de/arte-360grad-reportage/folgen/4-traum-staedte-celebration-leben-in-harmonie-339119) | 
+| 1999-02-01 | Weibs-Bilder: Die mächtigen Frauen von Juchitán | [S01E05](https://thetvdb.com/series/272599-show/episodes/4641897) | [5](https://www.fernsehserien.de/arte-360grad-reportage/folgen/5-weibs-bilder-die-maechtigen-frauen-von-juchitan-339120) | 
+| 1999-02-02 | Weibs-Bilder: Hazeras Geschäfte | [S01E06](https://thetvdb.com/series/272599-show/episodes/4641898) | [6](https://www.fernsehserien.de/arte-360grad-reportage/folgen/6-weibs-bilder-hazeras-geschaefte-339123) | 
+| 1999-02-03 | Weibs-Bilder: Die neue Kunst des Kinderkriegens | [S01E07](https://thetvdb.com/series/272599-show/episodes/4641899) | [7](https://www.fernsehserien.de/arte-360grad-reportage/folgen/7-weibs-bilder-die-neue-kunst-des-kinderkriegens-339122) | 
+| 1999-02-04 | Weibs-Bilder: Der kleine Unterschied im Kopf | [S01E08](https://thetvdb.com/series/272599-show/episodes/4641900) | [8](https://www.fernsehserien.de/arte-360grad-reportage/folgen/8-weibs-bilder-der-kleine-unterschied-im-kopf-339124) | 
+| 1999-03-01 | Regenwald: Die Spurensucher | [S01E09](https://thetvdb.com/series/272599-show/episodes/4641901) | [9](https://www.fernsehserien.de/arte-360grad-reportage/folgen/9-regenwald-die-spurensucher-339121) | 
+| 1999-03-02 | Regenwald: Auf dem Holzweg | [S01E10](https://thetvdb.com/series/272599-show/episodes/4641902) | [10](https://www.fernsehserien.de/arte-360grad-reportage/folgen/10-regenwald-auf-dem-holzweg-339125) | 
+| 1999-03-03 | Regenwald: Der Geist des Vogels - Heilkraft aus dem Urwald | [S01E11](https://thetvdb.com/series/272599-show/episodes/4641903) | [11](https://www.fernsehserien.de/arte-360grad-reportage/folgen/11-regenwald-der-geist-des-vogels-heilkraft-aus-dem-urwald-339126) | 
+| 1999-03-04 | Regenwald: Die Pille für den Wald | [S01E12](https://thetvdb.com/series/272599-show/episodes/4641904) | [12](https://www.fernsehserien.de/arte-360grad-reportage/folgen/12-regenwald-die-pille-fuer-den-wald-339127) | 
+| 1999-04-05 | Vorbild Natur: Copyright Natur | [S01E13](https://thetvdb.com/series/272599-show/episodes/4641905) | [13](https://www.fernsehserien.de/arte-360grad-reportage/folgen/13-vorbild-natur-copyright-natur-339129) | 
+| 1999-04-06 | Vorbild Natur: Mensch Roboter! | [S01E14](https://thetvdb.com/series/272599-show/episodes/4641906) | [14](https://www.fernsehserien.de/arte-360grad-reportage/folgen/14-vorbild-natur-mensch-roboter-339130) | 
+| 1999-04-07 | Vorbild Natur: ABC des Universums | [S01E15](https://thetvdb.com/series/272599-show/episodes/4641907) | [15](https://www.fernsehserien.de/arte-360grad-reportage/folgen/15-vorbild-natur-abc-des-universums-339131) | 
+| 1999-04-08 | Vorbild Natur: Die Erfindung der Wirklichkeit | [S01E16](https://thetvdb.com/series/272599-show/episodes/4641908) | [16](https://www.fernsehserien.de/arte-360grad-reportage/folgen/16-vorbild-natur-die-erfindung-der-wirklichkeit-339132) | 
+| 1999-05-03 | Schönheit: Markt der Schönheit | [S01E17](https://thetvdb.com/series/272599-show/episodes/4641909) | [17](https://www.fernsehserien.de/arte-360grad-reportage/folgen/17-schoenheit-markt-der-schoenheit-339310) | 
+| 1999-05-04 | Schönheit: Kuba - von der stillen Revolte der Schönheit | [S01E18](https://thetvdb.com/series/272599-show/episodes/4641910) | [18](https://www.fernsehserien.de/arte-360grad-reportage/folgen/18-schoenheit-kuba-von-der-stillen-revolte-der-schoenheit-339333) | 
+| 1999-05-05 | Schönheit: Das Maß der Schönheit | [S01E19](https://thetvdb.com/series/272599-show/episodes/4641911) | [19](https://www.fernsehserien.de/arte-360grad-reportage/folgen/19-schoenheit-das-mass-der-schoenheit-339334) | 
+| 1999-05-06 | Schönheit: Die andere Seite der Schönheit | [S01E20](https://thetvdb.com/series/272599-show/episodes/4641912) | [20](https://www.fernsehserien.de/arte-360grad-reportage/folgen/20-schoenheit-die-andere-seite-der-schoenheit-339328) | 
+| 1999-07-05 | Intelligenz: Geniale Störenfriede | [S01E21](https://thetvdb.com/series/272599-show/episodes/4824521) | [21](https://www.fernsehserien.de/arte-360grad-reportage/folgen/21-intelligenz-geniale-stoerenfriede-339133) | 
+| 1999-07-06 | Intelligenz: Musik macht klug | [S01E22](https://thetvdb.com/series/272599-show/episodes/4824525) | [22](https://www.fernsehserien.de/arte-360grad-reportage/folgen/22-intelligenz-musik-macht-klug-339134) | 
+| 1999-07-07 | Intelligenz: „Think Tank“ - Die Schule der Affen | [S01E23](https://thetvdb.com/series/272599-show/episodes/4824526) | [23](https://www.fernsehserien.de/arte-360grad-reportage/folgen/23-intelligenz-think-tank-die-schule-der-affen-339157) | 
+| 1999-07-08 | Intelligenz: Künstliche Intelligenz | [S01E24](https://thetvdb.com/series/272599-show/episodes/4824528) | [24](https://www.fernsehserien.de/arte-360grad-reportage/folgen/24-intelligenz-kuenstliche-intelligenz-339158) | 
+| 1999-09-06 | Irren ist menschlich: Der Kaninchen-Krieg | [S01E25](https://thetvdb.com/series/272599-show/episodes/4824530) | [25](https://www.fernsehserien.de/arte-360grad-reportage/folgen/25-irren-ist-menschlich-der-kaninchen-krieg-339138) | 
+| 1999-09-07 | Irren ist menschlich: Countdown ins Desaster | [S01E26](https://thetvdb.com/series/272599-show/episodes/4824531) | [26](https://www.fernsehserien.de/arte-360grad-reportage/folgen/26-irren-ist-menschlich-countdown-ins-desaster-339139) | 
+| 1999-09-08 | Irren ist menschlich: Liebe und andere Katastrophen | [S01E27](https://thetvdb.com/series/272599-show/episodes/4824532) | [27](https://www.fernsehserien.de/arte-360grad-reportage/folgen/27-irren-ist-menschlich-liebe-und-andere-katastrophen-339140) | 
+| 1999-09-09 | Irren ist menschlich: Verkehrte Sicherheit | [S01E28](https://thetvdb.com/series/272599-show/episodes/4824533) | [28](https://www.fernsehserien.de/arte-360grad-reportage/folgen/28-irren-ist-menschlich-verkehrte-sicherheit-339141) | 
+| 1999-10-11 | Die Suche nach dem Glück: Die Meister des Glücks | [S01E29](https://thetvdb.com/series/272599-show/episodes/4824535) | [29](https://www.fernsehserien.de/arte-360grad-reportage/folgen/29-die-suche-nach-dem-glueck-die-meister-des-gluecks-339142) | 
+| 1999-10-12 | Die Suche nach dem Glück: Die Macht des Lachens | [S01E30](https://thetvdb.com/series/272599-show/episodes/4824536) | [30](https://www.fernsehserien.de/arte-360grad-reportage/folgen/30-die-suche-nach-dem-glueck-die-macht-des-lachens-339143) | 
+| 1999-10-13 | Die Suche nach dem Glück: Chemie der Traurigkeit | [S01E31](https://thetvdb.com/series/272599-show/episodes/4824537) | [31](https://www.fernsehserien.de/arte-360grad-reportage/folgen/31-die-suche-nach-dem-glueck-chemie-der-traurigkeit-339144) | 
+| 1999-10-14 | Die Suche nach dem Glück: Insel der Glücklichsten | [S01E32](https://thetvdb.com/series/272599-show/episodes/4824538) | [32](https://www.fernsehserien.de/arte-360grad-reportage/folgen/32-die-suche-nach-dem-glueck-insel-der-gluecklichsten-339145) | 
+| 1999-11-01 | Universum des Lichts: Hunger nach Sonne | [S01E33](https://thetvdb.com/series/272599-show/episodes/4824539) | [33](https://www.fernsehserien.de/arte-360grad-reportage/folgen/33-universum-des-lichts-hunger-nach-sonne-339137) | 
+| 1999-11-02 | Universum des Lichts: Die Leuchtkraft der Natur | [S01E34](https://thetvdb.com/series/272599-show/episodes/4824541) | [34](https://www.fernsehserien.de/arte-360grad-reportage/folgen/34-universum-des-lichts-die-leuchtkraft-der-natur-339146) | 
+| 1999-11-03 | Universum des Lichts: Die Seele des Lichts | [S01E35](https://thetvdb.com/series/272599-show/episodes/4824542) | [35](https://www.fernsehserien.de/arte-360grad-reportage/folgen/35-universum-des-lichts-die-seele-des-lichts-339147) | 
+| 1999-11-04 | Universum des Lichts: Lichtkunst - Kunstlicht | [S01E36](https://thetvdb.com/series/272599-show/episodes/4824544) | [36](https://www.fernsehserien.de/arte-360grad-reportage/folgen/36-universum-des-lichts-lichtkunst-kunstlicht-339148) | 
+| 1999-12-06 | Im Namen der Liebe: Eine Liebe auf Bali | [S01E37](https://thetvdb.com/series/272599-show/episodes/4824545) | [37](https://www.fernsehserien.de/arte-360grad-reportage/folgen/37-im-namen-der-liebe-eine-liebe-auf-bali-339149) | 
+| 1999-12-07 | Im Namen der Liebe: Mythos Mutterliebe | [S01E38](https://thetvdb.com/series/272599-show/episodes/4824549) | [38](https://www.fernsehserien.de/arte-360grad-reportage/folgen/38-im-namen-der-liebe-mythos-mutterliebe-339150) | 
+| 1999-12-08 | Im Namen der Liebe: Angst macht verführerisch | [S01E39](https://thetvdb.com/series/272599-show/episodes/4824550) | [39](https://www.fernsehserien.de/arte-360grad-reportage/folgen/39-im-namen-der-liebe-angst-macht-verfuehrerisch-339151) | 
+| 1999-12-09 | Im Namen der Liebe: Menü der Zärtlichkeit | [S01E40](https://thetvdb.com/series/272599-show/episodes/4824551) | [40](https://www.fernsehserien.de/arte-360grad-reportage/folgen/40-im-namen-der-liebe-menue-der-zaertlichkeit-339152) | 
+| 2000-01-10 | Naturgewalten: Ernstfall Erdbeben | [S02E01](https://thetvdb.com/series/272599-show/episodes/4641913) | [41](https://www.fernsehserien.de/arte-360grad-reportage/folgen/41-naturgewalten-ernstfall-erdbeben-339153) | 
+| 2000-01-11 | Naturgewalten: Tsunami - die Todeswelle | [S02E02](https://thetvdb.com/series/272599-show/episodes/4641914) | [42](https://www.fernsehserien.de/arte-360grad-reportage/folgen/42-naturgewalten-tsunami-die-todeswelle-339159) | 
+| 2000-01-12 | Naturgewalten: Operation Wolkenbruch | [S02E03](https://thetvdb.com/series/272599-show/episodes/4641915) | [43](https://www.fernsehserien.de/arte-360grad-reportage/folgen/43-naturgewalten-operation-wolkenbruch-339160) | 
+| 2000-01-13 | Naturgewalten: Im Schatten des Vulkans | [S02E04](https://thetvdb.com/series/272599-show/episodes/4641916) | [44](https://www.fernsehserien.de/arte-360grad-reportage/folgen/44-naturgewalten-im-schatten-des-vulkans-339161) | 
+| 2000-02-07 | Spiele des Lebens: Casino der Häuptlinge | [S02E05](https://thetvdb.com/series/272599-show/episodes/4641917) | [45](https://www.fernsehserien.de/arte-360grad-reportage/folgen/45-spiele-des-lebens-casino-der-haeuptlinge-339162) | 
+| 2000-02-08 | Spiele des Lebens: Schach - Krieg auf 64 Feldern | [S02E06](https://thetvdb.com/series/272599-show/episodes/4641918) | [46](https://www.fernsehserien.de/arte-360grad-reportage/folgen/46-spiele-des-lebens-schach-krieg-auf-64-feldern-339163) | 
+| 2000-02-09 | Spiele des Lebens: Mehr als nur ein Kinderspiel | [S02E07](https://thetvdb.com/series/272599-show/episodes/4641919) | [47](https://www.fernsehserien.de/arte-360grad-reportage/folgen/47-spiele-des-lebens-mehr-als-nur-ein-kinderspiel-339164) | 
+| 2000-02-10 | Spiele des Lebens: Spielplatz Natur | [S02E08](https://thetvdb.com/series/272599-show/episodes/4641920) | [48](https://www.fernsehserien.de/arte-360grad-reportage/folgen/48-spiele-des-lebens-spielplatz-natur-339165) | 
+| 2000-03-06 | Die Schatzjäger: Beruf Grabräuber | [S02E09](https://thetvdb.com/series/272599-show/episodes/4641921) | [49](https://www.fernsehserien.de/arte-360grad-reportage/folgen/49-die-schatzjaeger-beruf-grabraeuber-339166) | 
+| 2000-03-07 | Die Schatzjäger: Schätze aus dem All | [S02E10](https://thetvdb.com/series/272599-show/episodes/4641922) | [50](https://www.fernsehserien.de/arte-360grad-reportage/folgen/50-die-schatzjaeger-schaetze-aus-dem-all-339167) | 
+| 2000-03-08 | Die Schatzjäger: Die Taucher der Goldküste | [S02E11](https://thetvdb.com/series/272599-show/episodes/4641923) | [51](https://www.fernsehserien.de/arte-360grad-reportage/folgen/51-die-schatzjaeger-die-taucher-der-goldkueste-339168) | 
+| 2000-03-09 | Die Schatzjäger: Im Bann der Rubine | [S02E12](https://thetvdb.com/series/272599-show/episodes/4641924) | [52](https://www.fernsehserien.de/arte-360grad-reportage/folgen/52-die-schatzjaeger-im-bann-der-rubine-339169) | 
+| 2000-05-01 | Medizin der Zukunft: Die Klinik der Schamanen | [S02E13](https://thetvdb.com/series/272599-show/episodes/4641925) | [53](https://www.fernsehserien.de/arte-360grad-reportage/folgen/53-medizin-der-zukunft-die-klinik-der-schamanen-339171) | 
+| 2000-05-02 | Medizin der Zukunft: Organe nach Maß | [S02E14](https://thetvdb.com/series/272599-show/episodes/4641926) | [54](https://www.fernsehserien.de/arte-360grad-reportage/folgen/54-medizin-der-zukunft-organe-nach-mass-339172) | 
+| 2000-05-03 | Medizin der Zukunft: Die Jäger des Lassa-Virus | [S02E15](https://thetvdb.com/series/272599-show/episodes/4641927) | [55](https://www.fernsehserien.de/arte-360grad-reportage/folgen/55-medizin-der-zukunft-die-jaeger-des-lassa-virus-339173) | 
+| 2000-05-04 | Medizin der Zukunft: Chirurgen am Joystick | [S02E16](https://thetvdb.com/series/272599-show/episodes/4641928) | [56](https://www.fernsehserien.de/arte-360grad-reportage/folgen/56-medizin-der-zukunft-chirurgen-am-joystick-339174) | 
+| 2000-06-05 | Dem Täter auf der Spur: Die Hightech-Polizei | [S02E17](https://thetvdb.com/series/272599-show/episodes/4641929) | [57](https://www.fernsehserien.de/arte-360grad-reportage/folgen/57-dem-taeter-auf-der-spur-die-hightech-polizei-339170) | 
+| 2000-06-06 | Dem Täter auf der Spur: Die Kunst des Fälschens | [S02E18](https://thetvdb.com/series/272599-show/episodes/4641930) | [58](https://www.fernsehserien.de/arte-360grad-reportage/folgen/58-dem-taeter-auf-der-spur-die-kunst-des-faelschens-339175) | 
+| 2000-06-07 | Dem Täter auf der Spur: Geheimnisse der Toten | [S02E19](https://thetvdb.com/series/272599-show/episodes/4641931) | [59](https://www.fernsehserien.de/arte-360grad-reportage/folgen/59-dem-taeter-auf-der-spur-geheimnisse-der-toten-339308) | 
+| 2000-06-08 | Dem Täter auf der Spur: Psycho-Detektive | [S02E20](https://thetvdb.com/series/272599-show/episodes/4641932) | [60](https://www.fernsehserien.de/arte-360grad-reportage/folgen/60-dem-taeter-auf-der-spur-psycho-detektive-339309) | 
+| 2000-09-04 | Im Reich der Meere: Das Fenster zum Meer - Im Großaquarium von Sydney | [S02E21](https://thetvdb.com/series/272599-show/episodes/4824557) | [61](https://www.fernsehserien.de/arte-360grad-reportage/folgen/61-im-reich-der-meere-das-fenster-zum-meer-im-grossaquarium-von-sydney-339341) | 
+| 2000-09-05 | Im Reich der Meere: Schwarze Brandung - Nach der Ölkatastrophe an der bretonischen Küste | [S02E22](https://thetvdb.com/series/272599-show/episodes/4824558) | [62](https://www.fernsehserien.de/arte-360grad-reportage/folgen/62-im-reich-der-meere-schwarze-brandung-nach-der-oelkatastrophe-an-der-bretonischen-kueste-339342) | 
+| 2000-09-06 | Im Reich der Meere: Durst nach Meer - Neue Methoden der Trinkwassergewinnung | [S02E23](https://thetvdb.com/series/272599-show/episodes/4824559) | [63](https://www.fernsehserien.de/arte-360grad-reportage/folgen/63-im-reich-der-meere-durst-nach-meer-neue-methoden-der-trinkwassergewinnung-339343) | 
+| 2000-09-07 | Im Reich der Meere: SOS auf hoher See - Moderne Rettungstechnik im Einsatz | [S02E24](https://thetvdb.com/series/272599-show/episodes/4824560) | [64](https://www.fernsehserien.de/arte-360grad-reportage/folgen/64-im-reich-der-meere-sos-auf-hoher-see-moderne-rettungstechnik-im-einsatz-339344) | 
+| 2000-10-02 | Die Geheimnisse des Waldes: Die Feuerpatrouille | [S02E25](https://thetvdb.com/series/272599-show/episodes/4824561) | [65](https://www.fernsehserien.de/arte-360grad-reportage/folgen/65-die-geheimnisse-des-waldes-die-feuerpatrouille-339345) | 
+| 2000-10-03 | Die Geheimnisse des Waldes: Der letzte Märchenwald | [S02E26](https://thetvdb.com/series/272599-show/episodes/4824562) | [66](https://www.fernsehserien.de/arte-360grad-reportage/folgen/66-die-geheimnisse-des-waldes-der-letzte-maerchenwald-339339) | 
+| 2000-10-04 | Die Geheimnisse des Waldes: Chinas grüne Mauer | [S02E27](https://thetvdb.com/series/272599-show/episodes/4824563) | [67](https://www.fernsehserien.de/arte-360grad-reportage/folgen/67-die-geheimnisse-des-waldes-chinas-gruene-mauer-339346) | 
+| 2000-10-05 | Die Geheimnisse des Waldes: Die Waldfabrik | [S02E28](https://thetvdb.com/series/272599-show/episodes/4824564) | [68](https://www.fernsehserien.de/arte-360grad-reportage/folgen/68-die-geheimnisse-des-waldes-die-waldfabrik-339347) | 
+| 2000-11-06 | Leben am Limit / Grenzen des Körpers: Himalaja - Tödliche Höhe | [S02E29](https://thetvdb.com/series/272599-show/episodes/4824565) | [69](https://www.fernsehserien.de/arte-360grad-reportage/folgen/69-leben-am-limit-grenzen-des-koerpers-himalaja-toedliche-hoehe-339348) | 
+| 2000-11-07 | Leben am Limit / Grenzen des Körpers: Apnoe-Taucher - Im Tiefenrausch | [S02E30](https://thetvdb.com/series/272599-show/episodes/4824566) | [70](https://www.fernsehserien.de/arte-360grad-reportage/folgen/70-leben-am-limit-grenzen-des-koerpers-apnoe-taucher-im-tiefenrausch-339349) | 
+| 2000-11-08 | Leben am Limit / Grenzen des Körpers: Radrennen - Ewiger Endspurt | [S02E31](https://thetvdb.com/series/272599-show/episodes/4824567) | [71](https://www.fernsehserien.de/arte-360grad-reportage/folgen/71-leben-am-limit-grenzen-des-koerpers-radrennen-ewiger-endspurt-339350) | 
+| 2000-11-09 | Leben am Limit / Grenzen des Körpers: Sadhus - Heilige Aussteiger | [S02E32](https://thetvdb.com/series/272599-show/episodes/4824568) | [72](https://www.fernsehserien.de/arte-360grad-reportage/folgen/72-leben-am-limit-grenzen-des-koerpers-sadhus-heilige-aussteiger-339351) | 
+| 2000-12-04 | Tiere im Rampenlicht: Die Elefantenschule | [S02E33](https://thetvdb.com/series/272599-show/episodes/4824569) | [73](https://www.fernsehserien.de/arte-360grad-reportage/folgen/73-tiere-im-rampenlicht-die-elefantenschule-339352) | 
+| 2000-12-05 | Tiere im Rampenlicht: Der Rentier-Trek | [S02E34](https://thetvdb.com/series/272599-show/episodes/4824570) | [74](https://www.fernsehserien.de/arte-360grad-reportage/folgen/74-tiere-im-rampenlicht-der-rentier-trek-339353) | 
+| 2000-12-06 | Tiere im Rampenlicht: Nicht ohne meinen Hund | [S02E35](https://thetvdb.com/series/272599-show/episodes/4824571) | [75](https://www.fernsehserien.de/arte-360grad-reportage/folgen/75-tiere-im-rampenlicht-nicht-ohne-meinen-hund-339354) | 
+| 2000-12-07 | Tiere im Rampenlicht: Kamele im Rennen | [S02E36](https://thetvdb.com/series/272599-show/episodes/4824572) | [76](https://www.fernsehserien.de/arte-360grad-reportage/folgen/76-tiere-im-rampenlicht-kamele-im-rennen-339355) | 
+|  | Überleben in der Wüste: Timbuktu | [S03E01](https://thetvdb.com/series/272599-show/episodes/4641935) | [77](https://www.fernsehserien.de/arte-360grad-reportage/folgen/77-ueberleben-in-der-wueste-timbuktu-339356) | 
+| 2001-01-03 | Überleben in der Wüste: Die Frucht, die aus der Dürre kam | [S03E02](https://thetvdb.com/series/272599-show/episodes/4641936) | [78](https://www.fernsehserien.de/arte-360grad-reportage/folgen/78-ueberleben-in-der-wueste-die-frucht-die-aus-der-duerre-kam-339357) | 
+|  | Überleben in der Wüste: Baumeister der Wüste | [S03E03](https://thetvdb.com/series/272599-show/episodes/4641937) | [79](https://www.fernsehserien.de/arte-360grad-reportage/folgen/79-ueberleben-in-der-wueste-baumeister-der-wueste-339358) | 
+| 2001-01-05 | Überleben in der Wüste: Wüste auf Bewährung | [S03E04](https://thetvdb.com/series/272599-show/episodes/4641938) | [80](https://www.fernsehserien.de/arte-360grad-reportage/folgen/80-ueberleben-in-der-wueste-wueste-auf-bewaehrung-339359) | 
+| 2001-03-05 | Die Baustelle des Herrn | [S03E05](https://thetvdb.com/series/272599-show/episodes/4641939) | [81](https://www.fernsehserien.de/arte-360grad-reportage/folgen/81-die-baustelle-des-herrn-339363) | 
+| 2001-03-06 | Retter des Nebelwaldes | [S03E06](https://thetvdb.com/series/272599-show/episodes/4641940) | [82](https://www.fernsehserien.de/arte-360grad-reportage/folgen/82-retter-des-nebelwaldes-339364) | 
+| 2001-03-07 | Hollywood auf dem Trockenen | [S03E07](https://thetvdb.com/series/272599-show/episodes/4641941) | [83](https://www.fernsehserien.de/arte-360grad-reportage/folgen/83-hollywood-auf-dem-trockenen-339361) | 
+| 2001-03-08 | Die Adern von Berlin - Der Wasserkreislauf einer Metropole | [S03E08](https://thetvdb.com/series/272599-show/episodes/4641942) | [84](https://www.fernsehserien.de/arte-360grad-reportage/folgen/84-die-adern-von-berlin-der-wasserkreislauf-einer-metropole-339366) | 
+| 2001-04-09 | Operation Alpentunnel | [S03E09](https://thetvdb.com/series/272599-show/episodes/4641943) | [85](https://www.fernsehserien.de/arte-360grad-reportage/folgen/85-operation-alpentunnel-339367) | 
+| 2001-04-10 | Brücke in den Orient | [S03E10](https://thetvdb.com/series/272599-show/episodes/4641944) | [86](https://www.fernsehserien.de/arte-360grad-reportage/folgen/86-bruecke-in-den-orient-339368) | 
+| 2001-04-11 | Die letzten Nixen - die Taucherinnen von Cheju | [S03E11](https://thetvdb.com/series/272599-show/episodes/4641945) | [87](https://www.fernsehserien.de/arte-360grad-reportage/folgen/87-die-letzten-nixen-die-taucherinnen-von-cheju-339401) | 
+| 2001-04-12 | Die Fischer vom Rio Negro | [S03E12](https://thetvdb.com/series/272599-show/episodes/4641946) | [88](https://www.fernsehserien.de/arte-360grad-reportage/folgen/88-die-fischer-vom-rio-negro-339403) | 
+| 2001-04-30 | Anatomie einer Lawine | [S03E13](https://thetvdb.com/series/272599-show/episodes/4641947) | [89](https://www.fernsehserien.de/arte-360grad-reportage/folgen/89-anatomie-einer-lawine-339407) | 
+| 2001-05-01 | Die Erbin Gandhis - Widerstand gegen einen Staudamm | [S03E14](https://thetvdb.com/series/272599-show/episodes/4641948) | [90](https://www.fernsehserien.de/arte-360grad-reportage/folgen/90-die-erbin-gandhis-widerstand-gegen-einen-staudamm-339408) | 
+| 2001-05-02 | Die Spur der Wüstenkrokodile | [S03E15](https://thetvdb.com/series/272599-show/episodes/4641949) | [91](https://www.fernsehserien.de/arte-360grad-reportage/folgen/91-die-spur-der-wuestenkrokodile-339409) | 
+| 2001-05-03 | Invasion der Biber | [S03E16](https://thetvdb.com/series/272599-show/episodes/4641950) | [92](https://www.fernsehserien.de/arte-360grad-reportage/folgen/92-invasion-der-biber-339410) | 
+| 2001-06-04 | Kumbh Mela - Das größte Fest der Welt | [S03E17](https://thetvdb.com/series/272599-show/episodes/4641951) | [93](https://www.fernsehserien.de/arte-360grad-reportage/folgen/93-kumbh-mela-das-groesste-fest-der-welt-339411) | 
+| 2001-06-05 | Buzkashi - Spiel der Steppenreiter | [S03E18](https://thetvdb.com/series/272599-show/episodes/4641952) | [94](https://www.fernsehserien.de/arte-360grad-reportage/folgen/94-buzkashi-spiel-der-steppenreiter-339413) | 
+| 2001-06-06 | Wasser im Tank | [S03E19](https://thetvdb.com/series/272599-show/episodes/4641953) | [95](https://www.fernsehserien.de/arte-360grad-reportage/folgen/95-wasser-im-tank-339414) | 
+| 2001-06-07 | Stau am Himmel | [S03E20](https://thetvdb.com/series/272599-show/episodes/4641954) | [96](https://www.fernsehserien.de/arte-360grad-reportage/folgen/96-stau-am-himmel-339415) | 
+| 2001-09-03 | Das Waisenhaus der Affen | [S03E21](https://thetvdb.com/series/272599-show/episodes/4641955) | [97](https://www.fernsehserien.de/arte-360grad-reportage/folgen/97-das-waisenhaus-der-affen-339416) | 
+| 2001-09-04 | Die Bisonwächter | [S03E22](https://thetvdb.com/series/272599-show/episodes/4641956) | [98](https://www.fernsehserien.de/arte-360grad-reportage/folgen/98-die-bisonwaechter-339418) | 
+| 2001-09-05 | Die Farm der Schmetterlinge | [S03E23](https://thetvdb.com/series/272599-show/episodes/4641957) | [99](https://www.fernsehserien.de/arte-360grad-reportage/folgen/99-die-farm-der-schmetterlinge-339419) | 
+| 2001-09-06 | Fährtensucher online | [S03E24](https://thetvdb.com/series/272599-show/episodes/4641958) | [100](https://www.fernsehserien.de/arte-360grad-reportage/folgen/100-faehrtensucher-online-339420) | 
+| 2001-10-01 | Nepals verkaufte Töchter | [S03E25](https://thetvdb.com/series/272599-show/episodes/4641959) | [101](https://www.fernsehserien.de/arte-360grad-reportage/folgen/101-nepals-verkaufte-toechter-339421) | 
+| 2001-10-03 | Die Stadt der Diamanten | [S03E26](https://thetvdb.com/series/272599-show/episodes/4641960) | [102](https://www.fernsehserien.de/arte-360grad-reportage/folgen/102-die-stadt-der-diamanten-339422) | 
+| 2001-10-04 | Gaucho auf Lebenszeit | [S03E27](https://thetvdb.com/series/272599-show/episodes/4641961) | [103](https://www.fernsehserien.de/arte-360grad-reportage/folgen/103-gaucho-auf-lebenszeit-339423) | 
+| 2001-10-05 | Der Großvater der Massai | [S03E28](https://thetvdb.com/series/272599-show/episodes/4641962) | [104](https://www.fernsehserien.de/arte-360grad-reportage/folgen/104-der-grossvater-der-massai-339424) | 
+| 2002-02-04 | Cunahá - Tod im Regenwald | [S04E01](https://thetvdb.com/series/272599-show/episodes/4641963) | [105](https://www.fernsehserien.de/arte-360grad-reportage/folgen/105-cunaha-tod-im-regenwald-339426) | 
+| 2002-02-05 | Walverwandtschaften | [S04E02](https://thetvdb.com/series/272599-show/episodes/4641964) | [106](https://www.fernsehserien.de/arte-360grad-reportage/folgen/106-walverwandtschaften-339427) | 
+| 2002-02-06 | Wildreis - Der grüne Schatz der kanadischen Ojibwa -Indianer | [S04E03](https://thetvdb.com/series/272599-show/episodes/4641965) | [107](https://www.fernsehserien.de/arte-360grad-reportage/folgen/107-wildreis-der-gruene-schatz-der-kanadischen-ojibwa-indianer-339428) | 
+| 2002-02-07 | Party für eine Leiche - Das Fest der Ahnen in Madagaskar | [S04E04](https://thetvdb.com/series/272599-show/episodes/4641966) | [108](https://www.fernsehserien.de/arte-360grad-reportage/folgen/108-party-fuer-eine-leiche-das-fest-der-ahnen-in-madagaskar-339429) | 
+| 2002-03-04 | Filmstars im Pelz | [S04E05](https://thetvdb.com/series/272599-show/episodes/4641967) | [109](https://www.fernsehserien.de/arte-360grad-reportage/folgen/109-filmstars-im-pelz-339430) | 
+| 2002-03-05 | Hongkongs fliegende Küchen | [S04E06](https://thetvdb.com/series/272599-show/episodes/4641968) | [110](https://www.fernsehserien.de/arte-360grad-reportage/folgen/110-hongkongs-fliegende-kuechen-339431) | 
+| 2002-03-06 | Die Herren der Adler - Kasachische Jäger und ihre Greifvögel | [S04E07](https://thetvdb.com/series/272599-show/episodes/4641969) | [111](https://www.fernsehserien.de/arte-360grad-reportage/folgen/111-die-herren-der-adler-kasachische-jaeger-und-ihre-greifvoegel-339432) | 
+| 2002-03-07 | Safran - Ein blühendes Geschäft | [S04E08](https://thetvdb.com/series/272599-show/episodes/4641970) | [112](https://www.fernsehserien.de/arte-360grad-reportage/folgen/112-safran-ein-bluehendes-geschaeft-339434) | 
+| 2002-04-01 | Der Dreh mit den Havannas - Die Zigarrenfälschung | [S04E09](https://thetvdb.com/series/272599-show/episodes/4641971) | [113](https://www.fernsehserien.de/arte-360grad-reportage/folgen/113-der-dreh-mit-den-havannas-die-zigarrenfaelschung-339435) | 
+| 2002-04-02 | Ein göttlicher Zug - das rollende Gotteshaus in Russland | [S04E10](https://thetvdb.com/series/272599-show/episodes/4641972) | [114](https://www.fernsehserien.de/arte-360grad-reportage/folgen/114-ein-goettlicher-zug-das-rollende-gotteshaus-in-russland-339436) | 
+| 2002-04-03 | Sinfonie der Straße - Kinderorchester in Venezuela | [S04E11](https://thetvdb.com/series/272599-show/episodes/4641973) | [115](https://www.fernsehserien.de/arte-360grad-reportage/folgen/115-sinfonie-der-strasse-kinderorchester-in-venezuela-339437) | 
+| 2002-05-06 | Ticket in ein neues Leben - Der Lifeline Express in Indien | [S04E12](https://thetvdb.com/series/272599-show/episodes/4641974) | [116](https://www.fernsehserien.de/arte-360grad-reportage/folgen/116-ticket-in-ein-neues-leben-der-lifeline-express-in-indien-339439) | 
+| 2002-05-07 | Die Bernsteintaucher | [S04E13](https://thetvdb.com/series/272599-show/episodes/4641975) | [117](https://www.fernsehserien.de/arte-360grad-reportage/folgen/117-die-bernsteintaucher-339440) | 
+| 2002-05-08 | Mumien im Ausverkauf | [S04E14](https://thetvdb.com/series/272599-show/episodes/4641976) | [118](https://www.fernsehserien.de/arte-360grad-reportage/folgen/118-mumien-im-ausverkauf-339441) | 
+| 2002-05-09 | Die Minensucher von Kabul | [S04E15](https://thetvdb.com/series/272599-show/episodes/4641977) | [119](https://www.fernsehserien.de/arte-360grad-reportage/folgen/119-die-minensucher-von-kabul-339442) | 
+| 2002-06-03 | Bermuda: Schatzsuche in der Tiefsee | [S04E16](https://thetvdb.com/series/272599-show/episodes/4641978) | [120](https://www.fernsehserien.de/arte-360grad-reportage/folgen/120-bermuda-schatzsuche-in-der-tiefsee-339443) | 
+| 2002-06-04 | Die Legende von den Killerbienen | [S04E17](https://thetvdb.com/series/272599-show/episodes/4641979) | [121](https://www.fernsehserien.de/arte-360grad-reportage/folgen/121-die-legende-von-den-killerbienen-339405) | 
+| 2002-06-05 | Die Schule der Inuit | [S04E18](https://thetvdb.com/series/272599-show/episodes/4641980) | [122](https://www.fernsehserien.de/arte-360grad-reportage/folgen/122-die-schule-der-inuit-339445) | 
+| 2002-06-06 | Peones - Verkannte Helden | [S04E19](https://thetvdb.com/series/272599-show/episodes/4641981) | [123](https://www.fernsehserien.de/arte-360grad-reportage/folgen/123-peones-verkannte-helden-339446) | 
+| 2002-09-02 | Sir Peter Blake - Expedition ins ewige Eis | [S04E20](https://thetvdb.com/series/272599-show/episodes/4641982) | [124](https://www.fernsehserien.de/arte-360grad-reportage/folgen/124-sir-peter-blake-expedition-ins-ewige-eis-339448) | 
+| 2002-09-03 | Im Wald der Vampire | [S04E21](https://thetvdb.com/series/272599-show/episodes/4641983) | [125](https://www.fernsehserien.de/arte-360grad-reportage/folgen/125-im-wald-der-vampire-339449) | 
+| 2002-09-04 | Nashörner unter dem Hammer | [S04E22](https://thetvdb.com/series/272599-show/episodes/4641984) | [126](https://www.fernsehserien.de/arte-360grad-reportage/folgen/126-nashoerner-unter-dem-hammer-339450) | 
+| 2002-09-05 | Warten auf den Monsun | [S04E23](https://thetvdb.com/series/272599-show/episodes/4641985) | [127](https://www.fernsehserien.de/arte-360grad-reportage/folgen/127-warten-auf-den-monsun-339451) | 
+| 2002-10-07 | Palmasola - Dorf hinter Gittern | [S04E24](https://thetvdb.com/series/272599-show/episodes/4641986) | [128](https://www.fernsehserien.de/arte-360grad-reportage/folgen/128-palmasola-dorf-hinter-gittern-339453) | 
+| 2002-10-08 | Bilder hören - Die blinden Kinder von Tibet | [S04E25](https://thetvdb.com/series/272599-show/episodes/4641987) | [129](https://www.fernsehserien.de/arte-360grad-reportage/folgen/129-bilder-hoeren-die-blinden-kinder-von-tibet-339454) | 
+| 2002-10-09 | Der Blechmusik-Oscar | [S04E26](https://thetvdb.com/series/272599-show/episodes/4641988) | [130](https://www.fernsehserien.de/arte-360grad-reportage/folgen/130-der-blechmusik-oscar-339455) | 
+| 2002-10-10 | Die Riesenflöße vom Jenissej - Ein Floßschiffer auf seiner Fahrt zum Polarmeer | [S04E27](https://thetvdb.com/series/272599-show/episodes/4641989) | [131](https://www.fernsehserien.de/arte-360grad-reportage/folgen/131-die-riesenfloesse-vom-jenissej-ein-flossschiffer-auf-seiner-fahrt-zum-polarmeer-339456) | 
+| 2002-11-04 | Heiratsmarkt in Marokko | [S04E28](https://thetvdb.com/series/272599-show/episodes/4641990) | [132](https://www.fernsehserien.de/arte-360grad-reportage/folgen/132-heiratsmarkt-in-marokko-339457) | 
+| 2002-11-05 | Die türkischen Hochzeitsmacher | [S04E29](https://thetvdb.com/series/272599-show/episodes/4641991) | [133](https://www.fernsehserien.de/arte-360grad-reportage/folgen/133-die-tuerkischen-hochzeitsmacher-339458) | 
+| 2002-11-06 | Die Frachtensegler von Madagaskar | [S04E30](https://thetvdb.com/series/272599-show/episodes/4641992) | [134](https://www.fernsehserien.de/arte-360grad-reportage/folgen/134-die-frachtensegler-von-madagaskar-339459) | 
+| 2002-11-07 | Die Abalone-Wilderer - Der Kampf um den Erhalt einer Seeschneckenart | [S04E31](https://thetvdb.com/series/272599-show/episodes/4641993) | [135](https://www.fernsehserien.de/arte-360grad-reportage/folgen/135-die-abalone-wilderer-der-kampf-um-den-erhalt-einer-seeschneckenart-339460) | 
+| 2003-01-06 | Die Mörderinnen von Targsor - Das einzige Frauengefängnis in Rumänien | [S05E01](https://thetvdb.com/series/272599-show/episodes/4641994) | [136](https://www.fernsehserien.de/arte-360grad-reportage/folgen/136-die-moerderinnen-von-targsor-das-einzige-frauengefaengnis-in-rumaenien-339461) | 
+| 2003-01-07 | Das Metall aus dem Vulkan | [S05E02](https://thetvdb.com/series/272599-show/episodes/4641995) | [137](https://www.fernsehserien.de/arte-360grad-reportage/folgen/137-das-metall-aus-dem-vulkan-339462) | 
+| 2003-01-08 | Die Söldner der Perlen - Der lebensgefährliche Job | [S05E03](https://thetvdb.com/series/272599-show/episodes/4641996) | [138](https://www.fernsehserien.de/arte-360grad-reportage/folgen/138-die-soeldner-der-perlen-der-lebensgefaehrliche-job-339463) | 
+| 2003-01-09 | Hongkongs Bambusakrobaten | [S05E04](https://thetvdb.com/series/272599-show/episodes/4641997) | [139](https://www.fernsehserien.de/arte-360grad-reportage/folgen/139-hongkongs-bambusakrobaten-339464) | 
+| 2003-02-03 | Mission Nordkorea | [S05E05](https://thetvdb.com/series/272599-show/episodes/4641998) | [140](https://www.fernsehserien.de/arte-360grad-reportage/folgen/140-mission-nordkorea-339465) | 
+| 2003-02-04 | Radios gegen Kalaschnikows | [S05E06](https://thetvdb.com/series/272599-show/episodes/4641999) | [141](https://www.fernsehserien.de/arte-360grad-reportage/folgen/141-radios-gegen-kalaschnikows-339466) | 
+| 2003-02-05 | Die Hightech-Oase - Auf der größten Milchfarm der Welt | [S05E07](https://thetvdb.com/series/272599-show/episodes/4642000) | [142](https://www.fernsehserien.de/arte-360grad-reportage/folgen/142-die-hightech-oase-auf-der-groessten-milchfarm-der-welt-339467) | 
+| 2003-02-06 | Videofabrik Nigeria | [S05E08](https://thetvdb.com/series/272599-show/episodes/4642001) | [143](https://www.fernsehserien.de/arte-360grad-reportage/folgen/143-videofabrik-nigeria-339468) | 
+| 2003-03-03 | Beuteltiere an der Börse | [S05E09](https://thetvdb.com/series/272599-show/episodes/4642002) | [144](https://www.fernsehserien.de/arte-360grad-reportage/folgen/144-beuteltiere-an-der-boerse-339472) | 
+| 2003-03-04 | Hongkong - Pferde und Millionen | [S05E10](https://thetvdb.com/series/272599-show/episodes/4642003) | [145](https://www.fernsehserien.de/arte-360grad-reportage/folgen/145-hongkong-pferde-und-millionen-339473) | 
+| 2003-03-05 | Wo der wilde Kaffee wächst | [S05E11](https://thetvdb.com/series/272599-show/episodes/4642004) | [146](https://www.fernsehserien.de/arte-360grad-reportage/folgen/146-wo-der-wilde-kaffee-waechst-339474) | 
+| 2003-03-06 | Rückkehr der Meeresschildkröten | [S05E12](https://thetvdb.com/series/272599-show/episodes/4642005) | [147](https://www.fernsehserien.de/arte-360grad-reportage/folgen/147-rueckkehr-der-meeresschildkroeten-339475) | 
+| 2003-04-07 | Samoa Queens - Männer, die als Frauen leben | [S05E13](https://thetvdb.com/series/272599-show/episodes/4642006) | [148](https://www.fernsehserien.de/arte-360grad-reportage/folgen/148-samoa-queens-maenner-die-als-frauen-leben-339476) | 
+| 2003-04-08 | Einsatz für den Amur-Tiger | [S05E14](https://thetvdb.com/series/272599-show/episodes/4642007) | [149](https://www.fernsehserien.de/arte-360grad-reportage/folgen/149-einsatz-fuer-den-amur-tiger-339477) | 
+| 2003-04-09 | Die Seelensammler von Bangkok | [S05E15](https://thetvdb.com/series/272599-show/episodes/4642008) | [150](https://www.fernsehserien.de/arte-360grad-reportage/folgen/150-die-seelensammler-von-bangkok-von-freiwilligen-rettungshelfern-339478) | 
+| 2003-04-10 | Der Vogelhändler von Guangzhou | [S05E16](https://thetvdb.com/series/272599-show/episodes/4642009) | [151](https://www.fernsehserien.de/arte-360grad-reportage/folgen/151-der-vogelhaendler-von-guangzhou-339479) | 
+| 2004-01-03 | Goldrausch in Sibirien | [S06E01](https://thetvdb.com/series/272599-show/episodes/4642020) | [152](https://www.fernsehserien.de/arte-360grad-reportage/folgen/152-goldrausch-in-sibirien-339412) | 
+| 2004-02-28 | Die Waldbahn der Karpaten | [S06E02](https://thetvdb.com/series/272599-show/episodes/4642021) | [153](https://www.fernsehserien.de/arte-360grad-reportage/folgen/153-die-waldbahn-der-karpaten-339481) | 
+| 2004-03-27 | Das Vermächtnis der Marquesas-Inseln | [S06E03](https://thetvdb.com/series/272599-show/episodes/4642022) | [154](https://www.fernsehserien.de/arte-360grad-reportage/folgen/154-das-vermaechtnis-der-marquesas-inseln-339482) | 
+| 2004-04-24 | Joaquims wilde Reiter | [S06E04](https://thetvdb.com/series/272599-show/episodes/4642023) | [155](https://www.fernsehserien.de/arte-360grad-reportage/folgen/155-joaquims-wilde-reiter-339483) | 
+| 2004-05-29 | Johannesburg - Eine Stadt macht dicht | [S06E05](https://thetvdb.com/series/272599-show/episodes/4642024) | [156](https://www.fernsehserien.de/arte-360grad-reportage/folgen/156-johannesburg-eine-stadt-macht-dicht-339486) | 
+| 2004-06-26 | Paco Pacos - Die Knatterkisten vom Amazonas | [S06E06](https://thetvdb.com/series/272599-show/episodes/4642025) | [157](https://www.fernsehserien.de/arte-360grad-reportage/folgen/157-paco-pacos-die-knatterkisten-vom-amazonas-339417) | 
+| 2004-07-10 | Das Parlament der Kinder | [S06E07](https://thetvdb.com/series/272599-show/episodes/4642026) | [158](https://www.fernsehserien.de/arte-360grad-reportage/folgen/158-das-parlament-der-kinder-339433) | 
+| 2004-07-31 | Die Bogenschützin von Bhutan | [S06E08](https://thetvdb.com/series/272599-show/episodes/4642027) | [159](https://www.fernsehserien.de/arte-360grad-reportage/folgen/159-die-bogenschuetzin-von-bhutan-339447) | 
+| 2004-09-04 | Überleben am Manila Express | [S06E09](https://thetvdb.com/series/272599-show/episodes/4642028) | [160](https://www.fernsehserien.de/arte-360grad-reportage/folgen/160-ueberleben-am-manila-express-339484) | 
+| 2004-09-11 | Das Mysterium der sibirischen Mumie | [S06E10](https://thetvdb.com/series/272599-show/episodes/4642029) | [161](https://www.fernsehserien.de/arte-360grad-reportage/folgen/161-das-mysterium-der-sibirischen-mumie-339471) | 
+| 2004-09-18 | Razzia im Regenwald | [S06E11](https://thetvdb.com/series/272599-show/episodes/4642031) | [162](https://www.fernsehserien.de/arte-360grad-reportage/folgen/162-razzia-im-regenwald-339488) | 
+| 2004-10-16 | In acht Meilen um die Welt | [S06E12](https://thetvdb.com/series/272599-show/episodes/4642033) | [163](https://www.fernsehserien.de/arte-360grad-reportage/folgen/163-in-acht-meilen-um-die-welt-339489) | 
+| 2004-10-30 | Alphadi und die Farben der Wüste | [S06E13](https://thetvdb.com/series/272599-show/episodes/4642034) | [164](https://www.fernsehserien.de/arte-360grad-reportage/folgen/164-alphadi-modedesigner-aus-der-wueste-339490) | 
+| 2004-11-06 | Die Verwandlungskünstler von Dakar | [S06E14](https://thetvdb.com/series/272599-show/episodes/4642036) | [165](https://www.fernsehserien.de/arte-360grad-reportage/folgen/165-die-verwandlungskuenstler-von-dakar-339491) | 
+| 2004-11-13 | Kalifornien auf die harte Tour | [S06E15](https://thetvdb.com/series/272599-show/episodes/4642037) | [166](https://www.fernsehserien.de/arte-360grad-reportage/folgen/166-kalifornien-auf-die-harte-tour-339492) | 
+| 2004-11-20 | Der Polarflieger - Ein Pilot in Sibirien | [S06E16](https://thetvdb.com/series/272599-show/episodes/4642038) | [167](https://www.fernsehserien.de/arte-360grad-reportage/folgen/167-der-polarflieger-ein-pilot-in-sibirien-339493) | 
+| 2004-11-27 | Dagestan - Land über den Wolken | [S06E17](https://thetvdb.com/series/272599-show/episodes/4642039) | [168](https://www.fernsehserien.de/arte-360grad-reportage/folgen/168-dagestan-land-ueber-den-wolken-339494) | 
+| 2004-12-04 | Die versunkenen Flugzeuge | [S06E18](https://thetvdb.com/series/272599-show/episodes/4642040) | [169](https://www.fernsehserien.de/arte-360grad-reportage/folgen/169-die-versunkenen-flugzeuge-339495) | 
+| 2004-12-30 | Ein Traum von Schokolade | [S06E19](https://thetvdb.com/series/272599-show/episodes/4642041) | [170](https://www.fernsehserien.de/arte-360grad-reportage/folgen/170-ein-traum-von-schokolade-339496) | 
+| 2005-01-08 | Die rasenden Engel der Línea 5 | [S07E01](https://thetvdb.com/series/272599-show/episodes/4642146) | [171](https://www.fernsehserien.de/arte-360grad-reportage/folgen/171-die-rasenden-engel-der-linea-5-339497) | 
+| 2005-01-22 | Das Dschungel-Orchester | [S07E02](https://thetvdb.com/series/272599-show/episodes/4642147) | [172](https://www.fernsehserien.de/arte-360grad-reportage/folgen/172-das-dschungel-orchester-339498) | 
+| 2005-01-29 | Überleben in der Wüste - Straffällig gewordene Jugendliche in Arizona | [S07E03](https://thetvdb.com/series/272599-show/episodes/4642148) | [173](https://www.fernsehserien.de/arte-360grad-reportage/folgen/173-ueberleben-in-der-wueste-straffaellig-gewordene-jugendliche-in-arizona-339500) | 
+| 2005-02-26 | Der Wüstendoktor | [S07E04](https://thetvdb.com/series/272599-show/episodes/4642149) | [174](https://www.fernsehserien.de/arte-360grad-reportage/folgen/174-der-wuestendoktor-339501) | 
+| 2005-04-09 | Die Kichwa-Krieger und das Öl | [S07E05](https://thetvdb.com/series/272599-show/episodes/4642150) | [175](https://www.fernsehserien.de/arte-360grad-reportage/folgen/175-die-kichwa-krieger-und-das-oel-339502) | 
+| 2005-05-07 | Überleben am Manila-Express | [S07E06](https://thetvdb.com/series/272599-show/episodes/4642151) |  | 
+| 2005-05-21 | Honeymoon auf Hainan | [S07E07](https://thetvdb.com/series/272599-show/episodes/4642152) | [176](https://www.fernsehserien.de/arte-360grad-reportage/folgen/176-honeymoon-auf-hainan-339505) | 
+| 2005-06-25 | Kambodscha - Die Seele der Seide | [S07E08](https://thetvdb.com/series/272599-show/episodes/4642153) | [177](https://www.fernsehserien.de/arte-360grad-reportage/folgen/177-kambodscha-die-seele-der-seide-339506) | 
+| 2005-07-09 | Das Postschiff zum Ende der Welt | [S07E09](https://thetvdb.com/series/272599-show/episodes/4642154) | [178](https://www.fernsehserien.de/arte-360grad-reportage/folgen/178-das-postschiff-zum-ende-der-welt-339507) | 
+| 2005-08-06 | Vagabunden der Wüste - Kamelzüchter in der Mongolei | [S07E10](https://thetvdb.com/series/272599-show/episodes/4642155) | [179](https://www.fernsehserien.de/arte-360grad-reportage/folgen/179-vagabunden-der-wueste-kamelzuechter-in-der-mongolei-339512) | 
+| 2005-09-17 | Die Mutter der Bonobos | [S07E11](https://thetvdb.com/series/272599-show/episodes/4642156) | [180](https://www.fernsehserien.de/arte-360grad-reportage/folgen/180-die-mutter-der-bonobos-339653) | 
+| 2005-09-24 | Die Eisenbahn vom Baikal zum Amur | [S07E12](https://thetvdb.com/series/272599-show/episodes/4642157) | [181](https://www.fernsehserien.de/arte-360grad-reportage/folgen/181-die-eisenbahn-vom-baikal-zum-amur-339654) | 
+| 2005-10-01 | Ein göttlicher Zug | [S07E13](https://thetvdb.com/series/272599-show/episodes/4642158) |  | 
+| 2005-10-01 | Ticket in ein neues Leben | [S07E14](https://thetvdb.com/series/272599-show/episodes/4642159) | [182](https://www.fernsehserien.de/arte-360grad-reportage/folgen/182-ticket-in-ein-neues-leben-339656) | 
+| 2005-10-08 | Das schwimmende Krankenhaus vom Amazonas | [S07E15](https://thetvdb.com/series/272599-show/episodes/4642160) | [183](https://www.fernsehserien.de/arte-360grad-reportage/folgen/183-das-schwimmende-krankenhaus-vom-amazonas-339657) | 
+| 2005-10-22 | Der weiße Berg von Feuerland | [S07E16](https://thetvdb.com/series/272599-show/episodes/4642161) | [184](https://www.fernsehserien.de/arte-360grad-reportage/folgen/184-der-weisse-berg-von-feuerland-339658) | 
+| 2005-11-12 | Mecaniqueros - Nichts ist unmöglich in Havanna | [S07E17](https://thetvdb.com/series/272599-show/episodes/4642162) | [185](https://www.fernsehserien.de/arte-360grad-reportage/folgen/185-mecaniqueros-nichts-ist-unmoeglich-in-havanna-339659) | 
+| 2005-12-10 | Eremitage - Palast der Katzen | [S07E18](https://thetvdb.com/series/272599-show/episodes/4642163) | [186](https://www.fernsehserien.de/arte-360grad-reportage/folgen/186-eremitage-palast-der-katzen-339660) | 
+| 2005-12-17 | Traumberuf Schäfer | [S07E19](https://thetvdb.com/series/272599-show/episodes/4642164) | [187](https://www.fernsehserien.de/arte-360grad-reportage/folgen/187-traumberuf-schaefer-339661) | 
+| 2005-12-24 | Die Kinder des Vater Nikolai | [S07E20](https://thetvdb.com/series/272599-show/episodes/4642165) | [188](https://www.fernsehserien.de/arte-360grad-reportage/folgen/188-die-kinder-des-vater-nikolai-339662) | 
+| 2006-01-14 | Im Land der Schwarzen Witwen | [S08E01](https://thetvdb.com/series/272599-show/episodes/4642167) | [189](https://www.fernsehserien.de/arte-360grad-reportage/folgen/189-im-land-der-schwarzen-witwen-339499) | 
+| 2006-02-04 | Polen - Ärger im Revier | [S08E02](https://thetvdb.com/series/272599-show/episodes/4642168) | [190](https://www.fernsehserien.de/arte-360grad-reportage/folgen/190-polen-aerger-im-revier-339665) | 
+| 2006-03-25 | Lust auf Liebe in Lisdoonvarna | [S08E03](https://thetvdb.com/series/272599-show/episodes/4642169) | [191](https://www.fernsehserien.de/arte-360grad-reportage/folgen/191-lust-auf-liebe-in-lisdoonvarna-339503) | 
+| 2006-04-08 | Kung-Fu - Chinas neue Kämpferinnen | [S08E04](https://thetvdb.com/series/272599-show/episodes/4642170) | [192](https://www.fernsehserien.de/arte-360grad-reportage/folgen/192-kung-fu-chinas-neue-kaempferinnen-339669) | 
+| 2006-04-22 | Highway durch die Arktis | [S08E05](https://thetvdb.com/series/272599-show/episodes/4642171) | [193](https://www.fernsehserien.de/arte-360grad-reportage/folgen/193-highway-durch-die-arktis-339670) | 
+| 2006-05-27 | Churubamba - Frauen am Ball | [S08E06](https://thetvdb.com/series/272599-show/episodes/4642172) | [194](https://www.fernsehserien.de/arte-360grad-reportage/folgen/194-churubamba-frauen-am-ball-339674) | 
+| 2006-07-29 | Chicagos Stahlmänner - Abriss und Wiederaufbau eines Hochofens | [S08E07](https://thetvdb.com/series/272599-show/episodes/4642173) | [195](https://www.fernsehserien.de/arte-360grad-reportage/folgen/195-chicagos-stahlmaenner-abriss-und-wiederaufbau-eines-hochofens-339676) | 
+| 2006-07-29 | Die schwimmenden Dörfer der Ha Long Bucht | [S08E08](https://thetvdb.com/series/272599-show/episodes/4642174) | [196](https://www.fernsehserien.de/arte-360grad-reportage/folgen/196-die-schwimmenden-doerfer-der-ha-long-bucht-339509) | 
+| 2006-08-26 | Von Männern und Mustangs | [S08E09](https://thetvdb.com/series/272599-show/episodes/4642175) | [197](https://www.fernsehserien.de/arte-360grad-reportage/folgen/197-von-maennern-und-mustangs-339511) | 
+| 2006-09-09 | Tasmanien: Wächterin im Paradies | [S08E10](https://thetvdb.com/series/272599-show/episodes/4642176) | [198](https://www.fernsehserien.de/arte-360grad-reportage/folgen/198-tasmanien-waechterin-im-paradies-339666) | 
+| 2006-09-16 | Die Teebahn von Darjeeling | [S08E11](https://thetvdb.com/series/272599-show/episodes/4642177) | [199](https://www.fernsehserien.de/arte-360grad-reportage/folgen/199-die-teebahn-von-darjeeling-339668) | 
+| 2006-10-07 | Die Millionen-Dollar-Hirsche | [S08E12](https://thetvdb.com/series/272599-show/episodes/4642178) | [200](https://www.fernsehserien.de/arte-360grad-reportage/folgen/200-die-millionen-dollar-hirsche-339671) | 
+| 2006-10-14 | Die Dächer von Kairo | [S08E13](https://thetvdb.com/series/272599-show/episodes/4642179) | [201](https://www.fernsehserien.de/arte-360grad-reportage/folgen/201-die-daecher-von-kairo-339672) | 
+| 2006-10-21 | Die Trommler von Burundi | [S08E14](https://thetvdb.com/series/272599-show/episodes/4642180) | [202](https://www.fernsehserien.de/arte-360grad-reportage/folgen/202-die-trommler-von-burundi-339677) | 
+| 2006-11-04 | Saphir-Fieber auf Madagaskar | [S08E15](https://thetvdb.com/series/272599-show/episodes/4642181) | [203](https://www.fernsehserien.de/arte-360grad-reportage/folgen/203-saphir-fieber-auf-madagaskar-339673) | 
+| 2006-11-18 | Auf den Spuren der Wikinger | [S08E16](https://thetvdb.com/series/272599-show/episodes/4642182) | [204](https://www.fernsehserien.de/arte-360grad-reportage/folgen/204-auf-den-spuren-der-wikinger-339683) | 
+| 2006-12-02 | Chile - Segen und Fluch einer Kupfermine | [S08E17](https://thetvdb.com/series/272599-show/episodes/4642183) | [205](https://www.fernsehserien.de/arte-360grad-reportage/folgen/205-chile-segen-und-fluch-einer-kupfermine-339685) | 
+| 2006-12-16 | Buddhas Kinder im Goldenen Dreieck | [S08E18](https://thetvdb.com/series/272599-show/episodes/4642184) | [206](https://www.fernsehserien.de/arte-360grad-reportage/folgen/206-buddhas-kinder-im-goldenen-dreieck-339686) | 
+| 2006-12-23 | Eritrea - Ein Esel für die Zukunft | [S08E19](https://thetvdb.com/series/272599-show/episodes/4642185) | [207](https://www.fernsehserien.de/arte-360grad-reportage/folgen/207-eritrea-ein-esel-fuer-die-zukunft-339687) | 
+| 2007-01-06 | Hai-Alarm in Polynesien | [S09E01](https://thetvdb.com/series/272599-show/episodes/4642205) | [208](https://www.fernsehserien.de/arte-360grad-reportage/folgen/208-hai-alarm-in-polynesien-339688) | 
+| 2007-01-27 | Sumatra - Ettis Schönheitssalon | [S09E02](https://thetvdb.com/series/272599-show/episodes/4642206) | [209](https://www.fernsehserien.de/arte-360grad-reportage/folgen/209-sumatra-ettis-schoenheitssalon-339689) | 
+| 2007-02-10 | Kenia: Das Dorf der Frauen | [S09E03](https://thetvdb.com/series/272599-show/episodes/4642207) | [210](https://www.fernsehserien.de/arte-360grad-reportage/folgen/210-kenia-das-dorf-der-frauen-339690) | 
+| 2007-03-03 | Boliviens junge Wilde | [S09E04](https://thetvdb.com/series/272599-show/episodes/4642208) | [211](https://www.fernsehserien.de/arte-360grad-reportage/folgen/211-boliviens-junge-wilde-339692) | 
+| 2007-03-24 | Ein Dorfladen reist durch Lettland | [S09E05](https://thetvdb.com/series/272599-show/episodes/4642209) | [212](https://www.fernsehserien.de/arte-360grad-reportage/folgen/212-ein-dorfladen-reist-durch-lettland-339693) | 
+| 2007-04-07 | Miyako: Die Insel des langen Lebens | [S09E06](https://thetvdb.com/series/272599-show/episodes/4642210) | [213](https://www.fernsehserien.de/arte-360grad-reportage/folgen/213-miyako-die-insel-des-langen-lebens-339694) | 
+| 2007-04-21 | Die Sandmenschen von Schoina | [S09E07](https://thetvdb.com/series/272599-show/episodes/4642211) | [214](https://www.fernsehserien.de/arte-360grad-reportage/folgen/214-die-sandmenschen-von-schoina-339696) | 
+| 2007-05-05 | Bangkoks krabbelnde Delikatessen | [S09E08](https://thetvdb.com/series/272599-show/episodes/4642212) | [215](https://www.fernsehserien.de/arte-360grad-reportage/folgen/215-bangkoks-krabbelnde-delikatessen-339697) | 
+| 2007-05-12 | Die Windreiter der Anden | [S09E09](https://thetvdb.com/series/272599-show/episodes/4642213) | [216](https://www.fernsehserien.de/arte-360grad-reportage/folgen/216-die-windreiter-der-anden-339698) | 
+| 2007-06-02 | Der Lachszähler von Kamtschatka | [S09E10](https://thetvdb.com/series/272599-show/episodes/4642214) | [217](https://www.fernsehserien.de/arte-360grad-reportage/folgen/217-der-lachszaehler-von-kamtschatka-339700) | 
+| 2007-06-09 | Kamtschatka: Kochende Erde | [S09E11](https://thetvdb.com/series/272599-show/episodes/4642215) | [218](https://www.fernsehserien.de/arte-360grad-reportage/folgen/218-kamtschatka-kochende-erde-339701) | 
+| 2007-06-30 | Venezuela: Die alte Frau und das Meer | [S09E12](https://thetvdb.com/series/272599-show/episodes/4642216) | [219](https://www.fernsehserien.de/arte-360grad-reportage/folgen/219-venezuela-die-alte-frau-und-das-meer-339703) | 
+| 2007-08-11 | Die Krabbenflut | [S09E13](https://thetvdb.com/series/272599-show/episodes/4642217) | [220](https://www.fernsehserien.de/arte-360grad-reportage/folgen/220-die-krabbenflut-339704) | 
+| 2007-09-01 | Thailand: Kinder im Ring | [S09E14](https://thetvdb.com/series/272599-show/episodes/4642245) | [221](https://www.fernsehserien.de/arte-360grad-reportage/folgen/221-thailand-kinder-im-ring-339705) | 
+| 2007-09-08 | Kolumbien: Ein Riesenrad auf Reisen | [S09E15](https://thetvdb.com/series/272599-show/episodes/4642246) | [222](https://www.fernsehserien.de/arte-360grad-reportage/folgen/222-kolumbien-ein-riesenrad-auf-reisen-339706) | 
+| 2007-09-15 | Rio: Vom Strich auf den Laufsteg | [S09E16](https://thetvdb.com/series/272599-show/episodes/4642247) | [223](https://www.fernsehserien.de/arte-360grad-reportage/folgen/223-rio-vom-strich-auf-den-laufsteg-339707) | 
+| 2007-09-22 | Oman: Die Rosen der Wüste | [S09E17](https://thetvdb.com/series/272599-show/episodes/4642248) | [224](https://www.fernsehserien.de/arte-360grad-reportage/folgen/224-oman-die-rosen-der-wueste-339708) | 
+| 2007-11-03 | Brasilien: Büffel auf Streife | [S09E18](https://thetvdb.com/series/272599-show/episodes/4642249) | [225](https://www.fernsehserien.de/arte-360grad-reportage/folgen/225-brasilien-bueffel-auf-streife-339710) | 
+| 2007-11-10 | Der Ottermann von Ungarn | [S09E19](https://thetvdb.com/series/272599-show/episodes/4642250) | [226](https://www.fernsehserien.de/arte-360grad-reportage/folgen/226-der-ottermann-von-ungarn-339713) | 
+| 2007-11-17 | Attila und die Pferde der Puszta | [S09E20](https://thetvdb.com/series/272599-show/episodes/4642251) | [227](https://www.fernsehserien.de/arte-360grad-reportage/folgen/227-attila-und-die-pferde-der-puszta-339714) | 
+| 2007-11-25 | Peru: Delfine in Gefahr | [S09E21](https://thetvdb.com/series/272599-show/episodes/4642252) | [228](https://www.fernsehserien.de/arte-360grad-reportage/folgen/228-peru-delfine-in-gefahr-339715) | 
+| 2007-12-01 | Postbote im Himalaya | [S09E22](https://thetvdb.com/series/272599-show/episodes/4642253) | [229](https://www.fernsehserien.de/arte-360grad-reportage/folgen/229-postbote-im-himalaya-339716) | 
+| 2007-12-08 | Wenzhou, die Schuh-Stadt von China | [S09E23](https://thetvdb.com/series/272599-show/episodes/4642254) | [230](https://www.fernsehserien.de/arte-360grad-reportage/folgen/230-wenzhou-die-schuh-stadt-von-china-339717) | 
+| 2007-12-15 | Alligatorjagd in Florida | [S09E24](https://thetvdb.com/series/272599-show/episodes/4642255) | [231](https://www.fernsehserien.de/arte-360grad-reportage/folgen/231-alligatorjagd-in-florida-339718) | 
+| 2007-12-22 | Russlands Zirkusschule auf Tour | [S09E25](https://thetvdb.com/series/272599-show/episodes/4642256) | [232](https://www.fernsehserien.de/arte-360grad-reportage/folgen/232-russlands-zirkusschule-auf-tour-339719) | 
+| 2007-12-29 | Auf Schlangenfang in Kambodscha | [S09E26](https://thetvdb.com/series/272599-show/episodes/4642257) | [233](https://www.fernsehserien.de/arte-360grad-reportage/folgen/233-auf-schlangenfang-in-kambodscha-339720) | 
+| 2008-01-21 | Hexenwahn in Tansania | [S10E01](https://thetvdb.com/series/272599-show/episodes/4642259) | [234](https://www.fernsehserien.de/arte-360grad-reportage/folgen/234-hexenwahn-in-tansania-339722) | 
+| 2008-01-25 | Die Kämpferinnen von Mexiko | [S10E02](https://thetvdb.com/series/272599-show/episodes/4642260) | [235](https://www.fernsehserien.de/arte-360grad-reportage/folgen/235-die-kaempferinnen-von-mexiko-339724) | 
+| 2008-02-25 | Die Minenratten von Tansania | [S10E03](https://thetvdb.com/series/272599-show/episodes/4642261) | [236](https://www.fernsehserien.de/arte-360grad-reportage/folgen/236-die-minenratten-von-tansania-339727) | 
+| 2008-02-28 | Philippinen: Rendezvous mit einem Adler | [S10E04](https://thetvdb.com/series/272599-show/episodes/4642262) | [237](https://www.fernsehserien.de/arte-360grad-reportage/folgen/237-philippinen-rendezvous-mit-einem-adler-339725) | 
+| 2008-03-25 | Die Köchin von Bahia | [S10E05](https://thetvdb.com/series/272599-show/episodes/4642263) | [238](https://www.fernsehserien.de/arte-360grad-reportage/folgen/238-die-koechin-von-bahia-339728) | 
+| 2008-03-27 | Der Kräutergarten von Java | [S10E06](https://thetvdb.com/series/272599-show/episodes/4642264) | [239](https://www.fernsehserien.de/arte-360grad-reportage/folgen/239-der-kraeutergarten-von-java-339730) | 
+| 2008-04-21 | An den Ufern der Loire | [S10E07](https://thetvdb.com/series/272599-show/episodes/4642265) | [240](https://www.fernsehserien.de/arte-360grad-reportage/folgen/240-an-den-ufern-der-loire-339684) | 
+| 2008-04-22 | Rom - Das Leben der Komparsen | [S10E08](https://thetvdb.com/series/272599-show/episodes/4642266) | [241](https://www.fernsehserien.de/arte-360grad-reportage/folgen/241-rom-das-leben-der-komparsen-339691) | 
+| 2008-05-26 | Kanadas Buschpiloten im Einsatz | [S10E09](https://thetvdb.com/series/272599-show/episodes/4642267) | [242](https://www.fernsehserien.de/arte-360grad-reportage/folgen/242-kanadas-buschpiloten-im-einsatz-339695) | 
+| 2008-07-26 | Mauretanien: Aufstand der Fischerfrauen | [S10E10](https://thetvdb.com/series/272599-show/episodes/4642268) | [243](https://www.fernsehserien.de/arte-360grad-reportage/folgen/243-mauretanien-aufstand-der-fischerfrauen-339731) | 
+| 2008-07-31 | Vom Klassenzimmer in die Kalahari | [S10E11](https://thetvdb.com/series/272599-show/episodes/4642269) | [244](https://www.fernsehserien.de/arte-360grad-reportage/folgen/244-vom-klassenzimmer-in-die-kalahari-339699) | 
+| 2008-08-28 | Nicaragua: Fluch der Langustentaucher | [S10E12](https://thetvdb.com/series/272599-show/episodes/4642270) | [245](https://www.fernsehserien.de/arte-360grad-reportage/folgen/245-nicaragua-fluch-der-langustentaucher-339702) | 
+| 2008-09-04 | Uganda: Der Weg zum Fahrradtaxi | [S10E13](https://thetvdb.com/series/272599-show/episodes/4642271) | [246](https://www.fernsehserien.de/arte-360grad-reportage/folgen/246-uganda-der-weg-zum-fahrradtaxi-339709) | 
+| 2008-09-18 | New York - Die kleinste Oper der Welt | [S10E14](https://thetvdb.com/series/272599-show/episodes/4642272) | [247](https://www.fernsehserien.de/arte-360grad-reportage/folgen/247-new-york-die-kleinste-oper-der-welt-339711) | 
+| 2008-10-02 | Indien: Das Geschäft mit dem Tempelhaar | [S10E15](https://thetvdb.com/series/272599-show/episodes/4642273) | [248](https://www.fernsehserien.de/arte-360grad-reportage/folgen/248-indien-das-geschaeft-mit-dem-tempelhaar-339712) | 
+| 2008-10-16 | Kyushu - Wo Japans grüner Tee wächst | [S10E16](https://thetvdb.com/series/272599-show/episodes/4642274) | [249](https://www.fernsehserien.de/arte-360grad-reportage/folgen/249-kyuchu-wo-japans-gruener-tee-waechst-339721) | 
+| 2008-10-30 | Arganöl - Marokkos weißes Gold | [S10E17](https://thetvdb.com/series/272599-show/episodes/4642275) | [250](https://www.fernsehserien.de/arte-360grad-reportage/folgen/250-arganoel-marokkos-weisses-gold-339723) | 
+| 2008-11-06 | Das Geheimnis der Schweizer Uhren | [S10E18](https://thetvdb.com/series/272599-show/episodes/4642276) | [251](https://www.fernsehserien.de/arte-360grad-reportage/folgen/251-das-geheimnis-der-schweizer-uhren-339729) | 
+| 2008-11-13 | Johana - Make-up und Motorenöl | [S10E19](https://thetvdb.com/series/272599-show/episodes/4642277) | [252](https://www.fernsehserien.de/arte-360grad-reportage/folgen/252-johana-make-up-und-motorenoel-339726) | 
+| 2008-11-27 | Rio de la Plata - SOS am Silberfluss | [S10E20](https://thetvdb.com/series/272599-show/episodes/4642278) | [253](https://www.fernsehserien.de/arte-360grad-reportage/folgen/253-rio-de-la-plata-sos-am-silberfluss-339732) | 
+| 2008-12-04 | Der Weinpriester von Bali | [S10E21](https://thetvdb.com/series/272599-show/episodes/4642279) | [254](https://www.fernsehserien.de/arte-360grad-reportage/folgen/254-der-weinpriester-von-bali-339733) | 
+| 2008-12-11 | Taipeh 101 - Der Himmel über Taiwan | [S10E22](https://thetvdb.com/series/272599-show/episodes/4642280) | [255](https://www.fernsehserien.de/arte-360grad-reportage/folgen/255-taipeh-101-der-himmel-ueber-taiwan-339734) | 
+| 2008-12-18 | Die einsamen Mönche von Oelenberg | [S10E23](https://thetvdb.com/series/272599-show/episodes/4642281) | [256](https://www.fernsehserien.de/arte-360grad-reportage/folgen/256-die-einsamen-moenche-von-oelenberg-339735) | 
+| 2009-01-18 | Arktis - Die Route der Atomeisbrecher | [S11E01](https://thetvdb.com/series/272599-show/episodes/4642283) | [257](https://www.fernsehserien.de/arte-360grad-reportage/folgen/257-arktis-die-route-der-atomeisbrecher-339736) | 
+| 2009-01-24 | Die besten Hütehunde von Wales | [S11E02](https://thetvdb.com/series/272599-show/episodes/4642493) | [258](https://www.fernsehserien.de/arte-360grad-reportage/folgen/258-die-besten-huetehunde-von-wales-339750) | 
+| 2009-01-31 | Idjwi - Afrikas vergessene Insel | [S11E03](https://thetvdb.com/series/272599-show/episodes/4642284) | [259](https://www.fernsehserien.de/arte-360grad-reportage/folgen/259-idjwi-afrikas-vergessene-insel-339737) | 
+| 2009-02-07 | Die Bambusbahn von Kambodscha | [S11E04](https://thetvdb.com/series/272599-show/episodes/4642285) | [260](https://www.fernsehserien.de/arte-360grad-reportage/folgen/260-die-bambusbahn-von-kambodscha-339738) | 
+| 2009-02-21 | Nepal: Die Krieger vom Dach der Welt | [S11E05](https://thetvdb.com/series/272599-show/episodes/4642286) | [261](https://www.fernsehserien.de/arte-360grad-reportage/folgen/261-nepal-die-krieger-vom-dach-der-welt-339739) | 
+| 2009-03-21 | Das Whisky-Geheimnis von Islay | [S11E06](https://thetvdb.com/series/272599-show/episodes/4642287) | [262](https://www.fernsehserien.de/arte-360grad-reportage/folgen/262-das-whisky-geheimnis-von-islay-339740) | 
+| 2009-04-18 | Biberkrieg in Bayern | [S11E07](https://thetvdb.com/series/272599-show/episodes/4642288) | [263](https://www.fernsehserien.de/arte-360grad-reportage/folgen/263-biberkrieg-in-bayern-339741) | 
+| 2009-05-18 | Die Feuerflieger von Valencia | [S11E08](https://thetvdb.com/series/272599-show/episodes/4642290) | [265](https://www.fernsehserien.de/arte-360grad-reportage/folgen/265-die-feuerflieger-von-valencia-339743) | 
+| 2009-05-02 | Kaviar - Der Schatz aus dem Iran! | [S11E09](https://thetvdb.com/series/272599-show/episodes/4642289) | [264](https://www.fernsehserien.de/arte-360grad-reportage/folgen/264-kaviar-der-schatz-aus-dem-iran-339742) | 
+| 2009-05-24 | Georgien: Die Wiege des Weins | [S11E10](https://thetvdb.com/series/272599-show/episodes/4642292) | [266](https://www.fernsehserien.de/arte-360grad-reportage/folgen/266-georgien-die-wiege-des-weins-339744) | 
+| 2009-05-30 | Die Magellan-Lotsen | [S11E11](https://thetvdb.com/series/272599-show/episodes/4642293) | [267](https://www.fernsehserien.de/arte-360grad-reportage/folgen/267-die-magellan-lotsen-339745) | 
+| 2009-07-05 | Die Falkenärztin von Abu Dhabi | [S11E12](https://thetvdb.com/series/272599-show/episodes/4642294) | [268](https://www.fernsehserien.de/arte-360grad-reportage/folgen/268-die-falkenaerztin-von-abu-dhabi-339746) | 
+| 2009-07-25 | Sokotra, Schatzinsel in Gefahr | [S11E13](https://thetvdb.com/series/272599-show/episodes/4642296) | [269](https://www.fernsehserien.de/arte-360grad-reportage/folgen/269-sokotra-schatzinsel-in-gefahr-339747) | 
+| 2009-08-08 | Jemens verschleierte Zukunft | [S11E14](https://thetvdb.com/series/272599-show/episodes/4642298) | [270](https://www.fernsehserien.de/arte-360grad-reportage/folgen/270-jemens-verschleierte-zukunft-339748) | 
+| 2009-08-22 | Neuseelands Lauf der Extreme | [S11E15](https://thetvdb.com/series/272599-show/episodes/4642492) | [271](https://www.fernsehserien.de/arte-360grad-reportage/folgen/271-neuseelands-lauf-der-extreme-339749) | 
+| 2009-09-12 | Die Narzisseninsel vor Cornwall | [S11E16](https://thetvdb.com/series/272599-show/episodes/4642494) | [272](https://www.fernsehserien.de/arte-360grad-reportage/folgen/272-die-narzisseninsel-vor-cornwall-339751) | 
+| 2009-09-13 | Die Todesküste von Galicien | [S11E17](https://thetvdb.com/series/272599-show/episodes/4642495) | [273](https://www.fernsehserien.de/arte-360grad-reportage/folgen/273-die-todeskueste-von-galicien-339752) | 
+| 2009-09-26 | Das Salz der Inka | [S11E18](https://thetvdb.com/series/272599-show/episodes/4642496) | [274](https://www.fernsehserien.de/arte-360grad-reportage/folgen/274-das-salz-der-inka-339753) | 
+| 2009-10-10 | Die Holzfäller von British Columbia | [S11E19](https://thetvdb.com/series/272599-show/episodes/4642497) | [275](https://www.fernsehserien.de/arte-360grad-reportage/folgen/275-die-holzfaeller-von-british-columbia-339754) | 
+| 2009-10-31 | Die neuen Nomaden von Kirgisistan | [S11E20](https://thetvdb.com/series/272599-show/episodes/4642498) | [276](https://www.fernsehserien.de/arte-360grad-reportage/folgen/276-die-neuen-nomaden-von-kirgisistan-339755) | 
+| 2009-11-01 | Die Meerfrauen von Japan | [S11E21](https://thetvdb.com/series/272599-show/episodes/4642499) | [277](https://www.fernsehserien.de/arte-360grad-reportage/folgen/277-die-meerfrauen-von-japan-339756) | 
+| 2009-11-14 | Paraguays neue Häuser | [S11E22](https://thetvdb.com/series/272599-show/episodes/4642500) | [278](https://www.fernsehserien.de/arte-360grad-reportage/folgen/278-paraguays-neue-haeuser-339949) | 
+| 2009-11-28 | Ein Baumhaus in Costa Rica | [S11E23](https://thetvdb.com/series/272599-show/episodes/4642501) | [279](https://www.fernsehserien.de/arte-360grad-reportage/folgen/279-ein-baumhaus-in-costa-rica-339951) | 
+| 2009-12-12 | Ruanda: Land der Frauen | [S11E24](https://thetvdb.com/series/272599-show/episodes/4642502) | [280](https://www.fernsehserien.de/arte-360grad-reportage/folgen/280-ruanda-land-der-frauen-339952) | 
+| 2009-12-19 | Saint-Pierre und Miquelon: Archipel in der Isolation | [S11E25](https://thetvdb.com/series/272599-show/episodes/4642503) | [281](https://www.fernsehserien.de/arte-360grad-reportage/folgen/281-saint-pierre-und-miquelon-archipel-in-der-isolation-339954) | 
+| 2009-12-26 | Saint Helena: Vergessen im Atlantik | [S11E26](https://thetvdb.com/series/272599-show/episodes/4642504) | [282](https://www.fernsehserien.de/arte-360grad-reportage/folgen/282-saint-helena-vergessen-im-atlantik-339953) | 
+| 2010-01-09 | Vietnams vermintes Paradies | [S12E01](https://thetvdb.com/series/272599-show/episodes/4642507) | [283](https://www.fernsehserien.de/arte-360grad-reportage/folgen/283-vietnams-vermintes-paradies-339955) | 
+| 2010-01-30 | Spitzbergen, eisige Insel | [S12E02](https://thetvdb.com/series/272599-show/episodes/4642508) | [284](https://www.fernsehserien.de/arte-360grad-reportage/folgen/284-spitzbergen-eisige-insel-339956) | 
+| 2010-02-06 | Hawaii: Beachboys auf Patrouille | [S12E03](https://thetvdb.com/series/272599-show/episodes/4642509) | [285](https://www.fernsehserien.de/arte-360grad-reportage/folgen/285-hawaii-beachboys-auf-patrouille-339957) | 
+| 2010-02-20 | SOS in den Rocky Mountains | [S12E04](https://thetvdb.com/series/272599-show/episodes/4642510) | [286](https://www.fernsehserien.de/arte-360grad-reportage/folgen/286-sos-in-den-rocky-mountains-339958) | 
+| 2010-03-06 | Die letzten Kamelkarawanen der Sahara | [S12E05](https://thetvdb.com/series/272599-show/episodes/4642511) | [287](https://www.fernsehserien.de/arte-360grad-reportage/folgen/287-die-letzten-kamelkarawanen-der-sahara-339960) | 
+| 2010-03-27 | Mit der Lok durch Angola | [S12E06](https://thetvdb.com/series/272599-show/episodes/4642512) | [288](https://www.fernsehserien.de/arte-360grad-reportage/folgen/288-mit-der-lok-durch-angola-339961) | 
+| 2010-04-10 | Wilde Pferde im Donaudelta | [S12E07](https://thetvdb.com/series/272599-show/episodes/4642513) | [289](https://www.fernsehserien.de/arte-360grad-reportage/folgen/289-wilde-pferde-im-donaudelta-339757) | 
+| 2010-04-24 | Cranberrysaison auf Cap Cod | [S12E08](https://thetvdb.com/series/272599-show/episodes/4642514) | [290](https://www.fernsehserien.de/arte-360grad-reportage/folgen/290-cranberrysaison-auf-cap-cod-339950) | 
+| 2010-05-29 | Indiens Dschungelbuchklinik | [S12E09](https://thetvdb.com/series/272599-show/episodes/4642515) | [291](https://www.fernsehserien.de/arte-360grad-reportage/folgen/291-indiens-dschungelbuchklinik-506720) | 
+| 2010-06-12 | Unterwegs mit der Irish Coast Guard | [S12E10](https://thetvdb.com/series/272599-show/episodes/4642518) | [292](https://www.fernsehserien.de/arte-360grad-reportage/folgen/292-unterwegs-mit-der-irish-coast-guard-339963) | 
+| 2010-09-04 | Jillaroos - Cowgirls im australischen Outback | [S12E11](https://thetvdb.com/series/272599-show/episodes/4642517) | [293](https://www.fernsehserien.de/arte-360grad-reportage/folgen/293-jillaroos-cowgirls-im-australischen-outback-339965) | 
+| 2010-09-11 | Das Volk der Bishnoi - Tierliebe bis in den Tod | [S12E12](https://thetvdb.com/series/272599-show/episodes/4642527) | [294](https://www.fernsehserien.de/arte-360grad-reportage/folgen/294-das-volk-der-bishnoi-tierliebe-bis-in-den-tod-339967) | 
+| 2010-09-18 | Falklandinseln - Pinguine auf dem Vormarsch | [S12E13](https://thetvdb.com/series/272599-show/episodes/4642516) | [295](https://www.fernsehserien.de/arte-360grad-reportage/folgen/295-falklandinseln-pinguine-auf-dem-vormarsch-339959) | 
+| 2010-10-09 | Taipan, die gefährlichste Schlange der Welt | [S12E14](https://thetvdb.com/series/272599-show/episodes/4642519) | [296](https://www.fernsehserien.de/arte-360grad-reportage/folgen/296-taipan-die-gefaehrlichste-schlange-der-welt-339962) | 
+| 2010-10-16 | Baikalsee, ein Wintermärchen | [S12E15](https://thetvdb.com/series/272599-show/episodes/4642520) | [297](https://www.fernsehserien.de/arte-360grad-reportage/folgen/297-baikalsee-ein-wintermaerchen-339966) | 
+| 2010-11-06 | Legende auf Schienen - Skandinaviens Kirunabahn | [S12E16](https://thetvdb.com/series/272599-show/episodes/4642522) | [298](https://www.fernsehserien.de/arte-360grad-reportage/folgen/298-legende-auf-schienen-skandinaviens-kirunabahn-339964) | 
+| 2010-11-20 | Sikkim: Das alte Wissen der Schamanen | [S12E17](https://thetvdb.com/series/272599-show/episodes/4777543) | [299](https://www.fernsehserien.de/arte-360grad-reportage/folgen/299-sikkim-das-alte-wissen-der-schamanen-339968) | 
+| 2010-12-11 | Die verrückten Karren des Mister Winfield | [S12E18](https://thetvdb.com/series/272599-show/episodes/4642523) | [300](https://www.fernsehserien.de/arte-360grad-reportage/folgen/300-die-verrueckten-karren-des-mister-winfield-339970) | 
+| 2010-12-18 | Anatolien, das Land wo die Aprikosen blühen | [S12E19](https://thetvdb.com/series/272599-show/episodes/4642524) | [301](https://www.fernsehserien.de/arte-360grad-reportage/folgen/301-anatolien-das-land-wo-die-aprikosen-bluehen-506722) | 
+| 2010-12-25 | Laetitia - allein unter Wölfen | [S12E20](https://thetvdb.com/series/272599-show/episodes/4642526) | [302](https://www.fernsehserien.de/arte-360grad-reportage/folgen/302-laetitia-allein-unter-woelfen-506698) | 
+| 2011-01-01 | Fremdenlegion - die Hölle im Regenwald | [S13E01](https://thetvdb.com/series/272599-show/episodes/4642528) | [303](https://www.fernsehserien.de/arte-360grad-reportage/folgen/303-fremdenlegion-die-hoelle-im-regenwald-339971) | 
+| 2011-01-08 | Der Affenflüsterer | [S13E02](https://thetvdb.com/series/272599-show/episodes/4642530) | [304](https://www.fernsehserien.de/arte-360grad-reportage/folgen/304-der-affenfluesterer-339972) | 
+| 2011-01-15 | Sardinien: Stolz und Ehre hoch zu Ross | [S13E03](https://thetvdb.com/series/272599-show/episodes/4642531) | [305](https://www.fernsehserien.de/arte-360grad-reportage/folgen/305-sardinien-stolz-und-ehre-hoch-zu-ross-339973) | 
+| 2011-01-22 | Die Feuerspringer von Sibirien | [S13E04](https://thetvdb.com/series/272599-show/episodes/4642532) | [306](https://www.fernsehserien.de/arte-360grad-reportage/folgen/306-die-feuerspringer-von-sibirien-339974) | 
+| 2011-01-29 | Island: Leben auf dem Pulverfass | [S13E05](https://thetvdb.com/series/272599-show/episodes/4642533) | [307](https://www.fernsehserien.de/arte-360grad-reportage/folgen/307-island-leben-auf-dem-pulverfass-339975) | 
+| 2011-02-05 | Polarschule der Nomadenkinder | [S13E06](https://thetvdb.com/series/272599-show/episodes/4642534) | [308](https://www.fernsehserien.de/arte-360grad-reportage/folgen/308-polarschule-der-nomadenkinder-339976) | 
+| 2011-02-12 | Das Perlenimperium von Palawan | [S13E07](https://thetvdb.com/series/272599-show/episodes/4642535) | [309](https://www.fernsehserien.de/arte-360grad-reportage/folgen/309-das-perlenimperium-von-palawan-339977) | 
+| 2011-02-19 | Marokko - die andere Seite des Paradieses | [S13E08](https://thetvdb.com/series/272599-show/episodes/4642536) | [310](https://www.fernsehserien.de/arte-360grad-reportage/folgen/310-marokko-die-andere-seite-des-paradieses-339969) | 
+| 2011-02-26 | Eine Fähre nach Afrika | [S13E09](https://thetvdb.com/series/272599-show/episodes/4642538) | [311](https://www.fernsehserien.de/arte-360grad-reportage/folgen/311-eine-faehre-nach-afrika-339978) | 
+| 2011-04-09 | Großglockner, König der Hochalpen | [S13E10](https://thetvdb.com/series/272599-show/episodes/4642540) | [312](https://www.fernsehserien.de/arte-360grad-reportage/folgen/312-grossglockner-koenig-der-hochalpen-339979) | 
+| 2011-04-23 | Champagner für alle! | [S13E11](https://thetvdb.com/series/272599-show/episodes/4642541) | [313](https://www.fernsehserien.de/arte-360grad-reportage/folgen/313-champagner-fuer-alle-339980) | 
+| 2011-05-07 | Armenien, die Früchte aus dem Paradies | [S13E12](https://thetvdb.com/series/272599-show/episodes/4642542) | [314](https://www.fernsehserien.de/arte-360grad-reportage/folgen/314-armenien-die-fruechte-aus-dem-paradies-339981) | 
+| 2011-05-21 | Stilikone Panamahut | [S13E13](https://thetvdb.com/series/272599-show/episodes/4642543) | [315](https://www.fernsehserien.de/arte-360grad-reportage/folgen/315-stilikone-panamahut-339982) | 
+| 2011-06-04 | Die Halligen mitten im Winter, mitten im Wasser | [S13E14](https://thetvdb.com/series/272599-show/episodes/4642544) | [316](https://www.fernsehserien.de/arte-360grad-reportage/folgen/316-die-halligen-mitten-im-winter-mitten-im-wasser-506723) | 
+| 2011-06-18 | Jenny und ihre Flughunde | [S13E15](https://thetvdb.com/series/272599-show/episodes/4642545) | [317](https://www.fernsehserien.de/arte-360grad-reportage/folgen/317-jenny-und-ihre-flughunde-339984) | 
+| 2011-07-02 | Jordanien, Dynastie der Pferde | [S13E16](https://thetvdb.com/series/272599-show/episodes/4642546) | [318](https://www.fernsehserien.de/arte-360grad-reportage/folgen/318-jordanien-dynastie-der-pferde-339985) | 
+| 2011-07-16 | In den Smaragdbergen von Bahia | [S13E17](https://thetvdb.com/series/272599-show/episodes/4642547) | [319](https://www.fernsehserien.de/arte-360grad-reportage/folgen/319-in-den-smaragdbergen-von-bahia-339986) | 
+| 2011-07-30 | Rum auf Guadeloupe | [S13E18](https://thetvdb.com/series/272599-show/episodes/4642549) | [320](https://www.fernsehserien.de/arte-360grad-reportage/folgen/320-rum-auf-guadeloupe-339988) | 
+| 2011-09-03 | Sumatras letzte Orang-Utans | [S13E19](https://thetvdb.com/series/272599-show/episodes/4642550) | [321](https://www.fernsehserien.de/arte-360grad-reportage/folgen/321-sumatras-letzte-orang-utans-339989) | 
+| 2011-09-24 | Kalmückien - Die Rückkehr der Mönche | [S13E20](https://thetvdb.com/series/272599-show/episodes/4642551) | [322](https://www.fernsehserien.de/arte-360grad-reportage/folgen/322-kalmueckien-die-rueckkehr-der-moenche-339990) | 
+| 2011-10-15 | Auf der Spur des spanischen Luchses | [S13E21](https://thetvdb.com/series/272599-show/episodes/4642552) | [323](https://www.fernsehserien.de/arte-360grad-reportage/folgen/323-auf-der-spur-des-spanischen-luchses-339991) | 
+| 2011-10-22 | Palawan - das Dorf der Gefangenen | [S13E22](https://thetvdb.com/series/272599-show/episodes/4642553) | [324](https://www.fernsehserien.de/arte-360grad-reportage/folgen/324-palawan-das-dorf-der-gefangenen-586293) | 
+| 2011-10-29 | Der Andenkondor - König der Lüfte | [S13E23](https://thetvdb.com/series/272599-show/episodes/4642554) | [325](https://www.fernsehserien.de/arte-360grad-reportage/folgen/325-der-andenkondor-koenig-der-luefte-506721) | 
+| 2011-10-29 | Die Rettungshunde vom Gardasee | [S13E24](https://thetvdb.com/series/272599-show/episodes/4776899) | [326](https://www.fernsehserien.de/arte-360grad-reportage/folgen/326-die-rettungshunde-vom-gardasee-339992) | 
+| 2011-11-12 | Aserbaidschans fahrende Hochzeitmusikanten | [S13E25](https://thetvdb.com/series/272599-show/episodes/4642555) | [327](https://www.fernsehserien.de/arte-360grad-reportage/folgen/327-aserbaidschans-fahrende-hochzeitmusikanten-339993) | 
+| 2011-11-19 | Florenz - Fußball bis aufs Blut | [S13E26](https://thetvdb.com/series/272599-show/episodes/4642556) | [328](https://www.fernsehserien.de/arte-360grad-reportage/folgen/328-florenz-fussball-bis-aufs-blut-339994) | 
+| 2011-12-03 | Guano - Schatzinseln und Vogeldreck | [S13E27](https://thetvdb.com/series/272599-show/episodes/4642557) | [329](https://www.fernsehserien.de/arte-360grad-reportage/folgen/329-guano-schatzinseln-und-vogeldreck-339995) | 
+| 2011-12-17 | Lamu, die Insel der Esel | [S13E28](https://thetvdb.com/series/272599-show/episodes/4642558) | [330](https://www.fernsehserien.de/arte-360grad-reportage/folgen/330-lamu-die-insel-der-esel-339996) | 
+| 2011-12-24 | Sark - die Kanalinsel der Queen | [S13E29](https://thetvdb.com/series/272599-show/episodes/4642559) | [331](https://www.fernsehserien.de/arte-360grad-reportage/folgen/331-sark-die-kanalinsel-der-queen-339997) | 
+| 2012-01-07 | Schottland - Kampf, Clan und Königin | [S14E01](https://thetvdb.com/series/272599-show/episodes/4642562) | [332](https://www.fernsehserien.de/arte-360grad-reportage/folgen/332-schottland-kampf-clan-und-koenigin-339998) | 
+| 2012-01-28 | Die scharfen Klingen der Auvergne | [S14E02](https://thetvdb.com/series/272599-show/episodes/4642563) | [333](https://www.fernsehserien.de/arte-360grad-reportage/folgen/333-die-scharfen-klingen-der-auvergne-339987) | 
+| 2012-02-11 | China: Im Reich der Mosuo-Frauen | [S14E03](https://thetvdb.com/series/272599-show/episodes/4642564) | [334](https://www.fernsehserien.de/arte-360grad-reportage/folgen/334-china-im-reich-der-mosuo-frauen-339999) | 
+| 2012-02-25 | Majuli - ein Inselvolk trotzt den Fluten | [S14E04](https://thetvdb.com/series/272599-show/episodes/4642565) | [335](https://www.fernsehserien.de/arte-360grad-reportage/folgen/335-majuli-ein-inselvolk-trotzt-den-fluten-340000) | 
+| 2012-03-10 | Lappland: Rushhour im hohen Norden | [S14E05](https://thetvdb.com/series/272599-show/episodes/4642566) | [336](https://www.fernsehserien.de/arte-360grad-reportage/folgen/336-lappland-rushhour-im-hohen-norden-340001) | 
+| 2012-03-24 | Wildererjagd am Mount Kenya | [S14E06](https://thetvdb.com/series/272599-show/episodes/4642567) | [337](https://www.fernsehserien.de/arte-360grad-reportage/folgen/337-wildererjagd-am-mount-kenya-340002) | 
+| 2012-04-05 | Tunesien: Die Suche nach dem Tintenfisch | [S14E07](https://thetvdb.com/series/272599-show/episodes/4642568) | [338](https://www.fernsehserien.de/arte-360grad-reportage/folgen/338-tunesien-die-suche-nach-dem-tintenfisch-340003) | 
+| 2012-05-12 | Bahamas - unverfälscht! | [S14E08](https://thetvdb.com/series/272599-show/episodes/4642569) | [339](https://www.fernsehserien.de/arte-360grad-reportage/folgen/339-bahamas-unverfaelscht-506699) | 
+| 2012-05-26 | Slab City - wildes Leben in der Wüste | [S14E09](https://thetvdb.com/series/272599-show/episodes/4642570) | [340](https://www.fernsehserien.de/arte-360grad-reportage/folgen/340-slab-city-wildes-leben-in-der-wueste-506700) | 
+| 2012-06-09 | Esmeraldas Edelkakao | [S14E10](https://thetvdb.com/series/272599-show/episodes/4642571) | [341](https://www.fernsehserien.de/arte-360grad-reportage/folgen/341-esmeraldas-edelkakao-506701) | 
+| 2012-06-23 | So schmeckt Australien! | [S14E11](https://thetvdb.com/series/272599-show/episodes/4642572) | [342](https://www.fernsehserien.de/arte-360grad-reportage/folgen/342-so-schmeckt-australien-506702) | 
+| 2012-07-28 | Jerusalem im Morgengrauen | [S14E12](https://thetvdb.com/series/272599-show/episodes/4642573) | [343](https://www.fernsehserien.de/arte-360grad-reportage/folgen/343-jerusalem-im-morgengrauen-506703) | 
+| 2012-09-01 | Die letzten Cowboys der Toskana | [S14E13](https://thetvdb.com/series/272599-show/episodes/4642574) | [344](https://www.fernsehserien.de/arte-360grad-reportage/folgen/344-die-letzten-cowboys-der-toskana-506718) | 
+| 2012-09-15 | Modelsuche in Sibirien | [S14E14](https://thetvdb.com/series/272599-show/episodes/4642577) | [345](https://www.fernsehserien.de/arte-360grad-reportage/folgen/345-modelsuche-in-sibirien-506705) | 
+| 2012-09-22 | Tanganjikasee: Vom Kanonenboot zum Passagierschiff | [S14E15](https://thetvdb.com/series/272599-show/episodes/4642580) | [346](https://www.fernsehserien.de/arte-360grad-reportage/folgen/346-tanganjikasee-vom-kanonenboot-zum-passagierschiff-506706) | 
+| 2012-10-20 | Auf dem Floß durch die Schluchten der Tara | [S14E16](https://thetvdb.com/series/272599-show/episodes/4642582) | [347](https://www.fernsehserien.de/arte-360grad-reportage/folgen/347-auf-dem-floss-durch-die-schluchten-der-tara-506707) | 
+| 2012-10-27 | Indien: Das größte Schulessen der Welt | [S14E17](https://thetvdb.com/series/272599-show/episodes/4642583) | [348](https://www.fernsehserien.de/arte-360grad-reportage/folgen/348-indien-das-groesste-schulessen-der-welt-506708) | 
+| 2012-11-03 | Myanmar: Ein Dorf braucht Strom | [S14E18](https://thetvdb.com/series/272599-show/episodes/4642584) | [349](https://www.fernsehserien.de/arte-360grad-reportage/folgen/349-myanmar-ein-dorf-braucht-strom-506709) | 
+| 2012-11-10 | Bolivien: Lebensader Todesstraße | [S14E19](https://thetvdb.com/series/272599-show/episodes/4642585) | [350](https://www.fernsehserien.de/arte-360grad-reportage/folgen/350-bolivien-lebensader-todesstrasse-506710) | 
+| 2012-11-17 | Die Krabbenfischer von Feuerland | [S14E20](https://thetvdb.com/series/272599-show/episodes/4642587) | [351](https://www.fernsehserien.de/arte-360grad-reportage/folgen/351-die-krabbenfischer-von-feuerland-506711) | 
+| 2012-12-22 | Die Exzentriker der Düfte | [S14E21](https://thetvdb.com/series/272599-show/episodes/4642589) | [352](https://www.fernsehserien.de/arte-360grad-reportage/folgen/352-die-exzentriker-der-duefte-506712) | 
+| 2013-01-19 | Arktis - Ein Junge wird Jäger | [S15E01](https://thetvdb.com/series/272599-show/episodes/4642601) | [353](https://www.fernsehserien.de/arte-360grad-reportage/folgen/353-arktis-ein-junge-wird-jaeger-506695) | 
+| 2013-10-01 | Shetland, das Ende des Öls | [S15E02](https://thetvdb.com/series/272599-show/episodes/4791696) | [354](https://www.fernsehserien.de/arte-360grad-reportage/folgen/354-shetland-das-ende-des-oels-506713) | 
+| 2013-02-09 | Mezcal, Hochprozentiges aus Mexiko | [S15E03](https://thetvdb.com/series/272599-show/episodes/4642603) | [355](https://www.fernsehserien.de/arte-360grad-reportage/folgen/355-mezcal-hochprozentiges-aus-mexiko-506714) | 
+| 2013-02-16 | Atacamawüste - Leben ohne Wasser | [S15E04](https://thetvdb.com/series/272599-show/episodes/4642604) | [356](https://www.fernsehserien.de/arte-360grad-reportage/folgen/356-atacamawueste-leben-ohne-wasser-506728) | 
+| 2013-02-23 | Die letzten Köhler von Rumänien | [S15E05](https://thetvdb.com/series/272599-show/episodes/4642605) | [357](https://www.fernsehserien.de/arte-360grad-reportage/folgen/357-die-letzten-koehler-von-rumaenien-506729) | 
+| 2013-03-09 | Island - Der große Schafabtrieb | [S15E06](https://thetvdb.com/series/272599-show/episodes/4642606) | [358](https://www.fernsehserien.de/arte-360grad-reportage/folgen/358-island-der-grosse-schafabtrieb-506730) | 
+| 2013-03-23 | Bangladesch - Schiff der Hoffnung | [S15E07](https://thetvdb.com/series/272599-show/episodes/4642607) | [359](https://www.fernsehserien.de/arte-360grad-reportage/folgen/359-bangladesch-schiff-der-hoffnung-506731) | 
+| 2013-03-30 | Iquitos - Regenwaldmetropole am Amazonas | [S15E08](https://thetvdb.com/series/272599-show/episodes/4642609) | [360](https://www.fernsehserien.de/arte-360grad-reportage/folgen/360-iquitos-regenwaldmetropole-am-amazonas-506694) | 
+| 2013-05-03 | Die Marmorberge von Italien | [S15E09](https://thetvdb.com/series/272599-show/episodes/4642610) | [361](https://www.fernsehserien.de/arte-360grad-reportage/folgen/361-die-marmorberge-von-italien-506696) | 
+| 2013-05-17 | Bretagne - von Bienen und Leuchttürmen | [S15E10](https://thetvdb.com/series/272599-show/episodes/4642612) | [362](https://www.fernsehserien.de/arte-360grad-reportage/folgen/362-bretagne-von-bienen-und-leuchttuermen-506697) | 
+| 2013-06-15 | Thailands Elefanten, raus aus der Stadt! | [S15E11](https://thetvdb.com/series/272599-show/episodes/4642615) | [363](https://www.fernsehserien.de/arte-360grad-reportage/folgen/363-thailands-elefanten-raus-aus-der-stadt-506719) | 
+| 2013-06-22 | Tonga - Paradies der Südsee? | [S15E12](https://thetvdb.com/series/272599-show/episodes/4642617) | [364](https://www.fernsehserien.de/arte-360grad-reportage/folgen/364-tonga-paradies-der-suedsee-514391) | 
+| 2013-07-12 | Radio Patagonia | [S15E13](https://thetvdb.com/series/272599-show/episodes/4642619) | [365](https://www.fernsehserien.de/arte-360grad-reportage/folgen/365-radio-patagonia-514392) | 
+| 2013-09-14 | Die Polarbahn | [S15E14](https://thetvdb.com/series/272599-show/episodes/4642620) | [366](https://www.fernsehserien.de/arte-360grad-reportage/folgen/366-die-polarbahn-532546) | 
+| 2013-09-21 | Das Koala-Hospital | [S15E15](https://thetvdb.com/series/272599-show/episodes/4642622) | [367](https://www.fernsehserien.de/arte-360grad-reportage/folgen/367-das-koala-hospital-534187) | 
+| 2013-09-28 | Sulawesi - Die letzten Seenomaden | [S15E16](https://thetvdb.com/series/272599-show/episodes/4642625) | [368](https://www.fernsehserien.de/arte-360grad-reportage/folgen/368-sulawesi-die-letzten-seenomaden-534189) | 
+| 2013-12-07 | Taiwan - Fliegende Fische oder Atommüll? | [S15E17](https://thetvdb.com/series/272599-show/episodes/4779225) | [369](https://www.fernsehserien.de/arte-360grad-reportage/folgen/369-taiwan-fliegende-fische-oder-atommuell-538387) | 
+| 2013-10-12 | Rattenjagd im Südpolarmeer | [S15E18](https://thetvdb.com/series/272599-show/episodes/4642602) | [370](https://www.fernsehserien.de/arte-360grad-reportage/folgen/370-rattenjagd-im-suedpolarmeer-540267) | 
+| 2013-10-19 | Costa Rica - Leben wie die Faultiere | [S15E19](https://thetvdb.com/series/272599-show/episodes/4791697) | [371](https://www.fernsehserien.de/arte-360grad-reportage/folgen/371-costa-rica-leben-wie-die-faultiere-540268) | 
+| 2013-10-26 | Der fröhliche Friedhof von Rumänien | [S15E20](https://thetvdb.com/series/272599-show/episodes/4812703) | [372](https://www.fernsehserien.de/arte-360grad-reportage/folgen/372-der-froehliche-friedhof-von-rumaenien-542626) | 
+| 2013-11-09 | Mustang - Flucht aus den Bergen | [S15E21](https://thetvdb.com/series/272599-show/episodes/4812706) | [373](https://www.fernsehserien.de/arte-360grad-reportage/folgen/373-mustang-flucht-aus-den-bergen-543725) | 
+| 2013-11-23 | Chivas, Kolumbiens bunte Busse | [S15E22](https://thetvdb.com/series/272599-show/episodes/4812708) | [374](https://www.fernsehserien.de/arte-360grad-reportage/folgen/374-chivas-kolumbiens-bunte-busse-556371) | 
+| 2013-11-30 | Aubrac - Kühe, Käse, Kerle! | [S15E23](https://thetvdb.com/series/272599-show/episodes/4812709) | [375](https://www.fernsehserien.de/arte-360grad-reportage/folgen/375-aubrac-kuehe-kaese-kerle-560136) | 
+| 2013-12-07 | Die Samurai von Fukushima | [S15E24](https://thetvdb.com/series/272599-show/episodes/4812710) | [376](https://www.fernsehserien.de/arte-360grad-reportage/folgen/376-die-samurai-von-fukushima-562240) | 
+| 2013-12-14 | Der gute Mensch von Karachi | [S15E25](https://thetvdb.com/series/272599-show/episodes/4812712) | [377](https://www.fernsehserien.de/arte-360grad-reportage/folgen/377-der-gute-mensch-von-karachi-562637) | 
+| 2013-12-21 | Die Austern von Arcachon | [S15E26](https://thetvdb.com/series/272599-show/episodes/4812714) | [378](https://www.fernsehserien.de/arte-360grad-reportage/folgen/378-die-austern-von-arcachon-564984) | 
+| 2013-12-28 | Thailand, Raketen für die Götter | [S15E27](https://thetvdb.com/series/272599-show/episodes/4812716) | [379](https://www.fernsehserien.de/arte-360grad-reportage/folgen/379-thailand-raketen-fuer-die-goetter-567027) | 
+| 2014-01-04 | Vietnam, Kobra auf dem Teller | [S16E01](https://thetvdb.com/series/272599-show/episodes/4812750) | [380](https://www.fernsehserien.de/arte-360grad-reportage/folgen/380-vietnam-kobra-auf-dem-teller-569058) | 
+| 2014-01-25 | Indiens jüngste Polizisten | [S16E02](https://thetvdb.com/series/272599-show/episodes/4812751) | [381](https://www.fernsehserien.de/arte-360grad-reportage/folgen/381-indiens-juengste-polizisten-574964) | 
+| 2014-02-08 | Kambodscha, Ratte süß-sauer | [S16E03](https://thetvdb.com/series/272599-show/episodes/4812752) | [382](https://www.fernsehserien.de/arte-360grad-reportage/folgen/382-kambodscha-ratte-suess-sauer-579703) | 
+| 2014-02-22 | Azoren, das Geschäft mit den Walen | [S16E04](https://thetvdb.com/series/272599-show/episodes/4812753) | [383](https://www.fernsehserien.de/arte-360grad-reportage/folgen/383-azoren-das-geschaeft-mit-den-walen-581362) | 
+| 2014-03-01 | Fort McMurray, Kanada im Ölfieber | [S16E05](https://thetvdb.com/series/272599-show/episodes/4812754) | [384](https://www.fernsehserien.de/arte-360grad-reportage/folgen/384-fort-mcmurray-kanada-im-oelfieber-584399) | 
+| 2014-03-08 | Rosa Amélia - Fische, Freunde, Fado | [S16E06](https://thetvdb.com/series/272599-show/episodes/4812755) | [385](https://www.fernsehserien.de/arte-360grad-reportage/folgen/385-rosa-amelia-fische-freunde-fado-587214) | 
+| 2014-03-29 | Schweiz: Das Verschwinden der Gletscher | [S16E07](https://thetvdb.com/series/272599-show/episodes/4812756) | [386](https://www.fernsehserien.de/arte-360grad-reportage/folgen/386-schweiz-das-verschwinden-der-gletscher-591624) | 
+| 2014-04-26 | Bangkoks Schatztaucher | [S16E08](https://thetvdb.com/series/272599-show/episodes/5061390) | [387](https://www.fernsehserien.de/arte-360grad-reportage/folgen/387-bangkoks-schatztaucher-598991) | 
+| 2014-05-10 | Elbsandsteingebirge - Märchenwelt und Meisterwerke | [S16E09](https://thetvdb.com/series/272599-show/episodes/5063398) | [388](https://www.fernsehserien.de/arte-360grad-reportage/folgen/388-elbsandsteingebirge-maerchenwelt-und-meisterwerke-607545) | 
+| 2014-05-31 | Die Goldenen Schildkröten von Madagaskar | [S16E10](https://thetvdb.com/series/272599-show/episodes/5078306) | [389](https://www.fernsehserien.de/arte-360grad-reportage/folgen/389-die-goldenen-schildkroeten-von-madagaskar-613998) | 
+| 2014-06-14 | Hinter den Kulissen von Venedig | [S16E11](https://thetvdb.com/series/272599-show/episodes/5078307) | [390](https://www.fernsehserien.de/arte-360grad-reportage/folgen/390-hinter-den-kulissen-von-venedig-617724) | 
+| 2014-07-05 | Eishockey - Mädchentraum im Himalaya | [S16E12](https://thetvdb.com/series/272599-show/episodes/5078310) | [391](https://www.fernsehserien.de/arte-360grad-reportage/folgen/391-eishockey-maedchentraum-im-himalaya-620596) | 
+| 2014-08-30 | Die Tango-Spelunken von Buenos Aires | [S16E13](https://thetvdb.com/series/272599-show/episodes/5078313) | [392](https://www.fernsehserien.de/arte-360grad-reportage/folgen/392-die-tango-spelunken-von-buenos-aires-633374) | 
+| 2014-09-06 | Jadehandel im Goldenen Dreieck | [S16E14](https://thetvdb.com/series/272599-show/episodes/4986446) | [393](https://www.fernsehserien.de/arte-360grad-reportage/folgen/393-jadehandel-im-goldenen-dreieck-634962) | 
+| 2014-09-20 | Bolivien: Kleine Käfer, großes Geld! | [S16E15](https://thetvdb.com/series/272599-show/episodes/5150636) | [394](https://www.fernsehserien.de/arte-360grad-reportage/folgen/394-bolivien-kleine-kaefer-grosses-geld-642257) | 
+| 2014-10-04 | Åland-Archipel: Warten auf das Eis | [S16E16](https://thetvdb.com/series/272599-show/episodes/5150637) | [395](https://www.fernsehserien.de/arte-360grad-reportage/folgen/395-aaland-archipel-warten-auf-das-eis-646836) | 
+| 2014-10-18 | Kamelmilch, Kasachstans Wundermedizin | [S16E17](https://thetvdb.com/series/272599-show/episodes/5027540) | [396](https://www.fernsehserien.de/arte-360grad-reportage/folgen/396-kamelmilch-kasachstans-wundermedizin-649942) | 
+| 2014-11-01 | Königliche Mounties - Kanadas berittene Polizei | [S16E18](https://thetvdb.com/series/272599-show/episodes/5041435) | [397](https://www.fernsehserien.de/arte-360grad-reportage/folgen/397-koenigliche-mounties-kanadas-berittene-polizei-653489) | 
+| 2014-11-15 | Peru: Ein Alpaka für Christobal | [S16E19](https://thetvdb.com/series/272599-show/episodes/5047865) | [398](https://www.fernsehserien.de/arte-360grad-reportage/folgen/398-peru-ein-alpaka-fuer-christobal-657325) | 
+| 2014-11-22 | Gnadenhof „Gut Aiderbichl“ | [S16E20](https://thetvdb.com/series/272599-show/episodes/5061387) | [399](https://www.fernsehserien.de/arte-360grad-reportage/folgen/399-gnadenhof-gut-aiderbichl-659099) | 
+| 2014-11-29 | Unter Haien: Riffpatrouille in der Sulu-See | [S16E21](https://thetvdb.com/series/272599-show/episodes/5061388) | [400](https://www.fernsehserien.de/arte-360grad-reportage/folgen/400-unter-haien-riffpatrouille-in-der-sulu-see-660707) | 
+| 2014-12-13 | Andalusien - Edle Pferde, wilde Stiere | [S16E22](https://thetvdb.com/series/272599-show/episodes/5061389) | [401](https://www.fernsehserien.de/arte-360grad-reportage/folgen/401-andalusien-edle-pferde-wilde-stiere-663873) | 
+| 2014-12-20 | Die Eisbergjäger von Neufundland | [S16E23](https://thetvdb.com/series/272599-show/episodes/5078296) | [402](https://www.fernsehserien.de/arte-360grad-reportage/folgen/402-die-eisbergjaeger-von-neufundland-665965) | 
+| 2014-12-27 | Lettland - das Land der Sänger | [S16E24](https://thetvdb.com/series/272599-show/episodes/5078299) | [403](https://www.fernsehserien.de/arte-360grad-reportage/folgen/403-lettland-das-land-der-saenger-667601) | 
+| 2015-01-03 | Griechenland: Aufbruch am Olymp | [S17E01](https://thetvdb.com/series/272599-show/episodes/5095522) | [404](https://www.fernsehserien.de/arte-360grad-reportage/folgen/404-griechenland-aufbruch-am-olymp-670158) | 
+| 2015-01-06 | Mohair, das Garn der guten Hoffnung | [S17E02](https://thetvdb.com/series/272599-show/episodes/5095523) | [405](https://www.fernsehserien.de/arte-360grad-reportage/folgen/405-mohair-das-garn-der-guten-hoffnung-671310) | 
+| 2015-01-07 | Der Maestro, Neapels legendärer Boxmeister | [S17E03](https://thetvdb.com/series/272599-show/episodes/5095524) | [406](https://www.fernsehserien.de/arte-360grad-reportage/folgen/406-der-maestro-neapels-legendaerer-boxmeister-671502) | 
+| 2015-02-16 | Die Baumkletterer von Kalifornien | [S17E04](https://thetvdb.com/series/272599-show/episodes/5095528) | [407](https://www.fernsehserien.de/arte-360grad-reportage/folgen/407-die-baumkletterer-von-kalifornien-683425) | 
+| 2015-02-17 | Kanada: Indianer schreiben Geschichte | [S17E05](https://thetvdb.com/series/272599-show/episodes/5095530) | [408](https://www.fernsehserien.de/arte-360grad-reportage/folgen/408-kanada-indianer-schreiben-geschichte-683467) | 
+| 2015-03-23 | Venezuela, die Blitze von Catatumbo | [S17E06](https://thetvdb.com/series/272599-show/episodes/5150638) | [409](https://www.fernsehserien.de/arte-360grad-reportage/folgen/409-venezuela-die-blitze-von-catatumbo-695700) | 
+| 2015-03-24 | Tasmanien, Sympathie für den Teufel | [S17E07](https://thetvdb.com/series/272599-show/episodes/5150639) | [410](https://www.fernsehserien.de/arte-360grad-reportage/folgen/410-tasmanien-sympathie-fuer-den-teufel-696253) | 
+| 2015-03-25 | Kastanien, das Brot der Korsen | [S17E08](https://thetvdb.com/series/272599-show/episodes/5150640) | [411](https://www.fernsehserien.de/arte-360grad-reportage/folgen/411-kastanien-das-brot-der-korsen-696597) | 
+| 2015-03-26 | Paris, Blitz Motorcycles | [S17E09](https://thetvdb.com/series/272599-show/episodes/5150641) | [412](https://www.fernsehserien.de/arte-360grad-reportage/folgen/412-paris-blitz-motorcycles-696850) | 
+| 2015-03-27 | Kuba: Eine Generation im Wandel | [S17E10](https://thetvdb.com/series/272599-show/episodes/5150642) | [413](https://www.fernsehserien.de/arte-360grad-reportage/folgen/413-kuba-eine-generation-im-wandel-697093) | 
+| 2015-05-02 | Hamburg, die Stadt der Schwäne | [S17E11](https://thetvdb.com/series/272599-show/episodes/5221471) | [414](https://www.fernsehserien.de/arte-360grad-reportage/folgen/414-hamburg-die-stadt-der-schwaene-711415) | 
+| 2015-08-29 | Camargue, zwischen Himmel und Meer | [S17E12](https://thetvdb.com/series/272599-show/episodes/5328397) | [415](https://www.fernsehserien.de/arte-360grad-reportage/folgen/415-camargue-zwischen-himmel-und-meer-749148) | 
+| 2015-09-05 | Bhutan, von Kindern und Kranichen | [S17E13](https://thetvdb.com/series/272599-show/episodes/5328398) | [416](https://www.fernsehserien.de/arte-360grad-reportage/folgen/416-bhutan-von-kindern-und-kranichen-754878) | 
+| 2015-09-12 | Bird Island - Allein unter Pinguinen | [S17E14](https://thetvdb.com/series/272599-show/episodes/5328399) | [417](https://www.fernsehserien.de/arte-360grad-reportage/folgen/417-bird-island-allein-unter-pinguinen-756555) | 
+| 2015-09-19 | Basketball - Die kleinen Barfuß-Spieler von Mexiko | [S17E15](https://thetvdb.com/series/272599-show/episodes/5328400) | [418](https://www.fernsehserien.de/arte-360grad-reportage/folgen/418-basketball-die-kleinen-barfuss-spieler-von-mexiko-759350) | 
+| 2015-09-26 | Die Spinnenjäger von Venezuela | [S17E16](https://thetvdb.com/series/272599-show/episodes/5328401) | [419](https://www.fernsehserien.de/arte-360grad-reportage/folgen/419-die-spinnenjaeger-von-venezuela-767199) | 
+| 2015-10-03 | Das Terrassenwunder von Peru | [S17E17](https://thetvdb.com/series/272599-show/episodes/5328402) | [420](https://www.fernsehserien.de/arte-360grad-reportage/folgen/420-das-terrassenwunder-von-peru-774025) | 
+| 2015-10-10 | Kambodscha, Sithas große Waisenfamilie | [S17E18](https://thetvdb.com/series/272599-show/episodes/5328403) | [421](https://www.fernsehserien.de/arte-360grad-reportage/folgen/421-kambodscha-sithas-grosse-waisenfamilie-776869) | 
+| 2015-11-07 | Die Oldtimer von Curaçao | [S17E19](https://thetvdb.com/series/272599-show/episodes/5396736) | [422](https://www.fernsehserien.de/arte-360grad-reportage/folgen/422-die-oldtimer-von-curacao-786745) | 
+| 2015-11-14 | Italien - Hochzeit auf Neapolitanisch | [S17E20](https://thetvdb.com/series/272599-show/episodes/5404473) | [423](https://www.fernsehserien.de/arte-360grad-reportage/folgen/423-italien-hochzeit-auf-neapolitanisch-786746) | 
+| 2015-11-21 | Yoga, Indiens erstaunliche Medizin | [S17E21](https://thetvdb.com/series/272599-show/episodes/5411577) | [424](https://www.fernsehserien.de/arte-360grad-reportage/folgen/424-yoga-indiens-erstaunliche-medizin-786747) | 
+| 2015-11-28 | David und die Komodowarane | [S17E22](https://thetvdb.com/series/272599-show/episodes/5420198) | [425](https://www.fernsehserien.de/arte-360grad-reportage/folgen/425-david-und-die-komodowarane-788674) | 
+| 2015-12-05 | China, Braut ohne Bräutigam | [S17E23](https://thetvdb.com/series/272599-show/episodes/5431748) | [426](https://www.fernsehserien.de/arte-360grad-reportage/folgen/426-china-braut-ohne-braeutigam-792366) | 
+| 2015-12-13 | Sansibars erstes Frauenorchester | [S17E24](https://thetvdb.com/series/272599-show/episodes/5440875) | [427](https://www.fernsehserien.de/arte-360grad-reportage/folgen/427-sansibars-erstes-frauenorchester-793099) | 
+| 2015-12-21 | Die Bergführer von Chamonix | [S17E25](https://thetvdb.com/series/272599-show/episodes/5446452) | [428](https://www.fernsehserien.de/arte-360grad-reportage/folgen/428-die-bergfuehrer-von-chamonix-794734) | 
+| 2015-12-26 | Polen, Winter in den Waldkarpaten | [S17E26](https://thetvdb.com/series/272599-show/episodes/5455789) | [429](https://www.fernsehserien.de/arte-360grad-reportage/folgen/429-polen-winter-in-den-waldkarpaten-796124) | 
+| 2016-01-02 | Kenias Spürhunde - Rettung für die Elefanten | [S18E01](https://thetvdb.com/series/272599-show/episodes/5464152) | [430](https://www.fernsehserien.de/arte-360grad-reportage/folgen/430-kenias-spuerhunde-rettung-fuer-die-elefanten-797294) | 
+| 2016-01-09 | Valparaíso - Die Stadt der Aufzüge | [S18E02](https://thetvdb.com/series/272599-show/episodes/5473961) | [431](https://www.fernsehserien.de/arte-360grad-reportage/folgen/431-valparaiso-die-stadt-der-aufzuege-798761) | 
+| 2016-01-23 | Sibirien - Der Kapitän und die Lena | [S18E03](https://thetvdb.com/series/272599-show/episodes/5473962) | [432](https://www.fernsehserien.de/arte-360grad-reportage/folgen/432-sibirien-der-kapitaen-und-die-lena-801600) | 
+| 2016-02-20 | Spreewald - Kähne, Köche, Klapperstörche | [S18E04](https://thetvdb.com/series/272599-show/episodes/5526195) | [433](https://www.fernsehserien.de/arte-360grad-reportage/folgen/433-spreewald-kaehne-koeche-klapperstoerche-807566) | 
+| 2016-02-27 | Cocos Island - Paradies für Haie?! | [S18E05](https://thetvdb.com/series/272599-show/episodes/5535287) | [434](https://www.fernsehserien.de/arte-360grad-reportage/folgen/434-cocos-island-paradies-fuer-haie-807567) | 
+| 2016-03-19 | Insekten - Unser Speiseplan für morgen? | [S18E06](https://thetvdb.com/series/272599-show/episodes/5561577) | [435](https://www.fernsehserien.de/arte-360grad-reportage/folgen/435-insekten-unser-speiseplan-fuer-morgen-812256) | 
+| 2016-04-09 | Myanmar - Per Zug durch die Zeit | [S18E07](https://thetvdb.com/series/272599-show/episodes/5578061) | [436](https://www.fernsehserien.de/arte-360grad-reportage/folgen/436-myanmar-per-zug-durch-die-zeit-816969) | 
+| 2016-04-30 | Die Bärenhunde von Nevada | [S18E08](https://thetvdb.com/series/272599-show/episodes/5578064) | [437](https://www.fernsehserien.de/arte-360grad-reportage/folgen/437-die-baerenhunde-von-nevada-821884) | 
+| 2016-05-14 | Die Dhaus - Arabiens legendäre Schiffe | [S18E09](https://thetvdb.com/series/272599-show/episodes/5609661) | [438](https://www.fernsehserien.de/arte-360grad-reportage/folgen/438-die-dhaus-arabiens-legendaere-schiffe-825806) | 
+| 2016-05-28 | Der Waldrapp - Punkvogel aus den Alpen | [S18E10](https://thetvdb.com/series/272599-show/episodes/5628778) | [439](https://www.fernsehserien.de/arte-360grad-reportage/folgen/439-der-waldrapp-punkvogel-aus-den-alpen-828241) | 
+| 2016-06-25 | Die Eisfischer vom Chagan-See | [S18E11](https://thetvdb.com/series/272599-show/episodes/5658015) | [440](https://www.fernsehserien.de/arte-360grad-reportage/folgen/440-die-eisfischer-vom-chagan-see-923466) | 
+| 2016-07-16 | Pythons - Invasion in Florida | [S18E12](https://thetvdb.com/series/272599-show/episodes/5660701) | [441](https://www.fernsehserien.de/arte-360grad-reportage/folgen/441-python-invasion-in-florida-940658) | 
+| 2016-09-03 | Amas Welt - Das neue Ghana | [S18E13](https://thetvdb.com/series/272599-show/episodes/5714108) | [442](https://www.fernsehserien.de/arte-360grad-reportage/folgen/442-amas-welt-das-neue-ghana-981928) | 
+| 2016-09-10 | Tunesien - Die Kunst der Berbertattoos | [S18E14](https://thetvdb.com/series/272599-show/episodes/5745112) | [443](https://www.fernsehserien.de/arte-360grad-reportage/folgen/443-tunesien-die-kunst-der-berbertattoos-983648) | 
+| 2016-09-17 | Die Cook Islands - Willkommen im Paradies | [S18E15](https://thetvdb.com/series/272599-show/episodes/5751341) | [444](https://www.fernsehserien.de/arte-360grad-reportage/folgen/444-die-cook-islands-welcome-to-paradise-985202) | 
+| 2016-09-24 | Norwegen - Försterinnen auf dem Vormarsch | [S18E16](https://thetvdb.com/series/272599-show/episodes/5739071) | [445](https://www.fernsehserien.de/arte-360grad-reportage/folgen/445-norwegen-foersterinnen-auf-dem-vormarsch-988012) | 
+| 2016-10-01 | Vietnam - Das Schicksal der Mondbären | [S18E17](https://thetvdb.com/series/272599-show/episodes/5751342) | [446](https://www.fernsehserien.de/arte-360grad-reportage/folgen/446-vietnam-das-schicksal-der-mondbaeren-989430) | 
+| 2016-10-15 | Die letzten Krokodile Venezuelas | [S18E18](https://thetvdb.com/series/272599-show/episodes/5764340) | [447](https://www.fernsehserien.de/arte-360grad-reportage/folgen/447-die-letzten-krokodile-venezuelas-992799) | 
+| 2016-10-29 | Das Elefantenkrankenhaus von Thailand | [S18E19](https://thetvdb.com/series/272599-show/episodes/5822676) | [448](https://www.fernsehserien.de/arte-360grad-reportage/folgen/448-das-elefantenkrankenhaus-von-thailand-995976) | 
+| 2016-11-05 | Die Schlammfußballer von Island | [S18E20](https://thetvdb.com/series/272599-show/episodes/5830614) | [449](https://www.fernsehserien.de/arte-360grad-reportage/folgen/449-schlammfussball-in-island-999289) | 
+| 2016-11-19 | Dänemark - Königin Margrethe und ihr Sommerschloss | [S18E21](https://thetvdb.com/series/272599-show/episodes/5854099) | [450](https://www.fernsehserien.de/arte-360grad-reportage/folgen/450-daenemark-koenigin-margrethe-und-ihr-sommerschloss-1001793) | 
+| 2016-11-26 | Die metallenen Gondeln von Tschiatura | [S18E22](https://thetvdb.com/series/272599-show/episodes/5858780) | [451](https://www.fernsehserien.de/arte-360grad-reportage/folgen/451-die-metallenen-gondeln-von-tschiatura-1002246) | 
+| 2016-12-03 | Die Honigsammler von Yunnan | [S18E23](https://thetvdb.com/series/272599-show/episodes/5869469) | [452](https://www.fernsehserien.de/arte-360grad-reportage/folgen/452-die-honigsammler-von-yunnan-1012644) | 
+| 2016-12-10 | Wilde Schweiz - Von Ringern und Schwingern | [S18E24](https://thetvdb.com/series/272599-show/episodes/5878158) | [453](https://www.fernsehserien.de/arte-360grad-reportage/folgen/453-wilde-schweiz-von-ringern-und-schwingern-1036481) | 
+| 2016-12-17 | St. Bernhard - Von Menschen und Hunden | [S18E25](https://thetvdb.com/series/272599-show/episodes/5888245) | [454](https://www.fernsehserien.de/arte-360grad-reportage/folgen/454-st-bernhard-von-menschen-und-hunden-1037887) | 
+| 2016-12-24 | Rumänien - Eine Weihnachtsreise ins Donaudelta | [S18E26](https://thetvdb.com/series/272599-show/episodes/5895561) | [455](https://www.fernsehserien.de/arte-360grad-reportage/folgen/455-rumaenien-eine-weihnachtsreise-ins-donaudelta-1039858) | 
+| 2017-01-07 | Die Liebenden von Santa Cruz del Islote | [S19E01](https://thetvdb.com/series/272599-show/episodes/5904645) | [456](https://www.fernsehserien.de/arte-360grad-reportage/folgen/456-die-liebenden-von-santa-cruz-del-islote-1042427) | 
+| 2017-01-14 | Marseille - Kopfüber ins Blau | [S19E02](https://thetvdb.com/series/272599-show/episodes/5927802) | [457](https://www.fernsehserien.de/arte-360grad-reportage/folgen/457-marseille-kopfueber-ins-blau-1044494) | 
+| 2017-01-21 | Kurt und seine Wölfe | [S19E03](https://thetvdb.com/series/272599-show/episodes/5927792) | [458](https://www.fernsehserien.de/arte-360grad-reportage/folgen/458-kurt-und-seine-woelfe-1046379) | 
+| 2017-01-28 | Die schwebenden Särge von Georgien |  |  | 
+| 2017-01-28 | Pyrenäen - Ein Hirte zwischen Himmel und Erde | [S19E04](https://thetvdb.com/series/272599-show/episodes/5945673) | [459](https://www.fernsehserien.de/arte-360grad-reportage/folgen/459-pyrenaeen-ein-hirte-zwischen-himmel-und-erde-1048641) | 
+| 2017-02-04 | Zauberhafte Mosel | [S19E05](https://thetvdb.com/series/272599-show/episodes/5966507) | [460](https://www.fernsehserien.de/arte-360grad-reportage/folgen/460-zauberhafte-mosel-1048643) | 
+| 2017-02-18 | Der Kosakenpriester vom Don | [S19E06](https://thetvdb.com/series/272599-show/episodes/5975719) | [461](https://www.fernsehserien.de/arte-360grad-reportage/folgen/461-der-kosakenpriester-vom-don-1051882) | 
+| 2017-02-25 | Chile - Die Leuchttürme am Ende der Welt | [S19E07](https://thetvdb.com/series/272599-show/episodes/5986947) | [462](https://www.fernsehserien.de/arte-360grad-reportage/folgen/462-chile-die-leuchttuerme-am-ende-der-welt-1052721) | 
+| 2017-03-04 | Indien - Heilendes Ayurveda | [S19E08](https://thetvdb.com/series/272599-show/episodes/5987692) | [463](https://www.fernsehserien.de/arte-360grad-reportage/folgen/463-indien-heilendes-ayurveda-1055376) | 
+| 2017-03-12 | Spanien - Die Tradition der Menschentürme | [S19E09](https://thetvdb.com/series/272599-show/episodes/6005142) | [464](https://www.fernsehserien.de/arte-360grad-reportage/folgen/464-spanien-die-tradition-der-menschentuerme-1057317) | 
+| 2017-03-19 | Malaysia - Von Frauen und Motorrädern | [S19E10](https://thetvdb.com/series/272599-show/episodes/6010575) | [465](https://www.fernsehserien.de/arte-360grad-reportage/folgen/465-malaysia-von-frauen-und-motorraedern-1058938) | 
+| 2017-03-26 | Eine zweite Art von Frau - Thailand, das Dritte Geschlecht | [S19E11](https://thetvdb.com/series/272599-show/episodes/6021363) | [466](https://www.fernsehserien.de/arte-360grad-reportage/folgen/466-eine-zweite-art-von-frau-thailand-das-dritte-geschlecht-1058939) | 
+| 2017-05-21 | Myanmars Bambusbrücke - Ein Dorf packt an! | [S19E12](https://thetvdb.com/series/272599-show/episodes/6101743) | [467](https://www.fernsehserien.de/arte-360grad-reportage/folgen/467-myanmars-bambusbruecke-ein-dorf-packt-an-1082612) | 
+| 2017-05-28 | Die Minga - Umzug auf Chilenisch | [S19E13](https://thetvdb.com/series/272599-show/episodes/7219669) | [468](https://www.fernsehserien.de/arte-360grad-reportage/folgen/468-die-minga-umzug-auf-chilenisch-1088464) | 
+| 2017-08-06 | Kuba - Meister der Drehorgeln | [S19E14](https://thetvdb.com/series/272599-show/episodes/6241979) | [469](https://www.fernsehserien.de/arte-360grad-reportage/folgen/469-kuba-meister-der-drehorgeln-1106449) | 
+| 2017-08-20 | Sri Lanka - Eine legendäre Eisenbahnstrecke | [S19E15](https://thetvdb.com/series/272599-show/episodes/6270747) | [470](https://www.fernsehserien.de/arte-360grad-reportage/folgen/470-sri-lanka-eine-legendaere-eisenbahnstrecke-1109704) | 
+| 2017-09-17 | Die Wassernomaden vom Sambesi | [S19E16](https://thetvdb.com/series/272599-show/episodes/6328065) | [471](https://www.fernsehserien.de/arte-360grad-reportage/folgen/471-wassernomaden-auf-dem-sambesi-1123007) | 
+| 2017-10-01 | Mate-Tee - Die Seele Argentiniens | [S19E17](https://thetvdb.com/series/272599-show/episodes/6348729) | [472](https://www.fernsehserien.de/arte-360grad-reportage/folgen/472-argentinien-mate-tee-die-seele-des-landes-1132095) | 
+| 2017-10-22 | Louisiana - Land unter bei den Shrimpfischern | [S19E18](https://thetvdb.com/series/272599-show/episodes/6376645) | [473](https://www.fernsehserien.de/arte-360grad-reportage/folgen/473-louisiana-land-unter-bei-den-shrimpfischern-1134615) | 
+| 2017-10-29 | Svanetien - Von Lebenden und Toten | [S19E19](https://thetvdb.com/series/272599-show/episodes/6387570) | [474](https://www.fernsehserien.de/arte-360grad-reportage/folgen/474-svanetien-von-lebenden-und-toten-1137649) | 
+| 2017-11-05 | Java - Zauberhaftes Schattentheater | [S19E20](https://thetvdb.com/series/272599-show/episodes/6398275) | [475](https://www.fernsehserien.de/arte-360grad-reportage/folgen/475-java-zauberhaftes-schattentheater-1139270) | 
+| 2017-11-12 | Frisch vermählt in Estland | [S19E21](https://thetvdb.com/series/272599-show/episodes/6398624) | [476](https://www.fernsehserien.de/arte-360grad-reportage/folgen/476-frisch-vermaehlt-in-estland-1140830) | 
+| 2017-11-19 | Die Geier sind zurück | [S19E22](https://thetvdb.com/series/272599-show/episodes/6398625) | [477](https://www.fernsehserien.de/arte-360grad-reportage/folgen/477-die-geier-sind-zurueck-1142429) | 
+| 2017-11-26 | Bolivien - Der Kampf um die kleinen Herzen | [S19E23](https://thetvdb.com/series/272599-show/episodes/6398620) | [478](https://www.fernsehserien.de/arte-360grad-reportage/folgen/478-bolivien-der-kampf-um-die-kleinen-herzen-1143660) | 
+| 2017-11-27 | Sibirien, die Eisstraße ins Polarmeer | [S19E24](https://thetvdb.com/series/272599-show/episodes/6439596) | [479](https://www.fernsehserien.de/arte-360grad-reportage/folgen/479-sibirien-die-eisstrasse-ins-polarmeer-1143920) | 
+| 2017-12-10 | Kolumbien: DC3 Oldtimer versorgen den Regenwald | [S19E25](https://thetvdb.com/series/272599-show/episodes/6448641) | [480](https://www.fernsehserien.de/arte-360grad-reportage/folgen/480-kolumbien-dc3-oldtimer-versorgen-den-regenwald-1148836) | 
+| 2017-12-24 | Der Thomanerchor - Leben für die Musik | [S19E26](https://thetvdb.com/series/272599-show/episodes/6468960) | [481](https://www.fernsehserien.de/arte-360grad-reportage/folgen/481-der-thomanerchor-leben-fuer-die-musik-1151707) | 
+| 2017-06-03 | Die Insel Chiloé | [S19E27](https://thetvdb.com/series/272599-show/episodes/6126640) |  | 
+| 2018-01-14 | Friaul, Benvenuti im Musiktal | [S20E01](https://thetvdb.com/series/272599-show/episodes/6507973) | [482](https://www.fernsehserien.de/arte-360grad-reportage/folgen/482-friaul-benvenuti-im-musiktal-1157017) | 
+| 2018-01-28 | Bisons, die sanften Riesen von Montana | [S20E02](https://thetvdb.com/series/272599-show/episodes/6529015) | [483](https://www.fernsehserien.de/arte-360grad-reportage/folgen/483-bisons-die-sanften-riesen-von-montana-1161790) | 
+| 2018-02-04 | Vietnam, die letzten Pangoline | [S20E03](https://thetvdb.com/series/272599-show/episodes/6538679) | [484](https://www.fernsehserien.de/arte-360grad-reportage/folgen/484-vietnam-die-letzten-pangoline-1163224) | 
+| 2018-02-11 | Schottland: Die Seenotretter der Orkney Islands | [S20E04](https://thetvdb.com/series/272599-show/episodes/6549630) | [485](https://www.fernsehserien.de/arte-360grad-reportage/folgen/485-schottland-die-seenotretter-der-orkney-islands-1164369) | 
+| 2018-02-25 | Kanada - Mit der Hebamme durch die Badlands | [S20E05](https://thetvdb.com/series/272599-show/episodes/6578381) | [486](https://www.fernsehserien.de/arte-360grad-reportage/folgen/486-kanada-mit-der-hebamme-durch-die-badlands-1169596) | 
+| 2018-03-04 | Myanmar - Die Marmorkünstler von Mandalay | [S20E06](https://thetvdb.com/series/272599-show/episodes/6596840) | [487](https://www.fernsehserien.de/arte-360grad-reportage/folgen/487-myanmar-die-marmorkuenstler-von-mandalay-1171202) | 
+| 2018-03-11 | Der Lachszähler von Kanada | [S20E07](https://thetvdb.com/series/272599-show/episodes/6590788) | [488](https://www.fernsehserien.de/arte-360grad-reportage/folgen/488-der-lachszaehler-von-kanada-1173798) | 
+| 2018-03-18 | Kreta - Die süßen Früchte des Johannisbrotbaums | [S20E08](https://thetvdb.com/series/272599-show/episodes/6597521) | [489](https://www.fernsehserien.de/arte-360grad-reportage/folgen/489-kreta-die-suessen-fruechte-des-johannisbrotbaums-1175560) | 
+| 2018-03-25 | Der Hundeflüsterer der Queen | [S20E09](https://thetvdb.com/series/272599-show/episodes/6615190) | [490](https://www.fernsehserien.de/arte-360grad-reportage/folgen/490-der-hundefluesterer-der-queen-1177787) | 
+| 2018-04-01 | Italien, eine neue Glocke für Monopoli | [S20E10](https://thetvdb.com/series/272599-show/episodes/6615191) | [491](https://www.fernsehserien.de/arte-360grad-reportage/folgen/491-italien-eine-neue-glocke-fuer-monopoli-1179190) | 
+| 2018-05-13 | Arapaima, der Riesenfisch vom Amazonas | [S20E11](https://thetvdb.com/series/272599-show/episodes/6689543) | [492](https://www.fernsehserien.de/arte-360grad-reportage/folgen/492-arapaima-der-riesenfisch-vom-amazonas-1191708) | 
+| 2018-05-27 | Die fliegenden Wildesel von Kasachstan | [S20E12](https://thetvdb.com/series/272599-show/episodes/6707145) | [493](https://www.fernsehserien.de/arte-360grad-reportage/folgen/493-die-fliegenden-wildesel-von-kasachstan-1194430) | 
+| 2018-06-22 | Geliebtes Korsika - Kampf gegen das Feuer | [S20E13](https://thetvdb.com/series/272599-show/episodes/6739140) | [494](https://www.fernsehserien.de/arte-360grad-reportage/folgen/494-geliebtes-korsika-kampf-gegen-das-feuer-1202913) | 
+| 2018-08-30 | Japan - Leben am Fuß des Vulkans | [S20E14](https://thetvdb.com/series/272599-show/episodes/6819062) | [495](https://www.fernsehserien.de/arte-360grad-reportage/folgen/495-japan-leben-am-fuss-des-vulkans-1221897) | 
+| 2018-09-08 | Sucevita - Rumäniens schönste Klosterfresken | [S20E15](https://thetvdb.com/series/272599-show/episodes/6821173) | [496](https://www.fernsehserien.de/arte-360grad-reportage/folgen/496-sucevita-rumaeniens-schoenste-klosterfresken-1223336) | 
+| 2018-09-15 | Moskaus berühmte Sprengstoffhunde | [S20E16](https://thetvdb.com/series/272599-show/episodes/6829028) | [497](https://www.fernsehserien.de/arte-360grad-reportage/folgen/497-moskaus-beruehmte-sprengstoffhunde-1225228) | 
+| 2018-09-29 | Neuseeland - Die Tiere vom Ende der Welt | [S20E17](https://thetvdb.com/series/272599-show/episodes/6845491) | [498](https://www.fernsehserien.de/arte-360grad-reportage/folgen/498-neuseeland-die-tiere-vom-ende-der-welt-1230127) | 
+| 2018-10-06 | Virunga, der Kampf für die Berggorillas | [S20E18](https://thetvdb.com/series/272599-show/episodes/6856576) | [499](https://www.fernsehserien.de/arte-360grad-reportage/folgen/499-virunga-der-kampf-fuer-die-berggorillas-1230128) | 
+| 2018-10-13 | Gitarren und Flamenco in Granada | [S20E19](https://thetvdb.com/series/272599-show/episodes/6863765) | [500](https://www.fernsehserien.de/arte-360grad-reportage/folgen/500-gitarren-und-flamenco-in-granada-1232369) | 
+| 2018-10-20 | Chatuchak - Bangkoks Riesenmarkt | [S20E20](https://thetvdb.com/series/272599-show/episodes/6872146) | [501](https://www.fernsehserien.de/arte-360grad-reportage/folgen/501-chatuchak-bangkoks-riesenmarkt-1233630) | 
+| 2018-10-27 | Argentinien - Der Jaguar ist zurück | [S20E21](https://thetvdb.com/series/272599-show/episodes/6881859) | [502](https://www.fernsehserien.de/arte-360grad-reportage/folgen/502-argentinien-der-jaguar-ist-zurueck-1235360) | 
+| 2018-11-03 | Rooibos, der rote Tee Südafrikas | [S20E22](https://thetvdb.com/series/272599-show/episodes/6894111) | [503](https://www.fernsehserien.de/arte-360grad-reportage/folgen/503-rooibos-der-rote-tee-suedafrikas-1237427) | 
+| 2018-11-07 | Ankaras gerettete Bücher - Die Müll-Bibliothek von Cankaya | [S20E23](https://thetvdb.com/series/272599-show/episodes/6897060) | [504](https://www.fernsehserien.de/arte-360grad-reportage/folgen/504-die-muell-bibliothek-von-cankaya-1239188) | 
+| 2018-11-17 | Äthiopiens gefräßige Hochland-Affen | [S20E24](https://thetvdb.com/series/272599-show/episodes/6908214) | [505](https://www.fernsehserien.de/arte-360grad-reportage/folgen/505-aethiopiens-gefraessige-hochland-affen-1240712) | 
+| 2018-11-12 | Sibirien - Im Reich des Amur-Tigers | [S20E25](https://thetvdb.com/series/272599-show/episodes/6902553) | [506](https://www.fernsehserien.de/arte-360grad-reportage/folgen/506-sibirien-im-reich-des-amur-tigers-1243697) | 
+| 2018-12-01 | Peru, das Goldhaar der Vikunjas | [S20E26](https://thetvdb.com/series/272599-show/episodes/6923991) | [507](https://www.fernsehserien.de/arte-360grad-reportage/folgen/507-peru-das-goldhaar-der-vikunjas-1244960) | 
+| 2018-12-08 | Jonathan, der Flugakrobat | [S20E27](https://thetvdb.com/series/272599-show/episodes/6923990) | [508](https://www.fernsehserien.de/arte-360grad-reportage/folgen/508-jonathan-der-flugakrobat-1247061) | 
+| 2018-12-15 | Harris Tweed - Rückkehr einer Legende | [S20E28](https://thetvdb.com/series/272599-show/episodes/6941816) | [509](https://www.fernsehserien.de/arte-360grad-reportage/folgen/509-harris-tweed-rueckkehr-einer-legende-1249761) | 
+| 2018-12-22 | Kenia, Let's Dance | [S20E29](https://thetvdb.com/series/272599-show/episodes/6952756) | [510](https://www.fernsehserien.de/arte-360grad-reportage/folgen/510-kenia-lets-dance-1251215) | 
+| 2018-12-31 | Crémant, der feine Elsässer zum Fest | [S20E30](https://thetvdb.com/series/272599-show/episodes/6970951) | [511](https://www.fernsehserien.de/arte-360grad-reportage/folgen/511-cremant-der-feine-elsaesser-zum-fest-1253307) | 
+| 2019-01-05 | Kushti, Indiens uralter Kampfsport | [S21E01](https://thetvdb.com/series/272599-show/episodes/6977226) | [512](https://www.fernsehserien.de/arte-360grad-reportage/folgen/512-kushti-indiens-uralter-kampfsport-1254457) | 
+| 2019-01-19 | Georgiens himmlische Klöster | [S21E02](https://thetvdb.com/series/272599-show/episodes/6982371) | [513](https://www.fernsehserien.de/arte-360grad-reportage/folgen/513-georgiens-himmlische-kloester-1258177) | 
+| 2019-01-26 | Mexiko - Die edlen Reiterinnen | [S21E03](https://thetvdb.com/series/272599-show/episodes/7010223) | [514](https://www.fernsehserien.de/arte-360grad-reportage/folgen/514-mexiko-die-edlen-reiterinnen-1260727) | 
+| 2019-02-09 | Kroatien, Das Paradies der Trüffeljäger | [S21E04](https://thetvdb.com/series/272599-show/episodes/7017416) | [515](https://www.fernsehserien.de/arte-360grad-reportage/folgen/515-kroatien-das-paradies-der-trueffeljaeger-1264723) | 
+| 2019-02-23 | Arnika - Von der Kraft einer Heilpflanze | [S21E05](https://thetvdb.com/series/272599-show/episodes/7055450) | [516](https://www.fernsehserien.de/arte-360grad-reportage/folgen/516-arnika-von-der-kraft-einer-heilpflanze-1266625) | 
+| 2019-04-07 | Simbabwe - Leben für den Augenblick | [S21E06](https://thetvdb.com/series/272599-show/episodes/7122902) | [517](https://www.fernsehserien.de/arte-360grad-reportage/folgen/517-simbabwe-leben-fuer-den-augenblick-1277291) | 
+| 2019-06-01 | Äthiopien - Heimat des Kaffees | [S21E07](https://thetvdb.com/series/272599-show/episodes/7217846) | [518](https://www.fernsehserien.de/arte-360grad-reportage/folgen/518-aethiopien-heimat-des-kaffees-1290612) | 
+| 2019-06-08 | Indien, ein Himmel voller bunter Drachen | [S21E08](https://thetvdb.com/series/272599-show/episodes/7221261) | [519](https://www.fernsehserien.de/arte-360grad-reportage/folgen/519-indien-ein-himmel-voller-bunter-drachen-1292055) | 
+| 2019-07-15 | Norwegen, die Rentierprinzessin | [S21E09](https://thetvdb.com/series/272599-show/episodes/7284824) | [520](https://www.fernsehserien.de/arte-360grad-reportage/folgen/520-norwegen-die-rentierprinzessin-1299992) | 
+| 2019-08-25 | Thaimassage, die Heilkunst der Buddhisten | [S21E10](https://thetvdb.com/series/272599-show/episodes/7334026) | [521](https://www.fernsehserien.de/arte-360grad-reportage/folgen/521-thaimassage-die-heilkunst-der-buddhisten-1310639) | 
+| 2019-09-07 | Hongkongs magisches Neonlicht | [S21E11](https://thetvdb.com/series/272599-show/episodes/7350925) | [522](https://www.fernsehserien.de/arte-360grad-reportage/folgen/522-hongkongs-magisches-neonlicht-1314341) | 
+| 2019-09-29 | Tibetische Medizin - Heilkraft für die Seele | [S21E12](https://thetvdb.com/series/272599-show/episodes/7378725) | [523](https://www.fernsehserien.de/arte-360grad-reportage/folgen/523-tibetische-medizin-heilkraft-fuer-die-seele-1319247) | 
+| 2019-10-05 | Sibirien, die Eisschneider von Jakutsk | [S21E13](https://thetvdb.com/series/272599-show/episodes/7397819) | [524](https://www.fernsehserien.de/arte-360grad-reportage/folgen/524-sibirien-die-eisschneider-von-jakutsk-1321009) | 
+| 2019-10-12 | Auf Schlangenjagd in Bangkok | [S21E14](https://thetvdb.com/series/272599-show/episodes/7398590) | [525](https://www.fernsehserien.de/arte-360grad-reportage/folgen/525-auf-schlangenjagd-in-bangkok-1322905) | 
+| 2019-10-19 | Die blinde Primaballerina von São Paulo | [S21E15](https://thetvdb.com/series/272599-show/episodes/7412295) | [526](https://www.fernsehserien.de/arte-360grad-reportage/folgen/526-die-blinde-primaballerina-von-sao-paulo-1324329) | 
+| 2019-10-26 | Slowenien, Land des Honigs | [S21E16](https://thetvdb.com/series/272599-show/episodes/7423109) | [527](https://www.fernsehserien.de/arte-360grad-reportage/folgen/527-slowenien-land-des-honigs-1328522) | 
+| 2019-10-27 | Japan, der Meister des Zen-Gartens | [S21E17](https://thetvdb.com/series/272599-show/episodes/7423122) | [528](https://www.fernsehserien.de/arte-360grad-reportage/folgen/528-japan-der-meister-des-zen-gartens-1328528) | 
+| 2019-11-09 | Finnland, die rasenden Schrottkisten | [S21E18](https://thetvdb.com/series/272599-show/episodes/7444447) | [529](https://www.fernsehserien.de/arte-360grad-reportage/folgen/529-finnland-die-rasenden-schrottkisten-1330934) | 
+| 2019-11-10 | Heilende Schwingungen der Klangschalen | [S21E19](https://thetvdb.com/series/272599-show/episodes/7444458) | [530](https://www.fernsehserien.de/arte-360grad-reportage/folgen/530-heilende-schwingungen-der-klangschalen-1330935) | 
+| 2019-11-23 | Harpyien, die größten Greifvögel des Regenwaldes | [S21E20](https://thetvdb.com/series/272599-show/episodes/7457468) | [531](https://www.fernsehserien.de/arte-360grad-reportage/folgen/531-harpyien-die-groessten-greifvoegel-des-regenwaldes-1334458) | 
+| 2019-12-08 | Island: Von strickenden Männern und Pullovern | [S21E21](https://thetvdb.com/series/272599-show/episodes/7486315) | [532](https://www.fernsehserien.de/arte-360grad-reportage/folgen/532-island-von-strickenden-maennern-und-pullovern-1339073) | 
+| 2019-12-14 | Kentucky - Die Schlacht von Sacramento | [S21E22](https://thetvdb.com/series/272599-show/episodes/7496325) | [533](https://www.fernsehserien.de/arte-360grad-reportage/folgen/533-kentucky-die-schlacht-von-sacramento-1339867) | 
+| 2019-12-21 | Die letzten Walfänger der Beringsee | [S21E23](https://thetvdb.com/series/272599-show/episodes/7496340) | [534](https://www.fernsehserien.de/arte-360grad-reportage/folgen/534-die-letzten-walfaenger-der-beringsee-1341480) | 
+| 2019-12-22 | Kaviar, das schwarze Gold Italiens | [S21E24](https://thetvdb.com/series/272599-show/episodes/7496351) | [535](https://www.fernsehserien.de/arte-360grad-reportage/folgen/535-kaviar-das-schwarze-gold-italiens-1341482) | 
+| 2019-12-29 | Esmeraldas Edelkakao | [S21E25](https://thetvdb.com/series/272599-show/episodes/7517098) |  | 
+| 2020-01-05 | Die Vespa-Rebellen in Indonesien | [S22E01](https://thetvdb.com/series/272599-show/episodes/7517155) | [536](https://www.fernsehserien.de/arte-360grad-reportage/folgen/536-die-vespa-rebellen-in-indonesien-1344883) | 
+| 2020-01-12 | Costa Rica, das größte Hundeheim der Welt | [S22E02](https://thetvdb.com/series/272599-show/episodes/7542877) | [537](https://www.fernsehserien.de/arte-360grad-reportage/folgen/537-costa-rica-das-groesste-hundeheim-der-welt-1346786) | 
+| 2020-01-26 | Die Herren des Lavendels | [S22E03](https://thetvdb.com/series/272599-show/episodes/7557995) | [538](https://www.fernsehserien.de/arte-360grad-reportage/folgen/538-die-herren-des-lavendels-1348630) | 
+| 2020-02-09 | Die Zedernuss, die Königin der Taiga | [S22E04](https://thetvdb.com/series/272599-show/episodes/7581810) | [539](https://www.fernsehserien.de/arte-360grad-reportage/folgen/539-die-zedernuss-die-koenigin-der-taiga-1352887) | 
+| 2020-02-16 | Die Ostsee, Sehnsuchtsort der Kraniche | [S22E05](https://thetvdb.com/series/272599-show/episodes/7594851) | [540](https://www.fernsehserien.de/arte-360grad-reportage/folgen/540-die-ostsee-sehnsuchtsort-der-kraniche-1352888) | 
+| 2020-02-23 | Kapverden: Zwei Hunde als Schildkrötenretter | [S22E06](https://thetvdb.com/series/272599-show/episodes/7619012) | [541](https://www.fernsehserien.de/arte-360grad-reportage/folgen/541-kapverden-zwei-hunde-als-schildkroetenretter-1353321) | 
+| 2020-03-01 | Die Schwestern der Erde | [S22E07](https://thetvdb.com/series/272599-show/episodes/7619535) | [542](https://www.fernsehserien.de/arte-360grad-reportage/folgen/542-die-schwestern-der-erde-1355292) | 
+| 2020-03-08 | Argentinien, von wilden Pferden und sanfter Hand | [S22E08](https://thetvdb.com/series/272599-show/episodes/7624143) | [543](https://www.fernsehserien.de/arte-360grad-reportage/folgen/543-argentinien-von-wilden-pferden-und-sanfter-hand-1357300) | 
+| 2020-06-14 | Indiens Kurkuma - Heilsam und heilig | [S22E09](https://thetvdb.com/series/272599-show/episodes/7793491) | [544](https://www.fernsehserien.de/arte-360grad-reportage/folgen/544-indiens-kurkuma-heilsam-und-heilig-1381765) | 
+| 2020-06-28 | Huskys, am Start! | [S22E10](https://thetvdb.com/series/272599-show/episodes/7818444) | [545](https://www.fernsehserien.de/arte-360grad-reportage/folgen/545-huskys-am-start-1384225) | 
+| 2020-07-25 | Schignano, ein uralter Karneval in Italiens Bergen | [S22E11](https://thetvdb.com/series/272599-show/episodes/7859337) | [546](https://www.fernsehserien.de/arte-360grad-reportage/folgen/546-schignano-ein-uralter-karneval-in-italiens-bergen-1388813) | 
+| 2020-08-16 | Ring frei für Sambias Boxerinnen! | [S22E12](https://thetvdb.com/series/272599-show/episodes/7890793) | [547](https://www.fernsehserien.de/arte-360grad-reportage/folgen/547-ring-frei-fuer-sambias-boxerinnen-1397612) | 
+| 2020-09-13 | Singvögel - Die goldenen Stimmen von Singapur | [S22E13](https://thetvdb.com/series/272599-show/episodes/7933483) | [548](https://www.fernsehserien.de/arte-360grad-reportage/folgen/548-singvoegel-die-goldenen-stimmen-von-singapur-1404279) | 
+| 2020-10-25 | Italiens Kapern - Der Geschmack des Südens | [S22E14](https://thetvdb.com/series/272599-show/episodes/8023022) | [549](https://www.fernsehserien.de/arte-360grad-reportage/folgen/549-italiens-kapern-der-geschmack-des-suedens-1414438) | 
+| 2020-11-22 | Der letzte Rheinfischer | [S22E15](https://thetvdb.com/series/272599-show/episodes/8076150) | [550](https://www.fernsehserien.de/arte-360grad-reportage/folgen/550-der-letzte-rheinfischer-1420915) | 
+| 2020-11-29 | Mit Volldampf durch Kärnten | [S22E16](https://thetvdb.com/series/272599-show/episodes/8122019) | [551](https://www.fernsehserien.de/arte-360grad-reportage/folgen/551-mit-volldampf-durch-kaernten-1422151) | 
+| 2020-12-06 | Das Elsass, Heimat der Störche | [S22E17](https://thetvdb.com/series/272599-show/episodes/8092659) | [552](https://www.fernsehserien.de/arte-360grad-reportage/folgen/552-das-elsass-heimat-der-stoerche-1426023) | 
+| 2020-12-13 | Lichterglanz im Norden - Winter in Stockholm und den Schären | [S22E18](https://thetvdb.com/series/272599-show/episodes/8103945) | [553](https://www.fernsehserien.de/arte-360grad-reportage/folgen/553-lichterglanz-im-norden-winter-in-stockholm-und-in-den-schaeren-1427055) | 
+| 2020-12-20 | Chartres, die Farben des Himmels | [S22E19](https://thetvdb.com/series/272599-show/episodes/8112897) | [554](https://www.fernsehserien.de/arte-360grad-reportage/folgen/554-chartres-die-farben-des-himmels-1429102) | 
+| 2021-01-03 | Bretagne, die raue Schönheit | [S23E01](https://thetvdb.com/series/272599-show/episodes/8131737) | [555](https://www.fernsehserien.de/arte-360grad-reportage/folgen/555-bretagne-die-raue-schoenheit-1434440) | 
+| 2021-01-10 | Pelota, die baskische Leidenschaft | [S23E02](https://thetvdb.com/series/272599-show/episodes/8145486) | [556](https://www.fernsehserien.de/arte-360grad-reportage/folgen/556-pelota-die-baskische-leidenschaft-1436236) | 
+| 2021-01-31 | Estland und das kleine Königreich der Seto | [S23E03](https://thetvdb.com/series/272599-show/episodes/8209429) | [557](https://www.fernsehserien.de/arte-360grad-reportage/folgen/557-estland-und-das-kleine-koenigreich-der-seto-1440392) | 
+| 2021-02-07 | Puerto Rico: Ein Krankenhaus für Seekühe | [S23E04](https://thetvdb.com/series/272599-show/episodes/8209430) | [558](https://www.fernsehserien.de/arte-360grad-reportage/folgen/558-puerto-rico-ein-krankenhaus-fuer-seekuehe-1442086) | 
+| 2021-02-14 | Dem Wolf auf der Spur - Schnüffeln für den Artenschutz | [S23E05](https://thetvdb.com/series/272599-show/episodes/8228076) | [559](https://www.fernsehserien.de/arte-360grad-reportage/folgen/559-dem-wolf-auf-der-spur-schnueffeln-fuer-den-artenschutz-1442841) | 
+| 2021-02-21 | Die Eifel und ihre Eulen-Hüter | [S23E06](https://thetvdb.com/series/272599-show/episodes/8230361) | [560](https://www.fernsehserien.de/arte-360grad-reportage/folgen/560-die-eifel-und-ihre-eulen-hueter-1443627) | 
+| 2021-02-28 | Percheron, das Kraftpaket mit einer Pferdestärke | [S23E07](https://thetvdb.com/series/272599-show/episodes/8270994) | [561](https://www.fernsehserien.de/arte-360grad-reportage/folgen/561-percheron-das-kraftpaket-mit-einer-pferdestaerke-1444769) | 
+| 2021-03-07 | Kalkstein - Das weiße Gold von Brac | [S23E08](https://thetvdb.com/series/272599-show/episodes/8271000) | [562](https://www.fernsehserien.de/arte-360grad-reportage/folgen/562-kalkstein-das-weisse-gold-von-brac-1446848) | 
+| 2021-03-14 | Hamburg - Welthafen mit schwimmender Kirche | [S23E09](https://thetvdb.com/series/272599-show/episodes/8285562) | [563](https://www.fernsehserien.de/arte-360grad-reportage/folgen/563-hamburg-welthafen-mit-schwimmender-kirche-1449045) | 
+| 2021-03-21 | Tradition am Steilhang - Die Schweiz und ihre Wildheuer | [S23E10](https://thetvdb.com/series/272599-show/episodes/8320384) | [564](https://www.fernsehserien.de/arte-360grad-reportage/folgen/564-tradition-am-steilhang-die-schweiz-und-ihre-wildheuer-1451154) | 
+| 2021-03-28 | Biber, die Baumeister an der Elbe | [S23E11](https://thetvdb.com/series/272599-show/episodes/8320385) | [565](https://www.fernsehserien.de/arte-360grad-reportage/folgen/565-biber-die-baumeister-an-der-elbe-1453165) | 
+| 2021-04-04 | Pelikane, die Könige des Donaudeltas | [S23E12](https://thetvdb.com/series/272599-show/episodes/8355928) | [566](https://www.fernsehserien.de/arte-360grad-reportage/folgen/566-pelikane-die-koenige-des-donaudeltas-1456045) | 
+| 2021-04-18 | Frankreichs Winzer - Tradition trifft Passion | [S23E13](https://thetvdb.com/series/272599-show/episodes/8375958) | [567](https://www.fernsehserien.de/arte-360grad-reportage/folgen/567-frankreichs-winzer-tradition-trifft-passion-1457511) | 
+| 2021-04-25 | Notruf Nordseeküste - Die Robben-Retter | [S23E14](https://thetvdb.com/series/272599-show/episodes/8375959) | [568](https://www.fernsehserien.de/arte-360grad-reportage/folgen/568-notruf-nordseekueste-die-robben-retter-1459069) | 
+| 2021-05-09 | Australien - Wenn Kunst auf Silos trifft | [S23E15](https://thetvdb.com/series/272599-show/episodes/8375960) | [569](https://www.fernsehserien.de/arte-360grad-reportage/folgen/569-australien-wenn-kunst-auf-silos-trifft-1462468) | 
+| 2021-08-28 | Der Wüstenzug - die Lebensader Mauretaniens | [S23E16](https://thetvdb.com/series/272599-show/episodes/8634489) | [570](https://www.fernsehserien.de/arte-360grad-reportage/folgen/570-der-wuestenzug-die-lebensader-mauretaniens-1489640) | 
+| 2021-09-04 | Escobars Erbe - Kolumbiens Kokain-Hippos | [S23E17](https://thetvdb.com/series/272599-show/episodes/8634490) | [571](https://www.fernsehserien.de/arte-360grad-reportage/folgen/571-escobars-erbe-kolumbiens-kokain-hippos-1491102) | 
+| 2021-09-11 | Die heilenden Delfine von Curacao | [S23E18](https://thetvdb.com/series/272599-show/episodes/8634491) | [572](https://www.fernsehserien.de/arte-360grad-reportage/folgen/572-die-heilenden-delfine-von-curacao-1492740) | 
+| 2021-09-11 | Der Traum vom Gold - Tirols Überfliegerinnen | [S23E19](https://thetvdb.com/series/272599-show/episodes/8692435) | [573](https://www.fernsehserien.de/arte-360grad-reportage/folgen/573-der-traum-vom-gold-tirols-ueberfliegerinnen-1494060) | 
+| 2021-09-25 | Schweiz: Gletscherflieger - Faszination in Weiß | [S23E20](https://thetvdb.com/series/272599-show/episodes/8692436) | [574](https://www.fernsehserien.de/arte-360grad-reportage/folgen/574-schweiz-gletscherflieger-faszination-in-weiss-1495977) | 
+| 2019-10-02 | Koh Panyee - Thailands fußballverrückte Insel | [S23E21](https://thetvdb.com/series/272599-show/episodes/8692437) | [575](https://www.fernsehserien.de/arte-360grad-reportage/folgen/575-koh-panyee-thailands-fussballverrueckte-insel-1497505) | 
+| 2021-10-09 | Stromboli - Zwischen Feuer und Meer | [S23E22](https://thetvdb.com/series/272599-show/episodes/8692438) | [576](https://www.fernsehserien.de/arte-360grad-reportage/folgen/576-stromboli-zwischen-feuer-und-meer-1499263) | 
+| 2021-10-16 | Italien - Die Igel-Retter aus dem Piemont | [S23E23](https://thetvdb.com/series/272599-show/episodes/8788087) | [577](https://www.fernsehserien.de/arte-360grad-reportage/folgen/577-italien-die-igel-retter-aus-dem-piemont-1501091) | 
+| 2021-10-30 | Dolomiten: Die Bergführer von San Martino | [S23E24](https://thetvdb.com/series/272599-show/episodes/8814843) | [578](https://www.fernsehserien.de/arte-360grad-reportage/folgen/578-dolomiten-die-bergfuehrer-von-san-martino-1508252) | 
+| 2022-01-08 | Die Lowrider-Ladies von L.A. | [S24E01](https://thetvdb.com/series/272599-show/episodes/8949820) | [579](https://www.fernsehserien.de/arte-360grad-reportage/folgen/579-die-lowrider-ladies-von-la-1523102) | 
+| 2022-01-15 | Tapire - Die Dschungel-Gärtner | [S24E02](https://thetvdb.com/series/272599-show/episodes/8949821) | [580](https://www.fernsehserien.de/arte-360grad-reportage/folgen/580-tapire-die-dschungel-gaertner-1526120) | 
+| 2022-01-22 | Faszination Elbrus - Der Ritt zum Gipfel | [S24E03](https://thetvdb.com/series/272599-show/episodes/8949822) | [581](https://www.fernsehserien.de/arte-360grad-reportage/folgen/581-faszination-elbrus-der-ritt-zum-gipfel-1526526) | 
+| 2022-01-29 | Namibias Geparden - Hoffnung für die Raubkatzen | [S24E04](https://thetvdb.com/series/272599-show/episodes/8949823) | [582](https://www.fernsehserien.de/arte-360grad-reportage/folgen/582-namibias-geparden-hoffnung-fuer-die-raubkatzen-1528457) | 
+| 2022-02-05 | Haute Couture - Federn, Falten, Seidenblumen | [S24E05](https://thetvdb.com/series/272599-show/episodes/8949824) | [583](https://www.fernsehserien.de/arte-360grad-reportage/folgen/583-haute-couture-federn-falten-seidenblumen-1531089) | 
+| 2022-02-19 | Die Odyssee der Mönchsrobbe | [S24E06](https://thetvdb.com/series/272599-show/episodes/8949825) | [584](https://www.fernsehserien.de/arte-360grad-reportage/folgen/584-die-odyssee-der-moenchsrobbe-1531389) | 
+| 2022-02-26 | Elsass - Land der Orgeln | [S24E07](https://thetvdb.com/series/272599-show/episodes/8949826) | [585](https://www.fernsehserien.de/arte-360grad-reportage/folgen/585-elsass-land-der-orgeln-1533617) | 
+| 2022-03-12 | Wilde Waterkant - Nordfriesland und seine Gänse | [S24E08](https://thetvdb.com/series/272599-show/episodes/8993022) | [586](https://www.fernsehserien.de/arte-360grad-reportage/folgen/586-wilde-waterkant-nordfriesland-und-seine-gaense-1537573) | 
+| 2022-03-26 | Die Puppen tanzen! - Litauens rollendes Theater | [S24E09](https://thetvdb.com/series/272599-show/episodes/9075607) | [587](https://www.fernsehserien.de/arte-360grad-reportage/folgen/587-die-puppen-tanzen-litauens-rollendes-theater-1540410) | 
+| 2022-05-07 | Südkorea - die Nonne der Tempelküche | [S24E10](https://thetvdb.com/series/272599-show/episodes/9158123) | [588](https://www.fernsehserien.de/arte-360grad-reportage/folgen/588-suedkorea-die-nonne-der-tempelkueche-1557485) | 
+| 2022-05-14 | Schwerelos im Windkanal | [S24E11](https://thetvdb.com/series/272599-show/episodes/9158124) | [589](https://www.fernsehserien.de/arte-360grad-reportage/folgen/589-schwerelos-im-windkanal-1551765) | 
+| 2022-05-21 | Frankreichs Gärten - Die kleinen Schätze | [S24E12](https://thetvdb.com/series/272599-show/episodes/9158125) | [590](https://www.fernsehserien.de/arte-360grad-reportage/folgen/590-frankreichs-gaerten-die-kleinen-schaetze-1553064) | 
+| 2022-06-04 | Europas Urwälder - Ein Schatz der Natur | [S24E13](https://thetvdb.com/series/272599-show/episodes/9158126) | [591](https://www.fernsehserien.de/arte-360grad-reportage/folgen/591-europas-urwaelder-ein-schatz-der-natur-1556566) | 
+| 2022-06-11 | Zwischen Naturschutz und Panzern - Bayerns wilder Schießplatz | [S24E14](https://thetvdb.com/series/272599-show/episodes/9158127) |  | 
+| 2022-06-18 | Kastiliens Kämpfer - Ritterspiele an der Burg Belmonte | [S24E15](https://thetvdb.com/series/272599-show/episodes/9158128) | [593](https://www.fernsehserien.de/arte-360grad-reportage/folgen/593-kastiliens-kaempfer-ritterspiele-an-der-burg-belmonte-1560073) | 
+| 2022-06-25 | Nopal, der Alleskönner aus Mexiko | [S24E16](https://thetvdb.com/series/272599-show/episodes/9254698) | [594](https://www.fernsehserien.de/arte-360grad-reportage/folgen/594-nopal-der-alleskoenner-aus-mexiko-1564718) | 
+| 2022-07-02 | Tempo und Leidenschaft - Argentiniens Polo-Spielerinnen | [S24E17](https://thetvdb.com/series/272599-show/episodes/9254699) | [595](https://www.fernsehserien.de/arte-360grad-reportage/folgen/595-tempo-und-leidenschaft-argentiniens-polo-spielerinnen-1570263) | 
+| 2022-07-09 | Kourou: Palmen, Raketen, Gefängnisinseln | [S24E18](https://thetvdb.com/series/272599-show/episodes/9254700) | [596](https://www.fernsehserien.de/arte-360grad-reportage/folgen/596-kourou-palmen-raketen-gefaengnisinseln-1567103) | 
+| 2022-07-16 | Las Fallas - Valencias feurige Fiesta | [S24E19](https://thetvdb.com/series/272599-show/episodes/9254701) | [597](https://www.fernsehserien.de/arte-360grad-reportage/folgen/597-las-fallas-valencias-feurige-fiesta-1569286) | 
+| 2022-08-06 | Das Gerichtsschiff vom Amazonas | [S24E20](https://thetvdb.com/series/272599-show/episodes/9254702) | [598](https://www.fernsehserien.de/arte-360grad-reportage/folgen/598-das-gerichtsschiff-vom-amazonas-1579010) | 
+| 2022-09-01 | Der Science-Van on Tour: Indien - Kampf den Scharlatanen | [S24E21](https://thetvdb.com/series/272599-show/episodes/9352688) | [599](https://www.fernsehserien.de/arte-360grad-reportage/folgen/599-der-science-van-on-tour-indien-kampf-den-scharlatanen-1581860) | 
+| 2022-09-17 | Ahornsirup - Kanadas süßer Schatz | [S24E22](https://thetvdb.com/series/272599-show/episodes/9352689) | [600](https://www.fernsehserien.de/arte-360grad-reportage/folgen/600-ahornsirup-kanadas-suesser-schatz-1583564) | 
+| 2022-10-01 | Estland - Krötenretter im Einsatz | [S24E23](https://thetvdb.com/series/272599-show/episodes/9352690) | [601](https://www.fernsehserien.de/arte-360grad-reportage/folgen/601-estland-kroetenretter-im-einsatz-1586757) | 
+| 2022-10-29 | Sardiniens wertvolle Muschelseide | [S24E24](https://thetvdb.com/series/272599-show/episodes/9352691) | [602](https://www.fernsehserien.de/arte-360grad-reportage/folgen/602-sardiniens-wertvolle-muschelseide-1590045) | 
+| 2022-11-05 | Cordoba, die Stadt der Patios | [S24E25](https://thetvdb.com/series/272599-show/episodes/9524022) | [603](https://www.fernsehserien.de/arte-360grad-reportage/folgen/603-cordoba-die-stadt-der-patios-1602011) | 
+| 2022-11-19 | Marquesas-Inseln, das Comeback der Tattoos | [S24E26](https://thetvdb.com/series/272599-show/episodes/9524023) | [604](https://www.fernsehserien.de/arte-360grad-reportage/folgen/604-marquesas-inseln-das-comeback-der-tattoos-1596812) | 
+| 2022-12-03 | Die Schweizergarde - Ein Leben für den Papst | [S24E27](https://thetvdb.com/series/272599-show/episodes/9524024) | [605](https://www.fernsehserien.de/arte-360grad-reportage/folgen/605-die-schweizergarde-ein-leben-fuer-den-papst-1602010) | 
+| 2022-12-10 | Island, die wertvollsten Daunen der Welt | [S24E28](https://thetvdb.com/series/272599-show/episodes/9524025) | [606](https://www.fernsehserien.de/arte-360grad-reportage/folgen/606-island-die-wertvollsten-daunen-der-welt-1602943) | 
+| 2022-12-17 | Zuflucht in den Anden - Kolumbiens indigene Transfrauen | [S24E29](https://thetvdb.com/series/272599-show/episodes/9524026) | [607](https://www.fernsehserien.de/arte-360grad-reportage/folgen/607-zuflucht-in-den-anden-kolumbiens-indigene-transfrauen-1605209) | 
+| 2022-12-24 | Kristall - Die magische Kunst aus den Vogesen | [S24E30](https://thetvdb.com/series/272599-show/episodes/9524027) | [608](https://www.fernsehserien.de/arte-360grad-reportage/folgen/608-kristall-die-magische-kunst-aus-den-vogesen-1607754) | 
+| 2023-01-07 | Montenegro - Der Eselretter | [S25E01](https://thetvdb.com/series/272599-show/episodes/9524036) | [609](https://www.fernsehserien.de/arte-360grad-reportage/folgen/609-montenegro-der-eselretter-1609765) | 
+| 2023-01-16 | Nopal - Das grüne Golde Mexikos | [S25E02](https://thetvdb.com/series/272599-show/episodes/9524037) |  | 
+| 2023-01-21 | Der Bergkristall - Schatz in den Schweizer Alpen | [S25E03](https://thetvdb.com/series/272599-show/episodes/9524038) | [610](https://www.fernsehserien.de/arte-360grad-reportage/folgen/610-der-bergkristall-schatz-in-den-schweizer-alpen-1612863) | 
+| 2023-01-23 | Indien - Kampf den Scharlatanen | [S25E04](https://thetvdb.com/series/272599-show/episodes/9524039) |  | 
+| 2023-01-28 | Maine - Hummer oder Wale? | [S25E05](https://thetvdb.com/series/272599-show/episodes/9524040) | [611](https://www.fernsehserien.de/arte-360grad-reportage/folgen/611-maine-hummer-oder-wale-1613685) | 
+| 2023-02-04 | Singvögel - die goldene Stimmen von Singapur | [S25E06](https://thetvdb.com/series/272599-show/episodes/9524041) |  | 
+| 2023-02-11 | Namibia - von Sandsurfern und Skatern | [S25E07](https://thetvdb.com/series/272599-show/episodes/9524042) |  | 
+| 2022-06-04 | Panzer, Wölfe, Rothirsche - Bayerns wilder Übungsplatz |  | [592](https://www.fernsehserien.de/arte-360grad-reportage/folgen/592-panzer-woelfe-rothirsche-bayerns-wilder-uebungsplatz-1559229) | 
+| 2023-02-18 | Albanien - Die Stimmen der Schäfer |  | [612](https://www.fernsehserien.de/arte-360grad-reportage/folgen/612-albanien-die-stimmen-der-schaefer-1618464) | 
+| 2023-02-25 | Laos - Futterblöcke und Büffel-Leasing |  | [613](https://www.fernsehserien.de/arte-360grad-reportage/folgen/613-laos-futterbloecke-und-bueffel-leasing-1620347) | 
+| 2023-03-04 | Freiheit auf Pferderücken - Der lange Weg der Nez Perce |  | [614](https://www.fernsehserien.de/arte-360grad-reportage/folgen/614-freiheit-auf-pferderuecken-der-lange-weg-der-nez-perce-1621705) | 
+| 2023-03-11 | Peloponnes - Rückkehr zur Erde |  | [615](https://www.fernsehserien.de/arte-360grad-reportage/folgen/615-peloponnes-rueckkehr-zur-erde-1623768) | 
+| 2023-03-18 | Handgemacht in Laos - Rares aus Rattan |  | [616](https://www.fernsehserien.de/arte-360grad-reportage/folgen/616-handgemacht-in-laos-rares-aus-rattan-1625195) | 
+| 2023-04-29 | Leben mit dem Tod - Ahnenkult auf Sulawesi |  | [617](https://www.fernsehserien.de/arte-360grad-reportage/folgen/617-leben-mit-dem-tod-ahnenkult-auf-sulawesi-1634635) | 
+| 2023-05-13 | Die Waschbären von Berlin |  | [618](https://www.fernsehserien.de/arte-360grad-reportage/folgen/618-die-waschbaeren-von-berlin-1640104) | 

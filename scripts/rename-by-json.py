@@ -653,7 +653,7 @@ class Episode(typing.TypedDict):
     title: str
     air_data: str
     duration: int
-    thetvdb_episode_no: int
+    thetvdb_episode_id: int
 
 
 episodes: list[Episode] = json.load(json_file)
