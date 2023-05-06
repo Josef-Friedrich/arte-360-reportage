@@ -1,2 +1,7 @@
-convert_yml_to_json:
+all: json readme
+
+json:
 	./scripts/convert-yml-to-json.py
+
+readme:
+	./scripts/generate-readme.py
