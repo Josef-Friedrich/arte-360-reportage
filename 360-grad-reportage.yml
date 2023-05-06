@@ -5,22 +5,22 @@ databases:
   thetvdb: https://thetvdb.com/series/272599-show
   fernsehserien: https://www.fernsehserien.de/arte-360grad-reportage
 episodes:
-- title: 'Traum-Städte: Beirut – die Milliarden-Dollar-Utopie'
+- title: 'Traum-Städte: Beirut - die Milliarden-Dollar-Utopie'
   air_date: '1999-01-04'
   duration: 55
   thetvdb_season_episode: S01E01
   thetvdb_episode_no: 4641893
-- title: 'Traum-Städte: Chandigarh – Leben im Beton'
+- title: 'Traum-Städte: Chandigarh - Leben im Beton'
   air_date: '1999-01-05'
   duration: 55
   thetvdb_season_episode: S01E02
   thetvdb_episode_no: 4641894
-- title: 'Traum-Städte: Brasilia – Metropole vom Reißbrett'
+- title: 'Traum-Städte: Brasilia - Metropole vom Reißbrett'
   air_date: '1999-01-06'
   duration: 55
   thetvdb_season_episode: S01E03
   thetvdb_episode_no: 4641895
-- title: 'Traum-Städte: Celebration – Leben in Harmonie'
+- title: 'Traum-Städte: Celebration - Leben in Harmonie'
   air_date: '1999-01-07'
   duration: 55
   thetvdb_season_episode: S01E04
@@ -55,7 +55,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S01E10
   thetvdb_episode_no: 4641902
-- title: 'Regenwald: Der Geist des Vogels – Heilkraft aus dem Urwald'
+- title: 'Regenwald: Der Geist des Vogels - Heilkraft aus dem Urwald'
   air_date: '1999-03-03'
   duration: 55
   thetvdb_season_episode: S01E11
@@ -90,7 +90,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S01E17
   thetvdb_episode_no: 4641909
-- title: 'Schönheit: Kuba – von der stillen Revolte der Schönheit'
+- title: 'Schönheit: Kuba - von der stillen Revolte der Schönheit'
   air_date: '1999-05-04'
   duration: 55
   thetvdb_season_episode: S01E18
@@ -115,7 +115,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S01E22
   thetvdb_episode_no: 4824525
-- title: 'Intelligenz: „Think Tank“ – Die Schule der Affen'
+- title: 'Intelligenz: „Think Tank“ - Die Schule der Affen'
   air_date: '1999-07-07'
   duration: 55
   thetvdb_season_episode: S01E23
@@ -180,7 +180,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S01E35
   thetvdb_episode_no: 4824542
-- title: 'Universum des Lichts: Lichtkunst – Kunstlicht'
+- title: 'Universum des Lichts: Lichtkunst - Kunstlicht'
   air_date: '1999-11-04'
   duration: 55
   thetvdb_season_episode: S01E36
@@ -200,7 +200,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S01E39
   thetvdb_episode_no: 4824550
-- title: 'Im Namen der Liebe: Menü der Zärtlichkeit  season finale'
+- title: 'Im Namen der Liebe: Menü der Zärtlichkeit'
   air_date: '1999-12-09'
   duration: 55
   thetvdb_season_episode: S01E40
@@ -210,7 +210,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S02E01
   thetvdb_episode_no: 4641913
-- title: 'Naturgewalten: Tsunami – die Todeswelle'
+- title: 'Naturgewalten: Tsunami - die Todeswelle'
   air_date: '2000-01-11'
   duration: 55
   thetvdb_season_episode: S02E02
@@ -230,7 +230,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S02E05
   thetvdb_episode_no: 4641917
-- title: 'Spiele des Lebens: Schach – Krieg auf 64 Feldern'
+- title: 'Spiele des Lebens: Schach - Krieg auf 64 Feldern'
   air_date: '2000-02-08'
   duration: 55
   thetvdb_season_episode: S02E06
@@ -305,23 +305,23 @@ episodes:
   duration: 55
   thetvdb_season_episode: S02E20
   thetvdb_episode_no: 4641932
-- title: 'Im Reich der Meere: Das Fenster zum Meer – Im Großaquarium von Sydney'
+- title: 'Im Reich der Meere: Das Fenster zum Meer - Im Großaquarium von Sydney'
   air_date: '2000-09-04'
   duration: 55
   thetvdb_season_episode: S02E21
   thetvdb_episode_no: 4824557
-- title: 'Im Reich der Meere: Schwarze Brandung – Nach der Ölkatastrophe an der bretonischen
+- title: 'Im Reich der Meere: Schwarze Brandung - Nach der Ölkatastrophe an der bretonischen
     Küste'
   air_date: '2000-09-05'
   duration: 55
   thetvdb_season_episode: S02E22
   thetvdb_episode_no: 4824558
-- title: 'Im Reich der Meere: Durst nach Meer – Neue Methoden der Trinkwassergewinnung'
+- title: 'Im Reich der Meere: Durst nach Meer - Neue Methoden der Trinkwassergewinnung'
   air_date: '2000-09-06'
   duration: 55
   thetvdb_season_episode: S02E23
   thetvdb_episode_no: 4824559
-- title: 'Im Reich der Meere: SOS auf hoher See – Moderne Rettungstechnik im Einsatz'
+- title: 'Im Reich der Meere: SOS auf hoher See - Moderne Rettungstechnik im Einsatz'
   air_date: '2000-09-07'
   duration: 55
   thetvdb_season_episode: S02E24
@@ -346,22 +346,22 @@ episodes:
   duration: 55
   thetvdb_season_episode: S02E28
   thetvdb_episode_no: 4824564
-- title: 'Leben am Limit / Grenzen des Körpers: Himalaja – Tödliche Höhe'
+- title: 'Leben am Limit / Grenzen des Körpers: Himalaja - Tödliche Höhe'
   air_date: '2000-11-06'
   duration: 55
   thetvdb_season_episode: S02E29
   thetvdb_episode_no: 4824565
-- title: 'Leben am Limit / Grenzen des Körpers: Apnoe-Taucher – Im Tiefenrausch'
+- title: 'Leben am Limit / Grenzen des Körpers: Apnoe-Taucher - Im Tiefenrausch'
   air_date: '2000-11-07'
   duration: 55
   thetvdb_season_episode: S02E30
   thetvdb_episode_no: 4824566
-- title: 'Leben am Limit / Grenzen des Körpers: Radrennen – Ewiger Endspurt'
+- title: 'Leben am Limit / Grenzen des Körpers: Radrennen - Ewiger Endspurt'
   air_date: '2000-11-08'
   duration: 55
   thetvdb_season_episode: S02E31
   thetvdb_episode_no: 4824567
-- title: 'Leben am Limit / Grenzen des Körpers: Sadhus – Heilige Aussteiger'
+- title: 'Leben am Limit / Grenzen des Körpers: Sadhus - Heilige Aussteiger'
   air_date: '2000-11-09'
   duration: 55
   thetvdb_season_episode: S02E32
@@ -381,7 +381,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S02E35
   thetvdb_episode_no: 4824571
-- title: 'Tiere im Rampenlicht: Kamele im Rennen  season finale'
+- title: 'Tiere im Rampenlicht: Kamele im Rennen'
   air_date: '2000-12-07'
   duration: 55
   thetvdb_season_episode: S02E36
@@ -421,7 +421,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S03E07
   thetvdb_episode_no: 4641941
-- title: Die Adern von Berlin – Der Wasserkreislauf einer Metropole
+- title: Die Adern von Berlin - Der Wasserkreislauf einer Metropole
   air_date: '2001-03-08'
   duration: 55
   thetvdb_season_episode: S03E08
@@ -436,7 +436,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S03E10
   thetvdb_episode_no: 4641944
-- title: Die letzten Nixen – die Taucherinnen von Cheju
+- title: Die letzten Nixen - die Taucherinnen von Cheju
   air_date: '2001-04-11'
   duration: 55
   thetvdb_season_episode: S03E11
@@ -451,7 +451,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S03E13
   thetvdb_episode_no: 4641947
-- title: Die Erbin Gandhis – Widerstand gegen einen Staudamm
+- title: Die Erbin Gandhis - Widerstand gegen einen Staudamm
   air_date: '2001-05-01'
   duration: 55
   thetvdb_season_episode: S03E14
@@ -466,12 +466,12 @@ episodes:
   duration: 55
   thetvdb_season_episode: S03E16
   thetvdb_episode_no: 4641950
-- title: Kumbh Mela – Das größte Fest der Welt
+- title: Kumbh Mela - Das größte Fest der Welt
   air_date: '2001-06-04'
   duration: 55
   thetvdb_season_episode: S03E17
   thetvdb_episode_no: 4641951
-- title: Buzkashi – Spiel der Steppenreiter
+- title: Buzkashi - Spiel der Steppenreiter
   air_date: '2001-06-05'
   duration: 55
   thetvdb_season_episode: S03E18
@@ -521,12 +521,12 @@ episodes:
   duration: 55
   thetvdb_season_episode: S03E27
   thetvdb_episode_no: 4641961
-- title: Der Großvater der Massai  season finale
+- title: Der Großvater der Massai
   air_date: '2001-10-05'
   duration: 55
   thetvdb_season_episode: S03E28
   thetvdb_episode_no: 4641962
-- title: Cunahá – Tod im Regenwald
+- title: Cunahá - Tod im Regenwald
   air_date: '2002-02-04'
   duration: 55
   thetvdb_season_episode: S04E01
@@ -536,12 +536,12 @@ episodes:
   duration: 55
   thetvdb_season_episode: S04E02
   thetvdb_episode_no: 4641964
-- title: Wildreis – Der grüne Schatz der kanadischen Ojibwa -Indianer
+- title: Wildreis - Der grüne Schatz der kanadischen Ojibwa -Indianer
   air_date: '2002-02-06'
   duration: 55
   thetvdb_season_episode: S04E03
   thetvdb_episode_no: 4641965
-- title: Party für eine Leiche – Das Fest der Ahnen in Madagaskar
+- title: Party für eine Leiche - Das Fest der Ahnen in Madagaskar
   air_date: '2002-02-07'
   duration: 55
   thetvdb_season_episode: S04E04
@@ -556,12 +556,12 @@ episodes:
   duration: 55
   thetvdb_season_episode: S04E06
   thetvdb_episode_no: 4641968
-- title: Die Herren der Adler – Kasachische Jäger und ihre Greifvögel
+- title: Die Herren der Adler - Kasachische Jäger und ihre Greifvögel
   air_date: '2002-03-06'
   duration: 55
   thetvdb_season_episode: S04E07
   thetvdb_episode_no: 4641969
-- title: Safran – Ein blühendes Geschäft
+- title: Safran - Ein blühendes Geschäft
   air_date: '2002-03-07'
   duration: 55
   thetvdb_season_episode: S04E08
@@ -571,17 +571,17 @@ episodes:
   duration: 55
   thetvdb_season_episode: S04E09
   thetvdb_episode_no: 4641971
-- title: Ein göttlicher Zug – das rollende Gotteshaus in Russland
+- title: Ein göttlicher Zug - das rollende Gotteshaus in Russland
   air_date: '2002-04-02'
   duration: 55
   thetvdb_season_episode: S04E10
   thetvdb_episode_no: 4641972
-- title: Sinfonie der Straße – Kinderorchester in Venezuela
+- title: Sinfonie der Straße - Kinderorchester in Venezuela
   air_date: '2002-04-03'
   duration: 55
   thetvdb_season_episode: S04E11
   thetvdb_episode_no: 4641973
-- title: Ticket in ein neues Leben – Der Lifeline Express in Indien
+- title: Ticket in ein neues Leben - Der Lifeline Express in Indien
   air_date: '2002-05-06'
   duration: 55
   thetvdb_season_episode: S04E12
@@ -616,12 +616,12 @@ episodes:
   duration: 55
   thetvdb_season_episode: S04E18
   thetvdb_episode_no: 4641980
-- title: Peones – Verkannte Helden
+- title: Peones - Verkannte Helden
   air_date: '2002-06-06'
   duration: 55
   thetvdb_season_episode: S04E19
   thetvdb_episode_no: 4641981
-- title: Sir Peter Blake – Expedition ins ewige Eis
+- title: Sir Peter Blake - Expedition ins ewige Eis
   air_date: '2002-09-02'
   duration: 55
   thetvdb_season_episode: S04E20
@@ -641,12 +641,12 @@ episodes:
   duration: 55
   thetvdb_season_episode: S04E23
   thetvdb_episode_no: 4641985
-- title: Palmasola – Dorf hinter Gittern
+- title: Palmasola - Dorf hinter Gittern
   air_date: '2002-10-07'
   duration: 55
   thetvdb_season_episode: S04E24
   thetvdb_episode_no: 4641986
-- title: Bilder hören – Die blinden Kinder von Tibet
+- title: Bilder hören - Die blinden Kinder von Tibet
   air_date: '2002-10-08'
   duration: 55
   thetvdb_season_episode: S04E25
@@ -676,7 +676,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S04E30
   thetvdb_episode_no: 4641992
-- title: Die Abalone-Wilderer  season finale
+- title: Die Abalone-Wilderer
   air_date: '2002-11-07'
   duration: 55
   thetvdb_season_episode: S04E31
@@ -726,7 +726,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S05E09
   thetvdb_episode_no: 4642002
-- title: Hongkong – Pferde und Millionen
+- title: Hongkong - Pferde und Millionen
   air_date: '2003-03-04'
   duration: 55
   thetvdb_season_episode: S05E10
@@ -741,7 +741,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S05E12
   thetvdb_episode_no: 4642005
-- title: Samoa Queens – Männer, die als Frauen leben
+- title: Samoa Queens - Männer, die als Frauen leben
   air_date: '2003-04-07'
   duration: 55
   thetvdb_season_episode: S05E13
@@ -756,7 +756,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S05E15
   thetvdb_episode_no: 4642008
-- title: Der Vogelhändler von Guangzhou  season finale
+- title: Der Vogelhändler von Guangzhou
   air_date: '2003-04-10'
   duration: 55
   thetvdb_season_episode: S05E16
@@ -781,12 +781,12 @@ episodes:
   duration: 55
   thetvdb_season_episode: S06E04
   thetvdb_episode_no: 4642023
-- title: Johannesburg – Eine Stadt macht dicht
+- title: Johannesburg - Eine Stadt macht dicht
   air_date: '2004-05-29'
   duration: 55
   thetvdb_season_episode: S06E05
   thetvdb_episode_no: 4642024
-- title: Paco Pacos – Die Knatterkisten vom Amazonas
+- title: Paco Pacos - Die Knatterkisten vom Amazonas
   air_date: '2004-06-26'
   duration: 55
   thetvdb_season_episode: S06E06
@@ -836,12 +836,12 @@ episodes:
   duration: 55
   thetvdb_season_episode: S06E15
   thetvdb_episode_no: 4642037
-- title: Der Polarflieger – Ein Pilot in Sibirien
+- title: Der Polarflieger - Ein Pilot in Sibirien
   air_date: '2004-11-20'
   duration: 55
   thetvdb_season_episode: S06E16
   thetvdb_episode_no: 4642038
-- title: Dagestan – Land über den Wolken
+- title: Dagestan - Land über den Wolken
   air_date: '2004-11-27'
   duration: 55
   thetvdb_season_episode: S06E17
@@ -851,7 +851,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S06E18
   thetvdb_episode_no: 4642040
-- title: Ein Traum von Schokolade  season finale
+- title: Ein Traum von Schokolade
   air_date: '2004-12-30'
   duration: 55
   thetvdb_season_episode: S06E19
@@ -866,7 +866,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S07E02
   thetvdb_episode_no: 4642147
-- title: Überleben in der Wüste – Straffällig gewordene Jugendliche in Arizona
+- title: Überleben in der Wüste - Straffällig gewordene Jugendliche in Arizona
   air_date: '2005-01-29'
   duration: 55
   thetvdb_season_episode: S07E03
@@ -891,7 +891,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S07E07
   thetvdb_episode_no: 4642152
-- title: Kambodscha – Die Seele der Seide
+- title: Kambodscha - Die Seele der Seide
   air_date: '2005-06-25'
   duration: 55
   thetvdb_season_episode: S07E08
@@ -901,7 +901,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S07E09
   thetvdb_episode_no: 4642154
-- title: Vagabunden der Wüste – Kamelzüchter in der Mongolei
+- title: Vagabunden der Wüste - Kamelzüchter in der Mongolei
   air_date: '2005-08-06'
   duration: 55
   thetvdb_season_episode: S07E10
@@ -936,12 +936,12 @@ episodes:
   duration: 55
   thetvdb_season_episode: S07E16
   thetvdb_episode_no: 4642161
-- title: Mecaniqueros – Nichts ist unmöglich in Havanna
+- title: Mecaniqueros - Nichts ist unmöglich in Havanna
   air_date: '2005-11-12'
   duration: 55
   thetvdb_season_episode: S07E17
   thetvdb_episode_no: 4642162
-- title: Eremitage – Palast der Katzen
+- title: Eremitage - Palast der Katzen
   air_date: '2005-12-10'
   duration: 55
   thetvdb_season_episode: S07E18
@@ -951,7 +951,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S07E19
   thetvdb_episode_no: 4642164
-- title: Die Kinder des Vater Nikolai  season finale
+- title: Die Kinder des Vater Nikolai
   air_date: '2005-12-24'
   duration: 55
   thetvdb_season_episode: S07E20
@@ -961,7 +961,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S08E01
   thetvdb_episode_no: 4642167
-- title: Polen – Ärger im Revier
+- title: Polen - Ärger im Revier
   air_date: '2006-02-04'
   duration: 55
   thetvdb_season_episode: S08E02
@@ -971,7 +971,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S08E03
   thetvdb_episode_no: 4642169
-- title: Kung-Fu – Chinas neue Kämpferinnen
+- title: Kung-Fu - Chinas neue Kämpferinnen
   air_date: '2006-04-08'
   duration: 55
   thetvdb_season_episode: S08E04
@@ -981,12 +981,12 @@ episodes:
   duration: 55
   thetvdb_season_episode: S08E05
   thetvdb_episode_no: 4642171
-- title: Churubamba – Frauen am Ball
+- title: Churubamba - Frauen am Ball
   air_date: '2006-05-27'
   duration: 55
   thetvdb_season_episode: S08E06
   thetvdb_episode_no: 4642172
-- title: Chicagos Stahlmänner – Abriss und Wiederaufbau eines Hochofens
+- title: Chicagos Stahlmänner - Abriss und Wiederaufbau eines Hochofens
   air_date: '2006-07-29'
   duration: 55
   thetvdb_season_episode: S08E07
@@ -1036,7 +1036,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S08E16
   thetvdb_episode_no: 4642182
-- title: Chile – Segen und Fluch einer Kupfermine
+- title: Chile - Segen und Fluch einer Kupfermine
   air_date: '2006-12-02'
   duration: 55
   thetvdb_season_episode: S08E17
@@ -1046,7 +1046,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S08E18
   thetvdb_episode_no: 4642184
-- title: Eritrea – Ein Esel für die Zukunft  season finale
+- title: Eritrea - Ein Esel für die Zukunft
   air_date: '2006-12-23'
   duration: 55
   thetvdb_season_episode: S08E19
@@ -1056,7 +1056,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S09E01
   thetvdb_episode_no: 4642205
-- title: Sumatra – Ettis Schönheitssalon
+- title: Sumatra - Ettis Schönheitssalon
   air_date: '2007-01-27'
   duration: 55
   thetvdb_season_episode: S09E02
@@ -1176,7 +1176,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S09E25
   thetvdb_episode_no: 4642256
-- title: Auf Schlangenfang in Kambodscha  season finale
+- title: Auf Schlangenfang in Kambodscha
   air_date: '2007-12-29'
   duration: 55
   thetvdb_season_episode: S09E26
@@ -1216,7 +1216,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S10E07
   thetvdb_episode_no: 4642265
-- title: Rom – Das Leben der Komparsen
+- title: Rom - Das Leben der Komparsen
   air_date: '2008-04-22'
   duration: 55
   thetvdb_season_episode: S10E08
@@ -1246,7 +1246,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S10E13
   thetvdb_episode_no: 4642271
-- title: New York – Die kleinste Oper der Welt
+- title: New York - Die kleinste Oper der Welt
   air_date: '2008-09-18'
   duration: 55
   thetvdb_season_episode: S10E14
@@ -1256,12 +1256,12 @@ episodes:
   duration: 55
   thetvdb_season_episode: S10E15
   thetvdb_episode_no: 4642273
-- title: Kyushu – Wo Japans grüner Tee wächst
+- title: Kyushu - Wo Japans grüner Tee wächst
   air_date: '2008-10-16'
   duration: 55
   thetvdb_season_episode: S10E16
   thetvdb_episode_no: 4642274
-- title: Arganöl – Marokkos weißes Gold
+- title: Arganöl - Marokkos weißes Gold
   air_date: '2008-10-30'
   duration: 55
   thetvdb_season_episode: S10E17
@@ -1271,12 +1271,12 @@ episodes:
   duration: 55
   thetvdb_season_episode: S10E18
   thetvdb_episode_no: 4642276
-- title: Johana – Make-up und Motorenöl
+- title: Johana - Make-up und Motorenöl
   air_date: '2008-11-13'
   duration: 55
   thetvdb_season_episode: S10E19
   thetvdb_episode_no: 4642277
-- title: Rio de la Plata – SOS am Silberfluss
+- title: Rio de la Plata - SOS am Silberfluss
   air_date: '2008-11-27'
   duration: 55
   thetvdb_season_episode: S10E20
@@ -1286,17 +1286,17 @@ episodes:
   duration: 55
   thetvdb_season_episode: S10E21
   thetvdb_episode_no: 4642279
-- title: Taipeh 101 – Der Himmel über Taiwan
+- title: Taipeh 101 - Der Himmel über Taiwan
   air_date: '2008-12-11'
   duration: 55
   thetvdb_season_episode: S10E22
   thetvdb_episode_no: 4642280
-- title: Die einsamen Mönche von Oelenberg  season finale
+- title: Die einsamen Mönche von Oelenberg
   air_date: '2008-12-18'
   duration: 55
   thetvdb_season_episode: S10E23
   thetvdb_episode_no: 4642281
-- title: Arktis – Die Route der Atomeisbrecher
+- title: Arktis - Die Route der Atomeisbrecher
   air_date: '2009-01-18'
   duration: 55
   thetvdb_season_episode: S11E01
@@ -1306,7 +1306,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S11E02
   thetvdb_episode_no: 4642493
-- title: Idjwi – Afrikas vergessene Insel
+- title: Idjwi - Afrikas vergessene Insel
   air_date: '2009-01-31'
   duration: 55
   thetvdb_season_episode: S11E03
@@ -1336,7 +1336,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S11E08
   thetvdb_episode_no: 4642290
-- title: Kaviar – Der Schatz aus dem Iran!
+- title: Kaviar - Der Schatz aus dem Iran!
   air_date: '2009-05-02'
   duration: 55
   thetvdb_season_episode: S11E09
@@ -1421,7 +1421,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S11E25
   thetvdb_episode_no: 4642503
-- title: 'Saint Helena: Vergessen im Atlantik  season finale'
+- title: 'Saint Helena: Vergessen im Atlantik'
   air_date: '2009-12-26'
   duration: 55
   thetvdb_season_episode: S11E26
@@ -1476,17 +1476,17 @@ episodes:
   duration: 55
   thetvdb_season_episode: S12E10
   thetvdb_episode_no: 4642518
-- title: Jillaroos – Cowgirls im australischen Outback
+- title: Jillaroos - Cowgirls im australischen Outback
   air_date: '2010-09-04'
   duration: 55
   thetvdb_season_episode: S12E11
   thetvdb_episode_no: 4642517
-- title: Das Volk der Bishnoi – Tierliebe bis in den Tod
+- title: Das Volk der Bishnoi - Tierliebe bis in den Tod
   air_date: '2010-09-11'
   duration: 55
   thetvdb_season_episode: S12E12
   thetvdb_episode_no: 4642527
-- title: Falklandinseln – Pinguine auf dem Vormarsch
+- title: Falklandinseln - Pinguine auf dem Vormarsch
   air_date: '2010-09-18'
   duration: 55
   thetvdb_season_episode: S12E13
@@ -1501,7 +1501,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S12E15
   thetvdb_episode_no: 4642520
-- title: Legende auf Schienen – Skandinaviens Kirunabahn
+- title: Legende auf Schienen - Skandinaviens Kirunabahn
   air_date: '2010-11-06'
   duration: 55
   thetvdb_season_episode: S12E16
@@ -1521,12 +1521,12 @@ episodes:
   duration: 55
   thetvdb_season_episode: S12E19
   thetvdb_episode_no: 4642524
-- title: Laetitia – allein unter Wölfen  season finale
+- title: Laetitia - allein unter Wölfen
   air_date: '2010-12-25'
   duration: 55
   thetvdb_season_episode: S12E20
   thetvdb_episode_no: 4642526
-- title: Fremdenlegion – die Hölle im Regenwald
+- title: Fremdenlegion - die Hölle im Regenwald
   air_date: '2011-01-01'
   duration: 55
   thetvdb_season_episode: S13E01
@@ -1561,7 +1561,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S13E07
   thetvdb_episode_no: 4642535
-- title: Marokko – die andere Seite des Paradieses
+- title: Marokko - die andere Seite des Paradieses
   air_date: '2011-02-19'
   duration: 55
   thetvdb_season_episode: S13E08
@@ -1621,7 +1621,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S13E19
   thetvdb_episode_no: 4642550
-- title: Kalmückien – Die Rückkehr der Mönche
+- title: Kalmückien - Die Rückkehr der Mönche
   air_date: '2011-09-24'
   duration: 55
   thetvdb_season_episode: S13E20
@@ -1631,12 +1631,12 @@ episodes:
   duration: 55
   thetvdb_season_episode: S13E21
   thetvdb_episode_no: 4642552
-- title: Palawan – das Dorf der Gefangenen
+- title: Palawan - das Dorf der Gefangenen
   air_date: '2011-10-22'
   duration: 55
   thetvdb_season_episode: S13E22
   thetvdb_episode_no: 4642553
-- title: Der Andenkondor – König der Lüfte
+- title: Der Andenkondor - König der Lüfte
   air_date: '2011-10-29'
   duration: 55
   thetvdb_season_episode: S13E23
@@ -1651,12 +1651,12 @@ episodes:
   duration: 55
   thetvdb_season_episode: S13E25
   thetvdb_episode_no: 4642555
-- title: Florenz – Fußball bis aufs Blut
+- title: Florenz - Fußball bis aufs Blut
   air_date: '2011-11-19'
   duration: 55
   thetvdb_season_episode: S13E26
   thetvdb_episode_no: 4642556
-- title: Guano – Schatzinseln und Vogeldreck
+- title: Guano - Schatzinseln und Vogeldreck
   air_date: '2011-12-03'
   duration: 55
   thetvdb_season_episode: S13E27
@@ -1666,12 +1666,12 @@ episodes:
   duration: 55
   thetvdb_season_episode: S13E28
   thetvdb_episode_no: 4642558
-- title: Sark – die Kanalinsel der Queen  season finale
+- title: Sark - die Kanalinsel der Queen
   air_date: '2011-12-24'
   duration: 55
   thetvdb_season_episode: S13E29
   thetvdb_episode_no: 4642559
-- title: Schottland – Kampf, Clan und Königin
+- title: Schottland - Kampf, Clan und Königin
   air_date: '2012-01-07'
   duration: 55
   thetvdb_season_episode: S14E01
@@ -1686,7 +1686,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S14E03
   thetvdb_episode_no: 4642564
-- title: Majuli – ein Inselvolk trotzt den Fluten
+- title: Majuli - ein Inselvolk trotzt den Fluten
   air_date: '2012-02-25'
   duration: 55
   thetvdb_season_episode: S14E04
@@ -1706,12 +1706,12 @@ episodes:
   duration: 55
   thetvdb_season_episode: S14E07
   thetvdb_episode_no: 4642568
-- title: Bahamas – unverfälscht!
+- title: Bahamas - unverfälscht!
   air_date: '2012-05-12'
   duration: 55
   thetvdb_season_episode: S14E08
   thetvdb_episode_no: 4642569
-- title: Slab City – wildes Leben in der Wüste
+- title: Slab City - wildes Leben in der Wüste
   air_date: '2012-05-26'
   duration: 55
   thetvdb_season_episode: S14E09
@@ -1771,12 +1771,12 @@ episodes:
   duration: 55
   thetvdb_season_episode: S14E20
   thetvdb_episode_no: 4642587
-- title: Die Exzentriker der Düfte  season finale
+- title: Die Exzentriker der Düfte
   air_date: '2012-12-22'
   duration: 55
   thetvdb_season_episode: S14E21
   thetvdb_episode_no: 4642589
-- title: Arktis – Ein Junge wird Jäger
+- title: Arktis - Ein Junge wird Jäger
   air_date: '2013-01-19'
   duration: 55
   thetvdb_season_episode: S15E01
@@ -1791,7 +1791,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S15E03
   thetvdb_episode_no: 4642603
-- title: Atacamawüste – Leben ohne Wasser
+- title: Atacamawüste - Leben ohne Wasser
   air_date: '2013-02-16'
   duration: 55
   thetvdb_season_episode: S15E04
@@ -1801,17 +1801,17 @@ episodes:
   duration: 55
   thetvdb_season_episode: S15E05
   thetvdb_episode_no: 4642605
-- title: Island – Der große Schafabtrieb
+- title: Island - Der große Schafabtrieb
   air_date: '2013-03-09'
   duration: 55
   thetvdb_season_episode: S15E06
   thetvdb_episode_no: 4642606
-- title: Bangladesch – Schiff der Hoffnung
+- title: Bangladesch - Schiff der Hoffnung
   air_date: '2013-03-23'
   duration: 55
   thetvdb_season_episode: S15E07
   thetvdb_episode_no: 4642607
-- title: Iquitos – Regenwaldmetropole am Amazonas
+- title: Iquitos - Regenwaldmetropole am Amazonas
   air_date: '2013-03-30'
   duration: 55
   thetvdb_season_episode: S15E08
@@ -1821,7 +1821,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S15E09
   thetvdb_episode_no: 4642610
-- title: Bretagne – von Bienen und Leuchttürmen
+- title: Bretagne - von Bienen und Leuchttürmen
   air_date: '2013-05-17'
   duration: 55
   thetvdb_season_episode: S15E10
@@ -1831,7 +1831,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S15E11
   thetvdb_episode_no: 4642615
-- title: Tonga – Paradies der Südsee?
+- title: Tonga - Paradies der Südsee?
   air_date: '2013-06-22'
   duration: 55
   thetvdb_season_episode: S15E12
@@ -1851,12 +1851,12 @@ episodes:
   duration: 55
   thetvdb_season_episode: S15E15
   thetvdb_episode_no: 4642622
-- title: Sulawesi – Die letzten Seenomaden
+- title: Sulawesi - Die letzten Seenomaden
   air_date: '2013-09-28'
   duration: 55
   thetvdb_season_episode: S15E16
   thetvdb_episode_no: 4642625
-- title: Taiwan – Fliegende Fische oder Atommüll?
+- title: Taiwan - Fliegende Fische oder Atommüll?
   air_date: '2013-12-07'
   duration: 55
   thetvdb_season_episode: S15E17
@@ -1866,7 +1866,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S15E18
   thetvdb_episode_no: 4642602
-- title: Costa Rica – Leben wie die Faultiere
+- title: Costa Rica - Leben wie die Faultiere
   air_date: '2013-10-19'
   duration: 55
   thetvdb_season_episode: S15E19
@@ -1876,7 +1876,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S15E20
   thetvdb_episode_no: 4812703
-- title: Mustang – Flucht aus den Bergen
+- title: Mustang - Flucht aus den Bergen
   air_date: '2013-11-09'
   duration: 55
   thetvdb_season_episode: S15E21
@@ -1886,7 +1886,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S15E22
   thetvdb_episode_no: 4812708
-- title: Aubrac – Kühe, Käse, Kerle!
+- title: Aubrac - Kühe, Käse, Kerle!
   air_date: '2013-11-30'
   duration: 55
   thetvdb_season_episode: S15E23
@@ -1906,7 +1906,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S15E26
   thetvdb_episode_no: 4812714
-- title: Thailand, Raketen für die Götter  season finale
+- title: Thailand, Raketen für die Götter
   air_date: '2013-12-28'
   duration: 55
   thetvdb_season_episode: S15E27
@@ -1936,7 +1936,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S16E05
   thetvdb_episode_no: 4812754
-- title: Rosa Amélia – Fische, Freunde, Fado
+- title: Rosa Amélia - Fische, Freunde, Fado
   air_date: '2014-03-08'
   duration: 55
   thetvdb_season_episode: S16E06
@@ -1951,7 +1951,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S16E08
   thetvdb_episode_no: 5061390
-- title: Elbsandsteingebirge – Märchenwelt und Meisterwerke
+- title: Elbsandsteingebirge - Märchenwelt und Meisterwerke
   air_date: '2014-05-10'
   duration: 55
   thetvdb_season_episode: S16E09
@@ -1966,7 +1966,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S16E11
   thetvdb_episode_no: 5078307
-- title: Eishockey – Mädchentraum im Himalaya
+- title: Eishockey - Mädchentraum im Himalaya
   air_date: '2014-07-05'
   duration: 55
   thetvdb_season_episode: S16E12
@@ -1996,7 +1996,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S16E17
   thetvdb_episode_no: 5027540
-- title: Königliche Mounties – Kanadas berittene Polizei
+- title: Königliche Mounties - Kanadas berittene Polizei
   air_date: '2014-11-01'
   duration: 55
   thetvdb_season_episode: S16E18
@@ -2016,7 +2016,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S16E21
   thetvdb_episode_no: 5061388
-- title: Andalusien – Edle Pferde, wilde Stiere
+- title: Andalusien - Edle Pferde, wilde Stiere
   air_date: '2014-12-13'
   duration: 55
   thetvdb_season_episode: S16E22
@@ -2026,7 +2026,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S16E23
   thetvdb_episode_no: 5078296
-- title: Lettland – das Land der Sänger  season finale
+- title: Lettland - das Land der Sänger
   air_date: '2014-12-27'
   duration: 55
   thetvdb_season_episode: S16E24
@@ -2096,12 +2096,12 @@ episodes:
   duration: 55
   thetvdb_season_episode: S17E13
   thetvdb_episode_no: 5328398
-- title: Bird Island – Allein unter Pinguinen
+- title: Bird Island - Allein unter Pinguinen
   air_date: '2015-09-12'
   duration: 55
   thetvdb_season_episode: S17E14
   thetvdb_episode_no: 5328399
-- title: Basketball – Die kleinen Barfuß-Spieler von Mexiko
+- title: Basketball - Die kleinen Barfuß-Spieler von Mexiko
   air_date: '2015-09-19'
   duration: 55
   thetvdb_season_episode: S17E15
@@ -2156,42 +2156,42 @@ episodes:
   duration: 55
   thetvdb_season_episode: S17E25
   thetvdb_episode_no: 5446452
-- title: Polen, Winter in den Waldkarpaten  season finale
+- title: Polen, Winter in den Waldkarpaten
   air_date: '2015-12-26'
   duration: 55
   thetvdb_season_episode: S17E26
   thetvdb_episode_no: 5455789
-- title: Kenias Spürhunde – Rettung für die Elefanten
+- title: Kenias Spürhunde - Rettung für die Elefanten
   air_date: '2016-01-02'
   duration: 55
   thetvdb_season_episode: S18E01
   thetvdb_episode_no: 5464152
-- title: Valparaíso – Die Stadt der Aufzüge
+- title: Valparaíso - Die Stadt der Aufzüge
   air_date: '2016-01-09'
   duration: 55
   thetvdb_season_episode: S18E02
   thetvdb_episode_no: 5473961
-- title: Sibirien – Der Kapitän und die Lena
+- title: Sibirien - Der Kapitän und die Lena
   air_date: '2016-01-23'
   duration: 55
   thetvdb_season_episode: S18E03
   thetvdb_episode_no: 5473962
-- title: Spreewald – Kähne, Köche, Klapperstörche
+- title: Spreewald - Kähne, Köche, Klapperstörche
   air_date: '2016-02-20'
   duration: 55
   thetvdb_season_episode: S18E04
   thetvdb_episode_no: 5526195
-- title: Cocos Island – Paradies für Haie?!
+- title: Cocos Island - Paradies für Haie?!
   air_date: '2016-02-27'
   duration: 55
   thetvdb_season_episode: S18E05
   thetvdb_episode_no: 5535287
-- title: Insekten – Unser Speiseplan für morgen?
+- title: Insekten - Unser Speiseplan für morgen?
   air_date: '2016-03-19'
   duration: 55
   thetvdb_season_episode: S18E06
   thetvdb_episode_no: 5561577
-- title: Myanmar – Per Zug durch die Zeit
+- title: Myanmar - Per Zug durch die Zeit
   air_date: '2016-04-09'
   duration: 55
   thetvdb_season_episode: S18E07
@@ -2201,12 +2201,12 @@ episodes:
   duration: 55
   thetvdb_season_episode: S18E08
   thetvdb_episode_no: 5578064
-- title: Die Dhaus – Arabiens legendäre Schiffe
+- title: Die Dhaus - Arabiens legendäre Schiffe
   air_date: '2016-05-14'
   duration: 55
   thetvdb_season_episode: S18E09
   thetvdb_episode_no: 5609661
-- title: Der Waldrapp – Punkvogel aus den Alpen
+- title: Der Waldrapp - Punkvogel aus den Alpen
   air_date: '2016-05-28'
   duration: 55
   thetvdb_season_episode: S18E10
@@ -2216,17 +2216,17 @@ episodes:
   duration: 55
   thetvdb_season_episode: S18E11
   thetvdb_episode_no: 5658015
-- title: Pythons – Invasion in Florida
+- title: Pythons - Invasion in Florida
   air_date: '2016-07-16'
   duration: 55
   thetvdb_season_episode: S18E12
   thetvdb_episode_no: 5660701
-- title: Amas Welt – Das neue Ghana
+- title: Amas Welt - Das neue Ghana
   air_date: '2016-09-03'
   duration: 55
   thetvdb_season_episode: S18E13
   thetvdb_episode_no: 5714108
-- title: Tunesien – Die Kunst der Berbertattoos
+- title: Tunesien - Die Kunst der Berbertattoos
   air_date: '2016-09-10'
   duration: 55
   thetvdb_season_episode: S18E14
@@ -2236,12 +2236,12 @@ episodes:
   duration: 55
   thetvdb_season_episode: S18E15
   thetvdb_episode_no: 5751341
-- title: Norwegen – Försterinnen auf dem Vormarsch
+- title: Norwegen - Försterinnen auf dem Vormarsch
   air_date: '2016-09-24'
   duration: 55
   thetvdb_season_episode: S18E16
   thetvdb_episode_no: 5739071
-- title: Vietnam – Das Schicksal der Mondbären
+- title: Vietnam - Das Schicksal der Mondbären
   air_date: '2016-10-01'
   duration: 55
   thetvdb_season_episode: S18E17
@@ -2261,7 +2261,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S18E20
   thetvdb_episode_no: 5830614
-- title: Dänemark – Königin Margrethe und ihr Sommerschloss
+- title: Dänemark - Königin Margrethe und ihr Sommerschloss
   air_date: '2016-11-19'
   duration: 55
   thetvdb_season_episode: S18E21
@@ -2276,17 +2276,17 @@ episodes:
   duration: 55
   thetvdb_season_episode: S18E23
   thetvdb_episode_no: 5869469
-- title: Wilde Schweiz – Von Ringern und Schwingern
+- title: Wilde Schweiz - Von Ringern und Schwingern
   air_date: '2016-12-10'
   duration: 55
   thetvdb_season_episode: S18E24
   thetvdb_episode_no: 5878158
-- title: St. Bernhard – Von Menschen und Hunden
+- title: St. Bernhard - Von Menschen und Hunden
   air_date: '2016-12-17'
   duration: 55
   thetvdb_season_episode: S18E25
   thetvdb_episode_no: 5888245
-- title: Rumänien – Eine Weihnachtsreise ins Donaudelta  season finale
+- title: Rumänien - Eine Weihnachtsreise ins Donaudelta
   air_date: '2016-12-24'
   duration: 55
   thetvdb_season_episode: S18E26
@@ -2296,7 +2296,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S19E01
   thetvdb_episode_no: 5904645
-- title: Marseille – Kopfüber ins Blau
+- title: Marseille - Kopfüber ins Blau
   air_date: '2017-01-14'
   duration: 55
   thetvdb_season_episode: S19E02
@@ -2309,7 +2309,7 @@ episodes:
 - title: Die schwebenden Särge von Georgien
   air_date: '2017-01-28'
   thetvdb_episode_no: 7890795
-- title: Pyrenäen – Ein Hirte zwischen Himmel und Erde
+- title: Pyrenäen - Ein Hirte zwischen Himmel und Erde
   air_date: '2017-01-28'
   duration: 55
   thetvdb_season_episode: S19E04
@@ -2324,32 +2324,32 @@ episodes:
   duration: 55
   thetvdb_season_episode: S19E06
   thetvdb_episode_no: 5975719
-- title: Chile – Die Leuchttürme am Ende der Welt
+- title: Chile - Die Leuchttürme am Ende der Welt
   air_date: '2017-02-25'
   duration: 55
   thetvdb_season_episode: S19E07
   thetvdb_episode_no: 5986947
-- title: Indien – Heilendes Ayurveda
+- title: Indien - Heilendes Ayurveda
   air_date: '2017-03-04'
   duration: 55
   thetvdb_season_episode: S19E08
   thetvdb_episode_no: 5987692
-- title: Spanien – Die Tradition der Menschentürme
+- title: Spanien - Die Tradition der Menschentürme
   air_date: '2017-03-12'
   duration: 55
   thetvdb_season_episode: S19E09
   thetvdb_episode_no: 6005142
-- title: Malaysia – Von Frauen und Motorrädern
+- title: Malaysia - Von Frauen und Motorrädern
   air_date: '2017-03-19'
   duration: 55
   thetvdb_season_episode: S19E10
   thetvdb_episode_no: 6010575
-- title: Eine zweite Art von Frau – Thailand, das Dritte Geschlecht
+- title: Eine zweite Art von Frau - Thailand, das Dritte Geschlecht
   air_date: '2017-03-26'
   duration: 55
   thetvdb_season_episode: S19E11
   thetvdb_episode_no: 6021363
-- title: Myanmars Bambusbrücke – Ein Dorf packt an!
+- title: Myanmars Bambusbrücke - Ein Dorf packt an!
   air_date: '2017-05-21'
   duration: 55
   thetvdb_season_episode: S19E12
@@ -2359,12 +2359,12 @@ episodes:
   duration: 55
   thetvdb_season_episode: S19E13
   thetvdb_episode_no: 7219669
-- title: Kuba – Meister der Drehorgeln
+- title: Kuba - Meister der Drehorgeln
   air_date: '2017-08-06'
   duration: 55
   thetvdb_season_episode: S19E14
   thetvdb_episode_no: 6241979
-- title: Sri Lanka – Eine legendäre Eisenbahnstrecke
+- title: Sri Lanka - Eine legendäre Eisenbahnstrecke
   air_date: '2017-08-20'
   duration: 55
   thetvdb_season_episode: S19E15
@@ -2374,22 +2374,22 @@ episodes:
   duration: 55
   thetvdb_season_episode: S19E16
   thetvdb_episode_no: 6328065
-- title: Mate – Die Seele Argentiniens
+- title: Mate - Die Seele Argentiniens
   air_date: '2017-10-01'
   duration: 55
   thetvdb_season_episode: S19E17
   thetvdb_episode_no: 6348729
-- title: Louisiana – Land unter bei den Shrimpfischern
+- title: Louisiana - Land unter bei den Shrimpfischern
   air_date: '2017-10-22'
   duration: 55
   thetvdb_season_episode: S19E18
   thetvdb_episode_no: 6376645
-- title: Svanetien – Von Lebenden und Toten
+- title: Svanetien - Von Lebenden und Toten
   air_date: '2017-10-29'
   duration: 55
   thetvdb_season_episode: S19E19
   thetvdb_episode_no: 6387570
-- title: Java – Zauberhaftes Schattentheater
+- title: Java - Zauberhaftes Schattentheater
   air_date: '2017-11-05'
   duration: 55
   thetvdb_season_episode: S19E20
@@ -2404,7 +2404,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S19E22
   thetvdb_episode_no: 6398625
-- title: Bolivien – Der Kampf um die kleinen Herzen
+- title: Bolivien - Der Kampf um die kleinen Herzen
   air_date: '2017-11-26'
   duration: 55
   thetvdb_season_episode: S19E23
@@ -2424,7 +2424,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S19E26
   thetvdb_episode_no: 6468960
-- title: Die Insel Chiloé  season finale
+- title: Die Insel Chiloé
   air_date: '2017-06-03'
   duration: 55
   thetvdb_season_episode: S19E27
@@ -2449,7 +2449,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S20E04
   thetvdb_episode_no: 6549630
-- title: Kanada – Mit der Hebamme durch die Badlands
+- title: Kanada - Mit der Hebamme durch die Badlands
   air_date: '2018-02-25'
   duration: 55
   thetvdb_season_episode: S20E05
@@ -2464,7 +2464,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S20E07
   thetvdb_episode_no: 6590788
-- title: Kreta – Die süßen Früchte des Johannisbrotbaums
+- title: Kreta - Die süßen Früchte des Johannisbrotbaums
   air_date: '2018-03-18'
   duration: 55
   thetvdb_season_episode: S20E08
@@ -2574,7 +2574,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S20E29
   thetvdb_episode_no: 6952756
-- title: Crémant d'Alsace - Des bulles fines et festives  season finale
+- title: Crémant d'Alsace - Des bulles fines et festives
   air_date: '2018-12-31'
   duration: 55
   thetvdb_season_episode: S20E30
@@ -2698,7 +2698,7 @@ episodes:
   duration: 45
   thetvdb_season_episode: S21E24
   thetvdb_episode_no: 7496351
-- title: Esmeraldas Edelkakao  season finale
+- title: Esmeraldas Edelkakao
   air_date: '2019-12-29'
   duration: 45
   thetvdb_season_episode: S21E25
@@ -2793,7 +2793,7 @@ episodes:
   duration: 43
   thetvdb_season_episode: S22E18
   thetvdb_episode_no: 8103945
-- title: Chartres, die Farben des Himmels  season finale
+- title: Chartres, die Farben des Himmels
   air_date: '2020-12-20'
   duration: 43
   thetvdb_season_episode: S22E19
@@ -2818,7 +2818,7 @@ episodes:
   duration: 45
   thetvdb_season_episode: S23E04
   thetvdb_episode_no: 8209430
-- title: Dem Wolf auf der Spur – Schnüffeln für dennschutz
+- title: Dem Wolf auf der Spur - Schnüffeln für dennschutz
   air_date: '2021-02-14'
   duration: 45
   thetvdb_season_episode: S23E05
@@ -2833,17 +2833,17 @@ episodes:
   duration: 45
   thetvdb_season_episode: S23E07
   thetvdb_episode_no: 8270994
-- title: Kalkstein – Das weiße Gold von Brac
+- title: Kalkstein - Das weiße Gold von Brac
   air_date: '2021-03-07'
   duration: 45
   thetvdb_season_episode: S23E08
   thetvdb_episode_no: 8271000
-- title: Hamburg – Welthafen mit schwimmender Kirche
+- title: Hamburg - Welthafen mit schwimmender Kirche
   air_date: '2021-03-14'
   duration: 45
   thetvdb_season_episode: S23E09
   thetvdb_episode_no: 8285562
-- title: Tradition am Steilhang – Die Schweiz und ihre Wildheuer
+- title: Tradition am Steilhang - Die Schweiz und ihre Wildheuer
   air_date: '2021-03-21'
   duration: 43
   thetvdb_season_episode: S23E10
@@ -2858,17 +2858,17 @@ episodes:
   duration: 45
   thetvdb_season_episode: S23E12
   thetvdb_episode_no: 8355928
-- title: Frankreichs Winzer – Tradition trifft Passion
+- title: Frankreichs Winzer - Tradition trifft Passion
   air_date: '2021-04-18'
   duration: 43
   thetvdb_season_episode: S23E13
   thetvdb_episode_no: 8375958
-- title: Notruf Nordseeküste – Die Robben-Retter
+- title: Notruf Nordseeküste - Die Robben-Retter
   air_date: '2021-04-25'
   duration: 43
   thetvdb_season_episode: S23E14
   thetvdb_episode_no: 8375959
-- title: Australien – Wenn Kunst auf Silos trifft
+- title: Australien - Wenn Kunst auf Silos trifft
   air_date: '2021-05-09'
   duration: 43
   thetvdb_season_episode: S23E15
@@ -2888,32 +2888,32 @@ episodes:
   duration: 32
   thetvdb_season_episode: S23E18
   thetvdb_episode_no: 8634491
-- title: Der Traum vom Gold – Tirols Überfliegerinnen
+- title: Der Traum vom Gold - Tirols Überfliegerinnen
   air_date: '2021-09-11'
   duration: 32
   thetvdb_season_episode: S23E19
   thetvdb_episode_no: 8692435
-- title: 'Schweiz: Gletscherflieger – Faszination in Weiß'
+- title: 'Schweiz: Gletscherflieger - Faszination in Weiß'
   air_date: '2021-09-25'
   duration: 32
   thetvdb_season_episode: S23E20
   thetvdb_episode_no: 8692436
-- title: Koh Panyee – Thailands fußballverrückte Insel
+- title: Koh Panyee - Thailands fußballverrückte Insel
   air_date: '2019-10-02'
   duration: 32
   thetvdb_season_episode: S23E21
   thetvdb_episode_no: 8692437
-- title: Stromboli – Zwischen Feuer und Meer
+- title: Stromboli - Zwischen Feuer und Meer
   air_date: '2021-10-09'
   duration: 32
   thetvdb_season_episode: S23E22
   thetvdb_episode_no: 8692438
-- title: Italien – Die Igel-Retter aus dem Piemont
+- title: Italien - Die Igel-Retter aus dem Piemont
   air_date: '2021-10-16'
   duration: 32
   thetvdb_season_episode: S23E23
   thetvdb_episode_no: 8788087
-- title: 'Dolomiten: Die Bergführer von San Martino  season finale'
+- title: 'Dolomiten: Die Bergführer von San Martino'
   air_date: '2021-10-30'
   duration: 32
   thetvdb_season_episode: S23E24
@@ -2923,22 +2923,22 @@ episodes:
   duration: 32
   thetvdb_season_episode: S24E01
   thetvdb_episode_no: 8949820
-- title: Tapire – Die Dschungel-Gärtner
+- title: Tapire - Die Dschungel-Gärtner
   air_date: '2022-01-15'
   duration: 32
   thetvdb_season_episode: S24E02
   thetvdb_episode_no: 8949821
-- title: Faszination Elbrus – Der Ritt zum Gipfel
+- title: Faszination Elbrus - Der Ritt zum Gipfel
   air_date: '2022-01-22'
   duration: 32
   thetvdb_season_episode: S24E03
   thetvdb_episode_no: 8949822
-- title: Namibias Geparden – Hoffnung für die Raubkatzen
+- title: Namibias Geparden - Hoffnung für die Raubkatzen
   air_date: '2022-01-29'
   duration: 32
   thetvdb_season_episode: S24E04
   thetvdb_episode_no: 8949823
-- title: Haute Couture – Federn, Falten, Seidenblumen
+- title: Haute Couture - Federn, Falten, Seidenblumen
   air_date: '2022-02-05'
   duration: 32
   thetvdb_season_episode: S24E05
@@ -2948,12 +2948,12 @@ episodes:
   duration: 32
   thetvdb_season_episode: S24E06
   thetvdb_episode_no: 8949825
-- title: Elsass – Land der Orgeln
+- title: Elsass - Land der Orgeln
   air_date: '2022-02-26'
   duration: 32
   thetvdb_season_episode: S24E07
   thetvdb_episode_no: 8949826
-- title: Wilde Waterkant – Nordfriesland und seine Gänse
+- title: Wilde Waterkant - Nordfriesland und seine Gänse
   air_date: '2022-03-12'
   duration: 32
   thetvdb_season_episode: S24E08
@@ -2963,7 +2963,7 @@ episodes:
   duration: 32
   thetvdb_season_episode: S24E09
   thetvdb_episode_no: 9075607
-- title: Südkorea – die Nonne der Tempelküche
+- title: Südkorea - die Nonne der Tempelküche
   air_date: '2022-05-07'
   duration: 35
   thetvdb_season_episode: S24E10
@@ -2973,22 +2973,22 @@ episodes:
   duration: 32
   thetvdb_season_episode: S24E11
   thetvdb_episode_no: 9158124
-- title: Frankreichs Gärten – Die kleinen Schätze
+- title: Frankreichs Gärten - Die kleinen Schätze
   air_date: '2022-05-21'
   duration: 32
   thetvdb_season_episode: S24E12
   thetvdb_episode_no: 9158125
-- title: Europas Urwälder – Ein Schatz der Natur
+- title: Europas Urwälder - Ein Schatz der Natur
   air_date: '2022-06-04'
   duration: 32
   thetvdb_season_episode: S24E13
   thetvdb_episode_no: 9158126
-- title: Zwischen Naturschutz und Panzern – Bayerns wilder Schießplatz
+- title: Zwischen Naturschutz und Panzern - Bayerns wilder Schießplatz
   air_date: '2022-06-11'
   duration: 32
   thetvdb_season_episode: S24E14
   thetvdb_episode_no: 9158127
-- title: Kastiliens Kämpfer – Ritterspiele an der Burg Belmonte
+- title: Kastiliens Kämpfer - Ritterspiele an der Burg Belmonte
   air_date: '2022-06-18'
   duration: 32
   thetvdb_season_episode: S24E15
@@ -2998,7 +2998,7 @@ episodes:
   duration: 31
   thetvdb_season_episode: S24E16
   thetvdb_episode_no: 9254698
-- title: Tempo und Leidenschaft – Argentiniens Polo-Spielerinnen
+- title: Tempo und Leidenschaft - Argentiniens Polo-Spielerinnen
   air_date: '2022-07-02'
   duration: 32
   thetvdb_season_episode: S24E17
@@ -3008,7 +3008,7 @@ episodes:
   duration: 32
   thetvdb_season_episode: S24E18
   thetvdb_episode_no: 9254700
-- title: Las Fallas – Valencias feurige Fiesta
+- title: Las Fallas - Valencias feurige Fiesta
   air_date: '2022-07-16'
   duration: 32
   thetvdb_season_episode: S24E19
@@ -3018,17 +3018,17 @@ episodes:
   duration: 32
   thetvdb_season_episode: S24E20
   thetvdb_episode_no: 9254702
-- title: 'Der Science-Van on Tour: Indien – Kampf den Scharlatanen'
+- title: 'Der Science-Van on Tour: Indien - Kampf den Scharlatanen'
   air_date: '2022-09-01'
   duration: 32
   thetvdb_season_episode: S24E21
   thetvdb_episode_no: 9352688
-- title: Ahornsirup – Kanadas süßer Schatz
+- title: Ahornsirup - Kanadas süßer Schatz
   air_date: '2022-09-17'
   duration: 32
   thetvdb_season_episode: S24E22
   thetvdb_episode_no: 9352689
-- title: Estland – Krötenretter im Einsatz
+- title: Estland - Krötenretter im Einsatz
   air_date: '2022-10-01'
   duration: 32
   thetvdb_season_episode: S24E23
@@ -3048,7 +3048,7 @@ episodes:
   duration: 32
   thetvdb_season_episode: S24E26
   thetvdb_episode_no: 9524023
-- title: Die Schweizergarde – Ein Leben für den Papst
+- title: Die Schweizergarde - Ein Leben für den Papst
   air_date: '2022-12-03'
   duration: 32
   thetvdb_season_episode: S24E27
@@ -3058,47 +3058,47 @@ episodes:
   duration: 32
   thetvdb_season_episode: S24E28
   thetvdb_episode_no: 9524025
-- title: Zuflucht in den Anden – Kolumbiens indigene Transfrauen
+- title: Zuflucht in den Anden - Kolumbiens indigene Transfrauen
   air_date: '2022-12-17'
   duration: 32
   thetvdb_season_episode: S24E29
   thetvdb_episode_no: 9524026
-- title: Kristall – Die magische Kunst aus den Vogesen
+- title: Kristall - Die magische Kunst aus den Vogesen
   air_date: '2022-12-24'
   duration: 32
   thetvdb_season_episode: S24E30
   thetvdb_episode_no: 9524027
-- title: Montenegro – Der Eselretter
+- title: Montenegro - Der Eselretter
   air_date: '2023-01-07'
   duration: 32
   thetvdb_season_episode: S25E01
   thetvdb_episode_no: 9524036
-- title: Nopal – Das grüne Golde Mexikos
+- title: Nopal - Das grüne Golde Mexikos
   air_date: '2023-01-16'
   duration: 32
   thetvdb_season_episode: S25E02
   thetvdb_episode_no: 9524037
-- title: Der Bergkristall – Schatz in den Schweizer Alpen
+- title: Der Bergkristall - Schatz in den Schweizer Alpen
   air_date: '2023-01-21'
   duration: 32
   thetvdb_season_episode: S25E03
   thetvdb_episode_no: 9524038
-- title: Indien – Kampf den Scharlatanen
+- title: Indien - Kampf den Scharlatanen
   air_date: '2023-01-23'
   duration: 51
   thetvdb_season_episode: S25E04
   thetvdb_episode_no: 9524039
-- title: Maine – Hummer oder Wale?
+- title: Maine - Hummer oder Wale?
   air_date: '2023-01-28'
   duration: 32
   thetvdb_season_episode: S25E05
   thetvdb_episode_no: 9524040
-- title: Singvögel – die goldene Stimmen von Singapur
+- title: Singvögel - die goldene Stimmen von Singapur
   air_date: '2023-02-04'
   duration: 32
   thetvdb_season_episode: S25E06
   thetvdb_episode_no: 9524041
-- title: Namibia – von Sandsurfern und Skatern
+- title: Namibia - von Sandsurfern und Skatern
   air_date: '2023-02-11'
   thetvdb_season_episode: S25E07
   thetvdb_episode_no: 9524042

@@ -4,8 +4,8 @@ import yaml
 import json
 
 
-with open("geo.json", "r") as j:
-    result = json.load(j)
+with open("360-grad-reportage.yml", "r") as y:
+    result = yaml.load(y, Loader=yaml.Loader)
 
-with open("geo.yaml", "w") as y:
-    yaml.dump(result, stream=y, allow_unicode=True, sort_keys=False)
+with open("360-grad-reportage.json", "w") as j:
+    json.dump(result, fp=j, indent=2, ensure_ascii=False)
