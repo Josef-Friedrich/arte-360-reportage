@@ -9,6 +9,8 @@ class Episode(typing.TypedDict):
     duration: int
     thetvdb_season_episode: str
     thetvdb_episode_no: int
+    fernsehserien_episode_slug: str
+    fernsehserien_episode_no: int
 
 
 class Geo(typing.TypedDict):
@@ -18,15 +20,22 @@ class Geo(typing.TypedDict):
 
 geo: Geo | None = None
 
+YAML_FILENAME = "360-grad-reportage.yml"
+
 
 def load() -> Geo:
     global geo
     if geo:
         return geo
-    with open("360-grad-reportage.yml", "r") as y:
+    with open(YAML_FILENAME, "r") as y:
         result = yaml.load(y, Loader=yaml.Loader)
         geo = result
         return result
+
+
+def write(geo: Geo) -> None:
+    with open(YAML_FILENAME, "w") as y:
+        yaml.dump(geo, stream=y, allow_unicode=True, sort_keys=False)
 
 
 geo = load()
@@ -42,3 +51,7 @@ def get_episode_by_title(title: str | None) -> Episode | None:
     match: list[str] = difflib.get_close_matches(title, titles, n=1)
     if len(match) > 0:
         return geo["episodes"][titles.index(match[0])]
+
+
+def get_episode_index_by_title(title: str) -> int:
+    return titles.index(title)
