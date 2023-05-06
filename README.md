@@ -596,7 +596,7 @@
 | 2022-05-14 | Schwerelos im Windkanal | [S24E11](https://thetvdb.com/series/272599-show/episodes/9158124) | [589](https://www.fernsehserien.de/arte-360grad-reportage/folgen/589-schwerelos-im-windkanal-1551765) | 
 | 2022-05-21 | Frankreichs Gärten - Die kleinen Schätze | [S24E12](https://thetvdb.com/series/272599-show/episodes/9158125) | [590](https://www.fernsehserien.de/arte-360grad-reportage/folgen/590-frankreichs-gaerten-die-kleinen-schaetze-1553064) | 
 | 2022-06-04 | Europas Urwälder - Ein Schatz der Natur | [S24E13](https://thetvdb.com/series/272599-show/episodes/9158126) | [591](https://www.fernsehserien.de/arte-360grad-reportage/folgen/591-europas-urwaelder-ein-schatz-der-natur-1556566) | 
-| 2022-06-11 | Zwischen Naturschutz und Panzern - Bayerns wilder Schießplatz | [S24E14](https://thetvdb.com/series/272599-show/episodes/9158127) |  | 
+| 2022-06-11 | Panzer, Wölfe, Rothirsche - Bayerns wilder Übungsplatz | [S24E14](https://thetvdb.com/series/272599-show/episodes/9158127) | [592](https://www.fernsehserien.de/arte-360grad-reportage/folgen/592-panzer-woelfe-rothirsche-bayerns-wilder-uebungsplatz-1559229) | 
 | 2022-06-18 | Kastiliens Kämpfer - Ritterspiele an der Burg Belmonte | [S24E15](https://thetvdb.com/series/272599-show/episodes/9158128) | [593](https://www.fernsehserien.de/arte-360grad-reportage/folgen/593-kastiliens-kaempfer-ritterspiele-an-der-burg-belmonte-1560073) | 
 | 2022-06-25 | Nopal, der Alleskönner aus Mexiko | [S24E16](https://thetvdb.com/series/272599-show/episodes/9254698) | [594](https://www.fernsehserien.de/arte-360grad-reportage/folgen/594-nopal-der-alleskoenner-aus-mexiko-1564718) | 
 | 2022-07-02 | Tempo und Leidenschaft - Argentiniens Polo-Spielerinnen | [S24E17](https://thetvdb.com/series/272599-show/episodes/9254699) | [595](https://www.fernsehserien.de/arte-360grad-reportage/folgen/595-tempo-und-leidenschaft-argentiniens-polo-spielerinnen-1570263) | 
@@ -620,7 +620,6 @@
 | 2023-01-28 | Maine - Hummer oder Wale? | [S25E05](https://thetvdb.com/series/272599-show/episodes/9524040) | [611](https://www.fernsehserien.de/arte-360grad-reportage/folgen/611-maine-hummer-oder-wale-1613685) | 
 | 2023-02-04 | Singvögel - die goldene Stimmen von Singapur | [S25E06](https://thetvdb.com/series/272599-show/episodes/9524041) |  | 
 | 2023-02-11 | Namibia - von Sandsurfern und Skatern | [S25E07](https://thetvdb.com/series/272599-show/episodes/9524042) |  | 
-| 2022-06-04 | Panzer, Wölfe, Rothirsche - Bayerns wilder Übungsplatz |  | [592](https://www.fernsehserien.de/arte-360grad-reportage/folgen/592-panzer-woelfe-rothirsche-bayerns-wilder-uebungsplatz-1559229) | 
 | 2023-02-18 | Albanien - Die Stimmen der Schäfer |  | [612](https://www.fernsehserien.de/arte-360grad-reportage/folgen/612-albanien-die-stimmen-der-schaefer-1618464) | 
 | 2023-02-25 | Laos - Futterblöcke und Büffel-Leasing |  | [613](https://www.fernsehserien.de/arte-360grad-reportage/folgen/613-laos-futterbloecke-und-bueffel-leasing-1620347) | 
 | 2023-03-04 | Freiheit auf Pferderücken - Der lange Weg der Nez Perce |  | [614](https://www.fernsehserien.de/arte-360grad-reportage/folgen/614-freiheit-auf-pferderuecken-der-lange-weg-der-nez-perce-1621705) | 

@@ -6038,11 +6038,15 @@
       "fernsehserien_episode_id": 1556566
     },
     {
-      "title": "Zwischen Naturschutz und Panzern - Bayerns wilder Schießplatz",
+      "title": "Panzer, Wölfe, Rothirsche - Bayerns wilder Übungsplatz",
+      "alias": "Zwischen Naturschutz und Panzern - Bayerns wilder Schießplatz",
       "air_date": "2022-06-11",
       "duration": 32,
       "thetvdb_season_episode": "S24E14",
-      "thetvdb_episode_id": 9158127
+      "thetvdb_episode_id": 9158127,
+      "fernsehserien_episode_no": 592,
+      "fernsehserien_episode_slug": "592-panzer-woelfe-rothirsche-bayerns-wilder-uebungsplatz-1559229",
+      "fernsehserien_episode_id": 1559229
     },
     {
       "title": "Kastiliens Kämpfer - Ritterspiele an der Burg Belmonte",
@@ -6273,13 +6277,6 @@
       "air_date": "2023-02-11",
       "thetvdb_season_episode": "S25E07",
       "thetvdb_episode_id": 9524042
-    },
-    {
-      "title": "Panzer, Wölfe, Rothirsche - Bayerns wilder Übungsplatz",
-      "air_date": "2022-06-04",
-      "fernsehserien_episode_no": 592,
-      "fernsehserien_episode_slug": "592-panzer-woelfe-rothirsche-bayerns-wilder-uebungsplatz-1559229",
-      "fernsehserien_episode_id": 1559229
     },
     {
       "title": "Albanien - Die Stimmen der Schäfer",
