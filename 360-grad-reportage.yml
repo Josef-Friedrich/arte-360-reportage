@@ -2484,27 +2484,32 @@ episodes:
   duration: 55
   thetvdb_season_episode: S20E11
   thetvdb_episode_no: 6689543
-- title: SOS ânes sauvages du Kazakhstan
+- title: Die fliegenden Wildesel von Kasachstan
+  title_fr: SOS ânes sauvages du Kazakhstan
   air_date: '2018-05-27'
   duration: 55
   thetvdb_season_episode: S20E12
   thetvdb_episode_no: 6707145
-- title: Corse, les maquisards du feu
+- title: Geliebtes Korsika - Kampf gegen das Feuer
+  title_fr: Corse, les maquisards du feu
   air_date: '2018-06-22'
   duration: 55
   thetvdb_season_episode: S20E13
   thetvdb_episode_no: 6739140
-- title: Japan, living at a vulcan
+- title: Japan - Leben am Fuß des Vulkans
+  title_en: Japan, living at a vulcan
   air_date: '2018-08-30'
   duration: 55
   thetvdb_season_episode: S20E14
   thetvdb_episode_no: 6819062
-- title: Romania, the holy beauty of the painted monasteries
+- title: Sucevita - Rumäniens schönste Klosterfresken
+  title_en: Romania, the holy beauty of the painted monasteries
   air_date: '2018-09-08'
   duration: 55
   thetvdb_season_episode: S20E15
   thetvdb_episode_no: 6821173
-- title: 'Moscou : des chiens renifleurs pour l''aéroport'
+- title: Moskaus berühmte Sprengstoffhunde
+  title_fr: 'Moscou: des chiens renifleurs pour l''aéroport'
   air_date: '2018-09-15'
   duration: 55
   thetvdb_season_episode: S20E16
@@ -2514,32 +2519,38 @@ episodes:
   duration: 55
   thetvdb_season_episode: S20E17
   thetvdb_episode_no: 6845491
-- title: Virunga - Fighting for Mountain Gorillas
+- title: Virunga, der Kampf für die Berggorillas
+  title_en: Virunga - Fighting for Mountain Gorillas
   air_date: '2018-10-06'
   duration: 55
   thetvdb_season_episode: S20E18
   thetvdb_episode_no: 6856576
-- title: Guitars and Flamenco in Granada
+- title: Gitarren und Flamenco in Granada
+  title_en: Guitars and Flamenco in Granada
   air_date: '2018-10-13'
   duration: 55
   thetvdb_season_episode: S20E19
   thetvdb_episode_no: 6863765
-- title: Bangkoks Giant Market
+- title: Chatuchak - Bangkoks Riesenmarkt
+  title_en: Bangkoks Giant Market
   air_date: '2018-10-20'
   duration: 55
   thetvdb_season_episode: S20E20
   thetvdb_episode_no: 6872146
-- title: Argentinia - The Jaguar is Back
+- title: Argentinien - Der Jaguar ist zurück
+  title_en: Argentinia - The Jaguar is Back
   air_date: '2018-10-27'
   duration: 55
   thetvdb_season_episode: S20E21
   thetvdb_episode_no: 6881859
-- title: Rooibos, Africas red tea
+- title: Rooibos, der rote Tee Südafrikas
+  title_en: Rooibos, Africas red tea
   air_date: '2018-11-03'
   duration: 55
   thetvdb_season_episode: S20E22
   thetvdb_episode_no: 6894111
-- title: The trash-library of Cankaya
+- title: Ankaras gerettete Bücher
+  title_en: The trash-library of Cankaya
   air_date: '2018-11-07'
   duration: 55
   thetvdb_season_episode: S20E23
@@ -2549,77 +2560,93 @@ episodes:
   duration: 55
   thetvdb_season_episode: S20E24
   thetvdb_episode_no: 6908214
-- title: Siberia - The realm of the Amur tiger
+- title: Sibirien - Im Reich des Amur-Tigers
+  title_en: Siberia - The realm of the Amur tiger
   air_date: '2018-11-12'
   duration: 55
   thetvdb_season_episode: S20E25
   thetvdb_episode_no: 6902553
-- title: Peru, the golden hair of the vicunas
+- title: Peru, das Goldhaar der Vikunjas
+  title_en: Peru, the golden hair of the vicunas
   air_date: '2018-12-01'
   duration: 55
   thetvdb_season_episode: S20E26
   thetvdb_episode_no: 6923991
-- title: Jonathan, the sky acrobat
+- title: Jonathan, der Flugakrobat
+  title_en: Jonathan, the sky acrobat
   air_date: '2018-12-08'
   duration: 55
   thetvdb_season_episode: S20E27
   thetvdb_episode_no: 6923990
-- title: En Écosse, sur la route du tweed
+- title: Harris Tweed - Rückkehr einer Legende
+  title_fr: En Écosse, sur la route du tweed
   air_date: '2018-12-15'
   duration: 55
   thetvdb_season_episode: S20E28
   thetvdb_episode_no: 6941816
-- title: Kenya, alors on danse
+- title: Kenia, Let's Dance
+  title_fr: Kenya, alors on danse
   air_date: '2018-12-22'
   duration: 55
   thetvdb_season_episode: S20E29
   thetvdb_episode_no: 6952756
-- title: Crémant d'Alsace - Des bulles fines et festives
+- title:  Crémant, der feine Elsässer zum Fest
+  title_fr: Crémant d'Alsace - Des bulles fines et festives
   air_date: '2018-12-31'
   duration: 55
   thetvdb_season_episode: S20E30
   thetvdb_episode_no: 6970951
-- title: Kushti, India's ancient martial arts
+- title: Kushti, Indiens uralter Kampfsport
+  title_en: Kushti, India's ancient martial arts
+  title_fr: Inde, la lutte à mains nues
   air_date: '2019-01-05'
   duration: 55
   thetvdb_season_episode: S21E01
   thetvdb_episode_no: 6977226
-- title: Georgia's heavenly monasteries
+- title: Georgiens himmlische Klöster
+  title_en: Georgia's heavenly monasteries
   air_date: '2019-01-19'
   duration: 55
   thetvdb_season_episode: S21E02
   thetvdb_episode_no: 6982371
-- title: Mexico - The noble riders
+- title: Mexiko - Die edlen Reiterinnen
+  title_en: Mexico - The noble riders
   air_date: '2019-01-26'
   duration: 55
   thetvdb_season_episode: S21E03
   thetvdb_episode_no: 7010223
-- title: Croatia, the paradise of truffle hunters
+- title: Kroatien, Das Paradies der Trüffeljäger
+  title_en: Croatia, the paradise of truffle hunters
   air_date: '2019-02-09'
   duration: 55
   thetvdb_season_episode: S21E04
   thetvdb_episode_no: 7017416
-- title: Arnica - From the power of a medicinal plant
+- title: Arnika - Von der Kraft einer Heilpflanze
+  title_en: Arnica - From the power of a medicinal plant
   air_date: '2019-02-23'
   duration: 55
   thetvdb_season_episode: S21E05
   thetvdb_episode_no: 7055450
-- title: Zimbabwe - Life for the moment
+- title: Simbabwe - Leben für den Augenblick
+  title_en: Zimbabwe - Life for the moment
   air_date: '2019-04-07'
   duration: 55
   thetvdb_season_episode: S21E06
   thetvdb_episode_no: 7122902
-- title: Ethiopia, the birthplace of coffee
+- title: Äthiopien - Heimat des Kaffees
+  title_en: Ethiopia, the birthplace of coffee
   air_date: '2019-06-01'
   duration: 55
   thetvdb_season_episode: S21E07
   thetvdb_episode_no: 7217846
-- title: India, a sky of colorful kites
+- title: Indien, ein Himmel voller bunter Drachen
+  title_en: India, a sky of colorful kites
   air_date: '2019-06-08'
   duration: 55
   thetvdb_season_episode: S21E08
   thetvdb_episode_no: 7221261
-- title: Norway, the princess of reindeer
+- title: Norwegen, die Rentierprinzessin
+  title_en: Norway, the princess of reindeer
   air_date: '2019-07-15'
   duration: 55
   thetvdb_season_episode: S21E09

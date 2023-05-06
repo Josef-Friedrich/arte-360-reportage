@@ -1,4 +1,9 @@
 {
   "python.formatting.provider": "black",
-  "yaml.maxItemsComputed": 500000
+  "yaml.maxItemsComputed": 500000,
+  "editor.autoIndent": "advanced",
+  "[yaml]": {
+    "editor.autoIndent": "advanced",
+    "editor.formatOnType": true
+  }
 }
