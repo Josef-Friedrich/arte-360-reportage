@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 
 import typing
-import yaml
+import _lib
 
 """
 # 360-geo-reportage
@@ -21,23 +21,21 @@ https://docs.google.com/spreadsheets/d/1lL1KNkdH1Rz1BHug8OPVuFEWXzD3Ax1Q-00jBV55
 Quelle: https://www.fernsehserien.de/arte-360grad-reportage/episodenguide
 """
 
-
-with open("360-grad-reportage.yml", "r") as j:
-    result = yaml.load(j, Loader=yaml.Loader)
+result = _lib.load()
 
 
-def format_air_date(episode) -> str:
+def format_air_date(episode: _lib.Episode) -> str:
     if "air_date" not in episode or not episode["air_date"]:
         return ""
 
     return episode["air_date"]
 
 
-def format_thetvdb_link(episode) -> str:
+def format_thetvdb_link(episode: _lib.Episode) -> str:
     if "thetvdb_episode_no" not in episode or "thetvdb_season_episode" not in episode:
         return ""
     base_url = result["databases"]["thetvdb"]
-    no: str = episode["thetvdb_episode_no"]
+    no = episode["thetvdb_episode_no"]
 
     url = f"{base_url}/episodes/{no}"
     se = episode["thetvdb_season_episode"]
@@ -49,11 +47,11 @@ def format_row(cells: list[typing.Any]):
     return f"| {row} | "
 
 
-rows = []
+rows: list[str] = []
 rows.append(format_row(["air_date", "title", "thetvdb"]))
 rows.append(format_row(["-", "-", "-"]))
 for episode in result["episodes"]:
-    row = []
+    row: list[str] = []
     row.append(format_air_date(episode))
     row.append(episode["title"])
     row.append(format_thetvdb_link(episode))

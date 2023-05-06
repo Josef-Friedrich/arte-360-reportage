@@ -566,7 +566,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S04E08
   thetvdb_episode_no: 4641970
-- title: Der Dreh mit den Havannas
+- title: Der Dreh mit den Havannas - Die Zigarrenfälschung
   air_date: '2002-04-01'
   duration: 55
   thetvdb_season_episode: S04E09
@@ -656,7 +656,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S04E26
   thetvdb_episode_no: 4641988
-- title: Die Riesenflöße vom Jenissej
+- title: Die Riesenflöße vom Jenissej - Ein Floßschiffer auf seiner Fahrt zum Polarmeer
   air_date: '2002-10-10'
   duration: 55
   thetvdb_season_episode: S04E27
@@ -676,12 +676,12 @@ episodes:
   duration: 55
   thetvdb_season_episode: S04E30
   thetvdb_episode_no: 4641992
-- title: Die Abalone-Wilderer
+- title: Die Abalone-Wilderer - Der Kampf um den Erhalt einer Seeschneckenart
   air_date: '2002-11-07'
   duration: 55
   thetvdb_season_episode: S04E31
   thetvdb_episode_no: 4641993
-- title: Die Mörderinnen von Targsor
+- title: Die Mörderinnen von Targsor - Das einzige Frauengefängnis in Rumänien
   air_date: '2003-01-06'
   duration: 55
   thetvdb_season_episode: S05E01
@@ -691,7 +691,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S05E02
   thetvdb_episode_no: 4641995
-- title: Die Söldner der Perlen
+- title: Die Söldner der Perlen - Der lebensgefährliche Job
   air_date: '2003-01-08'
   duration: 55
   thetvdb_season_episode: S05E03
@@ -711,7 +711,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S05E06
   thetvdb_episode_no: 4641999
-- title: Die Hightech-Oase
+- title: Die Hightech-Oase - Auf der größten Milchfarm der Welt
   air_date: '2003-02-05'
   duration: 55
   thetvdb_season_episode: S05E07
@@ -822,6 +822,7 @@ episodes:
   thetvdb_season_episode: S06E12
   thetvdb_episode_no: 4642033
 - title: Alphadi und die Farben der Wüste
+  alias: Alphadi - Modedesigner aus der Wüste
   air_date: '2004-10-30'
   duration: 55
   thetvdb_season_episode: S06E13
@@ -1006,7 +1007,8 @@ episodes:
   duration: 55
   thetvdb_season_episode: S08E10
   thetvdb_episode_no: 4642176
-- title: Darjeeling-Bahn
+- title: Die Teebahn von Darjeeling
+  alias: Darjeeling-Bahn
   air_date: '2006-09-16'
   duration: 55
   thetvdb_season_episode: S08E11
@@ -2126,7 +2128,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S17E19
   thetvdb_episode_no: 5396736
-- title: Hochzeit auf Neapolitanisch
+- title: Italien - Hochzeit auf Neapolitanisch
   air_date: '2015-11-14'
   duration: 55
   thetvdb_season_episode: S17E20
@@ -2374,7 +2376,8 @@ episodes:
   duration: 55
   thetvdb_season_episode: S19E16
   thetvdb_episode_no: 6328065
-- title: Mate - Die Seele Argentiniens
+- title: Mate-Tee - Die Seele Argentiniens
+  alias: 'Argentinien: Mate-Tee, die Seele des Landes'
   air_date: '2017-10-01'
   duration: 55
   thetvdb_season_episode: S19E17
@@ -2479,7 +2482,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S20E10
   thetvdb_episode_no: 6615191
-- title: Araipama, der Riesenfisch vom Amazonas
+- title: Arapaima, der Riesenfisch vom Amazonas
   air_date: '2018-05-13'
   duration: 55
   thetvdb_season_episode: S20E11
@@ -2549,7 +2552,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S20E22
   thetvdb_episode_no: 6894111
-- title: Ankaras gerettete Bücher
+- title: Ankaras gerettete Bücher - Die Müll-Bibliothek von Cankaya
   title_en: The trash-library of Cankaya
   air_date: '2018-11-07'
   duration: 55
@@ -2661,7 +2664,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S21E11
   thetvdb_episode_no: 7350925
-- title: Tibetische Medizin
+- title: Tibetische Medizin - Heilkraft für die Seele
   air_date: '2019-09-29'
   duration: 55
   thetvdb_season_episode: S21E12
@@ -2676,7 +2679,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S21E14
   thetvdb_episode_no: 7398590
-- title: Die blinde Primaballerina von Sao Paulo
+- title: Die blinde Primaballerina von São Paulo
   air_date: '2019-10-19'
   duration: 55
   thetvdb_season_episode: S21E15
@@ -2705,7 +2708,7 @@ episodes:
   air_date: '2019-11-23'
   thetvdb_season_episode: S21E20
   thetvdb_episode_no: 7457468
-- title: 'Island: Von strickenden Männer und Pullovern'
+- title: 'Island: Von strickenden Männern und Pullovern'
   air_date: '2019-12-08'
   duration: 45
   thetvdb_season_episode: S21E21
@@ -2845,7 +2848,7 @@ episodes:
   duration: 45
   thetvdb_season_episode: S23E04
   thetvdb_episode_no: 8209430
-- title: Dem Wolf auf der Spur - Schnüffeln für dennschutz
+- title: Dem Wolf auf der Spur - Schnüffeln für den Artenschutz
   air_date: '2021-02-14'
   duration: 45
   thetvdb_season_episode: S23E05
@@ -2900,12 +2903,12 @@ episodes:
   duration: 43
   thetvdb_season_episode: S23E15
   thetvdb_episode_no: 8375960
-- title: Die Lebensader Mauretaniens
+- title: Der Wüstenzug - die Lebensader Mauretaniens
   air_date: '2021-08-28'
   duration: 33
   thetvdb_season_episode: S23E16
   thetvdb_episode_no: 8634489
-- title: Kolumbiens Kokain-Hippos
+- title: Escobars Erbe - Kolumbiens Kokain-Hippos
   air_date: '2021-09-04'
   duration: 32
   thetvdb_season_episode: S23E17
@@ -2985,7 +2988,7 @@ episodes:
   duration: 32
   thetvdb_season_episode: S24E08
   thetvdb_episode_no: 8993022
-- title: Litauens rollendes Theater
+- title: Die Puppen tanzen! - Litauens rollendes Theater
   air_date: '2022-03-26'
   duration: 32
   thetvdb_season_episode: S24E09
@@ -3129,3 +3132,11 @@ episodes:
   air_date: '2023-02-11'
   thetvdb_season_episode: S25E07
   thetvdb_episode_no: 9524042
+- title: Panzer, Wölfe, Rothirsche - Bayerns wilder Übungsplatz
+- title: Albanien - Die Stimmen der Schäfer
+- title: Laos - Futterblöcke und Büffel-Leasing
+- title: Freiheit auf Pferderücken - Der lange Weg der Nez Perce
+- title: Peloponnes - Rückkehr zur Erde
+- title: Handgemacht in Laos - Rares aus Rattan
+- title: Leben mit dem Tod - Ahnenkult auf Sulawesi
+- title: Die Waschbären von Berlin

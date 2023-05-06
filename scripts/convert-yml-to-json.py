@@ -1,11 +1,7 @@
 #! /usr/bin/env python
 
-import yaml
 import json
-
-
-with open("360-grad-reportage.yml", "r") as y:
-    result = yaml.load(y, Loader=yaml.Loader)
+import _lib
 
 with open("360-grad-reportage.json", "w") as j:
-    json.dump(result, fp=j, indent=2, ensure_ascii=False)
+    json.dump(_lib.load(), fp=j, indent=2, ensure_ascii=False)
