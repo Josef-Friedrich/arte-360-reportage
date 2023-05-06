@@ -3,6 +3,8 @@
 import typing
 from lxml import etree
 
+import re
+
 
 def get_text(element: typing.Any, tag: str):
     elements = element.xpath(tag)
@@ -21,11 +23,23 @@ def parseXML(xmlFile: str):
 
     root = etree.fromstring(xml)
 
+    output = []
+
     for episode in root:
-        print(get_text(episode, "date"))
-        print(get_text(episode, "title"))
-        print(get_text(episode, "url"))
+        slag_line = get_text(episode, "url")
+
+        e = {
+            "no": int(get_text(episode, "no")),
+            "air_date": get_text(episode, "date"),
+            "title": get_text(episode, "title"),
+            "slag_line": slag_line,
+            "id": int(re.sub(r".*-", "", slag_line)),
+        }
+        output.append(e)
+
+    return output
 
 
 if __name__ == "__main__":
-    parseXML("fernsehserien.de.xml")
+    fernsehserien = parseXML("fernsehserien.de.xml")
+    print(fernsehserien)
