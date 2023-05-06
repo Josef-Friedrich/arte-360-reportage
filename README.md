@@ -112,7 +112,7 @@
 | 2002-03-05 | Hongkongs fliegende Küchen | [S04E06](https://thetvdb.com/series/272599-show/episodes/4641968) | 
 | 2002-03-06 | Die Herren der Adler - Kasachische Jäger und ihre Greifvögel | [S04E07](https://thetvdb.com/series/272599-show/episodes/4641969) | 
 | 2002-03-07 | Safran - Ein blühendes Geschäft | [S04E08](https://thetvdb.com/series/272599-show/episodes/4641970) | 
-| 2002-04-01 | Der Dreh mit den Havannas | [S04E09](https://thetvdb.com/series/272599-show/episodes/4641971) | 
+| 2002-04-01 | Der Dreh mit den Havannas - Die Zigarrenfälschung | [S04E09](https://thetvdb.com/series/272599-show/episodes/4641971) | 
 | 2002-04-02 | Ein göttlicher Zug - das rollende Gotteshaus in Russland | [S04E10](https://thetvdb.com/series/272599-show/episodes/4641972) | 
 | 2002-04-03 | Sinfonie der Straße - Kinderorchester in Venezuela | [S04E11](https://thetvdb.com/series/272599-show/episodes/4641973) | 
 | 2002-05-06 | Ticket in ein neues Leben - Der Lifeline Express in Indien | [S04E12](https://thetvdb.com/series/272599-show/episodes/4641974) | 
@@ -130,18 +130,18 @@
 | 2002-10-07 | Palmasola - Dorf hinter Gittern | [S04E24](https://thetvdb.com/series/272599-show/episodes/4641986) | 
 | 2002-10-08 | Bilder hören - Die blinden Kinder von Tibet | [S04E25](https://thetvdb.com/series/272599-show/episodes/4641987) | 
 | 2002-10-09 | Der Blechmusik-Oscar | [S04E26](https://thetvdb.com/series/272599-show/episodes/4641988) | 
-| 2002-10-10 | Die Riesenflöße vom Jenissej | [S04E27](https://thetvdb.com/series/272599-show/episodes/4641989) | 
+| 2002-10-10 | Die Riesenflöße vom Jenissej - Ein Floßschiffer auf seiner Fahrt zum Polarmeer | [S04E27](https://thetvdb.com/series/272599-show/episodes/4641989) | 
 | 2002-11-04 | Heiratsmarkt in Marokko | [S04E28](https://thetvdb.com/series/272599-show/episodes/4641990) | 
 | 2002-11-05 | Die türkischen Hochzeitsmacher | [S04E29](https://thetvdb.com/series/272599-show/episodes/4641991) | 
 | 2002-11-06 | Die Frachtensegler von Madagaskar | [S04E30](https://thetvdb.com/series/272599-show/episodes/4641992) | 
-| 2002-11-07 | Die Abalone-Wilderer | [S04E31](https://thetvdb.com/series/272599-show/episodes/4641993) | 
-| 2003-01-06 | Die Mörderinnen von Targsor | [S05E01](https://thetvdb.com/series/272599-show/episodes/4641994) | 
+| 2002-11-07 | Die Abalone-Wilderer - Der Kampf um den Erhalt einer Seeschneckenart | [S04E31](https://thetvdb.com/series/272599-show/episodes/4641993) | 
+| 2003-01-06 | Die Mörderinnen von Targsor - Das einzige Frauengefängnis in Rumänien | [S05E01](https://thetvdb.com/series/272599-show/episodes/4641994) | 
 | 2003-01-07 | Das Metall aus dem Vulkan | [S05E02](https://thetvdb.com/series/272599-show/episodes/4641995) | 
-| 2003-01-08 | Die Söldner der Perlen | [S05E03](https://thetvdb.com/series/272599-show/episodes/4641996) | 
+| 2003-01-08 | Die Söldner der Perlen - Der lebensgefährliche Job | [S05E03](https://thetvdb.com/series/272599-show/episodes/4641996) | 
 | 2003-01-09 | Hongkongs Bambusakrobaten | [S05E04](https://thetvdb.com/series/272599-show/episodes/4641997) | 
 | 2003-02-03 | Mission Nordkorea | [S05E05](https://thetvdb.com/series/272599-show/episodes/4641998) | 
 | 2003-02-04 | Radios gegen Kalaschnikows | [S05E06](https://thetvdb.com/series/272599-show/episodes/4641999) | 
-| 2003-02-05 | Die Hightech-Oase | [S05E07](https://thetvdb.com/series/272599-show/episodes/4642000) | 
+| 2003-02-05 | Die Hightech-Oase - Auf der größten Milchfarm der Welt | [S05E07](https://thetvdb.com/series/272599-show/episodes/4642000) | 
 | 2003-02-06 | Videofabrik Nigeria | [S05E08](https://thetvdb.com/series/272599-show/episodes/4642001) | 
 | 2003-03-03 | Beuteltiere an der Börse | [S05E09](https://thetvdb.com/series/272599-show/episodes/4642002) | 
 | 2003-03-04 | Hongkong - Pferde und Millionen | [S05E10](https://thetvdb.com/series/272599-show/episodes/4642003) | 
@@ -200,7 +200,7 @@
 | 2006-07-29 | Die schwimmenden Dörfer der Ha Long Bucht | [S08E08](https://thetvdb.com/series/272599-show/episodes/4642174) | 
 | 2006-08-26 | Von Männern und Mustangs | [S08E09](https://thetvdb.com/series/272599-show/episodes/4642175) | 
 | 2006-09-09 | Tasmanien: Wächterin im Paradies | [S08E10](https://thetvdb.com/series/272599-show/episodes/4642176) | 
-| 2006-09-16 | Darjeeling-Bahn | [S08E11](https://thetvdb.com/series/272599-show/episodes/4642177) | 
+| 2006-09-16 | Die Teebahn von Darjeeling | [S08E11](https://thetvdb.com/series/272599-show/episodes/4642177) | 
 | 2006-10-07 | Die Millionen-Dollar-Hirsche | [S08E12](https://thetvdb.com/series/272599-show/episodes/4642178) | 
 | 2006-10-14 | Die Dächer von Kairo | [S08E13](https://thetvdb.com/series/272599-show/episodes/4642179) | 
 | 2006-10-21 | Die Trommler von Burundi | [S08E14](https://thetvdb.com/series/272599-show/episodes/4642180) | 
@@ -424,7 +424,7 @@
 | 2015-10-03 | Das Terrassenwunder von Peru | [S17E17](https://thetvdb.com/series/272599-show/episodes/5328402) | 
 | 2015-10-10 | Kambodscha, Sithas große Waisenfamilie | [S17E18](https://thetvdb.com/series/272599-show/episodes/5328403) | 
 | 2015-11-07 | Die Oldtimer von Curaçao | [S17E19](https://thetvdb.com/series/272599-show/episodes/5396736) | 
-| 2015-11-14 | Hochzeit auf Neapolitanisch | [S17E20](https://thetvdb.com/series/272599-show/episodes/5404473) | 
+| 2015-11-14 | Italien - Hochzeit auf Neapolitanisch | [S17E20](https://thetvdb.com/series/272599-show/episodes/5404473) | 
 | 2015-11-21 | Yoga, Indiens erstaunliche Medizin | [S17E21](https://thetvdb.com/series/272599-show/episodes/5411577) | 
 | 2015-11-28 | David und die Komodowarane | [S17E22](https://thetvdb.com/series/272599-show/episodes/5420198) | 
 | 2015-12-05 | China, Braut ohne Bräutigam | [S17E23](https://thetvdb.com/series/272599-show/episodes/5431748) | 
@@ -474,7 +474,7 @@
 | 2017-08-06 | Kuba - Meister der Drehorgeln | [S19E14](https://thetvdb.com/series/272599-show/episodes/6241979) | 
 | 2017-08-20 | Sri Lanka - Eine legendäre Eisenbahnstrecke | [S19E15](https://thetvdb.com/series/272599-show/episodes/6270747) | 
 | 2017-09-17 | Die Wassernomaden vom Sambesi | [S19E16](https://thetvdb.com/series/272599-show/episodes/6328065) | 
-| 2017-10-01 | Mate - Die Seele Argentiniens | [S19E17](https://thetvdb.com/series/272599-show/episodes/6348729) | 
+| 2017-10-01 | Mate-Tee - Die Seele Argentiniens | [S19E17](https://thetvdb.com/series/272599-show/episodes/6348729) | 
 | 2017-10-22 | Louisiana - Land unter bei den Shrimpfischern | [S19E18](https://thetvdb.com/series/272599-show/episodes/6376645) | 
 | 2017-10-29 | Svanetien - Von Lebenden und Toten | [S19E19](https://thetvdb.com/series/272599-show/episodes/6387570) | 
 | 2017-11-05 | Java - Zauberhaftes Schattentheater | [S19E20](https://thetvdb.com/series/272599-show/episodes/6398275) | 
@@ -495,7 +495,7 @@
 | 2018-03-18 | Kreta - Die süßen Früchte des Johannisbrotbaums | [S20E08](https://thetvdb.com/series/272599-show/episodes/6597521) | 
 | 2018-03-25 | Der Hundeflüsterer der Queen | [S20E09](https://thetvdb.com/series/272599-show/episodes/6615190) | 
 | 2018-04-01 | Italien, eine neue Glocke für Monopoli | [S20E10](https://thetvdb.com/series/272599-show/episodes/6615191) | 
-| 2018-05-13 | Araipama, der Riesenfisch vom Amazonas | [S20E11](https://thetvdb.com/series/272599-show/episodes/6689543) | 
+| 2018-05-13 | Arapaima, der Riesenfisch vom Amazonas | [S20E11](https://thetvdb.com/series/272599-show/episodes/6689543) | 
 | 2018-05-27 | Die fliegenden Wildesel von Kasachstan | [S20E12](https://thetvdb.com/series/272599-show/episodes/6707145) | 
 | 2018-06-22 | Geliebtes Korsika - Kampf gegen das Feuer | [S20E13](https://thetvdb.com/series/272599-show/episodes/6739140) | 
 | 2018-08-30 | Japan - Leben am Fuß des Vulkans | [S20E14](https://thetvdb.com/series/272599-show/episodes/6819062) | 
@@ -507,7 +507,7 @@
 | 2018-10-20 | Chatuchak - Bangkoks Riesenmarkt | [S20E20](https://thetvdb.com/series/272599-show/episodes/6872146) | 
 | 2018-10-27 | Argentinien - Der Jaguar ist zurück | [S20E21](https://thetvdb.com/series/272599-show/episodes/6881859) | 
 | 2018-11-03 | Rooibos, der rote Tee Südafrikas | [S20E22](https://thetvdb.com/series/272599-show/episodes/6894111) | 
-| 2018-11-07 | Ankaras gerettete Bücher | [S20E23](https://thetvdb.com/series/272599-show/episodes/6897060) | 
+| 2018-11-07 | Ankaras gerettete Bücher - Die Müll-Bibliothek von Cankaya | [S20E23](https://thetvdb.com/series/272599-show/episodes/6897060) | 
 | 2018-11-17 | Äthiopiens gefräßige Hochland-Affen | [S20E24](https://thetvdb.com/series/272599-show/episodes/6908214) | 
 | 2018-11-12 | Sibirien - Im Reich des Amur-Tigers | [S20E25](https://thetvdb.com/series/272599-show/episodes/6902553) | 
 | 2018-12-01 | Peru, das Goldhaar der Vikunjas | [S20E26](https://thetvdb.com/series/272599-show/episodes/6923991) | 
@@ -526,16 +526,16 @@
 | 2019-07-15 | Norwegen, die Rentierprinzessin | [S21E09](https://thetvdb.com/series/272599-show/episodes/7284824) | 
 | 2019-08-25 | Thaimassage, die Heilkunst der Buddhisten | [S21E10](https://thetvdb.com/series/272599-show/episodes/7334026) | 
 | 2019-09-07 | Hongkongs magisches Neonlicht | [S21E11](https://thetvdb.com/series/272599-show/episodes/7350925) | 
-| 2019-09-29 | Tibetische Medizin | [S21E12](https://thetvdb.com/series/272599-show/episodes/7378725) | 
+| 2019-09-29 | Tibetische Medizin - Heilkraft für die Seele | [S21E12](https://thetvdb.com/series/272599-show/episodes/7378725) | 
 | 2019-10-05 | Sibirien, die Eisschneider von Jakutsk | [S21E13](https://thetvdb.com/series/272599-show/episodes/7397819) | 
 | 2019-10-12 | Auf Schlangenjagd in Bangkok | [S21E14](https://thetvdb.com/series/272599-show/episodes/7398590) | 
-| 2019-10-19 | Die blinde Primaballerina von Sao Paulo | [S21E15](https://thetvdb.com/series/272599-show/episodes/7412295) | 
+| 2019-10-19 | Die blinde Primaballerina von São Paulo | [S21E15](https://thetvdb.com/series/272599-show/episodes/7412295) | 
 | 2019-10-26 | Slowenien, Land des Honigs | [S21E16](https://thetvdb.com/series/272599-show/episodes/7423109) | 
 | 2019-10-27 | Japan, der Meister des Zen-Gartens | [S21E17](https://thetvdb.com/series/272599-show/episodes/7423122) | 
 | 2019-11-09 | Finnland, die rasenden Schrottkisten | [S21E18](https://thetvdb.com/series/272599-show/episodes/7444447) | 
 | 2019-11-10 | Heilende Schwingungen der Klangschalen | [S21E19](https://thetvdb.com/series/272599-show/episodes/7444458) | 
 | 2019-11-23 | Harpyien, die größten Greifvögel des Regenwaldes | [S21E20](https://thetvdb.com/series/272599-show/episodes/7457468) | 
-| 2019-12-08 | Island: Von strickenden Männer und Pullovern | [S21E21](https://thetvdb.com/series/272599-show/episodes/7486315) | 
+| 2019-12-08 | Island: Von strickenden Männern und Pullovern | [S21E21](https://thetvdb.com/series/272599-show/episodes/7486315) | 
 | 2019-12-14 | Kentucky - Die Schlacht von Sacramento | [S21E22](https://thetvdb.com/series/272599-show/episodes/7496325) | 
 | 2019-12-21 | Die letzten Walfänger der Beringsee | [S21E23](https://thetvdb.com/series/272599-show/episodes/7496340) | 
 | 2019-12-22 | Kaviar, das schwarze Gold Italiens | [S21E24](https://thetvdb.com/series/272599-show/episodes/7496351) | 
@@ -563,7 +563,7 @@
 | 2021-01-10 | Pelota, die baskische Leidenschaft | [S23E02](https://thetvdb.com/series/272599-show/episodes/8145486) | 
 | 2021-01-31 | Estland und das kleine Königreich der Seto | [S23E03](https://thetvdb.com/series/272599-show/episodes/8209429) | 
 | 2021-02-07 | Puerto Rico: Ein Krankenhaus für Seekühe | [S23E04](https://thetvdb.com/series/272599-show/episodes/8209430) | 
-| 2021-02-14 | Dem Wolf auf der Spur - Schnüffeln für dennschutz | [S23E05](https://thetvdb.com/series/272599-show/episodes/8228076) | 
+| 2021-02-14 | Dem Wolf auf der Spur - Schnüffeln für den Artenschutz | [S23E05](https://thetvdb.com/series/272599-show/episodes/8228076) | 
 | 2021-02-21 | Die Eifel und ihre Eulen-Hüter | [S23E06](https://thetvdb.com/series/272599-show/episodes/8230361) | 
 | 2021-02-28 | Percheron, das Kraftpaket mit einer Pferdestärke | [S23E07](https://thetvdb.com/series/272599-show/episodes/8270994) | 
 | 2021-03-07 | Kalkstein - Das weiße Gold von Brac | [S23E08](https://thetvdb.com/series/272599-show/episodes/8271000) | 
@@ -574,8 +574,8 @@
 | 2021-04-18 | Frankreichs Winzer - Tradition trifft Passion | [S23E13](https://thetvdb.com/series/272599-show/episodes/8375958) | 
 | 2021-04-25 | Notruf Nordseeküste - Die Robben-Retter | [S23E14](https://thetvdb.com/series/272599-show/episodes/8375959) | 
 | 2021-05-09 | Australien - Wenn Kunst auf Silos trifft | [S23E15](https://thetvdb.com/series/272599-show/episodes/8375960) | 
-| 2021-08-28 | Die Lebensader Mauretaniens | [S23E16](https://thetvdb.com/series/272599-show/episodes/8634489) | 
-| 2021-09-04 | Kolumbiens Kokain-Hippos | [S23E17](https://thetvdb.com/series/272599-show/episodes/8634490) | 
+| 2021-08-28 | Der Wüstenzug - die Lebensader Mauretaniens | [S23E16](https://thetvdb.com/series/272599-show/episodes/8634489) | 
+| 2021-09-04 | Escobars Erbe - Kolumbiens Kokain-Hippos | [S23E17](https://thetvdb.com/series/272599-show/episodes/8634490) | 
 | 2021-09-11 | Die heilenden Delfine von Curacao | [S23E18](https://thetvdb.com/series/272599-show/episodes/8634491) | 
 | 2021-09-11 | Der Traum vom Gold - Tirols Überfliegerinnen | [S23E19](https://thetvdb.com/series/272599-show/episodes/8692435) | 
 | 2021-09-25 | Schweiz: Gletscherflieger - Faszination in Weiß | [S23E20](https://thetvdb.com/series/272599-show/episodes/8692436) | 
@@ -591,7 +591,7 @@
 | 2022-02-19 | Die Odyssee der Mönchsrobbe | [S24E06](https://thetvdb.com/series/272599-show/episodes/8949825) | 
 | 2022-02-26 | Elsass - Land der Orgeln | [S24E07](https://thetvdb.com/series/272599-show/episodes/8949826) | 
 | 2022-03-12 | Wilde Waterkant - Nordfriesland und seine Gänse | [S24E08](https://thetvdb.com/series/272599-show/episodes/8993022) | 
-| 2022-03-26 | Litauens rollendes Theater | [S24E09](https://thetvdb.com/series/272599-show/episodes/9075607) | 
+| 2022-03-26 | Die Puppen tanzen! - Litauens rollendes Theater | [S24E09](https://thetvdb.com/series/272599-show/episodes/9075607) | 
 | 2022-05-07 | Südkorea - die Nonne der Tempelküche | [S24E10](https://thetvdb.com/series/272599-show/episodes/9158123) | 
 | 2022-05-14 | Schwerelos im Windkanal | [S24E11](https://thetvdb.com/series/272599-show/episodes/9158124) | 
 | 2022-05-21 | Frankreichs Gärten - Die kleinen Schätze | [S24E12](https://thetvdb.com/series/272599-show/episodes/9158125) | 
@@ -620,3 +620,11 @@
 | 2023-01-28 | Maine - Hummer oder Wale? | [S25E05](https://thetvdb.com/series/272599-show/episodes/9524040) | 
 | 2023-02-04 | Singvögel - die goldene Stimmen von Singapur | [S25E06](https://thetvdb.com/series/272599-show/episodes/9524041) | 
 | 2023-02-11 | Namibia - von Sandsurfern und Skatern | [S25E07](https://thetvdb.com/series/272599-show/episodes/9524042) | 
+|  | Panzer, Wölfe, Rothirsche - Bayerns wilder Übungsplatz |  | 
+|  | Albanien - Die Stimmen der Schäfer |  | 
+|  | Laos - Futterblöcke und Büffel-Leasing |  | 
+|  | Freiheit auf Pferderücken - Der lange Weg der Nez Perce |  | 
+|  | Peloponnes - Rückkehr zur Erde |  | 
+|  | Handgemacht in Laos - Rares aus Rattan |  | 
+|  | Leben mit dem Tod - Ahnenkult auf Sulawesi |  | 
+|  | Die Waschbären von Berlin |  | 
