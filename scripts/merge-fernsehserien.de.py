@@ -1,11 +1,10 @@
 #! /usr/bin/env python
 
+import re
 import typing
-from lxml import etree
 
 import _lib
-
-import re
+from lxml import etree
 
 
 def get_text(element: typing.Any, tag: str):

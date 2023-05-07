@@ -2,12 +2,12 @@
 
 from __future__ import annotations
 
-import json
-import glob
-import re
 import difflib
-import typing
+import glob
+import json
 import pathlib
+import re
+import typing
 
 files = """
 _new/Ahornsirup - Kanadas süßer Schatz (ARTE 360° Reportage) [HlFRnPw6Y04].mp4
@@ -705,7 +705,7 @@ for title in dest_titles:
         print(episode["title"])
         print(src)
 
-        season: str = str(episode['season']).zfill(2)
+        season: str = str(episode["season"]).zfill(2)
         dest: str = f"s{season}/{episode['id'].lower()} {src.name}"
 
         dest = re.sub(r" +\(.*\) +", " ", dest)

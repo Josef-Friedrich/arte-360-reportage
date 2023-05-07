@@ -1,8 +1,8 @@
 #! /usr/bin/python
 
 import re
-import _lib
 
+import _lib
 
 imdb = _lib.read_text_file("imdb.html")
 

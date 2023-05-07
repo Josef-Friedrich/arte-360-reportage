@@ -1,9 +1,10 @@
-import yaml
-import typing
 import difflib
+import json
+import typing
+
 import termcolor
 import typing_extensions
-import json
+import yaml
 
 
 class Episode(typing.TypedDict):

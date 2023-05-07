@@ -1,9 +1,8 @@
 #! /usr/bin/python
 
-import re
 import glob
 import os
-
+import re
 
 for rel_path in glob.glob("**/**"):
     old_path = rel_path

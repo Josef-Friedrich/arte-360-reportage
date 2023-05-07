@@ -5,11 +5,10 @@
 # google-api-python-client
 # google-api-python-client-stubs
 
-from googleapiclient.discovery import build
-
-import pathlib
 import json
+import pathlib
 
+from googleapiclient.discovery import build
 
 # ansible role y/youtube-dl
 p = pathlib.Path.home() / ".youtube-api.json"
@@ -64,7 +63,7 @@ if __name__ == "__main__":
     videos = fetch_all_youtube_videos("PLAocIS-jUf43CkOnsymOxHihGWKfCkUDC")
     print(json.dumps(videos, indent=2))
 
-    for video in videos['items']:
-        print(video['snippet']['title'])
-        print(video['snippet']['resourceId']['videoId'])
-        print(video['snippet']['description'])
+    for video in videos["items"]:
+        print(video["snippet"]["title"])
+        print(video["snippet"]["resourceId"]["videoId"])
+        print(video["snippet"]["description"])
