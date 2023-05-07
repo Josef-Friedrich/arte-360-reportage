@@ -23,15 +23,6 @@ YOUTUBE_API_VERSION = "v3"
 
 
 def fetch_all_youtube_videos(playlistId: str):
-    """
-    Fetches a playlist of videos from youtube
-    We splice the results together in no particular order
-
-    Parameters:
-        parm1 - (string) playlistId
-    Returns:
-        playListItem Dict
-    """
     youtube = build(
         YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION, developerKey=DEVELOPER_KEY
     )
