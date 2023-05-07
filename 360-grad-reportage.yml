@@ -38,6 +38,7 @@ episodes:
   fernsehserien_episode_slug: 4-traum-staedte-celebration-leben-in-harmonie-339119
   fernsehserien_episode_id: 339119
 - title: 'Weibs-Bilder: Die mächtigen Frauen von Juchitán'
+  alias: Leistungsstarke Frauen Juchitan
   air_date: '1999-02-01'
   duration: 55
   thetvdb_season_episode: S01E05
@@ -535,6 +536,7 @@ episodes:
   fernsehserien_episode_slug: 66-die-geheimnisse-des-waldes-der-letzte-maerchenwald-339339
   fernsehserien_episode_id: 339339
 - title: 'Die Geheimnisse des Waldes: Chinas grüne Mauer'
+  alias: Chinas grüne Mauer
   air_date: '2000-10-04'
   duration: 55
   thetvdb_season_episode: S02E27
@@ -551,6 +553,7 @@ episodes:
   fernsehserien_episode_slug: 68-die-geheimnisse-des-waldes-die-waldfabrik-339347
   fernsehserien_episode_id: 339347
 - title: 'Leben am Limit / Grenzen des Körpers: Himalaja - Tödliche Höhe'
+  alias: Himalaja - Tödliche Höhe
   air_date: '2000-11-06'
   duration: 55
   thetvdb_season_episode: S02E29
@@ -721,6 +724,7 @@ episodes:
   fernsehserien_episode_slug: 89-anatomie-einer-lawine-339407
   fernsehserien_episode_id: 339407
 - title: Die Erbin Gandhis - Widerstand gegen einen Staudamm
+  alias: Die Erben Gandhis
   air_date: '2001-05-01'
   duration: 55
   thetvdb_season_episode: S03E14
@@ -856,7 +860,8 @@ episodes:
   fernsehserien_episode_no: 106
   fernsehserien_episode_slug: 106-walverwandtschaften-339427
   fernsehserien_episode_id: 339427
-- title: Wildreis - Der grüne Schatz der kanadischen Ojibwa -Indianer
+- title: Wildreis - Der grüne Schatz der kanadischen Ojibwa-Indianer
+  alias: Der Reis des Manitu
   air_date: '2002-02-06'
   duration: 55
   thetvdb_season_episode: S04E03
@@ -865,6 +870,7 @@ episodes:
   fernsehserien_episode_slug: 107-wildreis-der-gruene-schatz-der-kanadischen-ojibwa-indianer-339428
   fernsehserien_episode_id: 339428
 - title: Party für eine Leiche - Das Fest der Ahnen in Madagaskar
+  alias: Party für eine Leiche
   air_date: '2002-02-07'
   duration: 55
   thetvdb_season_episode: S04E04
@@ -921,6 +927,7 @@ episodes:
   fernsehserien_episode_slug: 114-ein-goettlicher-zug-das-rollende-gotteshaus-in-russland-339436
   fernsehserien_episode_id: 339436
 - title: Sinfonie der Straße - Kinderorchester in Venezuela
+  alias: Sinfonie der Straße
   air_date: '2002-04-03'
   duration: 55
   thetvdb_season_episode: S04E11
@@ -1049,6 +1056,7 @@ episodes:
   fernsehserien_episode_slug: 130-der-blechmusik-oscar-339455
   fernsehserien_episode_id: 339455
 - title: Die Riesenflöße vom Jenissej - Ein Floßschiffer auf seiner Fahrt zum Polarmeer
+  alias: Die Riesenflöße vom Jenissej
   air_date: '2002-10-10'
   duration: 55
   thetvdb_season_episode: S04E27
@@ -1137,6 +1145,7 @@ episodes:
   fernsehserien_episode_slug: 141-radios-gegen-kalaschnikows-339466
   fernsehserien_episode_id: 339466
 - title: Die Hightech-Oase - Auf der größten Milchfarm der Welt
+  alias: Die Hightech-Oase
   air_date: '2003-02-05'
   duration: 55
   thetvdb_season_episode: S05E07
@@ -1439,6 +1448,7 @@ episodes:
   fernsehserien_episode_slug: 178-das-postschiff-zum-ende-der-welt-339507
   fernsehserien_episode_id: 339507
 - title: Vagabunden der Wüste - Kamelzüchter in der Mongolei
+  alias: Vagabunden der Wüste
   air_date: '2005-08-06'
   duration: 55
   thetvdb_season_episode: S07E10
@@ -1767,6 +1777,7 @@ episodes:
   fernsehserien_episode_slug: 218-kamtschatka-kochende-erde-339701
   fernsehserien_episode_id: 339701
 - title: 'Venezuela: Die alte Frau und das Meer'
+  title_fr: Venezuela, la vieille dame et la mer
   air_date: '2007-06-30'
   duration: 55
   thetvdb_season_episode: S09E12
@@ -1823,6 +1834,7 @@ episodes:
   fernsehserien_episode_slug: 225-brasilien-bueffel-auf-streife-339710
   fernsehserien_episode_id: 339710
 - title: Der Ottermann von Ungarn
+  title_fr: L'homme aux loutres
   air_date: '2007-11-10'
   duration: 55
   thetvdb_season_episode: S09E19
@@ -1846,7 +1858,7 @@ episodes:
   fernsehserien_episode_no: 228
   fernsehserien_episode_slug: 228-peru-delfine-in-gefahr-339715
   fernsehserien_episode_id: 339715
-- title: Postbote im Himalaya
+- title: Postbote im Himalaya - Arbeit in 4000 Meter Höhe
   air_date: '2007-12-01'
   duration: 55
   thetvdb_season_episode: S09E22
@@ -2079,6 +2091,7 @@ episodes:
   fernsehserien_episode_slug: 257-arktis-die-route-der-atomeisbrecher-339736
   fernsehserien_episode_id: 339736
 - title: Die besten Hütehunde von Wales
+  alias: Weltmeister auf vier Pfoten
   air_date: '2009-01-24'
   duration: 55
   thetvdb_season_episode: S11E02
@@ -4080,6 +4093,7 @@ episodes:
   fernsehserien_episode_slug: 503-rooibos-der-rote-tee-suedafrikas-1237427
   fernsehserien_episode_id: 1237427
 - title: Ankaras gerettete Bücher - Die Müll-Bibliothek von Cankaya
+  alias: Ankaras gerettete Bücher
   title_en: The trash-library of Cankaya
   air_date: '2018-11-07'
   duration: 55
@@ -4376,6 +4390,7 @@ episodes:
   fernsehserien_episode_slug: 537-costa-rica-das-groesste-hundeheim-der-welt-1346786
   fernsehserien_episode_id: 1346786
 - title: Die Herren des Lavendels
+  title_fr: Les Seigneurs de le Lavande
   air_date: '2020-01-26'
   duration: 45
   thetvdb_season_episode: S22E03
@@ -4498,6 +4513,7 @@ episodes:
   fernsehserien_episode_slug: 551-mit-volldampf-durch-kaernten-1422151
   fernsehserien_episode_id: 1422151
 - title: Das Elsass, Heimat der Störche
+  title_fr: Alsace, Terre de Cigogne
   air_date: '2020-12-06'
   duration: 44
   thetvdb_season_episode: S22E17
@@ -4667,6 +4683,7 @@ episodes:
   fernsehserien_episode_slug: 570-der-wuestenzug-die-lebensader-mauretaniens-1489640
   fernsehserien_episode_id: 1489640
 - title: Escobars Erbe - Kolumbiens Kokain-Hippos
+  title_en: Pablo Escobar's Hippos
   air_date: '2021-09-04'
   duration: 32
   thetvdb_season_episode: S23E17
@@ -4676,6 +4693,7 @@ episodes:
   fernsehserien_episode_slug: 571-escobars-erbe-kolumbiens-kokain-hippos-1491102
   fernsehserien_episode_id: 1491102
 - title: Die heilenden Delfine von Curacao
+  alias: Curacao - Die sanften Delfine
   air_date: '2021-09-11'
   duration: 32
   thetvdb_season_episode: S23E18
@@ -5053,6 +5071,7 @@ episodes:
   fernsehserien_episode_slug: 614-freiheit-auf-pferderuecken-der-lange-weg-der-nez-perce-1621705
   fernsehserien_episode_id: 1621705
 - title: Peloponnes - Rückkehr zur Erde
+  alias: Peloponnes - Die Pioniere des Waldgartens
   air_date: '2023-03-11'
   fernsehserien_episode_no: 615
   fernsehserien_episode_slug: 615-peloponnes-rueckkehr-zur-erde-1623768

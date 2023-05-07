@@ -7,12 +7,13 @@ import _lib
 imdb = _lib.read_text_file("imdb.html")
 
 
-geo = _lib.load()
+data = _lib.load()
 
 
-for match in re.finditer(
+for found in re.finditer(
     r"<a href=\"/title/(.*?)/.*\".*itemprop=\"name\">(.*)</a>", imdb
 ):
-    episode_id = match.group(1)
-    title = match.group(2)
-    episode = _lib.get_episode_by_title(title, debug=True)
+    episode_id = found.group(1)
+    title = found.group(2)
+
+    episode = _lib.geo_360.get_episode_by_title(title, debug=True)
