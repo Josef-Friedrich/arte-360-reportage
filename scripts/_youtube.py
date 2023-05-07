@@ -37,7 +37,7 @@ def print_json(dump: typing.Any) -> None:
     print(json.dumps(dump, indent=2))
 
 
-def fetch_all_videos_by_playlist(playlist_id: str):
+def fetch_videos_by_playlist(playlist_id: str):
     youtube = get_youtube_resource()
 
     result = (
@@ -87,13 +87,8 @@ def get_playlist_id_of_channel(channel_id: str) -> str | None:
                         return related_playlists["uploads"]
 
 
-def fetch_all_videos_by_channel(channel_id: str):
+def fetch_videos_by_channel(channel_id: str):
     playlist_id = get_playlist_id_of_channel(channel_id)
     if not playlist_id:
         raise Exception(f"No upload playlist found for channel {channel_id}")
-    return fetch_all_videos_by_playlist(playlist_id)
-
-
-result = fetch_all_videos_by_channel("UC4W-JsjRBsAvE6DZGOc8LGw")
-
-print_json(result)
+    return fetch_videos_by_playlist(playlist_id)

@@ -1335,6 +1335,7 @@ episodes:
   fernsehserien_episode_id: 339417
   youtube_video_id: SWt30v35IdA
 - title: Das Parlament der Kinder
+  alias: Das Kinderparlament von Rajasthan
   air_date: '2004-07-10'
   duration: 55
   thetvdb_season_episode: S06E07
@@ -1417,6 +1418,7 @@ episodes:
   imdb_episode_id: tt1029217
   youtube_video_id: qIx8uIMxDIM
 - title: Der Polarflieger - Ein Pilot in Sibirien
+  alias: Der Polarflieger
   air_date: '2004-11-20'
   duration: 55
   thetvdb_season_episode: S06E16
@@ -1995,6 +1997,7 @@ episodes:
   imdb_episode_id: tt1281302
   youtube_video_id: LmSo7bINHXQ
 - title: Postbote im Himalaya - Arbeit in 4000 Meter Höhe
+  alias: Postbote im Himalaya
   air_date: '2007-12-01'
   duration: 55
   thetvdb_season_episode: S09E22
@@ -2909,6 +2912,7 @@ episodes:
   fernsehserien_episode_id: 339992
   youtube_video_id: Xqj1OOEq5M4
 - title: Aserbaidschans fahrende Hochzeitmusikanten
+  alias: Mit dem Wanderbarden durch Aserbaidschan
   air_date: '2011-11-12'
   duration: 55
   thetvdb_season_episode: S13E25
@@ -3967,6 +3971,7 @@ episodes:
   imdb_episode_id: tt25830670
   youtube_video_id: vPLT2RVso_Y
 - title: Pythons - Invasion in Florida
+  alias: Florida, Invasion der Pythons
   air_date: '2016-07-16'
   duration: 55
   thetvdb_season_episode: S18E12
@@ -4230,6 +4235,7 @@ episodes:
   imdb_episode_id: tt21916070
   youtube_video_id: H8MxGlRHRHA
 - title: Kuba - Meister der Drehorgeln
+  alias: Kuba, der Dreh mit der Orgel
   air_date: '2017-08-06'
   duration: 55
   thetvdb_season_episode: S19E14
@@ -5364,6 +5370,7 @@ episodes:
   fernsehserien_episode_id: 1528457
   youtube_video_id: s9UPirsiFbA
 - title: Haute Couture - Federn, Falten, Seidenblumen
+  alias: Federn, Falten, Seidenblumen - Die Geheimnisse der Haute Couture
   air_date: '2022-02-05'
   duration: 32
   thetvdb_season_episode: S24E05
@@ -5437,6 +5444,7 @@ episodes:
   imdb_episode_id: tt20231988
   youtube_video_id: jp5BDv9KCzY
 - title: Frankreichs Gärten - Die kleinen Schätze
+  alias: Die kleinen Schätze in Frankreichs Gärten
   air_date: '2022-05-21'
   duration: 32
   thetvdb_season_episode: S24E12
@@ -5469,6 +5477,7 @@ episodes:
   imdb_episode_id: tt21030816
   youtube_video_id: kyrHUKDiyck
 - title: Kastiliens Kämpfer - Ritterspiele an der Burg Belmonte
+  alias: Ganz ritterlich - Kastiliens Kämpfer
   air_date: '2022-06-18'
   duration: 32
   thetvdb_season_episode: S24E15
