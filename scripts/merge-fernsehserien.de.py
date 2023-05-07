@@ -51,7 +51,7 @@ def normalize_title(title: str) -> str:
 if __name__ == "__main__":
     fernsehserien = parseXML("fernsehserien.de.xml")
 
-    data = _lib.load()
+    episode_data = _lib.load()
 
     for e in fernsehserien:
         src = str(e["title"])
@@ -71,11 +71,11 @@ if __name__ == "__main__":
             episode["fernsehserien_episode_slug"] = str(e["slug"])
             episode["fernsehserien_episode_id"] = int(e["id"])
 
-            data["episodes"][index] = episode
+            episode_data["episodes"][index] = episode
 
         if normalize_title(src) != normalize_title(dest):
             print("s", src)
             print("d", dest)
             print()
 
-    _lib.write(data)
+    _lib.write(episode_data)

@@ -2,7 +2,7 @@
 
 import typing
 
-import _lib
+from _lib import geo_360 as geo
 
 """
 # 360-geo-reportage
@@ -22,49 +22,6 @@ https://docs.google.com/spreadsheets/d/1lL1KNkdH1Rz1BHug8OPVuFEWXzD3Ax1Q-00jBV55
 Quelle: https://www.fernsehserien.de/arte-360grad-reportage/episodenguide
 """
 
-geo = _lib.geo_360
-
-
-def format_air_date(episode: _lib.Episode) -> str:
-    if "air_date" not in episode or not episode["air_date"]:
-        return ""
-
-    return episode["air_date"]
-
-
-def format_thetvdb_link(episode: _lib.Episode) -> str:
-    if "thetvdb_episode_id" not in episode or "thetvdb_season_episode" not in episode:
-        return ""
-    base_url = geo.data["databases"]["thetvdb"]
-    id: int = episode["thetvdb_episode_id"]
-
-    url = f"{base_url}/episodes/{id}"
-    se = episode["thetvdb_season_episode"]
-    return f"[{se}]({url})"
-
-
-def format_imdb_link(episode: _lib.Episode) -> str:
-    if "imdb_episode_id" not in episode:
-        return ""
-    episode_id: str = episode["imdb_episode_id"]
-
-    url = f"https://www.imdb.com/title/{episode_id}"
-    return f"[{episode_id}]({url})"
-
-
-def format_fernsehserien_link(episode: _lib.Episode) -> str:
-    if (
-        "fernsehserien_episode_slug" not in episode
-        or "fernsehserien_episode_no" not in episode
-    ):
-        return ""
-    base_url = geo.data["databases"]["fernsehserien"]
-    slug: str = episode["fernsehserien_episode_slug"]
-
-    url = f"{base_url}/folgen/{slug}"
-    no = episode["fernsehserien_episode_no"]
-    return f"[{no}]({url})"
-
 
 def format_row(cells: list[typing.Any]):
     row = " | ".join(cells)
@@ -76,11 +33,11 @@ rows.append(format_row(["air_date", "title", "thetvdb", "imdb", "fernsehserien"]
 rows.append(format_row(["-", "-", "-", "-", "-"]))
 for episode in geo.episodes:
     row: list[str] = []
-    row.append(format_air_date(episode))
-    row.append(episode["title"])
-    row.append(format_thetvdb_link(episode))
-    row.append(format_imdb_link(episode))
-    row.append(format_fernsehserien_link(episode))
+    row.append(episode.air_date)
+    row.append(episode.title)
+    row.append(episode.thetvdb_link)
+    row.append(episode.imdb_link)
+    row.append(episode.fernsehserien_link)
     rows.append(format_row(row))
 
 

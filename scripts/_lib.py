@@ -8,7 +8,7 @@ import typing_extensions
 import yaml
 
 
-class Episode(typing.TypedDict):
+class EpisodeData(typing.TypedDict):
     title: str
     alias: str
     title_fr: str
@@ -26,9 +26,65 @@ class Episode(typing.TypedDict):
     index: typing_extensions.NotRequired[int]
 
 
-class GeoMetaData(typing.TypedDict):
-    episodes: list[Episode]
+class TvShowData(typing.TypedDict):
+    episodes: list[EpisodeData]
     databases: dict[str, str]
+
+
+class Episode:
+    data: EpisodeData
+    tv_show: TvShowData
+
+    def __init__(self, data: EpisodeData, tv_show: TvShowData) -> None:
+        self.data = data
+        self.tv_show = tv_show
+
+    @property
+    def title(self) -> str:
+        return self.data["title"]
+
+    @property
+    def air_date(self) -> str:
+        if "air_date" not in self.data or not self.data["air_date"]:
+            return ""
+        return self.data["air_date"]
+
+    @property
+    def thetvdb_link(self) -> str:
+        if (
+            "thetvdb_episode_id" not in self.data
+            or "thetvdb_season_episode" not in self.data
+        ):
+            return ""
+        base_url: str = self.tv_show["databases"]["thetvdb"]
+        id: int = self.data["thetvdb_episode_id"]
+
+        url: str = f"{base_url}/episodes/{id}"
+        se: str = self.data["thetvdb_season_episode"]
+        return f"[{se}]({url})"
+
+    @property
+    def imdb_link(self) -> str:
+        if "imdb_episode_id" not in self.data:
+            return ""
+        episode_id: str = self.data["imdb_episode_id"]
+
+        url: str = f"https://www.imdb.com/title/{episode_id}"
+        return f"[{episode_id}]({url})"
+
+    @property
+    def fernsehserien_link(self) -> str:
+        if (
+            "fernsehserien_episode_slug" not in self.data
+            or "fernsehserien_episode_no" not in self.data
+        ):
+            return ""
+        base_url: str = self.tv_show["databases"]["fernsehserien"]
+        slug: str = self.data["fernsehserien_episode_slug"]
+
+        url: str = f"{base_url}/folgen/{slug}"
+        no: int = self.data["fernsehserien_episode_no"]
+        return f"[{no}]({url})"
 
 
 YAML_FILENAME = "360-grad-reportage.yml"
@@ -54,8 +110,8 @@ def normalize_title(title: str) -> str:
     return title.lower()
 
 
-class Geo360:
-    data: GeoMetaData
+class TvShow:
+    data: TvShowData
 
     titles: dict[str, int]
 
@@ -74,14 +130,14 @@ class Geo360:
                 if "title_en" in episode:
                     self.titles[episode["title_en"]] = episode["index"]
 
-    def __load(self) -> GeoMetaData:
+    def __load(self) -> TvShowData:
         with open(YAML_FILENAME, "r") as y:
-            result: GeoMetaData = yaml.load(y, Loader=yaml.Loader)
+            result: TvShowData = yaml.load(y, Loader=yaml.Loader)
             return result
 
     def get_episode_by_title(
         self, title: str | None, debug: bool = False
-    ) -> Episode | None:
+    ) -> EpisodeData | None:
         if not title:
             return
         found: list[str] = difflib.get_close_matches(title, self.titles.keys(), n=1)
@@ -100,9 +156,17 @@ class Geo360:
         return episode
 
     @property
-    def episodes(self) -> list[Episode]:
+    def episodes_data(self) -> list[EpisodeData]:
         self.__add_indexes()
         return self.data["episodes"]
+
+    @property
+    def episodes(self) -> list[Episode]:
+        self.__add_indexes()
+        result: list[Episode] = []
+        for episode_data in self.episodes_data:
+            result.append(Episode(episode_data, self.data))
+        return result
 
     def __add_indexes(self) -> None:
         i: int = 0
@@ -115,7 +179,7 @@ class Geo360:
             del episode["index"]
 
     def reformat(self) -> None:
-        for old in self.episodes:
+        for old in self.episodes_data:
             episode: dict[str, str | int] = {
                 "title": old["title"],
                 "air_date": old["air_date"],
@@ -137,4 +201,4 @@ class Geo360:
         self.__write()
 
 
-geo_360 = Geo360()
+geo_360 = TvShow()
