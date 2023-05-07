@@ -103,6 +103,15 @@ class Geo360:
         for episode in self.data["episodes"]:
             del episode["index"]
 
+    def reformat(self) -> None:
+        for old in self.episodes:
+            episode: dict[str, str | int] = {
+                "title": old["title"],
+                "air_date": old["air_date"],
+            }
+            if "duration" in old and old["duration"]:
+                episode["duration"] = old["duration"]
+
     def export_to_json(self) -> None:
         self.__remove_indexes()
         with open("360-grad-reportage.json", "w") as j:
