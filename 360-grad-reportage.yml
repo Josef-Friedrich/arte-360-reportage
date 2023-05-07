@@ -4307,10 +4307,6 @@ episodes:
   fernsehserien_episode_slug: 458-kurt-und-seine-woelfe-1046379
   fernsehserien_episode_id: 1046379
   youtube_video_id: Khp3kDHWSdo
-- title: Die schwebenden Särge von Georgien
-  air_date: '2017-01-28'
-  thetvdb_episode_id: 7890795
-  youtube_video_id: -2OmrWF4YiQ
 - title: Pyrenäen - Ein Hirte zwischen Himmel und Erde
   air_date: '2017-01-28'
   duration: 55
@@ -4611,6 +4607,10 @@ episodes:
   fernsehserien_episode_slug: 489-kreta-die-suessen-fruechte-des-johannisbrotbaums-1175560
   fernsehserien_episode_id: 1175560
   youtube_video_id: rVaOPVPAC5Y
+- title: Die schwebenden Särge von Georgien
+  air_date: '2018-03-18'
+  thetvdb_episode_id: 7890795
+  youtube_video_id: -2OmrWF4YiQ
 - title: Der Hundeflüsterer der Queen
   air_date: '2018-03-25'
   duration: 55
@@ -5868,43 +5868,43 @@ episodes:
   thetvdb_season_episode: S25E07
   thetvdb_episode_id: 9524042
 - title: Albanien - Die Stimmen der Schäfer
-  air_date: '2023-02-18'
+  air_date: '2023-02-25'
   fernsehserien_episode_no: 612
   fernsehserien_episode_slug: 612-albanien-die-stimmen-der-schaefer-1618464
   fernsehserien_episode_id: 1618464
   imdb_episode_id: tt26898737
 - title: Laos - Futterblöcke und Büffel-Leasing
-  air_date: '2023-02-25'
+  air_date: '2023-03-04'
   fernsehserien_episode_no: 613
   fernsehserien_episode_slug: 613-laos-futterbloecke-und-bueffel-leasing-1620347
   fernsehserien_episode_id: 1620347
   imdb_episode_id: tt27005233
 - title: Freiheit auf Pferderücken - Der lange Weg der Nez Perce
-  air_date: '2023-03-04'
+  air_date: '2023-03-11'
   fernsehserien_episode_no: 614
   fernsehserien_episode_slug: 614-freiheit-auf-pferderuecken-der-lange-weg-der-nez-perce-1621705
   fernsehserien_episode_id: 1621705
   imdb_episode_id: tt27110800
 - title: Peloponnes - Rückkehr zur Erde
   alias: Peloponnes - Die Pioniere des Waldgartens
-  air_date: '2023-03-11'
+  air_date: '2023-03-18'
   fernsehserien_episode_no: 615
   fernsehserien_episode_slug: 615-peloponnes-rueckkehr-zur-erde-1623768
   fernsehserien_episode_id: 1623768
   imdb_episode_id: tt27170463
 - title: Handgemacht in Laos - Rares aus Rattan
-  air_date: '2023-03-18'
+  air_date: '2023-03-25'
   fernsehserien_episode_no: 616
   fernsehserien_episode_slug: 616-handgemacht-in-laos-rares-aus-rattan-1625195
   fernsehserien_episode_id: 1625195
   imdb_episode_id: tt27252897
 - title: Leben mit dem Tod - Ahnenkult auf Sulawesi
-  air_date: '2023-04-29'
+  air_date: '2023-05-06'
   fernsehserien_episode_no: 617
   fernsehserien_episode_slug: 617-leben-mit-dem-tod-ahnenkult-auf-sulawesi-1634635
   fernsehserien_episode_id: 1634635
 - title: Die Waschbären von Berlin
-  air_date: '2023-05-13'
+  air_date: '2023-05-20'
   fernsehserien_episode_no: 618
   fernsehserien_episode_slug: 618-die-waschbaeren-von-berlin-1640104
   fernsehserien_episode_id: 1640104
