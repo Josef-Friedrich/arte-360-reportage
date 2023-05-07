@@ -1,6 +1,7 @@
 import difflib
 import json
 import typing
+import re
 
 import termcolor
 import typing_extensions
@@ -21,6 +22,7 @@ class Episode(typing.TypedDict):
     fernsehserien_episode_slug: str
     fernsehserien_episode_id: int
     imdb_episode_id: str
+    youtube_video_id: str
     index: typing_extensions.NotRequired[int]
 
 
@@ -35,6 +37,14 @@ YAML_FILENAME = "360-grad-reportage.yml"
 def read_text_file(file_path: str) -> str:
     with open(file_path, "r") as f:
         return f.read()
+
+
+def clean_title(title: str) -> str:
+    title = title.replace("–", "-")
+    title = re.sub(r" *\(.+\) *", " ", title)
+    title = title.strip()
+    title = re.sub(r"  +", " ", title)
+    return title
 
 
 def normalize_title(title: str) -> str:

@@ -8,7 +8,11 @@
 import json
 import pathlib
 
+import _lib
+
 from googleapiclient.discovery import build
+
+from _lib import geo_360
 
 # ansible role y/youtube-dl
 p = pathlib.Path.home() / ".youtube-api.json"
@@ -63,7 +67,25 @@ if __name__ == "__main__":
     videos = fetch_all_youtube_videos("PLAocIS-jUf43CkOnsymOxHihGWKfCkUDC")
     print(json.dumps(videos, indent=2))
 
-    for video in videos["items"]:
-        print(video["snippet"]["title"])
-        print(video["snippet"]["resourceId"]["videoId"])
-        print(video["snippet"]["description"])
+    if "items" in videos:
+        for video in videos["items"]:
+            if "snippet" in video:
+                snippet = video['snippet']
+                if "title" in snippet:
+                    title: str = snippet["title"]
+                    if title == "Private video":
+                        continue
+                    print(title, _lib.clean_title(title))
+
+                    if "resourceId" in snippet and "videoId" in snippet["resourceId"]:
+                        video_id = snippet["resourceId"]["videoId"]
+
+                        episode = geo_360.get_episode_by_title(title)
+                        if episode:
+                            episode["youtube_video_id"] = video_id
+
+
+
+        geo_360.save()
+                ##print(video["snippet"]["resourceId"]["videoId"])
+                # print(video["snippet"]["description"])
