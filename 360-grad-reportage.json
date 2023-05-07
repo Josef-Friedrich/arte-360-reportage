@@ -1652,13 +1652,15 @@
     },
     {
       "title": "Das Parlament der Kinder",
+      "alias": "Das Kinderparlament von Rajasthan",
       "air_date": "2004-07-10",
       "duration": 55,
       "thetvdb_season_episode": "S06E07",
       "thetvdb_episode_id": 4642026,
       "fernsehserien_episode_no": 158,
       "fernsehserien_episode_slug": "158-das-parlament-der-kinder-339433",
-      "fernsehserien_episode_id": 339433
+      "fernsehserien_episode_id": 339433,
+      "youtube_video_id": "1I5rUoMUmwA"
     },
     {
       "title": "Die Bogenschützin von Bhutan",
@@ -1752,6 +1754,7 @@
     },
     {
       "title": "Der Polarflieger - Ein Pilot in Sibirien",
+      "alias": "Der Polarflieger",
       "air_date": "2004-11-20",
       "duration": 55,
       "thetvdb_season_episode": "S06E16",
@@ -1835,7 +1838,8 @@
       "thetvdb_episode_id": 4642149,
       "fernsehserien_episode_no": 174,
       "fernsehserien_episode_slug": "174-der-wuestendoktor-339501",
-      "fernsehserien_episode_id": 339501
+      "fernsehserien_episode_id": 339501,
+      "youtube_video_id": "FxPvLeQmgok"
     },
     {
       "title": "Die Kichwa-Krieger und das Öl",
@@ -1899,7 +1903,8 @@
       "fernsehserien_episode_no": 179,
       "fernsehserien_episode_slug": "179-vagabunden-der-wueste-kamelzuechter-in-der-mongolei-339512",
       "fernsehserien_episode_id": 339512,
-      "imdb_episode_id": "tt2108676"
+      "imdb_episode_id": "tt2108676",
+      "youtube_video_id": "TYNNyF65mvY"
     },
     {
       "title": "Die Mutter der Bonobos",
@@ -2151,7 +2156,8 @@
       "thetvdb_episode_id": 4642179,
       "fernsehserien_episode_no": 201,
       "fernsehserien_episode_slug": "201-die-daecher-von-kairo-339672",
-      "fernsehserien_episode_id": 339672
+      "fernsehserien_episode_id": 339672,
+      "youtube_video_id": "6rS22dz6_7o"
     },
     {
       "title": "Die Trommler von Burundi",
@@ -2363,7 +2369,8 @@
       "thetvdb_episode_id": 4642217,
       "fernsehserien_episode_no": 220,
       "fernsehserien_episode_slug": "220-die-krabbenflut-339704",
-      "fernsehserien_episode_id": 339704
+      "fernsehserien_episode_id": 339704,
+      "youtube_video_id": "Unop9XcUC7g"
     },
     {
       "title": "Thailand: Kinder im Ring",
@@ -2458,6 +2465,7 @@
     },
     {
       "title": "Postbote im Himalaya - Arbeit in 4000 Meter Höhe",
+      "alias": "Postbote im Himalaya",
       "air_date": "2007-12-01",
       "duration": 55,
       "thetvdb_season_episode": "S09E22",
@@ -2465,7 +2473,8 @@
       "fernsehserien_episode_no": 229,
       "fernsehserien_episode_slug": "229-postbote-im-himalaya-339716",
       "fernsehserien_episode_id": 339716,
-      "imdb_episode_id": "tt6941802"
+      "imdb_episode_id": "tt6941802",
+      "youtube_video_id": "VHEpd2C1GvQ"
     },
     {
       "title": "Wenzhou, die Schuh-Stadt von China",
@@ -2975,7 +2984,8 @@
       "fernsehserien_episode_no": 274,
       "fernsehserien_episode_slug": "274-das-salz-der-inka-339753",
       "fernsehserien_episode_id": 339753,
-      "imdb_episode_id": "tt2077916"
+      "imdb_episode_id": "tt2077916",
+      "youtube_video_id": "RUfLIGurIAE"
     },
     {
       "title": "Die Holzfäller von British Columbia",
@@ -3313,7 +3323,8 @@
       "fernsehserien_episode_no": 304,
       "fernsehserien_episode_slug": "304-der-affenfluesterer-339972",
       "fernsehserien_episode_id": 339972,
-      "imdb_episode_id": "tt2160477"
+      "imdb_episode_id": "tt2160477",
+      "youtube_video_id": "tsXjqdQkSio"
     },
     {
       "title": "Sardinien: Stolz und Ehre hoch zu Ross",
@@ -3568,13 +3579,15 @@
     },
     {
       "title": "Aserbaidschans fahrende Hochzeitmusikanten",
+      "alias": "Mit dem Wanderbarden durch Aserbaidschan",
       "air_date": "2011-11-12",
       "duration": 55,
       "thetvdb_season_episode": "S13E25",
       "thetvdb_episode_id": 4642555,
       "fernsehserien_episode_no": 327,
       "fernsehserien_episode_slug": "327-aserbaidschans-fahrende-hochzeitmusikanten-339993",
-      "fernsehserien_episode_id": 339993
+      "fernsehserien_episode_id": 339993,
+      "youtube_video_id": "ikwsm25rULY"
     },
     {
       "title": "Florenz - Fußball bis aufs Blut",
@@ -4003,7 +4016,8 @@
       "fernsehserien_air_date": "2013-07-06",
       "fernsehserien_episode_no": 365,
       "fernsehserien_episode_slug": "365-radio-patagonia-514392",
-      "fernsehserien_episode_id": 514392
+      "fernsehserien_episode_id": 514392,
+      "youtube_video_id": "xWorOwWPUMg"
     },
     {
       "title": "Die Polarbahn",
@@ -4014,7 +4028,8 @@
       "fernsehserien_episode_no": 366,
       "fernsehserien_episode_slug": "366-die-polarbahn-532546",
       "fernsehserien_episode_id": 532546,
-      "imdb_episode_id": "tt16606786"
+      "imdb_episode_id": "tt16606786",
+      "youtube_video_id": "VJ6JS8MWo9Y"
     },
     {
       "title": "Das Koala-Hospital",
@@ -4658,7 +4673,8 @@
       "fernsehserien_episode_no": 423,
       "fernsehserien_episode_slug": "423-italien-hochzeit-auf-neapolitanisch-786746",
       "fernsehserien_episode_id": 786746,
-      "imdb_episode_id": "tt15108654"
+      "imdb_episode_id": "tt15108654",
+      "youtube_video_id": "tuCZYYFJHLM"
     },
     {
       "title": "Yoga, Indiens erstaunliche Medizin",
@@ -4715,7 +4731,8 @@
       "fernsehserien_episode_no": 428,
       "fernsehserien_episode_slug": "428-die-bergfuehrer-von-chamonix-794734",
       "fernsehserien_episode_id": 794734,
-      "imdb_episode_id": "tt15277042"
+      "imdb_episode_id": "tt15277042",
+      "youtube_video_id": "l7mRLjiZ1Tw"
     },
     {
       "title": "Polen, Winter in den Waldkarpaten",
@@ -4782,7 +4799,8 @@
       "thetvdb_episode_id": 5535287,
       "fernsehserien_episode_no": 434,
       "fernsehserien_episode_slug": "434-cocos-island-paradies-fuer-haie-807567",
-      "fernsehserien_episode_id": 807567
+      "fernsehserien_episode_id": 807567,
+      "youtube_video_id": "A-aSNeoHaGI"
     },
     {
       "title": "Insekten - Unser Speiseplan für morgen?",
@@ -4854,6 +4872,7 @@
     },
     {
       "title": "Pythons - Invasion in Florida",
+      "alias": "Florida, Invasion der Pythons",
       "air_date": "2016-07-16",
       "duration": 55,
       "thetvdb_season_episode": "S18E12",
@@ -4861,7 +4880,8 @@
       "fernsehserien_episode_no": 441,
       "fernsehserien_episode_slug": "441-python-invasion-in-florida-940658",
       "fernsehserien_episode_id": 940658,
-      "imdb_episode_id": "tt27428146"
+      "imdb_episode_id": "tt27428146",
+      "youtube_video_id": "VMQIqDPSNHw"
     },
     {
       "title": "Amas Welt - Das neue Ghana",
@@ -4894,7 +4914,8 @@
       "fernsehserien_episode_no": 444,
       "fernsehserien_episode_slug": "444-die-cook-islands-welcome-to-paradise-985202",
       "fernsehserien_episode_id": 985202,
-      "imdb_episode_id": "tt26422173"
+      "imdb_episode_id": "tt26422173",
+      "youtube_video_id": "0Hn3y3DIcl4"
     },
     {
       "title": "Norwegen - Försterinnen auf dem Vormarsch",
@@ -5079,7 +5100,8 @@
       "fernsehserien_episode_no": 460,
       "fernsehserien_episode_slug": "460-zauberhafte-mosel-1048643",
       "fernsehserien_episode_id": 1048643,
-      "imdb_episode_id": "tt22478580"
+      "imdb_episode_id": "tt22478580",
+      "youtube_video_id": "fHHJoYzQuz8"
     },
     {
       "title": "Der Kosakenpriester vom Don",
@@ -5175,13 +5197,15 @@
     },
     {
       "title": "Kuba - Meister der Drehorgeln",
+      "alias": "Kuba, der Dreh mit der Orgel",
       "air_date": "2017-08-06",
       "duration": 55,
       "thetvdb_season_episode": "S19E14",
       "thetvdb_episode_id": 6241979,
       "fernsehserien_episode_no": 469,
       "fernsehserien_episode_slug": "469-kuba-meister-der-drehorgeln-1106449",
-      "fernsehserien_episode_id": 1106449
+      "fernsehserien_episode_id": 1106449,
+      "youtube_video_id": "tnpfneRKHxY"
     },
     {
       "title": "Sri Lanka - Eine legendäre Eisenbahnstrecke",
@@ -6079,7 +6103,8 @@
       "fernsehserien_episode_no": 545,
       "fernsehserien_episode_slug": "545-huskys-am-start-1384225",
       "fernsehserien_episode_id": 1384225,
-      "imdb_episode_id": "tt17077618"
+      "imdb_episode_id": "tt17077618",
+      "youtube_video_id": "3XyG82_dG-0"
     },
     {
       "title": "Schignano, ein uralter Karneval in Italiens Bergen",
@@ -6541,6 +6566,7 @@
     },
     {
       "title": "Haute Couture - Federn, Falten, Seidenblumen",
+      "alias": "Federn, Falten, Seidenblumen - Die Geheimnisse der Haute Couture",
       "air_date": "2022-02-05",
       "duration": 32,
       "thetvdb_season_episode": "S24E05",
@@ -6548,7 +6574,8 @@
       "fernsehserien_episode_no": 583,
       "fernsehserien_episode_slug": "583-haute-couture-federn-falten-seidenblumen-1531089",
       "fernsehserien_episode_id": 1531089,
-      "imdb_episode_id": "tt18228046"
+      "imdb_episode_id": "tt18228046",
+      "youtube_video_id": "2MTSdkn22a4"
     },
     {
       "title": "Die Odyssee der Mönchsrobbe",
@@ -6611,7 +6638,8 @@
       "fernsehserien_air_date": "2022-04-30",
       "fernsehserien_episode_no": 588,
       "fernsehserien_episode_slug": "588-suedkorea-die-nonne-der-tempelkueche-1557485",
-      "fernsehserien_episode_id": 1557485
+      "fernsehserien_episode_id": 1557485,
+      "youtube_video_id": "if6OhSEjkxM"
     },
     {
       "title": "Schwerelos im Windkanal",
@@ -6628,6 +6656,7 @@
     },
     {
       "title": "Frankreichs Gärten - Die kleinen Schätze",
+      "alias": "Die kleinen Schätze in Frankreichs Gärten",
       "air_date": "2022-05-21",
       "duration": 32,
       "thetvdb_season_episode": "S24E12",
@@ -6636,7 +6665,8 @@
       "fernsehserien_episode_no": 590,
       "fernsehserien_episode_slug": "590-frankreichs-gaerten-die-kleinen-schaetze-1553064",
       "fernsehserien_episode_id": 1553064,
-      "imdb_episode_id": "tt20190184"
+      "imdb_episode_id": "tt20190184",
+      "youtube_video_id": "6eWUfGWASTA"
     },
     {
       "title": "Europas Urwälder - Ein Schatz der Natur",
@@ -6666,6 +6696,7 @@
     },
     {
       "title": "Kastiliens Kämpfer - Ritterspiele an der Burg Belmonte",
+      "alias": "Ganz ritterlich - Kastiliens Kämpfer",
       "air_date": "2022-06-18",
       "duration": 32,
       "thetvdb_season_episode": "S24E15",
@@ -6674,7 +6705,8 @@
       "fernsehserien_episode_no": 593,
       "fernsehserien_episode_slug": "593-kastiliens-kaempfer-ritterspiele-an-der-burg-belmonte-1560073",
       "fernsehserien_episode_id": 1560073,
-      "imdb_episode_id": "tt21073772"
+      "imdb_episode_id": "tt21073772",
+      "youtube_video_id": "wZgpqRaV7Ik"
     },
     {
       "title": "Nopal, der Alleskönner aus Mexiko",
@@ -6793,7 +6825,8 @@
       "fernsehserien_episode_no": 603,
       "fernsehserien_episode_slug": "603-cordoba-die-stadt-der-patios-1602011",
       "fernsehserien_episode_id": 1602011,
-      "imdb_episode_id": "tt23368470"
+      "imdb_episode_id": "tt23368470",
+      "youtube_video_id": "XrEtMdxF76c"
     },
     {
       "title": "Marquesas-Inseln, das Comeback der Tattoos",

@@ -31,9 +31,8 @@ def merge(playlist_items: typing.Any):
                         if episode:
                             episode["youtube_video_id"] = video_id
 
-    ## geo_360.save()
-    ##print(video["snippet"]["resourceId"]["videoId"])
-    # print(video["snippet"]["description"])
+        geo_360.save()
+
 
 merge(fetch_videos_by_channel("UC4W-JsjRBsAvE6DZGOc8LGw"))
 merge(fetch_videos_by_playlist("PLAocIS-jUf43CkOnsymOxHihGWKfCkUDC"))
