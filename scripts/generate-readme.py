@@ -21,7 +21,7 @@ https://docs.google.com/spreadsheets/d/1lL1KNkdH1Rz1BHug8OPVuFEWXzD3Ax1Q-00jBV55
 Quelle: https://www.fernsehserien.de/arte-360grad-reportage/episodenguide
 """
 
-result = _lib.load()
+geo = _lib.geo_360
 
 
 def format_air_date(episode: _lib.Episode) -> str:
@@ -34,7 +34,7 @@ def format_air_date(episode: _lib.Episode) -> str:
 def format_thetvdb_link(episode: _lib.Episode) -> str:
     if "thetvdb_episode_id" not in episode or "thetvdb_season_episode" not in episode:
         return ""
-    base_url = result["databases"]["thetvdb"]
+    base_url = geo.data["databases"]["thetvdb"]
     id: int = episode["thetvdb_episode_id"]
 
     url = f"{base_url}/episodes/{id}"
@@ -57,7 +57,7 @@ def format_fernsehserien_link(episode: _lib.Episode) -> str:
         or "fernsehserien_episode_no" not in episode
     ):
         return ""
-    base_url = result["databases"]["fernsehserien"]
+    base_url = geo.data["databases"]["fernsehserien"]
     slug: str = episode["fernsehserien_episode_slug"]
 
     url = f"{base_url}/folgen/{slug}"
@@ -73,7 +73,7 @@ def format_row(cells: list[typing.Any]):
 rows: list[str] = []
 rows.append(format_row(["air_date", "title", "thetvdb", "imdb", "fernsehserien"]))
 rows.append(format_row(["-", "-", "-", "-", "-"]))
-for episode in result["episodes"]:
+for episode in geo.episodes:
     row: list[str] = []
     row.append(format_air_date(episode))
     row.append(episode["title"])

@@ -28,31 +28,7 @@ class GeoMetaData(typing.TypedDict):
     databases: dict[str, str]
 
 
-geo: GeoMetaData | None = None
-
 YAML_FILENAME = "360-grad-reportage.yml"
-
-
-def load() -> GeoMetaData:
-    global geo
-    if geo:
-        return geo
-    with open(YAML_FILENAME, "r") as y:
-        result: GeoMetaData = yaml.load(y, Loader=yaml.Loader)
-
-        i: int = 0
-        for episode in result["episodes"]:
-            episode["index"] = i
-
-            i += 1
-
-        geo = result
-        return result
-
-
-def write(geo: GeoMetaData) -> None:
-    with open(YAML_FILENAME, "w") as y:
-        yaml.dump(geo, stream=y, allow_unicode=True, sort_keys=False)
 
 
 def read_text_file(file_path: str) -> str:
@@ -73,7 +49,8 @@ class Geo360:
     titles: dict[str, int]
 
     def __init__(self) -> None:
-        self.data = load()
+        self.data = self.__load()
+        self.__add_indexes()
 
         self.titles = {}
         for episode in self.data["episodes"]:
@@ -85,6 +62,11 @@ class Geo360:
                     self.titles[episode["title_fr"]] = episode["index"]
                 if "title_en" in episode:
                     self.titles[episode["title_en"]] = episode["index"]
+
+    def __load(self) -> GeoMetaData:
+        with open(YAML_FILENAME, "r") as y:
+            result: GeoMetaData = yaml.load(y, Loader=yaml.Loader)
+            return result
 
     def get_episode_by_title(
         self, title: str | None, debug: bool = False
@@ -106,18 +88,33 @@ class Geo360:
 
         return episode
 
-    def normalize(self):
+    @property
+    def episodes(self) -> list[Episode]:
+        self.__add_indexes()
+        return self.data["episodes"]
+
+    def __add_indexes(self) -> None:
+        i: int = 0
+        for episode in self.data["episodes"]:
+            episode["index"] = i
+            i += 1
+
+    def __remove_indexes(self) -> None:
         for episode in self.data["episodes"]:
             del episode["index"]
 
-    def export_to_json(self):
-        self.normalize()
+    def export_to_json(self) -> None:
+        self.__remove_indexes()
         with open("360-grad-reportage.json", "w") as j:
             json.dump(self.data, fp=j, indent=2, ensure_ascii=False)
 
+    def __write(self) -> None:
+        with open(YAML_FILENAME, "w") as y:
+            yaml.dump(self.data, stream=y, allow_unicode=True, sort_keys=False)
+
     def save(self) -> None:
-        self.normalize()
-        write(self.data)
+        self.__remove_indexes()
+        self.__write()
 
 
 geo_360 = Geo360()
