@@ -1,6 +1,7 @@
 import yaml
 import typing
 import difflib
+import termcolor
 
 
 class Episode(typing.TypedDict):
@@ -40,6 +41,11 @@ def write(geo: Geo) -> None:
         yaml.dump(geo, stream=y, allow_unicode=True, sort_keys=False)
 
 
+def read_text_file(file_path: str) -> str:
+    with open(file_path, "r") as f:
+        return f.read()
+
+
 geo = load()
 
 titles: list[str] = []
@@ -47,12 +53,30 @@ for episode in geo["episodes"]:
     titles.append(episode["title"])
 
 
-def get_episode_by_title(title: str | None) -> Episode | None:
+def normalize_title(title: str) -> str:
+    title = title.replace(", ", " ")
+    title = title.replace(": ", " ")
+    title = title.replace(" - ", " ")
+    return title.lower()
+
+
+def get_episode_by_title(title: str | None, debug: bool = False) -> Episode | None:
     if not title:
         return
     match: list[str] = difflib.get_close_matches(title, titles, n=1)
+    episode = None
     if len(match) > 0:
-        return geo["episodes"][titles.index(match[0])]
+        episode = geo["episodes"][titles.index(match[0])]
+
+    if debug:
+        if not episode:
+            print(f"No match found for: {termcolor.colored(title, color='red')}")
+        elif normalize_title(title) != normalize_title(episode["title"]):
+            print(
+                f"{termcolor.colored(title, color='yellow')} <> {termcolor.colored(episode['title'], color='blue')}"
+            )
+
+    return episode
 
 
 def get_episode_index_by_title(title: str) -> int:
