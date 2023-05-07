@@ -3,6 +3,7 @@ import typing
 import difflib
 import termcolor
 import typing_extensions
+import json
 
 
 class Episode(typing.TypedDict):
@@ -105,10 +106,17 @@ class Geo360:
 
         return episode
 
-    def save(self) -> None:
+    def normalize(self):
         for episode in self.data["episodes"]:
             del episode["index"]
 
+    def export_to_json(self):
+        self.normalize()
+        with open("360-grad-reportage.json", "w") as j:
+            json.dump(self.data, fp=j, indent=2, ensure_ascii=False)
+
+    def save(self) -> None:
+        self.normalize()
         write(self.data)
 
 
