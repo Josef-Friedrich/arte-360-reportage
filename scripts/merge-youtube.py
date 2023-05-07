@@ -41,24 +41,27 @@ def fetch_all_youtube_videos(playlistId: str):
         .execute()
     )
 
-    nextPageToken = result.get("nextPageToken")
+    next_page_token = result.get("nextPageToken")
     while "nextPageToken" in result:
-        nextPage = (
+        if not next_page_token:
+            continue
+        next_page = (
             youtube.playlistItems()
             .list(
                 part="snippet",
                 playlistId=playlistId,
                 maxResults=50,
-                pageToken=nextPageToken,
+                pageToken=next_page_token,
             )
             .execute()
         )
-        result["items"] = result["items"] + nextPage["items"]
+        if "items" in result and "items" in next_page:
+            result["items"] = result["items"] + next_page["items"]
 
-        if "nextPageToken" not in nextPage:
+        if "nextPageToken" not in next_page:
             result.pop("nextPageToken", None)
         else:
-            nextPageToken = nextPage["nextPageToken"]
+            next_page_token = next_page["nextPageToken"]
 
     return result
 
@@ -70,7 +73,7 @@ if __name__ == "__main__":
     if "items" in videos:
         for video in videos["items"]:
             if "snippet" in video:
-                snippet = video['snippet']
+                snippet = video["snippet"]
                 if "title" in snippet:
                     title: str = snippet["title"]
                     if title == "Private video":
@@ -84,8 +87,6 @@ if __name__ == "__main__":
                         if episode:
                             episode["youtube_video_id"] = video_id
 
-
-
         geo_360.save()
-                ##print(video["snippet"]["resourceId"]["videoId"])
-                # print(video["snippet"]["description"])
+        ##print(video["snippet"]["resourceId"]["videoId"])
+        # print(video["snippet"]["description"])
