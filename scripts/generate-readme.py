@@ -42,6 +42,15 @@ def format_thetvdb_link(episode: _lib.Episode) -> str:
     return f"[{se}]({url})"
 
 
+def format_imdb_link(episode: _lib.Episode) -> str:
+    if "imdb_episode_id" not in episode:
+        return ""
+    episode_id: str = episode["imdb_episode_id"]
+
+    url = f"https://www.imdb.com/title/{episode_id}"
+    return f"[{episode_id}]({url})"
+
+
 def format_fernsehserien_link(episode: _lib.Episode) -> str:
     if (
         "fernsehserien_episode_slug" not in episode
@@ -62,15 +71,15 @@ def format_row(cells: list[typing.Any]):
 
 
 rows: list[str] = []
-rows.append(format_row(["air_date", "title", "thetvdb", "fernsehserien"]))
-rows.append(format_row(["-", "-", "-", "-"]))
+rows.append(format_row(["air_date", "title", "thetvdb", "imdb", "fernsehserien"]))
+rows.append(format_row(["-", "-", "-", "-", "-"]))
 for episode in result["episodes"]:
     row: list[str] = []
     row.append(format_air_date(episode))
     row.append(episode["title"])
     row.append(format_thetvdb_link(episode))
+    row.append(format_imdb_link(episode))
     row.append(format_fernsehserien_link(episode))
-
     rows.append(format_row(row))
 
 

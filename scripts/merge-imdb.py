@@ -6,9 +6,6 @@ import _lib
 
 imdb = _lib.read_text_file("imdb.html")
 
-data = _lib.load()
-
-
 for found in re.finditer(
     r"<a href=\"/title/(.*?)/.*\".*itemprop=\"name\">(.*)</a>", imdb
 ):
@@ -18,3 +15,5 @@ for found in re.finditer(
     episode = _lib.geo_360.get_episode_by_title(title, debug=True)
     if episode:
         episode["imdb_episode_id"] = episode_id
+
+_lib.geo_360.save()

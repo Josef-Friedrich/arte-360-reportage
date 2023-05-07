@@ -2,6 +2,7 @@ import yaml
 import typing
 import difflib
 import termcolor
+import typing_extensions
 
 
 class Episode(typing.TypedDict):
@@ -18,7 +19,7 @@ class Episode(typing.TypedDict):
     fernsehserien_episode_slug: str
     fernsehserien_episode_id: int
     imdb_episode_id: str
-    index: int
+    index: typing_extensions.NotRequired[int]
 
 
 class GeoMetaData(typing.TypedDict):
@@ -75,13 +76,14 @@ class Geo360:
 
         self.titles = {}
         for episode in self.data["episodes"]:
-            self.titles[episode["title"]] = episode["index"]
-            if "alias" in episode:
-                self.titles[episode["alias"]] = episode["index"]
-            if "title_fr" in episode:
-                self.titles[episode["title_fr"]] = episode["index"]
-            if "title_en" in episode:
-                self.titles[episode["title_en"]] = episode["index"]
+            if "index" in episode:
+                self.titles[episode["title"]] = episode["index"]
+                if "alias" in episode:
+                    self.titles[episode["alias"]] = episode["index"]
+                if "title_fr" in episode:
+                    self.titles[episode["title_fr"]] = episode["index"]
+                if "title_en" in episode:
+                    self.titles[episode["title_en"]] = episode["index"]
 
     def get_episode_by_title(
         self, title: str | None, debug: bool = False
@@ -104,6 +106,9 @@ class Geo360:
         return episode
 
     def save(self) -> None:
+        for episode in self.data["episodes"]:
+            del episode["index"]
+
         write(self.data)
 
 

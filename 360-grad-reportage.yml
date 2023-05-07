@@ -46,6 +46,7 @@ episodes:
   fernsehserien_episode_no: 5
   fernsehserien_episode_slug: 5-weibs-bilder-die-maechtigen-frauen-von-juchitan-339120
   fernsehserien_episode_id: 339120
+  imdb_episode_id: tt3369154
 - title: 'Weibs-Bilder: Hazeras Geschäfte'
   air_date: '1999-02-02'
   duration: 55
@@ -390,6 +391,7 @@ episodes:
   fernsehserien_episode_no: 48
   fernsehserien_episode_slug: 48-spiele-des-lebens-spielplatz-natur-339165
   fernsehserien_episode_id: 339165
+  imdb_episode_id: tt1007057
 - title: 'Die Schatzjäger: Beruf Grabräuber'
   air_date: '2000-03-06'
   duration: 55
@@ -544,6 +546,7 @@ episodes:
   fernsehserien_episode_no: 67
   fernsehserien_episode_slug: 67-die-geheimnisse-des-waldes-chinas-gruene-mauer-339346
   fernsehserien_episode_id: 339346
+  imdb_episode_id: tt1007044
 - title: 'Die Geheimnisse des Waldes: Die Waldfabrik'
   air_date: '2000-10-05'
   duration: 55
@@ -561,6 +564,7 @@ episodes:
   fernsehserien_episode_no: 69
   fernsehserien_episode_slug: 69-leben-am-limit-grenzen-des-koerpers-himalaja-toedliche-hoehe-339348
   fernsehserien_episode_id: 339348
+  imdb_episode_id: tt1007053
 - title: 'Leben am Limit / Grenzen des Körpers: Apnoe-Taucher - Im Tiefenrausch'
   air_date: '2000-11-07'
   duration: 55
@@ -691,6 +695,7 @@ episodes:
   fernsehserien_episode_no: 85
   fernsehserien_episode_slug: 85-operation-alpentunnel-339367
   fernsehserien_episode_id: 339367
+  imdb_episode_id: tt1007056
 - title: Brücke in den Orient
   air_date: '2001-04-10'
   duration: 55
@@ -699,6 +704,7 @@ episodes:
   fernsehserien_episode_no: 86
   fernsehserien_episode_slug: 86-bruecke-in-den-orient-339368
   fernsehserien_episode_id: 339368
+  imdb_episode_id: tt1007042
 - title: Die letzten Nixen - die Taucherinnen von Cheju
   air_date: '2001-04-11'
   duration: 55
@@ -715,6 +721,7 @@ episodes:
   fernsehserien_episode_no: 88
   fernsehserien_episode_slug: 88-die-fischer-vom-rio-negro-339403
   fernsehserien_episode_id: 339403
+  imdb_episode_id: tt1007049
 - title: Anatomie einer Lawine
   air_date: '2001-04-30'
   duration: 55
@@ -723,6 +730,7 @@ episodes:
   fernsehserien_episode_no: 89
   fernsehserien_episode_slug: 89-anatomie-einer-lawine-339407
   fernsehserien_episode_id: 339407
+  imdb_episode_id: tt1007041
 - title: Die Erbin Gandhis - Widerstand gegen einen Staudamm
   alias: Die Erben Gandhis
   air_date: '2001-05-01'
@@ -732,6 +740,7 @@ episodes:
   fernsehserien_episode_no: 90
   fernsehserien_episode_slug: 90-die-erbin-gandhis-widerstand-gegen-einen-staudamm-339408
   fernsehserien_episode_id: 339408
+  imdb_episode_id: tt1007047
 - title: Die Spur der Wüstenkrokodile
   air_date: '2001-05-02'
   duration: 55
@@ -740,6 +749,7 @@ episodes:
   fernsehserien_episode_no: 91
   fernsehserien_episode_slug: 91-die-spur-der-wuestenkrokodile-339409
   fernsehserien_episode_id: 339409
+  imdb_episode_id: tt1007050
 - title: Invasion der Biber
   air_date: '2001-05-03'
   duration: 55
@@ -748,6 +758,7 @@ episodes:
   fernsehserien_episode_no: 92
   fernsehserien_episode_slug: 92-invasion-der-biber-339410
   fernsehserien_episode_id: 339410
+  imdb_episode_id: tt1007054
 - title: Kumbh Mela - Das größte Fest der Welt
   air_date: '2001-06-04'
   duration: 55
@@ -756,6 +767,7 @@ episodes:
   fernsehserien_episode_no: 93
   fernsehserien_episode_slug: 93-kumbh-mela-das-groesste-fest-der-welt-339411
   fernsehserien_episode_id: 339411
+  imdb_episode_id: tt1007055
 - title: Buzkashi - Spiel der Steppenreiter
   air_date: '2001-06-05'
   duration: 55
@@ -764,6 +776,7 @@ episodes:
   fernsehserien_episode_no: 94
   fernsehserien_episode_slug: 94-buzkashi-spiel-der-steppenreiter-339413
   fernsehserien_episode_id: 339413
+  imdb_episode_id: tt1007043
 - title: Wasser im Tank
   air_date: '2001-06-06'
   duration: 55
@@ -772,6 +785,7 @@ episodes:
   fernsehserien_episode_no: 95
   fernsehserien_episode_slug: 95-wasser-im-tank-339414
   fernsehserien_episode_id: 339414
+  imdb_episode_id: tt1007059
 - title: Stau am Himmel
   air_date: '2001-06-07'
   duration: 55
@@ -780,6 +794,7 @@ episodes:
   fernsehserien_episode_no: 96
   fernsehserien_episode_slug: 96-stau-am-himmel-339415
   fernsehserien_episode_id: 339415
+  imdb_episode_id: tt1007058
 - title: Das Waisenhaus der Affen
   air_date: '2001-09-03'
   duration: 55
@@ -788,6 +803,7 @@ episodes:
   fernsehserien_episode_no: 97
   fernsehserien_episode_slug: 97-das-waisenhaus-der-affen-339416
   fernsehserien_episode_id: 339416
+  imdb_episode_id: tt1007045
 - title: Die Bisonwächter
   air_date: '2001-09-04'
   duration: 55
@@ -796,6 +812,7 @@ episodes:
   fernsehserien_episode_no: 98
   fernsehserien_episode_slug: 98-die-bisonwaechter-339418
   fernsehserien_episode_id: 339418
+  imdb_episode_id: tt1007046
 - title: Die Farm der Schmetterlinge
   air_date: '2001-09-05'
   duration: 55
@@ -804,6 +821,7 @@ episodes:
   fernsehserien_episode_no: 99
   fernsehserien_episode_slug: 99-die-farm-der-schmetterlinge-339419
   fernsehserien_episode_id: 339419
+  imdb_episode_id: tt1007048
 - title: Fährtensucher online
   air_date: '2001-09-06'
   duration: 55
@@ -812,6 +830,7 @@ episodes:
   fernsehserien_episode_no: 100
   fernsehserien_episode_slug: 100-faehrtensucher-online-339420
   fernsehserien_episode_id: 339420
+  imdb_episode_id: tt1007052
 - title: Nepals verkaufte Töchter
   air_date: '2001-10-01'
   duration: 55
@@ -820,6 +839,7 @@ episodes:
   fernsehserien_episode_no: 101
   fernsehserien_episode_slug: 101-nepals-verkaufte-toechter-339421
   fernsehserien_episode_id: 339421
+  imdb_episode_id: tt1042939
 - title: Die Stadt der Diamanten
   air_date: '2001-10-03'
   duration: 55
@@ -828,6 +848,7 @@ episodes:
   fernsehserien_episode_no: 102
   fernsehserien_episode_slug: 102-die-stadt-der-diamanten-339422
   fernsehserien_episode_id: 339422
+  imdb_episode_id: tt1042933
 - title: Gaucho auf Lebenszeit
   air_date: '2001-10-04'
   duration: 55
@@ -836,6 +857,7 @@ episodes:
   fernsehserien_episode_no: 103
   fernsehserien_episode_slug: 103-gaucho-auf-lebenszeit-339423
   fernsehserien_episode_id: 339423
+  imdb_episode_id: tt1042936
 - title: Der Großvater der Massai
   air_date: '2001-10-05'
   duration: 55
@@ -844,6 +866,7 @@ episodes:
   fernsehserien_episode_no: 104
   fernsehserien_episode_slug: 104-der-grossvater-der-massai-339424
   fernsehserien_episode_id: 339424
+  imdb_episode_id: tt1042926
 - title: Cunahá - Tod im Regenwald
   air_date: '2002-02-04'
   duration: 55
@@ -852,6 +875,7 @@ episodes:
   fernsehserien_episode_no: 105
   fernsehserien_episode_slug: 105-cunaha-tod-im-regenwald-339426
   fernsehserien_episode_id: 339426
+  imdb_episode_id: tt1042924
 - title: Walverwandtschaften
   air_date: '2002-02-05'
   duration: 55
@@ -860,6 +884,7 @@ episodes:
   fernsehserien_episode_no: 106
   fernsehserien_episode_slug: 106-walverwandtschaften-339427
   fernsehserien_episode_id: 339427
+  imdb_episode_id: tt1042945
 - title: Wildreis - Der grüne Schatz der kanadischen Ojibwa-Indianer
   alias: Der Reis des Manitu
   air_date: '2002-02-06'
@@ -869,6 +894,7 @@ episodes:
   fernsehserien_episode_no: 107
   fernsehserien_episode_slug: 107-wildreis-der-gruene-schatz-der-kanadischen-ojibwa-indianer-339428
   fernsehserien_episode_id: 339428
+  imdb_episode_id: tt1042927
 - title: Party für eine Leiche - Das Fest der Ahnen in Madagaskar
   alias: Party für eine Leiche
   air_date: '2002-02-07'
@@ -878,6 +904,7 @@ episodes:
   fernsehserien_episode_no: 108
   fernsehserien_episode_slug: 108-party-fuer-eine-leiche-das-fest-der-ahnen-in-madagaskar-339429
   fernsehserien_episode_id: 339429
+  imdb_episode_id: tt1042940
 - title: Filmstars im Pelz
   air_date: '2002-03-04'
   duration: 55
@@ -886,6 +913,7 @@ episodes:
   fernsehserien_episode_no: 109
   fernsehserien_episode_slug: 109-filmstars-im-pelz-339430
   fernsehserien_episode_id: 339430
+  imdb_episode_id: tt1042935
 - title: Hongkongs fliegende Küchen
   air_date: '2002-03-05'
   duration: 55
@@ -894,6 +922,7 @@ episodes:
   fernsehserien_episode_no: 110
   fernsehserien_episode_slug: 110-hongkongs-fliegende-kuechen-339431
   fernsehserien_episode_id: 339431
+  imdb_episode_id: tt1042937
 - title: Die Herren der Adler - Kasachische Jäger und ihre Greifvögel
   air_date: '2002-03-06'
   duration: 55
@@ -910,6 +939,7 @@ episodes:
   fernsehserien_episode_no: 112
   fernsehserien_episode_slug: 112-safran-ein-bluehendes-geschaeft-339434
   fernsehserien_episode_id: 339434
+  imdb_episode_id: tt1042942
 - title: Der Dreh mit den Havannas - Die Zigarrenfälschung
   air_date: '2002-04-01'
   duration: 55
@@ -918,6 +948,7 @@ episodes:
   fernsehserien_episode_no: 113
   fernsehserien_episode_slug: 113-der-dreh-mit-den-havannas-die-zigarrenfaelschung-339435
   fernsehserien_episode_id: 339435
+  imdb_episode_id: tt1042925
 - title: Ein göttlicher Zug - das rollende Gotteshaus in Russland
   air_date: '2002-04-02'
   duration: 55
@@ -935,6 +966,7 @@ episodes:
   fernsehserien_episode_no: 115
   fernsehserien_episode_slug: 115-sinfonie-der-strasse-kinderorchester-in-venezuela-339437
   fernsehserien_episode_id: 339437
+  imdb_episode_id: tt1042943
 - title: Ticket in ein neues Leben - Der Lifeline Express in Indien
   air_date: '2002-05-06'
   duration: 55
@@ -951,6 +983,7 @@ episodes:
   fernsehserien_episode_no: 117
   fernsehserien_episode_slug: 117-die-bernsteintaucher-339440
   fernsehserien_episode_id: 339440
+  imdb_episode_id: tt1042928
 - title: Mumien im Ausverkauf
   air_date: '2002-05-08'
   duration: 55
@@ -959,6 +992,7 @@ episodes:
   fernsehserien_episode_no: 118
   fernsehserien_episode_slug: 118-mumien-im-ausverkauf-339441
   fernsehserien_episode_id: 339441
+  imdb_episode_id: tt1042938
 - title: Die Minensucher von Kabul
   air_date: '2002-05-09'
   duration: 55
@@ -967,6 +1001,7 @@ episodes:
   fernsehserien_episode_no: 119
   fernsehserien_episode_slug: 119-die-minensucher-von-kabul-339442
   fernsehserien_episode_id: 339442
+  imdb_episode_id: tt1042931
 - title: 'Bermuda: Schatzsuche in der Tiefsee'
   air_date: '2002-06-03'
   duration: 55
@@ -975,6 +1010,7 @@ episodes:
   fernsehserien_episode_no: 120
   fernsehserien_episode_slug: 120-bermuda-schatzsuche-in-der-tiefsee-339443
   fernsehserien_episode_id: 339443
+  imdb_episode_id: tt1042923
 - title: Die Legende von den Killerbienen
   air_date: '2002-06-04'
   duration: 55
@@ -983,6 +1019,7 @@ episodes:
   fernsehserien_episode_no: 121
   fernsehserien_episode_slug: 121-die-legende-von-den-killerbienen-339405
   fernsehserien_episode_id: 339405
+  imdb_episode_id: tt1042930
 - title: Die Schule der Inuit
   air_date: '2002-06-05'
   duration: 55
@@ -991,6 +1028,7 @@ episodes:
   fernsehserien_episode_no: 122
   fernsehserien_episode_slug: 122-die-schule-der-inuit-339445
   fernsehserien_episode_id: 339445
+  imdb_episode_id: tt1042932
 - title: Peones - Verkannte Helden
   air_date: '2002-06-06'
   duration: 55
@@ -999,6 +1037,7 @@ episodes:
   fernsehserien_episode_no: 123
   fernsehserien_episode_slug: 123-peones-verkannte-helden-339446
   fernsehserien_episode_id: 339446
+  imdb_episode_id: tt1042941
 - title: Sir Peter Blake - Expedition ins ewige Eis
   air_date: '2002-09-02'
   duration: 55
@@ -1007,6 +1046,7 @@ episodes:
   fernsehserien_episode_no: 124
   fernsehserien_episode_slug: 124-sir-peter-blake-expedition-ins-ewige-eis-339448
   fernsehserien_episode_id: 339448
+  imdb_episode_id: tt1051734
 - title: Im Wald der Vampire
   air_date: '2002-09-03'
   duration: 55
@@ -1015,6 +1055,7 @@ episodes:
   fernsehserien_episode_no: 125
   fernsehserien_episode_slug: 125-im-wald-der-vampire-339449
   fernsehserien_episode_id: 339449
+  imdb_episode_id: tt1051731
 - title: Nashörner unter dem Hammer
   air_date: '2002-09-04'
   duration: 55
@@ -1023,6 +1064,7 @@ episodes:
   fernsehserien_episode_no: 126
   fernsehserien_episode_slug: 126-nashoerner-unter-dem-hammer-339450
   fernsehserien_episode_id: 339450
+  imdb_episode_id: tt1051732
 - title: Warten auf den Monsun
   air_date: '2002-09-05'
   duration: 55
@@ -1031,6 +1073,7 @@ episodes:
   fernsehserien_episode_no: 127
   fernsehserien_episode_slug: 127-warten-auf-den-monsun-339451
   fernsehserien_episode_id: 339451
+  imdb_episode_id: tt1051735
 - title: Palmasola - Dorf hinter Gittern
   air_date: '2002-10-07'
   duration: 55
@@ -1039,6 +1082,7 @@ episodes:
   fernsehserien_episode_no: 128
   fernsehserien_episode_slug: 128-palmasola-dorf-hinter-gittern-339453
   fernsehserien_episode_id: 339453
+  imdb_episode_id: tt1051733
 - title: Bilder hören - Die blinden Kinder von Tibet
   air_date: '2002-10-08'
   duration: 55
@@ -1047,6 +1091,7 @@ episodes:
   fernsehserien_episode_no: 129
   fernsehserien_episode_slug: 129-bilder-hoeren-die-blinden-kinder-von-tibet-339454
   fernsehserien_episode_id: 339454
+  imdb_episode_id: tt1051730
 - title: Der Blechmusik-Oscar
   air_date: '2002-10-09'
   duration: 55
@@ -1055,6 +1100,7 @@ episodes:
   fernsehserien_episode_no: 130
   fernsehserien_episode_slug: 130-der-blechmusik-oscar-339455
   fernsehserien_episode_id: 339455
+  imdb_episode_id: tt1051728
 - title: Die Riesenflöße vom Jenissej - Ein Floßschiffer auf seiner Fahrt zum Polarmeer
   alias: Die Riesenflöße vom Jenissej
   air_date: '2002-10-10'
@@ -1064,6 +1110,7 @@ episodes:
   fernsehserien_episode_no: 131
   fernsehserien_episode_slug: 131-die-riesenfloesse-vom-jenissej-ein-flossschiffer-auf-seiner-fahrt-zum-polarmeer-339456
   fernsehserien_episode_id: 339456
+  imdb_episode_id: tt1051729
 - title: Heiratsmarkt in Marokko
   air_date: '2002-11-04'
   duration: 55
@@ -1080,6 +1127,7 @@ episodes:
   fernsehserien_episode_no: 133
   fernsehserien_episode_slug: 133-die-tuerkischen-hochzeitsmacher-339458
   fernsehserien_episode_id: 339458
+  imdb_episode_id: tt2069998
 - title: Die Frachtensegler von Madagaskar
   air_date: '2002-11-06'
   duration: 55
@@ -1112,6 +1160,7 @@ episodes:
   fernsehserien_episode_no: 137
   fernsehserien_episode_slug: 137-das-metall-aus-dem-vulkan-339462
   fernsehserien_episode_id: 339462
+  imdb_episode_id: tt6753230
 - title: Die Söldner der Perlen - Der lebensgefährliche Job
   air_date: '2003-01-08'
   duration: 55
@@ -1153,6 +1202,7 @@ episodes:
   fernsehserien_episode_no: 142
   fernsehserien_episode_slug: 142-die-hightech-oase-auf-der-groessten-milchfarm-der-welt-339467
   fernsehserien_episode_id: 339467
+  imdb_episode_id: tt1623060
 - title: Videofabrik Nigeria
   air_date: '2003-02-06'
   duration: 55
@@ -1241,6 +1291,7 @@ episodes:
   fernsehserien_episode_no: 153
   fernsehserien_episode_slug: 153-die-waldbahn-der-karpaten-339481
   fernsehserien_episode_id: 339481
+  imdb_episode_id: tt1045684
 - title: Das Vermächtnis der Marquesas-Inseln
   air_date: '2004-03-27'
   duration: 55
@@ -1249,6 +1300,7 @@ episodes:
   fernsehserien_episode_no: 154
   fernsehserien_episode_slug: 154-das-vermaechtnis-der-marquesas-inseln-339482
   fernsehserien_episode_id: 339482
+  imdb_episode_id: tt5000242
 - title: Joaquims wilde Reiter
   air_date: '2004-04-24'
   duration: 55
@@ -1346,6 +1398,7 @@ episodes:
   fernsehserien_episode_no: 166
   fernsehserien_episode_slug: 166-kalifornien-auf-die-harte-tour-339492
   fernsehserien_episode_id: 339492
+  imdb_episode_id: tt1029217
 - title: Der Polarflieger - Ein Pilot in Sibirien
   air_date: '2004-11-20'
   duration: 55
@@ -1378,6 +1431,7 @@ episodes:
   fernsehserien_episode_no: 170
   fernsehserien_episode_slug: 170-ein-traum-von-schokolade-339496
   fernsehserien_episode_id: 339496
+  imdb_episode_id: tt1350548
 - title: Die rasenden Engel der Línea 5
   air_date: '2005-01-08'
   duration: 55
@@ -1457,6 +1511,7 @@ episodes:
   fernsehserien_episode_no: 179
   fernsehserien_episode_slug: 179-vagabunden-der-wueste-kamelzuechter-in-der-mongolei-339512
   fernsehserien_episode_id: 339512
+  imdb_episode_id: tt2108676
 - title: Die Mutter der Bonobos
   air_date: '2005-09-17'
   duration: 55
@@ -1478,6 +1533,7 @@ episodes:
   duration: 55
   thetvdb_season_episode: S07E13
   thetvdb_episode_id: 4642158
+  imdb_episode_id: tt1042934
 - title: Ticket in ein neues Leben
   air_date: '2005-10-01'
   duration: 55
@@ -1486,6 +1542,7 @@ episodes:
   fernsehserien_episode_no: 182
   fernsehserien_episode_slug: 182-ticket-in-ein-neues-leben-339656
   fernsehserien_episode_id: 339656
+  imdb_episode_id: tt1042944
 - title: Das schwimmende Krankenhaus vom Amazonas
   air_date: '2005-10-08'
   duration: 55
@@ -1558,6 +1615,7 @@ episodes:
   fernsehserien_episode_no: 191
   fernsehserien_episode_slug: 191-lust-auf-liebe-in-lisdoonvarna-339503
   fernsehserien_episode_id: 339503
+  imdb_episode_id: tt1045683
 - title: Kung-Fu - Chinas neue Kämpferinnen
   air_date: '2006-04-08'
   duration: 55
@@ -1574,6 +1632,7 @@ episodes:
   fernsehserien_episode_no: 193
   fernsehserien_episode_slug: 193-highway-durch-die-arktis-339670
   fernsehserien_episode_id: 339670
+  imdb_episode_id: tt2046172
 - title: Churubamba - Frauen am Ball
   air_date: '2006-05-27'
   duration: 55
@@ -1624,6 +1683,7 @@ episodes:
   fernsehserien_episode_no: 199
   fernsehserien_episode_slug: 199-die-teebahn-von-darjeeling-339668
   fernsehserien_episode_id: 339668
+  imdb_episode_id: tt2166468
 - title: Die Millionen-Dollar-Hirsche
   air_date: '2006-10-07'
   duration: 55
@@ -1648,6 +1708,7 @@ episodes:
   fernsehserien_episode_no: 202
   fernsehserien_episode_slug: 202-die-trommler-von-burundi-339677
   fernsehserien_episode_id: 339677
+  imdb_episode_id: tt3032950
 - title: Saphir-Fieber auf Madagaskar
   air_date: '2006-11-04'
   duration: 55
@@ -1720,6 +1781,7 @@ episodes:
   fernsehserien_episode_no: 211
   fernsehserien_episode_slug: 211-boliviens-junge-wilde-339692
   fernsehserien_episode_id: 339692
+  imdb_episode_id: tt3843720
 - title: Ein Dorfladen reist durch Lettland
   air_date: '2007-03-24'
   duration: 55
@@ -1785,6 +1847,7 @@ episodes:
   fernsehserien_episode_no: 219
   fernsehserien_episode_slug: 219-venezuela-die-alte-frau-und-das-meer-339703
   fernsehserien_episode_id: 339703
+  imdb_episode_id: tt1169292
 - title: Die Krabbenflut
   air_date: '2007-08-11'
   duration: 55
@@ -1842,6 +1905,7 @@ episodes:
   fernsehserien_episode_no: 226
   fernsehserien_episode_slug: 226-der-ottermann-von-ungarn-339713
   fernsehserien_episode_id: 339713
+  imdb_episode_id: tt6756518
 - title: Attila und die Pferde der Puszta
   air_date: '2007-11-17'
   duration: 55
@@ -1858,6 +1922,7 @@ episodes:
   fernsehserien_episode_no: 228
   fernsehserien_episode_slug: 228-peru-delfine-in-gefahr-339715
   fernsehserien_episode_id: 339715
+  imdb_episode_id: tt1281302
 - title: Postbote im Himalaya - Arbeit in 4000 Meter Höhe
   air_date: '2007-12-01'
   duration: 55
@@ -1866,6 +1931,7 @@ episodes:
   fernsehserien_episode_no: 229
   fernsehserien_episode_slug: 229-postbote-im-himalaya-339716
   fernsehserien_episode_id: 339716
+  imdb_episode_id: tt6941802
 - title: Wenzhou, die Schuh-Stadt von China
   air_date: '2007-12-08'
   duration: 55
@@ -1898,6 +1964,7 @@ episodes:
   fernsehserien_episode_no: 233
   fernsehserien_episode_slug: 233-auf-schlangenfang-in-kambodscha-339720
   fernsehserien_episode_id: 339720
+  imdb_episode_id: tt1623059
 - title: Hexenwahn in Tansania
   air_date: '2008-01-21'
   duration: 55
@@ -1930,6 +1997,7 @@ episodes:
   fernsehserien_episode_no: 237
   fernsehserien_episode_slug: 237-philippinen-rendezvous-mit-einem-adler-339725
   fernsehserien_episode_id: 339725
+  imdb_episode_id: tt3781424
 - title: Die Köchin von Bahia
   air_date: '2008-03-25'
   duration: 55
@@ -1994,6 +2062,7 @@ episodes:
   fernsehserien_episode_no: 245
   fernsehserien_episode_slug: 245-nicaragua-fluch-der-langustentaucher-339702
   fernsehserien_episode_id: 339702
+  imdb_episode_id: tt1279332
 - title: 'Uganda: Der Weg zum Fahrradtaxi'
   air_date: '2008-09-04'
   duration: 55
@@ -2018,6 +2087,7 @@ episodes:
   fernsehserien_episode_no: 248
   fernsehserien_episode_slug: 248-indien-das-geschaeft-mit-dem-tempelhaar-339712
   fernsehserien_episode_id: 339712
+  imdb_episode_id: tt27406063
 - title: Kyushu - Wo Japans grüner Tee wächst
   air_date: '2008-10-16'
   duration: 55
@@ -2026,6 +2096,7 @@ episodes:
   fernsehserien_episode_no: 249
   fernsehserien_episode_slug: 249-kyuchu-wo-japans-gruener-tee-waechst-339721
   fernsehserien_episode_id: 339721
+  imdb_episode_id: tt1301207
 - title: Arganöl - Marokkos weißes Gold
   air_date: '2008-10-30'
   duration: 55
@@ -2042,6 +2113,7 @@ episodes:
   fernsehserien_episode_no: 251
   fernsehserien_episode_slug: 251-das-geheimnis-der-schweizer-uhren-339729
   fernsehserien_episode_id: 339729
+  imdb_episode_id: tt1301206
 - title: Johana - Make-up und Motorenöl
   air_date: '2008-11-13'
   duration: 55
@@ -2090,6 +2162,7 @@ episodes:
   fernsehserien_episode_no: 257
   fernsehserien_episode_slug: 257-arktis-die-route-der-atomeisbrecher-339736
   fernsehserien_episode_id: 339736
+  imdb_episode_id: tt1350547
 - title: Die besten Hütehunde von Wales
   alias: Weltmeister auf vier Pfoten
   air_date: '2009-01-24'
@@ -2099,6 +2172,7 @@ episodes:
   fernsehserien_episode_no: 258
   fernsehserien_episode_slug: 258-die-besten-huetehunde-von-wales-339750
   fernsehserien_episode_id: 339750
+  imdb_episode_id: tt27481079
 - title: Idjwi - Afrikas vergessene Insel
   air_date: '2009-01-31'
   duration: 55
@@ -2107,6 +2181,7 @@ episodes:
   fernsehserien_episode_no: 259
   fernsehserien_episode_slug: 259-idjwi-afrikas-vergessene-insel-339737
   fernsehserien_episode_id: 339737
+  imdb_episode_id: tt1350549
 - title: Die Bambusbahn von Kambodscha
   air_date: '2009-02-07'
   duration: 55
@@ -2123,6 +2198,7 @@ episodes:
   fernsehserien_episode_no: 261
   fernsehserien_episode_slug: 261-nepal-die-krieger-vom-dach-der-welt-339739
   fernsehserien_episode_id: 339739
+  imdb_episode_id: tt1348519
 - title: Das Whisky-Geheimnis von Islay
   air_date: '2009-03-21'
   duration: 55
@@ -2131,6 +2207,7 @@ episodes:
   fernsehserien_episode_no: 262
   fernsehserien_episode_slug: 262-das-whisky-geheimnis-von-islay-339740
   fernsehserien_episode_id: 339740
+  imdb_episode_id: tt2107879
 - title: Biberkrieg in Bayern
   air_date: '2009-04-18'
   duration: 55
@@ -2148,6 +2225,7 @@ episodes:
   fernsehserien_episode_no: 265
   fernsehserien_episode_slug: 265-die-feuerflieger-von-valencia-339743
   fernsehserien_episode_id: 339743
+  imdb_episode_id: tt3825396
 - title: Kaviar - Der Schatz aus dem Iran!
   air_date: '2009-05-02'
   duration: 55
@@ -2180,6 +2258,7 @@ episodes:
   fernsehserien_episode_no: 268
   fernsehserien_episode_slug: 268-die-falkenaerztin-von-abu-dhabi-339746
   fernsehserien_episode_id: 339746
+  imdb_episode_id: tt2101587
 - title: Sokotra, Schatzinsel in Gefahr
   air_date: '2009-07-25'
   duration: 55
@@ -2188,6 +2267,7 @@ episodes:
   fernsehserien_episode_no: 269
   fernsehserien_episode_slug: 269-sokotra-schatzinsel-in-gefahr-339747
   fernsehserien_episode_id: 339747
+  imdb_episode_id: tt1458179
 - title: Jemens verschleierte Zukunft
   air_date: '2009-08-08'
   duration: 55
@@ -2228,6 +2308,7 @@ episodes:
   fernsehserien_episode_no: 274
   fernsehserien_episode_slug: 274-das-salz-der-inka-339753
   fernsehserien_episode_id: 339753
+  imdb_episode_id: tt2077916
 - title: Die Holzfäller von British Columbia
   air_date: '2009-10-10'
   duration: 55
@@ -2236,6 +2317,7 @@ episodes:
   fernsehserien_episode_no: 275
   fernsehserien_episode_slug: 275-die-holzfaeller-von-british-columbia-339754
   fernsehserien_episode_id: 339754
+  imdb_episode_id: tt1621646
 - title: Die neuen Nomaden von Kirgisistan
   air_date: '2009-10-31'
   duration: 55
@@ -2260,6 +2342,7 @@ episodes:
   fernsehserien_episode_no: 278
   fernsehserien_episode_slug: 278-paraguays-neue-haeuser-339949
   fernsehserien_episode_id: 339949
+  imdb_episode_id: tt1514454
 - title: Ein Baumhaus in Costa Rica
   air_date: '2009-11-28'
   duration: 55
@@ -2308,6 +2391,7 @@ episodes:
   fernsehserien_episode_no: 284
   fernsehserien_episode_slug: 284-spitzbergen-eisige-insel-339956
   fernsehserien_episode_id: 339956
+  imdb_episode_id: tt2128705
 - title: 'Hawaii: Beachboys auf Patrouille'
   air_date: '2010-02-06'
   duration: 55
@@ -2324,6 +2408,7 @@ episodes:
   fernsehserien_episode_no: 286
   fernsehserien_episode_slug: 286-sos-in-den-rocky-mountains-339958
   fernsehserien_episode_id: 339958
+  imdb_episode_id: tt10007904
 - title: Die letzten Kamelkarawanen der Sahara
   air_date: '2010-03-06'
   duration: 55
@@ -2372,6 +2457,7 @@ episodes:
   fernsehserien_episode_no: 292
   fernsehserien_episode_slug: 292-unterwegs-mit-der-irish-coast-guard-339963
   fernsehserien_episode_id: 339963
+  imdb_episode_id: tt1692109
 - title: Jillaroos - Cowgirls im australischen Outback
   air_date: '2010-09-04'
   duration: 55
@@ -2380,6 +2466,7 @@ episodes:
   fernsehserien_episode_no: 293
   fernsehserien_episode_slug: 293-jillaroos-cowgirls-im-australischen-outback-339965
   fernsehserien_episode_id: 339965
+  imdb_episode_id: tt16970474
 - title: Das Volk der Bishnoi - Tierliebe bis in den Tod
   air_date: '2010-09-11'
   duration: 55
@@ -2428,6 +2515,7 @@ episodes:
   fernsehserien_episode_no: 299
   fernsehserien_episode_slug: 299-sikkim-das-alte-wissen-der-schamanen-339968
   fernsehserien_episode_id: 339968
+  imdb_episode_id: tt2137499
 - title: Die verrückten Karren des Mister Winfield
   air_date: '2010-12-11'
   duration: 55
@@ -2460,6 +2548,7 @@ episodes:
   fernsehserien_episode_no: 303
   fernsehserien_episode_slug: 303-fremdenlegion-die-hoelle-im-regenwald-339971
   fernsehserien_episode_id: 339971
+  imdb_episode_id: tt1819778
 - title: Der Affenflüsterer
   air_date: '2011-01-08'
   duration: 55
@@ -2468,6 +2557,7 @@ episodes:
   fernsehserien_episode_no: 304
   fernsehserien_episode_slug: 304-der-affenfluesterer-339972
   fernsehserien_episode_id: 339972
+  imdb_episode_id: tt2160477
 - title: 'Sardinien: Stolz und Ehre hoch zu Ross'
   air_date: '2011-01-15'
   duration: 55
@@ -2508,6 +2598,7 @@ episodes:
   fernsehserien_episode_no: 309
   fernsehserien_episode_slug: 309-das-perlenimperium-von-palawan-339977
   fernsehserien_episode_id: 339977
+  imdb_episode_id: tt1839712
 - title: Marokko - die andere Seite des Paradieses
   air_date: '2011-02-19'
   duration: 55
@@ -2532,6 +2623,7 @@ episodes:
   fernsehserien_episode_no: 312
   fernsehserien_episode_slug: 312-grossglockner-koenig-der-hochalpen-339979
   fernsehserien_episode_id: 339979
+  imdb_episode_id: tt5037962
 - title: Champagner für alle!
   air_date: '2011-04-23'
   duration: 55
@@ -2540,6 +2632,7 @@ episodes:
   fernsehserien_episode_no: 313
   fernsehserien_episode_slug: 313-champagner-fuer-alle-339980
   fernsehserien_episode_id: 339980
+  imdb_episode_id: tt2361605
 - title: Armenien, die Früchte aus dem Paradies
   air_date: '2011-05-07'
   duration: 55
@@ -2580,6 +2673,7 @@ episodes:
   fernsehserien_episode_no: 318
   fernsehserien_episode_slug: 318-jordanien-dynastie-der-pferde-339985
   fernsehserien_episode_id: 339985
+  imdb_episode_id: tt1945242
 - title: In den Smaragdbergen von Bahia
   air_date: '2011-07-16'
   duration: 55
@@ -2588,6 +2682,7 @@ episodes:
   fernsehserien_episode_no: 319
   fernsehserien_episode_slug: 319-in-den-smaragdbergen-von-bahia-339986
   fernsehserien_episode_id: 339986
+  imdb_episode_id: tt1945241
 - title: Rum auf Guadeloupe
   air_date: '2011-07-30'
   duration: 55
@@ -2596,6 +2691,7 @@ episodes:
   fernsehserien_episode_no: 320
   fernsehserien_episode_slug: 320-rum-auf-guadeloupe-339988
   fernsehserien_episode_id: 339988
+  imdb_episode_id: tt14617222
 - title: Sumatras letzte Orang-Utans
   air_date: '2011-09-03'
   duration: 55
@@ -2612,6 +2708,7 @@ episodes:
   fernsehserien_episode_no: 322
   fernsehserien_episode_slug: 322-kalmueckien-die-rueckkehr-der-moenche-339990
   fernsehserien_episode_id: 339990
+  imdb_episode_id: tt1987522
 - title: Auf der Spur des spanischen Luchses
   air_date: '2011-10-15'
   duration: 55
@@ -2628,6 +2725,7 @@ episodes:
   fernsehserien_episode_no: 324
   fernsehserien_episode_slug: 324-palawan-das-dorf-der-gefangenen-586293
   fernsehserien_episode_id: 586293
+  imdb_episode_id: tt2168596
 - title: Der Andenkondor - König der Lüfte
   air_date: '2011-10-29'
   duration: 55
@@ -2709,6 +2807,7 @@ episodes:
   fernsehserien_episode_no: 334
   fernsehserien_episode_slug: 334-china-im-reich-der-mosuo-frauen-339999
   fernsehserien_episode_id: 339999
+  imdb_episode_id: tt2338236
 - title: Majuli - ein Inselvolk trotzt den Fluten
   air_date: '2012-02-25'
   duration: 55
@@ -2783,6 +2882,7 @@ episodes:
   fernsehserien_episode_no: 343
   fernsehserien_episode_slug: 343-jerusalem-im-morgengrauen-506703
   fernsehserien_episode_id: 506703
+  imdb_episode_id: tt3078344
 - title: Die letzten Cowboys der Toskana
   air_date: '2012-09-01'
   duration: 55
@@ -2823,6 +2923,7 @@ episodes:
   fernsehserien_episode_no: 348
   fernsehserien_episode_slug: 348-indien-das-groesste-schulessen-der-welt-506708
   fernsehserien_episode_id: 506708
+  imdb_episode_id: tt25786532
 - title: 'Myanmar: Ein Dorf braucht Strom'
   air_date: '2012-11-03'
   duration: 55
@@ -2855,6 +2956,7 @@ episodes:
   fernsehserien_episode_no: 352
   fernsehserien_episode_slug: 352-die-exzentriker-der-duefte-506712
   fernsehserien_episode_id: 506712
+  imdb_episode_id: tt19718498
 - title: Arktis - Ein Junge wird Jäger
   air_date: '2013-01-19'
   duration: 55
@@ -2863,6 +2965,7 @@ episodes:
   fernsehserien_episode_no: 353
   fernsehserien_episode_slug: 353-arktis-ein-junge-wird-jaeger-506695
   fernsehserien_episode_id: 506695
+  imdb_episode_id: tt16757896
 - title: Shetland, das Ende des Öls
   air_date: '2013-10-01'
   duration: 55
@@ -2896,6 +2999,7 @@ episodes:
   fernsehserien_episode_no: 357
   fernsehserien_episode_slug: 357-die-letzten-koehler-von-rumaenien-506729
   fernsehserien_episode_id: 506729
+  imdb_episode_id: tt1007051
 - title: Island - Der große Schafabtrieb
   air_date: '2013-03-09'
   duration: 55
@@ -2972,6 +3076,7 @@ episodes:
   fernsehserien_episode_no: 366
   fernsehserien_episode_slug: 366-die-polarbahn-532546
   fernsehserien_episode_id: 532546
+  imdb_episode_id: tt16606786
 - title: Das Koala-Hospital
   air_date: '2013-09-21'
   duration: 55
@@ -3013,6 +3118,7 @@ episodes:
   fernsehserien_episode_no: 371
   fernsehserien_episode_slug: 371-costa-rica-leben-wie-die-faultiere-540268
   fernsehserien_episode_id: 540268
+  imdb_episode_id: tt5229780
 - title: Der fröhliche Friedhof von Rumänien
   air_date: '2013-10-26'
   duration: 55
@@ -3021,6 +3127,7 @@ episodes:
   fernsehserien_episode_no: 372
   fernsehserien_episode_slug: 372-der-froehliche-friedhof-von-rumaenien-542626
   fernsehserien_episode_id: 542626
+  imdb_episode_id: tt23145542
 - title: Mustang - Flucht aus den Bergen
   air_date: '2013-11-09'
   duration: 55
@@ -3069,6 +3176,7 @@ episodes:
   fernsehserien_episode_no: 378
   fernsehserien_episode_slug: 378-die-austern-von-arcachon-564984
   fernsehserien_episode_id: 564984
+  imdb_episode_id: tt27520865
 - title: Thailand, Raketen für die Götter
   air_date: '2013-12-28'
   duration: 55
@@ -3109,6 +3217,7 @@ episodes:
   fernsehserien_episode_no: 383
   fernsehserien_episode_slug: 383-azoren-das-geschaeft-mit-den-walen-581362
   fernsehserien_episode_id: 581362
+  imdb_episode_id: tt5225390
 - title: Fort McMurray, Kanada im Ölfieber
   air_date: '2014-03-01'
   duration: 55
@@ -3165,6 +3274,7 @@ episodes:
   fernsehserien_episode_no: 390
   fernsehserien_episode_slug: 390-hinter-den-kulissen-von-venedig-617724
   fernsehserien_episode_id: 617724
+  imdb_episode_id: tt16985580
 - title: Eishockey - Mädchentraum im Himalaya
   air_date: '2014-07-05'
   duration: 55
@@ -3277,6 +3387,7 @@ episodes:
   fernsehserien_episode_no: 404
   fernsehserien_episode_slug: 404-griechenland-aufbruch-am-olymp-670158
   fernsehserien_episode_id: 670158
+  imdb_episode_id: tt19802432
 - title: Mohair, das Garn der guten Hoffnung
   air_date: '2015-01-06'
   duration: 55
@@ -3317,6 +3428,7 @@ episodes:
   fernsehserien_episode_no: 409
   fernsehserien_episode_slug: 409-venezuela-die-blitze-von-catatumbo-695700
   fernsehserien_episode_id: 695700
+  imdb_episode_id: tt18345186
 - title: Tasmanien, Sympathie für den Teufel
   air_date: '2015-03-24'
   duration: 55
@@ -3325,6 +3437,7 @@ episodes:
   fernsehserien_episode_no: 410
   fernsehserien_episode_slug: 410-tasmanien-sympathie-fuer-den-teufel-696253
   fernsehserien_episode_id: 696253
+  imdb_episode_id: tt19495650
 - title: Kastanien, das Brot der Korsen
   air_date: '2015-03-25'
   duration: 55
@@ -3333,6 +3446,7 @@ episodes:
   fernsehserien_episode_no: 411
   fernsehserien_episode_slug: 411-kastanien-das-brot-der-korsen-696597
   fernsehserien_episode_id: 696597
+  imdb_episode_id: tt21971752
 - title: Paris, Blitz Motorcycles
   air_date: '2015-03-26'
   duration: 55
@@ -3341,6 +3455,7 @@ episodes:
   fernsehserien_episode_no: 412
   fernsehserien_episode_slug: 412-paris-blitz-motorcycles-696850
   fernsehserien_episode_id: 696850
+  imdb_episode_id: tt15101596
 - title: 'Kuba: Eine Generation im Wandel'
   air_date: '2015-03-27'
   duration: 55
@@ -3349,6 +3464,7 @@ episodes:
   fernsehserien_episode_no: 413
   fernsehserien_episode_slug: 413-kuba-eine-generation-im-wandel-697093
   fernsehserien_episode_id: 697093
+  imdb_episode_id: tt19718478
 - title: Hamburg, die Stadt der Schwäne
   air_date: '2015-05-02'
   duration: 55
@@ -3357,6 +3473,7 @@ episodes:
   fernsehserien_episode_no: 414
   fernsehserien_episode_slug: 414-hamburg-die-stadt-der-schwaene-711415
   fernsehserien_episode_id: 711415
+  imdb_episode_id: tt16985718
 - title: Camargue, zwischen Himmel und Meer
   air_date: '2015-08-29'
   duration: 55
@@ -3365,6 +3482,7 @@ episodes:
   fernsehserien_episode_no: 415
   fernsehserien_episode_slug: 415-camargue-zwischen-himmel-und-meer-749148
   fernsehserien_episode_id: 749148
+  imdb_episode_id: tt23870016
 - title: Bhutan, von Kindern und Kranichen
   air_date: '2015-09-05'
   duration: 55
@@ -3373,6 +3491,7 @@ episodes:
   fernsehserien_episode_no: 416
   fernsehserien_episode_slug: 416-bhutan-von-kindern-und-kranichen-754878
   fernsehserien_episode_id: 754878
+  imdb_episode_id: tt14429918
 - title: Bird Island - Allein unter Pinguinen
   air_date: '2015-09-12'
   duration: 55
@@ -3381,6 +3500,7 @@ episodes:
   fernsehserien_episode_no: 417
   fernsehserien_episode_slug: 417-bird-island-allein-unter-pinguinen-756555
   fernsehserien_episode_id: 756555
+  imdb_episode_id: tt18413830
 - title: Basketball - Die kleinen Barfuß-Spieler von Mexiko
   air_date: '2015-09-19'
   duration: 55
@@ -3421,6 +3541,7 @@ episodes:
   fernsehserien_episode_no: 422
   fernsehserien_episode_slug: 422-die-oldtimer-von-curacao-786745
   fernsehserien_episode_id: 786745
+  imdb_episode_id: tt21083548
 - title: Italien - Hochzeit auf Neapolitanisch
   air_date: '2015-11-14'
   duration: 55
@@ -3429,6 +3550,7 @@ episodes:
   fernsehserien_episode_no: 423
   fernsehserien_episode_slug: 423-italien-hochzeit-auf-neapolitanisch-786746
   fernsehserien_episode_id: 786746
+  imdb_episode_id: tt15108654
 - title: Yoga, Indiens erstaunliche Medizin
   air_date: '2015-11-21'
   duration: 55
@@ -3471,6 +3593,7 @@ episodes:
   fernsehserien_episode_no: 428
   fernsehserien_episode_slug: 428-die-bergfuehrer-von-chamonix-794734
   fernsehserien_episode_id: 794734
+  imdb_episode_id: tt15277042
 - title: Polen, Winter in den Waldkarpaten
   air_date: '2015-12-26'
   duration: 55
@@ -3495,6 +3618,7 @@ episodes:
   fernsehserien_episode_no: 431
   fernsehserien_episode_slug: 431-valparaiso-die-stadt-der-aufzuege-798761
   fernsehserien_episode_id: 798761
+  imdb_episode_id: tt14429858
 - title: Sibirien - Der Kapitän und die Lena
   air_date: '2016-01-23'
   duration: 55
@@ -3503,6 +3627,7 @@ episodes:
   fernsehserien_episode_no: 432
   fernsehserien_episode_slug: 432-sibirien-der-kapitaen-und-die-lena-801600
   fernsehserien_episode_id: 801600
+  imdb_episode_id: tt18227954
 - title: Spreewald - Kähne, Köche, Klapperstörche
   air_date: '2016-02-20'
   duration: 55
@@ -3535,6 +3660,7 @@ episodes:
   fernsehserien_episode_no: 436
   fernsehserien_episode_slug: 436-myanmar-per-zug-durch-die-zeit-816969
   fernsehserien_episode_id: 816969
+  imdb_episode_id: tt21842716
 - title: Die Bärenhunde von Nevada
   air_date: '2016-04-30'
   duration: 55
@@ -3567,6 +3693,7 @@ episodes:
   fernsehserien_episode_no: 440
   fernsehserien_episode_slug: 440-die-eisfischer-vom-chagan-see-923466
   fernsehserien_episode_id: 923466
+  imdb_episode_id: tt25830670
 - title: Pythons - Invasion in Florida
   air_date: '2016-07-16'
   duration: 55
@@ -3575,6 +3702,7 @@ episodes:
   fernsehserien_episode_no: 441
   fernsehserien_episode_slug: 441-python-invasion-in-florida-940658
   fernsehserien_episode_id: 940658
+  imdb_episode_id: tt27428146
 - title: Amas Welt - Das neue Ghana
   air_date: '2016-09-03'
   duration: 55
@@ -3599,6 +3727,7 @@ episodes:
   fernsehserien_episode_no: 444
   fernsehserien_episode_slug: 444-die-cook-islands-welcome-to-paradise-985202
   fernsehserien_episode_id: 985202
+  imdb_episode_id: tt26422173
 - title: Norwegen - Försterinnen auf dem Vormarsch
   air_date: '2016-09-24'
   duration: 55
@@ -3607,6 +3736,7 @@ episodes:
   fernsehserien_episode_no: 445
   fernsehserien_episode_slug: 445-norwegen-foersterinnen-auf-dem-vormarsch-988012
   fernsehserien_episode_id: 988012
+  imdb_episode_id: tt26472392
 - title: Vietnam - Das Schicksal der Mondbären
   air_date: '2016-10-01'
   duration: 55
@@ -3639,6 +3769,7 @@ episodes:
   fernsehserien_episode_no: 449
   fernsehserien_episode_slug: 449-schlammfussball-in-island-999289
   fernsehserien_episode_id: 999289
+  imdb_episode_id: tt19495648
 - title: Dänemark - Königin Margrethe und ihr Sommerschloss
   air_date: '2016-11-19'
   duration: 55
@@ -3679,6 +3810,7 @@ episodes:
   fernsehserien_episode_no: 454
   fernsehserien_episode_slug: 454-st-bernhard-von-menschen-und-hunden-1037887
   fernsehserien_episode_id: 1037887
+  imdb_episode_id: tt11969464
 - title: Rumänien - Eine Weihnachtsreise ins Donaudelta
   air_date: '2016-12-24'
   duration: 55
@@ -3703,6 +3835,7 @@ episodes:
   fernsehserien_episode_no: 457
   fernsehserien_episode_slug: 457-marseille-kopfueber-ins-blau-1044494
   fernsehserien_episode_id: 1044494
+  imdb_episode_id: tt6460474
 - title: Kurt und seine Wölfe
   air_date: '2017-01-21'
   duration: 55
@@ -3730,6 +3863,7 @@ episodes:
   fernsehserien_episode_no: 460
   fernsehserien_episode_slug: 460-zauberhafte-mosel-1048643
   fernsehserien_episode_id: 1048643
+  imdb_episode_id: tt22478580
 - title: Der Kosakenpriester vom Don
   air_date: '2017-02-18'
   duration: 55
@@ -3738,6 +3872,7 @@ episodes:
   fernsehserien_episode_no: 461
   fernsehserien_episode_slug: 461-der-kosakenpriester-vom-don-1051882
   fernsehserien_episode_id: 1051882
+  imdb_episode_id: tt16971158
 - title: Chile - Die Leuchttürme am Ende der Welt
   air_date: '2017-02-25'
   duration: 55
@@ -3762,6 +3897,7 @@ episodes:
   fernsehserien_episode_no: 464
   fernsehserien_episode_slug: 464-spanien-die-tradition-der-menschentuerme-1057317
   fernsehserien_episode_id: 1057317
+  imdb_episode_id: tt14564776
 - title: Malaysia - Von Frauen und Motorrädern
   air_date: '2017-03-19'
   duration: 55
@@ -3770,6 +3906,7 @@ episodes:
   fernsehserien_episode_no: 465
   fernsehserien_episode_slug: 465-malaysia-von-frauen-und-motorraedern-1058938
   fernsehserien_episode_id: 1058938
+  imdb_episode_id: tt16971162
 - title: Eine zweite Art von Frau - Thailand, das Dritte Geschlecht
   air_date: '2017-03-26'
   duration: 55
@@ -3786,6 +3923,7 @@ episodes:
   fernsehserien_episode_no: 467
   fernsehserien_episode_slug: 467-myanmars-bambusbruecke-ein-dorf-packt-an-1082612
   fernsehserien_episode_id: 1082612
+  imdb_episode_id: tt21308734
 - title: Die Minga - Umzug auf Chilenisch
   air_date: '2017-05-28'
   duration: 55
@@ -3794,6 +3932,7 @@ episodes:
   fernsehserien_episode_no: 468
   fernsehserien_episode_slug: 468-die-minga-umzug-auf-chilenisch-1088464
   fernsehserien_episode_id: 1088464
+  imdb_episode_id: tt21916070
 - title: Kuba - Meister der Drehorgeln
   air_date: '2017-08-06'
   duration: 55
@@ -3827,6 +3966,7 @@ episodes:
   fernsehserien_episode_no: 472
   fernsehserien_episode_slug: 472-argentinien-mate-tee-die-seele-des-landes-1132095
   fernsehserien_episode_id: 1132095
+  imdb_episode_id: tt14840080
 - title: Louisiana - Land unter bei den Shrimpfischern
   air_date: '2017-10-22'
   duration: 55
@@ -3835,6 +3975,7 @@ episodes:
   fernsehserien_episode_no: 473
   fernsehserien_episode_slug: 473-louisiana-land-unter-bei-den-shrimpfischern-1134615
   fernsehserien_episode_id: 1134615
+  imdb_episode_id: tt21928474
 - title: Svanetien - Von Lebenden und Toten
   air_date: '2017-10-29'
   duration: 55
@@ -3859,6 +4000,7 @@ episodes:
   fernsehserien_episode_no: 476
   fernsehserien_episode_slug: 476-frisch-vermaehlt-in-estland-1140830
   fernsehserien_episode_id: 1140830
+  imdb_episode_id: tt16453240
 - title: Die Geier sind zurück
   air_date: '2017-11-19'
   duration: 55
@@ -3867,6 +4009,7 @@ episodes:
   fernsehserien_episode_no: 477
   fernsehserien_episode_slug: 477-die-geier-sind-zurueck-1142429
   fernsehserien_episode_id: 1142429
+  imdb_episode_id: tt24055100
 - title: Bolivien - Der Kampf um die kleinen Herzen
   air_date: '2017-11-26'
   duration: 55
@@ -3883,6 +4026,7 @@ episodes:
   fernsehserien_episode_no: 479
   fernsehserien_episode_slug: 479-sibirien-die-eisstrasse-ins-polarmeer-1143920
   fernsehserien_episode_id: 1143920
+  imdb_episode_id: tt21842726
 - title: 'Kolumbien: DC3 Oldtimer versorgen den Regenwald'
   air_date: '2017-12-10'
   duration: 55
@@ -3891,6 +4035,7 @@ episodes:
   fernsehserien_episode_no: 480
   fernsehserien_episode_slug: 480-kolumbien-dc3-oldtimer-versorgen-den-regenwald-1148836
   fernsehserien_episode_id: 1148836
+  imdb_episode_id: tt21308740
 - title: Der Thomanerchor - Leben für die Musik
   air_date: '2017-12-24'
   duration: 55
@@ -3899,6 +4044,7 @@ episodes:
   fernsehserien_episode_no: 481
   fernsehserien_episode_slug: 481-der-thomanerchor-leben-fuer-die-musik-1151707
   fernsehserien_episode_id: 1151707
+  imdb_episode_id: tt26898733
 - title: Die Insel Chiloé
   air_date: '2017-06-03'
   duration: 55
@@ -3912,6 +4058,7 @@ episodes:
   fernsehserien_episode_no: 482
   fernsehserien_episode_slug: 482-friaul-benvenuti-im-musiktal-1157017
   fernsehserien_episode_id: 1157017
+  imdb_episode_id: tt24636846
 - title: Bisons, die sanften Riesen von Montana
   air_date: '2018-01-28'
   duration: 55
@@ -3936,6 +4083,7 @@ episodes:
   fernsehserien_episode_no: 485
   fernsehserien_episode_slug: 485-schottland-die-seenotretter-der-orkney-islands-1164369
   fernsehserien_episode_id: 1164369
+  imdb_episode_id: tt27170456
 - title: Kanada - Mit der Hebamme durch die Badlands
   air_date: '2018-02-25'
   duration: 55
@@ -3984,6 +4132,7 @@ episodes:
   fernsehserien_episode_no: 491
   fernsehserien_episode_slug: 491-italien-eine-neue-glocke-fuer-monopoli-1179190
   fernsehserien_episode_id: 1179190
+  imdb_episode_id: tt19718488
 - title: Arapaima, der Riesenfisch vom Amazonas
   air_date: '2018-05-13'
   duration: 55
@@ -3992,6 +4141,7 @@ episodes:
   fernsehserien_episode_no: 492
   fernsehserien_episode_slug: 492-arapaima-der-riesenfisch-vom-amazonas-1191708
   fernsehserien_episode_id: 1191708
+  imdb_episode_id: tt20231928
 - title: Die fliegenden Wildesel von Kasachstan
   title_fr: SOS ânes sauvages du Kazakhstan
   air_date: '2018-05-27'
@@ -4001,6 +4151,7 @@ episodes:
   fernsehserien_episode_no: 493
   fernsehserien_episode_slug: 493-die-fliegenden-wildesel-von-kasachstan-1194430
   fernsehserien_episode_id: 1194430
+  imdb_episode_id: tt21073776
 - title: Geliebtes Korsika - Kampf gegen das Feuer
   title_fr: Corse, les maquisards du feu
   air_date: '2018-06-22'
@@ -4021,6 +4172,7 @@ episodes:
   fernsehserien_episode_no: 495
   fernsehserien_episode_slug: 495-japan-leben-am-fuss-des-vulkans-1221897
   fernsehserien_episode_id: 1221897
+  imdb_episode_id: tt19802452
 - title: Sucevita - Rumäniens schönste Klosterfresken
   title_en: Romania, the holy beauty of the painted monasteries
   air_date: '2018-09-08'
@@ -4047,6 +4199,7 @@ episodes:
   fernsehserien_episode_no: 498
   fernsehserien_episode_slug: 498-neuseeland-die-tiere-vom-ende-der-welt-1230127
   fernsehserien_episode_id: 1230127
+  imdb_episode_id: tt22007414
 - title: Virunga, der Kampf für die Berggorillas
   title_en: Virunga - Fighting for Mountain Gorillas
   air_date: '2018-10-06'
@@ -4083,6 +4236,7 @@ episodes:
   fernsehserien_episode_no: 502
   fernsehserien_episode_slug: 502-argentinien-der-jaguar-ist-zurueck-1235360
   fernsehserien_episode_id: 1235360
+  imdb_episode_id: tt14429962
 - title: Rooibos, der rote Tee Südafrikas
   title_en: Rooibos, Africas red tea
   air_date: '2018-11-03'
@@ -4092,6 +4246,7 @@ episodes:
   fernsehserien_episode_no: 503
   fernsehserien_episode_slug: 503-rooibos-der-rote-tee-suedafrikas-1237427
   fernsehserien_episode_id: 1237427
+  imdb_episode_id: tt9232664
 - title: Ankaras gerettete Bücher - Die Müll-Bibliothek von Cankaya
   alias: Ankaras gerettete Bücher
   title_en: The trash-library of Cankaya
@@ -4103,6 +4258,7 @@ episodes:
   fernsehserien_episode_no: 504
   fernsehserien_episode_slug: 504-die-muell-bibliothek-von-cankaya-1239188
   fernsehserien_episode_id: 1239188
+  imdb_episode_id: tt21139774
 - title: Äthiopiens gefräßige Hochland-Affen
   air_date: '2018-11-17'
   duration: 55
@@ -4121,6 +4277,7 @@ episodes:
   fernsehserien_episode_no: 506
   fernsehserien_episode_slug: 506-sibirien-im-reich-des-amur-tigers-1243697
   fernsehserien_episode_id: 1243697
+  imdb_episode_id: tt20771558
 - title: Peru, das Goldhaar der Vikunjas
   title_en: Peru, the golden hair of the vicunas
   air_date: '2018-12-01'
@@ -4130,6 +4287,7 @@ episodes:
   fernsehserien_episode_no: 507
   fernsehserien_episode_slug: 507-peru-das-goldhaar-der-vikunjas-1244960
   fernsehserien_episode_id: 1244960
+  imdb_episode_id: tt21928460
 - title: Jonathan, der Flugakrobat
   title_en: Jonathan, the sky acrobat
   air_date: '2018-12-08'
@@ -4139,6 +4297,7 @@ episodes:
   fernsehserien_episode_no: 508
   fernsehserien_episode_slug: 508-jonathan-der-flugakrobat-1247061
   fernsehserien_episode_id: 1247061
+  imdb_episode_id: tt15101606
 - title: Harris Tweed - Rückkehr einer Legende
   title_fr: En Écosse, sur la route du tweed
   air_date: '2018-12-15'
@@ -4148,6 +4307,7 @@ episodes:
   fernsehserien_episode_no: 509
   fernsehserien_episode_slug: 509-harris-tweed-rueckkehr-einer-legende-1249761
   fernsehserien_episode_id: 1249761
+  imdb_episode_id: tt11369594
 - title: Kenia, Let's Dance
   title_fr: Kenya, alors on danse
   air_date: '2018-12-22'
@@ -4157,6 +4317,7 @@ episodes:
   fernsehserien_episode_no: 510
   fernsehserien_episode_slug: 510-kenia-lets-dance-1251215
   fernsehserien_episode_id: 1251215
+  imdb_episode_id: tt20231942
 - title: Crémant, der feine Elsässer zum Fest
   title_fr: Crémant d'Alsace - Des bulles fines et festives
   air_date: '2018-12-31'
@@ -4166,6 +4327,7 @@ episodes:
   fernsehserien_episode_no: 511
   fernsehserien_episode_slug: 511-cremant-der-feine-elsaesser-zum-fest-1253307
   fernsehserien_episode_id: 1253307
+  imdb_episode_id: tt26914689
 - title: Kushti, Indiens uralter Kampfsport
   title_en: Kushti, India's ancient martial arts
   title_fr: Inde, la lutte à mains nues
@@ -4185,6 +4347,7 @@ episodes:
   fernsehserien_episode_no: 513
   fernsehserien_episode_slug: 513-georgiens-himmlische-kloester-1258177
   fernsehserien_episode_id: 1258177
+  imdb_episode_id: tt20190180
 - title: Mexiko - Die edlen Reiterinnen
   title_en: Mexico - The noble riders
   air_date: '2019-01-26'
@@ -4212,6 +4375,7 @@ episodes:
   fernsehserien_episode_no: 516
   fernsehserien_episode_slug: 516-arnika-von-der-kraft-einer-heilpflanze-1266625
   fernsehserien_episode_id: 1266625
+  imdb_episode_id: tt9874214
 - title: Simbabwe - Leben für den Augenblick
   title_en: Zimbabwe - Life for the moment
   air_date: '2019-04-07'
@@ -4231,6 +4395,7 @@ episodes:
   fernsehserien_episode_no: 518
   fernsehserien_episode_slug: 518-aethiopien-heimat-des-kaffees-1290612
   fernsehserien_episode_id: 1290612
+  imdb_episode_id: tt16793592
 - title: Indien, ein Himmel voller bunter Drachen
   title_en: India, a sky of colorful kites
   air_date: '2019-06-08'
@@ -4249,6 +4414,7 @@ episodes:
   fernsehserien_episode_no: 520
   fernsehserien_episode_slug: 520-norwegen-die-rentierprinzessin-1299992
   fernsehserien_episode_id: 1299992
+  imdb_episode_id: tt20854414
 - title: Thaimassage, die Heilkunst der Buddhisten
   air_date: '2019-08-25'
   duration: 55
@@ -4257,6 +4423,7 @@ episodes:
   fernsehserien_episode_no: 521
   fernsehserien_episode_slug: 521-thaimassage-die-heilkunst-der-buddhisten-1310639
   fernsehserien_episode_id: 1310639
+  imdb_episode_id: tt23851456
 - title: Hongkongs magisches Neonlicht
   air_date: '2019-09-07'
   duration: 55
@@ -4265,6 +4432,7 @@ episodes:
   fernsehserien_episode_no: 522
   fernsehserien_episode_slug: 522-hongkongs-magisches-neonlicht-1314341
   fernsehserien_episode_id: 1314341
+  imdb_episode_id: tt16352144
 - title: Tibetische Medizin - Heilkraft für die Seele
   air_date: '2019-09-29'
   duration: 55
@@ -4273,6 +4441,7 @@ episodes:
   fernsehserien_episode_no: 523
   fernsehserien_episode_slug: 523-tibetische-medizin-heilkraft-fuer-die-seele-1319247
   fernsehserien_episode_id: 1319247
+  imdb_episode_id: tt18938838
 - title: Sibirien, die Eisschneider von Jakutsk
   air_date: '2019-10-05'
   duration: 55
@@ -4289,6 +4458,7 @@ episodes:
   fernsehserien_episode_no: 525
   fernsehserien_episode_slug: 525-auf-schlangenjagd-in-bangkok-1322905
   fernsehserien_episode_id: 1322905
+  imdb_episode_id: tt23643218
 - title: Die blinde Primaballerina von São Paulo
   air_date: '2019-10-19'
   duration: 55
@@ -4297,6 +4467,7 @@ episodes:
   fernsehserien_episode_no: 526
   fernsehserien_episode_slug: 526-die-blinde-primaballerina-von-sao-paulo-1324329
   fernsehserien_episode_id: 1324329
+  imdb_episode_id: tt27123058
 - title: Slowenien, Land des Honigs
   air_date: '2019-10-26'
   duration: 55
@@ -4305,6 +4476,7 @@ episodes:
   fernsehserien_episode_no: 527
   fernsehserien_episode_slug: 527-slowenien-land-des-honigs-1328522
   fernsehserien_episode_id: 1328522
+  imdb_episode_id: tt21406216
 - title: Japan, der Meister des Zen-Gartens
   air_date: '2019-10-27'
   duration: 55
@@ -4329,6 +4501,7 @@ episodes:
   fernsehserien_episode_no: 530
   fernsehserien_episode_slug: 530-heilende-schwingungen-der-klangschalen-1330935
   fernsehserien_episode_id: 1330935
+  imdb_episode_id: tt22411134
 - title: Harpyien, die größten Greifvögel des Regenwaldes
   air_date: '2019-11-23'
   thetvdb_season_episode: S21E20
@@ -4336,6 +4509,7 @@ episodes:
   fernsehserien_episode_no: 531
   fernsehserien_episode_slug: 531-harpyien-die-groessten-greifvoegel-des-regenwaldes-1334458
   fernsehserien_episode_id: 1334458
+  imdb_episode_id: tt15157400
 - title: 'Island: Von strickenden Männern und Pullovern'
   air_date: '2019-12-08'
   duration: 45
@@ -4344,6 +4518,7 @@ episodes:
   fernsehserien_episode_no: 532
   fernsehserien_episode_slug: 532-island-von-strickenden-maennern-und-pullovern-1339073
   fernsehserien_episode_id: 1339073
+  imdb_episode_id: tt18413912
 - title: Kentucky - Die Schlacht von Sacramento
   air_date: '2019-12-14'
   duration: 45
@@ -4368,11 +4543,13 @@ episodes:
   fernsehserien_episode_no: 535
   fernsehserien_episode_slug: 535-kaviar-das-schwarze-gold-italiens-1341482
   fernsehserien_episode_id: 1341482
+  imdb_episode_id: tt16675680
 - title: Esmeraldas Edelkakao
   air_date: '2019-12-29'
   duration: 45
   thetvdb_season_episode: S21E25
   thetvdb_episode_id: 7517098
+  imdb_episode_id: tt2215720
 - title: Die Vespa-Rebellen in Indonesien
   air_date: '2020-01-05'
   duration: 45
@@ -4398,6 +4575,7 @@ episodes:
   fernsehserien_episode_no: 538
   fernsehserien_episode_slug: 538-die-herren-des-lavendels-1348630
   fernsehserien_episode_id: 1348630
+  imdb_episode_id: tt11854728
 - title: Die Zedernuss, die Königin der Taiga
   air_date: '2020-02-09'
   duration: 45
@@ -4407,6 +4585,7 @@ episodes:
   fernsehserien_episode_no: 539
   fernsehserien_episode_slug: 539-die-zedernuss-die-koenigin-der-taiga-1352887
   fernsehserien_episode_id: 1352887
+  imdb_episode_id: tt21203618
 - title: Die Ostsee, Sehnsuchtsort der Kraniche
   air_date: '2020-02-16'
   duration: 45
@@ -4415,6 +4594,7 @@ episodes:
   fernsehserien_episode_no: 540
   fernsehserien_episode_slug: 540-die-ostsee-sehnsuchtsort-der-kraniche-1352888
   fernsehserien_episode_id: 1352888
+  imdb_episode_id: tt21243234
 - title: 'Kapverden: Zwei Hunde als Schildkrötenretter'
   air_date: '2020-02-23'
   duration: 45
@@ -4423,6 +4603,7 @@ episodes:
   fernsehserien_episode_no: 541
   fernsehserien_episode_slug: 541-kapverden-zwei-hunde-als-schildkroetenretter-1353321
   fernsehserien_episode_id: 1353321
+  imdb_episode_id: tt27123062
 - title: Die Schwestern der Erde
   air_date: '2020-03-01'
   duration: 45
@@ -4431,6 +4612,7 @@ episodes:
   fernsehserien_episode_no: 542
   fernsehserien_episode_slug: 542-die-schwestern-der-erde-1355292
   fernsehserien_episode_id: 1355292
+  imdb_episode_id: tt14388672
 - title: Argentinien, von wilden Pferden und sanfter Hand
   air_date: '2020-03-08'
   duration: 45
@@ -4440,6 +4622,7 @@ episodes:
   fernsehserien_episode_no: 543
   fernsehserien_episode_slug: 543-argentinien-von-wilden-pferden-und-sanfter-hand-1357300
   fernsehserien_episode_id: 1357300
+  imdb_episode_id: tt14706520
 - title: Indiens Kurkuma - Heilsam und heilig
   air_date: '2020-06-14'
   duration: 43
@@ -4458,6 +4641,7 @@ episodes:
   fernsehserien_episode_no: 545
   fernsehserien_episode_slug: 545-huskys-am-start-1384225
   fernsehserien_episode_id: 1384225
+  imdb_episode_id: tt17077618
 - title: Schignano, ein uralter Karneval in Italiens Bergen
   air_date: '2020-07-25'
   duration: 43
@@ -4467,6 +4651,7 @@ episodes:
   fernsehserien_episode_no: 546
   fernsehserien_episode_slug: 546-schignano-ein-uralter-karneval-in-italiens-bergen-1388813
   fernsehserien_episode_id: 1388813
+  imdb_episode_id: tt18291258
 - title: Ring frei für Sambias Boxerinnen!
   air_date: '2020-08-16'
   duration: 43
@@ -4494,6 +4679,7 @@ episodes:
   fernsehserien_episode_no: 549
   fernsehserien_episode_slug: 549-italiens-kapern-der-geschmack-des-suedens-1414438
   fernsehserien_episode_id: 1414438
+  imdb_episode_id: tt21801660
 - title: Der letzte Rheinfischer
   air_date: '2020-11-22'
   duration: 43
@@ -4503,6 +4689,7 @@ episodes:
   fernsehserien_episode_no: 550
   fernsehserien_episode_slug: 550-der-letzte-rheinfischer-1420915
   fernsehserien_episode_id: 1420915
+  imdb_episode_id: tt21139796
 - title: Mit Volldampf durch Kärnten
   air_date: '2020-11-29'
   duration: 45
@@ -4512,6 +4699,7 @@ episodes:
   fernsehserien_episode_no: 551
   fernsehserien_episode_slug: 551-mit-volldampf-durch-kaernten-1422151
   fernsehserien_episode_id: 1422151
+  imdb_episode_id: tt14188714
 - title: Das Elsass, Heimat der Störche
   title_fr: Alsace, Terre de Cigogne
   air_date: '2020-12-06'
@@ -4522,6 +4710,7 @@ episodes:
   fernsehserien_episode_no: 552
   fernsehserien_episode_slug: 552-das-elsass-heimat-der-stoerche-1426023
   fernsehserien_episode_id: 1426023
+  imdb_episode_id: tt13616848
 - title: Lichterglanz im Norden - Winter in Stockholm und den Schären
   air_date: '2020-12-13'
   duration: 43
@@ -4531,6 +4720,7 @@ episodes:
   fernsehserien_episode_no: 553
   fernsehserien_episode_slug: 553-lichterglanz-im-norden-winter-in-stockholm-und-in-den-schaeren-1427055
   fernsehserien_episode_id: 1427055
+  imdb_episode_id: tt13814040
 - title: Chartres, die Farben des Himmels
   air_date: '2020-12-20'
   duration: 43
@@ -4540,6 +4730,7 @@ episodes:
   fernsehserien_episode_no: 554
   fernsehserien_episode_slug: 554-chartres-die-farben-des-himmels-1429102
   fernsehserien_episode_id: 1429102
+  imdb_episode_id: tt15105296
 - title: Bretagne, die raue Schönheit
   air_date: '2021-01-03'
   duration: 43
@@ -4549,6 +4740,7 @@ episodes:
   fernsehserien_episode_no: 555
   fernsehserien_episode_slug: 555-bretagne-die-raue-schoenheit-1434440
   fernsehserien_episode_id: 1434440
+  imdb_episode_id: tt16316762
 - title: Pelota, die baskische Leidenschaft
   air_date: '2021-01-10'
   duration: 43
@@ -4558,6 +4750,7 @@ episodes:
   fernsehserien_episode_no: 556
   fernsehserien_episode_slug: 556-pelota-die-baskische-leidenschaft-1436236
   fernsehserien_episode_id: 1436236
+  imdb_episode_id: tt18413904
 - title: Estland und das kleine Königreich der Seto
   air_date: '2021-01-31'
   duration: 45
@@ -4585,6 +4778,7 @@ episodes:
   fernsehserien_episode_no: 559
   fernsehserien_episode_slug: 559-dem-wolf-auf-der-spur-schnueffeln-fuer-den-artenschutz-1442841
   fernsehserien_episode_id: 1442841
+  imdb_episode_id: tt14056190
 - title: Die Eifel und ihre Eulen-Hüter
   air_date: '2021-02-21'
   duration: 45
@@ -4594,6 +4788,7 @@ episodes:
   fernsehserien_episode_no: 560
   fernsehserien_episode_slug: 560-die-eifel-und-ihre-eulen-hueter-1443627
   fernsehserien_episode_id: 1443627
+  imdb_episode_id: tt21073780
 - title: Percheron, das Kraftpaket mit einer Pferdestärke
   air_date: '2021-02-28'
   duration: 45
@@ -4603,6 +4798,7 @@ episodes:
   fernsehserien_episode_no: 561
   fernsehserien_episode_slug: 561-percheron-das-kraftpaket-mit-einer-pferdestaerke-1444769
   fernsehserien_episode_id: 1444769
+  imdb_episode_id: tt14143482
 - title: Kalkstein - Das weiße Gold von Brac
   air_date: '2021-03-07'
   duration: 45
@@ -4621,6 +4817,7 @@ episodes:
   fernsehserien_episode_no: 563
   fernsehserien_episode_slug: 563-hamburg-welthafen-mit-schwimmender-kirche-1449045
   fernsehserien_episode_id: 1449045
+  imdb_episode_id: tt14429944
 - title: Tradition am Steilhang - Die Schweiz und ihre Wildheuer
   air_date: '2021-03-21'
   duration: 43
@@ -4630,6 +4827,7 @@ episodes:
   fernsehserien_episode_no: 564
   fernsehserien_episode_slug: 564-tradition-am-steilhang-die-schweiz-und-ihre-wildheuer-1451154
   fernsehserien_episode_id: 1451154
+  imdb_episode_id: tt14434674
 - title: Biber, die Baumeister an der Elbe
   air_date: '2021-03-28'
   duration: 45
@@ -4638,6 +4836,7 @@ episodes:
   fernsehserien_episode_no: 565
   fernsehserien_episode_slug: 565-biber-die-baumeister-an-der-elbe-1453165
   fernsehserien_episode_id: 1453165
+  imdb_episode_id: tt14338900
 - title: Pelikane, die Könige des Donaudeltas
   air_date: '2021-04-04'
   duration: 45
@@ -4646,6 +4845,7 @@ episodes:
   fernsehserien_episode_no: 566
   fernsehserien_episode_slug: 566-pelikane-die-koenige-des-donaudeltas-1456045
   fernsehserien_episode_id: 1456045
+  imdb_episode_id: tt14434664
 - title: Frankreichs Winzer - Tradition trifft Passion
   air_date: '2021-04-18'
   duration: 43
@@ -4655,6 +4855,7 @@ episodes:
   fernsehserien_episode_no: 567
   fernsehserien_episode_slug: 567-frankreichs-winzer-tradition-trifft-passion-1457511
   fernsehserien_episode_id: 1457511
+  imdb_episode_id: tt14477970
 - title: Notruf Nordseeküste - Die Robben-Retter
   air_date: '2021-04-25'
   duration: 43
@@ -4692,6 +4893,7 @@ episodes:
   fernsehserien_episode_no: 571
   fernsehserien_episode_slug: 571-escobars-erbe-kolumbiens-kokain-hippos-1491102
   fernsehserien_episode_id: 1491102
+  imdb_episode_id: tt15529088
 - title: Die heilenden Delfine von Curacao
   alias: Curacao - Die sanften Delfine
   air_date: '2021-09-11'
@@ -4701,6 +4903,7 @@ episodes:
   fernsehserien_episode_no: 572
   fernsehserien_episode_slug: 572-die-heilenden-delfine-von-curacao-1492740
   fernsehserien_episode_id: 1492740
+  imdb_episode_id: tt15529128
 - title: Der Traum vom Gold - Tirols Überfliegerinnen
   air_date: '2021-09-11'
   duration: 32
@@ -4709,6 +4912,7 @@ episodes:
   fernsehserien_episode_no: 573
   fernsehserien_episode_slug: 573-der-traum-vom-gold-tirols-ueberfliegerinnen-1494060
   fernsehserien_episode_id: 1494060
+  imdb_episode_id: tt15455872
 - title: 'Schweiz: Gletscherflieger - Faszination in Weiß'
   air_date: '2021-09-25'
   duration: 32
@@ -4717,6 +4921,7 @@ episodes:
   fernsehserien_episode_no: 574
   fernsehserien_episode_slug: 574-schweiz-gletscherflieger-faszination-in-weiss-1495977
   fernsehserien_episode_id: 1495977
+  imdb_episode_id: tt16590496
 - title: Koh Panyee - Thailands fußballverrückte Insel
   air_date: '2019-10-02'
   duration: 32
@@ -4726,6 +4931,7 @@ episodes:
   fernsehserien_episode_no: 575
   fernsehserien_episode_slug: 575-koh-panyee-thailands-fussballverrueckte-insel-1497505
   fernsehserien_episode_id: 1497505
+  imdb_episode_id: tt15535426
 - title: Stromboli - Zwischen Feuer und Meer
   air_date: '2021-10-09'
   duration: 32
@@ -4734,6 +4940,7 @@ episodes:
   fernsehserien_episode_no: 576
   fernsehserien_episode_slug: 576-stromboli-zwischen-feuer-und-meer-1499263
   fernsehserien_episode_id: 1499263
+  imdb_episode_id: tt15610994
 - title: Italien - Die Igel-Retter aus dem Piemont
   air_date: '2021-10-16'
   duration: 32
@@ -4742,6 +4949,7 @@ episodes:
   fernsehserien_episode_no: 577
   fernsehserien_episode_slug: 577-italien-die-igel-retter-aus-dem-piemont-1501091
   fernsehserien_episode_id: 1501091
+  imdb_episode_id: tt17043702
 - title: 'Dolomiten: Die Bergführer von San Martino'
   air_date: '2021-10-30'
   duration: 32
@@ -4750,6 +4958,7 @@ episodes:
   fernsehserien_episode_no: 578
   fernsehserien_episode_slug: 578-dolomiten-die-bergfuehrer-von-san-martino-1508252
   fernsehserien_episode_id: 1508252
+  imdb_episode_id: tt15746990
 - title: Die Lowrider-Ladies von L.A.
   air_date: '2022-01-08'
   duration: 32
@@ -4790,6 +4999,7 @@ episodes:
   fernsehserien_episode_no: 583
   fernsehserien_episode_slug: 583-haute-couture-federn-falten-seidenblumen-1531089
   fernsehserien_episode_id: 1531089
+  imdb_episode_id: tt18228046
 - title: Die Odyssee der Mönchsrobbe
   air_date: '2022-02-19'
   duration: 32
@@ -4799,6 +5009,7 @@ episodes:
   fernsehserien_episode_no: 584
   fernsehserien_episode_slug: 584-die-odyssee-der-moenchsrobbe-1531389
   fernsehserien_episode_id: 1531389
+  imdb_episode_id: tt18279912
 - title: Elsass - Land der Orgeln
   air_date: '2022-02-26'
   duration: 32
@@ -4808,6 +5019,7 @@ episodes:
   fernsehserien_episode_no: 585
   fernsehserien_episode_slug: 585-elsass-land-der-orgeln-1533617
   fernsehserien_episode_id: 1533617
+  imdb_episode_id: tt18335884
 - title: Wilde Waterkant - Nordfriesland und seine Gänse
   air_date: '2022-03-12'
   duration: 32
@@ -4817,6 +5029,7 @@ episodes:
   fernsehserien_episode_no: 586
   fernsehserien_episode_slug: 586-wilde-waterkant-nordfriesland-und-seine-gaense-1537573
   fernsehserien_episode_id: 1537573
+  imdb_episode_id: tt18603248
 - title: Die Puppen tanzen! - Litauens rollendes Theater
   air_date: '2022-03-26'
   duration: 32
@@ -4826,6 +5039,7 @@ episodes:
   fernsehserien_episode_no: 587
   fernsehserien_episode_slug: 587-die-puppen-tanzen-litauens-rollendes-theater-1540410
   fernsehserien_episode_id: 1540410
+  imdb_episode_id: tt22300542
 - title: Südkorea - die Nonne der Tempelküche
   air_date: '2022-05-07'
   duration: 35
@@ -4844,6 +5058,7 @@ episodes:
   fernsehserien_episode_no: 589
   fernsehserien_episode_slug: 589-schwerelos-im-windkanal-1551765
   fernsehserien_episode_id: 1551765
+  imdb_episode_id: tt20231988
 - title: Frankreichs Gärten - Die kleinen Schätze
   air_date: '2022-05-21'
   duration: 32
@@ -4853,6 +5068,7 @@ episodes:
   fernsehserien_episode_no: 590
   fernsehserien_episode_slug: 590-frankreichs-gaerten-die-kleinen-schaetze-1553064
   fernsehserien_episode_id: 1553064
+  imdb_episode_id: tt20190184
 - title: Europas Urwälder - Ein Schatz der Natur
   air_date: '2022-06-04'
   duration: 32
@@ -4862,6 +5078,7 @@ episodes:
   fernsehserien_episode_no: 591
   fernsehserien_episode_slug: 591-europas-urwaelder-ein-schatz-der-natur-1556566
   fernsehserien_episode_id: 1556566
+  imdb_episode_id: tt20854434
 - title: Panzer, Wölfe, Rothirsche - Bayerns wilder Übungsplatz
   alias: Zwischen Naturschutz und Panzern - Bayerns wilder Schießplatz
   air_date: '2022-06-11'
@@ -4871,6 +5088,7 @@ episodes:
   fernsehserien_episode_no: 592
   fernsehserien_episode_slug: 592-panzer-woelfe-rothirsche-bayerns-wilder-uebungsplatz-1559229
   fernsehserien_episode_id: 1559229
+  imdb_episode_id: tt21030816
 - title: Kastiliens Kämpfer - Ritterspiele an der Burg Belmonte
   air_date: '2022-06-18'
   duration: 32
@@ -4880,6 +5098,7 @@ episodes:
   fernsehserien_episode_no: 593
   fernsehserien_episode_slug: 593-kastiliens-kaempfer-ritterspiele-an-der-burg-belmonte-1560073
   fernsehserien_episode_id: 1560073
+  imdb_episode_id: tt21073772
 - title: Nopal, der Alleskönner aus Mexiko
   air_date: '2022-06-25'
   duration: 31
@@ -4888,6 +5107,7 @@ episodes:
   fernsehserien_episode_no: 594
   fernsehserien_episode_slug: 594-nopal-der-alleskoenner-aus-mexiko-1564718
   fernsehserien_episode_id: 1564718
+  imdb_episode_id: tt21203634
 - title: Tempo und Leidenschaft - Argentiniens Polo-Spielerinnen
   air_date: '2022-07-02'
   duration: 32
@@ -4896,6 +5116,7 @@ episodes:
   fernsehserien_episode_no: 595
   fernsehserien_episode_slug: 595-tempo-und-leidenschaft-argentiniens-polo-spielerinnen-1570263
   fernsehserien_episode_id: 1570263
+  imdb_episode_id: tt21243244
 - title: 'Kourou: Palmen, Raketen, Gefängnisinseln'
   air_date: '2022-07-09'
   duration: 32
@@ -4904,6 +5125,7 @@ episodes:
   fernsehserien_episode_no: 596
   fernsehserien_episode_slug: 596-kourou-palmen-raketen-gefaengnisinseln-1567103
   fernsehserien_episode_id: 1567103
+  imdb_episode_id: tt21294972
 - title: Las Fallas - Valencias feurige Fiesta
   air_date: '2022-07-16'
   duration: 32
@@ -4912,6 +5134,7 @@ episodes:
   fernsehserien_episode_no: 597
   fernsehserien_episode_slug: 597-las-fallas-valencias-feurige-fiesta-1569286
   fernsehserien_episode_id: 1569286
+  imdb_episode_id: tt21352210
 - title: Das Gerichtsschiff vom Amazonas
   air_date: '2022-08-06'
   duration: 32
@@ -4921,6 +5144,7 @@ episodes:
   fernsehserien_episode_no: 598
   fernsehserien_episode_slug: 598-das-gerichtsschiff-vom-amazonas-1579010
   fernsehserien_episode_id: 1579010
+  imdb_episode_id: tt22023194
 - title: 'Der Science-Van on Tour: Indien - Kampf den Scharlatanen'
   air_date: '2022-09-01'
   duration: 32
@@ -4938,6 +5162,7 @@ episodes:
   fernsehserien_episode_no: 600
   fernsehserien_episode_slug: 600-ahornsirup-kanadas-suesser-schatz-1583564
   fernsehserien_episode_id: 1583564
+  imdb_episode_id: tt22299618
 - title: Estland - Krötenretter im Einsatz
   air_date: '2022-10-01'
   duration: 32
@@ -4946,6 +5171,7 @@ episodes:
   fernsehserien_episode_no: 601
   fernsehserien_episode_slug: 601-estland-kroetenretter-im-einsatz-1586757
   fernsehserien_episode_id: 1586757
+  imdb_episode_id: tt22805294
 - title: Sardiniens wertvolle Muschelseide
   air_date: '2022-10-29'
   duration: 32
@@ -4955,6 +5181,7 @@ episodes:
   fernsehserien_episode_no: 602
   fernsehserien_episode_slug: 602-sardiniens-wertvolle-muschelseide-1590045
   fernsehserien_episode_id: 1590045
+  imdb_episode_id: tt23159150
 - title: Cordoba, die Stadt der Patios
   air_date: '2022-11-05'
   duration: 32
@@ -4964,6 +5191,7 @@ episodes:
   fernsehserien_episode_no: 603
   fernsehserien_episode_slug: 603-cordoba-die-stadt-der-patios-1602011
   fernsehserien_episode_id: 1602011
+  imdb_episode_id: tt23368470
 - title: Marquesas-Inseln, das Comeback der Tattoos
   air_date: '2022-11-19'
   duration: 32
@@ -4973,6 +5201,7 @@ episodes:
   fernsehserien_episode_no: 604
   fernsehserien_episode_slug: 604-marquesas-inseln-das-comeback-der-tattoos-1596812
   fernsehserien_episode_id: 1596812
+  imdb_episode_id: tt23747588
 - title: Die Schweizergarde - Ein Leben für den Papst
   air_date: '2022-12-03'
   duration: 32
@@ -4982,6 +5211,7 @@ episodes:
   fernsehserien_episode_no: 605
   fernsehserien_episode_slug: 605-die-schweizergarde-ein-leben-fuer-den-papst-1602010
   fernsehserien_episode_id: 1602010
+  imdb_episode_id: tt23985080
 - title: Island, die wertvollsten Daunen der Welt
   air_date: '2022-12-10'
   duration: 32
@@ -4991,6 +5221,7 @@ episodes:
   fernsehserien_episode_no: 606
   fernsehserien_episode_slug: 606-island-die-wertvollsten-daunen-der-welt-1602943
   fernsehserien_episode_id: 1602943
+  imdb_episode_id: tt24220972
 - title: Zuflucht in den Anden - Kolumbiens indigene Transfrauen
   air_date: '2022-12-17'
   duration: 32
@@ -5000,6 +5231,7 @@ episodes:
   fernsehserien_episode_no: 607
   fernsehserien_episode_slug: 607-zuflucht-in-den-anden-kolumbiens-indigene-transfrauen-1605209
   fernsehserien_episode_id: 1605209
+  imdb_episode_id: tt24636850
 - title: Kristall - Die magische Kunst aus den Vogesen
   air_date: '2022-12-24'
   duration: 32
@@ -5009,6 +5241,7 @@ episodes:
   fernsehserien_episode_no: 608
   fernsehserien_episode_slug: 608-kristall-die-magische-kunst-aus-den-vogesen-1607754
   fernsehserien_episode_id: 1607754
+  imdb_episode_id: tt25051572
 - title: Montenegro - Der Eselretter
   air_date: '2023-01-07'
   duration: 32
@@ -5018,6 +5251,7 @@ episodes:
   fernsehserien_episode_no: 609
   fernsehserien_episode_slug: 609-montenegro-der-eselretter-1609765
   fernsehserien_episode_id: 1609765
+  imdb_episode_id: tt25786568
 - title: Nopal - Das grüne Golde Mexikos
   air_date: '2023-01-16'
   duration: 32
@@ -5032,11 +5266,13 @@ episodes:
   fernsehserien_episode_no: 610
   fernsehserien_episode_slug: 610-der-bergkristall-schatz-in-den-schweizer-alpen-1612863
   fernsehserien_episode_id: 1612863
+  imdb_episode_id: tt26422175
 - title: Indien - Kampf den Scharlatanen
   air_date: '2023-01-23'
   duration: 51
   thetvdb_season_episode: S25E04
   thetvdb_episode_id: 9524039
+  imdb_episode_id: tt22085934
 - title: Maine - Hummer oder Wale?
   air_date: '2023-01-28'
   duration: 32
@@ -5046,11 +5282,13 @@ episodes:
   fernsehserien_episode_no: 611
   fernsehserien_episode_slug: 611-maine-hummer-oder-wale-1613685
   fernsehserien_episode_id: 1613685
+  imdb_episode_id: tt26472394
 - title: Singvögel - die goldene Stimmen von Singapur
   air_date: '2023-02-04'
   duration: 32
   thetvdb_season_episode: S25E06
   thetvdb_episode_id: 9524041
+  imdb_episode_id: tt18413922
 - title: Namibia - von Sandsurfern und Skatern
   air_date: '2023-02-11'
   thetvdb_season_episode: S25E07
@@ -5060,27 +5298,32 @@ episodes:
   fernsehserien_episode_no: 612
   fernsehserien_episode_slug: 612-albanien-die-stimmen-der-schaefer-1618464
   fernsehserien_episode_id: 1618464
+  imdb_episode_id: tt26898737
 - title: Laos - Futterblöcke und Büffel-Leasing
   air_date: '2023-02-25'
   fernsehserien_episode_no: 613
   fernsehserien_episode_slug: 613-laos-futterbloecke-und-bueffel-leasing-1620347
   fernsehserien_episode_id: 1620347
+  imdb_episode_id: tt27005233
 - title: Freiheit auf Pferderücken - Der lange Weg der Nez Perce
   air_date: '2023-03-04'
   fernsehserien_episode_no: 614
   fernsehserien_episode_slug: 614-freiheit-auf-pferderuecken-der-lange-weg-der-nez-perce-1621705
   fernsehserien_episode_id: 1621705
+  imdb_episode_id: tt27110800
 - title: Peloponnes - Rückkehr zur Erde
   alias: Peloponnes - Die Pioniere des Waldgartens
   air_date: '2023-03-11'
   fernsehserien_episode_no: 615
   fernsehserien_episode_slug: 615-peloponnes-rueckkehr-zur-erde-1623768
   fernsehserien_episode_id: 1623768
+  imdb_episode_id: tt27170463
 - title: Handgemacht in Laos - Rares aus Rattan
   air_date: '2023-03-18'
   fernsehserien_episode_no: 616
   fernsehserien_episode_slug: 616-handgemacht-in-laos-rares-aus-rattan-1625195
   fernsehserien_episode_id: 1625195
+  imdb_episode_id: tt27252897
 - title: Leben mit dem Tod - Ahnenkult auf Sulawesi
   air_date: '2023-04-29'
   fernsehserien_episode_no: 617
