@@ -4,6 +4,9 @@ databases:
   themoviedb: https://www.themoviedb.org/tv/95966-360-die-geo-reportage
   thetvdb: https://thetvdb.com/series/272599-show
   fernsehserien: https://www.fernsehserien.de/arte-360grad-reportage
+youtube:
+  - https://www.youtube.com/@georeportage
+  - https://www.youtube.com/playlist?list=PLAocIS-jUf43CkOnsymOxHihGWKfCkUDC
 episodes:
 - title: 'Traum-Städte: Beirut - die Milliarden-Dollar-Utopie'
   air_date: '1999-01-04'

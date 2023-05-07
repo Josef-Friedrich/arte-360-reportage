@@ -61,8 +61,10 @@ def fetch_all_youtube_videos(playlistId: str):
 
 
 if __name__ == "__main__":
-    # comedy central playlist, has 332 video
-    # https://www.youtube.com/watch?v=tJDLdxYKh3k&list=PLD7nPL1U-R5rDpeH95XsK0qwJHLTS3tNT
-    videos = fetch_all_youtube_videos("PLD7nPL1U-R5rDpeH95XsK0qwJHLTS3tNT")
-
+    videos = fetch_all_youtube_videos("PLAocIS-jUf43CkOnsymOxHihGWKfCkUDC")
     print(json.dumps(videos, indent=2))
+
+    for video in videos['items']:
+        print(video['snippet']['title'])
+        print(video['snippet']['resourceId']['videoId'])
+        print(video['snippet']['description'])
