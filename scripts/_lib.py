@@ -17,6 +17,7 @@ class Episode(typing.TypedDict):
     fernsehserien_episode_no: int
     fernsehserien_episode_slug: str
     fernsehserien_episode_id: int
+    imdb_episode_id: str
     index: int
 
 
@@ -101,6 +102,9 @@ class Geo360:
                 )
 
         return episode
+
+    def save(self) -> None:
+        write(self.data)
 
 
 geo_360 = Geo360()
