@@ -5815,9 +5815,11 @@ episodes:
   fernsehserien_episode_slug: 608-kristall-die-magische-kunst-aus-den-vogesen-1607754
   fernsehserien_episode_id: 1607754
   imdb_episode_id: tt25051572
+
 - title: Montenegro - Der Eselretter
   air_date: '2023-01-07'
   duration: 32
+  episode: 1
   thetvdb_season_episode: S25E01
   thetvdb_episode_id: 9524036
   fernsehserien_air_date: '2022-12-31'
@@ -5828,11 +5830,13 @@ episodes:
 - title: Nopal - Das grüne Golde Mexikos
   air_date: '2023-01-16'
   duration: 32
+  episode: 2
   thetvdb_season_episode: S25E02
   thetvdb_episode_id: 9524037
 - title: Der Bergkristall - Schatz in den Schweizer Alpen
   air_date: '2023-01-21'
   duration: 32
+  episode: 3
   thetvdb_season_episode: S25E03
   thetvdb_episode_id: 9524038
   fernsehserien_air_date: '2023-01-14'
@@ -5843,6 +5847,7 @@ episodes:
 - title: Indien - Kampf den Scharlatanen
   air_date: '2023-01-23'
   duration: 51
+  episode: 4
   thetvdb_season_episode: S25E04
   thetvdb_episode_id: 9524039
   imdb_episode_id: tt22085934
@@ -5850,6 +5855,7 @@ episodes:
 - title: Maine - Hummer oder Wale?
   air_date: '2023-01-28'
   duration: 32
+  episode: 5
   thetvdb_season_episode: S25E05
   thetvdb_episode_id: 9524040
   fernsehserien_air_date: '2023-01-21'
@@ -5857,30 +5863,39 @@ episodes:
   fernsehserien_episode_slug: 611-maine-hummer-oder-wale-1613685
   fernsehserien_episode_id: 1613685
   imdb_episode_id: tt26472394
+
 - title: Singvögel - die goldene Stimmen von Singapur
   air_date: '2023-02-04'
   duration: 32
+  episode: 6
   thetvdb_season_episode: S25E06
   thetvdb_episode_id: 9524041
   imdb_episode_id: tt18413922
+
 - title: Namibia - von Sandsurfern und Skatern
   air_date: '2023-02-11'
+  episode: 7
   thetvdb_season_episode: S25E07
   thetvdb_episode_id: 9524042
 - title: Albanien - Die Stimmen der Schäfer
   air_date: '2023-02-25'
+  episode: 8
   fernsehserien_episode_no: 612
   fernsehserien_episode_slug: 612-albanien-die-stimmen-der-schaefer-1618464
   fernsehserien_episode_id: 1618464
   imdb_episode_id: tt26898737
+
 - title: Laos - Futterblöcke und Büffel-Leasing
   air_date: '2023-03-04'
+  episode: 9
   fernsehserien_episode_no: 613
   fernsehserien_episode_slug: 613-laos-futterbloecke-und-bueffel-leasing-1620347
   fernsehserien_episode_id: 1620347
   imdb_episode_id: tt27005233
+
 - title: Freiheit auf Pferderücken - Der lange Weg der Nez Perce
   air_date: '2023-03-11'
+  episode: 10
   fernsehserien_episode_no: 614
   fernsehserien_episode_slug: 614-freiheit-auf-pferderuecken-der-lange-weg-der-nez-perce-1621705
   fernsehserien_episode_id: 1621705
@@ -5888,23 +5903,27 @@ episodes:
 - title: Peloponnes - Rückkehr zur Erde
   alias: Peloponnes - Die Pioniere des Waldgartens
   air_date: '2023-03-18'
+  episode: 11
   fernsehserien_episode_no: 615
   fernsehserien_episode_slug: 615-peloponnes-rueckkehr-zur-erde-1623768
   fernsehserien_episode_id: 1623768
   imdb_episode_id: tt27170463
 - title: Handgemacht in Laos - Rares aus Rattan
   air_date: '2023-03-25'
+  episode: 12
   fernsehserien_episode_no: 616
   fernsehserien_episode_slug: 616-handgemacht-in-laos-rares-aus-rattan-1625195
   fernsehserien_episode_id: 1625195
   imdb_episode_id: tt27252897
 - title: Leben mit dem Tod - Ahnenkult auf Sulawesi
   air_date: '2023-05-06'
+  episode: 13
   fernsehserien_episode_no: 617
   fernsehserien_episode_slug: 617-leben-mit-dem-tod-ahnenkult-auf-sulawesi-1634635
   fernsehserien_episode_id: 1634635
 - title: Die Waschbären von Berlin
   air_date: '2023-05-20'
+  episode: 14
   fernsehserien_episode_no: 618
   fernsehserien_episode_slug: 618-die-waschbaeren-von-berlin-1640104
   fernsehserien_episode_id: 1640104

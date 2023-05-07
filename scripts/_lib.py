@@ -15,6 +15,8 @@ class EpisodeData(typing.TypedDict):
     title_en: str
     air_date: str
     duration: int
+    season: int
+    episode: int
     thetvdb_season_episode: str
     thetvdb_episode_id: int
     fernsehserien_air_date: str
