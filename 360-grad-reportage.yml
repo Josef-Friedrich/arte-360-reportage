@@ -91,6 +91,7 @@ episodes:
   fernsehserien_episode_slug: 10-regenwald-auf-dem-holzweg-339125
   fernsehserien_episode_id: 339125
 - title: 'Regenwald: Der Geist des Vogels - Heilkraft aus dem Urwald'
+  alias: Heilkraft aus dem Urwald
   air_date: '1999-03-03'
   duration: 55
   thetvdb_season_episode: S01E11
@@ -339,6 +340,7 @@ episodes:
   fernsehserien_episode_slug: 41-naturgewalten-ernstfall-erdbeben-339153
   fernsehserien_episode_id: 339153
 - title: 'Naturgewalten: Tsunami - die Todeswelle'
+  alias: Tsunami - Die tödliche Welle
   air_date: '2000-01-11'
   duration: 55
   thetvdb_season_episode: S02E02
@@ -436,6 +438,7 @@ episodes:
   fernsehserien_episode_slug: 53-medizin-der-zukunft-die-klinik-der-schamanen-339171
   fernsehserien_episode_id: 339171
 - title: 'Medizin der Zukunft: Organe nach Maß'
+  alias: Organe nach Maß
   air_date: '2000-05-02'
   duration: 55
   thetvdb_season_episode: S02E14
@@ -484,6 +487,7 @@ episodes:
   fernsehserien_episode_slug: 59-dem-taeter-auf-der-spur-geheimnisse-der-toten-339308
   fernsehserien_episode_id: 339308
 - title: 'Dem Täter auf der Spur: Psycho-Detektive'
+  alias: Psycho-Detektive
   air_date: '2000-06-08'
   duration: 55
   thetvdb_season_episode: S02E20
@@ -492,6 +496,7 @@ episodes:
   fernsehserien_episode_slug: 60-dem-taeter-auf-der-spur-psycho-detektive-339309
   fernsehserien_episode_id: 339309
 - title: 'Im Reich der Meere: Das Fenster zum Meer - Im Großaquarium von Sydney'
+  alias: Das Fenster zum Meer
   air_date: '2000-09-04'
   duration: 55
   thetvdb_season_episode: S02E21
@@ -501,6 +506,7 @@ episodes:
   fernsehserien_episode_id: 339341
 - title: 'Im Reich der Meere: Schwarze Brandung - Nach der Ölkatastrophe an der bretonischen
     Küste'
+  alias: Schwarze Brandung
   air_date: '2000-09-05'
   duration: 55
   thetvdb_season_episode: S02E22
@@ -509,6 +515,7 @@ episodes:
   fernsehserien_episode_slug: 62-im-reich-der-meere-schwarze-brandung-nach-der-oelkatastrophe-an-der-bretonischen-kueste-339342
   fernsehserien_episode_id: 339342
 - title: 'Im Reich der Meere: Durst nach Meer - Neue Methoden der Trinkwassergewinnung'
+  alias: Durst nach Meer
   air_date: '2000-09-06'
   duration: 55
   thetvdb_season_episode: S02E23
@@ -517,6 +524,7 @@ episodes:
   fernsehserien_episode_slug: 63-im-reich-der-meere-durst-nach-meer-neue-methoden-der-trinkwassergewinnung-339343
   fernsehserien_episode_id: 339343
 - title: 'Im Reich der Meere: SOS auf hoher See - Moderne Rettungstechnik im Einsatz'
+  alias: SOS auf hoher See
   air_date: '2000-09-07'
   duration: 55
   thetvdb_season_episode: S02E24
@@ -525,6 +533,7 @@ episodes:
   fernsehserien_episode_slug: 64-im-reich-der-meere-sos-auf-hoher-see-moderne-rettungstechnik-im-einsatz-339344
   fernsehserien_episode_id: 339344
 - title: 'Die Geheimnisse des Waldes: Die Feuerpatrouille'
+  alias: Die Feuerpatrouille
   air_date: '2000-10-02'
   duration: 55
   thetvdb_season_episode: S02E25
@@ -551,6 +560,7 @@ episodes:
   fernsehserien_episode_id: 339346
   imdb_episode_id: tt1007044
 - title: 'Die Geheimnisse des Waldes: Die Waldfabrik'
+  alias: Die Waldfabrik
   air_date: '2000-10-05'
   duration: 55
   thetvdb_season_episode: S02E28
@@ -577,6 +587,7 @@ episodes:
   fernsehserien_episode_slug: 70-leben-am-limit-grenzen-des-koerpers-apnoe-taucher-im-tiefenrausch-339349
   fernsehserien_episode_id: 339349
 - title: 'Leben am Limit / Grenzen des Körpers: Radrennen - Ewiger Endspurt'
+  alias: Radrennen - Ewiger Endspurt
   air_date: '2000-11-08'
   duration: 55
   thetvdb_season_episode: S02E31
@@ -585,6 +596,7 @@ episodes:
   fernsehserien_episode_slug: 71-leben-am-limit-grenzen-des-koerpers-radrennen-ewiger-endspurt-339350
   fernsehserien_episode_id: 339350
 - title: 'Leben am Limit / Grenzen des Körpers: Sadhus - Heilige Aussteiger'
+  alias: Sadhus - Heilige Aussteiger
   air_date: '2000-11-09'
   duration: 55
   thetvdb_season_episode: S02E32
@@ -601,6 +613,7 @@ episodes:
   fernsehserien_episode_slug: 73-tiere-im-rampenlicht-die-elefantenschule-339352
   fernsehserien_episode_id: 339352
 - title: 'Tiere im Rampenlicht: Der Rentier-Trek'
+  alias: Der Rentier-Trek
   air_date: '2000-12-05'
   duration: 55
   thetvdb_season_episode: S02E34
@@ -617,6 +630,7 @@ episodes:
   fernsehserien_episode_slug: 75-tiere-im-rampenlicht-nicht-ohne-meinen-hund-339354
   fernsehserien_episode_id: 339354
 - title: 'Tiere im Rampenlicht: Kamele im Rennen'
+  alias: Kamele im Rennen
   air_date: '2000-12-07'
   duration: 55
   thetvdb_season_episode: S02E36
@@ -625,6 +639,7 @@ episodes:
   fernsehserien_episode_slug: 76-tiere-im-rampenlicht-kamele-im-rennen-339355
   fernsehserien_episode_id: 339355
 - title: 'Überleben in der Wüste: Timbuktu'
+  alias: Timbuktu
   air_date: '2001-01-02'
   duration: 55
   thetvdb_season_episode: S03E01
@@ -1078,6 +1093,7 @@ episodes:
   fernsehserien_episode_id: 339451
   imdb_episode_id: tt1051735
 - title: Palmasola - Dorf hinter Gittern
+  alias: Palma Sola - Stadt der Mörder
   air_date: '2002-10-07'
   duration: 55
   thetvdb_season_episode: S04E24
@@ -1247,6 +1263,7 @@ episodes:
   fernsehserien_episode_slug: 147-rueckkehr-der-meeresschildkroeten-339475
   fernsehserien_episode_id: 339475
 - title: Samoa Queens - Männer, die als Frauen leben
+  alias: Samoa Queens
   air_date: '2003-04-07'
   duration: 55
   thetvdb_season_episode: S05E13

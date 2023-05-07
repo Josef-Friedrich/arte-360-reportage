@@ -7,15 +7,9 @@ from _lib import geo_360, clean_title
 from _youtube import fetch_videos_by_playlist, fetch_videos_by_channel
 
 
-result = fetch_videos_by_channel("UC4W-JsjRBsAvE6DZGOc8LGw")
-
-
-videos = fetch_videos_by_playlist("PLAocIS-jUf43CkOnsymOxHihGWKfCkUDC")
-
-
 def merge(playlist_items: typing.Any):
     if "items" in playlist_items:
-        for video in videos["items"]:
+        for video in playlist_items["items"]:
             if "snippet" in video:
                 snippet = video["snippet"]
                 if "title" in snippet:
@@ -31,8 +25,8 @@ def merge(playlist_items: typing.Any):
                         if episode:
                             episode["youtube_video_id"] = video_id
 
-        geo_360.save()
-
 
 merge(fetch_videos_by_channel("UC4W-JsjRBsAvE6DZGOc8LGw"))
 merge(fetch_videos_by_playlist("PLAocIS-jUf43CkOnsymOxHihGWKfCkUDC"))
+
+geo_360.save()

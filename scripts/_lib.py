@@ -105,6 +105,8 @@ def clean_title(title: str) -> str:
     title = re.sub(r" *\(.+\) *", " ", title)
     title = title.strip()
     title = re.sub(r"  +", " ", title)
+    title = re.sub(r"GEO Reportage *[:-] +", "", title)
+    title = re.sub(r"^\d+ *- *", "", title)
     return title
 
 
