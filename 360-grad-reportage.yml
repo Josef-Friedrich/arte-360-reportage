@@ -16,6 +16,7 @@ episodes:
   fernsehserien_episode_no: 1
   fernsehserien_episode_slug: 1-traum-staedte-beirut-die-milliarden-dollar-utopie-339116
   fernsehserien_episode_id: 339116
+  youtube_video_id: E_uSFyHf7BM
 - title: 'Traum-Städte: Chandigarh - Leben im Beton'
   air_date: '1999-01-05'
   duration: 55
@@ -24,6 +25,7 @@ episodes:
   fernsehserien_episode_no: 2
   fernsehserien_episode_slug: 2-traum-staedte-chandigarh-leben-im-beton-339117
   fernsehserien_episode_id: 339117
+  youtube_video_id: FGgrN8pRhTU
 - title: 'Traum-Städte: Brasilia - Metropole vom Reißbrett'
   air_date: '1999-01-06'
   duration: 55
@@ -32,6 +34,7 @@ episodes:
   fernsehserien_episode_no: 3
   fernsehserien_episode_slug: 3-traum-staedte-brasilia-metropole-vom-reissbrett-339118
   fernsehserien_episode_id: 339118
+  youtube_video_id: _7Y2Y4bbw9s
 - title: 'Traum-Städte: Celebration - Leben in Harmonie'
   air_date: '1999-01-07'
   duration: 55
@@ -40,6 +43,7 @@ episodes:
   fernsehserien_episode_no: 4
   fernsehserien_episode_slug: 4-traum-staedte-celebration-leben-in-harmonie-339119
   fernsehserien_episode_id: 339119
+  youtube_video_id: cA7vQS4fCTI
 - title: 'Weibs-Bilder: Die mächtigen Frauen von Juchitán'
   alias: Leistungsstarke Frauen Juchitan
   air_date: '1999-02-01'
@@ -50,6 +54,7 @@ episodes:
   fernsehserien_episode_slug: 5-weibs-bilder-die-maechtigen-frauen-von-juchitan-339120
   fernsehserien_episode_id: 339120
   imdb_episode_id: tt3369154
+  youtube_video_id: 1mSDukDzpDM
 - title: 'Weibs-Bilder: Hazeras Geschäfte'
   air_date: '1999-02-02'
   duration: 55
@@ -58,6 +63,7 @@ episodes:
   fernsehserien_episode_no: 6
   fernsehserien_episode_slug: 6-weibs-bilder-hazeras-geschaefte-339123
   fernsehserien_episode_id: 339123
+  youtube_video_id: R5rvxs4hX20
 - title: 'Weibs-Bilder: Die neue Kunst des Kinderkriegens'
   air_date: '1999-02-03'
   duration: 55
@@ -66,6 +72,7 @@ episodes:
   fernsehserien_episode_no: 7
   fernsehserien_episode_slug: 7-weibs-bilder-die-neue-kunst-des-kinderkriegens-339122
   fernsehserien_episode_id: 339122
+  youtube_video_id: LrC1AVBi3c4
 - title: 'Weibs-Bilder: Der kleine Unterschied im Kopf'
   air_date: '1999-02-04'
   duration: 55
@@ -74,6 +81,7 @@ episodes:
   fernsehserien_episode_no: 8
   fernsehserien_episode_slug: 8-weibs-bilder-der-kleine-unterschied-im-kopf-339124
   fernsehserien_episode_id: 339124
+  youtube_video_id: cwkotpcPnSw
 - title: 'Regenwald: Die Spurensucher'
   air_date: '1999-03-01'
   duration: 55
@@ -82,6 +90,7 @@ episodes:
   fernsehserien_episode_no: 9
   fernsehserien_episode_slug: 9-regenwald-die-spurensucher-339121
   fernsehserien_episode_id: 339121
+  youtube_video_id: Lo0nKPEQ8Rw
 - title: 'Regenwald: Auf dem Holzweg'
   air_date: '1999-03-02'
   duration: 55
@@ -90,6 +99,7 @@ episodes:
   fernsehserien_episode_no: 10
   fernsehserien_episode_slug: 10-regenwald-auf-dem-holzweg-339125
   fernsehserien_episode_id: 339125
+  youtube_video_id: _dmzJgBbZQ4
 - title: 'Regenwald: Der Geist des Vogels - Heilkraft aus dem Urwald'
   alias: Heilkraft aus dem Urwald
   air_date: '1999-03-03'
@@ -99,6 +109,7 @@ episodes:
   fernsehserien_episode_no: 11
   fernsehserien_episode_slug: 11-regenwald-der-geist-des-vogels-heilkraft-aus-dem-urwald-339126
   fernsehserien_episode_id: 339126
+  youtube_video_id: NrEukDOS1EA
 - title: 'Regenwald: Die Pille für den Wald'
   air_date: '1999-03-04'
   duration: 55
@@ -107,6 +118,7 @@ episodes:
   fernsehserien_episode_no: 12
   fernsehserien_episode_slug: 12-regenwald-die-pille-fuer-den-wald-339127
   fernsehserien_episode_id: 339127
+  youtube_video_id: dLFIQxBpprQ
 - title: 'Vorbild Natur: Copyright Natur'
   air_date: '1999-04-05'
   duration: 55
@@ -115,6 +127,7 @@ episodes:
   fernsehserien_episode_no: 13
   fernsehserien_episode_slug: 13-vorbild-natur-copyright-natur-339129
   fernsehserien_episode_id: 339129
+  youtube_video_id: tCbl1P76mxs
 - title: 'Vorbild Natur: Mensch Roboter!'
   air_date: '1999-04-06'
   duration: 55
@@ -123,6 +136,7 @@ episodes:
   fernsehserien_episode_no: 14
   fernsehserien_episode_slug: 14-vorbild-natur-mensch-roboter-339130
   fernsehserien_episode_id: 339130
+  youtube_video_id: vqEw-I_qCfU
 - title: 'Vorbild Natur: ABC des Universums'
   air_date: '1999-04-07'
   duration: 55
@@ -131,6 +145,7 @@ episodes:
   fernsehserien_episode_no: 15
   fernsehserien_episode_slug: 15-vorbild-natur-abc-des-universums-339131
   fernsehserien_episode_id: 339131
+  youtube_video_id: rCzm-aVuTzg
 - title: 'Vorbild Natur: Die Erfindung der Wirklichkeit'
   air_date: '1999-04-08'
   duration: 55
@@ -139,6 +154,7 @@ episodes:
   fernsehserien_episode_no: 16
   fernsehserien_episode_slug: 16-vorbild-natur-die-erfindung-der-wirklichkeit-339132
   fernsehserien_episode_id: 339132
+  youtube_video_id: 06CDuq1PtKo
 - title: 'Schönheit: Markt der Schönheit'
   air_date: '1999-05-03'
   duration: 55
@@ -147,6 +163,7 @@ episodes:
   fernsehserien_episode_no: 17
   fernsehserien_episode_slug: 17-schoenheit-markt-der-schoenheit-339310
   fernsehserien_episode_id: 339310
+  youtube_video_id: TNonjmeywIQ
 - title: 'Schönheit: Kuba - von der stillen Revolte der Schönheit'
   air_date: '1999-05-04'
   duration: 55
@@ -155,6 +172,7 @@ episodes:
   fernsehserien_episode_no: 18
   fernsehserien_episode_slug: 18-schoenheit-kuba-von-der-stillen-revolte-der-schoenheit-339333
   fernsehserien_episode_id: 339333
+  youtube_video_id: YKZbpc4kuSI
 - title: 'Schönheit: Das Maß der Schönheit'
   air_date: '1999-05-05'
   duration: 55
@@ -163,6 +181,7 @@ episodes:
   fernsehserien_episode_no: 19
   fernsehserien_episode_slug: 19-schoenheit-das-mass-der-schoenheit-339334
   fernsehserien_episode_id: 339334
+  youtube_video_id: XW4c4rXmj_U
 - title: 'Schönheit: Die andere Seite der Schönheit'
   air_date: '1999-05-06'
   duration: 55
@@ -171,6 +190,7 @@ episodes:
   fernsehserien_episode_no: 20
   fernsehserien_episode_slug: 20-schoenheit-die-andere-seite-der-schoenheit-339328
   fernsehserien_episode_id: 339328
+  youtube_video_id: tcYPNiXisX0
 - title: 'Intelligenz: Geniale Störenfriede'
   air_date: '1999-07-05'
   duration: 55
@@ -179,6 +199,7 @@ episodes:
   fernsehserien_episode_no: 21
   fernsehserien_episode_slug: 21-intelligenz-geniale-stoerenfriede-339133
   fernsehserien_episode_id: 339133
+  youtube_video_id: 9N_DwJ2fymM
 - title: 'Intelligenz: Musik macht klug'
   air_date: '1999-07-06'
   duration: 55
@@ -187,6 +208,7 @@ episodes:
   fernsehserien_episode_no: 22
   fernsehserien_episode_slug: 22-intelligenz-musik-macht-klug-339134
   fernsehserien_episode_id: 339134
+  youtube_video_id: GdWPt-utQPM
 - title: 'Intelligenz: „Think Tank“ - Die Schule der Affen'
   air_date: '1999-07-07'
   duration: 55
@@ -195,6 +217,7 @@ episodes:
   fernsehserien_episode_no: 23
   fernsehserien_episode_slug: 23-intelligenz-think-tank-die-schule-der-affen-339157
   fernsehserien_episode_id: 339157
+  youtube_video_id: P6QzAbgbxFg
 - title: 'Intelligenz: Künstliche Intelligenz'
   air_date: '1999-07-08'
   duration: 55
@@ -203,6 +226,7 @@ episodes:
   fernsehserien_episode_no: 24
   fernsehserien_episode_slug: 24-intelligenz-kuenstliche-intelligenz-339158
   fernsehserien_episode_id: 339158
+  youtube_video_id: 3rC25gW3xxk
 - title: 'Irren ist menschlich: Der Kaninchen-Krieg'
   air_date: '1999-09-06'
   duration: 55
@@ -211,6 +235,7 @@ episodes:
   fernsehserien_episode_no: 25
   fernsehserien_episode_slug: 25-irren-ist-menschlich-der-kaninchen-krieg-339138
   fernsehserien_episode_id: 339138
+  youtube_video_id: jYrt-OPNDJM
 - title: 'Irren ist menschlich: Countdown ins Desaster'
   air_date: '1999-09-07'
   duration: 55
@@ -219,6 +244,7 @@ episodes:
   fernsehserien_episode_no: 26
   fernsehserien_episode_slug: 26-irren-ist-menschlich-countdown-ins-desaster-339139
   fernsehserien_episode_id: 339139
+  youtube_video_id: Re2So-kXO2E
 - title: 'Irren ist menschlich: Liebe und andere Katastrophen'
   air_date: '1999-09-08'
   duration: 55
@@ -227,6 +253,7 @@ episodes:
   fernsehserien_episode_no: 27
   fernsehserien_episode_slug: 27-irren-ist-menschlich-liebe-und-andere-katastrophen-339140
   fernsehserien_episode_id: 339140
+  youtube_video_id: WgWcbKnYJJY
 - title: 'Irren ist menschlich: Verkehrte Sicherheit'
   air_date: '1999-09-09'
   duration: 55
@@ -235,6 +262,7 @@ episodes:
   fernsehserien_episode_no: 28
   fernsehserien_episode_slug: 28-irren-ist-menschlich-verkehrte-sicherheit-339141
   fernsehserien_episode_id: 339141
+  youtube_video_id: G1M3FDyey0k
 - title: 'Die Suche nach dem Glück: Die Meister des Glücks'
   air_date: '1999-10-11'
   duration: 55
@@ -259,6 +287,7 @@ episodes:
   fernsehserien_episode_no: 31
   fernsehserien_episode_slug: 31-die-suche-nach-dem-glueck-chemie-der-traurigkeit-339144
   fernsehserien_episode_id: 339144
+  youtube_video_id: 1SVM-x4U7w4
 - title: 'Die Suche nach dem Glück: Insel der Glücklichsten'
   air_date: '1999-10-14'
   duration: 55
@@ -267,6 +296,7 @@ episodes:
   fernsehserien_episode_no: 32
   fernsehserien_episode_slug: 32-die-suche-nach-dem-glueck-insel-der-gluecklichsten-339145
   fernsehserien_episode_id: 339145
+  youtube_video_id: 0ejrRWcXiro
 - title: 'Universum des Lichts: Hunger nach Sonne'
   air_date: '1999-11-01'
   duration: 55
@@ -275,6 +305,7 @@ episodes:
   fernsehserien_episode_no: 33
   fernsehserien_episode_slug: 33-universum-des-lichts-hunger-nach-sonne-339137
   fernsehserien_episode_id: 339137
+  youtube_video_id: WicPXmsDRC8
 - title: 'Universum des Lichts: Die Leuchtkraft der Natur'
   air_date: '1999-11-02'
   duration: 55
@@ -283,6 +314,7 @@ episodes:
   fernsehserien_episode_no: 34
   fernsehserien_episode_slug: 34-universum-des-lichts-die-leuchtkraft-der-natur-339146
   fernsehserien_episode_id: 339146
+  youtube_video_id: 7_3cDZ3yVrg
 - title: 'Universum des Lichts: Die Seele des Lichts'
   air_date: '1999-11-03'
   duration: 55
@@ -299,6 +331,7 @@ episodes:
   fernsehserien_episode_no: 36
   fernsehserien_episode_slug: 36-universum-des-lichts-lichtkunst-kunstlicht-339148
   fernsehserien_episode_id: 339148
+  youtube_video_id: bTTuATcO2Wg
 - title: 'Im Namen der Liebe: Eine Liebe auf Bali'
   air_date: '1999-12-06'
   duration: 55
@@ -307,6 +340,7 @@ episodes:
   fernsehserien_episode_no: 37
   fernsehserien_episode_slug: 37-im-namen-der-liebe-eine-liebe-auf-bali-339149
   fernsehserien_episode_id: 339149
+  youtube_video_id: hxAERStQV4w
 - title: 'Im Namen der Liebe: Mythos Mutterliebe'
   air_date: '1999-12-07'
   duration: 55
@@ -315,6 +349,7 @@ episodes:
   fernsehserien_episode_no: 38
   fernsehserien_episode_slug: 38-im-namen-der-liebe-mythos-mutterliebe-339150
   fernsehserien_episode_id: 339150
+  youtube_video_id: mgGI3er1qPI
 - title: 'Im Namen der Liebe: Angst macht verführerisch'
   air_date: '1999-12-08'
   duration: 55
@@ -323,6 +358,7 @@ episodes:
   fernsehserien_episode_no: 39
   fernsehserien_episode_slug: 39-im-namen-der-liebe-angst-macht-verfuehrerisch-339151
   fernsehserien_episode_id: 339151
+  youtube_video_id: YPsAb0uUOyA
 - title: 'Im Namen der Liebe: Menü der Zärtlichkeit'
   air_date: '1999-12-09'
   duration: 55
@@ -331,6 +367,7 @@ episodes:
   fernsehserien_episode_no: 40
   fernsehserien_episode_slug: 40-im-namen-der-liebe-menue-der-zaertlichkeit-339152
   fernsehserien_episode_id: 339152
+  youtube_video_id: r0rtNVYxUkg
 - title: 'Naturgewalten: Ernstfall Erdbeben'
   air_date: '2000-01-10'
   duration: 55
@@ -339,6 +376,7 @@ episodes:
   fernsehserien_episode_no: 41
   fernsehserien_episode_slug: 41-naturgewalten-ernstfall-erdbeben-339153
   fernsehserien_episode_id: 339153
+  youtube_video_id: MXBz7QnU3Po
 - title: 'Naturgewalten: Tsunami - die Todeswelle'
   alias: Tsunami - Die tödliche Welle
   air_date: '2000-01-11'
@@ -348,6 +386,7 @@ episodes:
   fernsehserien_episode_no: 42
   fernsehserien_episode_slug: 42-naturgewalten-tsunami-die-todeswelle-339159
   fernsehserien_episode_id: 339159
+  youtube_video_id: DUxn9Li2rcU
 - title: 'Naturgewalten: Operation Wolkenbruch'
   air_date: '2000-01-12'
   duration: 55
@@ -356,6 +395,7 @@ episodes:
   fernsehserien_episode_no: 43
   fernsehserien_episode_slug: 43-naturgewalten-operation-wolkenbruch-339160
   fernsehserien_episode_id: 339160
+  youtube_video_id: IjEjPOMZoGk
 - title: 'Naturgewalten: Im Schatten des Vulkans'
   air_date: '2000-01-13'
   duration: 55
@@ -364,6 +404,7 @@ episodes:
   fernsehserien_episode_no: 44
   fernsehserien_episode_slug: 44-naturgewalten-im-schatten-des-vulkans-339161
   fernsehserien_episode_id: 339161
+  youtube_video_id: VNj_YNRPecU
 - title: 'Spiele des Lebens: Casino der Häuptlinge'
   air_date: '2000-02-07'
   duration: 55
@@ -372,6 +413,7 @@ episodes:
   fernsehserien_episode_no: 45
   fernsehserien_episode_slug: 45-spiele-des-lebens-casino-der-haeuptlinge-339162
   fernsehserien_episode_id: 339162
+  youtube_video_id: aONYl3VUqW4
 - title: 'Spiele des Lebens: Schach - Krieg auf 64 Feldern'
   air_date: '2000-02-08'
   duration: 55
@@ -380,6 +422,7 @@ episodes:
   fernsehserien_episode_no: 46
   fernsehserien_episode_slug: 46-spiele-des-lebens-schach-krieg-auf-64-feldern-339163
   fernsehserien_episode_id: 339163
+  youtube_video_id: DHhe-fv1P_o
 - title: 'Spiele des Lebens: Mehr als nur ein Kinderspiel'
   air_date: '2000-02-09'
   duration: 55
@@ -388,6 +431,7 @@ episodes:
   fernsehserien_episode_no: 47
   fernsehserien_episode_slug: 47-spiele-des-lebens-mehr-als-nur-ein-kinderspiel-339164
   fernsehserien_episode_id: 339164
+  youtube_video_id: KXkwwZ_o6n0
 - title: 'Spiele des Lebens: Spielplatz Natur'
   air_date: '2000-02-10'
   duration: 55
@@ -397,6 +441,7 @@ episodes:
   fernsehserien_episode_slug: 48-spiele-des-lebens-spielplatz-natur-339165
   fernsehserien_episode_id: 339165
   imdb_episode_id: tt1007057
+  youtube_video_id: 6XpJnxWkHnU
 - title: 'Die Schatzjäger: Beruf Grabräuber'
   air_date: '2000-03-06'
   duration: 55
@@ -405,6 +450,7 @@ episodes:
   fernsehserien_episode_no: 49
   fernsehserien_episode_slug: 49-die-schatzjaeger-beruf-grabraeuber-339166
   fernsehserien_episode_id: 339166
+  youtube_video_id: lpcnsH66igQ
 - title: 'Die Schatzjäger: Schätze aus dem All'
   air_date: '2000-03-07'
   duration: 55
@@ -413,6 +459,7 @@ episodes:
   fernsehserien_episode_no: 50
   fernsehserien_episode_slug: 50-die-schatzjaeger-schaetze-aus-dem-all-339167
   fernsehserien_episode_id: 339167
+  youtube_video_id: W_s6Qhvwh7Q
 - title: 'Die Schatzjäger: Die Taucher der Goldküste'
   air_date: '2000-03-08'
   duration: 55
@@ -421,6 +468,7 @@ episodes:
   fernsehserien_episode_no: 51
   fernsehserien_episode_slug: 51-die-schatzjaeger-die-taucher-der-goldkueste-339168
   fernsehserien_episode_id: 339168
+  youtube_video_id: Jsm-8wxKxDo
 - title: 'Die Schatzjäger: Im Bann der Rubine'
   air_date: '2000-03-09'
   duration: 55
@@ -429,6 +477,7 @@ episodes:
   fernsehserien_episode_no: 52
   fernsehserien_episode_slug: 52-die-schatzjaeger-im-bann-der-rubine-339169
   fernsehserien_episode_id: 339169
+  youtube_video_id: hYYAObzGdVs
 - title: 'Medizin der Zukunft: Die Klinik der Schamanen'
   air_date: '2000-05-01'
   duration: 55
@@ -437,6 +486,7 @@ episodes:
   fernsehserien_episode_no: 53
   fernsehserien_episode_slug: 53-medizin-der-zukunft-die-klinik-der-schamanen-339171
   fernsehserien_episode_id: 339171
+  youtube_video_id: BsUR1lHoDNA
 - title: 'Medizin der Zukunft: Organe nach Maß'
   alias: Organe nach Maß
   air_date: '2000-05-02'
@@ -446,6 +496,7 @@ episodes:
   fernsehserien_episode_no: 54
   fernsehserien_episode_slug: 54-medizin-der-zukunft-organe-nach-mass-339172
   fernsehserien_episode_id: 339172
+  youtube_video_id: unxzp52RP0c
 - title: 'Medizin der Zukunft: Die Jäger des Lassa-Virus'
   air_date: '2000-05-03'
   duration: 55
@@ -454,6 +505,7 @@ episodes:
   fernsehserien_episode_no: 55
   fernsehserien_episode_slug: 55-medizin-der-zukunft-die-jaeger-des-lassa-virus-339173
   fernsehserien_episode_id: 339173
+  youtube_video_id: 8ALpHNqxoL0
 - title: 'Medizin der Zukunft: Chirurgen am Joystick'
   air_date: '2000-05-04'
   duration: 55
@@ -462,6 +514,7 @@ episodes:
   fernsehserien_episode_no: 56
   fernsehserien_episode_slug: 56-medizin-der-zukunft-chirurgen-am-joystick-339174
   fernsehserien_episode_id: 339174
+  youtube_video_id: GlPBNbgtNpE
 - title: 'Dem Täter auf der Spur: Die Hightech-Polizei'
   air_date: '2000-06-05'
   duration: 55
@@ -478,6 +531,7 @@ episodes:
   fernsehserien_episode_no: 58
   fernsehserien_episode_slug: 58-dem-taeter-auf-der-spur-die-kunst-des-faelschens-339175
   fernsehserien_episode_id: 339175
+  youtube_video_id: CuJOick2_ZY
 - title: 'Dem Täter auf der Spur: Geheimnisse der Toten'
   air_date: '2000-06-07'
   duration: 55
@@ -486,6 +540,7 @@ episodes:
   fernsehserien_episode_no: 59
   fernsehserien_episode_slug: 59-dem-taeter-auf-der-spur-geheimnisse-der-toten-339308
   fernsehserien_episode_id: 339308
+  youtube_video_id: bA5xe1HPaLw
 - title: 'Dem Täter auf der Spur: Psycho-Detektive'
   alias: Psycho-Detektive
   air_date: '2000-06-08'
@@ -495,6 +550,7 @@ episodes:
   fernsehserien_episode_no: 60
   fernsehserien_episode_slug: 60-dem-taeter-auf-der-spur-psycho-detektive-339309
   fernsehserien_episode_id: 339309
+  youtube_video_id: 8yaQbw9XjbQ
 - title: 'Im Reich der Meere: Das Fenster zum Meer - Im Großaquarium von Sydney'
   alias: Das Fenster zum Meer
   air_date: '2000-09-04'
@@ -504,6 +560,7 @@ episodes:
   fernsehserien_episode_no: 61
   fernsehserien_episode_slug: 61-im-reich-der-meere-das-fenster-zum-meer-im-grossaquarium-von-sydney-339341
   fernsehserien_episode_id: 339341
+  youtube_video_id: 0QK0oUCiGSk
 - title: 'Im Reich der Meere: Schwarze Brandung - Nach der Ölkatastrophe an der bretonischen
     Küste'
   alias: Schwarze Brandung
@@ -514,6 +571,7 @@ episodes:
   fernsehserien_episode_no: 62
   fernsehserien_episode_slug: 62-im-reich-der-meere-schwarze-brandung-nach-der-oelkatastrophe-an-der-bretonischen-kueste-339342
   fernsehserien_episode_id: 339342
+  youtube_video_id: MQNTxheCFSw
 - title: 'Im Reich der Meere: Durst nach Meer - Neue Methoden der Trinkwassergewinnung'
   alias: Durst nach Meer
   air_date: '2000-09-06'
@@ -523,6 +581,7 @@ episodes:
   fernsehserien_episode_no: 63
   fernsehserien_episode_slug: 63-im-reich-der-meere-durst-nach-meer-neue-methoden-der-trinkwassergewinnung-339343
   fernsehserien_episode_id: 339343
+  youtube_video_id: WAjs-VrhFNs
 - title: 'Im Reich der Meere: SOS auf hoher See - Moderne Rettungstechnik im Einsatz'
   alias: SOS auf hoher See
   air_date: '2000-09-07'
@@ -532,6 +591,7 @@ episodes:
   fernsehserien_episode_no: 64
   fernsehserien_episode_slug: 64-im-reich-der-meere-sos-auf-hoher-see-moderne-rettungstechnik-im-einsatz-339344
   fernsehserien_episode_id: 339344
+  youtube_video_id: qVKSXlGRLbU
 - title: 'Die Geheimnisse des Waldes: Die Feuerpatrouille'
   alias: Die Feuerpatrouille
   air_date: '2000-10-02'
@@ -541,6 +601,7 @@ episodes:
   fernsehserien_episode_no: 65
   fernsehserien_episode_slug: 65-die-geheimnisse-des-waldes-die-feuerpatrouille-339345
   fernsehserien_episode_id: 339345
+  youtube_video_id: 4dlXEbKTnKA
 - title: 'Die Geheimnisse des Waldes: Der letzte Märchenwald'
   air_date: '2000-10-03'
   duration: 55
@@ -559,6 +620,7 @@ episodes:
   fernsehserien_episode_slug: 67-die-geheimnisse-des-waldes-chinas-gruene-mauer-339346
   fernsehserien_episode_id: 339346
   imdb_episode_id: tt1007044
+  youtube_video_id: hPQpzybAEIU
 - title: 'Die Geheimnisse des Waldes: Die Waldfabrik'
   alias: Die Waldfabrik
   air_date: '2000-10-05'
@@ -568,6 +630,7 @@ episodes:
   fernsehserien_episode_no: 68
   fernsehserien_episode_slug: 68-die-geheimnisse-des-waldes-die-waldfabrik-339347
   fernsehserien_episode_id: 339347
+  youtube_video_id: i4IRpDalTSM
 - title: 'Leben am Limit / Grenzen des Körpers: Himalaja - Tödliche Höhe'
   alias: Himalaja - Tödliche Höhe
   air_date: '2000-11-06'
@@ -578,6 +641,7 @@ episodes:
   fernsehserien_episode_slug: 69-leben-am-limit-grenzen-des-koerpers-himalaja-toedliche-hoehe-339348
   fernsehserien_episode_id: 339348
   imdb_episode_id: tt1007053
+  youtube_video_id: c1KAS1kahk8
 - title: 'Leben am Limit / Grenzen des Körpers: Apnoe-Taucher - Im Tiefenrausch'
   air_date: '2000-11-07'
   duration: 55
@@ -586,6 +650,7 @@ episodes:
   fernsehserien_episode_no: 70
   fernsehserien_episode_slug: 70-leben-am-limit-grenzen-des-koerpers-apnoe-taucher-im-tiefenrausch-339349
   fernsehserien_episode_id: 339349
+  youtube_video_id: j00DR-wJURo
 - title: 'Leben am Limit / Grenzen des Körpers: Radrennen - Ewiger Endspurt'
   alias: Radrennen - Ewiger Endspurt
   air_date: '2000-11-08'
@@ -595,6 +660,7 @@ episodes:
   fernsehserien_episode_no: 71
   fernsehserien_episode_slug: 71-leben-am-limit-grenzen-des-koerpers-radrennen-ewiger-endspurt-339350
   fernsehserien_episode_id: 339350
+  youtube_video_id: liSvczCI4aE
 - title: 'Leben am Limit / Grenzen des Körpers: Sadhus - Heilige Aussteiger'
   alias: Sadhus - Heilige Aussteiger
   air_date: '2000-11-09'
@@ -604,6 +670,7 @@ episodes:
   fernsehserien_episode_no: 72
   fernsehserien_episode_slug: 72-leben-am-limit-grenzen-des-koerpers-sadhus-heilige-aussteiger-339351
   fernsehserien_episode_id: 339351
+  youtube_video_id: yMRU2rYV9cY
 - title: 'Tiere im Rampenlicht: Die Elefantenschule'
   air_date: '2000-12-04'
   duration: 55
@@ -612,6 +679,7 @@ episodes:
   fernsehserien_episode_no: 73
   fernsehserien_episode_slug: 73-tiere-im-rampenlicht-die-elefantenschule-339352
   fernsehserien_episode_id: 339352
+  youtube_video_id: NY6caIukEX8
 - title: 'Tiere im Rampenlicht: Der Rentier-Trek'
   alias: Der Rentier-Trek
   air_date: '2000-12-05'
@@ -621,6 +689,7 @@ episodes:
   fernsehserien_episode_no: 74
   fernsehserien_episode_slug: 74-tiere-im-rampenlicht-der-rentier-trek-339353
   fernsehserien_episode_id: 339353
+  youtube_video_id: kw2Mk9Su7zg
 - title: 'Tiere im Rampenlicht: Nicht ohne meinen Hund'
   air_date: '2000-12-06'
   duration: 55
@@ -629,6 +698,7 @@ episodes:
   fernsehserien_episode_no: 75
   fernsehserien_episode_slug: 75-tiere-im-rampenlicht-nicht-ohne-meinen-hund-339354
   fernsehserien_episode_id: 339354
+  youtube_video_id: ybc-zfL1KkE
 - title: 'Tiere im Rampenlicht: Kamele im Rennen'
   alias: Kamele im Rennen
   air_date: '2000-12-07'
@@ -638,6 +708,7 @@ episodes:
   fernsehserien_episode_no: 76
   fernsehserien_episode_slug: 76-tiere-im-rampenlicht-kamele-im-rennen-339355
   fernsehserien_episode_id: 339355
+  youtube_video_id: LgBk0kjjk0E
 - title: 'Überleben in der Wüste: Timbuktu'
   alias: Timbuktu
   air_date: '2001-01-02'
@@ -648,6 +719,7 @@ episodes:
   fernsehserien_episode_no: 77
   fernsehserien_episode_slug: 77-ueberleben-in-der-wueste-timbuktu-339356
   fernsehserien_episode_id: 339356
+  youtube_video_id: u1QLrA-PNrs
 - title: 'Überleben in der Wüste: Die Frucht, die aus der Dürre kam'
   air_date: '2001-01-03'
   duration: 55
@@ -656,6 +728,7 @@ episodes:
   fernsehserien_episode_no: 78
   fernsehserien_episode_slug: 78-ueberleben-in-der-wueste-die-frucht-die-aus-der-duerre-kam-339357
   fernsehserien_episode_id: 339357
+  youtube_video_id: YIkyylhDf78
 - title: 'Überleben in der Wüste: Baumeister der Wüste'
   air_date: '2001-01-04'
   duration: 55
@@ -673,6 +746,7 @@ episodes:
   fernsehserien_episode_no: 80
   fernsehserien_episode_slug: 80-ueberleben-in-der-wueste-wueste-auf-bewaehrung-339359
   fernsehserien_episode_id: 339359
+  youtube_video_id: GA9d8JNQ0aY
 - title: Die Baustelle des Herrn
   air_date: '2001-03-05'
   duration: 55
@@ -681,6 +755,7 @@ episodes:
   fernsehserien_episode_no: 81
   fernsehserien_episode_slug: 81-die-baustelle-des-herrn-339363
   fernsehserien_episode_id: 339363
+  youtube_video_id: _1Ka_gTLjUw
 - title: Retter des Nebelwaldes
   air_date: '2001-03-06'
   duration: 55
@@ -697,6 +772,7 @@ episodes:
   fernsehserien_episode_no: 83
   fernsehserien_episode_slug: 83-hollywood-auf-dem-trockenen-339361
   fernsehserien_episode_id: 339361
+  youtube_video_id: 1Xs3akVZkZA
 - title: Die Adern von Berlin - Der Wasserkreislauf einer Metropole
   air_date: '2001-03-08'
   duration: 55
@@ -714,6 +790,7 @@ episodes:
   fernsehserien_episode_slug: 85-operation-alpentunnel-339367
   fernsehserien_episode_id: 339367
   imdb_episode_id: tt1007056
+  youtube_video_id: ZbGyoSRZNNA
 - title: Brücke in den Orient
   air_date: '2001-04-10'
   duration: 55
@@ -723,6 +800,7 @@ episodes:
   fernsehserien_episode_slug: 86-bruecke-in-den-orient-339368
   fernsehserien_episode_id: 339368
   imdb_episode_id: tt1007042
+  youtube_video_id: n3SiL7t9T_s
 - title: Die letzten Nixen - die Taucherinnen von Cheju
   air_date: '2001-04-11'
   duration: 55
@@ -740,6 +818,7 @@ episodes:
   fernsehserien_episode_slug: 88-die-fischer-vom-rio-negro-339403
   fernsehserien_episode_id: 339403
   imdb_episode_id: tt1007049
+  youtube_video_id: WU516e1cZ2E
 - title: Anatomie einer Lawine
   air_date: '2001-04-30'
   duration: 55
@@ -749,6 +828,7 @@ episodes:
   fernsehserien_episode_slug: 89-anatomie-einer-lawine-339407
   fernsehserien_episode_id: 339407
   imdb_episode_id: tt1007041
+  youtube_video_id: q9NdtLN4tHo
 - title: Die Erbin Gandhis - Widerstand gegen einen Staudamm
   alias: Die Erben Gandhis
   air_date: '2001-05-01'
@@ -759,6 +839,7 @@ episodes:
   fernsehserien_episode_slug: 90-die-erbin-gandhis-widerstand-gegen-einen-staudamm-339408
   fernsehserien_episode_id: 339408
   imdb_episode_id: tt1007047
+  youtube_video_id: qUfiXyZwcbw
 - title: Die Spur der Wüstenkrokodile
   air_date: '2001-05-02'
   duration: 55
@@ -768,6 +849,7 @@ episodes:
   fernsehserien_episode_slug: 91-die-spur-der-wuestenkrokodile-339409
   fernsehserien_episode_id: 339409
   imdb_episode_id: tt1007050
+  youtube_video_id: MFuattuR9DA
 - title: Invasion der Biber
   air_date: '2001-05-03'
   duration: 55
@@ -777,6 +859,7 @@ episodes:
   fernsehserien_episode_slug: 92-invasion-der-biber-339410
   fernsehserien_episode_id: 339410
   imdb_episode_id: tt1007054
+  youtube_video_id: 1lZYASab-T4
 - title: Kumbh Mela - Das größte Fest der Welt
   air_date: '2001-06-04'
   duration: 55
@@ -786,6 +869,7 @@ episodes:
   fernsehserien_episode_slug: 93-kumbh-mela-das-groesste-fest-der-welt-339411
   fernsehserien_episode_id: 339411
   imdb_episode_id: tt1007055
+  youtube_video_id: GygKg1HaK3U
 - title: Buzkashi - Spiel der Steppenreiter
   air_date: '2001-06-05'
   duration: 55
@@ -795,6 +879,7 @@ episodes:
   fernsehserien_episode_slug: 94-buzkashi-spiel-der-steppenreiter-339413
   fernsehserien_episode_id: 339413
   imdb_episode_id: tt1007043
+  youtube_video_id: 6PKOPZ6vHfw
 - title: Wasser im Tank
   air_date: '2001-06-06'
   duration: 55
@@ -804,6 +889,7 @@ episodes:
   fernsehserien_episode_slug: 95-wasser-im-tank-339414
   fernsehserien_episode_id: 339414
   imdb_episode_id: tt1007059
+  youtube_video_id: U2ZGceieMCI
 - title: Stau am Himmel
   air_date: '2001-06-07'
   duration: 55
@@ -813,6 +899,7 @@ episodes:
   fernsehserien_episode_slug: 96-stau-am-himmel-339415
   fernsehserien_episode_id: 339415
   imdb_episode_id: tt1007058
+  youtube_video_id: dvHVBW4rOLY
 - title: Das Waisenhaus der Affen
   air_date: '2001-09-03'
   duration: 55
@@ -822,6 +909,7 @@ episodes:
   fernsehserien_episode_slug: 97-das-waisenhaus-der-affen-339416
   fernsehserien_episode_id: 339416
   imdb_episode_id: tt1007045
+  youtube_video_id: bnV-Ze-vAZA
 - title: Die Bisonwächter
   air_date: '2001-09-04'
   duration: 55
@@ -831,6 +919,7 @@ episodes:
   fernsehserien_episode_slug: 98-die-bisonwaechter-339418
   fernsehserien_episode_id: 339418
   imdb_episode_id: tt1007046
+  youtube_video_id: 1Bf6xUJ2jJ0
 - title: Die Farm der Schmetterlinge
   air_date: '2001-09-05'
   duration: 55
@@ -840,6 +929,7 @@ episodes:
   fernsehserien_episode_slug: 99-die-farm-der-schmetterlinge-339419
   fernsehserien_episode_id: 339419
   imdb_episode_id: tt1007048
+  youtube_video_id: bxBVKiUHOpE
 - title: Fährtensucher online
   air_date: '2001-09-06'
   duration: 55
@@ -849,6 +939,7 @@ episodes:
   fernsehserien_episode_slug: 100-faehrtensucher-online-339420
   fernsehserien_episode_id: 339420
   imdb_episode_id: tt1007052
+  youtube_video_id: OWZJehCh4hk
 - title: Nepals verkaufte Töchter
   air_date: '2001-10-01'
   duration: 55
@@ -858,6 +949,7 @@ episodes:
   fernsehserien_episode_slug: 101-nepals-verkaufte-toechter-339421
   fernsehserien_episode_id: 339421
   imdb_episode_id: tt1042939
+  youtube_video_id: zvAm_rmvynU
 - title: Die Stadt der Diamanten
   air_date: '2001-10-03'
   duration: 55
@@ -867,6 +959,7 @@ episodes:
   fernsehserien_episode_slug: 102-die-stadt-der-diamanten-339422
   fernsehserien_episode_id: 339422
   imdb_episode_id: tt1042933
+  youtube_video_id: 5G9nvOInLfA
 - title: Gaucho auf Lebenszeit
   air_date: '2001-10-04'
   duration: 55
@@ -876,6 +969,7 @@ episodes:
   fernsehserien_episode_slug: 103-gaucho-auf-lebenszeit-339423
   fernsehserien_episode_id: 339423
   imdb_episode_id: tt1042936
+  youtube_video_id: cJKLHLFDYXU
 - title: Der Großvater der Massai
   air_date: '2001-10-05'
   duration: 55
@@ -885,6 +979,7 @@ episodes:
   fernsehserien_episode_slug: 104-der-grossvater-der-massai-339424
   fernsehserien_episode_id: 339424
   imdb_episode_id: tt1042926
+  youtube_video_id: oHFU1aOHGr0
 - title: Cunahá - Tod im Regenwald
   air_date: '2002-02-04'
   duration: 55
@@ -894,6 +989,7 @@ episodes:
   fernsehserien_episode_slug: 105-cunaha-tod-im-regenwald-339426
   fernsehserien_episode_id: 339426
   imdb_episode_id: tt1042924
+  youtube_video_id: yzGLrkcry6c
 - title: Walverwandtschaften
   air_date: '2002-02-05'
   duration: 55
@@ -903,6 +999,7 @@ episodes:
   fernsehserien_episode_slug: 106-walverwandtschaften-339427
   fernsehserien_episode_id: 339427
   imdb_episode_id: tt1042945
+  youtube_video_id: h5_HKyfGWqk
 - title: Wildreis - Der grüne Schatz der kanadischen Ojibwa-Indianer
   alias: Der Reis des Manitu
   air_date: '2002-02-06'
@@ -913,6 +1010,7 @@ episodes:
   fernsehserien_episode_slug: 107-wildreis-der-gruene-schatz-der-kanadischen-ojibwa-indianer-339428
   fernsehserien_episode_id: 339428
   imdb_episode_id: tt1042927
+  youtube_video_id: JZX6YmRRFkE
 - title: Party für eine Leiche - Das Fest der Ahnen in Madagaskar
   alias: Party für eine Leiche
   air_date: '2002-02-07'
@@ -923,6 +1021,7 @@ episodes:
   fernsehserien_episode_slug: 108-party-fuer-eine-leiche-das-fest-der-ahnen-in-madagaskar-339429
   fernsehserien_episode_id: 339429
   imdb_episode_id: tt1042940
+  youtube_video_id: VT0H2Jc0TQA
 - title: Filmstars im Pelz
   air_date: '2002-03-04'
   duration: 55
@@ -932,6 +1031,7 @@ episodes:
   fernsehserien_episode_slug: 109-filmstars-im-pelz-339430
   fernsehserien_episode_id: 339430
   imdb_episode_id: tt1042935
+  youtube_video_id: gMcu-RgppR8
 - title: Hongkongs fliegende Küchen
   air_date: '2002-03-05'
   duration: 55
@@ -941,6 +1041,7 @@ episodes:
   fernsehserien_episode_slug: 110-hongkongs-fliegende-kuechen-339431
   fernsehserien_episode_id: 339431
   imdb_episode_id: tt1042937
+  youtube_video_id: tuvJUdvYD_A
 - title: Die Herren der Adler - Kasachische Jäger und ihre Greifvögel
   air_date: '2002-03-06'
   duration: 55
@@ -958,6 +1059,7 @@ episodes:
   fernsehserien_episode_slug: 112-safran-ein-bluehendes-geschaeft-339434
   fernsehserien_episode_id: 339434
   imdb_episode_id: tt1042942
+  youtube_video_id: a-LwN0C_I3U
 - title: Der Dreh mit den Havannas - Die Zigarrenfälschung
   air_date: '2002-04-01'
   duration: 55
@@ -967,6 +1069,7 @@ episodes:
   fernsehserien_episode_slug: 113-der-dreh-mit-den-havannas-die-zigarrenfaelschung-339435
   fernsehserien_episode_id: 339435
   imdb_episode_id: tt1042925
+  youtube_video_id: kGDRh9FmLw4
 - title: Ein göttlicher Zug - das rollende Gotteshaus in Russland
   air_date: '2002-04-02'
   duration: 55
@@ -985,6 +1088,7 @@ episodes:
   fernsehserien_episode_slug: 115-sinfonie-der-strasse-kinderorchester-in-venezuela-339437
   fernsehserien_episode_id: 339437
   imdb_episode_id: tt1042943
+  youtube_video_id: N-uzrMPGm3w
 - title: Ticket in ein neues Leben - Der Lifeline Express in Indien
   air_date: '2002-05-06'
   duration: 55
@@ -1002,6 +1106,7 @@ episodes:
   fernsehserien_episode_slug: 117-die-bernsteintaucher-339440
   fernsehserien_episode_id: 339440
   imdb_episode_id: tt1042928
+  youtube_video_id: fGA6Fgc5tgQ
 - title: Mumien im Ausverkauf
   air_date: '2002-05-08'
   duration: 55
@@ -1011,6 +1116,7 @@ episodes:
   fernsehserien_episode_slug: 118-mumien-im-ausverkauf-339441
   fernsehserien_episode_id: 339441
   imdb_episode_id: tt1042938
+  youtube_video_id: T_VG6xORqgI
 - title: Die Minensucher von Kabul
   air_date: '2002-05-09'
   duration: 55
@@ -1020,6 +1126,7 @@ episodes:
   fernsehserien_episode_slug: 119-die-minensucher-von-kabul-339442
   fernsehserien_episode_id: 339442
   imdb_episode_id: tt1042931
+  youtube_video_id: 3wLFTh60fW8
 - title: 'Bermuda: Schatzsuche in der Tiefsee'
   air_date: '2002-06-03'
   duration: 55
@@ -1038,6 +1145,7 @@ episodes:
   fernsehserien_episode_slug: 121-die-legende-von-den-killerbienen-339405
   fernsehserien_episode_id: 339405
   imdb_episode_id: tt1042930
+  youtube_video_id: rw9kCLRBqS4
 - title: Die Schule der Inuit
   air_date: '2002-06-05'
   duration: 55
@@ -1047,6 +1155,7 @@ episodes:
   fernsehserien_episode_slug: 122-die-schule-der-inuit-339445
   fernsehserien_episode_id: 339445
   imdb_episode_id: tt1042932
+  youtube_video_id: DniKsVQuah0
 - title: Peones - Verkannte Helden
   air_date: '2002-06-06'
   duration: 55
@@ -1056,6 +1165,7 @@ episodes:
   fernsehserien_episode_slug: 123-peones-verkannte-helden-339446
   fernsehserien_episode_id: 339446
   imdb_episode_id: tt1042941
+  youtube_video_id: MXtyKNBctjU
 - title: Sir Peter Blake - Expedition ins ewige Eis
   air_date: '2002-09-02'
   duration: 55
@@ -1074,6 +1184,7 @@ episodes:
   fernsehserien_episode_slug: 125-im-wald-der-vampire-339449
   fernsehserien_episode_id: 339449
   imdb_episode_id: tt1051731
+  youtube_video_id: e1ufsFFCyzQ
 - title: Nashörner unter dem Hammer
   air_date: '2002-09-04'
   duration: 55
@@ -1083,6 +1194,7 @@ episodes:
   fernsehserien_episode_slug: 126-nashoerner-unter-dem-hammer-339450
   fernsehserien_episode_id: 339450
   imdb_episode_id: tt1051732
+  youtube_video_id: NcnIjv7NEEg
 - title: Warten auf den Monsun
   air_date: '2002-09-05'
   duration: 55
@@ -1092,6 +1204,7 @@ episodes:
   fernsehserien_episode_slug: 127-warten-auf-den-monsun-339451
   fernsehserien_episode_id: 339451
   imdb_episode_id: tt1051735
+  youtube_video_id: dei00bjPwvA
 - title: Palmasola - Dorf hinter Gittern
   alias: Palma Sola - Stadt der Mörder
   air_date: '2002-10-07'
@@ -1102,6 +1215,7 @@ episodes:
   fernsehserien_episode_slug: 128-palmasola-dorf-hinter-gittern-339453
   fernsehserien_episode_id: 339453
   imdb_episode_id: tt1051733
+  youtube_video_id: UwCJCZPcEL0
 - title: Bilder hören - Die blinden Kinder von Tibet
   air_date: '2002-10-08'
   duration: 55
@@ -1111,6 +1225,7 @@ episodes:
   fernsehserien_episode_slug: 129-bilder-hoeren-die-blinden-kinder-von-tibet-339454
   fernsehserien_episode_id: 339454
   imdb_episode_id: tt1051730
+  youtube_video_id: LTq7SwlTjaU
 - title: Der Blechmusik-Oscar
   air_date: '2002-10-09'
   duration: 55
@@ -1120,6 +1235,7 @@ episodes:
   fernsehserien_episode_slug: 130-der-blechmusik-oscar-339455
   fernsehserien_episode_id: 339455
   imdb_episode_id: tt1051728
+  youtube_video_id: OZGiwkf-WqI
 - title: Die Riesenflöße vom Jenissej - Ein Floßschiffer auf seiner Fahrt zum Polarmeer
   alias: Die Riesenflöße vom Jenissej
   air_date: '2002-10-10'
@@ -1130,6 +1246,7 @@ episodes:
   fernsehserien_episode_slug: 131-die-riesenfloesse-vom-jenissej-ein-flossschiffer-auf-seiner-fahrt-zum-polarmeer-339456
   fernsehserien_episode_id: 339456
   imdb_episode_id: tt1051729
+  youtube_video_id: 85nISbMK9ng
 - title: Heiratsmarkt in Marokko
   air_date: '2002-11-04'
   duration: 55
@@ -1138,6 +1255,7 @@ episodes:
   fernsehserien_episode_no: 132
   fernsehserien_episode_slug: 132-heiratsmarkt-in-marokko-339457
   fernsehserien_episode_id: 339457
+  youtube_video_id: 5mwI8g-fagQ
 - title: Die türkischen Hochzeitsmacher
   air_date: '2002-11-05'
   duration: 55
@@ -1147,6 +1265,7 @@ episodes:
   fernsehserien_episode_slug: 133-die-tuerkischen-hochzeitsmacher-339458
   fernsehserien_episode_id: 339458
   imdb_episode_id: tt2069998
+  youtube_video_id: Nhy3yuYYp5s
 - title: Die Frachtensegler von Madagaskar
   air_date: '2002-11-06'
   duration: 55
@@ -1155,6 +1274,7 @@ episodes:
   fernsehserien_episode_no: 134
   fernsehserien_episode_slug: 134-die-frachtensegler-von-madagaskar-339459
   fernsehserien_episode_id: 339459
+  youtube_video_id: MOxGnaDNqe4
 - title: Die Abalone-Wilderer - Der Kampf um den Erhalt einer Seeschneckenart
   air_date: '2002-11-07'
   duration: 55
@@ -1163,6 +1283,7 @@ episodes:
   fernsehserien_episode_no: 135
   fernsehserien_episode_slug: 135-die-abalone-wilderer-der-kampf-um-den-erhalt-einer-seeschneckenart-339460
   fernsehserien_episode_id: 339460
+  youtube_video_id: kF1VEBBmF0A
 - title: Die Mörderinnen von Targsor - Das einzige Frauengefängnis in Rumänien
   air_date: '2003-01-06'
   duration: 55
@@ -1171,6 +1292,7 @@ episodes:
   fernsehserien_episode_no: 136
   fernsehserien_episode_slug: 136-die-moerderinnen-von-targsor-das-einzige-frauengefaengnis-in-rumaenien-339461
   fernsehserien_episode_id: 339461
+  youtube_video_id: KYbUkoxaOyo
 - title: Das Metall aus dem Vulkan
   air_date: '2003-01-07'
   duration: 55
@@ -1180,6 +1302,7 @@ episodes:
   fernsehserien_episode_slug: 137-das-metall-aus-dem-vulkan-339462
   fernsehserien_episode_id: 339462
   imdb_episode_id: tt6753230
+  youtube_video_id: RGqCVo2c3pQ
 - title: Die Söldner der Perlen - Der lebensgefährliche Job
   air_date: '2003-01-08'
   duration: 55
@@ -1196,6 +1319,7 @@ episodes:
   fernsehserien_episode_no: 139
   fernsehserien_episode_slug: 139-hongkongs-bambusakrobaten-339464
   fernsehserien_episode_id: 339464
+  youtube_video_id: BSIqpsZHcSw
 - title: Mission Nordkorea
   air_date: '2003-02-03'
   duration: 55
@@ -1204,6 +1328,7 @@ episodes:
   fernsehserien_episode_no: 140
   fernsehserien_episode_slug: 140-mission-nordkorea-339465
   fernsehserien_episode_id: 339465
+  youtube_video_id: PcX598GUNXw
 - title: Radios gegen Kalaschnikows
   air_date: '2003-02-04'
   duration: 55
@@ -1212,6 +1337,7 @@ episodes:
   fernsehserien_episode_no: 141
   fernsehserien_episode_slug: 141-radios-gegen-kalaschnikows-339466
   fernsehserien_episode_id: 339466
+  youtube_video_id: fsFFXBhSG6Q
 - title: Die Hightech-Oase - Auf der größten Milchfarm der Welt
   alias: Die Hightech-Oase
   air_date: '2003-02-05'
@@ -1222,6 +1348,7 @@ episodes:
   fernsehserien_episode_slug: 142-die-hightech-oase-auf-der-groessten-milchfarm-der-welt-339467
   fernsehserien_episode_id: 339467
   imdb_episode_id: tt1623060
+  youtube_video_id: sESu-VYdVFQ
 - title: Videofabrik Nigeria
   air_date: '2003-02-06'
   duration: 55
@@ -1230,6 +1357,7 @@ episodes:
   fernsehserien_episode_no: 143
   fernsehserien_episode_slug: 143-videofabrik-nigeria-339468
   fernsehserien_episode_id: 339468
+  youtube_video_id: Tej9cR-hQ7o
 - title: Beuteltiere an der Börse
   air_date: '2003-03-03'
   duration: 55
@@ -1238,6 +1366,7 @@ episodes:
   fernsehserien_episode_no: 144
   fernsehserien_episode_slug: 144-beuteltiere-an-der-boerse-339472
   fernsehserien_episode_id: 339472
+  youtube_video_id: JTFfHASu6EI
 - title: Hongkong - Pferde und Millionen
   air_date: '2003-03-04'
   duration: 55
@@ -1246,6 +1375,7 @@ episodes:
   fernsehserien_episode_no: 145
   fernsehserien_episode_slug: 145-hongkong-pferde-und-millionen-339473
   fernsehserien_episode_id: 339473
+  youtube_video_id: 3qb2dXghgjg
 - title: Wo der wilde Kaffee wächst
   air_date: '2003-03-05'
   duration: 55
@@ -1254,6 +1384,7 @@ episodes:
   fernsehserien_episode_no: 146
   fernsehserien_episode_slug: 146-wo-der-wilde-kaffee-waechst-339474
   fernsehserien_episode_id: 339474
+  youtube_video_id: vqk-t5ZxJTg
 - title: Rückkehr der Meeresschildkröten
   air_date: '2003-03-06'
   duration: 55
@@ -1262,6 +1393,7 @@ episodes:
   fernsehserien_episode_no: 147
   fernsehserien_episode_slug: 147-rueckkehr-der-meeresschildkroeten-339475
   fernsehserien_episode_id: 339475
+  youtube_video_id: JHO9mBw2PYc
 - title: Samoa Queens - Männer, die als Frauen leben
   alias: Samoa Queens
   air_date: '2003-04-07'
@@ -1271,6 +1403,7 @@ episodes:
   fernsehserien_episode_no: 148
   fernsehserien_episode_slug: 148-samoa-queens-maenner-die-als-frauen-leben-339476
   fernsehserien_episode_id: 339476
+  youtube_video_id: 2jz1Lozi4dU
 - title: Einsatz für den Amur-Tiger
   air_date: '2003-04-08'
   duration: 55
@@ -1279,6 +1412,7 @@ episodes:
   fernsehserien_episode_no: 149
   fernsehserien_episode_slug: 149-einsatz-fuer-den-amur-tiger-339477
   fernsehserien_episode_id: 339477
+  youtube_video_id: Z6SauPIzWEw
 - title: Die Seelensammler von Bangkok
   air_date: '2003-04-09'
   duration: 55
@@ -1287,6 +1421,7 @@ episodes:
   fernsehserien_episode_no: 150
   fernsehserien_episode_slug: 150-die-seelensammler-von-bangkok-von-freiwilligen-rettungshelfern-339478
   fernsehserien_episode_id: 339478
+  youtube_video_id: kqy7qmiDe64
 - title: Der Vogelhändler von Guangzhou
   air_date: '2003-04-10'
   duration: 55
@@ -1295,6 +1430,7 @@ episodes:
   fernsehserien_episode_no: 151
   fernsehserien_episode_slug: 151-der-vogelhaendler-von-guangzhou-339479
   fernsehserien_episode_id: 339479
+  youtube_video_id: 3mrXlaxKolU
 - title: Goldrausch in Sibirien
   air_date: '2004-01-03'
   duration: 55
@@ -1585,6 +1721,7 @@ episodes:
   thetvdb_season_episode: S07E13
   thetvdb_episode_id: 4642158
   imdb_episode_id: tt1042934
+  youtube_video_id: UA8kICaAY_Q
 - title: Ticket in ein neues Leben
   air_date: '2005-10-01'
   duration: 55
@@ -1594,6 +1731,7 @@ episodes:
   fernsehserien_episode_slug: 182-ticket-in-ein-neues-leben-339656
   fernsehserien_episode_id: 339656
   imdb_episode_id: tt1042944
+  youtube_video_id: pi9fUEg6QJs
 - title: Das schwimmende Krankenhaus vom Amazonas
   air_date: '2005-10-08'
   duration: 55
@@ -5770,3 +5908,4 @@ episodes:
   fernsehserien_episode_no: 618
   fernsehserien_episode_slug: 618-die-waschbaeren-von-berlin-1640104
   fernsehserien_episode_id: 1640104
+  youtube_video_id: PQJMws5-r_Y
