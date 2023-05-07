@@ -29,12 +29,15 @@ def format_row(cells: list[typing.Any]):
 
 
 rows: list[str] = []
-rows.append(format_row(["air_date", "title", "thetvdb", "imdb", "fernsehserien"]))
-rows.append(format_row(["-", "-", "-", "-", "-"]))
+rows.append(
+    format_row(["air_date", "title", "youtube", "thetvdb", "imdb", "fernsehserien"])
+)
+rows.append(format_row(["-", "-", "-", "-", "-", "-"]))
 for episode in geo.episodes:
     row: list[str] = []
     row.append(episode.air_date)
     row.append(episode.title)
+    row.append(episode.youtube_link)
     row.append(episode.thetvdb_link)
     row.append(episode.imdb_link)
     row.append(episode.fernsehserien_link)

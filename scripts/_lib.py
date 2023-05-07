@@ -58,7 +58,6 @@ class Episode:
             return ""
         base_url: str = self.tv_show["databases"]["thetvdb"]
         id: int = self.data["thetvdb_episode_id"]
-
         url: str = f"{base_url}/episodes/{id}"
         se: str = self.data["thetvdb_season_episode"]
         return f"[{se}]({url})"
@@ -68,7 +67,6 @@ class Episode:
         if "imdb_episode_id" not in self.data:
             return ""
         episode_id: str = self.data["imdb_episode_id"]
-
         url: str = f"https://www.imdb.com/title/{episode_id}"
         return f"[{episode_id}]({url})"
 
@@ -81,10 +79,17 @@ class Episode:
             return ""
         base_url: str = self.tv_show["databases"]["fernsehserien"]
         slug: str = self.data["fernsehserien_episode_slug"]
-
         url: str = f"{base_url}/folgen/{slug}"
         no: int = self.data["fernsehserien_episode_no"]
         return f"[{no}]({url})"
+
+    @property
+    def youtube_link(self) -> str:
+        if "youtube_video_id" not in self.data:
+            return ""
+        video_id: str = self.data["youtube_video_id"]
+        url: str = f"https://www.youtube.com/watch?v=/{video_id}"
+        return f"[{video_id}]({url})"
 
 
 YAML_FILENAME = "360-grad-reportage.yml"
