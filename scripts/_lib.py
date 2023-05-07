@@ -88,7 +88,7 @@ class Episode:
         if "youtube_video_id" not in self.data:
             return ""
         video_id: str = self.data["youtube_video_id"]
-        url: str = f"https://www.youtube.com/watch?v=/{video_id}"
+        url: str = f"https://www.youtube.com/watch?v={video_id}"
         return f"[{video_id}]({url})"
 
 
