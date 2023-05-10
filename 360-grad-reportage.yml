@@ -1609,7 +1609,9 @@ episodes:
   fernsehserien_episode_id: 339496
   imdb_episode_id: tt1350548
   youtube_video_id: BxUtrDZX1FI
+
 - title: Die rasenden Engel der Línea 5
+  title_fr: Les Anges Fous de la Linea 5
   air_date: '2005-01-08'
   duration: 55
   thetvdb_season_episode: S07E01
@@ -1619,6 +1621,7 @@ episodes:
   fernsehserien_episode_id: 339497
   youtube_video_id: svJ9c2nluQ4
 - title: Das Dschungel-Orchester
+  title_fr: Les Virtuoses de la Jungle
   air_date: '2005-01-22'
   duration: 55
   thetvdb_season_episode: S07E02
@@ -1628,6 +1631,7 @@ episodes:
   fernsehserien_episode_id: 339498
   youtube_video_id: Q1sjNpil_Fw
 - title: Überleben in der Wüste - Straffällig gewordene Jugendliche in Arizona
+  title_fr: Les Prisonniers du Désert
   air_date: '2005-01-29'
   duration: 55
   thetvdb_season_episode: S07E03
@@ -1636,6 +1640,7 @@ episodes:
   fernsehserien_episode_slug: 173-ueberleben-in-der-wueste-straffaellig-gewordene-jugendliche-in-arizona-339500
   fernsehserien_episode_id: 339500
 - title: Der Wüstendoktor
+  title_fr: Le Toubib Touareg
   air_date: '2005-02-26'
   duration: 55
   thetvdb_season_episode: S07E04
@@ -1645,6 +1650,7 @@ episodes:
   fernsehserien_episode_id: 339501
   youtube_video_id: FxPvLeQmgok
 - title: Die Kichwa-Krieger und das Öl
+  title_fr: Les Indiens Contre les Rois du Pétrole
   air_date: '2005-04-09'
   duration: 55
   thetvdb_season_episode: S07E05
@@ -1654,11 +1660,13 @@ episodes:
   fernsehserien_episode_id: 339502
   youtube_video_id: t3Kiy1Iz69k
 - title: Überleben am Manila-Express
+  title_fr: Manille, la Vie le Long du Train
   air_date: '2005-05-07'
   duration: 55
   thetvdb_season_episode: S07E06
   thetvdb_episode_id: 4642151
 - title: Honeymoon auf Hainan
+  title_fr: Lune de Miel en Chine
   air_date: '2005-05-21'
   duration: 55
   thetvdb_season_episode: S07E07
@@ -1668,6 +1676,7 @@ episodes:
   fernsehserien_episode_id: 339505
   youtube_video_id: WUwS5Yac1PY
 - title: Kambodscha - Die Seele der Seide
+  title_fr: Cambodge, le Cri de la Soie
   air_date: '2005-06-25'
   duration: 55
   thetvdb_season_episode: S07E08
@@ -1677,6 +1686,7 @@ episodes:
   fernsehserien_episode_id: 339506
   youtube_video_id: ZWSMXpf-EQc
 - title: Das Postschiff zum Ende der Welt
+  title_fr: Le Bateau Postal d'Ouessant
   air_date: '2005-07-09'
   duration: 55
   thetvdb_season_episode: S07E09
@@ -1687,6 +1697,7 @@ episodes:
   youtube_video_id: hnuma6p1K08
 - title: Vagabunden der Wüste - Kamelzüchter in der Mongolei
   alias: Vagabunden der Wüste
+  title_fr: Le Désert de Gobi à Dos de Chameau
   air_date: '2005-08-06'
   duration: 55
   thetvdb_season_episode: S07E10
@@ -1698,6 +1709,7 @@ episodes:
   imdb_episode_id: tt2108676
   youtube_video_id: TYNNyF65mvY
 - title: Die Mutter der Bonobos
+  title_fr: La Maman des Bonobos
   air_date: '2005-09-17'
   duration: 55
   thetvdb_season_episode: S07E11
@@ -1707,6 +1719,7 @@ episodes:
   fernsehserien_episode_id: 339653
   youtube_video_id: GoiCEwbQxA0
 - title: Die Eisenbahn vom Baikal zum Amur
+  title_fr: Baïkal-Amour Magistrale, l'Autre Transsibérien
   air_date: '2005-09-24'
   duration: 55
   thetvdb_season_episode: S07E12
@@ -1733,6 +1746,7 @@ episodes:
   imdb_episode_id: tt1042944
   youtube_video_id: pi9fUEg6QJs
 - title: Das schwimmende Krankenhaus vom Amazonas
+  title_fr: L'Hôpital Flottant du Fleuve Amazone
   air_date: '2005-10-08'
   duration: 55
   thetvdb_season_episode: S07E15
@@ -1742,6 +1756,7 @@ episodes:
   fernsehserien_episode_id: 339657
   youtube_video_id: 0Xz-nWoBhUQ
 - title: Der weiße Berg von Feuerland
+  title_fr: Le Géant Blanc de Patagonie
   air_date: '2005-10-22'
   duration: 55
   thetvdb_season_episode: S07E16
@@ -1751,6 +1766,7 @@ episodes:
   fernsehserien_episode_id: 339658
   youtube_video_id: N1vjuQX9RyY
 - title: Mecaniqueros - Nichts ist unmöglich in Havanna
+  title_fr: 'Mecaniqueros: Impossible n’Est Pas Cubain'
   air_date: '2005-11-12'
   duration: 55
   thetvdb_season_episode: S07E17
@@ -1760,6 +1776,7 @@ episodes:
   fernsehserien_episode_id: 339659
   youtube_video_id: 80vkFm7tzCM
 - title: Eremitage - Palast der Katzen
+  title_fr: Des Chats au Pays des Tsars
   air_date: '2005-12-10'
   duration: 55
   thetvdb_season_episode: S07E18
@@ -1769,6 +1786,7 @@ episodes:
   fernsehserien_episode_id: 339660
   youtube_video_id: _hiU5OzkNQ0
 - title: Traumberuf Schäfer
+  title_fr: Pyrénées, à l'École des Bergers
   air_date: '2005-12-17'
   duration: 55
   thetvdb_season_episode: S07E19
@@ -1778,6 +1796,7 @@ episodes:
   fernsehserien_episode_id: 339661
   youtube_video_id: J6auo5M-mxI
 - title: Die Kinder des Vater Nikolai
+  title_fr: Les Petits Choristes de l'Oural
   air_date: '2005-12-24'
   duration: 55
   thetvdb_season_episode: S07E20
