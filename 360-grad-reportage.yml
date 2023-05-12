@@ -4657,6 +4657,7 @@ episodes:
   fernsehserien_episode_slug: 492-arapaima-der-riesenfisch-vom-amazonas-1191708
   fernsehserien_episode_id: 1191708
   imdb_episode_id: tt20231928
+  youtube_video_id: cr4V6JIH8yU
 - title: Die fliegenden Wildesel von Kasachstan
   title_fr: SOS ânes sauvages du Kazakhstan
   air_date: '2018-05-27'
@@ -4667,6 +4668,7 @@ episodes:
   fernsehserien_episode_slug: 493-die-fliegenden-wildesel-von-kasachstan-1194430
   fernsehserien_episode_id: 1194430
   imdb_episode_id: tt21073776
+  youtube_video_id: ND0yEWkqnSk
 - title: Geliebtes Korsika - Kampf gegen das Feuer
   title_fr: Corse, les maquisards du feu
   air_date: '2018-06-22'
@@ -4688,6 +4690,7 @@ episodes:
   fernsehserien_episode_slug: 495-japan-leben-am-fuss-des-vulkans-1221897
   fernsehserien_episode_id: 1221897
   imdb_episode_id: tt19802452
+  youtube_video_id: mztIey-rJi0
 - title: Sucevita - Rumäniens schönste Klosterfresken
   title_en: Romania, the holy beauty of the painted monasteries
   air_date: '2018-09-08'
@@ -4697,6 +4700,7 @@ episodes:
   fernsehserien_episode_no: 496
   fernsehserien_episode_slug: 496-sucevita-rumaeniens-schoenste-klosterfresken-1223336
   fernsehserien_episode_id: 1223336
+  youtube_video_id: QPvUMKZxuwU
 - title: Moskaus berühmte Sprengstoffhunde
   title_fr: 'Moscou: des chiens renifleurs pour l''aéroport'
   air_date: '2018-09-15'
@@ -4706,6 +4710,7 @@ episodes:
   fernsehserien_episode_no: 497
   fernsehserien_episode_slug: 497-moskaus-beruehmte-sprengstoffhunde-1225228
   fernsehserien_episode_id: 1225228
+  youtube_video_id: JlzRmmvY6wU
 - title: Neuseeland - Die Tiere vom Ende der Welt
   air_date: '2018-09-29'
   duration: 55
@@ -4715,6 +4720,7 @@ episodes:
   fernsehserien_episode_slug: 498-neuseeland-die-tiere-vom-ende-der-welt-1230127
   fernsehserien_episode_id: 1230127
   imdb_episode_id: tt22007414
+  youtube_video_id: qGm7J8wCZuo
 - title: Virunga, der Kampf für die Berggorillas
   title_en: Virunga - Fighting for Mountain Gorillas
   air_date: '2018-10-06'
@@ -4724,6 +4730,7 @@ episodes:
   fernsehserien_episode_no: 499
   fernsehserien_episode_slug: 499-virunga-der-kampf-fuer-die-berggorillas-1230128
   fernsehserien_episode_id: 1230128
+  youtube_video_id: -2VXdo0Vm8A
 - title: Gitarren und Flamenco in Granada
   title_en: Guitars and Flamenco in Granada
   air_date: '2018-10-13'
@@ -4733,6 +4740,7 @@ episodes:
   fernsehserien_episode_no: 500
   fernsehserien_episode_slug: 500-gitarren-und-flamenco-in-granada-1232369
   fernsehserien_episode_id: 1232369
+  youtube_video_id: qNy9yMLVPhA
 - title: Chatuchak - Bangkoks Riesenmarkt
   title_en: Bangkoks Giant Market
   air_date: '2018-10-20'
@@ -4752,6 +4760,7 @@ episodes:
   fernsehserien_episode_slug: 502-argentinien-der-jaguar-ist-zurueck-1235360
   fernsehserien_episode_id: 1235360
   imdb_episode_id: tt14429962
+  youtube_video_id: paOkViJRTpg
 - title: Rooibos, der rote Tee Südafrikas
   title_en: Rooibos, Africas red tea
   air_date: '2018-11-03'
@@ -4762,6 +4771,7 @@ episodes:
   fernsehserien_episode_slug: 503-rooibos-der-rote-tee-suedafrikas-1237427
   fernsehserien_episode_id: 1237427
   imdb_episode_id: tt9232664
+  youtube_video_id: GocBm5fcRKY
 - title: Ankaras gerettete Bücher - Die Müll-Bibliothek von Cankaya
   alias: Ankaras gerettete Bücher
   title_en: The trash-library of Cankaya
@@ -5889,7 +5899,6 @@ episodes:
   fernsehserien_episode_slug: 611-maine-hummer-oder-wale-1613685
   fernsehserien_episode_id: 1613685
   imdb_episode_id: tt26472394
-
 - title: Singvögel - die goldene Stimmen von Singapur
   air_date: '2023-02-04'
   duration: 32
@@ -5897,7 +5906,6 @@ episodes:
   thetvdb_season_episode: S25E06
   thetvdb_episode_id: 9524041
   imdb_episode_id: tt18413922
-
 - title: Namibia - von Sandsurfern und Skatern
   air_date: '2023-02-11'
   episode: 7
@@ -5910,7 +5918,6 @@ episodes:
   fernsehserien_episode_slug: 612-albanien-die-stimmen-der-schaefer-1618464
   fernsehserien_episode_id: 1618464
   imdb_episode_id: tt26898737
-
 - title: Laos - Futterblöcke und Büffel-Leasing
   air_date: '2023-03-04'
   episode: 9
@@ -5918,7 +5925,6 @@ episodes:
   fernsehserien_episode_slug: 613-laos-futterbloecke-und-bueffel-leasing-1620347
   fernsehserien_episode_id: 1620347
   imdb_episode_id: tt27005233
-
 - title: Freiheit auf Pferderücken - Der lange Weg der Nez Perce
   air_date: '2023-03-11'
   episode: 10
