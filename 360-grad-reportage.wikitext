@@ -1,0 +1,3769 @@
+{{Episodenlistentabelle|BREITE=100%
+| ZUSAMMENFASSUNG = nein
+| SORTIERBAR = nein
+| REGISSEUR = nein
+| DREHBUCH= nein
+| INHALT =
+{{Episodenlisteneintrag
+| NR_GES = 1
+| NR_ST = 1
+| OT = Traum-Städte: Beirut - die Milliarden-Dollar-Utopie
+| EA = 1999-01-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 2
+| NR_ST = 2
+| OT = Traum-Städte: Chandigarh - Leben im Beton
+| EA = 1999-01-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 3
+| NR_ST = 3
+| OT = Traum-Städte: Brasilia - Metropole vom Reißbrett
+| EA = 1999-01-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 4
+| NR_ST = 4
+| OT = Traum-Städte: Celebration - Leben in Harmonie
+| EA = 1999-01-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 5
+| NR_ST = 5
+| OT = Weibs-Bilder: Die mächtigen Frauen von Juchitán
+| EA = 1999-02-01
+}}
+{{Episodenlisteneintrag
+| NR_GES = 6
+| NR_ST = 6
+| OT = Weibs-Bilder: Hazeras Geschäfte
+| EA = 1999-02-02
+}}
+{{Episodenlisteneintrag
+| NR_GES = 7
+| NR_ST = 7
+| OT = Weibs-Bilder: Die neue Kunst des Kinderkriegens
+| EA = 1999-02-03
+}}
+{{Episodenlisteneintrag
+| NR_GES = 8
+| NR_ST = 8
+| OT = Weibs-Bilder: Der kleine Unterschied im Kopf
+| EA = 1999-02-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 9
+| NR_ST = 9
+| OT = Regenwald: Die Spurensucher
+| EA = 1999-03-01
+}}
+{{Episodenlisteneintrag
+| NR_GES = 10
+| NR_ST = 10
+| OT = Regenwald: Auf dem Holzweg
+| EA = 1999-03-02
+}}
+{{Episodenlisteneintrag
+| NR_GES = 11
+| NR_ST = 11
+| OT = Regenwald: Der Geist des Vogels - Heilkraft aus dem Urwald
+| EA = 1999-03-03
+}}
+{{Episodenlisteneintrag
+| NR_GES = 12
+| NR_ST = 12
+| OT = Regenwald: Die Pille für den Wald
+| EA = 1999-03-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 13
+| NR_ST = 13
+| OT = Vorbild Natur: Copyright Natur
+| EA = 1999-04-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 14
+| NR_ST = 14
+| OT = Vorbild Natur: Mensch Roboter!
+| EA = 1999-04-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 15
+| NR_ST = 15
+| OT = Vorbild Natur: ABC des Universums
+| EA = 1999-04-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 16
+| NR_ST = 16
+| OT = Vorbild Natur: Die Erfindung der Wirklichkeit
+| EA = 1999-04-08
+}}
+{{Episodenlisteneintrag
+| NR_GES = 17
+| NR_ST = 17
+| OT = Schönheit: Markt der Schönheit
+| EA = 1999-05-03
+}}
+{{Episodenlisteneintrag
+| NR_GES = 18
+| NR_ST = 18
+| OT = Schönheit: Kuba - von der stillen Revolte der Schönheit
+| EA = 1999-05-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 19
+| NR_ST = 19
+| OT = Schönheit: Das Maß der Schönheit
+| EA = 1999-05-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 20
+| NR_ST = 20
+| OT = Schönheit: Die andere Seite der Schönheit
+| EA = 1999-05-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 21
+| NR_ST = 21
+| OT = Intelligenz: Geniale Störenfriede
+| EA = 1999-07-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 22
+| NR_ST = 22
+| OT = Intelligenz: Musik macht klug
+| EA = 1999-07-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 23
+| NR_ST = 23
+| OT = Intelligenz: „Think Tank“ - Die Schule der Affen
+| EA = 1999-07-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 24
+| NR_ST = 24
+| OT = Intelligenz: Künstliche Intelligenz
+| EA = 1999-07-08
+}}
+{{Episodenlisteneintrag
+| NR_GES = 25
+| NR_ST = 25
+| OT = Irren ist menschlich: Der Kaninchen-Krieg
+| EA = 1999-09-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 26
+| NR_ST = 26
+| OT = Irren ist menschlich: Countdown ins Desaster
+| EA = 1999-09-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 27
+| NR_ST = 27
+| OT = Irren ist menschlich: Liebe und andere Katastrophen
+| EA = 1999-09-08
+}}
+{{Episodenlisteneintrag
+| NR_GES = 28
+| NR_ST = 28
+| OT = Irren ist menschlich: Verkehrte Sicherheit
+| EA = 1999-09-09
+}}
+{{Episodenlisteneintrag
+| NR_GES = 29
+| NR_ST = 29
+| OT = Die Suche nach dem Glück: Die Meister des Glücks
+| EA = 1999-10-11
+}}
+{{Episodenlisteneintrag
+| NR_GES = 30
+| NR_ST = 30
+| OT = Die Suche nach dem Glück: Die Macht des Lachens
+| EA = 1999-10-12
+}}
+{{Episodenlisteneintrag
+| NR_GES = 31
+| NR_ST = 31
+| OT = Die Suche nach dem Glück: Chemie der Traurigkeit
+| EA = 1999-10-13
+}}
+{{Episodenlisteneintrag
+| NR_GES = 32
+| NR_ST = 32
+| OT = Die Suche nach dem Glück: Insel der Glücklichsten
+| EA = 1999-10-14
+}}
+{{Episodenlisteneintrag
+| NR_GES = 33
+| NR_ST = 33
+| OT = Universum des Lichts: Hunger nach Sonne
+| EA = 1999-11-01
+}}
+{{Episodenlisteneintrag
+| NR_GES = 34
+| NR_ST = 34
+| OT = Universum des Lichts: Die Leuchtkraft der Natur
+| EA = 1999-11-02
+}}
+{{Episodenlisteneintrag
+| NR_GES = 35
+| NR_ST = 35
+| OT = Universum des Lichts: Die Seele des Lichts
+| EA = 1999-11-03
+}}
+{{Episodenlisteneintrag
+| NR_GES = 36
+| NR_ST = 36
+| OT = Universum des Lichts: Lichtkunst - Kunstlicht
+| EA = 1999-11-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 37
+| NR_ST = 37
+| OT = Im Namen der Liebe: Eine Liebe auf Bali
+| EA = 1999-12-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 38
+| NR_ST = 38
+| OT = Im Namen der Liebe: Mythos Mutterliebe
+| EA = 1999-12-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 39
+| NR_ST = 39
+| OT = Im Namen der Liebe: Angst macht verführerisch
+| EA = 1999-12-08
+}}
+{{Episodenlisteneintrag
+| NR_GES = 40
+| NR_ST = 40
+| OT = Im Namen der Liebe: Menü der Zärtlichkeit
+| EA = 1999-12-09
+}}
+{{Episodenlisteneintrag
+| NR_GES = 41
+| NR_ST = 1
+| OT = Naturgewalten: Ernstfall Erdbeben
+| EA = 2000-01-10
+}}
+{{Episodenlisteneintrag
+| NR_GES = 42
+| NR_ST = 2
+| OT = Naturgewalten: Tsunami - die Todeswelle
+| EA = 2000-01-11
+}}
+{{Episodenlisteneintrag
+| NR_GES = 43
+| NR_ST = 3
+| OT = Naturgewalten: Operation Wolkenbruch
+| EA = 2000-01-12
+}}
+{{Episodenlisteneintrag
+| NR_GES = 44
+| NR_ST = 4
+| OT = Naturgewalten: Im Schatten des Vulkans
+| EA = 2000-01-13
+}}
+{{Episodenlisteneintrag
+| NR_GES = 45
+| NR_ST = 5
+| OT = Spiele des Lebens: Casino der Häuptlinge
+| EA = 2000-02-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 46
+| NR_ST = 6
+| OT = Spiele des Lebens: Schach - Krieg auf 64 Feldern
+| EA = 2000-02-08
+}}
+{{Episodenlisteneintrag
+| NR_GES = 47
+| NR_ST = 7
+| OT = Spiele des Lebens: Mehr als nur ein Kinderspiel
+| EA = 2000-02-09
+}}
+{{Episodenlisteneintrag
+| NR_GES = 48
+| NR_ST = 8
+| OT = Spiele des Lebens: Spielplatz Natur
+| EA = 2000-02-10
+}}
+{{Episodenlisteneintrag
+| NR_GES = 49
+| NR_ST = 9
+| OT = Die Schatzjäger: Beruf Grabräuber
+| EA = 2000-03-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 50
+| NR_ST = 10
+| OT = Die Schatzjäger: Schätze aus dem All
+| EA = 2000-03-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 51
+| NR_ST = 11
+| OT = Die Schatzjäger: Die Taucher der Goldküste
+| EA = 2000-03-08
+}}
+{{Episodenlisteneintrag
+| NR_GES = 52
+| NR_ST = 12
+| OT = Die Schatzjäger: Im Bann der Rubine
+| EA = 2000-03-09
+}}
+{{Episodenlisteneintrag
+| NR_GES = 53
+| NR_ST = 13
+| OT = Medizin der Zukunft: Die Klinik der Schamanen
+| EA = 2000-05-01
+}}
+{{Episodenlisteneintrag
+| NR_GES = 54
+| NR_ST = 14
+| OT = Medizin der Zukunft: Organe nach Maß
+| EA = 2000-05-02
+}}
+{{Episodenlisteneintrag
+| NR_GES = 55
+| NR_ST = 15
+| OT = Medizin der Zukunft: Die Jäger des Lassa-Virus
+| EA = 2000-05-03
+}}
+{{Episodenlisteneintrag
+| NR_GES = 56
+| NR_ST = 16
+| OT = Medizin der Zukunft: Chirurgen am Joystick
+| EA = 2000-05-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 57
+| NR_ST = 17
+| OT = Dem Täter auf der Spur: Die Hightech-Polizei
+| EA = 2000-06-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 58
+| NR_ST = 18
+| OT = Dem Täter auf der Spur: Die Kunst des Fälschens
+| EA = 2000-06-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 59
+| NR_ST = 19
+| OT = Dem Täter auf der Spur: Geheimnisse der Toten
+| EA = 2000-06-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 60
+| NR_ST = 20
+| OT = Dem Täter auf der Spur: Psycho-Detektive
+| EA = 2000-06-08
+}}
+{{Episodenlisteneintrag
+| NR_GES = 61
+| NR_ST = 21
+| OT = Im Reich der Meere: Das Fenster zum Meer - Im Großaquarium von Sydney
+| EA = 2000-09-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 62
+| NR_ST = 22
+| OT = Im Reich der Meere: Schwarze Brandung - Nach der Ölkatastrophe an der bretonischen Küste
+| EA = 2000-09-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 63
+| NR_ST = 23
+| OT = Im Reich der Meere: Durst nach Meer - Neue Methoden der Trinkwassergewinnung
+| EA = 2000-09-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 64
+| NR_ST = 24
+| OT = Im Reich der Meere: SOS auf hoher See - Moderne Rettungstechnik im Einsatz
+| EA = 2000-09-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 65
+| NR_ST = 25
+| OT = Die Geheimnisse des Waldes: Die Feuerpatrouille
+| EA = 2000-10-02
+}}
+{{Episodenlisteneintrag
+| NR_GES = 66
+| NR_ST = 26
+| OT = Die Geheimnisse des Waldes: Der letzte Märchenwald
+| EA = 2000-10-03
+}}
+{{Episodenlisteneintrag
+| NR_GES = 67
+| NR_ST = 27
+| OT = Die Geheimnisse des Waldes: Chinas grüne Mauer
+| EA = 2000-10-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 68
+| NR_ST = 28
+| OT = Die Geheimnisse des Waldes: Die Waldfabrik
+| EA = 2000-10-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 69
+| NR_ST = 29
+| OT = Leben am Limit / Grenzen des Körpers: Himalaja - Tödliche Höhe
+| EA = 2000-11-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 70
+| NR_ST = 30
+| OT = Leben am Limit / Grenzen des Körpers: Apnoe-Taucher - Im Tiefenrausch
+| EA = 2000-11-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 71
+| NR_ST = 31
+| OT = Leben am Limit / Grenzen des Körpers: Radrennen - Ewiger Endspurt
+| EA = 2000-11-08
+}}
+{{Episodenlisteneintrag
+| NR_GES = 72
+| NR_ST = 32
+| OT = Leben am Limit / Grenzen des Körpers: Sadhus - Heilige Aussteiger
+| EA = 2000-11-09
+}}
+{{Episodenlisteneintrag
+| NR_GES = 73
+| NR_ST = 33
+| OT = Tiere im Rampenlicht: Die Elefantenschule
+| EA = 2000-12-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 74
+| NR_ST = 34
+| OT = Tiere im Rampenlicht: Der Rentier-Trek
+| EA = 2000-12-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 75
+| NR_ST = 35
+| OT = Tiere im Rampenlicht: Nicht ohne meinen Hund
+| EA = 2000-12-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 76
+| NR_ST = 36
+| OT = Tiere im Rampenlicht: Kamele im Rennen
+| EA = 2000-12-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 77
+| NR_ST = 1
+| OT = Überleben in der Wüste: Timbuktu
+| EA = 2001-01-02
+}}
+{{Episodenlisteneintrag
+| NR_GES = 78
+| NR_ST = 2
+| OT = Überleben in der Wüste: Die Frucht, die aus der Dürre kam
+| EA = 2001-01-03
+}}
+{{Episodenlisteneintrag
+| NR_GES = 79
+| NR_ST = 3
+| OT = Überleben in der Wüste: Baumeister der Wüste
+| EA = 2001-01-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 80
+| NR_ST = 4
+| OT = Überleben in der Wüste: Wüste auf Bewährung
+| EA = 2001-01-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 81
+| NR_ST = 5
+| OT = Die Baustelle des Herrn
+| EA = 2001-03-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 82
+| NR_ST = 6
+| OT = Retter des Nebelwaldes
+| EA = 2001-03-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 83
+| NR_ST = 7
+| OT = Hollywood auf dem Trockenen
+| EA = 2001-03-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 84
+| NR_ST = 8
+| OT = Die Adern von Berlin - Der Wasserkreislauf einer Metropole
+| EA = 2001-03-08
+}}
+{{Episodenlisteneintrag
+| NR_GES = 85
+| NR_ST = 9
+| OT = Operation Alpentunnel
+| EA = 2001-04-09
+}}
+{{Episodenlisteneintrag
+| NR_GES = 86
+| NR_ST = 10
+| OT = Brücke in den Orient
+| EA = 2001-04-10
+}}
+{{Episodenlisteneintrag
+| NR_GES = 87
+| NR_ST = 11
+| OT = Die letzten Nixen - die Taucherinnen von Cheju
+| EA = 2001-04-11
+}}
+{{Episodenlisteneintrag
+| NR_GES = 88
+| NR_ST = 12
+| OT = Die Fischer vom Rio Negro
+| EA = 2001-04-12
+}}
+{{Episodenlisteneintrag
+| NR_GES = 89
+| NR_ST = 13
+| OT = Anatomie einer Lawine
+| EA = 2001-04-30
+}}
+{{Episodenlisteneintrag
+| NR_GES = 90
+| NR_ST = 14
+| OT = Die Erbin Gandhis - Widerstand gegen einen Staudamm
+| EA = 2001-05-01
+}}
+{{Episodenlisteneintrag
+| NR_GES = 91
+| NR_ST = 15
+| OT = Die Spur der Wüstenkrokodile
+| EA = 2001-05-02
+}}
+{{Episodenlisteneintrag
+| NR_GES = 92
+| NR_ST = 16
+| OT = Invasion der Biber
+| EA = 2001-05-03
+}}
+{{Episodenlisteneintrag
+| NR_GES = 93
+| NR_ST = 17
+| OT = Kumbh Mela - Das größte Fest der Welt
+| EA = 2001-06-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 94
+| NR_ST = 18
+| OT = Buzkashi - Spiel der Steppenreiter
+| EA = 2001-06-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 95
+| NR_ST = 19
+| OT = Wasser im Tank
+| EA = 2001-06-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 96
+| NR_ST = 20
+| OT = Stau am Himmel
+| EA = 2001-06-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 97
+| NR_ST = 21
+| OT = Das Waisenhaus der Affen
+| EA = 2001-09-03
+}}
+{{Episodenlisteneintrag
+| NR_GES = 98
+| NR_ST = 22
+| OT = Die Bisonwächter
+| EA = 2001-09-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 99
+| NR_ST = 23
+| OT = Die Farm der Schmetterlinge
+| EA = 2001-09-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 100
+| NR_ST = 24
+| OT = Fährtensucher online
+| EA = 2001-09-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 101
+| NR_ST = 25
+| OT = Nepals verkaufte Töchter
+| EA = 2001-10-01
+}}
+{{Episodenlisteneintrag
+| NR_GES = 102
+| NR_ST = 26
+| OT = Die Stadt der Diamanten
+| EA = 2001-10-03
+}}
+{{Episodenlisteneintrag
+| NR_GES = 103
+| NR_ST = 27
+| OT = Gaucho auf Lebenszeit
+| EA = 2001-10-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 104
+| NR_ST = 28
+| OT = Der Großvater der Massai
+| EA = 2001-10-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 105
+| NR_ST = 1
+| OT = Cunahá - Tod im Regenwald
+| EA = 2002-02-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 106
+| NR_ST = 2
+| OT = Walverwandtschaften
+| EA = 2002-02-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 107
+| NR_ST = 3
+| OT = Wildreis - Der grüne Schatz der kanadischen Ojibwa-Indianer
+| EA = 2002-02-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 108
+| NR_ST = 4
+| OT = Party für eine Leiche - Das Fest der Ahnen in Madagaskar
+| EA = 2002-02-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 109
+| NR_ST = 5
+| OT = Filmstars im Pelz
+| EA = 2002-03-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 110
+| NR_ST = 6
+| OT = Hongkongs fliegende Küchen
+| EA = 2002-03-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 111
+| NR_ST = 7
+| OT = Die Herren der Adler - Kasachische Jäger und ihre Greifvögel
+| EA = 2002-03-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 112
+| NR_ST = 8
+| OT = Safran - Ein blühendes Geschäft
+| EA = 2002-03-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 113
+| NR_ST = 9
+| OT = Der Dreh mit den Havannas - Die Zigarrenfälschung
+| EA = 2002-04-01
+}}
+{{Episodenlisteneintrag
+| NR_GES = 114
+| NR_ST = 10
+| OT = Ein göttlicher Zug - das rollende Gotteshaus in Russland
+| EA = 2002-04-02
+}}
+{{Episodenlisteneintrag
+| NR_GES = 115
+| NR_ST = 11
+| OT = Sinfonie der Straße - Kinderorchester in Venezuela
+| EA = 2002-04-03
+}}
+{{Episodenlisteneintrag
+| NR_GES = 116
+| NR_ST = 12
+| OT = Ticket in ein neues Leben - Der Lifeline Express in Indien
+| EA = 2002-05-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 117
+| NR_ST = 13
+| OT = Die Bernsteintaucher
+| EA = 2002-05-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 118
+| NR_ST = 14
+| OT = Mumien im Ausverkauf
+| EA = 2002-05-08
+}}
+{{Episodenlisteneintrag
+| NR_GES = 119
+| NR_ST = 15
+| OT = Die Minensucher von Kabul
+| EA = 2002-05-09
+}}
+{{Episodenlisteneintrag
+| NR_GES = 120
+| NR_ST = 16
+| OT = Bermuda: Schatzsuche in der Tiefsee
+| EA = 2002-06-03
+}}
+{{Episodenlisteneintrag
+| NR_GES = 121
+| NR_ST = 17
+| OT = Die Legende von den Killerbienen
+| EA = 2002-06-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 122
+| NR_ST = 18
+| OT = Die Schule der Inuit
+| EA = 2002-06-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 123
+| NR_ST = 19
+| OT = Peones - Verkannte Helden
+| EA = 2002-06-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 124
+| NR_ST = 20
+| OT = Sir Peter Blake - Expedition ins ewige Eis
+| EA = 2002-09-02
+}}
+{{Episodenlisteneintrag
+| NR_GES = 125
+| NR_ST = 21
+| OT = Im Wald der Vampire
+| EA = 2002-09-03
+}}
+{{Episodenlisteneintrag
+| NR_GES = 126
+| NR_ST = 22
+| OT = Nashörner unter dem Hammer
+| EA = 2002-09-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 127
+| NR_ST = 23
+| OT = Warten auf den Monsun
+| EA = 2002-09-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 128
+| NR_ST = 24
+| OT = Palmasola - Dorf hinter Gittern
+| EA = 2002-10-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 129
+| NR_ST = 25
+| OT = Bilder hören - Die blinden Kinder von Tibet
+| EA = 2002-10-08
+}}
+{{Episodenlisteneintrag
+| NR_GES = 130
+| NR_ST = 26
+| OT = Der Blechmusik-Oscar
+| EA = 2002-10-09
+}}
+{{Episodenlisteneintrag
+| NR_GES = 131
+| NR_ST = 27
+| OT = Die Riesenflöße vom Jenissej - Ein Floßschiffer auf seiner Fahrt zum Polarmeer
+| EA = 2002-10-10
+}}
+{{Episodenlisteneintrag
+| NR_GES = 132
+| NR_ST = 28
+| OT = Heiratsmarkt in Marokko
+| EA = 2002-11-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 133
+| NR_ST = 29
+| OT = Die türkischen Hochzeitsmacher
+| EA = 2002-11-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 134
+| NR_ST = 30
+| OT = Die Frachtensegler von Madagaskar
+| EA = 2002-11-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 135
+| NR_ST = 31
+| OT = Die Abalone-Wilderer - Der Kampf um den Erhalt einer Seeschneckenart
+| EA = 2002-11-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 136
+| NR_ST = 1
+| OT = Die Mörderinnen von Targsor - Das einzige Frauengefängnis in Rumänien
+| EA = 2003-01-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 137
+| NR_ST = 2
+| OT = Das Metall aus dem Vulkan
+| EA = 2003-01-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 138
+| NR_ST = 3
+| OT = Die Söldner der Perlen - Der lebensgefährliche Job
+| EA = 2003-01-08
+}}
+{{Episodenlisteneintrag
+| NR_GES = 139
+| NR_ST = 4
+| OT = Hongkongs Bambusakrobaten
+| EA = 2003-01-09
+}}
+{{Episodenlisteneintrag
+| NR_GES = 140
+| NR_ST = 5
+| OT = Mission Nordkorea
+| EA = 2003-02-03
+}}
+{{Episodenlisteneintrag
+| NR_GES = 141
+| NR_ST = 6
+| OT = Radios gegen Kalaschnikows
+| EA = 2003-02-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 142
+| NR_ST = 7
+| OT = Die Hightech-Oase - Auf der größten Milchfarm der Welt
+| EA = 2003-02-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 143
+| NR_ST = 8
+| OT = Videofabrik Nigeria
+| EA = 2003-02-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 144
+| NR_ST = 9
+| OT = Beuteltiere an der Börse
+| EA = 2003-03-03
+}}
+{{Episodenlisteneintrag
+| NR_GES = 145
+| NR_ST = 10
+| OT = Hongkong - Pferde und Millionen
+| EA = 2003-03-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 146
+| NR_ST = 11
+| OT = Wo der wilde Kaffee wächst
+| EA = 2003-03-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 147
+| NR_ST = 12
+| OT = Rückkehr der Meeresschildkröten
+| EA = 2003-03-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 148
+| NR_ST = 13
+| OT = Samoa Queens - Männer, die als Frauen leben
+| EA = 2003-04-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 149
+| NR_ST = 14
+| OT = Einsatz für den Amur-Tiger
+| EA = 2003-04-08
+}}
+{{Episodenlisteneintrag
+| NR_GES = 150
+| NR_ST = 15
+| OT = Die Seelensammler von Bangkok
+| EA = 2003-04-09
+}}
+{{Episodenlisteneintrag
+| NR_GES = 151
+| NR_ST = 16
+| OT = Der Vogelhändler von Guangzhou
+| EA = 2003-04-10
+}}
+{{Episodenlisteneintrag
+| NR_GES = 152
+| NR_ST = 1
+| OT = Goldrausch in Sibirien
+| EA = 2004-01-03
+}}
+{{Episodenlisteneintrag
+| NR_GES = 153
+| NR_ST = 2
+| OT = Die Waldbahn der Karpaten
+| EA = 2004-02-28
+}}
+{{Episodenlisteneintrag
+| NR_GES = 154
+| NR_ST = 3
+| OT = Das Vermächtnis der Marquesas-Inseln
+| EA = 2004-03-27
+}}
+{{Episodenlisteneintrag
+| NR_GES = 155
+| NR_ST = 4
+| OT = Joaquims wilde Reiter
+| EA = 2004-04-24
+}}
+{{Episodenlisteneintrag
+| NR_GES = 156
+| NR_ST = 5
+| OT = Johannesburg - Eine Stadt macht dicht
+| EA = 2004-05-29
+}}
+{{Episodenlisteneintrag
+| NR_GES = 157
+| NR_ST = 6
+| OT = Paco Pacos - Die Knatterkisten vom Amazonas
+| EA = 2004-06-26
+}}
+{{Episodenlisteneintrag
+| NR_GES = 158
+| NR_ST = 7
+| OT = Das Parlament der Kinder
+| EA = 2004-07-10
+}}
+{{Episodenlisteneintrag
+| NR_GES = 159
+| NR_ST = 8
+| OT = Die Bogenschützin von Bhutan
+| EA = 2004-07-31
+}}
+{{Episodenlisteneintrag
+| NR_GES = 160
+| NR_ST = 9
+| OT = Überleben am Manila Express
+| EA = 2004-09-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 161
+| NR_ST = 10
+| OT = Das Mysterium der sibirischen Mumie
+| EA = 2004-09-11
+}}
+{{Episodenlisteneintrag
+| NR_GES = 162
+| NR_ST = 11
+| OT = Razzia im Regenwald
+| EA = 2004-09-18
+}}
+{{Episodenlisteneintrag
+| NR_GES = 163
+| NR_ST = 12
+| OT = In acht Meilen um die Welt
+| EA = 2004-10-16
+}}
+{{Episodenlisteneintrag
+| NR_GES = 164
+| NR_ST = 13
+| OT = Alphadi und die Farben der Wüste
+| EA = 2004-10-30
+}}
+{{Episodenlisteneintrag
+| NR_GES = 165
+| NR_ST = 14
+| OT = Die Verwandlungskünstler von Dakar
+| EA = 2004-11-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 166
+| NR_ST = 15
+| OT = Kalifornien auf die harte Tour
+| EA = 2004-11-13
+}}
+{{Episodenlisteneintrag
+| NR_GES = 167
+| NR_ST = 16
+| OT = Der Polarflieger - Ein Pilot in Sibirien
+| EA = 2004-11-20
+}}
+{{Episodenlisteneintrag
+| NR_GES = 168
+| NR_ST = 17
+| OT = Dagestan - Land über den Wolken
+| EA = 2004-11-27
+}}
+{{Episodenlisteneintrag
+| NR_GES = 169
+| NR_ST = 18
+| OT = Die versunkenen Flugzeuge
+| EA = 2004-12-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 170
+| NR_ST = 19
+| OT = Ein Traum von Schokolade
+| EA = 2004-12-30
+}}
+{{Episodenlisteneintrag
+| NR_GES = 171
+| NR_ST = 1
+| OT = Die rasenden Engel der Línea 5
+| EA = 2005-01-08
+}}
+{{Episodenlisteneintrag
+| NR_GES = 172
+| NR_ST = 2
+| OT = Das Dschungel-Orchester
+| EA = 2005-01-22
+}}
+{{Episodenlisteneintrag
+| NR_GES = 173
+| NR_ST = 3
+| OT = Überleben in der Wüste - Straffällig gewordene Jugendliche in Arizona
+| EA = 2005-01-29
+}}
+{{Episodenlisteneintrag
+| NR_GES = 174
+| NR_ST = 4
+| OT = Der Wüstendoktor
+| EA = 2005-02-26
+}}
+{{Episodenlisteneintrag
+| NR_GES = 175
+| NR_ST = 5
+| OT = Die Kichwa-Krieger und das Öl
+| EA = 2005-04-09
+}}
+{{Episodenlisteneintrag
+| NR_GES = 176
+| NR_ST = 6
+| OT = Überleben am Manila-Express
+| EA = 2005-05-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 177
+| NR_ST = 7
+| OT = Honeymoon auf Hainan
+| EA = 2005-05-21
+}}
+{{Episodenlisteneintrag
+| NR_GES = 178
+| NR_ST = 8
+| OT = Kambodscha - Die Seele der Seide
+| EA = 2005-06-25
+}}
+{{Episodenlisteneintrag
+| NR_GES = 179
+| NR_ST = 9
+| OT = Das Postschiff zum Ende der Welt
+| EA = 2005-07-09
+}}
+{{Episodenlisteneintrag
+| NR_GES = 180
+| NR_ST = 10
+| OT = Vagabunden der Wüste - Kamelzüchter in der Mongolei
+| EA = 2005-08-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 181
+| NR_ST = 11
+| OT = Die Mutter der Bonobos
+| EA = 2005-09-17
+}}
+{{Episodenlisteneintrag
+| NR_GES = 182
+| NR_ST = 12
+| OT = Die Eisenbahn vom Baikal zum Amur
+| EA = 2005-09-24
+}}
+{{Episodenlisteneintrag
+| NR_GES = 183
+| NR_ST = 13
+| OT = Ein göttlicher Zug
+| EA = 2005-10-01
+}}
+{{Episodenlisteneintrag
+| NR_GES = 184
+| NR_ST = 14
+| OT = Ticket in ein neues Leben
+| EA = 2005-10-01
+}}
+{{Episodenlisteneintrag
+| NR_GES = 185
+| NR_ST = 15
+| OT = Das schwimmende Krankenhaus vom Amazonas
+| EA = 2005-10-08
+}}
+{{Episodenlisteneintrag
+| NR_GES = 186
+| NR_ST = 16
+| OT = Der weiße Berg von Feuerland
+| EA = 2005-10-22
+}}
+{{Episodenlisteneintrag
+| NR_GES = 187
+| NR_ST = 17
+| OT = Mecaniqueros - Nichts ist unmöglich in Havanna
+| EA = 2005-11-12
+}}
+{{Episodenlisteneintrag
+| NR_GES = 188
+| NR_ST = 18
+| OT = Eremitage - Palast der Katzen
+| EA = 2005-12-10
+}}
+{{Episodenlisteneintrag
+| NR_GES = 189
+| NR_ST = 19
+| OT = Traumberuf Schäfer
+| EA = 2005-12-17
+}}
+{{Episodenlisteneintrag
+| NR_GES = 190
+| NR_ST = 20
+| OT = Die Kinder des Vater Nikolai
+| EA = 2005-12-24
+}}
+{{Episodenlisteneintrag
+| NR_GES = 191
+| NR_ST = 1
+| OT = Im Land der Schwarzen Witwen
+| EA = 2006-01-14
+}}
+{{Episodenlisteneintrag
+| NR_GES = 192
+| NR_ST = 2
+| OT = Polen - Ärger im Revier
+| EA = 2006-02-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 193
+| NR_ST = 3
+| OT = Lust auf Liebe in Lisdoonvarna
+| EA = 2006-03-25
+}}
+{{Episodenlisteneintrag
+| NR_GES = 194
+| NR_ST = 4
+| OT = Kung-Fu - Chinas neue Kämpferinnen
+| EA = 2006-04-08
+}}
+{{Episodenlisteneintrag
+| NR_GES = 195
+| NR_ST = 5
+| OT = Highway durch die Arktis
+| EA = 2006-04-22
+}}
+{{Episodenlisteneintrag
+| NR_GES = 196
+| NR_ST = 6
+| OT = Churubamba - Frauen am Ball
+| EA = 2006-05-27
+}}
+{{Episodenlisteneintrag
+| NR_GES = 197
+| NR_ST = 7
+| OT = Chicagos Stahlmänner - Abriss und Wiederaufbau eines Hochofens
+| EA = 2006-07-29
+}}
+{{Episodenlisteneintrag
+| NR_GES = 198
+| NR_ST = 8
+| OT = Die schwimmenden Dörfer der Ha Long Bucht
+| EA = 2006-07-29
+}}
+{{Episodenlisteneintrag
+| NR_GES = 199
+| NR_ST = 9
+| OT = Von Männern und Mustangs
+| EA = 2006-08-26
+}}
+{{Episodenlisteneintrag
+| NR_GES = 200
+| NR_ST = 10
+| OT = Tasmanien: Wächterin im Paradies
+| EA = 2006-09-09
+}}
+{{Episodenlisteneintrag
+| NR_GES = 201
+| NR_ST = 11
+| OT = Die Teebahn von Darjeeling
+| EA = 2006-09-16
+}}
+{{Episodenlisteneintrag
+| NR_GES = 202
+| NR_ST = 12
+| OT = Die Millionen-Dollar-Hirsche
+| EA = 2006-10-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 203
+| NR_ST = 13
+| OT = Die Dächer von Kairo
+| EA = 2006-10-14
+}}
+{{Episodenlisteneintrag
+| NR_GES = 204
+| NR_ST = 14
+| OT = Die Trommler von Burundi
+| EA = 2006-10-21
+}}
+{{Episodenlisteneintrag
+| NR_GES = 205
+| NR_ST = 15
+| OT = Saphir-Fieber auf Madagaskar
+| EA = 2006-11-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 206
+| NR_ST = 16
+| OT = Auf den Spuren der Wikinger
+| EA = 2006-11-18
+}}
+{{Episodenlisteneintrag
+| NR_GES = 207
+| NR_ST = 17
+| OT = Chile - Segen und Fluch einer Kupfermine
+| EA = 2006-12-02
+}}
+{{Episodenlisteneintrag
+| NR_GES = 208
+| NR_ST = 18
+| OT = Buddhas Kinder im Goldenen Dreieck
+| EA = 2006-12-16
+}}
+{{Episodenlisteneintrag
+| NR_GES = 209
+| NR_ST = 19
+| OT = Eritrea - Ein Esel für die Zukunft
+| EA = 2006-12-23
+}}
+{{Episodenlisteneintrag
+| NR_GES = 210
+| NR_ST = 1
+| OT = Hai-Alarm in Polynesien
+| EA = 2007-01-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 211
+| NR_ST = 2
+| OT = Sumatra - Ettis Schönheitssalon
+| EA = 2007-01-27
+}}
+{{Episodenlisteneintrag
+| NR_GES = 212
+| NR_ST = 3
+| OT = Kenia: Das Dorf der Frauen
+| EA = 2007-02-10
+}}
+{{Episodenlisteneintrag
+| NR_GES = 213
+| NR_ST = 4
+| OT = Boliviens junge Wilde
+| EA = 2007-03-03
+}}
+{{Episodenlisteneintrag
+| NR_GES = 214
+| NR_ST = 5
+| OT = Ein Dorfladen reist durch Lettland
+| EA = 2007-03-24
+}}
+{{Episodenlisteneintrag
+| NR_GES = 215
+| NR_ST = 6
+| OT = Miyako: Die Insel des langen Lebens
+| EA = 2007-04-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 216
+| NR_ST = 7
+| OT = Die Sandmenschen von Schoina
+| EA = 2007-04-21
+}}
+{{Episodenlisteneintrag
+| NR_GES = 217
+| NR_ST = 8
+| OT = Bangkoks krabbelnde Delikatessen
+| EA = 2007-05-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 218
+| NR_ST = 9
+| OT = Die Windreiter der Anden
+| EA = 2007-05-12
+}}
+{{Episodenlisteneintrag
+| NR_GES = 219
+| NR_ST = 10
+| OT = Der Lachszähler von Kamtschatka
+| EA = 2007-06-02
+}}
+{{Episodenlisteneintrag
+| NR_GES = 220
+| NR_ST = 11
+| OT = Kamtschatka: Kochende Erde
+| EA = 2007-06-09
+}}
+{{Episodenlisteneintrag
+| NR_GES = 221
+| NR_ST = 12
+| OT = Venezuela: Die alte Frau und das Meer
+| EA = 2007-06-30
+}}
+{{Episodenlisteneintrag
+| NR_GES = 222
+| NR_ST = 13
+| OT = Die Krabbenflut
+| EA = 2007-08-11
+}}
+{{Episodenlisteneintrag
+| NR_GES = 223
+| NR_ST = 14
+| OT = Thailand: Kinder im Ring
+| EA = 2007-09-01
+}}
+{{Episodenlisteneintrag
+| NR_GES = 224
+| NR_ST = 15
+| OT = Kolumbien: Ein Riesenrad auf Reisen
+| EA = 2007-09-08
+}}
+{{Episodenlisteneintrag
+| NR_GES = 225
+| NR_ST = 16
+| OT = Rio: Vom Strich auf den Laufsteg
+| EA = 2007-09-15
+}}
+{{Episodenlisteneintrag
+| NR_GES = 226
+| NR_ST = 17
+| OT = Oman: Die Rosen der Wüste
+| EA = 2007-09-22
+}}
+{{Episodenlisteneintrag
+| NR_GES = 227
+| NR_ST = 18
+| OT = Brasilien: Büffel auf Streife
+| EA = 2007-11-03
+}}
+{{Episodenlisteneintrag
+| NR_GES = 228
+| NR_ST = 19
+| OT = Der Ottermann von Ungarn
+| EA = 2007-11-10
+}}
+{{Episodenlisteneintrag
+| NR_GES = 229
+| NR_ST = 20
+| OT = Attila und die Pferde der Puszta
+| EA = 2007-11-17
+}}
+{{Episodenlisteneintrag
+| NR_GES = 230
+| NR_ST = 21
+| OT = Peru: Delfine in Gefahr
+| EA = 2007-11-25
+}}
+{{Episodenlisteneintrag
+| NR_GES = 231
+| NR_ST = 22
+| OT = Postbote im Himalaya - Arbeit in 4000 Meter Höhe
+| EA = 2007-12-01
+}}
+{{Episodenlisteneintrag
+| NR_GES = 232
+| NR_ST = 23
+| OT = Wenzhou, die Schuh-Stadt von China
+| EA = 2007-12-08
+}}
+{{Episodenlisteneintrag
+| NR_GES = 233
+| NR_ST = 24
+| OT = Alligatorjagd in Florida
+| EA = 2007-12-15
+}}
+{{Episodenlisteneintrag
+| NR_GES = 234
+| NR_ST = 25
+| OT = Russlands Zirkusschule auf Tour
+| EA = 2007-12-22
+}}
+{{Episodenlisteneintrag
+| NR_GES = 235
+| NR_ST = 26
+| OT = Auf Schlangenfang in Kambodscha
+| EA = 2007-12-29
+}}
+{{Episodenlisteneintrag
+| NR_GES = 236
+| NR_ST = 1
+| OT = Hexenwahn in Tansania
+| EA = 2008-01-21
+}}
+{{Episodenlisteneintrag
+| NR_GES = 237
+| NR_ST = 2
+| OT = Die Kämpferinnen von Mexiko
+| EA = 2008-01-25
+}}
+{{Episodenlisteneintrag
+| NR_GES = 238
+| NR_ST = 3
+| OT = Die Minenratten von Tansania
+| EA = 2008-02-25
+}}
+{{Episodenlisteneintrag
+| NR_GES = 239
+| NR_ST = 4
+| OT = Philippinen: Rendezvous mit einem Adler
+| EA = 2008-02-28
+}}
+{{Episodenlisteneintrag
+| NR_GES = 240
+| NR_ST = 5
+| OT = Die Köchin von Bahia
+| EA = 2008-03-25
+}}
+{{Episodenlisteneintrag
+| NR_GES = 241
+| NR_ST = 6
+| OT = Der Kräutergarten von Java
+| EA = 2008-03-27
+}}
+{{Episodenlisteneintrag
+| NR_GES = 242
+| NR_ST = 7
+| OT = An den Ufern der Loire
+| EA = 2008-04-21
+}}
+{{Episodenlisteneintrag
+| NR_GES = 243
+| NR_ST = 8
+| OT = Rom - Das Leben der Komparsen
+| EA = 2008-04-22
+}}
+{{Episodenlisteneintrag
+| NR_GES = 244
+| NR_ST = 9
+| OT = Kanadas Buschpiloten im Einsatz
+| EA = 2008-05-26
+}}
+{{Episodenlisteneintrag
+| NR_GES = 245
+| NR_ST = 10
+| OT = Mauretanien: Aufstand der Fischerfrauen
+| EA = 2008-07-26
+}}
+{{Episodenlisteneintrag
+| NR_GES = 246
+| NR_ST = 11
+| OT = Vom Klassenzimmer in die Kalahari
+| EA = 2008-07-31
+}}
+{{Episodenlisteneintrag
+| NR_GES = 247
+| NR_ST = 12
+| OT = Nicaragua: Fluch der Langustentaucher
+| EA = 2008-08-28
+}}
+{{Episodenlisteneintrag
+| NR_GES = 248
+| NR_ST = 13
+| OT = Uganda: Der Weg zum Fahrradtaxi
+| EA = 2008-09-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 249
+| NR_ST = 14
+| OT = New York - Die kleinste Oper der Welt
+| EA = 2008-09-18
+}}
+{{Episodenlisteneintrag
+| NR_GES = 250
+| NR_ST = 15
+| OT = Indien: Das Geschäft mit dem Tempelhaar
+| EA = 2008-10-02
+}}
+{{Episodenlisteneintrag
+| NR_GES = 251
+| NR_ST = 16
+| OT = Kyushu - Wo Japans grüner Tee wächst
+| EA = 2008-10-16
+}}
+{{Episodenlisteneintrag
+| NR_GES = 252
+| NR_ST = 17
+| OT = Arganöl - Marokkos weißes Gold
+| EA = 2008-10-30
+}}
+{{Episodenlisteneintrag
+| NR_GES = 253
+| NR_ST = 18
+| OT = Das Geheimnis der Schweizer Uhren
+| EA = 2008-11-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 254
+| NR_ST = 19
+| OT = Johana - Make-up und Motorenöl
+| EA = 2008-11-13
+}}
+{{Episodenlisteneintrag
+| NR_GES = 255
+| NR_ST = 20
+| OT = Rio de la Plata - SOS am Silberfluss
+| EA = 2008-11-27
+}}
+{{Episodenlisteneintrag
+| NR_GES = 256
+| NR_ST = 21
+| OT = Der Weinpriester von Bali
+| EA = 2008-12-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 257
+| NR_ST = 22
+| OT = Taipeh 101 - Der Himmel über Taiwan
+| EA = 2008-12-11
+}}
+{{Episodenlisteneintrag
+| NR_GES = 258
+| NR_ST = 23
+| OT = Die einsamen Mönche von Oelenberg
+| EA = 2008-12-18
+}}
+{{Episodenlisteneintrag
+| NR_GES = 259
+| NR_ST = 1
+| OT = Arktis - Die Route der Atomeisbrecher
+| EA = 2009-01-18
+}}
+{{Episodenlisteneintrag
+| NR_GES = 260
+| NR_ST = 2
+| OT = Die besten Hütehunde von Wales
+| EA = 2009-01-24
+}}
+{{Episodenlisteneintrag
+| NR_GES = 261
+| NR_ST = 3
+| OT = Idjwi - Afrikas vergessene Insel
+| EA = 2009-01-31
+}}
+{{Episodenlisteneintrag
+| NR_GES = 262
+| NR_ST = 4
+| OT = Die Bambusbahn von Kambodscha
+| EA = 2009-02-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 263
+| NR_ST = 5
+| OT = Nepal: Die Krieger vom Dach der Welt
+| EA = 2009-02-21
+}}
+{{Episodenlisteneintrag
+| NR_GES = 264
+| NR_ST = 6
+| OT = Das Whisky-Geheimnis von Islay
+| EA = 2009-03-21
+}}
+{{Episodenlisteneintrag
+| NR_GES = 265
+| NR_ST = 7
+| OT = Biberkrieg in Bayern
+| EA = 2009-04-18
+}}
+{{Episodenlisteneintrag
+| NR_GES = 266
+| NR_ST = 8
+| OT = Die Feuerflieger von Valencia
+| EA = 2009-05-18
+}}
+{{Episodenlisteneintrag
+| NR_GES = 267
+| NR_ST = 9
+| OT = Kaviar - Der Schatz aus dem Iran!
+| EA = 2009-05-02
+}}
+{{Episodenlisteneintrag
+| NR_GES = 268
+| NR_ST = 10
+| OT = Georgien: Die Wiege des Weins
+| EA = 2009-05-24
+}}
+{{Episodenlisteneintrag
+| NR_GES = 269
+| NR_ST = 11
+| OT = Die Magellan-Lotsen
+| EA = 2009-05-30
+}}
+{{Episodenlisteneintrag
+| NR_GES = 270
+| NR_ST = 12
+| OT = Die Falkenärztin von Abu Dhabi
+| EA = 2009-07-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 271
+| NR_ST = 13
+| OT = Sokotra, Schatzinsel in Gefahr
+| EA = 2009-07-25
+}}
+{{Episodenlisteneintrag
+| NR_GES = 272
+| NR_ST = 14
+| OT = Jemens verschleierte Zukunft
+| EA = 2009-08-08
+}}
+{{Episodenlisteneintrag
+| NR_GES = 273
+| NR_ST = 15
+| OT = Neuseelands Lauf der Extreme
+| EA = 2009-08-22
+}}
+{{Episodenlisteneintrag
+| NR_GES = 274
+| NR_ST = 16
+| OT = Die Narzisseninsel vor Cornwall
+| EA = 2009-09-12
+}}
+{{Episodenlisteneintrag
+| NR_GES = 275
+| NR_ST = 17
+| OT = Die Todesküste von Galicien
+| EA = 2009-09-13
+}}
+{{Episodenlisteneintrag
+| NR_GES = 276
+| NR_ST = 18
+| OT = Das Salz der Inka
+| EA = 2009-09-26
+}}
+{{Episodenlisteneintrag
+| NR_GES = 277
+| NR_ST = 19
+| OT = Die Holzfäller von British Columbia
+| EA = 2009-10-10
+}}
+{{Episodenlisteneintrag
+| NR_GES = 278
+| NR_ST = 20
+| OT = Die neuen Nomaden von Kirgisistan
+| EA = 2009-10-31
+}}
+{{Episodenlisteneintrag
+| NR_GES = 279
+| NR_ST = 21
+| OT = Die Meerfrauen von Japan
+| EA = 2009-11-01
+}}
+{{Episodenlisteneintrag
+| NR_GES = 280
+| NR_ST = 22
+| OT = Paraguays neue Häuser
+| EA = 2009-11-14
+}}
+{{Episodenlisteneintrag
+| NR_GES = 281
+| NR_ST = 23
+| OT = Ein Baumhaus in Costa Rica
+| EA = 2009-11-28
+}}
+{{Episodenlisteneintrag
+| NR_GES = 282
+| NR_ST = 24
+| OT = Ruanda: Land der Frauen
+| EA = 2009-12-12
+}}
+{{Episodenlisteneintrag
+| NR_GES = 283
+| NR_ST = 25
+| OT = Saint-Pierre und Miquelon: Archipel in der Isolation
+| EA = 2009-12-19
+}}
+{{Episodenlisteneintrag
+| NR_GES = 284
+| NR_ST = 26
+| OT = Saint Helena: Vergessen im Atlantik
+| EA = 2009-12-26
+}}
+{{Episodenlisteneintrag
+| NR_GES = 285
+| NR_ST = 1
+| OT = Vietnams vermintes Paradies
+| EA = 2010-01-09
+}}
+{{Episodenlisteneintrag
+| NR_GES = 286
+| NR_ST = 2
+| OT = Spitzbergen, eisige Insel
+| EA = 2010-01-30
+}}
+{{Episodenlisteneintrag
+| NR_GES = 287
+| NR_ST = 3
+| OT = Hawaii: Beachboys auf Patrouille
+| EA = 2010-02-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 288
+| NR_ST = 4
+| OT = SOS in den Rocky Mountains
+| EA = 2010-02-20
+}}
+{{Episodenlisteneintrag
+| NR_GES = 289
+| NR_ST = 5
+| OT = Die letzten Kamelkarawanen der Sahara
+| EA = 2010-03-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 290
+| NR_ST = 6
+| OT = Mit der Lok durch Angola
+| EA = 2010-03-27
+}}
+{{Episodenlisteneintrag
+| NR_GES = 291
+| NR_ST = 7
+| OT = Wilde Pferde im Donaudelta
+| EA = 2010-04-10
+}}
+{{Episodenlisteneintrag
+| NR_GES = 292
+| NR_ST = 8
+| OT = Cranberrysaison auf Cap Cod
+| EA = 2010-04-24
+}}
+{{Episodenlisteneintrag
+| NR_GES = 293
+| NR_ST = 9
+| OT = Indiens Dschungelbuchklinik
+| EA = 2010-05-29
+}}
+{{Episodenlisteneintrag
+| NR_GES = 294
+| NR_ST = 10
+| OT = Unterwegs mit der Irish Coast Guard
+| EA = 2010-06-12
+}}
+{{Episodenlisteneintrag
+| NR_GES = 295
+| NR_ST = 11
+| OT = Jillaroos - Cowgirls im australischen Outback
+| EA = 2010-09-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 296
+| NR_ST = 12
+| OT = Das Volk der Bishnoi - Tierliebe bis in den Tod
+| EA = 2010-09-11
+}}
+{{Episodenlisteneintrag
+| NR_GES = 297
+| NR_ST = 13
+| OT = Falklandinseln - Pinguine auf dem Vormarsch
+| EA = 2010-09-18
+}}
+{{Episodenlisteneintrag
+| NR_GES = 298
+| NR_ST = 14
+| OT = Taipan, die gefährlichste Schlange der Welt
+| EA = 2010-10-09
+}}
+{{Episodenlisteneintrag
+| NR_GES = 299
+| NR_ST = 15
+| OT = Baikalsee, ein Wintermärchen
+| EA = 2010-10-16
+}}
+{{Episodenlisteneintrag
+| NR_GES = 300
+| NR_ST = 16
+| OT = Legende auf Schienen - Skandinaviens Kirunabahn
+| EA = 2010-11-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 301
+| NR_ST = 17
+| OT = Sikkim: Das alte Wissen der Schamanen
+| EA = 2010-11-20
+}}
+{{Episodenlisteneintrag
+| NR_GES = 302
+| NR_ST = 18
+| OT = Die verrückten Karren des Mister Winfield
+| EA = 2010-12-11
+}}
+{{Episodenlisteneintrag
+| NR_GES = 303
+| NR_ST = 19
+| OT = Anatolien, das Land wo die Aprikosen blühen
+| EA = 2010-12-18
+}}
+{{Episodenlisteneintrag
+| NR_GES = 304
+| NR_ST = 20
+| OT = Laetitia - allein unter Wölfen
+| EA = 2010-12-25
+}}
+{{Episodenlisteneintrag
+| NR_GES = 305
+| NR_ST = 1
+| OT = Fremdenlegion - die Hölle im Regenwald
+| EA = 2011-01-01
+}}
+{{Episodenlisteneintrag
+| NR_GES = 306
+| NR_ST = 2
+| OT = Der Affenflüsterer
+| EA = 2011-01-08
+}}
+{{Episodenlisteneintrag
+| NR_GES = 307
+| NR_ST = 3
+| OT = Sardinien: Stolz und Ehre hoch zu Ross
+| EA = 2011-01-15
+}}
+{{Episodenlisteneintrag
+| NR_GES = 308
+| NR_ST = 4
+| OT = Die Feuerspringer von Sibirien
+| EA = 2011-01-22
+}}
+{{Episodenlisteneintrag
+| NR_GES = 309
+| NR_ST = 5
+| OT = Island: Leben auf dem Pulverfass
+| EA = 2011-01-29
+}}
+{{Episodenlisteneintrag
+| NR_GES = 310
+| NR_ST = 6
+| OT = Polarschule der Nomadenkinder
+| EA = 2011-02-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 311
+| NR_ST = 7
+| OT = Das Perlenimperium von Palawan
+| EA = 2011-02-12
+}}
+{{Episodenlisteneintrag
+| NR_GES = 312
+| NR_ST = 8
+| OT = Marokko - die andere Seite des Paradieses
+| EA = 2011-02-19
+}}
+{{Episodenlisteneintrag
+| NR_GES = 313
+| NR_ST = 9
+| OT = Eine Fähre nach Afrika
+| EA = 2011-02-26
+}}
+{{Episodenlisteneintrag
+| NR_GES = 314
+| NR_ST = 10
+| OT = Großglockner, König der Hochalpen
+| EA = 2011-04-09
+}}
+{{Episodenlisteneintrag
+| NR_GES = 315
+| NR_ST = 11
+| OT = Champagner für alle!
+| EA = 2011-04-23
+}}
+{{Episodenlisteneintrag
+| NR_GES = 316
+| NR_ST = 12
+| OT = Armenien, die Früchte aus dem Paradies
+| EA = 2011-05-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 317
+| NR_ST = 13
+| OT = Stilikone Panamahut
+| EA = 2011-05-21
+}}
+{{Episodenlisteneintrag
+| NR_GES = 318
+| NR_ST = 14
+| OT = Die Halligen mitten im Winter, mitten im Wasser
+| EA = 2011-06-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 319
+| NR_ST = 15
+| OT = Jenny und ihre Flughunde
+| EA = 2011-06-18
+}}
+{{Episodenlisteneintrag
+| NR_GES = 320
+| NR_ST = 16
+| OT = Jordanien, Dynastie der Pferde
+| EA = 2011-07-02
+}}
+{{Episodenlisteneintrag
+| NR_GES = 321
+| NR_ST = 17
+| OT = In den Smaragdbergen von Bahia
+| EA = 2011-07-16
+}}
+{{Episodenlisteneintrag
+| NR_GES = 322
+| NR_ST = 18
+| OT = Rum auf Guadeloupe
+| EA = 2011-07-30
+}}
+{{Episodenlisteneintrag
+| NR_GES = 323
+| NR_ST = 19
+| OT = Sumatras letzte Orang-Utans
+| EA = 2011-09-03
+}}
+{{Episodenlisteneintrag
+| NR_GES = 324
+| NR_ST = 20
+| OT = Kalmückien - Die Rückkehr der Mönche
+| EA = 2011-09-24
+}}
+{{Episodenlisteneintrag
+| NR_GES = 325
+| NR_ST = 21
+| OT = Auf der Spur des spanischen Luchses
+| EA = 2011-10-15
+}}
+{{Episodenlisteneintrag
+| NR_GES = 326
+| NR_ST = 22
+| OT = Palawan - das Dorf der Gefangenen
+| EA = 2011-10-22
+}}
+{{Episodenlisteneintrag
+| NR_GES = 327
+| NR_ST = 23
+| OT = Der Andenkondor - König der Lüfte
+| EA = 2011-10-29
+}}
+{{Episodenlisteneintrag
+| NR_GES = 328
+| NR_ST = 24
+| OT = Die Rettungshunde vom Gardasee
+| EA = 2011-10-29
+}}
+{{Episodenlisteneintrag
+| NR_GES = 329
+| NR_ST = 25
+| OT = Aserbaidschans fahrende Hochzeitmusikanten
+| EA = 2011-11-12
+}}
+{{Episodenlisteneintrag
+| NR_GES = 330
+| NR_ST = 26
+| OT = Florenz - Fußball bis aufs Blut
+| EA = 2011-11-19
+}}
+{{Episodenlisteneintrag
+| NR_GES = 331
+| NR_ST = 27
+| OT = Guano - Schatzinseln und Vogeldreck
+| EA = 2011-12-03
+}}
+{{Episodenlisteneintrag
+| NR_GES = 332
+| NR_ST = 28
+| OT = Lamu, die Insel der Esel
+| EA = 2011-12-17
+}}
+{{Episodenlisteneintrag
+| NR_GES = 333
+| NR_ST = 29
+| OT = Sark - die Kanalinsel der Queen
+| EA = 2011-12-24
+}}
+{{Episodenlisteneintrag
+| NR_GES = 334
+| NR_ST = 1
+| OT = Schottland - Kampf, Clan und Königin
+| EA = 2012-01-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 335
+| NR_ST = 2
+| OT = Die scharfen Klingen der Auvergne
+| EA = 2012-01-28
+}}
+{{Episodenlisteneintrag
+| NR_GES = 336
+| NR_ST = 3
+| OT = China: Im Reich der Mosuo-Frauen
+| EA = 2012-02-11
+}}
+{{Episodenlisteneintrag
+| NR_GES = 337
+| NR_ST = 4
+| OT = Majuli - ein Inselvolk trotzt den Fluten
+| EA = 2012-02-25
+}}
+{{Episodenlisteneintrag
+| NR_GES = 338
+| NR_ST = 5
+| OT = Lappland: Rushhour im hohen Norden
+| EA = 2012-03-10
+}}
+{{Episodenlisteneintrag
+| NR_GES = 339
+| NR_ST = 6
+| OT = Wildererjagd am Mount Kenya
+| EA = 2012-03-24
+}}
+{{Episodenlisteneintrag
+| NR_GES = 340
+| NR_ST = 7
+| OT = Tunesien: Die Suche nach dem Tintenfisch
+| EA = 2012-04-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 341
+| NR_ST = 8
+| OT = Bahamas - unverfälscht!
+| EA = 2012-05-12
+}}
+{{Episodenlisteneintrag
+| NR_GES = 342
+| NR_ST = 9
+| OT = Slab City - wildes Leben in der Wüste
+| EA = 2012-05-26
+}}
+{{Episodenlisteneintrag
+| NR_GES = 343
+| NR_ST = 10
+| OT = Esmeraldas Edelkakao
+| EA = 2012-06-09
+}}
+{{Episodenlisteneintrag
+| NR_GES = 344
+| NR_ST = 11
+| OT = So schmeckt Australien!
+| EA = 2012-06-23
+}}
+{{Episodenlisteneintrag
+| NR_GES = 345
+| NR_ST = 12
+| OT = Jerusalem im Morgengrauen
+| EA = 2012-07-28
+}}
+{{Episodenlisteneintrag
+| NR_GES = 346
+| NR_ST = 13
+| OT = Die letzten Cowboys der Toskana
+| EA = 2012-09-01
+}}
+{{Episodenlisteneintrag
+| NR_GES = 347
+| NR_ST = 14
+| OT = Modelsuche in Sibirien
+| EA = 2012-09-15
+}}
+{{Episodenlisteneintrag
+| NR_GES = 348
+| NR_ST = 15
+| OT = Tanganjikasee: Vom Kanonenboot zum Passagierschiff
+| EA = 2012-09-22
+}}
+{{Episodenlisteneintrag
+| NR_GES = 349
+| NR_ST = 16
+| OT = Auf dem Floß durch die Schluchten der Tara
+| EA = 2012-10-20
+}}
+{{Episodenlisteneintrag
+| NR_GES = 350
+| NR_ST = 17
+| OT = Indien: Das größte Schulessen der Welt
+| EA = 2012-10-27
+}}
+{{Episodenlisteneintrag
+| NR_GES = 351
+| NR_ST = 18
+| OT = Myanmar: Ein Dorf braucht Strom
+| EA = 2012-11-03
+}}
+{{Episodenlisteneintrag
+| NR_GES = 352
+| NR_ST = 19
+| OT = Bolivien: Lebensader Todesstraße
+| EA = 2012-11-10
+}}
+{{Episodenlisteneintrag
+| NR_GES = 353
+| NR_ST = 20
+| OT = Die Krabbenfischer von Feuerland
+| EA = 2012-11-17
+}}
+{{Episodenlisteneintrag
+| NR_GES = 354
+| NR_ST = 21
+| OT = Die Exzentriker der Düfte
+| EA = 2012-12-22
+}}
+{{Episodenlisteneintrag
+| NR_GES = 355
+| NR_ST = 1
+| OT = Arktis - Ein Junge wird Jäger
+| EA = 2013-01-19
+}}
+{{Episodenlisteneintrag
+| NR_GES = 356
+| NR_ST = 2
+| OT = Shetland, das Ende des Öls
+| EA = 2013-10-01
+}}
+{{Episodenlisteneintrag
+| NR_GES = 357
+| NR_ST = 3
+| OT = Mezcal, Hochprozentiges aus Mexiko
+| EA = 2013-02-09
+}}
+{{Episodenlisteneintrag
+| NR_GES = 358
+| NR_ST = 4
+| OT = Atacamawüste - Leben ohne Wasser
+| EA = 2013-02-16
+}}
+{{Episodenlisteneintrag
+| NR_GES = 359
+| NR_ST = 5
+| OT = Die letzten Köhler von Rumänien
+| EA = 2013-02-23
+}}
+{{Episodenlisteneintrag
+| NR_GES = 360
+| NR_ST = 6
+| OT = Island - Der große Schafabtrieb
+| EA = 2013-03-09
+}}
+{{Episodenlisteneintrag
+| NR_GES = 361
+| NR_ST = 7
+| OT = Bangladesch - Schiff der Hoffnung
+| EA = 2013-03-23
+}}
+{{Episodenlisteneintrag
+| NR_GES = 362
+| NR_ST = 8
+| OT = Iquitos - Regenwaldmetropole am Amazonas
+| EA = 2013-03-30
+}}
+{{Episodenlisteneintrag
+| NR_GES = 363
+| NR_ST = 9
+| OT = Die Marmorberge von Italien
+| EA = 2013-05-03
+}}
+{{Episodenlisteneintrag
+| NR_GES = 364
+| NR_ST = 10
+| OT = Bretagne - von Bienen und Leuchttürmen
+| EA = 2013-05-17
+}}
+{{Episodenlisteneintrag
+| NR_GES = 365
+| NR_ST = 11
+| OT = Thailands Elefanten, raus aus der Stadt!
+| EA = 2013-06-15
+}}
+{{Episodenlisteneintrag
+| NR_GES = 366
+| NR_ST = 12
+| OT = Tonga - Paradies der Südsee?
+| EA = 2013-06-22
+}}
+{{Episodenlisteneintrag
+| NR_GES = 367
+| NR_ST = 13
+| OT = Radio Patagonia
+| EA = 2013-07-12
+}}
+{{Episodenlisteneintrag
+| NR_GES = 368
+| NR_ST = 14
+| OT = Die Polarbahn
+| EA = 2013-09-14
+}}
+{{Episodenlisteneintrag
+| NR_GES = 369
+| NR_ST = 15
+| OT = Das Koala-Hospital
+| EA = 2013-09-21
+}}
+{{Episodenlisteneintrag
+| NR_GES = 370
+| NR_ST = 16
+| OT = Sulawesi - Die letzten Seenomaden
+| EA = 2013-09-28
+}}
+{{Episodenlisteneintrag
+| NR_GES = 371
+| NR_ST = 17
+| OT = Taiwan - Fliegende Fische oder Atommüll?
+| EA = 2013-12-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 372
+| NR_ST = 18
+| OT = Rattenjagd im Südpolarmeer
+| EA = 2013-10-12
+}}
+{{Episodenlisteneintrag
+| NR_GES = 373
+| NR_ST = 19
+| OT = Costa Rica - Leben wie die Faultiere
+| EA = 2013-10-19
+}}
+{{Episodenlisteneintrag
+| NR_GES = 374
+| NR_ST = 20
+| OT = Der fröhliche Friedhof von Rumänien
+| EA = 2013-10-26
+}}
+{{Episodenlisteneintrag
+| NR_GES = 375
+| NR_ST = 21
+| OT = Mustang - Flucht aus den Bergen
+| EA = 2013-11-09
+}}
+{{Episodenlisteneintrag
+| NR_GES = 376
+| NR_ST = 22
+| OT = Chivas, Kolumbiens bunte Busse
+| EA = 2013-11-23
+}}
+{{Episodenlisteneintrag
+| NR_GES = 377
+| NR_ST = 23
+| OT = Aubrac - Kühe, Käse, Kerle!
+| EA = 2013-11-30
+}}
+{{Episodenlisteneintrag
+| NR_GES = 378
+| NR_ST = 24
+| OT = Die Samurai von Fukushima
+| EA = 2013-12-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 379
+| NR_ST = 25
+| OT = Der gute Mensch von Karachi
+| EA = 2013-12-14
+}}
+{{Episodenlisteneintrag
+| NR_GES = 380
+| NR_ST = 26
+| OT = Die Austern von Arcachon
+| EA = 2013-12-21
+}}
+{{Episodenlisteneintrag
+| NR_GES = 381
+| NR_ST = 27
+| OT = Thailand, Raketen für die Götter
+| EA = 2013-12-28
+}}
+{{Episodenlisteneintrag
+| NR_GES = 382
+| NR_ST = 1
+| OT = Vietnam, Kobra auf dem Teller
+| EA = 2014-01-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 383
+| NR_ST = 2
+| OT = Indiens jüngste Polizisten
+| EA = 2014-01-25
+}}
+{{Episodenlisteneintrag
+| NR_GES = 384
+| NR_ST = 3
+| OT = Kambodscha, Ratte süß-sauer
+| EA = 2014-02-08
+}}
+{{Episodenlisteneintrag
+| NR_GES = 385
+| NR_ST = 4
+| OT = Azoren, das Geschäft mit den Walen
+| EA = 2014-02-22
+}}
+{{Episodenlisteneintrag
+| NR_GES = 386
+| NR_ST = 5
+| OT = Fort McMurray, Kanada im Ölfieber
+| EA = 2014-03-01
+}}
+{{Episodenlisteneintrag
+| NR_GES = 387
+| NR_ST = 6
+| OT = Rosa Amélia - Fische, Freunde, Fado
+| EA = 2014-03-08
+}}
+{{Episodenlisteneintrag
+| NR_GES = 388
+| NR_ST = 7
+| OT = Schweiz: Das Verschwinden der Gletscher
+| EA = 2014-03-29
+}}
+{{Episodenlisteneintrag
+| NR_GES = 389
+| NR_ST = 8
+| OT = Bangkoks Schatztaucher
+| EA = 2014-04-26
+}}
+{{Episodenlisteneintrag
+| NR_GES = 390
+| NR_ST = 9
+| OT = Elbsandsteingebirge - Märchenwelt und Meisterwerke
+| EA = 2014-05-10
+}}
+{{Episodenlisteneintrag
+| NR_GES = 391
+| NR_ST = 10
+| OT = Die Goldenen Schildkröten von Madagaskar
+| EA = 2014-05-31
+}}
+{{Episodenlisteneintrag
+| NR_GES = 392
+| NR_ST = 11
+| OT = Hinter den Kulissen von Venedig
+| EA = 2014-06-14
+}}
+{{Episodenlisteneintrag
+| NR_GES = 393
+| NR_ST = 12
+| OT = Eishockey - Mädchentraum im Himalaya
+| EA = 2014-07-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 394
+| NR_ST = 13
+| OT = Die Tango-Spelunken von Buenos Aires
+| EA = 2014-08-30
+}}
+{{Episodenlisteneintrag
+| NR_GES = 395
+| NR_ST = 14
+| OT = Jadehandel im Goldenen Dreieck
+| EA = 2014-09-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 396
+| NR_ST = 15
+| OT = Bolivien: Kleine Käfer, großes Geld!
+| EA = 2014-09-20
+}}
+{{Episodenlisteneintrag
+| NR_GES = 397
+| NR_ST = 16
+| OT = Åland-Archipel: Warten auf das Eis
+| EA = 2014-10-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 398
+| NR_ST = 17
+| OT = Kamelmilch, Kasachstans Wundermedizin
+| EA = 2014-10-18
+}}
+{{Episodenlisteneintrag
+| NR_GES = 399
+| NR_ST = 18
+| OT = Königliche Mounties - Kanadas berittene Polizei
+| EA = 2014-11-01
+}}
+{{Episodenlisteneintrag
+| NR_GES = 400
+| NR_ST = 19
+| OT = Peru: Ein Alpaka für Christobal
+| EA = 2014-11-15
+}}
+{{Episodenlisteneintrag
+| NR_GES = 401
+| NR_ST = 20
+| OT = Gnadenhof „Gut Aiderbichl“
+| EA = 2014-11-22
+}}
+{{Episodenlisteneintrag
+| NR_GES = 402
+| NR_ST = 21
+| OT = Unter Haien: Riffpatrouille in der Sulu-See
+| EA = 2014-11-29
+}}
+{{Episodenlisteneintrag
+| NR_GES = 403
+| NR_ST = 22
+| OT = Andalusien - Edle Pferde, wilde Stiere
+| EA = 2014-12-13
+}}
+{{Episodenlisteneintrag
+| NR_GES = 404
+| NR_ST = 23
+| OT = Die Eisbergjäger von Neufundland
+| EA = 2014-12-20
+}}
+{{Episodenlisteneintrag
+| NR_GES = 405
+| NR_ST = 24
+| OT = Lettland - das Land der Sänger
+| EA = 2014-12-27
+}}
+{{Episodenlisteneintrag
+| NR_GES = 406
+| NR_ST = 1
+| OT = Griechenland: Aufbruch am Olymp
+| EA = 2015-01-03
+}}
+{{Episodenlisteneintrag
+| NR_GES = 407
+| NR_ST = 2
+| OT = Mohair, das Garn der guten Hoffnung
+| EA = 2015-01-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 408
+| NR_ST = 3
+| OT = Der Maestro, Neapels legendärer Boxmeister
+| EA = 2015-01-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 409
+| NR_ST = 4
+| OT = Die Baumkletterer von Kalifornien
+| EA = 2015-02-16
+}}
+{{Episodenlisteneintrag
+| NR_GES = 410
+| NR_ST = 5
+| OT = Kanada: Indianer schreiben Geschichte
+| EA = 2015-02-17
+}}
+{{Episodenlisteneintrag
+| NR_GES = 411
+| NR_ST = 6
+| OT = Venezuela, die Blitze von Catatumbo
+| EA = 2015-03-23
+}}
+{{Episodenlisteneintrag
+| NR_GES = 412
+| NR_ST = 7
+| OT = Tasmanien, Sympathie für den Teufel
+| EA = 2015-03-24
+}}
+{{Episodenlisteneintrag
+| NR_GES = 413
+| NR_ST = 8
+| OT = Kastanien, das Brot der Korsen
+| EA = 2015-03-25
+}}
+{{Episodenlisteneintrag
+| NR_GES = 414
+| NR_ST = 9
+| OT = Paris, Blitz Motorcycles
+| EA = 2015-03-26
+}}
+{{Episodenlisteneintrag
+| NR_GES = 415
+| NR_ST = 10
+| OT = Kuba: Eine Generation im Wandel
+| EA = 2015-03-27
+}}
+{{Episodenlisteneintrag
+| NR_GES = 416
+| NR_ST = 11
+| OT = Hamburg, die Stadt der Schwäne
+| EA = 2015-05-02
+}}
+{{Episodenlisteneintrag
+| NR_GES = 417
+| NR_ST = 12
+| OT = Camargue, zwischen Himmel und Meer
+| EA = 2015-08-29
+}}
+{{Episodenlisteneintrag
+| NR_GES = 418
+| NR_ST = 13
+| OT = Bhutan, von Kindern und Kranichen
+| EA = 2015-09-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 419
+| NR_ST = 14
+| OT = Bird Island - Allein unter Pinguinen
+| EA = 2015-09-12
+}}
+{{Episodenlisteneintrag
+| NR_GES = 420
+| NR_ST = 15
+| OT = Basketball - Die kleinen Barfuß-Spieler von Mexiko
+| EA = 2015-09-19
+}}
+{{Episodenlisteneintrag
+| NR_GES = 421
+| NR_ST = 16
+| OT = Die Spinnenjäger von Venezuela
+| EA = 2015-09-26
+}}
+{{Episodenlisteneintrag
+| NR_GES = 422
+| NR_ST = 17
+| OT = Das Terrassenwunder von Peru
+| EA = 2015-10-03
+}}
+{{Episodenlisteneintrag
+| NR_GES = 423
+| NR_ST = 18
+| OT = Kambodscha, Sithas große Waisenfamilie
+| EA = 2015-10-10
+}}
+{{Episodenlisteneintrag
+| NR_GES = 424
+| NR_ST = 19
+| OT = Die Oldtimer von Curaçao
+| EA = 2015-11-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 425
+| NR_ST = 20
+| OT = Italien - Hochzeit auf Neapolitanisch
+| EA = 2015-11-14
+}}
+{{Episodenlisteneintrag
+| NR_GES = 426
+| NR_ST = 21
+| OT = Yoga, Indiens erstaunliche Medizin
+| EA = 2015-11-21
+}}
+{{Episodenlisteneintrag
+| NR_GES = 427
+| NR_ST = 22
+| OT = David und die Komodowarane
+| EA = 2015-11-28
+}}
+{{Episodenlisteneintrag
+| NR_GES = 428
+| NR_ST = 23
+| OT = China, Braut ohne Bräutigam
+| EA = 2015-12-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 429
+| NR_ST = 24
+| OT = Sansibars erstes Frauenorchester
+| EA = 2015-12-13
+}}
+{{Episodenlisteneintrag
+| NR_GES = 430
+| NR_ST = 25
+| OT = Die Bergführer von Chamonix
+| EA = 2015-12-21
+}}
+{{Episodenlisteneintrag
+| NR_GES = 431
+| NR_ST = 26
+| OT = Polen, Winter in den Waldkarpaten
+| EA = 2015-12-26
+}}
+{{Episodenlisteneintrag
+| NR_GES = 432
+| NR_ST = 1
+| OT = Kenias Spürhunde - Rettung für die Elefanten
+| EA = 2016-01-02
+}}
+{{Episodenlisteneintrag
+| NR_GES = 433
+| NR_ST = 2
+| OT = Valparaíso - Die Stadt der Aufzüge
+| EA = 2016-01-09
+}}
+{{Episodenlisteneintrag
+| NR_GES = 434
+| NR_ST = 3
+| OT = Sibirien - Der Kapitän und die Lena
+| EA = 2016-01-23
+}}
+{{Episodenlisteneintrag
+| NR_GES = 435
+| NR_ST = 4
+| OT = Spreewald - Kähne, Köche, Klapperstörche
+| EA = 2016-02-20
+}}
+{{Episodenlisteneintrag
+| NR_GES = 436
+| NR_ST = 5
+| OT = Cocos Island - Paradies für Haie?!
+| EA = 2016-02-27
+}}
+{{Episodenlisteneintrag
+| NR_GES = 437
+| NR_ST = 6
+| OT = Insekten - Unser Speiseplan für morgen?
+| EA = 2016-03-19
+}}
+{{Episodenlisteneintrag
+| NR_GES = 438
+| NR_ST = 7
+| OT = Myanmar - Per Zug durch die Zeit
+| EA = 2016-04-09
+}}
+{{Episodenlisteneintrag
+| NR_GES = 439
+| NR_ST = 8
+| OT = Die Bärenhunde von Nevada
+| EA = 2016-04-30
+}}
+{{Episodenlisteneintrag
+| NR_GES = 440
+| NR_ST = 9
+| OT = Die Dhaus - Arabiens legendäre Schiffe
+| EA = 2016-05-14
+}}
+{{Episodenlisteneintrag
+| NR_GES = 441
+| NR_ST = 10
+| OT = Der Waldrapp - Punkvogel aus den Alpen
+| EA = 2016-05-28
+}}
+{{Episodenlisteneintrag
+| NR_GES = 442
+| NR_ST = 11
+| OT = Die Eisfischer vom Chagan-See
+| EA = 2016-06-25
+}}
+{{Episodenlisteneintrag
+| NR_GES = 443
+| NR_ST = 12
+| OT = Pythons - Invasion in Florida
+| EA = 2016-07-16
+}}
+{{Episodenlisteneintrag
+| NR_GES = 444
+| NR_ST = 13
+| OT = Amas Welt - Das neue Ghana
+| EA = 2016-09-03
+}}
+{{Episodenlisteneintrag
+| NR_GES = 445
+| NR_ST = 14
+| OT = Tunesien - Die Kunst der Berbertattoos
+| EA = 2016-09-10
+}}
+{{Episodenlisteneintrag
+| NR_GES = 446
+| NR_ST = 15
+| OT = Die Cook Islands - Willkommen im Paradies
+| EA = 2016-09-17
+}}
+{{Episodenlisteneintrag
+| NR_GES = 447
+| NR_ST = 16
+| OT = Norwegen - Försterinnen auf dem Vormarsch
+| EA = 2016-09-24
+}}
+{{Episodenlisteneintrag
+| NR_GES = 448
+| NR_ST = 17
+| OT = Vietnam - Das Schicksal der Mondbären
+| EA = 2016-10-01
+}}
+{{Episodenlisteneintrag
+| NR_GES = 449
+| NR_ST = 18
+| OT = Die letzten Krokodile Venezuelas
+| EA = 2016-10-15
+}}
+{{Episodenlisteneintrag
+| NR_GES = 450
+| NR_ST = 19
+| OT = Das Elefantenkrankenhaus von Thailand
+| EA = 2016-10-29
+}}
+{{Episodenlisteneintrag
+| NR_GES = 451
+| NR_ST = 20
+| OT = Die Schlammfußballer von Island
+| EA = 2016-11-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 452
+| NR_ST = 21
+| OT = Dänemark - Königin Margrethe und ihr Sommerschloss
+| EA = 2016-11-19
+}}
+{{Episodenlisteneintrag
+| NR_GES = 453
+| NR_ST = 22
+| OT = Die metallenen Gondeln von Tschiatura
+| EA = 2016-11-26
+}}
+{{Episodenlisteneintrag
+| NR_GES = 454
+| NR_ST = None
+| OT = Die schwebenden Särge von Georgien
+| EA = 2018-03-18
+}}
+{{Episodenlisteneintrag
+| NR_GES = 455
+| NR_ST = 23
+| OT = Die Honigsammler von Yunnan
+| EA = 2016-12-03
+}}
+{{Episodenlisteneintrag
+| NR_GES = 456
+| NR_ST = 24
+| OT = Wilde Schweiz - Von Ringern und Schwingern
+| EA = 2016-12-10
+}}
+{{Episodenlisteneintrag
+| NR_GES = 457
+| NR_ST = 25
+| OT = St. Bernhard - Von Menschen und Hunden
+| EA = 2016-12-17
+}}
+{{Episodenlisteneintrag
+| NR_GES = 458
+| NR_ST = 26
+| OT = Rumänien - Eine Weihnachtsreise ins Donaudelta
+| EA = 2016-12-24
+}}
+{{Episodenlisteneintrag
+| NR_GES = 459
+| NR_ST = 1
+| OT = Die Liebenden von Santa Cruz del Islote
+| EA = 2017-01-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 460
+| NR_ST = 2
+| OT = Marseille - Kopfüber ins Blau
+| EA = 2017-01-14
+}}
+{{Episodenlisteneintrag
+| NR_GES = 461
+| NR_ST = 3
+| OT = Kurt und seine Wölfe
+| EA = 2017-01-21
+}}
+{{Episodenlisteneintrag
+| NR_GES = 462
+| NR_ST = 4
+| OT = Pyrenäen - Ein Hirte zwischen Himmel und Erde
+| EA = 2017-01-28
+}}
+{{Episodenlisteneintrag
+| NR_GES = 463
+| NR_ST = 5
+| OT = Zauberhafte Mosel
+| EA = 2017-02-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 464
+| NR_ST = 6
+| OT = Der Kosakenpriester vom Don
+| EA = 2017-02-18
+}}
+{{Episodenlisteneintrag
+| NR_GES = 465
+| NR_ST = 7
+| OT = Chile - Die Leuchttürme am Ende der Welt
+| EA = 2017-02-25
+}}
+{{Episodenlisteneintrag
+| NR_GES = 466
+| NR_ST = 8
+| OT = Indien - Heilendes Ayurveda
+| EA = 2017-03-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 467
+| NR_ST = 9
+| OT = Spanien - Die Tradition der Menschentürme
+| EA = 2017-03-12
+}}
+{{Episodenlisteneintrag
+| NR_GES = 468
+| NR_ST = 10
+| OT = Malaysia - Von Frauen und Motorrädern
+| EA = 2017-03-19
+}}
+{{Episodenlisteneintrag
+| NR_GES = 469
+| NR_ST = 11
+| OT = Eine zweite Art von Frau - Thailand, das Dritte Geschlecht
+| EA = 2017-03-26
+}}
+{{Episodenlisteneintrag
+| NR_GES = 470
+| NR_ST = 12
+| OT = Myanmars Bambusbrücke - Ein Dorf packt an!
+| EA = 2017-05-21
+}}
+{{Episodenlisteneintrag
+| NR_GES = 471
+| NR_ST = 13
+| OT = Die Minga - Umzug auf Chilenisch
+| EA = 2017-05-28
+}}
+{{Episodenlisteneintrag
+| NR_GES = 472
+| NR_ST = 14
+| OT = Kuba - Meister der Drehorgeln
+| EA = 2017-08-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 473
+| NR_ST = 15
+| OT = Sri Lanka - Eine legendäre Eisenbahnstrecke
+| EA = 2017-08-20
+}}
+{{Episodenlisteneintrag
+| NR_GES = 474
+| NR_ST = 16
+| OT = Die Wassernomaden vom Sambesi
+| EA = 2017-09-17
+}}
+{{Episodenlisteneintrag
+| NR_GES = 475
+| NR_ST = 17
+| OT = Mate-Tee - Die Seele Argentiniens
+| EA = 2017-10-01
+}}
+{{Episodenlisteneintrag
+| NR_GES = 476
+| NR_ST = 18
+| OT = Louisiana - Land unter bei den Shrimpfischern
+| EA = 2017-10-22
+}}
+{{Episodenlisteneintrag
+| NR_GES = 477
+| NR_ST = 19
+| OT = Svanetien - Von Lebenden und Toten
+| EA = 2017-10-29
+}}
+{{Episodenlisteneintrag
+| NR_GES = 478
+| NR_ST = 20
+| OT = Java - Zauberhaftes Schattentheater
+| EA = 2017-11-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 479
+| NR_ST = 21
+| OT = Frisch vermählt in Estland
+| EA = 2017-11-12
+}}
+{{Episodenlisteneintrag
+| NR_GES = 480
+| NR_ST = 22
+| OT = Die Geier sind zurück
+| EA = 2017-11-19
+}}
+{{Episodenlisteneintrag
+| NR_GES = 481
+| NR_ST = 23
+| OT = Bolivien - Der Kampf um die kleinen Herzen
+| EA = 2017-11-26
+}}
+{{Episodenlisteneintrag
+| NR_GES = 482
+| NR_ST = 24
+| OT = Sibirien, die Eisstraße ins Polarmeer
+| EA = 2017-11-27
+}}
+{{Episodenlisteneintrag
+| NR_GES = 483
+| NR_ST = 25
+| OT = Kolumbien: DC3 Oldtimer versorgen den Regenwald
+| EA = 2017-12-10
+}}
+{{Episodenlisteneintrag
+| NR_GES = 484
+| NR_ST = 26
+| OT = Der Thomanerchor - Leben für die Musik
+| EA = 2017-12-24
+}}
+{{Episodenlisteneintrag
+| NR_GES = 485
+| NR_ST = 27
+| OT = Die Insel Chiloé
+| EA = 2017-06-03
+}}
+{{Episodenlisteneintrag
+| NR_GES = 486
+| NR_ST = 1
+| OT = Friaul, Benvenuti im Musiktal
+| EA = 2018-01-14
+}}
+{{Episodenlisteneintrag
+| NR_GES = 487
+| NR_ST = 2
+| OT = Bisons, die sanften Riesen von Montana
+| EA = 2018-01-28
+}}
+{{Episodenlisteneintrag
+| NR_GES = 488
+| NR_ST = 3
+| OT = Vietnam, die letzten Pangoline
+| EA = 2018-02-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 489
+| NR_ST = 4
+| OT = Schottland: Die Seenotretter der Orkney Islands
+| EA = 2018-02-11
+}}
+{{Episodenlisteneintrag
+| NR_GES = 490
+| NR_ST = 5
+| OT = Kanada - Mit der Hebamme durch die Badlands
+| EA = 2018-02-25
+}}
+{{Episodenlisteneintrag
+| NR_GES = 491
+| NR_ST = 6
+| OT = Myanmar - Die Marmorkünstler von Mandalay
+| EA = 2018-03-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 492
+| NR_ST = 7
+| OT = Der Lachszähler von Kanada
+| EA = 2018-03-11
+}}
+{{Episodenlisteneintrag
+| NR_GES = 493
+| NR_ST = 8
+| OT = Kreta - Die süßen Früchte des Johannisbrotbaums
+| EA = 2018-03-18
+}}
+{{Episodenlisteneintrag
+| NR_GES = 494
+| NR_ST = 9
+| OT = Der Hundeflüsterer der Queen
+| EA = 2018-03-25
+}}
+{{Episodenlisteneintrag
+| NR_GES = 495
+| NR_ST = 10
+| OT = Italien, eine neue Glocke für Monopoli
+| EA = 2018-04-01
+}}
+{{Episodenlisteneintrag
+| NR_GES = 496
+| NR_ST = 11
+| OT = Arapaima, der Riesenfisch vom Amazonas
+| EA = 2018-05-13
+}}
+{{Episodenlisteneintrag
+| NR_GES = 497
+| NR_ST = 12
+| OT = Die fliegenden Wildesel von Kasachstan
+| EA = 2018-05-27
+}}
+{{Episodenlisteneintrag
+| NR_GES = 498
+| NR_ST = 13
+| OT = Geliebtes Korsika - Kampf gegen das Feuer
+| EA = 2018-06-22
+}}
+{{Episodenlisteneintrag
+| NR_GES = 499
+| NR_ST = 14
+| OT = Japan - Leben am Fuß des Vulkans
+| EA = 2018-08-30
+}}
+{{Episodenlisteneintrag
+| NR_GES = 500
+| NR_ST = 15
+| OT = Sucevita - Rumäniens schönste Klosterfresken
+| EA = 2018-09-08
+}}
+{{Episodenlisteneintrag
+| NR_GES = 501
+| NR_ST = 16
+| OT = Moskaus berühmte Sprengstoffhunde
+| EA = 2018-09-15
+}}
+{{Episodenlisteneintrag
+| NR_GES = 502
+| NR_ST = 17
+| OT = Neuseeland - Die Tiere vom Ende der Welt
+| EA = 2018-09-29
+}}
+{{Episodenlisteneintrag
+| NR_GES = 503
+| NR_ST = 18
+| OT = Virunga, der Kampf für die Berggorillas
+| EA = 2018-10-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 504
+| NR_ST = 19
+| OT = Gitarren und Flamenco in Granada
+| EA = 2018-10-13
+}}
+{{Episodenlisteneintrag
+| NR_GES = 505
+| NR_ST = 20
+| OT = Chatuchak - Bangkoks Riesenmarkt
+| EA = 2018-10-20
+}}
+{{Episodenlisteneintrag
+| NR_GES = 506
+| NR_ST = 21
+| OT = Argentinien - Der Jaguar ist zurück
+| EA = 2018-10-27
+}}
+{{Episodenlisteneintrag
+| NR_GES = 507
+| NR_ST = 22
+| OT = Rooibos, der rote Tee Südafrikas
+| EA = 2018-11-03
+}}
+{{Episodenlisteneintrag
+| NR_GES = 508
+| NR_ST = 23
+| OT = Ankaras gerettete Bücher - Die Müll-Bibliothek von Cankaya
+| EA = 2018-11-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 509
+| NR_ST = 24
+| OT = Äthiopiens gefräßige Hochland-Affen
+| EA = 2018-11-17
+}}
+{{Episodenlisteneintrag
+| NR_GES = 510
+| NR_ST = 25
+| OT = Sibirien - Im Reich des Amur-Tigers
+| EA = 2018-11-12
+}}
+{{Episodenlisteneintrag
+| NR_GES = 511
+| NR_ST = 26
+| OT = Peru, das Goldhaar der Vikunjas
+| EA = 2018-12-01
+}}
+{{Episodenlisteneintrag
+| NR_GES = 512
+| NR_ST = 27
+| OT = Jonathan, der Flugakrobat
+| EA = 2018-12-08
+}}
+{{Episodenlisteneintrag
+| NR_GES = 513
+| NR_ST = 28
+| OT = Harris Tweed - Rückkehr einer Legende
+| EA = 2018-12-15
+}}
+{{Episodenlisteneintrag
+| NR_GES = 514
+| NR_ST = 29
+| OT = Kenia, Let's Dance
+| EA = 2018-12-22
+}}
+{{Episodenlisteneintrag
+| NR_GES = 515
+| NR_ST = 30
+| OT = Crémant, der feine Elsässer zum Fest
+| EA = 2018-12-31
+}}
+{{Episodenlisteneintrag
+| NR_GES = 516
+| NR_ST = 1
+| OT = Kushti, Indiens uralter Kampfsport
+| EA = 2019-01-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 517
+| NR_ST = 2
+| OT = Georgiens himmlische Klöster
+| EA = 2019-01-19
+}}
+{{Episodenlisteneintrag
+| NR_GES = 518
+| NR_ST = 3
+| OT = Mexiko - Die edlen Reiterinnen
+| EA = 2019-01-26
+}}
+{{Episodenlisteneintrag
+| NR_GES = 519
+| NR_ST = 4
+| OT = Kroatien, Das Paradies der Trüffeljäger
+| EA = 2019-02-09
+}}
+{{Episodenlisteneintrag
+| NR_GES = 520
+| NR_ST = 5
+| OT = Arnika - Von der Kraft einer Heilpflanze
+| EA = 2019-02-23
+}}
+{{Episodenlisteneintrag
+| NR_GES = 521
+| NR_ST = 6
+| OT = Simbabwe - Leben für den Augenblick
+| EA = 2019-04-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 522
+| NR_ST = 7
+| OT = Äthiopien - Heimat des Kaffees
+| EA = 2019-06-01
+}}
+{{Episodenlisteneintrag
+| NR_GES = 523
+| NR_ST = 8
+| OT = Indien, ein Himmel voller bunter Drachen
+| EA = 2019-06-08
+}}
+{{Episodenlisteneintrag
+| NR_GES = 524
+| NR_ST = 9
+| OT = Norwegen, die Rentierprinzessin
+| EA = 2019-07-15
+}}
+{{Episodenlisteneintrag
+| NR_GES = 525
+| NR_ST = 10
+| OT = Thaimassage, die Heilkunst der Buddhisten
+| EA = 2019-08-25
+}}
+{{Episodenlisteneintrag
+| NR_GES = 526
+| NR_ST = 11
+| OT = Hongkongs magisches Neonlicht
+| EA = 2019-09-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 527
+| NR_ST = 12
+| OT = Tibetische Medizin - Heilkraft für die Seele
+| EA = 2019-09-29
+}}
+{{Episodenlisteneintrag
+| NR_GES = 528
+| NR_ST = 13
+| OT = Sibirien, die Eisschneider von Jakutsk
+| EA = 2019-10-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 529
+| NR_ST = 14
+| OT = Auf Schlangenjagd in Bangkok
+| EA = 2019-10-12
+}}
+{{Episodenlisteneintrag
+| NR_GES = 530
+| NR_ST = 15
+| OT = Die blinde Primaballerina von São Paulo
+| EA = 2019-10-19
+}}
+{{Episodenlisteneintrag
+| NR_GES = 531
+| NR_ST = 16
+| OT = Slowenien, Land des Honigs
+| EA = 2019-10-26
+}}
+{{Episodenlisteneintrag
+| NR_GES = 532
+| NR_ST = 17
+| OT = Japan, der Meister des Zen-Gartens
+| EA = 2019-10-27
+}}
+{{Episodenlisteneintrag
+| NR_GES = 533
+| NR_ST = 18
+| OT = Finnland, die rasenden Schrottkisten
+| EA = 2019-11-09
+}}
+{{Episodenlisteneintrag
+| NR_GES = 534
+| NR_ST = 19
+| OT = Heilende Schwingungen der Klangschalen
+| EA = 2019-11-10
+}}
+{{Episodenlisteneintrag
+| NR_GES = 535
+| NR_ST = 20
+| OT = Harpyien, die größten Greifvögel des Regenwaldes
+| EA = 2019-11-23
+}}
+{{Episodenlisteneintrag
+| NR_GES = 536
+| NR_ST = 21
+| OT = Island: Von strickenden Männern und Pullovern
+| EA = 2019-12-08
+}}
+{{Episodenlisteneintrag
+| NR_GES = 537
+| NR_ST = 22
+| OT = Kentucky - Die Schlacht von Sacramento
+| EA = 2019-12-14
+}}
+{{Episodenlisteneintrag
+| NR_GES = 538
+| NR_ST = 23
+| OT = Die letzten Walfänger der Beringsee
+| EA = 2019-12-21
+}}
+{{Episodenlisteneintrag
+| NR_GES = 539
+| NR_ST = 24
+| OT = Kaviar, das schwarze Gold Italiens
+| EA = 2019-12-22
+}}
+{{Episodenlisteneintrag
+| NR_GES = 540
+| NR_ST = 25
+| OT = Esmeraldas Edelkakao
+| EA = 2019-12-29
+}}
+{{Episodenlisteneintrag
+| NR_GES = 541
+| NR_ST = 1
+| OT = Die Vespa-Rebellen in Indonesien
+| EA = 2020-01-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 542
+| NR_ST = 2
+| OT = Costa Rica, das größte Hundeheim der Welt
+| EA = 2020-01-12
+}}
+{{Episodenlisteneintrag
+| NR_GES = 543
+| NR_ST = 3
+| OT = Die Herren des Lavendels
+| EA = 2020-01-26
+}}
+{{Episodenlisteneintrag
+| NR_GES = 544
+| NR_ST = 4
+| OT = Die Zedernuss, die Königin der Taiga
+| EA = 2020-02-09
+}}
+{{Episodenlisteneintrag
+| NR_GES = 545
+| NR_ST = 5
+| OT = Die Ostsee, Sehnsuchtsort der Kraniche
+| EA = 2020-02-16
+}}
+{{Episodenlisteneintrag
+| NR_GES = 546
+| NR_ST = 6
+| OT = Kapverden: Zwei Hunde als Schildkrötenretter
+| EA = 2020-02-23
+}}
+{{Episodenlisteneintrag
+| NR_GES = 547
+| NR_ST = 7
+| OT = Die Schwestern der Erde
+| EA = 2020-03-01
+}}
+{{Episodenlisteneintrag
+| NR_GES = 548
+| NR_ST = 8
+| OT = Argentinien, von wilden Pferden und sanfter Hand
+| EA = 2020-03-08
+}}
+{{Episodenlisteneintrag
+| NR_GES = 549
+| NR_ST = 9
+| OT = Indiens Kurkuma - Heilsam und heilig
+| EA = 2020-06-14
+}}
+{{Episodenlisteneintrag
+| NR_GES = 550
+| NR_ST = 10
+| OT = Huskys, am Start!
+| EA = 2020-06-28
+}}
+{{Episodenlisteneintrag
+| NR_GES = 551
+| NR_ST = 11
+| OT = Schignano, ein uralter Karneval in Italiens Bergen
+| EA = 2020-07-25
+}}
+{{Episodenlisteneintrag
+| NR_GES = 552
+| NR_ST = 12
+| OT = Ring frei für Sambias Boxerinnen!
+| EA = 2020-08-16
+}}
+{{Episodenlisteneintrag
+| NR_GES = 553
+| NR_ST = 13
+| OT = Singvögel - Die goldenen Stimmen von Singapur
+| EA = 2020-09-13
+}}
+{{Episodenlisteneintrag
+| NR_GES = 554
+| NR_ST = 14
+| OT = Italiens Kapern - Der Geschmack des Südens
+| EA = 2020-10-25
+}}
+{{Episodenlisteneintrag
+| NR_GES = 555
+| NR_ST = 15
+| OT = Der letzte Rheinfischer
+| EA = 2020-11-22
+}}
+{{Episodenlisteneintrag
+| NR_GES = 556
+| NR_ST = 16
+| OT = Mit Volldampf durch Kärnten
+| EA = 2020-11-29
+}}
+{{Episodenlisteneintrag
+| NR_GES = 557
+| NR_ST = 17
+| OT = Das Elsass, Heimat der Störche
+| EA = 2020-12-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 558
+| NR_ST = 18
+| OT = Lichterglanz im Norden - Winter in Stockholm und den Schären
+| EA = 2020-12-13
+}}
+{{Episodenlisteneintrag
+| NR_GES = 559
+| NR_ST = 19
+| OT = Chartres, die Farben des Himmels
+| EA = 2020-12-20
+}}
+{{Episodenlisteneintrag
+| NR_GES = 560
+| NR_ST = 1
+| OT = Bretagne, die raue Schönheit
+| EA = 2021-01-03
+}}
+{{Episodenlisteneintrag
+| NR_GES = 561
+| NR_ST = 2
+| OT = Pelota, die baskische Leidenschaft
+| EA = 2021-01-10
+}}
+{{Episodenlisteneintrag
+| NR_GES = 562
+| NR_ST = 3
+| OT = Estland und das kleine Königreich der Seto
+| EA = 2021-01-31
+}}
+{{Episodenlisteneintrag
+| NR_GES = 563
+| NR_ST = 4
+| OT = Puerto Rico: Ein Krankenhaus für Seekühe
+| EA = 2021-02-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 564
+| NR_ST = 5
+| OT = Dem Wolf auf der Spur - Schnüffeln für den Artenschutz
+| EA = 2021-02-14
+}}
+{{Episodenlisteneintrag
+| NR_GES = 565
+| NR_ST = 6
+| OT = Die Eifel und ihre Eulen-Hüter
+| EA = 2021-02-21
+}}
+{{Episodenlisteneintrag
+| NR_GES = 566
+| NR_ST = 7
+| OT = Percheron, das Kraftpaket mit einer Pferdestärke
+| EA = 2021-02-28
+}}
+{{Episodenlisteneintrag
+| NR_GES = 567
+| NR_ST = 8
+| OT = Kalkstein - Das weiße Gold von Brac
+| EA = 2021-03-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 568
+| NR_ST = 9
+| OT = Hamburg - Welthafen mit schwimmender Kirche
+| EA = 2021-03-14
+}}
+{{Episodenlisteneintrag
+| NR_GES = 569
+| NR_ST = 10
+| OT = Tradition am Steilhang - Die Schweiz und ihre Wildheuer
+| EA = 2021-03-21
+}}
+{{Episodenlisteneintrag
+| NR_GES = 570
+| NR_ST = 11
+| OT = Biber, die Baumeister an der Elbe
+| EA = 2021-03-28
+}}
+{{Episodenlisteneintrag
+| NR_GES = 571
+| NR_ST = 12
+| OT = Pelikane, die Könige des Donaudeltas
+| EA = 2021-04-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 572
+| NR_ST = 13
+| OT = Frankreichs Winzer - Tradition trifft Passion
+| EA = 2021-04-18
+}}
+{{Episodenlisteneintrag
+| NR_GES = 573
+| NR_ST = 14
+| OT = Notruf Nordseeküste - Die Robben-Retter
+| EA = 2021-04-25
+}}
+{{Episodenlisteneintrag
+| NR_GES = 574
+| NR_ST = 15
+| OT = Australien - Wenn Kunst auf Silos trifft
+| EA = 2021-05-09
+}}
+{{Episodenlisteneintrag
+| NR_GES = 575
+| NR_ST = 16
+| OT = Der Wüstenzug - die Lebensader Mauretaniens
+| EA = 2021-08-28
+}}
+{{Episodenlisteneintrag
+| NR_GES = 576
+| NR_ST = 17
+| OT = Escobars Erbe - Kolumbiens Kokain-Hippos
+| EA = 2021-09-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 577
+| NR_ST = 18
+| OT = Die heilenden Delfine von Curacao
+| EA = 2021-09-11
+}}
+{{Episodenlisteneintrag
+| NR_GES = 578
+| NR_ST = 19
+| OT = Der Traum vom Gold - Tirols Überfliegerinnen
+| EA = 2021-09-11
+}}
+{{Episodenlisteneintrag
+| NR_GES = 579
+| NR_ST = 20
+| OT = Schweiz: Gletscherflieger - Faszination in Weiß
+| EA = 2021-09-25
+}}
+{{Episodenlisteneintrag
+| NR_GES = 580
+| NR_ST = 21
+| OT = Koh Panyee - Thailands fußballverrückte Insel
+| EA = 2019-10-02
+}}
+{{Episodenlisteneintrag
+| NR_GES = 581
+| NR_ST = 22
+| OT = Stromboli - Zwischen Feuer und Meer
+| EA = 2021-10-09
+}}
+{{Episodenlisteneintrag
+| NR_GES = 582
+| NR_ST = 23
+| OT = Italien - Die Igel-Retter aus dem Piemont
+| EA = 2021-10-16
+}}
+{{Episodenlisteneintrag
+| NR_GES = 583
+| NR_ST = 24
+| OT = Dolomiten: Die Bergführer von San Martino
+| EA = 2021-10-30
+}}
+{{Episodenlisteneintrag
+| NR_GES = 584
+| NR_ST = 1
+| OT = Die Lowrider-Ladies von L.A.
+| EA = 2022-01-08
+}}
+{{Episodenlisteneintrag
+| NR_GES = 585
+| NR_ST = 2
+| OT = Tapire - Die Dschungel-Gärtner
+| EA = 2022-01-15
+}}
+{{Episodenlisteneintrag
+| NR_GES = 586
+| NR_ST = 3
+| OT = Faszination Elbrus - Der Ritt zum Gipfel
+| EA = 2022-01-22
+}}
+{{Episodenlisteneintrag
+| NR_GES = 587
+| NR_ST = 4
+| OT = Namibias Geparden - Hoffnung für die Raubkatzen
+| EA = 2022-01-29
+}}
+{{Episodenlisteneintrag
+| NR_GES = 588
+| NR_ST = 5
+| OT = Haute Couture - Federn, Falten, Seidenblumen
+| EA = 2022-02-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 589
+| NR_ST = 6
+| OT = Die Odyssee der Mönchsrobbe
+| EA = 2022-02-19
+}}
+{{Episodenlisteneintrag
+| NR_GES = 590
+| NR_ST = 7
+| OT = Elsass - Land der Orgeln
+| EA = 2022-02-26
+}}
+{{Episodenlisteneintrag
+| NR_GES = 591
+| NR_ST = 8
+| OT = Wilde Waterkant - Nordfriesland und seine Gänse
+| EA = 2022-03-12
+}}
+{{Episodenlisteneintrag
+| NR_GES = 592
+| NR_ST = 9
+| OT = Die Puppen tanzen! - Litauens rollendes Theater
+| EA = 2022-03-26
+}}
+{{Episodenlisteneintrag
+| NR_GES = 593
+| NR_ST = 10
+| OT = Südkorea - die Nonne der Tempelküche
+| EA = 2022-05-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 594
+| NR_ST = 11
+| OT = Schwerelos im Windkanal
+| EA = 2022-05-14
+}}
+{{Episodenlisteneintrag
+| NR_GES = 595
+| NR_ST = 12
+| OT = Frankreichs Gärten - Die kleinen Schätze
+| EA = 2022-05-21
+}}
+{{Episodenlisteneintrag
+| NR_GES = 596
+| NR_ST = 13
+| OT = Europas Urwälder - Ein Schatz der Natur
+| EA = 2022-06-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 597
+| NR_ST = 14
+| OT = Panzer, Wölfe, Rothirsche - Bayerns wilder Übungsplatz
+| EA = 2022-06-11
+}}
+{{Episodenlisteneintrag
+| NR_GES = 598
+| NR_ST = 15
+| OT = Kastiliens Kämpfer - Ritterspiele an der Burg Belmonte
+| EA = 2022-06-18
+}}
+{{Episodenlisteneintrag
+| NR_GES = 599
+| NR_ST = 16
+| OT = Nopal, der Alleskönner aus Mexiko
+| EA = 2022-06-25
+}}
+{{Episodenlisteneintrag
+| NR_GES = 600
+| NR_ST = 2
+| OT = Nopal - Das grüne Gold Mexikos
+| EA = 2023-01-16
+}}
+{{Episodenlisteneintrag
+| NR_GES = 601
+| NR_ST = 17
+| OT = Tempo und Leidenschaft - Argentiniens Polo-Spielerinnen
+| EA = 2022-07-02
+}}
+{{Episodenlisteneintrag
+| NR_GES = 602
+| NR_ST = 18
+| OT = Kourou: Palmen, Raketen, Gefängnisinseln
+| EA = 2022-07-09
+}}
+{{Episodenlisteneintrag
+| NR_GES = 603
+| NR_ST = 19
+| OT = Las Fallas - Valencias feurige Fiesta
+| EA = 2022-07-16
+}}
+{{Episodenlisteneintrag
+| NR_GES = 604
+| NR_ST = 20
+| OT = Das Gerichtsschiff vom Amazonas
+| EA = 2022-08-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 605
+| NR_ST = 21
+| OT = Kampf den Scharlatanen
+| EA = 2022-09-01
+}}
+{{Episodenlisteneintrag
+| NR_GES = 606
+| NR_ST = 4
+| OT = Indien - Kampf den Scharlatanen
+| EA = 2023-01-23
+}}
+{{Episodenlisteneintrag
+| NR_GES = 607
+| NR_ST = 22
+| OT = Ahornsirup - Kanadas süßer Schatz
+| EA = 2022-09-17
+}}
+{{Episodenlisteneintrag
+| NR_GES = 608
+| NR_ST = 23
+| OT = Estland - Krötenretter im Einsatz
+| EA = 2022-10-01
+}}
+{{Episodenlisteneintrag
+| NR_GES = 609
+| NR_ST = 24
+| OT = Sardiniens wertvolle Muschelseide
+| EA = 2022-10-29
+}}
+{{Episodenlisteneintrag
+| NR_GES = 610
+| NR_ST = 25
+| OT = Cordoba, die Stadt der Patios
+| EA = 2022-11-05
+}}
+{{Episodenlisteneintrag
+| NR_GES = 611
+| NR_ST = 26
+| OT = Marquesas-Inseln, das Comeback der Tattoos
+| EA = 2022-11-19
+}}
+{{Episodenlisteneintrag
+| NR_GES = 612
+| NR_ST = 27
+| OT = Die Schweizergarde - Ein Leben für den Papst
+| EA = 2022-12-03
+}}
+{{Episodenlisteneintrag
+| NR_GES = 613
+| NR_ST = 28
+| OT = Island, die wertvollsten Daunen der Welt
+| EA = 2022-12-10
+}}
+{{Episodenlisteneintrag
+| NR_GES = 614
+| NR_ST = 29
+| OT = Zuflucht in den Anden - Kolumbiens indigene Transfrauen
+| EA = 2022-12-17
+}}
+{{Episodenlisteneintrag
+| NR_GES = 615
+| NR_ST = 30
+| OT = Kristall - Die magische Kunst aus den Vogesen
+| EA = 2022-12-24
+}}
+{{Episodenlisteneintrag
+| NR_GES = 616
+| NR_ST = 1
+| OT = Montenegro - Der Eselretter
+| EA = 2023-01-07
+}}
+{{Episodenlisteneintrag
+| NR_GES = 617
+| NR_ST = 3
+| OT = Der Bergkristall - Schatz in den Schweizer Alpen
+| EA = 2023-01-21
+}}
+{{Episodenlisteneintrag
+| NR_GES = 618
+| NR_ST = 5
+| OT = Maine - Hummer oder Wale?
+| EA = 2023-01-28
+}}
+{{Episodenlisteneintrag
+| NR_GES = 619
+| NR_ST = 6
+| OT = Singvögel - die goldene Stimmen von Singapur
+| EA = 2023-02-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 620
+| NR_ST = 7
+| OT = Namibia - von Sandsurfern und Skatern
+| EA = 2023-02-11
+}}
+{{Episodenlisteneintrag
+| NR_GES = 621
+| NR_ST = None
+| OT = Albanien - Die Stimmen der Schäfer
+| EA = 2023-02-25
+}}
+{{Episodenlisteneintrag
+| NR_GES = 622
+| NR_ST = None
+| OT = Laos - Futterblöcke und Büffel-Leasing
+| EA = 2023-03-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 623
+| NR_ST = None
+| OT = Freiheit auf Pferderücken - Der lange Weg der Nez Perce
+| EA = 2023-03-11
+}}
+{{Episodenlisteneintrag
+| NR_GES = 624
+| NR_ST = None
+| OT = Peloponnes - Rückkehr zur Erde
+| EA = 2023-03-18
+}}
+{{Episodenlisteneintrag
+| NR_GES = 625
+| NR_ST = None
+| OT = Handgemacht in Laos - Rares aus Rattan
+| EA = 2023-03-25
+}}
+{{Episodenlisteneintrag
+| NR_GES = 626
+| NR_ST = None
+| OT = Leben mit dem Tod - Ahnenkult auf Sulawesi
+| EA = 2023-05-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 627
+| NR_ST = None
+| OT = Die Waschbären von Berlin
+| EA = 2023-05-20
+}}
+}}

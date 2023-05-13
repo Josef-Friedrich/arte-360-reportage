@@ -93,6 +93,41 @@ class Episode:
         url: str = f"https://www.youtube.com/watch?v={video_id}"
         return f"[{video_id}]({url})"
 
+    def __get_season_or_episode(self, episode: bool = True) -> int | None:
+        if not "thetvdb_season_episode" in self.data:
+            return
+
+        if episode:
+            regex = r"s\d+e(\d+)"
+        else:
+            regex = r"s(\d)+e\d+"
+        match = re.match(regex, self.data["thetvdb_season_episode"], re.IGNORECASE)
+        if match:
+            return int(match.group(1))
+
+    @property
+    def season_no(self):
+        return self.__get_season_or_episode(False)
+
+    @property
+    def episode_no(self):
+        return self.__get_season_or_episode(True)
+
+    @property
+    def wikitext(self) -> str:
+        return (
+            "{{Episodenlisteneintrag\n"
+            "| NR_GES = " + str(self.data["index"] + 1) + "\n"
+            "| NR_ST = " + str(self.episode_no) + "\n"
+            "| OT = "
+            + self.data["title"]
+            + "\n"
+            + "| EA = "
+            + self.data["air_date"]
+            + "\n"
+            + "}}"
+        )
+
 
 YAML_FILENAME = "360-grad-reportage.yml"
 
