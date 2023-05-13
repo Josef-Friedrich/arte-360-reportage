@@ -4261,6 +4261,11 @@ episodes:
   fernsehserien_episode_no: 451
   fernsehserien_episode_slug: 451-die-metallenen-gondeln-von-tschiatura-1002246
   fernsehserien_episode_id: 1002246
+  youtube_video_id: -2OmrWF4YiQ
+- title: Die schwebenden Särge von Georgien
+  air_date: '2018-03-18'
+  thetvdb_episode_id: 7890795
+  youtube_video_id: -2OmrWF4YiQ
 - title: Die Honigsammler von Yunnan
   air_date: '2016-12-03'
   duration: 55
@@ -4626,10 +4631,6 @@ episodes:
   fernsehserien_episode_slug: 489-kreta-die-suessen-fruechte-des-johannisbrotbaums-1175560
   fernsehserien_episode_id: 1175560
   youtube_video_id: rVaOPVPAC5Y
-- title: Die schwebenden Särge von Georgien
-  air_date: '2018-03-18'
-  thetvdb_episode_id: 7890795
-  youtube_video_id: -2OmrWF4YiQ
 - title: Der Hundeflüsterer der Queen
   air_date: '2018-03-25'
   duration: 55
@@ -4679,6 +4680,7 @@ episodes:
   fernsehserien_episode_no: 494
   fernsehserien_episode_slug: 494-geliebtes-korsika-kampf-gegen-das-feuer-1202913
   fernsehserien_episode_id: 1202913
+  youtube_video_id: cMm7vvWgVzY
 - title: Japan - Leben am Fuß des Vulkans
   title_en: Japan, living at a vulcan
   air_date: '2018-08-30'
@@ -4750,6 +4752,7 @@ episodes:
   fernsehserien_episode_no: 501
   fernsehserien_episode_slug: 501-chatuchak-bangkoks-riesenmarkt-1233630
   fernsehserien_episode_id: 1233630
+  youtube_video_id: WGYqFDLRHH8
 - title: Argentinien - Der Jaguar ist zurück
   title_en: Argentinia - The Jaguar is Back
   air_date: '2018-10-27'
@@ -5725,6 +5728,12 @@ episodes:
   fernsehserien_episode_id: 1564718
   imdb_episode_id: tt21203634
   youtube_video_id: MkXx_8rac_M
+- title: Nopal - Das grüne Gold Mexikos
+  air_date: '2023-01-16'
+  duration: 32
+  episode: 2
+  thetvdb_season_episode: S25E02
+  thetvdb_episode_id: 9524037
 - title: Tempo und Leidenschaft - Argentiniens Polo-Spielerinnen
   air_date: '2022-07-02'
   duration: 32
@@ -5765,7 +5774,8 @@ episodes:
   fernsehserien_episode_slug: 598-das-gerichtsschiff-vom-amazonas-1579010
   fernsehserien_episode_id: 1579010
   imdb_episode_id: tt22023194
-- title: 'Der Science-Van on Tour: Indien - Kampf den Scharlatanen'
+- title: 'Kampf den Scharlatanen'
+  alias: 'Der Science-Van on Tour: Indien - Kampf den Scharlatanen'
   air_date: '2022-09-01'
   duration: 32
   thetvdb_season_episode: S24E21
@@ -5774,6 +5784,15 @@ episodes:
   fernsehserien_episode_no: 599
   fernsehserien_episode_slug: 599-der-science-van-on-tour-indien-kampf-den-scharlatanen-1581860
   fernsehserien_episode_id: 1581860
+  youtube_video_id: -Clpkb3JdkI
+- title: Indien - Kampf den Scharlatanen
+  air_date: '2023-01-23'
+  duration: 51
+  episode: 4
+  thetvdb_season_episode: S25E04
+  thetvdb_episode_id: 9524039
+  imdb_episode_id: tt22085934
+  youtube_video_id: -Clpkb3JdkI
 - title: Ahornsirup - Kanadas süßer Schatz
   air_date: '2022-09-17'
   duration: 32
@@ -5877,12 +5896,7 @@ episodes:
   fernsehserien_episode_slug: 609-montenegro-der-eselretter-1609765
   fernsehserien_episode_id: 1609765
   imdb_episode_id: tt25786568
-- title: Nopal - Das grüne Golde Mexikos
-  air_date: '2023-01-16'
-  duration: 32
-  episode: 2
-  thetvdb_season_episode: S25E02
-  thetvdb_episode_id: 9524037
+
 - title: Der Bergkristall - Schatz in den Schweizer Alpen
   air_date: '2023-01-21'
   duration: 32
@@ -5894,14 +5908,7 @@ episodes:
   fernsehserien_episode_slug: 610-der-bergkristall-schatz-in-den-schweizer-alpen-1612863
   fernsehserien_episode_id: 1612863
   imdb_episode_id: tt26422175
-- title: Indien - Kampf den Scharlatanen
-  air_date: '2023-01-23'
-  duration: 51
-  episode: 4
-  thetvdb_season_episode: S25E04
-  thetvdb_episode_id: 9524039
-  imdb_episode_id: tt22085934
-  youtube_video_id: -Clpkb3JdkI
+
 - title: Maine - Hummer oder Wale?
   air_date: '2023-01-28'
   duration: 32
@@ -5973,4 +5980,3 @@ episodes:
   fernsehserien_episode_no: 618
   fernsehserien_episode_slug: 618-die-waschbaeren-von-berlin-1640104
   fernsehserien_episode_id: 1640104
-  youtube_video_id: PQJMws5-r_Y
