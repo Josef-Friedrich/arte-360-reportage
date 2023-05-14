@@ -51,47 +51,78 @@ class Episode:
             return ""
         return self.data["air_date"]
 
+    def __make_markdown_link(
+        self, title: str | typing.Any | None, url: str | None
+    ) -> str:
+        if not title or not url:
+            return ""
+        return f"[{str(title)}]({url})"
+
     @property
-    def thetvdb_link(self) -> str:
+    def thetvdb_url(self) -> str | None:
         if (
             "thetvdb_episode_id" not in self.data
             or "thetvdb_season_episode" not in self.data
         ):
-            return ""
+            return
         base_url: str = self.tv_show["databases"]["thetvdb"]
         id: int = self.data["thetvdb_episode_id"]
-        url: str = f"{base_url}/episodes/{id}"
-        se: str = self.data["thetvdb_season_episode"]
-        return f"[{se}]({url})"
+        return f"{base_url}/episodes/{id}"
+
+    @property
+    def thetvdb_link(self) -> str:
+        if "thetvdb_season_episode" not in self.data:
+            return ""
+        return self.__make_markdown_link(
+            self.data["thetvdb_season_episode"], self.thetvdb_url
+        )
+
+    @property
+    def imdb_url(self) -> str | None:
+        if "imdb_episode_id" not in self.data:
+            return
+        episode_id: str = self.data["imdb_episode_id"]
+        return f"https://www.imdb.com/title/{episode_id}"
 
     @property
     def imdb_link(self) -> str:
         if "imdb_episode_id" not in self.data:
             return ""
-        episode_id: str = self.data["imdb_episode_id"]
-        url: str = f"https://www.imdb.com/title/{episode_id}"
-        return f"[{episode_id}]({url})"
+        return self.__make_markdown_link(self.data["imdb_episode_id"], self.imdb_url)
 
     @property
-    def fernsehserien_link(self) -> str:
+    def fernsehserien_url(self) -> str | None:
         if (
             "fernsehserien_episode_slug" not in self.data
             or "fernsehserien_episode_no" not in self.data
         ):
-            return ""
+            return
         base_url: str = self.tv_show["databases"]["fernsehserien"]
         slug: str = self.data["fernsehserien_episode_slug"]
-        url: str = f"{base_url}/folgen/{slug}"
-        no: int = self.data["fernsehserien_episode_no"]
-        return f"[{no}]({url})"
+        return f"{base_url}/folgen/{slug}"
+
+    @property
+    def fernsehserien_link(self) -> str:
+        if "fernsehserien_episode_no" not in self.data:
+            return ""
+        return self.__make_markdown_link(
+            self.data["fernsehserien_episode_no"], self.fernsehserien_url
+        )
+
+    @property
+    def youtube_url(self) -> str | None:
+        if "youtube_video_id" not in self.data:
+            return
+        video_id: str = self.data["youtube_video_id"]
+        return f"https://www.youtube.com/watch?v={video_id}"
 
     @property
     def youtube_link(self) -> str:
         if "youtube_video_id" not in self.data:
             return ""
-        video_id: str = self.data["youtube_video_id"]
-        url: str = f"https://www.youtube.com/watch?v={video_id}"
-        return f"[{video_id}]({url})"
+        return self.__make_markdown_link(
+            self.data["youtube_video_id"], self.youtube_url
+        )
 
     def __get_season_or_episode(self, episode: bool = True) -> int | None:
         if not "thetvdb_season_episode" in self.data:

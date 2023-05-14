@@ -9,18 +9,23 @@ https://de.wikipedia.org/wiki/Vorlage:Episodenlisteneintrag
 """
 
 
+def make_ref(url: str | None) -> str:
+    if not url:
+        return ""
+    return "<ref>" + url + "</ref>"
+
+
 def generate_episode(episode: Episode, episode_no: int, absolute_no: int) -> str:
+    title = episode.data["title"]
+    title += make_ref(episode.fernsehserien_url)
+    title += make_ref(episode.thetvdb_url)
+    title += make_ref(episode.imdb_url)
+    title += make_ref(episode.youtube_url)
     return (
         "{{Episodenlisteneintrag\n"
         "| NR_GES = " + str(absolute_no) + "\n"
         "| NR_ST = " + str(episode_no) + "\n"
-        "| OT = "
-        + episode.data["title"]
-        + "\n"
-        + "| EA = "
-        + episode.data["air_date"]
-        + "\n"
-        + "}}"
+        "| OT = " + title + "\n" + "| EA = " + episode.data["air_date"] + "\n" + "}}"
     )
 
 
@@ -36,7 +41,7 @@ def generate_season(year: int, season_no: int, episode_entries: list[str]) -> st
         + "| ZUSAMMENFASSUNG = nein\n"
         + "| SORTIERBAR = nein\n"
         + "| REGISSEUR = nein\n"
-        + "| DREHBUCH= nein\n"
+        + "| DREHBUCH = nein\n"
         + "| INHALT =\n"
         + "\n".join(episode_entries)
         + "\n}}"
@@ -50,6 +55,7 @@ episode_no = 1
 year = 0
 season_no = 0
 
+
 def collect_episodes():
     global episode_entries
     global season_entries
@@ -62,6 +68,8 @@ def collect_episodes():
         )
         episode_entries = []
         episode_no = 1
+
+
 for episode in geo.episodes:
     if year != episode.year:
         collect_episodes()
