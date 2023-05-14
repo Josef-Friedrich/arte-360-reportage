@@ -114,19 +114,8 @@ class Episode:
         return self.__get_season_or_episode(True)
 
     @property
-    def wikitext(self) -> str:
-        return (
-            "{{Episodenlisteneintrag\n"
-            "| NR_GES = " + str(self.data["index"] + 1) + "\n"
-            "| NR_ST = " + str(self.episode_no) + "\n"
-            "| OT = "
-            + self.data["title"]
-            + "\n"
-            + "| EA = "
-            + self.data["air_date"]
-            + "\n"
-            + "}}"
-        )
+    def year(self) -> int:
+        return int(self.data["air_date"][0:4])
 
 
 YAML_FILENAME = "360-grad-reportage.yml"

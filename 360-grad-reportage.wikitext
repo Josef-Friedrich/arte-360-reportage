@@ -1,3 +1,6 @@
+
+=== Staffel 1 (1999) ===
+
 {{Episodenlistentabelle|BREITE=100%
 | ZUSAMMENFASSUNG = nein
 | SORTIERBAR = nein
@@ -244,6 +247,16 @@
 | OT = Im Namen der Liebe: Menü der Zärtlichkeit
 | EA = 1999-12-09
 }}
+}}
+
+=== Staffel 2 (2000) ===
+
+{{Episodenlistentabelle|BREITE=100%
+| ZUSAMMENFASSUNG = nein
+| SORTIERBAR = nein
+| REGISSEUR = nein
+| DREHBUCH= nein
+| INHALT =
 {{Episodenlisteneintrag
 | NR_GES = 41
 | NR_ST = 1
@@ -460,6 +473,16 @@
 | OT = Tiere im Rampenlicht: Kamele im Rennen
 | EA = 2000-12-07
 }}
+}}
+
+=== Staffel 3 (2001) ===
+
+{{Episodenlistentabelle|BREITE=100%
+| ZUSAMMENFASSUNG = nein
+| SORTIERBAR = nein
+| REGISSEUR = nein
+| DREHBUCH= nein
+| INHALT =
 {{Episodenlisteneintrag
 | NR_GES = 77
 | NR_ST = 1
@@ -628,6 +651,16 @@
 | OT = Der Großvater der Massai
 | EA = 2001-10-05
 }}
+}}
+
+=== Staffel 4 (2002) ===
+
+{{Episodenlistentabelle|BREITE=100%
+| ZUSAMMENFASSUNG = nein
+| SORTIERBAR = nein
+| REGISSEUR = nein
+| DREHBUCH= nein
+| INHALT =
 {{Episodenlisteneintrag
 | NR_GES = 105
 | NR_ST = 1
@@ -814,6 +847,16 @@
 | OT = Die Abalone-Wilderer - Der Kampf um den Erhalt einer Seeschneckenart
 | EA = 2002-11-07
 }}
+}}
+
+=== Staffel 5 (2003) ===
+
+{{Episodenlistentabelle|BREITE=100%
+| ZUSAMMENFASSUNG = nein
+| SORTIERBAR = nein
+| REGISSEUR = nein
+| DREHBUCH= nein
+| INHALT =
 {{Episodenlisteneintrag
 | NR_GES = 136
 | NR_ST = 1
@@ -910,6 +953,16 @@
 | OT = Der Vogelhändler von Guangzhou
 | EA = 2003-04-10
 }}
+}}
+
+=== Staffel 6 (2004) ===
+
+{{Episodenlistentabelle|BREITE=100%
+| ZUSAMMENFASSUNG = nein
+| SORTIERBAR = nein
+| REGISSEUR = nein
+| DREHBUCH= nein
+| INHALT =
 {{Episodenlisteneintrag
 | NR_GES = 152
 | NR_ST = 1
@@ -1024,6 +1077,16 @@
 | OT = Ein Traum von Schokolade
 | EA = 2004-12-30
 }}
+}}
+
+=== Staffel 7 (2005) ===
+
+{{Episodenlistentabelle|BREITE=100%
+| ZUSAMMENFASSUNG = nein
+| SORTIERBAR = nein
+| REGISSEUR = nein
+| DREHBUCH= nein
+| INHALT =
 {{Episodenlisteneintrag
 | NR_GES = 171
 | NR_ST = 1
@@ -1144,6 +1207,16 @@
 | OT = Die Kinder des Vater Nikolai
 | EA = 2005-12-24
 }}
+}}
+
+=== Staffel 8 (2006) ===
+
+{{Episodenlistentabelle|BREITE=100%
+| ZUSAMMENFASSUNG = nein
+| SORTIERBAR = nein
+| REGISSEUR = nein
+| DREHBUCH= nein
+| INHALT =
 {{Episodenlisteneintrag
 | NR_GES = 191
 | NR_ST = 1
@@ -1258,6 +1331,16 @@
 | OT = Eritrea - Ein Esel für die Zukunft
 | EA = 2006-12-23
 }}
+}}
+
+=== Staffel 9 (2007) ===
+
+{{Episodenlistentabelle|BREITE=100%
+| ZUSAMMENFASSUNG = nein
+| SORTIERBAR = nein
+| REGISSEUR = nein
+| DREHBUCH= nein
+| INHALT =
 {{Episodenlisteneintrag
 | NR_GES = 210
 | NR_ST = 1
@@ -1414,6 +1497,16 @@
 | OT = Auf Schlangenfang in Kambodscha
 | EA = 2007-12-29
 }}
+}}
+
+=== Staffel 10 (2008) ===
+
+{{Episodenlistentabelle|BREITE=100%
+| ZUSAMMENFASSUNG = nein
+| SORTIERBAR = nein
+| REGISSEUR = nein
+| DREHBUCH= nein
+| INHALT =
 {{Episodenlisteneintrag
 | NR_GES = 236
 | NR_ST = 1
@@ -1552,6 +1645,16 @@
 | OT = Die einsamen Mönche von Oelenberg
 | EA = 2008-12-18
 }}
+}}
+
+=== Staffel 11 (2009) ===
+
+{{Episodenlistentabelle|BREITE=100%
+| ZUSAMMENFASSUNG = nein
+| SORTIERBAR = nein
+| REGISSEUR = nein
+| DREHBUCH= nein
+| INHALT =
 {{Episodenlisteneintrag
 | NR_GES = 259
 | NR_ST = 1
@@ -1708,6 +1811,16 @@
 | OT = Saint Helena: Vergessen im Atlantik
 | EA = 2009-12-26
 }}
+}}
+
+=== Staffel 12 (2010) ===
+
+{{Episodenlistentabelle|BREITE=100%
+| ZUSAMMENFASSUNG = nein
+| SORTIERBAR = nein
+| REGISSEUR = nein
+| DREHBUCH= nein
+| INHALT =
 {{Episodenlisteneintrag
 | NR_GES = 285
 | NR_ST = 1
@@ -1828,6 +1941,16 @@
 | OT = Laetitia - allein unter Wölfen
 | EA = 2010-12-25
 }}
+}}
+
+=== Staffel 13 (2011) ===
+
+{{Episodenlistentabelle|BREITE=100%
+| ZUSAMMENFASSUNG = nein
+| SORTIERBAR = nein
+| REGISSEUR = nein
+| DREHBUCH= nein
+| INHALT =
 {{Episodenlisteneintrag
 | NR_GES = 305
 | NR_ST = 1
@@ -2002,6 +2125,16 @@
 | OT = Sark - die Kanalinsel der Queen
 | EA = 2011-12-24
 }}
+}}
+
+=== Staffel 14 (2012) ===
+
+{{Episodenlistentabelle|BREITE=100%
+| ZUSAMMENFASSUNG = nein
+| SORTIERBAR = nein
+| REGISSEUR = nein
+| DREHBUCH= nein
+| INHALT =
 {{Episodenlisteneintrag
 | NR_GES = 334
 | NR_ST = 1
@@ -2128,6 +2261,16 @@
 | OT = Die Exzentriker der Düfte
 | EA = 2012-12-22
 }}
+}}
+
+=== Staffel 15 (2013) ===
+
+{{Episodenlistentabelle|BREITE=100%
+| ZUSAMMENFASSUNG = nein
+| SORTIERBAR = nein
+| REGISSEUR = nein
+| DREHBUCH= nein
+| INHALT =
 {{Episodenlisteneintrag
 | NR_GES = 355
 | NR_ST = 1
@@ -2290,6 +2433,16 @@
 | OT = Thailand, Raketen für die Götter
 | EA = 2013-12-28
 }}
+}}
+
+=== Staffel 16 (2014) ===
+
+{{Episodenlistentabelle|BREITE=100%
+| ZUSAMMENFASSUNG = nein
+| SORTIERBAR = nein
+| REGISSEUR = nein
+| DREHBUCH= nein
+| INHALT =
 {{Episodenlisteneintrag
 | NR_GES = 382
 | NR_ST = 1
@@ -2434,6 +2587,16 @@
 | OT = Lettland - das Land der Sänger
 | EA = 2014-12-27
 }}
+}}
+
+=== Staffel 17 (2015) ===
+
+{{Episodenlistentabelle|BREITE=100%
+| ZUSAMMENFASSUNG = nein
+| SORTIERBAR = nein
+| REGISSEUR = nein
+| DREHBUCH= nein
+| INHALT =
 {{Episodenlisteneintrag
 | NR_GES = 406
 | NR_ST = 1
@@ -2590,6 +2753,16 @@
 | OT = Polen, Winter in den Waldkarpaten
 | EA = 2015-12-26
 }}
+}}
+
+=== Staffel 18 (2016) ===
+
+{{Episodenlistentabelle|BREITE=100%
+| ZUSAMMENFASSUNG = nein
+| SORTIERBAR = nein
+| REGISSEUR = nein
+| DREHBUCH= nein
+| INHALT =
 {{Episodenlisteneintrag
 | NR_GES = 432
 | NR_ST = 1
@@ -2724,1045 +2897,1097 @@
 }}
 {{Episodenlisteneintrag
 | NR_GES = 454
-| NR_ST = None
-| OT = Die schwebenden Särge von Georgien
-| EA = 2018-03-18
-}}
-{{Episodenlisteneintrag
-| NR_GES = 455
 | NR_ST = 23
 | OT = Die Honigsammler von Yunnan
 | EA = 2016-12-03
 }}
 {{Episodenlisteneintrag
-| NR_GES = 456
+| NR_GES = 455
 | NR_ST = 24
 | OT = Wilde Schweiz - Von Ringern und Schwingern
 | EA = 2016-12-10
 }}
 {{Episodenlisteneintrag
-| NR_GES = 457
+| NR_GES = 456
 | NR_ST = 25
 | OT = St. Bernhard - Von Menschen und Hunden
 | EA = 2016-12-17
 }}
 {{Episodenlisteneintrag
-| NR_GES = 458
+| NR_GES = 457
 | NR_ST = 26
 | OT = Rumänien - Eine Weihnachtsreise ins Donaudelta
 | EA = 2016-12-24
 }}
+}}
+
+=== Staffel 19 (2017) ===
+
+{{Episodenlistentabelle|BREITE=100%
+| ZUSAMMENFASSUNG = nein
+| SORTIERBAR = nein
+| REGISSEUR = nein
+| DREHBUCH= nein
+| INHALT =
 {{Episodenlisteneintrag
-| NR_GES = 459
+| NR_GES = 458
 | NR_ST = 1
 | OT = Die Liebenden von Santa Cruz del Islote
 | EA = 2017-01-07
 }}
 {{Episodenlisteneintrag
-| NR_GES = 460
+| NR_GES = 459
 | NR_ST = 2
 | OT = Marseille - Kopfüber ins Blau
 | EA = 2017-01-14
 }}
 {{Episodenlisteneintrag
-| NR_GES = 461
+| NR_GES = 460
 | NR_ST = 3
 | OT = Kurt und seine Wölfe
 | EA = 2017-01-21
 }}
 {{Episodenlisteneintrag
-| NR_GES = 462
+| NR_GES = 461
 | NR_ST = 4
 | OT = Pyrenäen - Ein Hirte zwischen Himmel und Erde
 | EA = 2017-01-28
 }}
 {{Episodenlisteneintrag
-| NR_GES = 463
+| NR_GES = 462
 | NR_ST = 5
 | OT = Zauberhafte Mosel
 | EA = 2017-02-04
 }}
 {{Episodenlisteneintrag
-| NR_GES = 464
+| NR_GES = 463
 | NR_ST = 6
 | OT = Der Kosakenpriester vom Don
 | EA = 2017-02-18
 }}
 {{Episodenlisteneintrag
-| NR_GES = 465
+| NR_GES = 464
 | NR_ST = 7
 | OT = Chile - Die Leuchttürme am Ende der Welt
 | EA = 2017-02-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 466
+| NR_GES = 465
 | NR_ST = 8
 | OT = Indien - Heilendes Ayurveda
 | EA = 2017-03-04
 }}
 {{Episodenlisteneintrag
-| NR_GES = 467
+| NR_GES = 466
 | NR_ST = 9
 | OT = Spanien - Die Tradition der Menschentürme
 | EA = 2017-03-12
 }}
 {{Episodenlisteneintrag
-| NR_GES = 468
+| NR_GES = 467
 | NR_ST = 10
 | OT = Malaysia - Von Frauen und Motorrädern
 | EA = 2017-03-19
 }}
 {{Episodenlisteneintrag
-| NR_GES = 469
+| NR_GES = 468
 | NR_ST = 11
 | OT = Eine zweite Art von Frau - Thailand, das Dritte Geschlecht
 | EA = 2017-03-26
 }}
 {{Episodenlisteneintrag
-| NR_GES = 470
+| NR_GES = 469
 | NR_ST = 12
 | OT = Myanmars Bambusbrücke - Ein Dorf packt an!
 | EA = 2017-05-21
 }}
 {{Episodenlisteneintrag
-| NR_GES = 471
+| NR_GES = 470
 | NR_ST = 13
 | OT = Die Minga - Umzug auf Chilenisch
 | EA = 2017-05-28
 }}
 {{Episodenlisteneintrag
-| NR_GES = 472
+| NR_GES = 471
 | NR_ST = 14
 | OT = Kuba - Meister der Drehorgeln
 | EA = 2017-08-06
 }}
 {{Episodenlisteneintrag
-| NR_GES = 473
+| NR_GES = 472
 | NR_ST = 15
 | OT = Sri Lanka - Eine legendäre Eisenbahnstrecke
 | EA = 2017-08-20
 }}
 {{Episodenlisteneintrag
-| NR_GES = 474
+| NR_GES = 473
 | NR_ST = 16
 | OT = Die Wassernomaden vom Sambesi
 | EA = 2017-09-17
 }}
 {{Episodenlisteneintrag
-| NR_GES = 475
+| NR_GES = 474
 | NR_ST = 17
 | OT = Mate-Tee - Die Seele Argentiniens
 | EA = 2017-10-01
 }}
 {{Episodenlisteneintrag
-| NR_GES = 476
+| NR_GES = 475
 | NR_ST = 18
 | OT = Louisiana - Land unter bei den Shrimpfischern
 | EA = 2017-10-22
 }}
 {{Episodenlisteneintrag
-| NR_GES = 477
+| NR_GES = 476
 | NR_ST = 19
 | OT = Svanetien - Von Lebenden und Toten
 | EA = 2017-10-29
 }}
 {{Episodenlisteneintrag
-| NR_GES = 478
+| NR_GES = 477
 | NR_ST = 20
 | OT = Java - Zauberhaftes Schattentheater
 | EA = 2017-11-05
 }}
 {{Episodenlisteneintrag
-| NR_GES = 479
+| NR_GES = 478
 | NR_ST = 21
 | OT = Frisch vermählt in Estland
 | EA = 2017-11-12
 }}
 {{Episodenlisteneintrag
-| NR_GES = 480
+| NR_GES = 479
 | NR_ST = 22
 | OT = Die Geier sind zurück
 | EA = 2017-11-19
 }}
 {{Episodenlisteneintrag
-| NR_GES = 481
+| NR_GES = 480
 | NR_ST = 23
 | OT = Bolivien - Der Kampf um die kleinen Herzen
 | EA = 2017-11-26
 }}
 {{Episodenlisteneintrag
-| NR_GES = 482
+| NR_GES = 481
 | NR_ST = 24
 | OT = Sibirien, die Eisstraße ins Polarmeer
 | EA = 2017-11-27
 }}
 {{Episodenlisteneintrag
-| NR_GES = 483
+| NR_GES = 482
 | NR_ST = 25
 | OT = Kolumbien: DC3 Oldtimer versorgen den Regenwald
 | EA = 2017-12-10
 }}
 {{Episodenlisteneintrag
-| NR_GES = 484
+| NR_GES = 483
 | NR_ST = 26
 | OT = Der Thomanerchor - Leben für die Musik
 | EA = 2017-12-24
 }}
 {{Episodenlisteneintrag
-| NR_GES = 485
+| NR_GES = 484
 | NR_ST = 27
 | OT = Die Insel Chiloé
 | EA = 2017-06-03
 }}
+}}
+
+=== Staffel 20 (2018) ===
+
+{{Episodenlistentabelle|BREITE=100%
+| ZUSAMMENFASSUNG = nein
+| SORTIERBAR = nein
+| REGISSEUR = nein
+| DREHBUCH= nein
+| INHALT =
 {{Episodenlisteneintrag
-| NR_GES = 486
+| NR_GES = 485
 | NR_ST = 1
 | OT = Friaul, Benvenuti im Musiktal
 | EA = 2018-01-14
 }}
 {{Episodenlisteneintrag
-| NR_GES = 487
+| NR_GES = 486
 | NR_ST = 2
 | OT = Bisons, die sanften Riesen von Montana
 | EA = 2018-01-28
 }}
 {{Episodenlisteneintrag
-| NR_GES = 488
+| NR_GES = 487
 | NR_ST = 3
 | OT = Vietnam, die letzten Pangoline
 | EA = 2018-02-04
 }}
 {{Episodenlisteneintrag
-| NR_GES = 489
+| NR_GES = 488
 | NR_ST = 4
 | OT = Schottland: Die Seenotretter der Orkney Islands
 | EA = 2018-02-11
 }}
 {{Episodenlisteneintrag
-| NR_GES = 490
+| NR_GES = 489
 | NR_ST = 5
 | OT = Kanada - Mit der Hebamme durch die Badlands
 | EA = 2018-02-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 491
+| NR_GES = 490
 | NR_ST = 6
 | OT = Myanmar - Die Marmorkünstler von Mandalay
 | EA = 2018-03-04
 }}
 {{Episodenlisteneintrag
-| NR_GES = 492
+| NR_GES = 491
 | NR_ST = 7
 | OT = Der Lachszähler von Kanada
 | EA = 2018-03-11
 }}
 {{Episodenlisteneintrag
-| NR_GES = 493
+| NR_GES = 492
 | NR_ST = 8
 | OT = Kreta - Die süßen Früchte des Johannisbrotbaums
 | EA = 2018-03-18
 }}
 {{Episodenlisteneintrag
-| NR_GES = 494
+| NR_GES = 493
 | NR_ST = 9
 | OT = Der Hundeflüsterer der Queen
 | EA = 2018-03-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 495
+| NR_GES = 494
 | NR_ST = 10
 | OT = Italien, eine neue Glocke für Monopoli
 | EA = 2018-04-01
 }}
 {{Episodenlisteneintrag
-| NR_GES = 496
+| NR_GES = 495
 | NR_ST = 11
 | OT = Arapaima, der Riesenfisch vom Amazonas
 | EA = 2018-05-13
 }}
 {{Episodenlisteneintrag
-| NR_GES = 497
+| NR_GES = 496
 | NR_ST = 12
 | OT = Die fliegenden Wildesel von Kasachstan
 | EA = 2018-05-27
 }}
 {{Episodenlisteneintrag
-| NR_GES = 498
+| NR_GES = 497
 | NR_ST = 13
 | OT = Geliebtes Korsika - Kampf gegen das Feuer
 | EA = 2018-06-22
 }}
 {{Episodenlisteneintrag
-| NR_GES = 499
+| NR_GES = 498
 | NR_ST = 14
 | OT = Japan - Leben am Fuß des Vulkans
 | EA = 2018-08-30
 }}
 {{Episodenlisteneintrag
-| NR_GES = 500
+| NR_GES = 499
 | NR_ST = 15
 | OT = Sucevita - Rumäniens schönste Klosterfresken
 | EA = 2018-09-08
 }}
 {{Episodenlisteneintrag
-| NR_GES = 501
+| NR_GES = 500
 | NR_ST = 16
 | OT = Moskaus berühmte Sprengstoffhunde
 | EA = 2018-09-15
 }}
 {{Episodenlisteneintrag
-| NR_GES = 502
+| NR_GES = 501
 | NR_ST = 17
 | OT = Neuseeland - Die Tiere vom Ende der Welt
 | EA = 2018-09-29
 }}
 {{Episodenlisteneintrag
-| NR_GES = 503
+| NR_GES = 502
 | NR_ST = 18
 | OT = Virunga, der Kampf für die Berggorillas
 | EA = 2018-10-06
 }}
 {{Episodenlisteneintrag
-| NR_GES = 504
+| NR_GES = 503
 | NR_ST = 19
 | OT = Gitarren und Flamenco in Granada
 | EA = 2018-10-13
 }}
 {{Episodenlisteneintrag
-| NR_GES = 505
+| NR_GES = 504
 | NR_ST = 20
 | OT = Chatuchak - Bangkoks Riesenmarkt
 | EA = 2018-10-20
 }}
 {{Episodenlisteneintrag
-| NR_GES = 506
+| NR_GES = 505
 | NR_ST = 21
 | OT = Argentinien - Der Jaguar ist zurück
 | EA = 2018-10-27
 }}
 {{Episodenlisteneintrag
-| NR_GES = 507
+| NR_GES = 506
 | NR_ST = 22
 | OT = Rooibos, der rote Tee Südafrikas
 | EA = 2018-11-03
 }}
 {{Episodenlisteneintrag
-| NR_GES = 508
+| NR_GES = 507
 | NR_ST = 23
 | OT = Ankaras gerettete Bücher - Die Müll-Bibliothek von Cankaya
 | EA = 2018-11-07
 }}
 {{Episodenlisteneintrag
-| NR_GES = 509
+| NR_GES = 508
 | NR_ST = 24
 | OT = Äthiopiens gefräßige Hochland-Affen
 | EA = 2018-11-17
 }}
 {{Episodenlisteneintrag
-| NR_GES = 510
+| NR_GES = 509
 | NR_ST = 25
 | OT = Sibirien - Im Reich des Amur-Tigers
 | EA = 2018-11-12
 }}
 {{Episodenlisteneintrag
-| NR_GES = 511
+| NR_GES = 510
 | NR_ST = 26
 | OT = Peru, das Goldhaar der Vikunjas
 | EA = 2018-12-01
 }}
 {{Episodenlisteneintrag
-| NR_GES = 512
+| NR_GES = 511
 | NR_ST = 27
 | OT = Jonathan, der Flugakrobat
 | EA = 2018-12-08
 }}
 {{Episodenlisteneintrag
-| NR_GES = 513
+| NR_GES = 512
 | NR_ST = 28
 | OT = Harris Tweed - Rückkehr einer Legende
 | EA = 2018-12-15
 }}
 {{Episodenlisteneintrag
-| NR_GES = 514
+| NR_GES = 513
 | NR_ST = 29
 | OT = Kenia, Let's Dance
 | EA = 2018-12-22
 }}
 {{Episodenlisteneintrag
-| NR_GES = 515
+| NR_GES = 514
 | NR_ST = 30
 | OT = Crémant, der feine Elsässer zum Fest
 | EA = 2018-12-31
 }}
+}}
+
+=== Staffel 21 (2019) ===
+
+{{Episodenlistentabelle|BREITE=100%
+| ZUSAMMENFASSUNG = nein
+| SORTIERBAR = nein
+| REGISSEUR = nein
+| DREHBUCH= nein
+| INHALT =
 {{Episodenlisteneintrag
-| NR_GES = 516
+| NR_GES = 515
 | NR_ST = 1
 | OT = Kushti, Indiens uralter Kampfsport
 | EA = 2019-01-05
 }}
 {{Episodenlisteneintrag
-| NR_GES = 517
+| NR_GES = 516
 | NR_ST = 2
 | OT = Georgiens himmlische Klöster
 | EA = 2019-01-19
 }}
 {{Episodenlisteneintrag
-| NR_GES = 518
+| NR_GES = 517
 | NR_ST = 3
 | OT = Mexiko - Die edlen Reiterinnen
 | EA = 2019-01-26
 }}
 {{Episodenlisteneintrag
-| NR_GES = 519
+| NR_GES = 518
 | NR_ST = 4
 | OT = Kroatien, Das Paradies der Trüffeljäger
 | EA = 2019-02-09
 }}
 {{Episodenlisteneintrag
-| NR_GES = 520
+| NR_GES = 519
 | NR_ST = 5
 | OT = Arnika - Von der Kraft einer Heilpflanze
 | EA = 2019-02-23
 }}
 {{Episodenlisteneintrag
-| NR_GES = 521
+| NR_GES = 520
 | NR_ST = 6
 | OT = Simbabwe - Leben für den Augenblick
 | EA = 2019-04-07
 }}
 {{Episodenlisteneintrag
-| NR_GES = 522
+| NR_GES = 521
 | NR_ST = 7
 | OT = Äthiopien - Heimat des Kaffees
 | EA = 2019-06-01
 }}
 {{Episodenlisteneintrag
-| NR_GES = 523
+| NR_GES = 522
 | NR_ST = 8
 | OT = Indien, ein Himmel voller bunter Drachen
 | EA = 2019-06-08
 }}
 {{Episodenlisteneintrag
-| NR_GES = 524
+| NR_GES = 523
 | NR_ST = 9
 | OT = Norwegen, die Rentierprinzessin
 | EA = 2019-07-15
 }}
 {{Episodenlisteneintrag
-| NR_GES = 525
+| NR_GES = 524
 | NR_ST = 10
 | OT = Thaimassage, die Heilkunst der Buddhisten
 | EA = 2019-08-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 526
+| NR_GES = 525
 | NR_ST = 11
 | OT = Hongkongs magisches Neonlicht
 | EA = 2019-09-07
 }}
 {{Episodenlisteneintrag
-| NR_GES = 527
+| NR_GES = 526
 | NR_ST = 12
 | OT = Tibetische Medizin - Heilkraft für die Seele
 | EA = 2019-09-29
 }}
 {{Episodenlisteneintrag
-| NR_GES = 528
+| NR_GES = 527
 | NR_ST = 13
 | OT = Sibirien, die Eisschneider von Jakutsk
 | EA = 2019-10-05
 }}
 {{Episodenlisteneintrag
-| NR_GES = 529
+| NR_GES = 528
 | NR_ST = 14
 | OT = Auf Schlangenjagd in Bangkok
 | EA = 2019-10-12
 }}
 {{Episodenlisteneintrag
-| NR_GES = 530
+| NR_GES = 529
 | NR_ST = 15
 | OT = Die blinde Primaballerina von São Paulo
 | EA = 2019-10-19
 }}
 {{Episodenlisteneintrag
-| NR_GES = 531
+| NR_GES = 530
 | NR_ST = 16
 | OT = Slowenien, Land des Honigs
 | EA = 2019-10-26
 }}
 {{Episodenlisteneintrag
-| NR_GES = 532
+| NR_GES = 531
 | NR_ST = 17
 | OT = Japan, der Meister des Zen-Gartens
 | EA = 2019-10-27
 }}
 {{Episodenlisteneintrag
-| NR_GES = 533
+| NR_GES = 532
 | NR_ST = 18
 | OT = Finnland, die rasenden Schrottkisten
 | EA = 2019-11-09
 }}
 {{Episodenlisteneintrag
-| NR_GES = 534
+| NR_GES = 533
 | NR_ST = 19
 | OT = Heilende Schwingungen der Klangschalen
 | EA = 2019-11-10
 }}
 {{Episodenlisteneintrag
-| NR_GES = 535
+| NR_GES = 534
 | NR_ST = 20
 | OT = Harpyien, die größten Greifvögel des Regenwaldes
 | EA = 2019-11-23
 }}
 {{Episodenlisteneintrag
-| NR_GES = 536
+| NR_GES = 535
 | NR_ST = 21
 | OT = Island: Von strickenden Männern und Pullovern
 | EA = 2019-12-08
 }}
 {{Episodenlisteneintrag
-| NR_GES = 537
+| NR_GES = 536
 | NR_ST = 22
 | OT = Kentucky - Die Schlacht von Sacramento
 | EA = 2019-12-14
 }}
 {{Episodenlisteneintrag
-| NR_GES = 538
+| NR_GES = 537
 | NR_ST = 23
 | OT = Die letzten Walfänger der Beringsee
 | EA = 2019-12-21
 }}
 {{Episodenlisteneintrag
-| NR_GES = 539
+| NR_GES = 538
 | NR_ST = 24
 | OT = Kaviar, das schwarze Gold Italiens
 | EA = 2019-12-22
 }}
 {{Episodenlisteneintrag
-| NR_GES = 540
+| NR_GES = 539
 | NR_ST = 25
 | OT = Esmeraldas Edelkakao
 | EA = 2019-12-29
 }}
+}}
+
+=== Staffel 22 (2020) ===
+
+{{Episodenlistentabelle|BREITE=100%
+| ZUSAMMENFASSUNG = nein
+| SORTIERBAR = nein
+| REGISSEUR = nein
+| DREHBUCH= nein
+| INHALT =
 {{Episodenlisteneintrag
-| NR_GES = 541
+| NR_GES = 540
 | NR_ST = 1
 | OT = Die Vespa-Rebellen in Indonesien
 | EA = 2020-01-05
 }}
 {{Episodenlisteneintrag
-| NR_GES = 542
+| NR_GES = 541
 | NR_ST = 2
 | OT = Costa Rica, das größte Hundeheim der Welt
 | EA = 2020-01-12
 }}
 {{Episodenlisteneintrag
-| NR_GES = 543
+| NR_GES = 542
 | NR_ST = 3
 | OT = Die Herren des Lavendels
 | EA = 2020-01-26
 }}
 {{Episodenlisteneintrag
-| NR_GES = 544
+| NR_GES = 543
 | NR_ST = 4
 | OT = Die Zedernuss, die Königin der Taiga
 | EA = 2020-02-09
 }}
 {{Episodenlisteneintrag
-| NR_GES = 545
+| NR_GES = 544
 | NR_ST = 5
 | OT = Die Ostsee, Sehnsuchtsort der Kraniche
 | EA = 2020-02-16
 }}
 {{Episodenlisteneintrag
-| NR_GES = 546
+| NR_GES = 545
 | NR_ST = 6
 | OT = Kapverden: Zwei Hunde als Schildkrötenretter
 | EA = 2020-02-23
 }}
 {{Episodenlisteneintrag
-| NR_GES = 547
+| NR_GES = 546
 | NR_ST = 7
 | OT = Die Schwestern der Erde
 | EA = 2020-03-01
 }}
 {{Episodenlisteneintrag
-| NR_GES = 548
+| NR_GES = 547
 | NR_ST = 8
 | OT = Argentinien, von wilden Pferden und sanfter Hand
 | EA = 2020-03-08
 }}
 {{Episodenlisteneintrag
-| NR_GES = 549
+| NR_GES = 548
 | NR_ST = 9
 | OT = Indiens Kurkuma - Heilsam und heilig
 | EA = 2020-06-14
 }}
 {{Episodenlisteneintrag
-| NR_GES = 550
+| NR_GES = 549
 | NR_ST = 10
 | OT = Huskys, am Start!
 | EA = 2020-06-28
 }}
 {{Episodenlisteneintrag
-| NR_GES = 551
+| NR_GES = 550
 | NR_ST = 11
 | OT = Schignano, ein uralter Karneval in Italiens Bergen
 | EA = 2020-07-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 552
+| NR_GES = 551
 | NR_ST = 12
 | OT = Ring frei für Sambias Boxerinnen!
 | EA = 2020-08-16
 }}
 {{Episodenlisteneintrag
-| NR_GES = 553
+| NR_GES = 552
 | NR_ST = 13
 | OT = Singvögel - Die goldenen Stimmen von Singapur
 | EA = 2020-09-13
 }}
 {{Episodenlisteneintrag
-| NR_GES = 554
+| NR_GES = 553
 | NR_ST = 14
 | OT = Italiens Kapern - Der Geschmack des Südens
 | EA = 2020-10-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 555
+| NR_GES = 554
 | NR_ST = 15
 | OT = Der letzte Rheinfischer
 | EA = 2020-11-22
 }}
 {{Episodenlisteneintrag
-| NR_GES = 556
+| NR_GES = 555
 | NR_ST = 16
 | OT = Mit Volldampf durch Kärnten
 | EA = 2020-11-29
 }}
 {{Episodenlisteneintrag
-| NR_GES = 557
+| NR_GES = 556
 | NR_ST = 17
 | OT = Das Elsass, Heimat der Störche
 | EA = 2020-12-06
 }}
 {{Episodenlisteneintrag
-| NR_GES = 558
+| NR_GES = 557
 | NR_ST = 18
 | OT = Lichterglanz im Norden - Winter in Stockholm und den Schären
 | EA = 2020-12-13
 }}
 {{Episodenlisteneintrag
-| NR_GES = 559
+| NR_GES = 558
 | NR_ST = 19
 | OT = Chartres, die Farben des Himmels
 | EA = 2020-12-20
 }}
+}}
+
+=== Staffel 23 (2021) ===
+
+{{Episodenlistentabelle|BREITE=100%
+| ZUSAMMENFASSUNG = nein
+| SORTIERBAR = nein
+| REGISSEUR = nein
+| DREHBUCH= nein
+| INHALT =
 {{Episodenlisteneintrag
-| NR_GES = 560
+| NR_GES = 559
 | NR_ST = 1
 | OT = Bretagne, die raue Schönheit
 | EA = 2021-01-03
 }}
 {{Episodenlisteneintrag
-| NR_GES = 561
+| NR_GES = 560
 | NR_ST = 2
 | OT = Pelota, die baskische Leidenschaft
 | EA = 2021-01-10
 }}
 {{Episodenlisteneintrag
-| NR_GES = 562
+| NR_GES = 561
 | NR_ST = 3
 | OT = Estland und das kleine Königreich der Seto
 | EA = 2021-01-31
 }}
 {{Episodenlisteneintrag
-| NR_GES = 563
+| NR_GES = 562
 | NR_ST = 4
 | OT = Puerto Rico: Ein Krankenhaus für Seekühe
 | EA = 2021-02-07
 }}
 {{Episodenlisteneintrag
-| NR_GES = 564
+| NR_GES = 563
 | NR_ST = 5
 | OT = Dem Wolf auf der Spur - Schnüffeln für den Artenschutz
 | EA = 2021-02-14
 }}
 {{Episodenlisteneintrag
-| NR_GES = 565
+| NR_GES = 564
 | NR_ST = 6
 | OT = Die Eifel und ihre Eulen-Hüter
 | EA = 2021-02-21
 }}
 {{Episodenlisteneintrag
-| NR_GES = 566
+| NR_GES = 565
 | NR_ST = 7
 | OT = Percheron, das Kraftpaket mit einer Pferdestärke
 | EA = 2021-02-28
 }}
 {{Episodenlisteneintrag
-| NR_GES = 567
+| NR_GES = 566
 | NR_ST = 8
 | OT = Kalkstein - Das weiße Gold von Brac
 | EA = 2021-03-07
 }}
 {{Episodenlisteneintrag
-| NR_GES = 568
+| NR_GES = 567
 | NR_ST = 9
 | OT = Hamburg - Welthafen mit schwimmender Kirche
 | EA = 2021-03-14
 }}
 {{Episodenlisteneintrag
-| NR_GES = 569
+| NR_GES = 568
 | NR_ST = 10
 | OT = Tradition am Steilhang - Die Schweiz und ihre Wildheuer
 | EA = 2021-03-21
 }}
 {{Episodenlisteneintrag
-| NR_GES = 570
+| NR_GES = 569
 | NR_ST = 11
 | OT = Biber, die Baumeister an der Elbe
 | EA = 2021-03-28
 }}
 {{Episodenlisteneintrag
-| NR_GES = 571
+| NR_GES = 570
 | NR_ST = 12
 | OT = Pelikane, die Könige des Donaudeltas
 | EA = 2021-04-04
 }}
 {{Episodenlisteneintrag
-| NR_GES = 572
+| NR_GES = 571
 | NR_ST = 13
 | OT = Frankreichs Winzer - Tradition trifft Passion
 | EA = 2021-04-18
 }}
 {{Episodenlisteneintrag
-| NR_GES = 573
+| NR_GES = 572
 | NR_ST = 14
 | OT = Notruf Nordseeküste - Die Robben-Retter
 | EA = 2021-04-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 574
+| NR_GES = 573
 | NR_ST = 15
 | OT = Australien - Wenn Kunst auf Silos trifft
 | EA = 2021-05-09
 }}
 {{Episodenlisteneintrag
-| NR_GES = 575
+| NR_GES = 574
 | NR_ST = 16
 | OT = Der Wüstenzug - die Lebensader Mauretaniens
 | EA = 2021-08-28
 }}
 {{Episodenlisteneintrag
-| NR_GES = 576
+| NR_GES = 575
 | NR_ST = 17
 | OT = Escobars Erbe - Kolumbiens Kokain-Hippos
 | EA = 2021-09-04
 }}
 {{Episodenlisteneintrag
-| NR_GES = 577
+| NR_GES = 576
 | NR_ST = 18
 | OT = Die heilenden Delfine von Curacao
 | EA = 2021-09-11
 }}
 {{Episodenlisteneintrag
-| NR_GES = 578
+| NR_GES = 577
 | NR_ST = 19
 | OT = Der Traum vom Gold - Tirols Überfliegerinnen
 | EA = 2021-09-11
 }}
 {{Episodenlisteneintrag
-| NR_GES = 579
+| NR_GES = 578
 | NR_ST = 20
 | OT = Schweiz: Gletscherflieger - Faszination in Weiß
 | EA = 2021-09-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 580
+| NR_GES = 579
 | NR_ST = 21
 | OT = Koh Panyee - Thailands fußballverrückte Insel
-| EA = 2019-10-02
+| EA = 2021-10-02
 }}
 {{Episodenlisteneintrag
-| NR_GES = 581
+| NR_GES = 580
 | NR_ST = 22
 | OT = Stromboli - Zwischen Feuer und Meer
 | EA = 2021-10-09
 }}
 {{Episodenlisteneintrag
-| NR_GES = 582
+| NR_GES = 581
 | NR_ST = 23
 | OT = Italien - Die Igel-Retter aus dem Piemont
 | EA = 2021-10-16
 }}
 {{Episodenlisteneintrag
-| NR_GES = 583
+| NR_GES = 582
 | NR_ST = 24
 | OT = Dolomiten: Die Bergführer von San Martino
 | EA = 2021-10-30
 }}
+}}
+
+=== Staffel 24 (2022) ===
+
+{{Episodenlistentabelle|BREITE=100%
+| ZUSAMMENFASSUNG = nein
+| SORTIERBAR = nein
+| REGISSEUR = nein
+| DREHBUCH= nein
+| INHALT =
 {{Episodenlisteneintrag
-| NR_GES = 584
+| NR_GES = 583
 | NR_ST = 1
 | OT = Die Lowrider-Ladies von L.A.
 | EA = 2022-01-08
 }}
 {{Episodenlisteneintrag
-| NR_GES = 585
+| NR_GES = 584
 | NR_ST = 2
 | OT = Tapire - Die Dschungel-Gärtner
 | EA = 2022-01-15
 }}
 {{Episodenlisteneintrag
-| NR_GES = 586
+| NR_GES = 585
 | NR_ST = 3
 | OT = Faszination Elbrus - Der Ritt zum Gipfel
 | EA = 2022-01-22
 }}
 {{Episodenlisteneintrag
-| NR_GES = 587
+| NR_GES = 586
 | NR_ST = 4
 | OT = Namibias Geparden - Hoffnung für die Raubkatzen
 | EA = 2022-01-29
 }}
 {{Episodenlisteneintrag
-| NR_GES = 588
+| NR_GES = 587
 | NR_ST = 5
 | OT = Haute Couture - Federn, Falten, Seidenblumen
 | EA = 2022-02-05
 }}
 {{Episodenlisteneintrag
-| NR_GES = 589
+| NR_GES = 588
 | NR_ST = 6
 | OT = Die Odyssee der Mönchsrobbe
 | EA = 2022-02-19
 }}
 {{Episodenlisteneintrag
-| NR_GES = 590
+| NR_GES = 589
 | NR_ST = 7
 | OT = Elsass - Land der Orgeln
 | EA = 2022-02-26
 }}
 {{Episodenlisteneintrag
-| NR_GES = 591
+| NR_GES = 590
 | NR_ST = 8
 | OT = Wilde Waterkant - Nordfriesland und seine Gänse
 | EA = 2022-03-12
 }}
 {{Episodenlisteneintrag
-| NR_GES = 592
+| NR_GES = 591
 | NR_ST = 9
 | OT = Die Puppen tanzen! - Litauens rollendes Theater
 | EA = 2022-03-26
 }}
 {{Episodenlisteneintrag
-| NR_GES = 593
+| NR_GES = 592
 | NR_ST = 10
 | OT = Südkorea - die Nonne der Tempelküche
 | EA = 2022-05-07
 }}
 {{Episodenlisteneintrag
-| NR_GES = 594
+| NR_GES = 593
 | NR_ST = 11
 | OT = Schwerelos im Windkanal
 | EA = 2022-05-14
 }}
 {{Episodenlisteneintrag
-| NR_GES = 595
+| NR_GES = 594
 | NR_ST = 12
 | OT = Frankreichs Gärten - Die kleinen Schätze
 | EA = 2022-05-21
 }}
 {{Episodenlisteneintrag
-| NR_GES = 596
+| NR_GES = 595
 | NR_ST = 13
 | OT = Europas Urwälder - Ein Schatz der Natur
 | EA = 2022-06-04
 }}
 {{Episodenlisteneintrag
-| NR_GES = 597
+| NR_GES = 596
 | NR_ST = 14
 | OT = Panzer, Wölfe, Rothirsche - Bayerns wilder Übungsplatz
 | EA = 2022-06-11
 }}
 {{Episodenlisteneintrag
-| NR_GES = 598
+| NR_GES = 597
 | NR_ST = 15
 | OT = Kastiliens Kämpfer - Ritterspiele an der Burg Belmonte
 | EA = 2022-06-18
 }}
 {{Episodenlisteneintrag
-| NR_GES = 599
+| NR_GES = 598
 | NR_ST = 16
 | OT = Nopal, der Alleskönner aus Mexiko
 | EA = 2022-06-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 600
-| NR_ST = 2
-| OT = Nopal - Das grüne Gold Mexikos
-| EA = 2023-01-16
-}}
-{{Episodenlisteneintrag
-| NR_GES = 601
+| NR_GES = 599
 | NR_ST = 17
 | OT = Tempo und Leidenschaft - Argentiniens Polo-Spielerinnen
 | EA = 2022-07-02
 }}
 {{Episodenlisteneintrag
-| NR_GES = 602
+| NR_GES = 600
 | NR_ST = 18
 | OT = Kourou: Palmen, Raketen, Gefängnisinseln
 | EA = 2022-07-09
 }}
 {{Episodenlisteneintrag
-| NR_GES = 603
+| NR_GES = 601
 | NR_ST = 19
 | OT = Las Fallas - Valencias feurige Fiesta
 | EA = 2022-07-16
 }}
 {{Episodenlisteneintrag
-| NR_GES = 604
+| NR_GES = 602
 | NR_ST = 20
 | OT = Das Gerichtsschiff vom Amazonas
 | EA = 2022-08-06
 }}
 {{Episodenlisteneintrag
-| NR_GES = 605
+| NR_GES = 603
 | NR_ST = 21
 | OT = Kampf den Scharlatanen
 | EA = 2022-09-01
 }}
 {{Episodenlisteneintrag
-| NR_GES = 606
-| NR_ST = 4
-| OT = Indien - Kampf den Scharlatanen
-| EA = 2023-01-23
-}}
-{{Episodenlisteneintrag
-| NR_GES = 607
+| NR_GES = 604
 | NR_ST = 22
 | OT = Ahornsirup - Kanadas süßer Schatz
 | EA = 2022-09-17
 }}
 {{Episodenlisteneintrag
-| NR_GES = 608
+| NR_GES = 605
 | NR_ST = 23
 | OT = Estland - Krötenretter im Einsatz
 | EA = 2022-10-01
 }}
 {{Episodenlisteneintrag
-| NR_GES = 609
+| NR_GES = 606
 | NR_ST = 24
 | OT = Sardiniens wertvolle Muschelseide
 | EA = 2022-10-29
 }}
 {{Episodenlisteneintrag
-| NR_GES = 610
+| NR_GES = 607
 | NR_ST = 25
 | OT = Cordoba, die Stadt der Patios
 | EA = 2022-11-05
 }}
 {{Episodenlisteneintrag
-| NR_GES = 611
+| NR_GES = 608
 | NR_ST = 26
 | OT = Marquesas-Inseln, das Comeback der Tattoos
 | EA = 2022-11-19
 }}
 {{Episodenlisteneintrag
-| NR_GES = 612
+| NR_GES = 609
 | NR_ST = 27
 | OT = Die Schweizergarde - Ein Leben für den Papst
 | EA = 2022-12-03
 }}
 {{Episodenlisteneintrag
-| NR_GES = 613
+| NR_GES = 610
 | NR_ST = 28
 | OT = Island, die wertvollsten Daunen der Welt
 | EA = 2022-12-10
 }}
 {{Episodenlisteneintrag
-| NR_GES = 614
+| NR_GES = 611
 | NR_ST = 29
 | OT = Zuflucht in den Anden - Kolumbiens indigene Transfrauen
 | EA = 2022-12-17
 }}
 {{Episodenlisteneintrag
-| NR_GES = 615
+| NR_GES = 612
 | NR_ST = 30
 | OT = Kristall - Die magische Kunst aus den Vogesen
 | EA = 2022-12-24
 }}
+}}
+
+=== Staffel 25 (2023) ===
+
+{{Episodenlistentabelle|BREITE=100%
+| ZUSAMMENFASSUNG = nein
+| SORTIERBAR = nein
+| REGISSEUR = nein
+| DREHBUCH= nein
+| INHALT =
 {{Episodenlisteneintrag
-| NR_GES = 616
+| NR_GES = 613
 | NR_ST = 1
 | OT = Montenegro - Der Eselretter
 | EA = 2023-01-07
 }}
 {{Episodenlisteneintrag
-| NR_GES = 617
-| NR_ST = 3
+| NR_GES = 614
+| NR_ST = 2
 | OT = Der Bergkristall - Schatz in den Schweizer Alpen
 | EA = 2023-01-21
 }}
 {{Episodenlisteneintrag
-| NR_GES = 618
-| NR_ST = 5
+| NR_GES = 615
+| NR_ST = 3
 | OT = Maine - Hummer oder Wale?
 | EA = 2023-01-28
 }}
 {{Episodenlisteneintrag
-| NR_GES = 619
-| NR_ST = 6
+| NR_GES = 616
+| NR_ST = 4
 | OT = Singvögel - die goldene Stimmen von Singapur
 | EA = 2023-02-04
 }}
 {{Episodenlisteneintrag
-| NR_GES = 620
-| NR_ST = 7
+| NR_GES = 617
+| NR_ST = 5
 | OT = Namibia - von Sandsurfern und Skatern
 | EA = 2023-02-11
 }}
 {{Episodenlisteneintrag
-| NR_GES = 621
-| NR_ST = None
+| NR_GES = 618
+| NR_ST = 6
 | OT = Albanien - Die Stimmen der Schäfer
 | EA = 2023-02-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 622
-| NR_ST = None
+| NR_GES = 619
+| NR_ST = 7
 | OT = Laos - Futterblöcke und Büffel-Leasing
 | EA = 2023-03-04
 }}
 {{Episodenlisteneintrag
-| NR_GES = 623
-| NR_ST = None
+| NR_GES = 620
+| NR_ST = 8
 | OT = Freiheit auf Pferderücken - Der lange Weg der Nez Perce
 | EA = 2023-03-11
 }}
 {{Episodenlisteneintrag
-| NR_GES = 624
-| NR_ST = None
+| NR_GES = 621
+| NR_ST = 9
 | OT = Peloponnes - Rückkehr zur Erde
 | EA = 2023-03-18
 }}
 {{Episodenlisteneintrag
-| NR_GES = 625
-| NR_ST = None
+| NR_GES = 622
+| NR_ST = 10
 | OT = Handgemacht in Laos - Rares aus Rattan
 | EA = 2023-03-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 626
-| NR_ST = None
+| NR_GES = 623
+| NR_ST = 11
 | OT = Leben mit dem Tod - Ahnenkult auf Sulawesi
 | EA = 2023-05-06
 }}
 {{Episodenlisteneintrag
-| NR_GES = 627
-| NR_ST = None
+| NR_GES = 624
+| NR_ST = 12
 | OT = Die Waschbären von Berlin
 | EA = 2023-05-20
 }}

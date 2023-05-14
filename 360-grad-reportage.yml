@@ -4256,6 +4256,7 @@ episodes:
   fernsehserien_episode_id: 1001793
   youtube_video_id: qIrnygvh_I8
 - title: Die metallenen Gondeln von Tschiatura
+  alias: Die schwebenden Särge von Georgien
   air_date: '2016-11-26'
   duration: 55
   thetvdb_season_episode: S18E22
@@ -4263,10 +4264,6 @@ episodes:
   fernsehserien_episode_no: 451
   fernsehserien_episode_slug: 451-die-metallenen-gondeln-von-tschiatura-1002246
   fernsehserien_episode_id: 1002246
-  youtube_video_id: -2OmrWF4YiQ
-- title: Die schwebenden Särge von Georgien
-  air_date: '2018-03-18'
-  thetvdb_episode_id: 7890795
   youtube_video_id: -2OmrWF4YiQ
 - title: Die Honigsammler von Yunnan
   air_date: '2016-12-03'
@@ -5524,7 +5521,7 @@ episodes:
   imdb_episode_id: tt16590496
   youtube_video_id: jEZT_6_qloo
 - title: Koh Panyee - Thailands fußballverrückte Insel
-  air_date: '2019-10-02'
+  air_date: '2021-10-02'
   duration: 32
   thetvdb_season_episode: S23E21
   thetvdb_episode_id: 8692437
@@ -5732,12 +5729,6 @@ episodes:
   fernsehserien_episode_id: 1564718
   imdb_episode_id: tt21203634
   youtube_video_id: MkXx_8rac_M
-- title: Nopal - Das grüne Gold Mexikos
-  air_date: '2023-01-16'
-  duration: 32
-  episode: 2
-  thetvdb_season_episode: S25E02
-  thetvdb_episode_id: 9524037
 - title: Tempo und Leidenschaft - Argentiniens Polo-Spielerinnen
   air_date: '2022-07-02'
   duration: 32
@@ -5788,14 +5779,6 @@ episodes:
   fernsehserien_episode_no: 599
   fernsehserien_episode_slug: 599-der-science-van-on-tour-indien-kampf-den-scharlatanen-1581860
   fernsehserien_episode_id: 1581860
-  youtube_video_id: -Clpkb3JdkI
-- title: Indien - Kampf den Scharlatanen
-  air_date: '2023-01-23'
-  duration: 51
-  episode: 4
-  thetvdb_season_episode: S25E04
-  thetvdb_episode_id: 9524039
-  imdb_episode_id: tt22085934
   youtube_video_id: -Clpkb3JdkI
 - title: Ahornsirup - Kanadas süßer Schatz
   air_date: '2022-09-17'
