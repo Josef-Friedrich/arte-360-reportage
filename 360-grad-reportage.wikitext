@@ -498,7 +498,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 79
 | NR_ST = 3
-| OT = Überleben in der Wüste: Baumeister der Wüste<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/79-ueberleben-in-der-wueste-baumeister-der-wueste-339358</ref><ref>https://thetvdb.com/series/272599-show/episodes/4641937</ref>
+| OT = Überleben in der Wüste: Baumeister der Wüste<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/79-ueberleben-in-der-wueste-baumeister-der-wueste-339358</ref><ref>https://thetvdb.com/series/272599-show/episodes/4641937</ref><ref>https://www.youtube.com/watch?v=r6iPQL1WZ_I</ref>
 | EA = 2001-01-04
 }}
 {{Episodenlisteneintrag
@@ -528,7 +528,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 84
 | NR_ST = 8
-| OT = Die Adern von Berlin - Der Wasserkreislauf einer Metropole<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/84-die-adern-von-berlin-der-wasserkreislauf-einer-metropole-339366</ref><ref>https://thetvdb.com/series/272599-show/episodes/4641942</ref>
+| OT = Die Adern von Berlin - Der Wasserkreislauf einer Metropole<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/84-die-adern-von-berlin-der-wasserkreislauf-einer-metropole-339366</ref><ref>https://thetvdb.com/series/272599-show/episodes/4641942</ref><ref>https://www.youtube.com/watch?v=rh-tBQxi6Ro</ref>
 | EA = 2001-03-08
 }}
 {{Episodenlisteneintrag
@@ -546,7 +546,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 87
 | NR_ST = 11
-| OT = Die letzten Nixen - die Taucherinnen von Cheju<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/87-die-letzten-nixen-die-taucherinnen-von-cheju-339401</ref><ref>https://thetvdb.com/series/272599-show/episodes/4641945</ref>
+| OT = Die letzten Nixen - die Taucherinnen von Cheju<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/87-die-letzten-nixen-die-taucherinnen-von-cheju-339401</ref><ref>https://thetvdb.com/series/272599-show/episodes/4641945</ref><ref>https://www.youtube.com/watch?v=a_MPCOQDmZE</ref>
 | EA = 2001-04-11
 }}
 {{Episodenlisteneintrag
@@ -700,7 +700,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 111
 | NR_ST = 7
-| OT = Die Herren der Adler - Kasachische Jäger und ihre Greifvögel<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/111-die-herren-der-adler-kasachische-jaeger-und-ihre-greifvoegel-339432</ref><ref>https://thetvdb.com/series/272599-show/episodes/4641969</ref>
+| OT = Die Herren der Adler - Kasachische Jäger und ihre Greifvögel<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/111-die-herren-der-adler-kasachische-jaeger-und-ihre-greifvoegel-339432</ref><ref>https://thetvdb.com/series/272599-show/episodes/4641969</ref><ref>https://www.youtube.com/watch?v=HrEYNIQ3dUo</ref>
 | EA = 2002-03-06
 }}
 {{Episodenlisteneintrag
@@ -718,7 +718,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 114
 | NR_ST = 10
-| OT = Ein göttlicher Zug - das rollende Gotteshaus in Russland<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/114-ein-goettlicher-zug-das-rollende-gotteshaus-in-russland-339436</ref><ref>https://thetvdb.com/series/272599-show/episodes/4641972</ref>
+| OT = Ein göttlicher Zug - das rollende Gotteshaus in Russland<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/114-ein-goettlicher-zug-das-rollende-gotteshaus-in-russland-339436</ref><ref>https://thetvdb.com/series/272599-show/episodes/4641972</ref><ref>https://www.youtube.com/watch?v=UA8kICaAY_Q</ref>
 | EA = 2002-04-02
 }}
 {{Episodenlisteneintrag
@@ -730,7 +730,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 116
 | NR_ST = 12
-| OT = Ticket in ein neues Leben - Der Lifeline Express in Indien<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/116-ticket-in-ein-neues-leben-der-lifeline-express-in-indien-339439</ref><ref>https://thetvdb.com/series/272599-show/episodes/4641974</ref>
+| OT = Ticket in ein neues Leben - Der Lifeline Express in Indien<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/116-ticket-in-ein-neues-leben-der-lifeline-express-in-indien-339439</ref><ref>https://thetvdb.com/series/272599-show/episodes/4641974</ref><ref>https://www.youtube.com/watch?v=pi9fUEg6QJs</ref>
 | EA = 2002-05-06
 }}
 {{Episodenlisteneintrag
