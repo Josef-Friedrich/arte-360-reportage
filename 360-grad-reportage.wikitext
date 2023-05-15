@@ -178,13 +178,13 @@
 {{Episodenlisteneintrag
 | NR_GES = 29
 | NR_ST = 29
-| OT = Die Suche nach dem Glück: Die Meister des Glücks<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/29-die-suche-nach-dem-glueck-die-meister-des-gluecks-339142</ref><ref>https://thetvdb.com/series/272599-show/episodes/4824535</ref>
+| OT = Die Suche nach dem Glück: Die Meister des Glücks<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/29-die-suche-nach-dem-glueck-die-meister-des-gluecks-339142</ref><ref>https://thetvdb.com/series/272599-show/episodes/4824535</ref><ref>https://www.youtube.com/watch?v=1U3Bl34Iu3A</ref>
 | EA = 1999-10-11
 }}
 {{Episodenlisteneintrag
 | NR_GES = 30
 | NR_ST = 30
-| OT = Die Suche nach dem Glück: Die Macht des Lachens<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/30-die-suche-nach-dem-glueck-die-macht-des-lachens-339143</ref><ref>https://thetvdb.com/series/272599-show/episodes/4824536</ref>
+| OT = Die Suche nach dem Glück: Die Macht des Lachens<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/30-die-suche-nach-dem-glueck-die-macht-des-lachens-339143</ref><ref>https://thetvdb.com/series/272599-show/episodes/4824536</ref><ref>https://www.youtube.com/watch?v=TCOpr5a6tAY</ref>
 | EA = 1999-10-12
 }}
 {{Episodenlisteneintrag
@@ -214,7 +214,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 35
 | NR_ST = 35
-| OT = Universum des Lichts: Die Seele des Lichts<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/35-universum-des-lichts-die-seele-des-lichts-339147</ref><ref>https://thetvdb.com/series/272599-show/episodes/4824542</ref>
+| OT = Universum des Lichts: Die Seele des Lichts<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/35-universum-des-lichts-die-seele-des-lichts-339147</ref><ref>https://thetvdb.com/series/272599-show/episodes/4824542</ref><ref>https://www.youtube.com/watch?v=gFoyqUu_hAU</ref>
 | EA = 1999-11-03
 }}
 {{Episodenlisteneintrag
@@ -356,7 +356,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 57
 | NR_ST = 17
-| OT = Dem Täter auf der Spur: Die Hightech-Polizei<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/57-dem-taeter-auf-der-spur-die-hightech-polizei-339170</ref><ref>https://thetvdb.com/series/272599-show/episodes/4641929</ref>
+| OT = Dem Täter auf der Spur: Die Hightech-Polizei<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/57-dem-taeter-auf-der-spur-die-hightech-polizei-339170</ref><ref>https://thetvdb.com/series/272599-show/episodes/4641929</ref><ref>https://www.youtube.com/watch?v=OeQIgSeBN5k</ref>
 | EA = 2000-06-05
 }}
 {{Episodenlisteneintrag
@@ -410,7 +410,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 66
 | NR_ST = 26
-| OT = Die Geheimnisse des Waldes: Der letzte Märchenwald<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/66-die-geheimnisse-des-waldes-der-letzte-maerchenwald-339339</ref><ref>https://thetvdb.com/series/272599-show/episodes/4824562</ref>
+| OT = Die Geheimnisse des Waldes: Der letzte Märchenwald<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/66-die-geheimnisse-des-waldes-der-letzte-maerchenwald-339339</ref><ref>https://thetvdb.com/series/272599-show/episodes/4824562</ref><ref>https://www.youtube.com/watch?v=vDFuRMVhqKA</ref>
 | EA = 2000-10-03
 }}
 {{Episodenlisteneintrag
@@ -2192,7 +2192,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 343
 | NR_ST = 10
-| OT = Esmeraldas Edelkakao<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/341-esmeraldas-edelkakao-506701</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642571</ref>
+| OT = Esmeraldas Edelkakao<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/341-esmeraldas-edelkakao-506701</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642571</ref><ref>https://www.youtube.com/watch?v=IMVYBpL-z4E</ref>
 | EA = 2012-06-09
 }}
 {{Episodenlisteneintrag
@@ -3608,7 +3608,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 564
 | NR_ST = 6
-| OT = Die Eifel und ihre Eulen-Hüter<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/560-die-eifel-und-ihre-eulen-hueter-1443627</ref><ref>https://thetvdb.com/series/272599-show/episodes/8230361</ref><ref>https://www.imdb.com/title/tt21073780</ref>
+| OT = Die Eifel und ihre Eulen-Hüter<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/560-die-eifel-und-ihre-eulen-hueter-1443627</ref><ref>https://thetvdb.com/series/272599-show/episodes/8230361</ref><ref>https://www.imdb.com/title/tt21073780</ref><ref>https://www.youtube.com/watch?v=DGL9tZwu9z4</ref>
 | EA = 2021-02-21
 }}
 {{Episodenlisteneintrag
