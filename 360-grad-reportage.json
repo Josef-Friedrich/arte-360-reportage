@@ -7238,6 +7238,11 @@
   "dvds": [
     {
       "title": "Eine kulinarische Reise um die Welt",
+      "ean": "4006680065199",
+      "release_date": "2012-12-06",
+      "production_date": "2012-01-01",
+      "duration": 513,
+      "mediamops": "M0B009CW2HEO",
       "asin": "B009CW2HEO",
       "dvd_count": 3,
       "episodes": [
@@ -7258,6 +7263,11 @@
     {
       "title": "Russland - Land der Extreme",
       "asin": "B005WPNWGW",
+      "ean": "4006680063485",
+      "release_date": "2011-12-01",
+      "production_date": "2011-01-01",
+      "duration": 517,
+      "mediamops": "M0B005WPNWGW",
       "dvd_count": 4,
       "episodes": [
         "Eremitage - Palast der Katzen",
@@ -7290,6 +7300,11 @@
     {
       "title": "Die erstaunliche Welt der Tiere",
       "asin": "B009CW2H6C",
+      "ean": "4006680065182",
+      "release_date": "2012-12-06",
+      "production_date": "2012-01-01",
+      "duration": 687,
+      "mediamops": "M0B009CW2H6C",
       "dvd_count": 4,
       "episodes": [
         "Weltmeister auf vier Pfoten",
@@ -7312,7 +7327,12 @@
     },
     {
       "title": "Die Welt der Pferde",
+      "ean": "4006680079080",
       "asin": "B01E0NDKEA",
+      "release_date": "2016-07-07",
+      "production_date": "2014-01-01",
+      "duration": 310,
+      "mediamops": "M0B01E0NDKEA",
       "dvd_count": 2,
       "episodes": [
         "Die letzten Cowboys der Toskana",
@@ -7326,6 +7346,11 @@
     {
       "title": "Legendäre Eisenbahnstrecken",
       "asin": "B009CW2HVC",
+      "ean": "4006680063423",
+      "release_date": "2012-12-06",
+      "production_date": "2000-01-01",
+      "duration": 303,
+      "mediamops": "M0B009CW2HVC",
       "dvd_count": 2,
       "episodes": [
         "Die Teebahn von Darjeeling",
@@ -7340,6 +7365,11 @@
     {
       "title": "Leben an der Küste",
       "asin": "B007BZ07FU",
+      "ean": "4006680063256",
+      "release_date": "2012-05-01",
+      "production_date": "2011-01-01",
+      "duration": 391,
+      "mediamops": "M0B007BZ07FU",
       "dvd_count": 3,
       "episodes": [
         "Unterwegs mit der Irish Coast Guard",
@@ -7357,6 +7387,11 @@
       "title": "Eine Seereise durch den Norden Europas",
       "asin": "B007BZ06NS",
       "dvd_count": 2,
+      "ean": "4006680063263",
+      "release_date": "2012-05-01",
+      "production_date": "2011-01-01",
+      "duration": 260,
+      "mediamops": "M0B007BZ06NS",
       "episodes": [
         "Das Postschiff zum Ende der Welt",
         "Die Narzisseninsel vor Cornwall",
@@ -7369,6 +7404,11 @@
     {
       "title": "Eine Reise durch Mexiko und die Karibik",
       "asin": "B01FL88CAU",
+      "ean": "4006680082882",
+      "release_date": "2016-07-07",
+      "production_date": "2015-01-01",
+      "duration": 350,
+      "mediamops": "M0B01FL88CAU",
       "dvd_count": 2,
       "episodes": [
         "Die Kämpferinnen von Mexiko",
@@ -7384,6 +7424,12 @@
     {
       "title": "Eine Reise durch Nordamerika",
       "asin": "B005WPNWGC",
+      "dvd_count": 4,
+      "ean": "4006680063492",
+      "release_date": "2011-12-01",
+      "production_date": "2011-01-01",
+      "duration": 517,
+      "mediamops": "M0B005WPNWGC",
       "episodes": [
         "Alligatorjagd in Florida",
         "Im Land der schwarzen Witwen",
@@ -7402,6 +7448,10 @@
     {
       "title": "Einzigartige Kulturen",
       "asin": "B01E0NDKCW",
+      "ean": "4006680079066",
+      "release_date": "2016-09-01",
+      "duration": 416,
+      "mediamops": "M0B01E0NDKCW",
       "episodes": [
         "Die Kichwa-Krieger und das Öl",
         "Auf den Spuren der Wikinger",
@@ -7449,7 +7499,12 @@
     },
     {
       "title": "Hilfe für die Tierwelt",
+      "dvd_count": 2,
       "asin": "B01E0NDKB8",
+      "ean": 4006680079097,
+      "release_date": "2016-10-20",
+      "duration": 420,
+      "mediamops": "M0B01E0NDKB8",
       "episodes": [
         "Boliviens junge Wilde",
         "Hamburg, Stadt der Schwäne",
@@ -7464,6 +7519,11 @@
     {
       "title": "Städte und ihre Geheimnisse",
       "asin": "B009CW2HQM",
+      "ean": "4006680063430",
+      "release_date": "2012-12-06",
+      "production_date": "2012-01-01",
+      "duration": 341,
+      "mediamops": "M0B009CW2HQM",
       "episodes": [
         "New York - Die kleinste Oper der Welt",
         "Rio - vom Strich auf den Laufsteg",
@@ -7474,6 +7534,162 @@
         "Johannesburg - Eine Stadt macht dicht",
         "Taipeh 101 - Der Himmel über Taiwan"
       ]
+    },
+    {
+      "title": "Eine Expedition durch Südamerika",
+      "dvd_count": 4,
+      "asin": "B009CW2HQMB008IAQPFI",
+      "ean": "4006680065175",
+      "release_date": "2012-10-04",
+      "production_date": "2011-01-01",
+      "duration": 682,
+      "mediamops": "M0B008IAQPFI",
+      "episodes": [
+        "Stilikone Panamahut",
+        "Kolumbien - Ein Riesenrad auf Reisen",
+        "Die Rasenden Engel der Línea",
+        "Guano, Schatzinsel und Vogeldreck",
+        "Peru - Delfine in Gefahr",
+        "Das Salz der Inka",
+        "Das Dschungel-Orchester",
+        "Chile - Segen und Fluch einer Kupfermin",
+        "Das schwimmende Krankenhaus vom Amazonas",
+        "Brasilien - Büffel auf Streife",
+        "In den Smaragdbergen von Bahia",
+        "Die Köchin von Bahia",
+        "Paraguays neue Häuser",
+        "Rio de la Plata - SOS am Silberfluss",
+        "Die Windreiter der Anden",
+        "Der weisse Berg von Feuerland"
+      ]
+    },
+    {
+      "title": "Der Zauber der Anden",
+      "dvd_count": 2,
+      "asin": "B08F6TVTQR",
+      "ean": "4006680096049",
+      "release_date": "2020-10-22",
+      "duration": 420,
+      "mediamops": "M0B08F6TVTQR",
+      "episodes": [
+        "Peru, das Goldhaar der Vikunjas",
+        "Harpyien, die größten Greifvögel des Regenwaldes",
+        "Peru, ein Alpaka für Christobal",
+        "Chivas - Kolumbiens bunte Busse",
+        "Valparaíso, die Stadt der Aufzüge",
+        "Chile, die Leuchttürme am Ende der Welt",
+        "Atacamawüste - Leben ohne Wasser",
+        "Bolivien - Kleine Käfer, großes Geld!"
+      ]
+    },
+    {
+      "title": "Berufe extrem",
+      "asin": "B01E0NDKYA",
+      "ean": "4006680079103",
+      "release_date": "2016-09-01",
+      "duration": 624,
+      "mediamops": "M0B01E0NDKYA",
+      "dvd_count": 3,
+      "episodes": [
+        "Arktis - Die Route der Atomeisbrecher",
+        "Auf dem Floß durch die Schluchten von Tara",
+        "Tanganjikasee, vom Kanonenboot zum Passagerischiff",
+        "Die Eisbergjäger von Neufundland",
+        "Ein Dorfladen reist durch Lettland",
+        "Bolivien, Lebenader der Todestraße",
+        "Die Polarbahn",
+        "Nicaragua - Fluch der Langustentaucher",
+        "Der Polarflieger",
+        "Die Feuerflieger von Valencia",
+        "Kanadas Buschpiloten im Einsatz",
+        "Unter Haien - Riffpatrouille in der Sulu-See"
+      ]
+    },
+    {
+      "title": "Asien - Kontinent der Gegensätze",
+      "asin": "B008IAQPE4",
+      "dvd_count": 4,
+      "ean": "4006680065151",
+      "release_date": "2012-10-04",
+      "production_date": "2011-01-01",
+      "duration": 693,
+      "mediamops": "M0B008IAQPE4",
+      "episodes": [
+        "Mit dem Wanderbarden durch Aserbaidschan",
+        "Die neuen Nomaden von Kirigistan",
+        "Vagabunden der Wüste Gobi",
+        "Nepal - Die Krieger vom Dach der Welt",
+        "Postbote im Himalaya",
+        "Das Kinderparlament von Rajasthan",
+        "Sikkim, das alte Wissen der Schamanen",
+        "Majuli, ein Inselvolk trotzt den Fluten",
+        "Thailand - Kinder im Ring",
+        "Buddhas Kinder im Goldenen Dreieck",
+        "Kambodscha - Die Seele der Seide",
+        "Der Kräutergarten von Java",
+        "Wenzhou, die Schuh-Stadt von China",
+        "Kung Fu - Chinas neue Kämpferinnen",
+        "China, im Reich der Mosuo-Frauen",
+        "Miyako - Insel des langen Lebens"
+      ]
+    },
+    {
+      "title": "Afrika - Eine Entdeckungsreise",
+      "ean": "4006680065168",
+      "release_date": "2012-10-04",
+      "production_date": "2011-01-01",
+      "duration": 691,
+      "dvd_count": 4,
+      "asin": "B008IAQPG2",
+      "mediamops": "M0B008IAQPG2",
+      "episodes": [
+        "Die Verwandlungskünstler von Dakar",
+        "Mauretanien - Aufstand der Fischer-Frauen",
+        "Marokko, die andere Seite des Paradieses",
+        "Tunesien, die Suche nach dem Tintenfisch",
+        "Eritrea - Ein Esel für die Zukunft",
+        "Der Wüstendoktor",
+        "Auf den Dächern von Kairo",
+        "Die letzten Kamelkarawannen der Sahara",
+        "Uganda - Der Weg zum Fahrradtaxi",
+        "Wildererjagd am Mount Kenya",
+        "Ruanda, Land der Frauen",
+        "Kenia - Das Dorf der Frauen",
+        "Idjwi - Afrikas vergessene Insel",
+        "Die Trommler von Burundi",
+        "Hexenwahn in Tansania",
+        "Vom Klassenzimmer in die Kalahari"
+      ]
+    },
+    {
+      "title": "Geheimnisvolle Inseln",
+      "asin": "B007BZ072I",
+      "ean": "4006680063270",
+      "release_date": "2012-05-01",
+      "production_date": "2011-01-01",
+      "duration": 388,
+      "mediamops": "M0B007BZ072I",
+      "episodes": [
+        "St. Helena, vergessen im Atlantik",
+        "Falklandinseln - Pinguine auf dem Vormarsch",
+        "Saint Pierre & Miquelon, Archipel in der Isolation",
+        "Sokotra, Schatzinsel in Gefahr",
+        "Lamu, die Insel der Esel",
+        "Das Vermächtnis der Marquesas-Inseln",
+        "Honeymoon auf Hainan",
+        "Miyako - Insel des langen Lebens",
+        "Tasmanien - Wächterin im Paradies"
+      ]
+    },
+    {
+      "title": "KOLUMBIEN - Die rasenden Engel der Linea 5",
+      "dvd_count": 1,
+      "ean": "4009496401519",
+      "release_date": "2007-01-01",
+      "production_date": "2007-01-01",
+      "duration": 52,
+      "mediamops": "M0B09SDJQGBH",
+      "asin": "B09SDJQGBH"
     },
     {
       "title": "Der Mensch und das Meer",
