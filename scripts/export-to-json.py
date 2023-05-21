@@ -2,4 +2,4 @@
 
 import _lib
 
-_lib.geo_360.export_to_json()
+_lib.tv_show.export_to_json()

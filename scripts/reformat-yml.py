@@ -2,5 +2,5 @@
 
 import _lib
 
-_lib.geo_360.reformat()
-_lib.geo_360.save()
+_lib.tv_show.reformat()
+_lib.tv_show.save()

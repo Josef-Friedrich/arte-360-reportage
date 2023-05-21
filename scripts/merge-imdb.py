@@ -12,8 +12,8 @@ for found in re.finditer(
     episode_id = found.group(1)
     title = found.group(2)
 
-    episode = _lib.geo_360.get_episode_by_title(title, debug=True)
+    episode = _lib.tv_show.get_episode_by_title(title, debug=True)
     if episode:
         episode["imdb_episode_id"] = episode_id
 
-_lib.geo_360.save()
+_lib.tv_show.save()

@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 
 from __future__ import annotations
-from _lib import geo_360 as geo, Episode
+from _lib import tv_show as geo, Episode
 from _wiki import format_ref
 import _wiki
 

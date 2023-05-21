@@ -2,7 +2,7 @@
 
 import typing
 
-from _lib import geo_360 as geo
+from _lib import tv_show as geo
 
 """
 # 360-geo-reportage

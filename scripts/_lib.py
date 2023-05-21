@@ -282,4 +282,4 @@ class TvShow:
         self.__write()
 
 
-geo_360 = TvShow()
+tv_show = TvShow()
