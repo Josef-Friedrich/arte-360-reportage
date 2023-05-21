@@ -1,8 +1,10 @@
 #! /usr/bin/env python
 
+from __future__ import annotations
+
 import typing
 
-from _lib import tv_show as geo
+from _lib import tv_show
 
 """
 # 360-geo-reportage
@@ -33,7 +35,7 @@ rows.append(
     format_row(["air_date", "title", "youtube", "thetvdb", "imdb", "fernsehserien"])
 )
 rows.append(format_row(["-", "-", "-", "-", "-", "-"]))
-for episode in geo.episodes:
+for episode in tv_show.episodes:
     row: list[str] = []
     row.append(episode.format_air_date("%a %Y-%m-%d"))
     row.append(episode.title)
