@@ -2206,6 +2206,7 @@
     },
     {
       "title": "Im Land der Schwarzen Witwen",
+      "title_fr": "Arizona, au Pays des Veuves Noires",
       "air_date": "2006-01-14",
       "duration": 55,
       "thetvdb_season_episode": "S08E01",
@@ -2217,6 +2218,7 @@
     },
     {
       "title": "Polen - Ärger im Revier",
+      "title_fr": "La Pologne des Braconniers",
       "air_date": "2006-02-04",
       "duration": 55,
       "thetvdb_season_episode": "S08E02",
@@ -2228,6 +2230,7 @@
     },
     {
       "title": "Lust auf Liebe in Lisdoonvarna",
+      "title_fr": "Irlande, Célibataire Cherche Amoureuse",
       "air_date": "2006-03-25",
       "duration": 55,
       "thetvdb_season_episode": "S08E03",
@@ -2240,6 +2243,7 @@
     },
     {
       "title": "Kung-Fu - Chinas neue Kämpferinnen",
+      "title_fr": "Chine - Les Filles Aussi Font du Kung-fu",
       "air_date": "2006-04-08",
       "duration": 55,
       "thetvdb_season_episode": "S08E04",
@@ -2251,6 +2255,7 @@
     },
     {
       "title": "Highway durch die Arktis",
+      "title_fr": "Vivre au-Delà de l'Arctique",
       "air_date": "2006-04-22",
       "duration": 55,
       "thetvdb_season_episode": "S08E05",
@@ -2263,6 +2268,7 @@
     },
     {
       "title": "Churubamba - Frauen am Ball",
+      "title_fr": "Footballeuses des Andes",
       "air_date": "2006-05-27",
       "duration": 55,
       "thetvdb_season_episode": "S08E06",
@@ -2274,6 +2280,7 @@
     },
     {
       "title": "Chicagos Stahlmänner - Abriss und Wiederaufbau eines Hochofens",
+      "title_fr": "Les Métallos de Chicago",
       "air_date": "2006-07-29",
       "duration": 55,
       "thetvdb_season_episode": "S08E07",
@@ -2286,6 +2293,7 @@
     },
     {
       "title": "Die schwimmenden Dörfer der Ha Long Bucht",
+      "title_fr": "Villages Flottants de la Baie d'Along",
       "air_date": "2006-07-29",
       "duration": 55,
       "thetvdb_season_episode": "S08E08",
@@ -2297,6 +2305,7 @@
     },
     {
       "title": "Von Männern und Mustangs",
+      "title_fr": "Des Mustangs et des Hommes",
       "air_date": "2006-08-26",
       "duration": 55,
       "thetvdb_season_episode": "S08E09",
@@ -2308,6 +2317,7 @@
     },
     {
       "title": "Tasmanien: Wächterin im Paradies",
+      "title_fr": "La Gardienne du Paradis de Tasmanie",
       "air_date": "2006-09-09",
       "duration": 55,
       "thetvdb_season_episode": "S08E10",
@@ -2319,6 +2329,7 @@
     },
     {
       "title": "Die Teebahn von Darjeeling",
+      "title_fr": "Le Train du Darjeeling",
       "alias": "Darjeeling-Bahn",
       "air_date": "2006-09-16",
       "duration": 55,
@@ -2332,6 +2343,7 @@
     },
     {
       "title": "Die Millionen-Dollar-Hirsche",
+      "title_fr": "Les Cerfs aux Bois de Velours",
       "air_date": "2006-10-07",
       "duration": 55,
       "thetvdb_season_episode": "S08E12",
@@ -2343,6 +2355,7 @@
     },
     {
       "title": "Die Dächer von Kairo",
+      "title_fr": "Sur les Toits du Caire",
       "air_date": "2006-10-14",
       "duration": 55,
       "thetvdb_season_episode": "S08E13",
@@ -2354,6 +2367,7 @@
     },
     {
       "title": "Die Trommler von Burundi",
+      "title_fr": "Tambours du Burundi",
       "air_date": "2006-10-21",
       "duration": 55,
       "thetvdb_season_episode": "S08E14",
@@ -2366,6 +2380,7 @@
     },
     {
       "title": "Saphir-Fieber auf Madagaskar",
+      "title_fr": "Les Mines de Saphir de Madagascar",
       "air_date": "2006-11-04",
       "duration": 55,
       "thetvdb_season_episode": "S08E15",
@@ -2377,6 +2392,7 @@
     },
     {
       "title": "Auf den Spuren der Wikinger",
+      "title_fr": "Sur la Route des Vikings",
       "air_date": "2006-11-18",
       "duration": 55,
       "thetvdb_season_episode": "S08E16",
@@ -2388,6 +2404,7 @@
     },
     {
       "title": "Chile - Segen und Fluch einer Kupfermine",
+      "title_fr": "Chili Entre Mine et Famine",
       "air_date": "2006-12-02",
       "duration": 55,
       "thetvdb_season_episode": "S08E17",
@@ -2399,6 +2416,7 @@
     },
     {
       "title": "Buddhas Kinder im Goldenen Dreieck",
+      "title_fr": "Le Triangle d'Or et les Enfants de Bouddha",
       "air_date": "2006-12-16",
       "duration": 55,
       "thetvdb_season_episode": "S08E18",
@@ -2410,6 +2428,7 @@
     },
     {
       "title": "Eritrea - Ein Esel für die Zukunft",
+      "title_fr": "Érythrée, l'Âne de la Dernière Chance",
       "air_date": "2006-12-23",
       "duration": 55,
       "thetvdb_season_episode": "S08E19",
@@ -2421,6 +2440,7 @@
     },
     {
       "title": "Hai-Alarm in Polynesien",
+      "title_fr": "L'Homme Qui Aimait les Requins",
       "air_date": "2007-01-06",
       "duration": 55,
       "thetvdb_season_episode": "S09E01",
@@ -2432,6 +2452,7 @@
     },
     {
       "title": "Sumatra - Ettis Schönheitssalon",
+      "title_fr": "Sumatra Vénus Beauté",
       "air_date": "2007-01-27",
       "duration": 55,
       "thetvdb_season_episode": "S09E02",
@@ -2443,6 +2464,7 @@
     },
     {
       "title": "Kenia: Das Dorf der Frauen",
+      "title_fr": "Kenya, le Village des Femmes",
       "air_date": "2007-02-10",
       "duration": 55,
       "thetvdb_season_episode": "S09E03",
@@ -2454,6 +2476,7 @@
     },
     {
       "title": "Boliviens junge Wilde",
+      "title_fr": "L'Arche de Noé en Bolivie",
       "air_date": "2007-03-03",
       "duration": 55,
       "thetvdb_season_episode": "S09E04",
@@ -2466,6 +2489,7 @@
     },
     {
       "title": "Ein Dorfladen reist durch Lettland",
+      "title_fr": "L'Épicier Volant de Lettonie",
       "air_date": "2007-03-24",
       "duration": 55,
       "thetvdb_season_episode": "S09E05",
@@ -2477,6 +2501,7 @@
     },
     {
       "title": "Miyako: Die Insel des langen Lebens",
+      "title_fr": "Miyako — Vivre Cent Ans, Vivre Heureux!",
       "air_date": "2007-04-07",
       "duration": 55,
       "thetvdb_season_episode": "S09E06",
@@ -2488,6 +2513,7 @@
     },
     {
       "title": "Die Sandmenschen von Schoina",
+      "title_fr": "Choïna, Sous le Sable",
       "air_date": "2007-04-21",
       "duration": 55,
       "thetvdb_season_episode": "S09E07",
@@ -2499,6 +2525,7 @@
     },
     {
       "title": "Bangkoks krabbelnde Delikatessen",
+      "title_fr": "Bangkok, Insectes Frits à Toute Heure",
       "air_date": "2007-05-05",
       "duration": 55,
       "thetvdb_season_episode": "S09E08",
@@ -2510,6 +2537,7 @@
     },
     {
       "title": "Die Windreiter der Anden",
+      "title_fr": "Les Enragés du Vol à Voile",
       "air_date": "2007-05-12",
       "duration": 55,
       "thetvdb_season_episode": "S09E09",
@@ -2521,6 +2549,7 @@
     },
     {
       "title": "Der Lachszähler von Kamtschatka",
+      "title_fr": "Alexeï, les Saumons et les Ours",
       "air_date": "2007-06-02",
       "duration": 55,
       "thetvdb_season_episode": "S09E10",
@@ -2532,6 +2561,7 @@
     },
     {
       "title": "Kamtschatka: Kochende Erde",
+      "title_fr": "Katmtchatka, Là où la Terre Tremble",
       "air_date": "2007-06-09",
       "duration": 55,
       "thetvdb_season_episode": "S09E11",
@@ -2556,6 +2586,7 @@
     },
     {
       "title": "Die Krabbenflut",
+      "title_fr": "Les Crabes Attaques",
       "air_date": "2007-08-11",
       "duration": 55,
       "thetvdb_season_episode": "S09E13",
@@ -2567,6 +2598,7 @@
     },
     {
       "title": "Thailand: Kinder im Ring",
+      "title_fr": "Thaïlande, les Enfants du Ring",
       "air_date": "2007-09-01",
       "duration": 55,
       "thetvdb_season_episode": "S09E14",
@@ -2578,6 +2610,7 @@
     },
     {
       "title": "Kolumbien: Ein Riesenrad auf Reisen",
+      "title_fr": "Colombie, le Manège Enchanté",
       "air_date": "2007-09-08",
       "duration": 55,
       "thetvdb_season_episode": "S09E15",
@@ -2589,6 +2622,7 @@
     },
     {
       "title": "Rio: Vom Strich auf den Laufsteg",
+      "title_fr": "Rio, le Trottoir Fait Sa Mode",
       "air_date": "2007-09-15",
       "duration": 55,
       "thetvdb_season_episode": "S09E16",
@@ -2600,6 +2634,7 @@
     },
     {
       "title": "Oman: Die Rosen der Wüste",
+      "title_fr": "Oman, les Roses du Désert",
       "air_date": "2007-09-22",
       "duration": 55,
       "thetvdb_season_episode": "S09E17",
@@ -2611,6 +2646,7 @@
     },
     {
       "title": "Brasilien: Büffel auf Streife",
+      "title_fr": "Des Buffles en Patrouille",
       "air_date": "2007-11-03",
       "duration": 55,
       "thetvdb_season_episode": "S09E18",
@@ -2635,6 +2671,7 @@
     },
     {
       "title": "Attila und die Pferde der Puszta",
+      "title_fr": "Les Cavaliers de la Steppe Hongroise",
       "air_date": "2007-11-17",
       "duration": 55,
       "thetvdb_season_episode": "S09E20",
@@ -2646,6 +2683,7 @@
     },
     {
       "title": "Peru: Delfine in Gefahr",
+      "title_fr": "SOS Dauphins!",
       "air_date": "2007-11-25",
       "duration": 55,
       "thetvdb_season_episode": "S09E21",
@@ -2659,6 +2697,7 @@
     {
       "title": "Postbote im Himalaya - Arbeit in 4000 Meter Höhe",
       "alias": "Postbote im Himalaya",
+      "title_fr": "Le Facteur de l'Himalaya",
       "air_date": "2007-12-01",
       "duration": 55,
       "thetvdb_season_episode": "S09E22",
@@ -2671,6 +2710,7 @@
     },
     {
       "title": "Wenzhou, die Schuh-Stadt von China",
+      "title_fr": "Chaussures Made in Wenzhou",
       "air_date": "2007-12-08",
       "duration": 55,
       "thetvdb_season_episode": "S09E23",
@@ -2682,6 +2722,7 @@
     },
     {
       "title": "Alligatorjagd in Florida",
+      "title_fr": "Alerte aux Alligators",
       "air_date": "2007-12-15",
       "duration": 55,
       "thetvdb_season_episode": "S09E24",
@@ -2693,6 +2734,7 @@
     },
     {
       "title": "Russlands Zirkusschule auf Tour",
+      "title_fr": "Le Cirque de Moscou en Balade",
       "air_date": "2007-12-22",
       "duration": 55,
       "thetvdb_season_episode": "S09E25",
@@ -2704,6 +2746,7 @@
     },
     {
       "title": "Auf Schlangenfang in Kambodscha",
+      "title_fr": "Les Chasseurs de Serpents du Cambodge",
       "air_date": "2007-12-29",
       "duration": 55,
       "thetvdb_season_episode": "S09E26",

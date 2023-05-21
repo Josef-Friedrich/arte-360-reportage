@@ -1822,6 +1822,7 @@ episodes:
   fernsehserien_episode_slug: 188-die-kinder-des-vater-nikolai-339662
   fernsehserien_episode_id: 339662
 - title: Im Land der Schwarzen Witwen
+  title_fr: Arizona, au Pays des Veuves Noires
   air_date: '2006-01-14'
   duration: 55
   thetvdb_season_episode: S08E01
@@ -1831,6 +1832,7 @@ episodes:
   fernsehserien_episode_id: 339499
   youtube_video_id: TwJc0Qx152o
 - title: Polen - Ärger im Revier
+  title_fr: La Pologne des Braconniers
   air_date: '2006-02-04'
   duration: 55
   thetvdb_season_episode: S08E02
@@ -1840,6 +1842,7 @@ episodes:
   fernsehserien_episode_id: 339665
   youtube_video_id: YMQMvv9gl4A
 - title: Lust auf Liebe in Lisdoonvarna
+  title_fr: Irlande, Célibataire Cherche Amoureuse
   air_date: '2006-03-25'
   duration: 55
   thetvdb_season_episode: S08E03
@@ -1850,6 +1853,7 @@ episodes:
   imdb_episode_id: tt1045683
   youtube_video_id: MlM93JHkIU4
 - title: Kung-Fu - Chinas neue Kämpferinnen
+  title_fr: Chine - Les Filles Aussi Font du Kung-fu
   air_date: '2006-04-08'
   duration: 55
   thetvdb_season_episode: S08E04
@@ -1859,6 +1863,7 @@ episodes:
   fernsehserien_episode_id: 339669
   youtube_video_id: rzkqoL0_cEw
 - title: Highway durch die Arktis
+  title_fr: Vivre au-Delà de l'Arctique
   air_date: '2006-04-22'
   duration: 55
   thetvdb_season_episode: S08E05
@@ -1869,6 +1874,7 @@ episodes:
   imdb_episode_id: tt2046172
   youtube_video_id: dx2YI4of1wU
 - title: Churubamba - Frauen am Ball
+  title_fr: Footballeuses des Andes
   air_date: '2006-05-27'
   duration: 55
   thetvdb_season_episode: S08E06
@@ -1878,6 +1884,7 @@ episodes:
   fernsehserien_episode_id: 339674
   youtube_video_id: 4S_yDEomrcY
 - title: Chicagos Stahlmänner - Abriss und Wiederaufbau eines Hochofens
+  title_fr: Les Métallos de Chicago
   air_date: '2006-07-29'
   duration: 55
   thetvdb_season_episode: S08E07
@@ -1888,6 +1895,7 @@ episodes:
   fernsehserien_episode_id: 339676
   youtube_video_id: Nz8O4PT5AbI
 - title: Die schwimmenden Dörfer der Ha Long Bucht
+  title_fr: Villages Flottants de la Baie d'Along
   air_date: '2006-07-29'
   duration: 55
   thetvdb_season_episode: S08E08
@@ -1897,6 +1905,7 @@ episodes:
   fernsehserien_episode_id: 339509
   youtube_video_id: At-Ei18eK_8
 - title: Von Männern und Mustangs
+  title_fr: Des Mustangs et des Hommes
   air_date: '2006-08-26'
   duration: 55
   thetvdb_season_episode: S08E09
@@ -1906,6 +1915,7 @@ episodes:
   fernsehserien_episode_id: 339511
   youtube_video_id: vEQecvaogb8
 - title: 'Tasmanien: Wächterin im Paradies'
+  title_fr: La Gardienne du Paradis de Tasmanie
   air_date: '2006-09-09'
   duration: 55
   thetvdb_season_episode: S08E10
@@ -1915,6 +1925,7 @@ episodes:
   fernsehserien_episode_id: 339666
   youtube_video_id: df1G1ZN2OdM
 - title: Die Teebahn von Darjeeling
+  title_fr: Le Train du Darjeeling
   alias: Darjeeling-Bahn
   air_date: '2006-09-16'
   duration: 55
@@ -1926,6 +1937,7 @@ episodes:
   imdb_episode_id: tt2166468
   youtube_video_id: htD-vlXaVcw
 - title: Die Millionen-Dollar-Hirsche
+  title_fr: Les Cerfs aux Bois de Velours
   air_date: '2006-10-07'
   duration: 55
   thetvdb_season_episode: S08E12
@@ -1935,6 +1947,7 @@ episodes:
   fernsehserien_episode_id: 339671
   youtube_video_id: b96BcyI9T9M
 - title: Die Dächer von Kairo
+  title_fr: Sur les Toits du Caire
   air_date: '2006-10-14'
   duration: 55
   thetvdb_season_episode: S08E13
@@ -1944,6 +1957,7 @@ episodes:
   fernsehserien_episode_id: 339672
   youtube_video_id: 6rS22dz6_7o
 - title: Die Trommler von Burundi
+  title_fr: Tambours du Burundi
   air_date: '2006-10-21'
   duration: 55
   thetvdb_season_episode: S08E14
@@ -1954,6 +1968,7 @@ episodes:
   imdb_episode_id: tt3032950
   youtube_video_id: jgIQx6w8oN8
 - title: Saphir-Fieber auf Madagaskar
+  title_fr: Les Mines de Saphir de Madagascar
   air_date: '2006-11-04'
   duration: 55
   thetvdb_season_episode: S08E15
@@ -1963,6 +1978,7 @@ episodes:
   fernsehserien_episode_id: 339673
   youtube_video_id: gSR8zp3hLgQ
 - title: Auf den Spuren der Wikinger
+  title_fr: Sur la Route des Vikings
   air_date: '2006-11-18'
   duration: 55
   thetvdb_season_episode: S08E16
@@ -1972,6 +1988,7 @@ episodes:
   fernsehserien_episode_id: 339683
   youtube_video_id: Zsj8iSV3nQE
 - title: Chile - Segen und Fluch einer Kupfermine
+  title_fr: Chili Entre Mine et Famine
   air_date: '2006-12-02'
   duration: 55
   thetvdb_season_episode: S08E17
@@ -1981,6 +1998,7 @@ episodes:
   fernsehserien_episode_id: 339685
   youtube_video_id: SvRfFmEL43Y
 - title: Buddhas Kinder im Goldenen Dreieck
+  title_fr: Le Triangle d'Or et les Enfants de Bouddha
   air_date: '2006-12-16'
   duration: 55
   thetvdb_season_episode: S08E18
@@ -1990,6 +2008,7 @@ episodes:
   fernsehserien_episode_id: 339686
   youtube_video_id: 5_SK0AFJqfQ
 - title: Eritrea - Ein Esel für die Zukunft
+  title_fr: Érythrée, l'Âne de la Dernière Chance
   air_date: '2006-12-23'
   duration: 55
   thetvdb_season_episode: S08E19
@@ -1999,6 +2018,7 @@ episodes:
   fernsehserien_episode_id: 339687
   youtube_video_id: deTDbCTBKtA
 - title: Hai-Alarm in Polynesien
+  title_fr: L'Homme Qui Aimait les Requins
   air_date: '2007-01-06'
   duration: 55
   thetvdb_season_episode: S09E01
@@ -2008,6 +2028,7 @@ episodes:
   fernsehserien_episode_id: 339688
   youtube_video_id: kwuqkmG7z_M
 - title: Sumatra - Ettis Schönheitssalon
+  title_fr: Sumatra Vénus Beauté
   air_date: '2007-01-27'
   duration: 55
   thetvdb_season_episode: S09E02
@@ -2017,6 +2038,7 @@ episodes:
   fernsehserien_episode_id: 339689
   youtube_video_id: 0JguIiABfw8
 - title: 'Kenia: Das Dorf der Frauen'
+  title_fr: Kenya, le Village des Femmes
   air_date: '2007-02-10'
   duration: 55
   thetvdb_season_episode: S09E03
@@ -2026,6 +2048,7 @@ episodes:
   fernsehserien_episode_id: 339690
   youtube_video_id: CGJ9nKH4zFw
 - title: Boliviens junge Wilde
+  title_fr: L'Arche de Noé en Bolivie
   air_date: '2007-03-03'
   duration: 55
   thetvdb_season_episode: S09E04
@@ -2036,6 +2059,7 @@ episodes:
   imdb_episode_id: tt3843720
   youtube_video_id: SfnqxRXIJSo
 - title: Ein Dorfladen reist durch Lettland
+  title_fr: L'Épicier Volant de Lettonie
   air_date: '2007-03-24'
   duration: 55
   thetvdb_season_episode: S09E05
@@ -2045,6 +2069,7 @@ episodes:
   fernsehserien_episode_id: 339693
   youtube_video_id: wHc_aS93aZc
 - title: 'Miyako: Die Insel des langen Lebens'
+  title_fr: Miyako — Vivre Cent Ans, Vivre Heureux!
   air_date: '2007-04-07'
   duration: 55
   thetvdb_season_episode: S09E06
@@ -2054,6 +2079,7 @@ episodes:
   fernsehserien_episode_id: 339694
   youtube_video_id: 04TrtARWfGA
 - title: Die Sandmenschen von Schoina
+  title_fr: Choïna, Sous le Sable
   air_date: '2007-04-21'
   duration: 55
   thetvdb_season_episode: S09E07
@@ -2063,6 +2089,7 @@ episodes:
   fernsehserien_episode_id: 339696
   youtube_video_id: EdPZhBjtBas
 - title: Bangkoks krabbelnde Delikatessen
+  title_fr: Bangkok, Insectes Frits à Toute Heure
   air_date: '2007-05-05'
   duration: 55
   thetvdb_season_episode: S09E08
@@ -2072,6 +2099,7 @@ episodes:
   fernsehserien_episode_id: 339697
   youtube_video_id: Cxe2KMNhjG0
 - title: Die Windreiter der Anden
+  title_fr: Les Enragés du Vol à Voile
   air_date: '2007-05-12'
   duration: 55
   thetvdb_season_episode: S09E09
@@ -2081,6 +2109,7 @@ episodes:
   fernsehserien_episode_id: 339698
   youtube_video_id: xkVql_Bm6FM
 - title: Der Lachszähler von Kamtschatka
+  title_fr: Alexeï, les Saumons et les Ours
   air_date: '2007-06-02'
   duration: 55
   thetvdb_season_episode: S09E10
@@ -2090,6 +2119,7 @@ episodes:
   fernsehserien_episode_id: 339700
   youtube_video_id: _1z6gndFCQg
 - title: 'Kamtschatka: Kochende Erde'
+  title_fr: Katmtchatka, Là où la Terre Tremble
   air_date: '2007-06-09'
   duration: 55
   thetvdb_season_episode: S09E11
@@ -2110,6 +2140,7 @@ episodes:
   imdb_episode_id: tt1169292
   youtube_video_id: sOtopRXixzg
 - title: Die Krabbenflut
+  title_fr: Les Crabes Attaques
   air_date: '2007-08-11'
   duration: 55
   thetvdb_season_episode: S09E13
@@ -2119,6 +2150,7 @@ episodes:
   fernsehserien_episode_id: 339704
   youtube_video_id: Unop9XcUC7g
 - title: 'Thailand: Kinder im Ring'
+  title_fr: Thaïlande, les Enfants du Ring
   air_date: '2007-09-01'
   duration: 55
   thetvdb_season_episode: S09E14
@@ -2128,6 +2160,7 @@ episodes:
   fernsehserien_episode_id: 339705
   youtube_video_id: LtDq72ui27g
 - title: 'Kolumbien: Ein Riesenrad auf Reisen'
+  title_fr: Colombie, le Manège Enchanté
   air_date: '2007-09-08'
   duration: 55
   thetvdb_season_episode: S09E15
@@ -2137,6 +2170,7 @@ episodes:
   fernsehserien_episode_id: 339706
   youtube_video_id: l0tgOGBbI7M
 - title: 'Rio: Vom Strich auf den Laufsteg'
+  title_fr: Rio, le Trottoir Fait Sa Mode
   air_date: '2007-09-15'
   duration: 55
   thetvdb_season_episode: S09E16
@@ -2146,6 +2180,7 @@ episodes:
   fernsehserien_episode_id: 339707
   youtube_video_id: lONevE9h_GM
 - title: 'Oman: Die Rosen der Wüste'
+  title_fr: Oman, les Roses du Désert
   air_date: '2007-09-22'
   duration: 55
   thetvdb_season_episode: S09E17
@@ -2155,6 +2190,7 @@ episodes:
   fernsehserien_episode_id: 339708
   youtube_video_id: LwijL77IF3c
 - title: 'Brasilien: Büffel auf Streife'
+  title_fr: Des Buffles en Patrouille
   air_date: '2007-11-03'
   duration: 55
   thetvdb_season_episode: S09E18
@@ -2175,6 +2211,7 @@ episodes:
   imdb_episode_id: tt6756518
   youtube_video_id: 7TUDH-k4qH0
 - title: Attila und die Pferde der Puszta
+  title_fr: Les Cavaliers de la Steppe Hongroise
   air_date: '2007-11-17'
   duration: 55
   thetvdb_season_episode: S09E20
@@ -2184,6 +2221,7 @@ episodes:
   fernsehserien_episode_id: 339714
   youtube_video_id: Cbc64mnqRck
 - title: 'Peru: Delfine in Gefahr'
+  title_fr: SOS Dauphins!
   air_date: '2007-11-25'
   duration: 55
   thetvdb_season_episode: S09E21
@@ -2195,6 +2233,7 @@ episodes:
   youtube_video_id: LmSo7bINHXQ
 - title: Postbote im Himalaya - Arbeit in 4000 Meter Höhe
   alias: Postbote im Himalaya
+  title_fr: Le Facteur de l'Himalaya
   air_date: '2007-12-01'
   duration: 55
   thetvdb_season_episode: S09E22
@@ -2205,6 +2244,7 @@ episodes:
   imdb_episode_id: tt6941802
   youtube_video_id: VHEpd2C1GvQ
 - title: Wenzhou, die Schuh-Stadt von China
+  title_fr: Chaussures Made in Wenzhou
   air_date: '2007-12-08'
   duration: 55
   thetvdb_season_episode: S09E23
@@ -2214,6 +2254,7 @@ episodes:
   fernsehserien_episode_id: 339717
   youtube_video_id: BlMBuBYO0IQ
 - title: Alligatorjagd in Florida
+  title_fr: Alerte aux Alligators
   air_date: '2007-12-15'
   duration: 55
   thetvdb_season_episode: S09E24
@@ -2223,6 +2264,7 @@ episodes:
   fernsehserien_episode_id: 339718
   youtube_video_id: Ky2m06TY8NY
 - title: Russlands Zirkusschule auf Tour
+  title_fr: Le Cirque de Moscou en Balade
   air_date: '2007-12-22'
   duration: 55
   thetvdb_season_episode: S09E25
@@ -2232,6 +2274,7 @@ episodes:
   fernsehserien_episode_id: 339719
   youtube_video_id: 5dS2nHbEqsM
 - title: Auf Schlangenfang in Kambodscha
+  title_fr: Les Chasseurs de Serpents du Cambodge
   air_date: '2007-12-29'
   duration: 55
   thetvdb_season_episode: S09E26
