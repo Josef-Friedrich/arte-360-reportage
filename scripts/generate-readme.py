@@ -35,7 +35,7 @@ rows.append(
 rows.append(format_row(["-", "-", "-", "-", "-", "-"]))
 for episode in geo.episodes:
     row: list[str] = []
-    row.append(episode.air_date)
+    row.append(episode.format_air_date("%a %Y-%m-%d"))
     row.append(episode.title)
     row.append(episode.youtube_link)
     row.append(episode.thetvdb_link)

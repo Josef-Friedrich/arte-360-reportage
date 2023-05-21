@@ -1,3 +1,4 @@
+from datetime import date
 import difflib
 import json
 import typing
@@ -50,6 +51,18 @@ class Episode:
         if "air_date" not in self.data or not self.data["air_date"]:
             return ""
         return self.data["air_date"]
+
+    @property
+    def air_date_date(self) -> None | date:
+        if "air_date" in self.data and self.data["air_date"]:
+            return date.fromisoformat(self.data["air_date"])
+
+
+    def format_air_date(self, format: str) -> str:
+        d = self.air_date_date
+        if not d:
+            return ""
+        return d.strftime(format)
 
     def __make_markdown_link(
         self, title: str | typing.Any | None, url: str | None
