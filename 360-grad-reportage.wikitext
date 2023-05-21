@@ -3991,4 +3991,16 @@
 | OT = Die Waschbären von Berlin<ref>{{Internetquelle |url=https://www.fernsehserien.de/arte-360grad-reportage/folgen/618-die-waschbaeren-von-berlin-1640104 |titel=Fortlaufende-Nr.: 618, Episoden-ID: 1640104 |titelerg=zur Folge „Die Waschbären von Berlin“ |werk=fernsehserien.de |hrsg=imfernsehen GmbH & Co. KG |abruf=2023-05-21}}</ref>
 | EA = 2023-05-20
 }}
+{{Episodenlisteneintrag
+| NR_GES = 625
+| NR_ST = 13
+| OT = Rapa Nui - Gladiatoren der Südsee<ref>{{Internetquelle |url=https://www.fernsehserien.de/arte-360grad-reportage/folgen/619-rapa-nui-gladiatoren-der-suedsee-1645452 |titel=Fortlaufende-Nr.: 619, Episoden-ID: 1645452 |titelerg=zur Folge „Rapa Nui - Gladiatoren der Südsee“ |werk=fernsehserien.de |hrsg=imfernsehen GmbH & Co. KG |abruf=2023-05-21}}</ref>
+| EA = 2023-06-24
+}}
+{{Episodenlisteneintrag
+| NR_GES = 626
+| NR_ST = 14
+| OT = Kambodschas schwimmende Dörfer - Umzug am Tonle Sap<ref>{{Internetquelle |url=https://www.fernsehserien.de/arte-360grad-reportage/folgen/620-kambodschas-schwimmende-doerfer-umzug-am-tonle-sap-1646559 |titel=Fortlaufende-Nr.: 620, Episoden-ID: 1646559 |titelerg=zur Folge „Kambodschas schwimmende Dörfer - Umzug am Tonle Sap“ |werk=fernsehserien.de |hrsg=imfernsehen GmbH & Co. KG |abruf=2023-05-21}}</ref>
+| EA = 2023-07-01
+}}
 }}

@@ -5986,6 +5986,18 @@ episodes:
   fernsehserien_episode_no: 618
   fernsehserien_episode_slug: 618-die-waschbaeren-von-berlin-1640104
   fernsehserien_episode_id: 1640104
+
+- title: Rapa Nui - Gladiatoren der Südsee
+  fernsehserien_episode_no: 619
+  air_date: '2023-06-24'
+  fernsehserien_episode_slug: 619-rapa-nui-gladiatoren-der-suedsee-1645452
+  fernsehserien_episode_id: 1645452
+
+- title: Kambodschas schwimmende Dörfer - Umzug am Tonle Sap
+  fernsehserien_episode_no: 620
+  air_date: '2023-07-01'
+  fernsehserien_episode_slug: 620-kambodschas-schwimmende-doerfer-umzug-am-tonle-sap-1646559
+  fernsehserien_episode_id: 1646559
 dvds:
 
 - title: Eine kulinarische Reise um die Welt
