@@ -99,14 +99,23 @@ class Episode:
         return f"[{str(title)}]({url})"
 
     @property
+    def thetvdb_season_episode(self) -> str | None:
+        if "thetvdb_season_episode" not in self.data:
+            return
+        return self.data["thetvdb_season_episode"]
+
+    @property
+    def thetvdb_episode_id(self) -> int | None:
+        if "thetvdb_episode_id" not in self.data:
+            return
+        return self.data["thetvdb_episode_id"]
+
+    @property
     def thetvdb_url(self) -> str | None:
-        if (
-            "thetvdb_episode_id" not in self.data
-            or "thetvdb_season_episode" not in self.data
-        ):
+        if not self.thetvdb_episode_id:
             return
         base_url: str = self.tv_show["databases"]["thetvdb"]
-        id: int = self.data["thetvdb_episode_id"]
+        id: int = self.thetvdb_episode_id
         return f"{base_url}/episodes/{id}"
 
     @property
@@ -167,8 +176,14 @@ class Episode:
         )
 
     @property
-    def youtube_url(self) -> str | None:
+    def youtube_video_id(self) -> str | None:
         if "youtube_video_id" not in self.data:
+            return
+        return self.data["youtube_video_id"]
+
+    @property
+    def youtube_url(self) -> str | None:
+        if not self.youtube_video_id:
             return
         video_id: str = self.data["youtube_video_id"]
         return f"https://www.youtube.com/watch?v={video_id}"

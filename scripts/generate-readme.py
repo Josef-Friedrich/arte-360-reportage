@@ -54,14 +54,37 @@ def _format_table(header: list[str], rows: list[list[str]]) -> str:
     return "\n".join(rendered_rows)
 
 
+def _format_links(episode: Episode) -> str:
+    links: list[str] = []
+
+    def prefix_caption(caption: str, link: str) -> str:
+        return f"{caption}: {link}"
+
+    def append(caption: str, link: str | None) -> None:
+        if link and link != "":
+            links.append(prefix_caption(caption, link))
+
+    if episode.youtube_video_id:
+        append("youtube", episode.youtube_link)
+
+    if episode.thetvdb_season_episode:
+        append("thetvdb", episode.thetvdb_link)
+
+    if episode.imdb_episode_id:
+        append("imdb", episode.imdb_link)
+
+    if episode.fernsehserien_episode_no:
+        append("fernsehserien", episode.fernsehserien_link)
+
+    return "<br>".join(links)
+
+
 def _assemble_row(episode: Episode) -> list[str]:
     row: list[str] = []
     row.append(episode.format_air_date("%a %Y-%m-%d"))
     row.append(_format_title(episode))
-    row.append(episode.youtube_link)
-    row.append(episode.thetvdb_link)
-    row.append(episode.imdb_link)
-    row.append(episode.fernsehserien_link)
+    row.append(_format_links(episode))
+
     return row
 
 
@@ -74,7 +97,7 @@ def main() -> None:
     with open("README.md", "w") as readme:
         readme.write(
             _format_table(
-                ["air_date", "title", "youtube", "thetvdb", "imdb", "fernsehserien"],
+                ["air_date", "title", "links"],
                 rows,
             )
         )
