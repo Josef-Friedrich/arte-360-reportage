@@ -5790,7 +5790,7 @@ episodes:
   imdb_episode_id: tt22023194
 - title: 'Kampf den Scharlatanen'
   alias: 'Der Science-Van on Tour: Indien - Kampf den Scharlatanen'
-  air_date: '2022-09-01'
+  air_date: '2022-09-17'
   duration: 32
   thetvdb_season_episode: S24E21
   thetvdb_episode_id: 9352688
@@ -5800,7 +5800,7 @@ episodes:
   fernsehserien_episode_id: 1581860
   youtube_video_id: -Clpkb3JdkI
 - title: Ahornsirup - Kanadas süßer Schatz
-  air_date: '2022-09-17'
+  air_date: '2022-09-24'
   duration: 32
   thetvdb_season_episode: S24E22
   thetvdb_episode_id: 9352689
@@ -5998,6 +5998,7 @@ episodes:
   air_date: '2023-07-01'
   fernsehserien_episode_slug: 620-kambodschas-schwimmende-doerfer-umzug-am-tonle-sap-1646559
   fernsehserien_episode_id: 1646559
+
 dvds:
 
 - title: Eine kulinarische Reise um die Welt

@@ -3853,13 +3853,13 @@
 | NR_GES = 603
 | NR_ST = 21
 | OT = Kampf den Scharlatanen<ref>{{Internetquelle |url=https://www.fernsehserien.de/arte-360grad-reportage/folgen/599-der-science-van-on-tour-indien-kampf-den-scharlatanen-1581860 |titel=Fortlaufende-Nr.: 599, Episoden-ID: 1581860 |titelerg=zur Folge „Kampf den Scharlatanen“ |werk=fernsehserien.de |hrsg=imfernsehen GmbH & Co. KG |abruf=2023-05-21}}</ref><ref>https://thetvdb.com/series/272599-show/episodes/9352688</ref><ref>https://www.youtube.com/watch?v=-Clpkb3JdkI</ref>
-| EA = 2022-09-01
+| EA = 2022-09-17
 }}
 {{Episodenlisteneintrag
 | NR_GES = 604
 | NR_ST = 22
 | OT = Ahornsirup - Kanadas süßer Schatz<ref>{{Internetquelle |url=https://www.fernsehserien.de/arte-360grad-reportage/folgen/600-ahornsirup-kanadas-suesser-schatz-1583564 |titel=Fortlaufende-Nr.: 600, Episoden-ID: 1583564 |titelerg=zur Folge „Ahornsirup - Kanadas süßer Schatz“ |werk=fernsehserien.de |hrsg=imfernsehen GmbH & Co. KG |abruf=2023-05-21}}</ref><ref>https://thetvdb.com/series/272599-show/episodes/9352689</ref><ref>{{Internetquelle |url=https://www.imdb.com/title/tt22299618 |titel=Episoden-ID (title entity): tt22299618 |titelerg=zur Folge „Ahornsirup - Kanadas süßer Schatz“ |werk=imdb.com |hrsg=Internet Movie Database (IMDb) |abruf=2023-05-21}}</ref><ref>https://www.youtube.com/watch?v=HlFRnPw6Y04</ref>
-| EA = 2022-09-17
+| EA = 2022-09-24
 }}
 {{Episodenlisteneintrag
 | NR_GES = 605
