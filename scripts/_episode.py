@@ -23,9 +23,16 @@ class EpisodeData(typing.TypedDict):
     thetvdb_season_episode: str
     thetvdb_episode_id: int
     fernsehserien_air_date: str
+
     fernsehserien_episode_no: int
+    """for example ``117``"""
+
     fernsehserien_episode_slug: str
+    """for example ``117-die-bernsteintaucher-339440``"""
+
     fernsehserien_episode_id: int
+    """for example ``339440``"""
+
     imdb_episode_id: str
     youtube_video_id: str
     index: typing_extensions.NotRequired[int]
@@ -105,22 +112,34 @@ class Episode:
         return self.__make_markdown_link(self.data["imdb_episode_id"], self.imdb_url)
 
     @property
+    def fernsehserien_episode_no(self) -> int | None:
+        if "fernsehserien_episode_no" in self.data:
+            return self.data["fernsehserien_episode_no"]
+
+    @property
+    def fernsehserien_episode_id(self) -> int | None:
+        if "fernsehserien_episode_id" in self.data:
+            return self.data["fernsehserien_episode_id"]
+
+    @property
+    def fernsehserien_episode_slug(self) -> str | None:
+        if "fernsehserien_episode_slug" in self.data:
+            return self.data["fernsehserien_episode_slug"]
+
+    @property
     def fernsehserien_url(self) -> str | None:
-        if (
-            "fernsehserien_episode_slug" not in self.data
-            or "fernsehserien_episode_no" not in self.data
-        ):
+        if not self.fernsehserien_episode_slug:
             return
         base_url: str = self.tv_show["databases"]["fernsehserien"]
-        slug: str = self.data["fernsehserien_episode_slug"]
+        slug: str = self.fernsehserien_episode_slug
         return f"{base_url}/folgen/{slug}"
 
     @property
     def fernsehserien_link(self) -> str:
-        if "fernsehserien_episode_no" not in self.data:
+        if not self.fernsehserien_episode_no:
             return ""
         return self.__make_markdown_link(
-            self.data["fernsehserien_episode_no"], self.fernsehserien_url
+            self.fernsehserien_episode_no, self.fernsehserien_url
         )
 
     @property

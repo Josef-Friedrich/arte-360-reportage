@@ -46,17 +46,39 @@ def format_internetquelle(
     return "{{Internetquelle " + markup + "}}"
 
 
+def __format_titel_ergaenzung(episode: Episode) -> str:
+    return f"zur Folge „{episode.title}“"
+
+
 def format_ref_imdb(episode: Episode) -> str:
     "https://developer.imdb.com/documentation/key-concepts"
     if not episode.imdb_url or not episode.imdb_episode_id:
         return ""
-
-    titel: str = "Episoden-ID (title entity): " + episode.imdb_episode_id
     return format_ref(
         format_internetquelle(
             url=episode.imdb_url,
-            titel=titel,
+            titel=f"Episoden-ID (title entity): {episode.imdb_episode_id}",
+            titel_ergaenzung=__format_titel_ergaenzung(episode),
             herausgeber="Internet Movie Database (IMDb)",
             website="imdb.com",
+        )
+    )
+
+
+def format_ref_fernsehserien(episode: Episode) -> str:
+    if (
+        not episode.fernsehserien_episode_no
+        or not episode.fernsehserien_episode_slug
+        or not episode.fernsehserien_episode_id
+        or not episode.fernsehserien_url
+    ):
+        return ""
+    return format_ref(
+        format_internetquelle(
+            url=episode.fernsehserien_url,
+            titel=f"Fortlaufende-Nr.: {episode.fernsehserien_episode_no}, Episoden-ID: {episode.fernsehserien_episode_id}",
+            titel_ergaenzung=__format_titel_ergaenzung(episode),
+            herausgeber="imfernsehen GmbH & Co. KG",
+            website="fernsehserien.de",
         )
     )

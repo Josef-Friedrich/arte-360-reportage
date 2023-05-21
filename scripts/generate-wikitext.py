@@ -13,7 +13,7 @@ https://de.wikipedia.org/wiki/Vorlage:Episodenlisteneintrag
 
 def generate_episode(episode: Episode, episode_no: int, absolute_no: int) -> str:
     title: str = episode.data["title"]
-    title += format_ref(episode.fernsehserien_url)
+    title += _wiki.format_ref_fernsehserien(episode)
     title += format_ref(episode.thetvdb_url)
     title += _wiki.format_ref_imdb(episode)
     title += format_ref(episode.youtube_url)
