@@ -1,4 +1,10 @@
-mediathek: https://www.arte.tv/de/videos/RC-014120/360-reportage
+mediathek:
+  de: https://www.arte.tv/de/videos/RC-014120/360-reportag
+  fr: https://www.arte.tv/fr/videos/RC-014120/360-reportag
+wikidata: https://www.wikidata.org/wiki/Q16009858
+wikipedia:
+  de: https://de.wikipedia.org/wiki/Arte_360%C2%B0-Reportage
+  fr: https://fr.wikipedia.org/wiki/360%C2%B0_Geo
 databases:
   imdb: https://www.imdb.com/title/tt0457219
   themoviedb: https://www.themoviedb.org/tv/95966-360-die-geo-reportage
