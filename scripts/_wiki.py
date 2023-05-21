@@ -3,12 +3,21 @@ from _lib import Episode
 
 
 def format_ref(content: str | None) -> str:
-    if not content:
+    if not content or content == "":
         return ""
     return "<ref>" + content + "</ref>"
 
 
-def format_internetquelle(url: str, titel: str, abruf: str | None = None) -> str:
+def format_internetquelle(
+    url: str,
+    titel: str,
+    abruf: str | None = None,
+    website: str | None = None,
+    titel_ergaenzung: str | None = None,
+    herausgeber: str | None = None,
+) -> str:
+    """https://de.wikipedia.org/wiki/Vorlage:Internetquelle"""
+
     def format_key_value(key: str, value: str) -> str:
         return "|" + key + "=" + value
 
@@ -20,6 +29,15 @@ def format_internetquelle(url: str, titel: str, abruf: str | None = None) -> str
     append("url", url)
     append("titel", titel)
 
+    if titel_ergaenzung:
+        append("titelerg", titel_ergaenzung)
+
+    if website:
+        append("werk", website)
+
+    if herausgeber:
+        append("hrsg", herausgeber)
+
     if not abruf:
         abruf = datetime.date.today().isoformat()
     append("abruf", abruf)
@@ -29,8 +47,16 @@ def format_internetquelle(url: str, titel: str, abruf: str | None = None) -> str
 
 
 def format_ref_imdb(episode: Episode) -> str:
+    "https://developer.imdb.com/documentation/key-concepts"
     if not episode.imdb_url or not episode.imdb_episode_id:
         return ""
 
-    titel: str = "IMDB-Episoden-ID: " + episode.imdb_episode_id
-    return format_internetquelle(url=episode.imdb_url, titel=titel)
+    titel: str = "Episoden-ID (title entity): " + episode.imdb_episode_id
+    return format_ref(
+        format_internetquelle(
+            url=episode.imdb_url,
+            titel=titel,
+            herausgeber="Internet Movie Database (IMDb)",
+            website="imdb.com",
+        )
+    )
