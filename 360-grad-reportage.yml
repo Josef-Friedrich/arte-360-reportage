@@ -5986,3 +5986,228 @@ episodes:
   fernsehserien_episode_no: 618
   fernsehserien_episode_slug: 618-die-waschbaeren-von-berlin-1640104
   fernsehserien_episode_id: 1640104
+dvds:
+
+- title: Eine kulinarische Reise um die Welt
+  asin: B009CW2HEO
+  dvd_count: 3
+  episodes:
+  - Arganöl - Marokkos weißes Gold
+  - Das Whisky-Geheimnis von Islay
+  - Champagner für alle!
+  - Ein Traum von Schokolade
+  - Rum auf Guadeloupe
+  - Esmeraldas Edelkakao
+  - Der Weinpriester von Bali
+  - Kyuchu - wo Japans Grüner Tee wächst
+  - Bangkoks krabbelnde Delikatessen
+  - Kaviar - der Schatz aus dem Iran
+  - Georgien, die Wiege des Weins
+  - Armenien, die Früchte aus dem Paradies
+
+- title: Russland - Land der Extreme
+  asin: B005WPNWGW
+
+  dvd_count: 4
+  episodes:
+  - Eremitage - Palast der Katzen
+  - Dei Sandmenschen von Schoina
+  - Die Kinder des Vater Nikolai
+  - Laetitia, allein unter Wölfen
+  - Russlands Zirkusschule auf Tour
+  - Baikalsee, ein Wintermärchen
+  - Die Eisenbahn vom Baikal zum Amur
+  - Dei Feuerspringer von Sibirien
+  - Das Mysterium der sibirischen Mumie
+  - Goldrausch in Sibirien
+  - Der Lachszähler von Kamtschatka
+  - Kamtschatka, kochende Erde
+
+- title: Leben in Italien
+  asin: B01FL88C6E
+
+  dvd_count: 2
+  episodes:
+  - Die Rettungshunde vom Gardasee
+  - Die Marmorberge von Italien
+  - Hinter den Kulissen von Venedig
+  - Der Maestro, Neapels legendärer Boxmeister
+  - Hochzeit auf Neapolitanisch
+  - Rom - Das Leben der Komparsen
+
+- title: Die erstaunliche Welt der Tiere
+  asin: B009CW2H6C
+
+  dvd_count: 4
+  episodes:
+  - Weltmeister auf vier Pfoten
+  - Auf der Spur des spanischen Luchses
+  - der Affenflüsterer
+  - Biberkrieg in Bayern
+  - Der Otter-Mann von Ungarn
+  - Wilde Pferde im Donaudelta
+  - Jordanien, Dynastie der Pferde
+  - Die Mutter der Bonobos
+  - Der Andenkondor, König der Lüfte
+  - Hai-Alarm in Polynesien
+  - Taipan, die gefährlichste Schlange der Welt
+  - Die Krabbenflut
+  - Sumatras letzte Orang-Utans
+  - Philippinen - Rendezvous mit einem Adler
+  - Auf Schlangenfang in Kambodscha
+  - Indiens Dschungelbuchklinik
+
+- title: Die Welt der Pferde
+  asin: B01E0NDKEA
+
+  dvd_count: 2
+  episodes:
+  - Die letzten Cowboys der Toskana
+  - Andalusien - Edle Pferde, wilde Stiere
+  - Königliche Mounties - Kanadas berittene Polizei
+  - Sardinien, Stolz und Ehre hoch zu Ross
+  - Attila und die Pferde der Puszta
+  - Joaquims wilde Reiter
+
+- title: Legendäre Eisenbahnstrecken
+  asin: B009CW2HVC
+
+  dvd_count: 2
+  episodes:
+  - Die Teebahn von Darjeeling
+  - Die Bambusbahn von Kambodscha
+  - Überleben am Manila Express
+  - Die Eisenbahn vom Baikal zum Amur
+  - Legende auf Schienen, Skandinaviens Kirunabahn
+  - Die Waldbahn der Karpaten
+  - Die Benguela-Bahn in Angola
+
+- title: Leben an der Küste
+  asin: B007BZ07FU
+
+  dvd_count: 3
+  episodes:
+  - Unterwegs mit der Irish Coast Guard
+  - Die Todesküste von Gazilien
+  - Eine Fähre nach Afrika
+  - Venezuela - Die alte Frau und das Meer
+  - Die Magellan-Lotsen
+  - Peru - Delfine in Gefahr
+  - Das Perlenimperium von Palawan
+  - Die Meerfrauen von Japan
+  - Die schwimmenden Dörfer der Ha Long Bucht
+
+- title: Eine Seereise durch den Norden Europas
+  asin: B007BZ06NS
+  dvd_count: 2
+  episodes:
+  - Das Postschiff zum Ende der Welt
+  - Die Narzisseninsel vor Cornwall
+  - Sark, die Kanalinsel der Queen
+  - Spitzbergen, Eisige Insel
+  - Island, Leben auf dem Pulverfass
+  - Die Halligen, Mitten im Winter, Mitten im Wasser
+
+- title: Eine Reise durch Mexiko und die Karibik
+  asin: B01FL88CAU
+
+  dvd_count: 2
+  episodes:
+  - Die Kämpferinnen von Mexiko
+  - Basketball- Die Barfussspieler von Mexiko
+  - Bahamas - Unverfälscht!
+  - Kuba, eine Generation im Wandel
+  - Ein Baumhaus in Costa Rica
+  - Die Oldtimer von Curaçao
+  - Venezuela, die Blitze von Catatumbo
+  - Rum auf Guadeloupe
+
+- title: Eine Reise durch Nordamerika
+  asin: B005WPNWGC
+  episodes:
+  - Alligatorjagd in Florida
+  - Im Land der schwarzen Witwen
+  - Kalifornien auf die harte Tour
+  - Die verrückten Karren des Mr. Winfried
+  - Hawaii, Beachboys auf Patrouille
+  - SOS in den Rocky Mountains
+  - Von Männern und Mustangs
+  - In acht Meilen um die Welt
+  - New York - Die kleinste Oper der Welt
+  - Cranberry-Saison auf Cape Cod
+  - Die Holzfäller von British Columbia
+  - Highway durch die Arktis
+
+- title: Einzigartige Kulturen
+  asin: B01E0NDKCW
+  episodes:
+  - Die Kichwa-Krieger und das Öl
+  - Auf den Spuren der Wikinger
+  - Polarschule der Nomadenkinder
+  - Tonga, Paradies der Südsee
+  - Kanada, Indianer schreiben Geschichte
+  - Der Samurai von Fukushima
+  - Mustang - Flucht aus den Bergen
+  - Sulawesi, die letzten Seenomaden
+
+- title: Das Leben auf dem Wasser
+  asin: B01I60VC0C
+
+  dvd_count: 3
+  episodes:
+  - Arktis - Die Route der Atomeisbrecher
+  - Auf dem Floß durch die Schluchten von Tara
+  - Bangladesh, Schiff der Hoffnung
+  - Sulawesi - Die letzten Seenomaden
+  - Tanganjikasee, vom Kanonenboot zum Passagierschif
+  - Unter Haien - Riffpatrouille in der Sulusee
+  - Die Eisbergjäger von Neufundland
+  - Hamburg, die Stadt der Schwäne
+  - Die Dhaus, Arabiens legendäre Schiffe
+
+- title: Starke Frauen
+  asin: B01E0NDKDQ
+  episodes:
+  - Churubamba - Frauen am Ball
+  - Die Falkenärztin von Abu Dhabi
+  - Sumatra - Ettis Schönheitssalon
+  - Die Kämpferinnen von Mexiko
+  - Die Bogenschützin von Bhutan
+  - Bahamas unverfälscht!
+  - Bangladesch, Schiff der Hoffnung
+  - Rosa Amélia - Fische, Freunde, Fado
+  - Exzentriker der Düfte
+  - Jemens verschleierte Zukunft
+  - Jillaroos - Cowgirls im Australischen Outback
+  - Joana - Make up und Motorenöl
+
+- title: Hilfe für die Tierwelt
+  asin: B01E0NDKB8
+  episodes:
+  - Boliviens junge Wilde
+  - Hamburg, Stadt der Schwäne
+  - Tasmanien - Sympathie für den Teufel
+  - Die goldenen Schildkröten von Madagaskar
+  - Jenny und ihre Flughunde
+  - Gnadenhof „Gut Aiderbichl“
+  - Bishnoi, Tierliebe bis in den Tod
+  - Bolivien - Kleine Käfer, großes Geld!
+
+- title: Städte und ihre Geheimnisse
+  asin: B009CW2HQM
+  episodes:
+  - New York - Die kleinste Oper der Welt
+  - Rio - vom Strich auf den Laufsteg
+  - Rom - Das Leben der Komparsen
+  - Florenz, Fussball bis aufs Blut
+  - Jerusalem im Morgengrauen
+  - Auf den Dächern von Kairo
+  - Johannesburg - Eine Stadt macht dicht
+  - Taipeh 101 - Der Himmel über Taiwan
+
+- title: Der Mensch und das Meer
+  asin: B007BZ06QU
+  dvd_count: 8
+  collection:
+  - Eine Seereise durch den Norden Europas
+  - Leben an der Küste
