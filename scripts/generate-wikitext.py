@@ -2,6 +2,8 @@
 
 from __future__ import annotations
 from _lib import geo_360 as geo, Episode
+from _wiki import format_ref
+import _wiki
 
 """
 https://de.wikipedia.org/wiki/Vorlage:Episodenlistentabelle
@@ -9,18 +11,12 @@ https://de.wikipedia.org/wiki/Vorlage:Episodenlisteneintrag
 """
 
 
-def make_ref(url: str | None) -> str:
-    if not url:
-        return ""
-    return "<ref>" + url + "</ref>"
-
-
 def generate_episode(episode: Episode, episode_no: int, absolute_no: int) -> str:
-    title = episode.data["title"]
-    title += make_ref(episode.fernsehserien_url)
-    title += make_ref(episode.thetvdb_url)
-    title += make_ref(episode.imdb_url)
-    title += make_ref(episode.youtube_url)
+    title: str = episode.data["title"]
+    title += format_ref(episode.fernsehserien_url)
+    title += format_ref(episode.thetvdb_url)
+    title += _wiki.format_ref_imdb(episode)
+    title += format_ref(episode.youtube_url)
     return (
         "{{Episodenlisteneintrag\n"
         "| NR_GES = " + str(absolute_no) + "\n"

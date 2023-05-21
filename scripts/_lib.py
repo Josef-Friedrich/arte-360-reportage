@@ -57,7 +57,6 @@ class Episode:
         if "air_date" in self.data and self.data["air_date"]:
             return date.fromisoformat(self.data["air_date"])
 
-
     def format_air_date(self, format: str) -> str:
         d = self.air_date_date
         if not d:
@@ -91,11 +90,16 @@ class Episode:
         )
 
     @property
+    def imdb_episode_id(self) -> str | None:
+        "For example: ``tt10007904``"
+        if "imdb_episode_id" in self.data:
+            return self.data["imdb_episode_id"]
+
+    @property
     def imdb_url(self) -> str | None:
-        if "imdb_episode_id" not in self.data:
+        if not self.imdb_episode_id:
             return
-        episode_id: str = self.data["imdb_episode_id"]
-        return f"https://www.imdb.com/title/{episode_id}"
+        return f"https://www.imdb.com/title/{self.imdb_episode_id}"
 
     @property
     def imdb_link(self) -> str:
