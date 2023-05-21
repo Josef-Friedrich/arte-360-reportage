@@ -13,15 +13,27 @@ if TYPE_CHECKING:
 
 class EpisodeData(typing.TypedDict):
     title: str
+    """German title"""
+
     alias: str
     title_fr: str
+    """French title"""
+
     title_en: str
+    """English title"""
+
     air_date: str
+
     duration: int
+
     season: int
+
     episode: int
+
     thetvdb_season_episode: str
+
     thetvdb_episode_id: int
+
     fernsehserien_air_date: str
 
     fernsehserien_episode_no: int
@@ -34,7 +46,9 @@ class EpisodeData(typing.TypedDict):
     """for example ``339440``"""
 
     imdb_episode_id: str
+
     youtube_video_id: str
+
     index: typing_extensions.NotRequired[int]
 
 
@@ -49,6 +63,16 @@ class Episode:
     @property
     def title(self) -> str:
         return self.data["title"]
+
+    @property
+    def title_fr(self) -> str | None:
+        if "title_fr" in self.data:
+            return self.data["title_fr"]
+
+    @property
+    def title_en(self) -> str | None:
+        if "title_en" in self.data:
+            return self.data["title_en"]
 
     @property
     def air_date(self) -> str:

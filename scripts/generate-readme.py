@@ -5,6 +5,7 @@ from __future__ import annotations
 import typing
 
 from _lib import tv_show
+from _episode import Episode
 
 """
 # 360-geo-reportage
@@ -25,6 +26,15 @@ Quelle: https://www.fernsehserien.de/arte-360grad-reportage/episodenguide
 """
 
 
+def _format_title(episode: Episode) -> str:
+    title: str = episode.title
+    if episode.title_fr:
+        title += f"<br>fr: *{episode.title_fr}*"
+    if episode.title_en:
+        title += f"<br>en: *{episode.title_en}*"
+    return title
+
+
 def format_row(cells: list[typing.Any]):
     row = " | ".join(cells)
     return f"| {row} | "
@@ -38,7 +48,7 @@ rows.append(format_row(["-", "-", "-", "-", "-", "-"]))
 for episode in tv_show.episodes:
     row: list[str] = []
     row.append(episode.format_air_date("%a %Y-%m-%d"))
-    row.append(episode.title)
+    row.append(_format_title(episode))
     row.append(episode.youtube_link)
     row.append(episode.thetvdb_link)
     row.append(episode.imdb_link)
