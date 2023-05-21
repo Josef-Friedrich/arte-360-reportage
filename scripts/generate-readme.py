@@ -35,17 +35,26 @@ def _format_title(episode: Episode) -> str:
     return title
 
 
-def format_row(cells: list[typing.Any]):
-    row = " | ".join(cells)
+def _format_row(cells: list[typing.Any]) -> str:
+    row: str = " | ".join(cells)
     return f"| {row} | "
 
 
-rows: list[str] = []
-rows.append(
-    format_row(["air_date", "title", "youtube", "thetvdb", "imdb", "fernsehserien"])
-)
-rows.append(format_row(["-", "-", "-", "-", "-", "-"]))
-for episode in tv_show.episodes:
+def _format_table(header: list[str], rows: list[list[str]]) -> str:
+    rendered_rows: list[str] = []
+    rendered_rows.append(_format_row(header))
+
+    separator: list[str] = []
+    for _ in header:
+        separator.append("---")
+    rendered_rows.append(_format_row(separator))
+
+    for row in rows:
+        rendered_rows.append(_format_row(row))
+    return "\n".join(rendered_rows)
+
+
+def _assemble_row(episode: Episode) -> list[str]:
     row: list[str] = []
     row.append(episode.format_air_date("%a %Y-%m-%d"))
     row.append(_format_title(episode))
@@ -53,8 +62,22 @@ for episode in tv_show.episodes:
     row.append(episode.thetvdb_link)
     row.append(episode.imdb_link)
     row.append(episode.fernsehserien_link)
-    rows.append(format_row(row))
+    return row
 
 
-with open("README.md", "w") as readme:
-    readme.write(str("\n".join(rows)))
+def main() -> None:
+    rows: list[list[str]] = []
+
+    for episode in tv_show.episodes:
+        rows.append(_assemble_row(episode))
+
+    with open("README.md", "w") as readme:
+        readme.write(
+            _format_table(
+                ["air_date", "title", "youtube", "thetvdb", "imdb", "fernsehserien"],
+                rows,
+            )
+        )
+
+
+main()

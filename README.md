@@ -1,5 +1,5 @@
 | air_date | title | youtube | thetvdb | imdb | fernsehserien | 
-| - | - | - | - | - | - | 
+| --- | --- | --- | --- | --- | --- | 
 | Mon 1999-01-04 | Traum-Städte: Beirut - die Milliarden-Dollar-Utopie | [E_uSFyHf7BM](https://www.youtube.com/watch?v=E_uSFyHf7BM) | [S01E01](https://thetvdb.com/series/272599-show/episodes/4641893) |  | [1](https://www.fernsehserien.de/arte-360grad-reportage/folgen/1-traum-staedte-beirut-die-milliarden-dollar-utopie-339116) | 
 | Tue 1999-01-05 | Traum-Städte: Chandigarh - Leben im Beton | [FGgrN8pRhTU](https://www.youtube.com/watch?v=FGgrN8pRhTU) | [S01E02](https://thetvdb.com/series/272599-show/episodes/4641894) |  | [2](https://www.fernsehserien.de/arte-360grad-reportage/folgen/2-traum-staedte-chandigarh-leben-im-beton-339117) | 
 | Wed 1999-01-06 | Traum-Städte: Brasilia - Metropole vom Reißbrett | [_7Y2Y4bbw9s](https://www.youtube.com/watch?v=_7Y2Y4bbw9s) | [S01E03](https://thetvdb.com/series/272599-show/episodes/4641895) |  | [3](https://www.fernsehserien.de/arte-360grad-reportage/folgen/3-traum-staedte-brasilia-metropole-vom-reissbrett-339118) | 
