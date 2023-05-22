@@ -66,12 +66,12 @@ class Episode:
 
     @property
     def title_fr(self) -> str | None:
-        if "title_fr" in self.data:
+        if "title_fr" in self.data and self.data["title_fr"] != "":
             return self.data["title_fr"]
 
     @property
     def title_en(self) -> str | None:
-        if "title_en" in self.data:
+        if "title_en" in self.data and self.data["title_en"] != "":
             return self.data["title_en"]
 
     @property

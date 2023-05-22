@@ -2285,6 +2285,7 @@ episodes:
   imdb_episode_id: tt1623059
   youtube_video_id: qVuhqpYiH5c
 - title: Hexenwahn in Tansania
+  title_fr: ''
   air_date: '2008-01-21'
   duration: 55
   thetvdb_season_episode: S10E01
@@ -2294,6 +2295,7 @@ episodes:
   fernsehserien_episode_id: 339722
   youtube_video_id: 8K_unhDEPJo
 - title: Die Kämpferinnen von Mexiko
+  title_fr: ''
   air_date: '2008-01-25'
   duration: 55
   thetvdb_season_episode: S10E02
@@ -2303,6 +2305,7 @@ episodes:
   fernsehserien_episode_id: 339724
   youtube_video_id: HDZDyBBnqDs
 - title: Die Minenratten von Tansania
+  title_fr: ''
   air_date: '2008-02-25'
   duration: 55
   thetvdb_season_episode: S10E03
@@ -2312,6 +2315,7 @@ episodes:
   fernsehserien_episode_id: 339727
   youtube_video_id: BYPBaBKHjpM
 - title: 'Philippinen: Rendezvous mit einem Adler'
+  title_fr: ''
   air_date: '2008-02-28'
   duration: 55
   thetvdb_season_episode: S10E04
@@ -2322,6 +2326,7 @@ episodes:
   imdb_episode_id: tt3781424
   youtube_video_id: Qr9EvRRTYLo
 - title: Die Köchin von Bahia
+  title_fr: ''
   air_date: '2008-03-25'
   duration: 55
   thetvdb_season_episode: S10E05
@@ -2331,6 +2336,7 @@ episodes:
   fernsehserien_episode_id: 339728
   youtube_video_id: U0f-lOEyArs
 - title: Der Kräutergarten von Java
+  title_fr: ''
   air_date: '2008-03-27'
   duration: 55
   thetvdb_season_episode: S10E06
@@ -2340,6 +2346,7 @@ episodes:
   fernsehserien_episode_id: 339730
   youtube_video_id: n_GzJ5oxdSQ
 - title: An den Ufern der Loire
+  title_fr: ''
   air_date: '2008-04-21'
   duration: 55
   thetvdb_season_episode: S10E07
@@ -2349,6 +2356,7 @@ episodes:
   fernsehserien_episode_id: 339684
   youtube_video_id: u-rV3o70aFs
 - title: Rom - Das Leben der Komparsen
+  title_fr: ''
   air_date: '2008-04-22'
   duration: 55
   thetvdb_season_episode: S10E08
@@ -2358,6 +2366,7 @@ episodes:
   fernsehserien_episode_id: 339691
   youtube_video_id: -M2Nf4GPbHg
 - title: Kanadas Buschpiloten im Einsatz
+  title_fr: ''
   air_date: '2008-05-26'
   duration: 55
   thetvdb_season_episode: S10E09
@@ -2367,6 +2376,7 @@ episodes:
   fernsehserien_episode_id: 339695
   youtube_video_id: dr7OQ8XcdXA
 - title: 'Mauretanien: Aufstand der Fischerfrauen'
+  title_fr: ''
   air_date: '2008-07-26'
   duration: 55
   thetvdb_season_episode: S10E10
@@ -2376,6 +2386,7 @@ episodes:
   fernsehserien_episode_id: 339731
   youtube_video_id: eRzhzWVRgns
 - title: Vom Klassenzimmer in die Kalahari
+  title_fr: ''
   air_date: '2008-07-31'
   duration: 55
   thetvdb_season_episode: S10E11
@@ -2385,6 +2396,7 @@ episodes:
   fernsehserien_episode_id: 339699
   youtube_video_id: AB2q4v0rlYo
 - title: 'Nicaragua: Fluch der Langustentaucher'
+  title_fr: ''
   air_date: '2008-08-28'
   duration: 55
   thetvdb_season_episode: S10E12
@@ -2395,6 +2407,7 @@ episodes:
   imdb_episode_id: tt1279332
   youtube_video_id: bO6BiCVyGug
 - title: 'Uganda: Der Weg zum Fahrradtaxi'
+  title_fr: ''
   air_date: '2008-09-04'
   duration: 55
   thetvdb_season_episode: S10E13
@@ -2404,6 +2417,7 @@ episodes:
   fernsehserien_episode_id: 339709
   youtube_video_id: Z-9fqoYchv4
 - title: New York - Die kleinste Oper der Welt
+  title_fr: ''
   air_date: '2008-09-18'
   duration: 55
   thetvdb_season_episode: S10E14
@@ -2413,6 +2427,7 @@ episodes:
   fernsehserien_episode_id: 339711
   youtube_video_id: I-VACV5HkOs
 - title: 'Indien: Das Geschäft mit dem Tempelhaar'
+  title_fr: ''
   air_date: '2008-10-02'
   duration: 55
   thetvdb_season_episode: S10E15
@@ -2423,6 +2438,7 @@ episodes:
   imdb_episode_id: tt27406063
   youtube_video_id: Ka5if339los
 - title: Kyushu - Wo Japans grüner Tee wächst
+  title_fr: ''
   air_date: '2008-10-16'
   duration: 55
   thetvdb_season_episode: S10E16
@@ -2433,6 +2449,7 @@ episodes:
   imdb_episode_id: tt1301207
   youtube_video_id: EoXyDIckuRI
 - title: Arganöl - Marokkos weißes Gold
+  title_fr: ''
   air_date: '2008-10-30'
   duration: 55
   thetvdb_season_episode: S10E17
@@ -2442,6 +2459,7 @@ episodes:
   fernsehserien_episode_id: 339723
   youtube_video_id: hebFHCqfu0c
 - title: Das Geheimnis der Schweizer Uhren
+  title_fr: ''
   air_date: '2008-11-06'
   duration: 55
   thetvdb_season_episode: S10E18
@@ -2452,6 +2470,7 @@ episodes:
   imdb_episode_id: tt1301206
   youtube_video_id: WhhdUVCFga0
 - title: Johana - Make-up und Motorenöl
+  title_fr: ''
   air_date: '2008-11-13'
   duration: 55
   thetvdb_season_episode: S10E19
@@ -2461,6 +2480,7 @@ episodes:
   fernsehserien_episode_id: 339726
   youtube_video_id: t3FempEGGaw
 - title: Rio de la Plata - SOS am Silberfluss
+  title_fr: ''
   air_date: '2008-11-27'
   duration: 55
   thetvdb_season_episode: S10E20
@@ -2470,6 +2490,7 @@ episodes:
   fernsehserien_episode_id: 339732
   youtube_video_id: IkMvsCA4uo0
 - title: Der Weinpriester von Bali
+  title_fr: ''
   air_date: '2008-12-04'
   duration: 55
   thetvdb_season_episode: S10E21
@@ -2479,6 +2500,7 @@ episodes:
   fernsehserien_episode_id: 339733
   youtube_video_id: -D0iE7FsRGQ
 - title: Taipeh 101 - Der Himmel über Taiwan
+  title_fr: ''
   air_date: '2008-12-11'
   duration: 55
   thetvdb_season_episode: S10E22
@@ -2488,6 +2510,7 @@ episodes:
   fernsehserien_episode_id: 339734
   youtube_video_id: SJKNUloS0O4
 - title: Die einsamen Mönche von Oelenberg
+  title_fr: ''
   air_date: '2008-12-18'
   duration: 55
   thetvdb_season_episode: S10E23
@@ -2497,6 +2520,7 @@ episodes:
   fernsehserien_episode_id: 339735
   youtube_video_id: QR5RWf0_ksc
 - title: Arktis - Die Route der Atomeisbrecher
+  title_fr: ''
   air_date: '2009-01-18'
   duration: 55
   thetvdb_season_episode: S11E01
@@ -2507,6 +2531,7 @@ episodes:
   imdb_episode_id: tt1350547
   youtube_video_id: 4VEpfXzy214
 - title: Die besten Hütehunde von Wales
+  title_fr: ''
   alias: Weltmeister auf vier Pfoten
   air_date: '2009-01-24'
   duration: 55
@@ -2518,6 +2543,7 @@ episodes:
   imdb_episode_id: tt27481079
   youtube_video_id: B0wdXJ_U7TY
 - title: Idjwi - Afrikas vergessene Insel
+  title_fr: ''
   air_date: '2009-01-31'
   duration: 55
   thetvdb_season_episode: S11E03
@@ -2528,6 +2554,7 @@ episodes:
   imdb_episode_id: tt1350549
   youtube_video_id: y_zW09TMKaQ
 - title: Die Bambusbahn von Kambodscha
+  title_fr: ''
   air_date: '2009-02-07'
   duration: 55
   thetvdb_season_episode: S11E04
@@ -2537,6 +2564,7 @@ episodes:
   fernsehserien_episode_id: 339738
   youtube_video_id: j3ZqYbPVhq4
 - title: 'Nepal: Die Krieger vom Dach der Welt'
+  title_fr: ''
   air_date: '2009-02-21'
   duration: 55
   thetvdb_season_episode: S11E05
@@ -2547,6 +2575,7 @@ episodes:
   imdb_episode_id: tt1348519
   youtube_video_id: m-7u2kAG2DQ
 - title: Das Whisky-Geheimnis von Islay
+  title_fr: ''
   air_date: '2009-03-21'
   duration: 55
   thetvdb_season_episode: S11E06
@@ -2557,6 +2586,7 @@ episodes:
   imdb_episode_id: tt2107879
   youtube_video_id: 4z_vcFuiwds
 - title: Biberkrieg in Bayern
+  title_fr: ''
   air_date: '2009-04-18'
   duration: 55
   thetvdb_season_episode: S11E07
@@ -2566,6 +2596,7 @@ episodes:
   fernsehserien_episode_id: 339741
   youtube_video_id: L1QY4QuRJs4
 - title: Die Feuerflieger von Valencia
+  title_fr: ''
   air_date: '2009-05-18'
   duration: 55
   thetvdb_season_episode: S11E08
@@ -2577,6 +2608,7 @@ episodes:
   imdb_episode_id: tt3825396
   youtube_video_id: hc_-HyJy6u0
 - title: Kaviar - Der Schatz aus dem Iran!
+  title_fr: ''
   air_date: '2009-05-02'
   duration: 55
   thetvdb_season_episode: S11E09
@@ -2586,6 +2618,7 @@ episodes:
   fernsehserien_episode_id: 339742
   youtube_video_id: i8lc_XQujbM
 - title: 'Georgien: Die Wiege des Weins'
+  title_fr: ''
   air_date: '2009-05-24'
   duration: 55
   thetvdb_season_episode: S11E10
@@ -2595,6 +2628,7 @@ episodes:
   fernsehserien_episode_id: 339744
   youtube_video_id: iSex9SfaNDg
 - title: Die Magellan-Lotsen
+  title_fr: ''
   air_date: '2009-05-30'
   duration: 55
   thetvdb_season_episode: S11E11
@@ -2604,6 +2638,7 @@ episodes:
   fernsehserien_episode_id: 339745
   youtube_video_id: zJXstWpax9g
 - title: Die Falkenärztin von Abu Dhabi
+  title_fr: ''
   air_date: '2009-07-05'
   duration: 55
   thetvdb_season_episode: S11E12
@@ -2614,6 +2649,7 @@ episodes:
   imdb_episode_id: tt2101587
   youtube_video_id: QE2i1lYmb_Q
 - title: Sokotra, Schatzinsel in Gefahr
+  title_fr: ''
   air_date: '2009-07-25'
   duration: 55
   thetvdb_season_episode: S11E13
@@ -2624,6 +2660,7 @@ episodes:
   imdb_episode_id: tt1458179
   youtube_video_id: G-TbiXRVLTM
 - title: Jemens verschleierte Zukunft
+  title_fr: ''
   air_date: '2009-08-08'
   duration: 55
   thetvdb_season_episode: S11E14
@@ -2633,6 +2670,7 @@ episodes:
   fernsehserien_episode_id: 339748
   youtube_video_id: gCIzyjixKpI
 - title: Neuseelands Lauf der Extreme
+  title_fr: ''
   air_date: '2009-08-22'
   duration: 55
   thetvdb_season_episode: S11E15
@@ -2642,6 +2680,7 @@ episodes:
   fernsehserien_episode_id: 339749
   youtube_video_id: 6TSXVJB4nmQ
 - title: Die Narzisseninsel vor Cornwall
+  title_fr: ''
   air_date: '2009-09-12'
   duration: 55
   thetvdb_season_episode: S11E16
@@ -2651,6 +2690,7 @@ episodes:
   fernsehserien_episode_id: 339751
   youtube_video_id: 2k8K6kPY24U
 - title: Die Todesküste von Galicien
+  title_fr: ''
   air_date: '2009-09-13'
   duration: 55
   thetvdb_season_episode: S11E17
@@ -2660,6 +2700,7 @@ episodes:
   fernsehserien_episode_id: 339752
   youtube_video_id: MMsnMfaXpUA
 - title: Das Salz der Inka
+  title_fr: ''
   air_date: '2009-09-26'
   duration: 55
   thetvdb_season_episode: S11E18
@@ -2670,6 +2711,7 @@ episodes:
   imdb_episode_id: tt2077916
   youtube_video_id: RUfLIGurIAE
 - title: Die Holzfäller von British Columbia
+  title_fr: ''
   air_date: '2009-10-10'
   duration: 55
   thetvdb_season_episode: S11E19
@@ -2680,6 +2722,7 @@ episodes:
   imdb_episode_id: tt1621646
   youtube_video_id: MpF684mvA5A
 - title: Die neuen Nomaden von Kirgisistan
+  title_fr: ''
   air_date: '2009-10-31'
   duration: 55
   thetvdb_season_episode: S11E20
@@ -2689,6 +2732,7 @@ episodes:
   fernsehserien_episode_id: 339755
   youtube_video_id: V5qvHh2phPw
 - title: Die Meerfrauen von Japan
+  title_fr: ''
   air_date: '2009-11-01'
   duration: 55
   thetvdb_season_episode: S11E21
@@ -2698,6 +2742,7 @@ episodes:
   fernsehserien_episode_id: 339756
   youtube_video_id: 7Xh5pUZt0yM
 - title: Paraguays neue Häuser
+  title_fr: ''
   air_date: '2009-11-14'
   duration: 55
   thetvdb_season_episode: S11E22
@@ -2708,6 +2753,7 @@ episodes:
   imdb_episode_id: tt1514454
   youtube_video_id: quHXX9_bIjQ
 - title: Ein Baumhaus in Costa Rica
+  title_fr: ''
   air_date: '2009-11-28'
   duration: 55
   thetvdb_season_episode: S11E23
@@ -2717,6 +2763,7 @@ episodes:
   fernsehserien_episode_id: 339951
   youtube_video_id: JL3N7pLoXFM
 - title: 'Ruanda: Land der Frauen'
+  title_fr: ''
   air_date: '2009-12-12'
   duration: 55
   thetvdb_season_episode: S11E24
@@ -2726,6 +2773,7 @@ episodes:
   fernsehserien_episode_id: 339952
   youtube_video_id: cgNXNRjbB8E
 - title: 'Saint-Pierre und Miquelon: Archipel in der Isolation'
+  title_fr: ''
   air_date: '2009-12-19'
   duration: 55
   thetvdb_season_episode: S11E25
@@ -2735,6 +2783,7 @@ episodes:
   fernsehserien_episode_id: 339954
   youtube_video_id: z6mots9SAg0
 - title: 'Saint Helena: Vergessen im Atlantik'
+  title_fr: ''
   air_date: '2009-12-26'
   duration: 55
   thetvdb_season_episode: S11E26
@@ -2744,6 +2793,7 @@ episodes:
   fernsehserien_episode_id: 339953
   youtube_video_id: srGhZLAIPCk
 - title: Vietnams vermintes Paradies
+  title_fr: ''
   air_date: '2010-01-09'
   duration: 55
   thetvdb_season_episode: S12E01
@@ -2753,6 +2803,7 @@ episodes:
   fernsehserien_episode_id: 339955
   youtube_video_id: 56EQyMDFfzM
 - title: Spitzbergen, eisige Insel
+  title_fr: ''
   air_date: '2010-01-30'
   duration: 55
   thetvdb_season_episode: S12E02
@@ -2763,6 +2814,7 @@ episodes:
   imdb_episode_id: tt2128705
   youtube_video_id: 5WVk0CvsUA0
 - title: 'Hawaii: Beachboys auf Patrouille'
+  title_fr: ''
   air_date: '2010-02-06'
   duration: 55
   thetvdb_season_episode: S12E03
@@ -2772,6 +2824,7 @@ episodes:
   fernsehserien_episode_id: 339957
   youtube_video_id: 7NHpb3KDYH0
 - title: SOS in den Rocky Mountains
+  title_fr: ''
   air_date: '2010-02-20'
   duration: 55
   thetvdb_season_episode: S12E04
@@ -2782,6 +2835,7 @@ episodes:
   imdb_episode_id: tt10007904
   youtube_video_id: S3N8fPmBOD0
 - title: Die letzten Kamelkarawanen der Sahara
+  title_fr: ''
   air_date: '2010-03-06'
   duration: 55
   thetvdb_season_episode: S12E05
@@ -2791,6 +2845,7 @@ episodes:
   fernsehserien_episode_id: 339960
   youtube_video_id: kKr2LCU__Pg
 - title: Mit der Lok durch Angola
+  title_fr: ''
   air_date: '2010-03-27'
   duration: 55
   thetvdb_season_episode: S12E06
@@ -2800,6 +2855,7 @@ episodes:
   fernsehserien_episode_id: 339961
   youtube_video_id: jbkp_3nRDjQ
 - title: Wilde Pferde im Donaudelta
+  title_fr: ''
   air_date: '2010-04-10'
   duration: 55
   thetvdb_season_episode: S12E07
@@ -2809,6 +2865,7 @@ episodes:
   fernsehserien_episode_id: 339757
   youtube_video_id: nfDk1G85yUA
 - title: Cranberrysaison auf Cap Cod
+  title_fr: ''
   air_date: '2010-04-24'
   duration: 55
   thetvdb_season_episode: S12E08
@@ -2818,6 +2875,7 @@ episodes:
   fernsehserien_episode_id: 339950
   youtube_video_id: YZ7wxrTF3uI
 - title: Indiens Dschungelbuchklinik
+  title_fr: ''
   air_date: '2010-05-29'
   duration: 55
   thetvdb_season_episode: S12E09
@@ -2827,6 +2885,7 @@ episodes:
   fernsehserien_episode_id: 506720
   youtube_video_id: Tc7yml23q14
 - title: Unterwegs mit der Irish Coast Guard
+  title_fr: ''
   air_date: '2010-06-12'
   duration: 55
   thetvdb_season_episode: S12E10
@@ -2837,6 +2896,7 @@ episodes:
   imdb_episode_id: tt1692109
   youtube_video_id: vdqig1_VkIg
 - title: Jillaroos - Cowgirls im australischen Outback
+  title_fr: ''
   air_date: '2010-09-04'
   duration: 55
   thetvdb_season_episode: S12E11
@@ -2847,6 +2907,7 @@ episodes:
   imdb_episode_id: tt16970474
   youtube_video_id: dzNcn7hvzAc
 - title: Das Volk der Bishnoi - Tierliebe bis in den Tod
+  title_fr: ''
   air_date: '2010-09-11'
   duration: 55
   thetvdb_season_episode: S12E12
@@ -2856,6 +2917,7 @@ episodes:
   fernsehserien_episode_id: 339967
   youtube_video_id: tcNmq-quVPA
 - title: Falklandinseln - Pinguine auf dem Vormarsch
+  title_fr: ''
   air_date: '2010-09-18'
   duration: 55
   thetvdb_season_episode: S12E13
@@ -2865,6 +2927,7 @@ episodes:
   fernsehserien_episode_id: 339959
   youtube_video_id: A_eZDMVKVco
 - title: Taipan, die gefährlichste Schlange der Welt
+  title_fr: ''
   air_date: '2010-10-09'
   duration: 55
   thetvdb_season_episode: S12E14
@@ -2874,6 +2937,7 @@ episodes:
   fernsehserien_episode_id: 339962
   youtube_video_id: ItZXECu1GPQ
 - title: Baikalsee, ein Wintermärchen
+  title_fr: ''
   air_date: '2010-10-16'
   duration: 55
   thetvdb_season_episode: S12E15
@@ -2883,6 +2947,7 @@ episodes:
   fernsehserien_episode_id: 339966
   youtube_video_id: Q32TkfdHpnI
 - title: Legende auf Schienen - Skandinaviens Kirunabahn
+  title_fr: ''
   air_date: '2010-11-06'
   duration: 55
   thetvdb_season_episode: S12E16
@@ -2892,6 +2957,7 @@ episodes:
   fernsehserien_episode_id: 339964
   youtube_video_id: mGdgh-eQVM4
 - title: 'Sikkim: Das alte Wissen der Schamanen'
+  title_fr: ''
   air_date: '2010-11-20'
   duration: 55
   thetvdb_season_episode: S12E17
@@ -2902,6 +2968,7 @@ episodes:
   imdb_episode_id: tt2137499
   youtube_video_id: DW5ajV0yaFw
 - title: Die verrückten Karren des Mister Winfield
+  title_fr: ''
   air_date: '2010-12-11'
   duration: 55
   thetvdb_season_episode: S12E18
@@ -2911,6 +2978,7 @@ episodes:
   fernsehserien_episode_id: 339970
   youtube_video_id: Vg9aMMkF7PQ
 - title: Anatolien, das Land wo die Aprikosen blühen
+  title_fr: ''
   air_date: '2010-12-18'
   duration: 55
   thetvdb_season_episode: S12E19
@@ -2920,6 +2988,7 @@ episodes:
   fernsehserien_episode_id: 506722
   youtube_video_id: 6UNZBLK5xHc
 - title: Laetitia - allein unter Wölfen
+  title_fr: ''
   air_date: '2010-12-25'
   duration: 55
   thetvdb_season_episode: S12E20
@@ -2929,6 +2998,7 @@ episodes:
   fernsehserien_episode_id: 506698
   youtube_video_id: r5sfDn03OWw
 - title: Fremdenlegion - die Hölle im Regenwald
+  title_fr: ''
   air_date: '2011-01-01'
   duration: 55
   thetvdb_season_episode: S13E01
@@ -2939,6 +3009,7 @@ episodes:
   imdb_episode_id: tt1819778
   youtube_video_id: p3uxoko70Cc
 - title: Der Affenflüsterer
+  title_fr: ''
   air_date: '2011-01-08'
   duration: 55
   thetvdb_season_episode: S13E02
@@ -2949,6 +3020,7 @@ episodes:
   imdb_episode_id: tt2160477
   youtube_video_id: tsXjqdQkSio
 - title: 'Sardinien: Stolz und Ehre hoch zu Ross'
+  title_fr: ''
   air_date: '2011-01-15'
   duration: 55
   thetvdb_season_episode: S13E03
@@ -2958,6 +3030,7 @@ episodes:
   fernsehserien_episode_id: 339973
   youtube_video_id: JlaZDPOEupE
 - title: Die Feuerspringer von Sibirien
+  title_fr: ''
   air_date: '2011-01-22'
   duration: 55
   thetvdb_season_episode: S13E04
@@ -2967,6 +3040,7 @@ episodes:
   fernsehserien_episode_id: 339974
   youtube_video_id: fh2Pl9u1XOw
 - title: 'Island: Leben auf dem Pulverfass'
+  title_fr: ''
   air_date: '2011-01-29'
   duration: 55
   thetvdb_season_episode: S13E05
@@ -2976,6 +3050,7 @@ episodes:
   fernsehserien_episode_id: 339975
   youtube_video_id: n97-kFfr0xg
 - title: Polarschule der Nomadenkinder
+  title_fr: ''
   air_date: '2011-02-05'
   duration: 55
   thetvdb_season_episode: S13E06
@@ -2985,6 +3060,7 @@ episodes:
   fernsehserien_episode_id: 339976
   youtube_video_id: pAB_SIM2Big
 - title: Das Perlenimperium von Palawan
+  title_fr: ''
   air_date: '2011-02-12'
   duration: 55
   thetvdb_season_episode: S13E07
@@ -2995,6 +3071,7 @@ episodes:
   imdb_episode_id: tt1839712
   youtube_video_id: 7KKgclOqxAU
 - title: Marokko - die andere Seite des Paradieses
+  title_fr: ''
   air_date: '2011-02-19'
   duration: 55
   thetvdb_season_episode: S13E08
@@ -3004,6 +3081,7 @@ episodes:
   fernsehserien_episode_id: 339969
   youtube_video_id: ATAr5oY041c
 - title: Eine Fähre nach Afrika
+  title_fr: ''
   air_date: '2011-02-26'
   duration: 55
   thetvdb_season_episode: S13E09
@@ -3013,6 +3091,7 @@ episodes:
   fernsehserien_episode_id: 339978
   youtube_video_id: GwUd8KDdUN4
 - title: Großglockner, König der Hochalpen
+  title_fr: ''
   air_date: '2011-04-09'
   duration: 55
   thetvdb_season_episode: S13E10
@@ -3023,6 +3102,7 @@ episodes:
   imdb_episode_id: tt5037962
   youtube_video_id: 7SZoha01QG0
 - title: Champagner für alle!
+  title_fr: ''
   air_date: '2011-04-23'
   duration: 55
   thetvdb_season_episode: S13E11
@@ -3033,6 +3113,7 @@ episodes:
   imdb_episode_id: tt2361605
   youtube_video_id: cV-MNXIukmA
 - title: Armenien, die Früchte aus dem Paradies
+  title_fr: ''
   air_date: '2011-05-07'
   duration: 55
   thetvdb_season_episode: S13E12
@@ -3042,6 +3123,7 @@ episodes:
   fernsehserien_episode_id: 339981
   youtube_video_id: 25Vub7M_rLc
 - title: Stilikone Panamahut
+  title_fr: ''
   air_date: '2011-05-21'
   duration: 55
   thetvdb_season_episode: S13E13
@@ -3051,6 +3133,7 @@ episodes:
   fernsehserien_episode_id: 339982
   youtube_video_id: FLkf0zJdhFY
 - title: Die Halligen mitten im Winter, mitten im Wasser
+  title_fr: ''
   air_date: '2011-06-04'
   duration: 55
   thetvdb_season_episode: S13E14
@@ -3060,6 +3143,7 @@ episodes:
   fernsehserien_episode_id: 506723
   youtube_video_id: qZMtcyipMQc
 - title: Jenny und ihre Flughunde
+  title_fr: ''
   air_date: '2011-06-18'
   duration: 55
   thetvdb_season_episode: S13E15
@@ -3069,6 +3153,7 @@ episodes:
   fernsehserien_episode_id: 339984
   youtube_video_id: P81A8ljYhNM
 - title: Jordanien, Dynastie der Pferde
+  title_fr: ''
   air_date: '2011-07-02'
   duration: 55
   thetvdb_season_episode: S13E16
@@ -3079,6 +3164,7 @@ episodes:
   imdb_episode_id: tt1945242
   youtube_video_id: CTbgWjUewgA
 - title: In den Smaragdbergen von Bahia
+  title_fr: ''
   air_date: '2011-07-16'
   duration: 55
   thetvdb_season_episode: S13E17
@@ -3089,6 +3175,7 @@ episodes:
   imdb_episode_id: tt1945241
   youtube_video_id: hjMe94sQCRk
 - title: Rum auf Guadeloupe
+  title_fr: ''
   air_date: '2011-07-30'
   duration: 55
   thetvdb_season_episode: S13E18
@@ -3099,6 +3186,7 @@ episodes:
   imdb_episode_id: tt14617222
   youtube_video_id: 9N1Qll5w0ng
 - title: Sumatras letzte Orang-Utans
+  title_fr: ''
   air_date: '2011-09-03'
   duration: 55
   thetvdb_season_episode: S13E19
@@ -3118,6 +3206,7 @@ episodes:
   imdb_episode_id: tt1987522
   youtube_video_id: 8f4nujAr3Uc
 - title: Auf der Spur des spanischen Luchses
+  title_fr: ''
   air_date: '2011-10-15'
   duration: 55
   thetvdb_season_episode: S13E21
@@ -3127,6 +3216,7 @@ episodes:
   fernsehserien_episode_id: 339991
   youtube_video_id: ou7f1H60z7Q
 - title: Palawan - das Dorf der Gefangenen
+  title_fr: ''
   air_date: '2011-10-22'
   duration: 55
   thetvdb_season_episode: S13E22
@@ -3137,6 +3227,7 @@ episodes:
   imdb_episode_id: tt2168596
   youtube_video_id: dH7ls3Lqtzw
 - title: Der Andenkondor - König der Lüfte
+  title_fr: ''
   air_date: '2011-10-29'
   duration: 55
   thetvdb_season_episode: S13E23
@@ -3146,6 +3237,7 @@ episodes:
   fernsehserien_episode_id: 506721
   youtube_video_id: c0y6PT21TCs
 - title: Die Rettungshunde vom Gardasee
+  title_fr: ''
   air_date: '2011-10-29'
   duration: 55
   thetvdb_season_episode: S13E24
@@ -3157,6 +3249,7 @@ episodes:
   youtube_video_id: Xqj1OOEq5M4
 - title: Aserbaidschans fahrende Hochzeitmusikanten
   alias: Mit dem Wanderbarden durch Aserbaidschan
+  title_fr: ''
   air_date: '2011-11-12'
   duration: 55
   thetvdb_season_episode: S13E25
@@ -3166,6 +3259,7 @@ episodes:
   fernsehserien_episode_id: 339993
   youtube_video_id: ikwsm25rULY
 - title: Florenz - Fußball bis aufs Blut
+  title_fr: ''
   air_date: '2011-11-19'
   duration: 55
   thetvdb_season_episode: S13E26
@@ -3175,6 +3269,7 @@ episodes:
   fernsehserien_episode_id: 339994
   youtube_video_id: dpdeqdga-RM
 - title: Guano - Schatzinseln und Vogeldreck
+  title_fr: ''
   air_date: '2011-12-03'
   duration: 55
   thetvdb_season_episode: S13E27
@@ -3184,6 +3279,7 @@ episodes:
   fernsehserien_episode_id: 339995
   youtube_video_id: hDbmGter130
 - title: Lamu, die Insel der Esel
+  title_fr: ''
   air_date: '2011-12-17'
   duration: 55
   thetvdb_season_episode: S13E28
@@ -3193,6 +3289,7 @@ episodes:
   fernsehserien_episode_id: 339996
   youtube_video_id: Z8Xny07TdXQ
 - title: Sark - die Kanalinsel der Queen
+  title_fr: ''
   air_date: '2011-12-24'
   duration: 55
   thetvdb_season_episode: S13E29
@@ -3202,6 +3299,7 @@ episodes:
   fernsehserien_episode_id: 339997
   youtube_video_id: ybpV9JWD6qs
 - title: Schottland - Kampf, Clan und Königin
+  title_fr: ''
   air_date: '2012-01-07'
   duration: 55
   thetvdb_season_episode: S14E01
@@ -3211,6 +3309,7 @@ episodes:
   fernsehserien_episode_id: 339998
   youtube_video_id: AO5mzpVh6PI
 - title: Die scharfen Klingen der Auvergne
+  title_fr: ''
   air_date: '2012-01-28'
   duration: 55
   thetvdb_season_episode: S14E02
@@ -3220,6 +3319,7 @@ episodes:
   fernsehserien_episode_id: 339987
   youtube_video_id: Zo2vsTRz4x0
 - title: 'China: Im Reich der Mosuo-Frauen'
+  title_fr: ''
   air_date: '2012-02-11'
   duration: 55
   thetvdb_season_episode: S14E03
@@ -3230,6 +3330,7 @@ episodes:
   imdb_episode_id: tt2338236
   youtube_video_id: GhMq7fkeUKI
 - title: Majuli - ein Inselvolk trotzt den Fluten
+  title_fr: ''
   air_date: '2012-02-25'
   duration: 55
   thetvdb_season_episode: S14E04
@@ -3239,6 +3340,7 @@ episodes:
   fernsehserien_episode_id: 340000
   youtube_video_id: ZKUYH2GJDpM
 - title: 'Lappland: Rushhour im hohen Norden'
+  title_fr: ''
   air_date: '2012-03-10'
   duration: 55
   thetvdb_season_episode: S14E05
@@ -3248,6 +3350,7 @@ episodes:
   fernsehserien_episode_id: 340001
   youtube_video_id: MT5oNZ0Y6JY
 - title: Wildererjagd am Mount Kenya
+  title_fr: ''
   air_date: '2012-03-24'
   duration: 55
   thetvdb_season_episode: S14E06
@@ -3257,6 +3360,7 @@ episodes:
   fernsehserien_episode_id: 340002
   youtube_video_id: UAGR4vE_i0U
 - title: 'Tunesien: Die Suche nach dem Tintenfisch'
+  title_fr: ''
   air_date: '2012-04-05'
   duration: 55
   thetvdb_season_episode: S14E07
@@ -3267,6 +3371,7 @@ episodes:
   fernsehserien_episode_id: 340003
   youtube_video_id: K--aZyNB-LQ
 - title: Bahamas - unverfälscht!
+  title_fr: ''
   air_date: '2012-05-12'
   duration: 55
   thetvdb_season_episode: S14E08
@@ -3277,6 +3382,7 @@ episodes:
   fernsehserien_episode_id: 506699
   youtube_video_id: GGxlN3DjKCI
 - title: Slab City - wildes Leben in der Wüste
+  title_fr: ''
   air_date: '2012-05-26'
   duration: 55
   thetvdb_season_episode: S14E09
@@ -3286,6 +3392,7 @@ episodes:
   fernsehserien_episode_id: 506700
   youtube_video_id: T0K8Qv0eupI
 - title: Esmeraldas Edelkakao
+  title_fr: ''
   air_date: '2012-06-09'
   duration: 55
   thetvdb_season_episode: S14E10
@@ -3295,6 +3402,7 @@ episodes:
   fernsehserien_episode_id: 506701
   youtube_video_id: IMVYBpL-z4E
 - title: So schmeckt Australien!
+  title_fr: ''
   air_date: '2012-06-23'
   duration: 55
   thetvdb_season_episode: S14E11
@@ -3304,6 +3412,7 @@ episodes:
   fernsehserien_episode_id: 506702
   youtube_video_id: G_gFhibEvNA
 - title: Jerusalem im Morgengrauen
+  title_fr: ''
   air_date: '2012-07-28'
   duration: 55
   thetvdb_season_episode: S14E12
@@ -3314,6 +3423,7 @@ episodes:
   imdb_episode_id: tt3078344
   youtube_video_id: XeHZ3UW7woE
 - title: Die letzten Cowboys der Toskana
+  title_fr: ''
   air_date: '2012-09-01'
   duration: 55
   thetvdb_season_episode: S14E13
@@ -3323,6 +3433,7 @@ episodes:
   fernsehserien_episode_id: 506718
   youtube_video_id: We74sUq6TL8
 - title: Modelsuche in Sibirien
+  title_fr: ''
   air_date: '2012-09-15'
   duration: 55
   thetvdb_season_episode: S14E14
@@ -3332,6 +3443,7 @@ episodes:
   fernsehserien_episode_id: 506705
   youtube_video_id: ketqT7focbQ
 - title: 'Tanganjikasee: Vom Kanonenboot zum Passagierschiff'
+  title_fr: ''
   air_date: '2012-09-22'
   duration: 55
   thetvdb_season_episode: S14E15
@@ -3341,6 +3453,7 @@ episodes:
   fernsehserien_episode_id: 506706
   youtube_video_id: d9sb8TpPhtE
 - title: Auf dem Floß durch die Schluchten der Tara
+  title_fr: ''
   air_date: '2012-10-20'
   duration: 55
   thetvdb_season_episode: S14E16
@@ -3350,6 +3463,7 @@ episodes:
   fernsehserien_episode_id: 506707
   youtube_video_id: H9eSAANUh54
 - title: 'Indien: Das größte Schulessen der Welt'
+  title_fr: ''
   air_date: '2012-10-27'
   duration: 55
   thetvdb_season_episode: S14E17
@@ -3360,6 +3474,7 @@ episodes:
   imdb_episode_id: tt25786532
   youtube_video_id: K7E2T9Imdok
 - title: 'Myanmar: Ein Dorf braucht Strom'
+  title_fr: ''
   air_date: '2012-11-03'
   duration: 55
   thetvdb_season_episode: S14E18
@@ -3369,6 +3484,7 @@ episodes:
   fernsehserien_episode_id: 506709
   youtube_video_id: vN4snehmVSk
 - title: 'Bolivien: Lebensader Todesstraße'
+  title_fr: ''
   air_date: '2012-11-10'
   duration: 55
   thetvdb_season_episode: S14E19
@@ -3378,6 +3494,7 @@ episodes:
   fernsehserien_episode_id: 506710
   youtube_video_id: JhplvCSCDkQ
 - title: Die Krabbenfischer von Feuerland
+  title_fr: ''
   air_date: '2012-11-17'
   duration: 55
   thetvdb_season_episode: S14E20
@@ -3387,6 +3504,7 @@ episodes:
   fernsehserien_episode_id: 506711
   youtube_video_id: Y8D9o5YD2dM
 - title: Die Exzentriker der Düfte
+  title_fr: ''
   air_date: '2012-12-22'
   duration: 55
   thetvdb_season_episode: S14E21
@@ -3397,6 +3515,7 @@ episodes:
   imdb_episode_id: tt19718498
   youtube_video_id: qP99-RnEm7U
 - title: Arktis - Ein Junge wird Jäger
+  title_fr: ''
   air_date: '2013-01-19'
   duration: 55
   thetvdb_season_episode: S15E01
@@ -3407,6 +3526,7 @@ episodes:
   imdb_episode_id: tt16757896
   youtube_video_id: 9ff-GcgySN4
 - title: Shetland, das Ende des Öls
+  title_fr: ''
   air_date: '2013-02-02'
   duration: 55
   thetvdb_season_episode: S15E02
@@ -3417,6 +3537,7 @@ episodes:
   fernsehserien_episode_id: 506713
   youtube_video_id: ReBwYDvW-VM
 - title: Mezcal, Hochprozentiges aus Mexiko
+  title_fr: ''
   air_date: '2013-02-09'
   duration: 55
   thetvdb_season_episode: S15E03
@@ -3426,6 +3547,7 @@ episodes:
   fernsehserien_episode_id: 506714
   youtube_video_id: bpjZIo4bmGw
 - title: Atacamawüste - Leben ohne Wasser
+  title_fr: ''
   air_date: '2013-02-16'
   duration: 55
   thetvdb_season_episode: S15E04
@@ -3435,6 +3557,7 @@ episodes:
   fernsehserien_episode_id: 506728
   youtube_video_id: OJJze1tQhz0
 - title: Die letzten Köhler von Rumänien
+  title_fr: ''
   air_date: '2013-02-23'
   duration: 55
   thetvdb_season_episode: S15E05
@@ -3445,6 +3568,7 @@ episodes:
   imdb_episode_id: tt1007051
   youtube_video_id: NaYD2IlnDXw
 - title: Island - Der große Schafabtrieb
+  title_fr: ''
   air_date: '2013-03-09'
   duration: 55
   thetvdb_season_episode: S15E06
@@ -3455,6 +3579,7 @@ episodes:
   fernsehserien_episode_id: 506730
   youtube_video_id: 2tbQzv7Mnqk
 - title: Bangladesch - Schiff der Hoffnung
+  title_fr: ''
   air_date: '2013-03-23'
   duration: 55
   thetvdb_season_episode: S15E07
@@ -3464,6 +3589,7 @@ episodes:
   fernsehserien_episode_id: 506731
   youtube_video_id: 4H01x3_OEaY
 - title: Iquitos - Regenwaldmetropole am Amazonas
+  title_fr: ''
   air_date: '2013-03-30'
   duration: 55
   thetvdb_season_episode: S15E08
@@ -3473,6 +3599,7 @@ episodes:
   fernsehserien_episode_id: 506694
   youtube_video_id: zRCocBSf_SI
 - title: Die Marmorberge von Italien
+  title_fr: ''
   air_date: '2013-04-13'
   duration: 55
   thetvdb_season_episode: S15E09
@@ -3483,6 +3610,7 @@ episodes:
   fernsehserien_episode_id: 506696
   youtube_video_id: bND3Vz0DIb8
 - title: Bretagne - von Bienen und Leuchttürmen
+  title_fr: ''
   air_date: '2013-04-27'
   duration: 55
   thetvdb_season_episode: S15E10
@@ -3493,6 +3621,7 @@ episodes:
   fernsehserien_episode_id: 506697
   youtube_video_id: FskHAYwU3FM
 - title: Thailands Elefanten, raus aus der Stadt!
+  title_fr: ''
   air_date: '2013-06-15'
   duration: 55
   thetvdb_season_episode: S15E11
@@ -3502,6 +3631,7 @@ episodes:
   fernsehserien_episode_id: 506719
   youtube_video_id: m3qxxeiI04M
 - title: Tonga - Paradies der Südsee?
+  title_fr: ''
   air_date: '2013-06-22'
   duration: 55
   thetvdb_season_episode: S15E12
@@ -3511,6 +3641,7 @@ episodes:
   fernsehserien_episode_id: 514391
   youtube_video_id: a6-2aXuDLTw
 - title: Radio Patagonia
+  title_fr: ''
   air_date: '2013-07-06'
   duration: 55
   thetvdb_season_episode: S15E13
@@ -3521,6 +3652,7 @@ episodes:
   fernsehserien_episode_id: 514392
   youtube_video_id: xWorOwWPUMg
 - title: Die Polarbahn
+  title_fr: ''
   air_date: '2013-09-14'
   duration: 55
   thetvdb_season_episode: S15E14
@@ -3531,6 +3663,7 @@ episodes:
   imdb_episode_id: tt16606786
   youtube_video_id: VJ6JS8MWo9Y
 - title: Das Koala-Hospital
+  title_fr: ''
   air_date: '2013-09-21'
   duration: 55
   thetvdb_season_episode: S15E15
@@ -3540,6 +3673,7 @@ episodes:
   fernsehserien_episode_id: 534187
   youtube_video_id: f4ODAYWj-MA
 - title: Sulawesi - Die letzten Seenomaden
+  title_fr: ''
   air_date: '2013-09-28'
   duration: 55
   thetvdb_season_episode: S15E16
@@ -3549,6 +3683,7 @@ episodes:
   fernsehserien_episode_id: 534189
   youtube_video_id: 5ZSLl8Wj_-E
 - title: Taiwan - Fliegende Fische oder Atommüll?
+  title_fr: ''
   air_date: '2013-12-07'
   duration: 55
   thetvdb_season_episode: S15E17
@@ -3559,6 +3694,7 @@ episodes:
   fernsehserien_episode_id: 538387
   youtube_video_id: Uz7hFkRtHb4
 - title: Rattenjagd im Südpolarmeer
+  title_fr: ''
   air_date: '2013-10-12'
   duration: 55
   thetvdb_season_episode: S15E18
@@ -3568,6 +3704,7 @@ episodes:
   fernsehserien_episode_id: 540267
   youtube_video_id: oGcMkh67AeE
 - title: Costa Rica - Leben wie die Faultiere
+  title_fr: ''
   air_date: '2013-10-19'
   duration: 55
   thetvdb_season_episode: S15E19
@@ -3578,6 +3715,7 @@ episodes:
   imdb_episode_id: tt5229780
   youtube_video_id: NpxUVkA3Dfs
 - title: Der fröhliche Friedhof von Rumänien
+  title_fr: ''
   air_date: '2013-10-26'
   duration: 55
   thetvdb_season_episode: S15E20
@@ -3588,6 +3726,7 @@ episodes:
   imdb_episode_id: tt23145542
   youtube_video_id: kYW3GLZS5tA
 - title: Mustang - Flucht aus den Bergen
+  title_fr: ''
   air_date: '2013-11-09'
   duration: 55
   thetvdb_season_episode: S15E21
@@ -3597,6 +3736,7 @@ episodes:
   fernsehserien_episode_id: 543725
   youtube_video_id: 3ti-NbruVhU
 - title: Chivas, Kolumbiens bunte Busse
+  title_fr: ''
   air_date: '2013-11-23'
   duration: 55
   thetvdb_season_episode: S15E22
@@ -3606,6 +3746,7 @@ episodes:
   fernsehserien_episode_id: 556371
   youtube_video_id: -Min0yF6ccg
 - title: Aubrac - Kühe, Käse, Kerle!
+  title_fr: ''
   air_date: '2013-11-30'
   duration: 55
   thetvdb_season_episode: S15E23
@@ -3615,6 +3756,7 @@ episodes:
   fernsehserien_episode_id: 560136
   youtube_video_id: FKXxagKURQM
 - title: Die Samurai von Fukushima
+  title_fr: ''
   air_date: '2013-12-07'
   duration: 55
   thetvdb_season_episode: S15E24
@@ -3624,6 +3766,7 @@ episodes:
   fernsehserien_episode_id: 562240
   youtube_video_id: jVgE3nypw-c
 - title: Der gute Mensch von Karachi
+  title_fr: ''
   air_date: '2013-12-14'
   duration: 55
   thetvdb_season_episode: S15E25
@@ -3633,6 +3776,7 @@ episodes:
   fernsehserien_episode_id: 562637
   youtube_video_id: pk9M0hHj6e4
 - title: Die Austern von Arcachon
+  title_fr: ''
   air_date: '2013-12-21'
   duration: 55
   thetvdb_season_episode: S15E26
@@ -3643,6 +3787,7 @@ episodes:
   imdb_episode_id: tt27520865
   youtube_video_id: JCjShQJ89x0
 - title: Thailand, Raketen für die Götter
+  title_fr: ''
   air_date: '2013-12-28'
   duration: 55
   thetvdb_season_episode: S15E27
@@ -3652,6 +3797,7 @@ episodes:
   fernsehserien_episode_id: 567027
   youtube_video_id: HPDrBToxk24
 - title: Vietnam, Kobra auf dem Teller
+  title_fr: ''
   air_date: '2014-01-04'
   duration: 55
   thetvdb_season_episode: S16E01
@@ -3661,6 +3807,7 @@ episodes:
   fernsehserien_episode_id: 569058
   youtube_video_id: k5mRGmiLhBA
 - title: Indiens jüngste Polizisten
+  title_fr: ''
   air_date: '2014-01-25'
   duration: 55
   thetvdb_season_episode: S16E02
@@ -3670,6 +3817,7 @@ episodes:
   fernsehserien_episode_id: 574964
   youtube_video_id: czIONbtfL-I
 - title: Kambodscha, Ratte süß-sauer
+  title_fr: ''
   air_date: '2014-02-08'
   duration: 55
   thetvdb_season_episode: S16E03
@@ -3679,6 +3827,7 @@ episodes:
   fernsehserien_episode_id: 579703
   youtube_video_id: Fadu9DpauSQ
 - title: Azoren, das Geschäft mit den Walen
+  title_fr: ''
   air_date: '2014-02-22'
   duration: 55
   thetvdb_season_episode: S16E04
@@ -3689,6 +3838,7 @@ episodes:
   imdb_episode_id: tt5225390
   youtube_video_id: GUO0RvRiuQE
 - title: Fort McMurray, Kanada im Ölfieber
+  title_fr: ''
   air_date: '2014-03-01'
   duration: 55
   thetvdb_season_episode: S16E05
@@ -3698,6 +3848,7 @@ episodes:
   fernsehserien_episode_id: 584399
   youtube_video_id: eadcv_oMM9o
 - title: Rosa Amélia - Fische, Freunde, Fado
+  title_fr: ''
   air_date: '2014-03-08'
   duration: 55
   thetvdb_season_episode: S16E06
@@ -3707,6 +3858,7 @@ episodes:
   fernsehserien_episode_id: 587214
   youtube_video_id: t9HMH3k3Rz0
 - title: 'Schweiz: Das Verschwinden der Gletscher'
+  title_fr: ''
   air_date: '2014-03-29'
   duration: 55
   thetvdb_season_episode: S16E07
@@ -3716,6 +3868,7 @@ episodes:
   fernsehserien_episode_id: 591624
   youtube_video_id: QNabMUFSr2Y
 - title: Bangkoks Schatztaucher
+  title_fr: ''
   air_date: '2014-04-26'
   duration: 55
   thetvdb_season_episode: S16E08
@@ -3725,6 +3878,7 @@ episodes:
   fernsehserien_episode_id: 598991
   youtube_video_id: RKq3lqts3lg
 - title: Elbsandsteingebirge - Märchenwelt und Meisterwerke
+  title_fr: ''
   air_date: '2014-05-10'
   duration: 55
   thetvdb_season_episode: S16E09
@@ -3734,6 +3888,7 @@ episodes:
   fernsehserien_episode_id: 607545
   youtube_video_id: PEJoGOk3veQ
 - title: Die Goldenen Schildkröten von Madagaskar
+  title_fr: ''
   air_date: '2014-05-31'
   duration: 55
   thetvdb_season_episode: S16E10
@@ -3743,6 +3898,7 @@ episodes:
   fernsehserien_episode_id: 613998
   youtube_video_id: Do-ZlyolY9I
 - title: Hinter den Kulissen von Venedig
+  title_fr: ''
   air_date: '2014-06-14'
   duration: 55
   thetvdb_season_episode: S16E11
@@ -3753,6 +3909,7 @@ episodes:
   imdb_episode_id: tt16985580
   youtube_video_id: nuuE8tS-bDo
 - title: Eishockey - Mädchentraum im Himalaya
+  title_fr: ''
   air_date: '2014-07-05'
   duration: 55
   thetvdb_season_episode: S16E12
@@ -3762,6 +3919,7 @@ episodes:
   fernsehserien_episode_id: 620596
   youtube_video_id: ksF9UzJGXeE
 - title: Die Tango-Spelunken von Buenos Aires
+  title_fr: ''
   air_date: '2014-08-30'
   duration: 55
   thetvdb_season_episode: S16E13
@@ -3771,6 +3929,7 @@ episodes:
   fernsehserien_episode_id: 633374
   youtube_video_id: gPgur58gJIc
 - title: Jadehandel im Goldenen Dreieck
+  title_fr: ''
   air_date: '2014-09-06'
   duration: 55
   thetvdb_season_episode: S16E14
@@ -3780,6 +3939,7 @@ episodes:
   fernsehserien_episode_id: 634962
   youtube_video_id: grEeTdeih0Q
 - title: 'Bolivien: Kleine Käfer, großes Geld!'
+  title_fr: ''
   air_date: '2014-09-20'
   duration: 55
   thetvdb_season_episode: S16E15
@@ -3789,6 +3949,7 @@ episodes:
   fernsehserien_episode_id: 642257
   youtube_video_id: jOGkfs9xLlk
 - title: 'Åland-Archipel: Warten auf das Eis'
+  title_fr: ''
   air_date: '2014-10-04'
   duration: 55
   thetvdb_season_episode: S16E16
@@ -3798,6 +3959,7 @@ episodes:
   fernsehserien_episode_id: 646836
   youtube_video_id: cZG6qlbVXCY
 - title: Kamelmilch, Kasachstans Wundermedizin
+  title_fr: ''
   air_date: '2014-10-18'
   duration: 55
   thetvdb_season_episode: S16E17
@@ -3807,6 +3969,7 @@ episodes:
   fernsehserien_episode_id: 649942
   youtube_video_id: 5JYKH97ayxI
 - title: Königliche Mounties - Kanadas berittene Polizei
+  title_fr: ''
   air_date: '2014-11-01'
   duration: 55
   thetvdb_season_episode: S16E18
@@ -3816,6 +3979,7 @@ episodes:
   fernsehserien_episode_id: 653489
   youtube_video_id: MKnpMHIWWSI
 - title: 'Peru: Ein Alpaka für Christobal'
+  title_fr: ''
   air_date: '2014-11-15'
   duration: 55
   thetvdb_season_episode: S16E19
@@ -3825,6 +3989,7 @@ episodes:
   fernsehserien_episode_id: 657325
   youtube_video_id: u27JvFwOKn0
 - title: Gnadenhof „Gut Aiderbichl“
+  title_fr: ''
   air_date: '2014-11-22'
   duration: 55
   thetvdb_season_episode: S16E20
@@ -3834,6 +3999,7 @@ episodes:
   fernsehserien_episode_id: 659099
   youtube_video_id: LkOdAquYeZQ
 - title: 'Unter Haien: Riffpatrouille in der Sulu-See'
+  title_fr: ''
   air_date: '2014-11-29'
   duration: 55
   thetvdb_season_episode: S16E21
@@ -3843,6 +4009,7 @@ episodes:
   fernsehserien_episode_id: 660707
   youtube_video_id: zDVgKjAc8A0
 - title: Andalusien - Edle Pferde, wilde Stiere
+  title_fr: ''
   air_date: '2014-12-13'
   duration: 55
   thetvdb_season_episode: S16E22
@@ -3852,6 +4019,7 @@ episodes:
   fernsehserien_episode_id: 663873
   youtube_video_id: 9ZTsCCSztp0
 - title: Die Eisbergjäger von Neufundland
+  title_fr: ''
   air_date: '2014-12-20'
   duration: 55
   thetvdb_season_episode: S16E23
@@ -3861,6 +4029,7 @@ episodes:
   fernsehserien_episode_id: 665965
   youtube_video_id: Jylj5OMHrWk
 - title: Lettland - das Land der Sänger
+  title_fr: ''
   air_date: '2014-12-27'
   duration: 55
   thetvdb_season_episode: S16E24
@@ -3870,6 +4039,7 @@ episodes:
   fernsehserien_episode_id: 667601
   youtube_video_id: F7ljNcCsIhA
 - title: 'Griechenland: Aufbruch am Olymp'
+  title_fr: ''
   air_date: '2015-01-03'
   duration: 55
   thetvdb_season_episode: S17E01
@@ -3880,6 +4050,7 @@ episodes:
   imdb_episode_id: tt19802432
   youtube_video_id: 6pWfTh6Y4-o
 - title: Mohair, das Garn der guten Hoffnung
+  title_fr: ''
   air_date: '2015-01-06'
   duration: 55
   thetvdb_season_episode: S17E02
@@ -3889,6 +4060,7 @@ episodes:
   fernsehserien_episode_id: 671310
   youtube_video_id: NDsFCWIqsIk
 - title: Der Maestro, Neapels legendärer Boxmeister
+  title_fr: ''
   air_date: '2015-01-07'
   duration: 55
   thetvdb_season_episode: S17E03
@@ -3898,6 +4070,7 @@ episodes:
   fernsehserien_episode_id: 671502
   youtube_video_id: KVIq8lwVpD4
 - title: Die Baumkletterer von Kalifornien
+  title_fr: ''
   air_date: '2015-02-16'
   duration: 55
   thetvdb_season_episode: S17E04
@@ -3907,6 +4080,7 @@ episodes:
   fernsehserien_episode_id: 683425
   youtube_video_id: CP6G2KgHMR4
 - title: 'Kanada: Indianer schreiben Geschichte'
+  title_fr: ''
   air_date: '2015-02-17'
   duration: 55
   thetvdb_season_episode: S17E05
@@ -3916,6 +4090,7 @@ episodes:
   fernsehserien_episode_id: 683467
   youtube_video_id: f1L930_UNW0
 - title: Venezuela, die Blitze von Catatumbo
+  title_fr: ''
   air_date: '2015-03-23'
   duration: 55
   thetvdb_season_episode: S17E06
@@ -3926,6 +4101,7 @@ episodes:
   imdb_episode_id: tt18345186
   youtube_video_id: AVB38wERs3Q
 - title: Tasmanien, Sympathie für den Teufel
+  title_fr: ''
   air_date: '2015-03-24'
   duration: 55
   thetvdb_season_episode: S17E07
@@ -3936,6 +4112,7 @@ episodes:
   imdb_episode_id: tt19495650
   youtube_video_id: iXgcWz3Dqh0
 - title: Kastanien, das Brot der Korsen
+  title_fr: ''
   air_date: '2015-03-25'
   duration: 55
   thetvdb_season_episode: S17E08
@@ -3946,6 +4123,7 @@ episodes:
   imdb_episode_id: tt21971752
   youtube_video_id: PZIIed051OE
 - title: Paris, Blitz Motorcycles
+  title_fr: ''
   air_date: '2015-03-26'
   duration: 55
   thetvdb_season_episode: S17E09
@@ -3956,6 +4134,7 @@ episodes:
   imdb_episode_id: tt15101596
   youtube_video_id: RcPiWMzimBk
 - title: 'Kuba: Eine Generation im Wandel'
+  title_fr: ''
   air_date: '2015-03-27'
   duration: 55
   thetvdb_season_episode: S17E10
@@ -3966,6 +4145,7 @@ episodes:
   imdb_episode_id: tt19718478
   youtube_video_id: uONkvisdPJo
 - title: Hamburg, die Stadt der Schwäne
+  title_fr: ''
   air_date: '2015-05-02'
   duration: 55
   thetvdb_season_episode: S17E11
@@ -3976,6 +4156,7 @@ episodes:
   imdb_episode_id: tt16985718
   youtube_video_id: f1K7nBVO7Lk
 - title: Camargue, zwischen Himmel und Meer
+  title_fr: ''
   air_date: '2015-08-29'
   duration: 55
   thetvdb_season_episode: S17E12
@@ -3986,6 +4167,7 @@ episodes:
   imdb_episode_id: tt23870016
   youtube_video_id: 8bnLFaEqSeA
 - title: Bhutan, von Kindern und Kranichen
+  title_fr: ''
   air_date: '2015-09-05'
   duration: 55
   thetvdb_season_episode: S17E13
@@ -3996,6 +4178,7 @@ episodes:
   imdb_episode_id: tt14429918
   youtube_video_id: jlJuiIMhBqQ
 - title: Bird Island - Allein unter Pinguinen
+  title_fr: ''
   air_date: '2015-09-12'
   duration: 55
   thetvdb_season_episode: S17E14
@@ -4006,6 +4189,7 @@ episodes:
   imdb_episode_id: tt18413830
   youtube_video_id: Wlc3mjQr5ek
 - title: Basketball - Die kleinen Barfuß-Spieler von Mexiko
+  title_fr: ''
   air_date: '2015-09-19'
   duration: 55
   thetvdb_season_episode: S17E15
@@ -4015,6 +4199,7 @@ episodes:
   fernsehserien_episode_id: 759350
   youtube_video_id: AskLUCcfDuI
 - title: Die Spinnenjäger von Venezuela
+  title_fr: ''
   air_date: '2015-09-26'
   duration: 55
   thetvdb_season_episode: S17E16
@@ -4024,6 +4209,7 @@ episodes:
   fernsehserien_episode_id: 767199
   youtube_video_id: wjmhUyOUGvc
 - title: Das Terrassenwunder von Peru
+  title_fr: ''
   air_date: '2015-10-03'
   duration: 55
   thetvdb_season_episode: S17E17
@@ -4033,6 +4219,7 @@ episodes:
   fernsehserien_episode_id: 774025
   youtube_video_id: 0-cZ-g6esRw
 - title: Kambodscha, Sithas große Waisenfamilie
+  title_fr: ''
   air_date: '2015-10-10'
   duration: 55
   thetvdb_season_episode: S17E18
@@ -4042,6 +4229,7 @@ episodes:
   fernsehserien_episode_id: 776869
   youtube_video_id: dFjDEa-tVVI
 - title: Die Oldtimer von Curaçao
+  title_fr: ''
   air_date: '2015-11-07'
   duration: 55
   thetvdb_season_episode: S17E19
@@ -4052,6 +4240,7 @@ episodes:
   imdb_episode_id: tt21083548
   youtube_video_id: RjuudARpaEQ
 - title: Italien - Hochzeit auf Neapolitanisch
+  title_fr: ''
   air_date: '2015-11-14'
   duration: 55
   thetvdb_season_episode: S17E20
@@ -4062,6 +4251,7 @@ episodes:
   imdb_episode_id: tt15108654
   youtube_video_id: tuCZYYFJHLM
 - title: Yoga, Indiens erstaunliche Medizin
+  title_fr: ''
   air_date: '2015-11-21'
   duration: 55
   thetvdb_season_episode: S17E21
@@ -4071,6 +4261,7 @@ episodes:
   fernsehserien_episode_id: 786747
   youtube_video_id: uae6n-lyViY
 - title: David und die Komodowarane
+  title_fr: ''
   air_date: '2015-11-28'
   duration: 55
   thetvdb_season_episode: S17E22
@@ -4080,6 +4271,7 @@ episodes:
   fernsehserien_episode_id: 788674
   youtube_video_id: 6uFzOGhS8UI
 - title: China, Braut ohne Bräutigam
+  title_fr: ''
   air_date: '2015-12-05'
   duration: 55
   thetvdb_season_episode: S17E23
@@ -4089,6 +4281,7 @@ episodes:
   fernsehserien_episode_id: 792366
   youtube_video_id: e9nzSo2Tqr8
 - title: Sansibars erstes Frauenorchester
+  title_fr: ''
   air_date: '2015-12-13'
   duration: 55
   thetvdb_season_episode: S17E24
@@ -4099,6 +4292,7 @@ episodes:
   fernsehserien_episode_id: 793099
   youtube_video_id: PXO6rKXlfnk
 - title: Die Bergführer von Chamonix
+  title_fr: ''
   air_date: '2015-12-21'
   duration: 55
   thetvdb_season_episode: S17E25
@@ -4110,6 +4304,7 @@ episodes:
   imdb_episode_id: tt15277042
   youtube_video_id: l7mRLjiZ1Tw
 - title: Polen, Winter in den Waldkarpaten
+  title_fr: ''
   air_date: '2015-12-26'
   duration: 55
   thetvdb_season_episode: S17E26
@@ -4119,6 +4314,7 @@ episodes:
   fernsehserien_episode_id: 796124
   youtube_video_id: tRxGlm8BqbY
 - title: Kenias Spürhunde - Rettung für die Elefanten
+  title_fr: ''
   air_date: '2016-01-02'
   duration: 55
   thetvdb_season_episode: S18E01
@@ -4128,6 +4324,7 @@ episodes:
   fernsehserien_episode_id: 797294
   youtube_video_id: MY6baZRwEL8
 - title: Valparaíso - Die Stadt der Aufzüge
+  title_fr: ''
   air_date: '2016-01-09'
   duration: 55
   thetvdb_season_episode: S18E02
@@ -4138,6 +4335,7 @@ episodes:
   imdb_episode_id: tt14429858
   youtube_video_id: VZw_EvXbp18
 - title: Sibirien - Der Kapitän und die Lena
+  title_fr: ''
   air_date: '2016-01-23'
   duration: 55
   thetvdb_season_episode: S18E03
@@ -4148,6 +4346,7 @@ episodes:
   imdb_episode_id: tt18227954
   youtube_video_id: 7g-j259KxH0
 - title: Spreewald - Kähne, Köche, Klapperstörche
+  title_fr: ''
   air_date: '2016-02-20'
   duration: 55
   thetvdb_season_episode: S18E04
@@ -4157,6 +4356,7 @@ episodes:
   fernsehserien_episode_id: 807566
   youtube_video_id: FFHcOUH17TE
 - title: Cocos Island - Paradies für Haie?!
+  title_fr: ''
   air_date: '2016-02-27'
   duration: 55
   thetvdb_season_episode: S18E05
@@ -4166,6 +4366,7 @@ episodes:
   fernsehserien_episode_id: 807567
   youtube_video_id: A-aSNeoHaGI
 - title: Insekten - Unser Speiseplan für morgen?
+  title_fr: ''
   air_date: '2016-03-19'
   duration: 55
   thetvdb_season_episode: S18E06
@@ -4175,6 +4376,7 @@ episodes:
   fernsehserien_episode_id: 812256
   youtube_video_id: OOxmAapp8vY
 - title: Myanmar - Per Zug durch die Zeit
+  title_fr: ''
   air_date: '2016-04-09'
   duration: 55
   thetvdb_season_episode: S18E07
@@ -4185,6 +4387,7 @@ episodes:
   imdb_episode_id: tt21842716
   youtube_video_id: Rj3NNtFqAjo
 - title: Die Bärenhunde von Nevada
+  title_fr: ''
   air_date: '2016-04-30'
   duration: 55
   thetvdb_season_episode: S18E08
@@ -4194,6 +4397,7 @@ episodes:
   fernsehserien_episode_id: 821884
   youtube_video_id: wf024fhwmvw
 - title: Die Dhaus - Arabiens legendäre Schiffe
+  title_fr: ''
   air_date: '2016-05-14'
   duration: 55
   thetvdb_season_episode: S18E09
@@ -4203,6 +4407,7 @@ episodes:
   fernsehserien_episode_id: 825806
   youtube_video_id: 07X5I9kJvS4
 - title: Der Waldrapp - Punkvogel aus den Alpen
+  title_fr: ''
   air_date: '2016-05-28'
   duration: 55
   thetvdb_season_episode: S18E10
@@ -4213,6 +4418,7 @@ episodes:
   youtube_video_id: WDNIqAtjJnE
 - title: Die Eisfischer vom Chagan-See
   air_date: '2016-06-25'
+  title_fr: ''
   duration: 55
   thetvdb_season_episode: S18E11
   thetvdb_episode_id: 5658015
@@ -4223,6 +4429,7 @@ episodes:
   youtube_video_id: vPLT2RVso_Y
 - title: Pythons - Invasion in Florida
   alias: Florida, Invasion der Pythons
+  title_fr: ''
   air_date: '2016-07-16'
   duration: 55
   thetvdb_season_episode: S18E12
@@ -4233,6 +4440,7 @@ episodes:
   imdb_episode_id: tt27428146
   youtube_video_id: VMQIqDPSNHw
 - title: Amas Welt - Das neue Ghana
+  title_fr: ''
   air_date: '2016-09-03'
   duration: 55
   thetvdb_season_episode: S18E13
@@ -4242,6 +4450,7 @@ episodes:
   fernsehserien_episode_id: 981928
   youtube_video_id: xLgEiCxyZ3k
 - title: Tunesien - Die Kunst der Berbertattoos
+  title_fr: ''
   air_date: '2016-09-10'
   duration: 55
   thetvdb_season_episode: S18E14
@@ -4251,6 +4460,7 @@ episodes:
   fernsehserien_episode_id: 983648
   youtube_video_id: 0fWMiz2aS_o
 - title: Die Cook Islands - Willkommen im Paradies
+  title_fr: ''
   air_date: '2016-09-17'
   duration: 55
   thetvdb_season_episode: S18E15
@@ -4261,6 +4471,7 @@ episodes:
   imdb_episode_id: tt26422173
   youtube_video_id: 0Hn3y3DIcl4
 - title: Norwegen - Försterinnen auf dem Vormarsch
+  title_fr: ''
   air_date: '2016-09-24'
   duration: 55
   thetvdb_season_episode: S18E16
@@ -4271,6 +4482,7 @@ episodes:
   imdb_episode_id: tt26472392
   youtube_video_id: Vge_eMlIxEY
 - title: Vietnam - Das Schicksal der Mondbären
+  title_fr: ''
   air_date: '2016-10-01'
   duration: 55
   thetvdb_season_episode: S18E17
@@ -4280,6 +4492,7 @@ episodes:
   fernsehserien_episode_id: 989430
   youtube_video_id: bcv3VsOTMdo
 - title: Die letzten Krokodile Venezuelas
+  title_fr: ''
   air_date: '2016-10-15'
   duration: 55
   thetvdb_season_episode: S18E18
@@ -4289,6 +4502,7 @@ episodes:
   fernsehserien_episode_id: 992799
   youtube_video_id: p9sjFVILLlo
 - title: Das Elefantenkrankenhaus von Thailand
+  title_fr: ''
   air_date: '2016-10-29'
   duration: 55
   thetvdb_season_episode: S18E19
@@ -4298,6 +4512,7 @@ episodes:
   fernsehserien_episode_id: 995976
   youtube_video_id: stCFbtfBtcI
 - title: Die Schlammfußballer von Island
+  title_fr: ''
   air_date: '2016-11-05'
   duration: 55
   thetvdb_season_episode: S18E20
@@ -4308,6 +4523,7 @@ episodes:
   imdb_episode_id: tt19495648
   youtube_video_id: jJRGSboanao
 - title: Dänemark - Königin Margrethe und ihr Sommerschloss
+  title_fr: ''
   air_date: '2016-11-19'
   duration: 55
   thetvdb_season_episode: S18E21
@@ -4318,6 +4534,7 @@ episodes:
   youtube_video_id: qIrnygvh_I8
 - title: Die metallenen Gondeln von Tschiatura
   alias: Die schwebenden Särge von Georgien
+  title_fr: ''
   air_date: '2016-11-26'
   duration: 55
   thetvdb_season_episode: S18E22
@@ -4327,6 +4544,7 @@ episodes:
   fernsehserien_episode_id: 1002246
   youtube_video_id: -2OmrWF4YiQ
 - title: Die Honigsammler von Yunnan
+  title_fr: ''
   air_date: '2016-12-03'
   duration: 55
   thetvdb_season_episode: S18E23
@@ -4336,6 +4554,7 @@ episodes:
   fernsehserien_episode_id: 1012644
   youtube_video_id: ddARBEV3fH4
 - title: Wilde Schweiz - Von Ringern und Schwingern
+  title_fr: ''
   air_date: '2016-12-10'
   duration: 55
   thetvdb_season_episode: S18E24
@@ -4345,6 +4564,7 @@ episodes:
   fernsehserien_episode_id: 1036481
   youtube_video_id: BOZJeflZbeM
 - title: St. Bernhard - Von Menschen und Hunden
+  title_fr: ''
   air_date: '2016-12-17'
   duration: 55
   thetvdb_season_episode: S18E25
@@ -4355,6 +4575,7 @@ episodes:
   imdb_episode_id: tt11969464
   youtube_video_id: UBQ1XhTzHic
 - title: Rumänien - Eine Weihnachtsreise ins Donaudelta
+  title_fr: ''
   air_date: '2016-12-24'
   duration: 55
   thetvdb_season_episode: S18E26
@@ -4364,6 +4585,7 @@ episodes:
   fernsehserien_episode_id: 1039858
   youtube_video_id: pcjXQq5fnx4
 - title: Die Liebenden von Santa Cruz del Islote
+  title_fr: ''
   air_date: '2017-01-07'
   duration: 55
   thetvdb_season_episode: S19E01
@@ -4373,6 +4595,7 @@ episodes:
   fernsehserien_episode_id: 1042427
   youtube_video_id: UNPolG8VXFo
 - title: Marseille - Kopfüber ins Blau
+  title_fr: ''
   air_date: '2017-01-14'
   duration: 55
   thetvdb_season_episode: S19E02
@@ -4383,6 +4606,7 @@ episodes:
   imdb_episode_id: tt6460474
   youtube_video_id: sVXtF-PwPQY
 - title: Kurt und seine Wölfe
+  title_fr: ''
   air_date: '2017-01-21'
   duration: 55
   thetvdb_season_episode: S19E03
@@ -4392,6 +4616,7 @@ episodes:
   fernsehserien_episode_id: 1046379
   youtube_video_id: Khp3kDHWSdo
 - title: Pyrenäen - Ein Hirte zwischen Himmel und Erde
+  title_fr: ''
   air_date: '2017-01-28'
   duration: 55
   thetvdb_season_episode: S19E04
@@ -4401,6 +4626,7 @@ episodes:
   fernsehserien_episode_id: 1048641
   youtube_video_id: hxPBgj2j_eg
 - title: Zauberhafte Mosel
+  title_fr: ''
   air_date: '2017-02-04'
   duration: 55
   thetvdb_season_episode: S19E05
@@ -4411,6 +4637,7 @@ episodes:
   imdb_episode_id: tt22478580
   youtube_video_id: fHHJoYzQuz8
 - title: Der Kosakenpriester vom Don
+  title_fr: ''
   air_date: '2017-02-18'
   duration: 55
   thetvdb_season_episode: S19E06
@@ -4421,6 +4648,7 @@ episodes:
   imdb_episode_id: tt16971158
   youtube_video_id: RdAzR4VEOHA
 - title: Chile - Die Leuchttürme am Ende der Welt
+  title_fr: ''
   air_date: '2017-02-25'
   duration: 55
   thetvdb_season_episode: S19E07
@@ -4430,6 +4658,7 @@ episodes:
   fernsehserien_episode_id: 1052721
   youtube_video_id: u1jaUHMhRwo
 - title: Indien - Heilendes Ayurveda
+  title_fr: ''
   air_date: '2017-03-04'
   duration: 55
   thetvdb_season_episode: S19E08
@@ -4439,6 +4668,7 @@ episodes:
   fernsehserien_episode_id: 1055376
   youtube_video_id: EqHxC_ym5uA
 - title: Spanien - Die Tradition der Menschentürme
+  title_fr: ''
   air_date: '2017-03-12'
   duration: 55
   thetvdb_season_episode: S19E09
@@ -4449,6 +4679,7 @@ episodes:
   imdb_episode_id: tt14564776
   youtube_video_id: 8N06lkFAtYI
 - title: Malaysia - Von Frauen und Motorrädern
+  title_fr: ''
   air_date: '2017-03-19'
   duration: 55
   thetvdb_season_episode: S19E10
@@ -4459,6 +4690,7 @@ episodes:
   imdb_episode_id: tt16971162
   youtube_video_id: yvXaWlw37fQ
 - title: Eine zweite Art von Frau - Thailand, das Dritte Geschlecht
+  title_fr: ''
   air_date: '2017-03-26'
   duration: 55
   thetvdb_season_episode: S19E11
@@ -4468,6 +4700,7 @@ episodes:
   fernsehserien_episode_id: 1058939
   youtube_video_id: h2o97Qd26oI
 - title: Myanmars Bambusbrücke - Ein Dorf packt an!
+  title_fr: ''
   air_date: '2017-05-21'
   duration: 55
   thetvdb_season_episode: S19E12
@@ -4478,6 +4711,7 @@ episodes:
   imdb_episode_id: tt21308734
   youtube_video_id: Mx0SpmGP9JM
 - title: Die Minga - Umzug auf Chilenisch
+  title_fr: ''
   air_date: '2017-05-28'
   duration: 55
   thetvdb_season_episode: S19E13
@@ -4489,6 +4723,7 @@ episodes:
   youtube_video_id: H8MxGlRHRHA
 - title: Kuba - Meister der Drehorgeln
   alias: Kuba, der Dreh mit der Orgel
+  title_fr: ''
   air_date: '2017-08-06'
   duration: 55
   thetvdb_season_episode: S19E14
@@ -4498,6 +4733,7 @@ episodes:
   fernsehserien_episode_id: 1106449
   youtube_video_id: tnpfneRKHxY
 - title: Sri Lanka - Eine legendäre Eisenbahnstrecke
+  title_fr: ''
   air_date: '2017-08-20'
   duration: 55
   thetvdb_season_episode: S19E15
@@ -4507,6 +4743,7 @@ episodes:
   fernsehserien_episode_id: 1109704
   youtube_video_id: ldpHfqDbWHQ
 - title: Die Wassernomaden vom Sambesi
+  title_fr: ''
   air_date: '2017-09-17'
   duration: 55
   thetvdb_season_episode: S19E16
@@ -4517,6 +4754,7 @@ episodes:
   youtube_video_id: f0lmD4C0Vs0
 - title: Mate-Tee - Die Seele Argentiniens
   alias: 'Argentinien: Mate-Tee, die Seele des Landes'
+  title_fr: ''
   air_date: '2017-10-01'
   duration: 55
   thetvdb_season_episode: S19E17
@@ -4527,6 +4765,7 @@ episodes:
   imdb_episode_id: tt14840080
   youtube_video_id: fWvRJ-pbYxI
 - title: Louisiana - Land unter bei den Shrimpfischern
+  title_fr: ''
   air_date: '2017-10-22'
   duration: 55
   thetvdb_season_episode: S19E18
@@ -4537,6 +4776,7 @@ episodes:
   imdb_episode_id: tt21928474
   youtube_video_id: tS_0NFzr2l4
 - title: Svanetien - Von Lebenden und Toten
+  title_fr: ''
   air_date: '2017-10-29'
   duration: 55
   thetvdb_season_episode: S19E19
@@ -4546,6 +4786,7 @@ episodes:
   fernsehserien_episode_id: 1137649
   youtube_video_id: KZ9v7YAJzR8
 - title: Java - Zauberhaftes Schattentheater
+  title_fr: ''
   air_date: '2017-11-05'
   duration: 55
   thetvdb_season_episode: S19E20
@@ -4555,6 +4796,7 @@ episodes:
   fernsehserien_episode_id: 1139270
   youtube_video_id: HE8MAIiX9OU
 - title: Frisch vermählt in Estland
+  title_fr: ''
   air_date: '2017-11-12'
   duration: 55
   thetvdb_season_episode: S19E21
@@ -4565,6 +4807,7 @@ episodes:
   imdb_episode_id: tt16453240
   youtube_video_id: OzL34KdYfLM
 - title: Die Geier sind zurück
+  title_fr: ''
   air_date: '2017-11-19'
   duration: 55
   thetvdb_season_episode: S19E22
@@ -4575,6 +4818,7 @@ episodes:
   imdb_episode_id: tt24055100
   youtube_video_id: e5A0glDrlkU
 - title: Bolivien - Der Kampf um die kleinen Herzen
+  title_fr: ''
   air_date: '2017-11-26'
   duration: 55
   thetvdb_season_episode: S19E23
@@ -4584,6 +4828,7 @@ episodes:
   fernsehserien_episode_id: 1143660
   youtube_video_id: Brrl86VTvq4
 - title: Sibirien, die Eisstraße ins Polarmeer
+  title_fr: ''
   air_date: '2017-11-27'
   duration: 55
   thetvdb_season_episode: S19E24
@@ -4594,6 +4839,7 @@ episodes:
   imdb_episode_id: tt21842726
   youtube_video_id: S7VcirrE2xc
 - title: 'Kolumbien: DC3 Oldtimer versorgen den Regenwald'
+  title_fr: ''
   air_date: '2017-12-10'
   duration: 55
   thetvdb_season_episode: S19E25
@@ -4604,6 +4850,7 @@ episodes:
   imdb_episode_id: tt21308740
   youtube_video_id: VqPIqn1upqs
 - title: Der Thomanerchor - Leben für die Musik
+  title_fr: ''
   air_date: '2017-12-24'
   duration: 55
   thetvdb_season_episode: S19E26
@@ -4614,11 +4861,13 @@ episodes:
   imdb_episode_id: tt26898733
   youtube_video_id: 931l1cfsbDg
 - title: Die Insel Chiloé
+  title_fr: ''
   air_date: '2017-06-03'
   duration: 55
   thetvdb_season_episode: S19E27
   thetvdb_episode_id: 6126640
 - title: Friaul, Benvenuti im Musiktal
+  title_fr: ''
   air_date: '2018-01-14'
   duration: 55
   thetvdb_season_episode: S20E01
@@ -4629,6 +4878,7 @@ episodes:
   imdb_episode_id: tt24636846
   youtube_video_id: _-7XZj09-A0
 - title: Bisons, die sanften Riesen von Montana
+  title_fr: ''
   air_date: '2018-01-28'
   duration: 55
   thetvdb_season_episode: S20E02
@@ -4638,6 +4888,7 @@ episodes:
   fernsehserien_episode_id: 1161790
   youtube_video_id: HwOJJFzY5Cc
 - title: Vietnam, die letzten Pangoline
+  title_fr: ''
   air_date: '2018-02-04'
   duration: 55
   thetvdb_season_episode: S20E03
@@ -4647,6 +4898,7 @@ episodes:
   fernsehserien_episode_id: 1163224
   youtube_video_id: HXALW-m2RxM
 - title: 'Schottland: Die Seenotretter der Orkney Islands'
+  title_fr: ''
   air_date: '2018-02-11'
   duration: 55
   thetvdb_season_episode: S20E04
@@ -4657,6 +4909,7 @@ episodes:
   imdb_episode_id: tt27170456
   youtube_video_id: qzTYfQqZltc
 - title: Kanada - Mit der Hebamme durch die Badlands
+  title_fr: ''
   air_date: '2018-02-25'
   duration: 55
   thetvdb_season_episode: S20E05
@@ -4666,6 +4919,7 @@ episodes:
   fernsehserien_episode_id: 1169596
   youtube_video_id: Gdcj-iqqRs8
 - title: Myanmar - Die Marmorkünstler von Mandalay
+  title_fr: ''
   air_date: '2018-03-04'
   duration: 55
   thetvdb_season_episode: S20E06
@@ -4675,6 +4929,7 @@ episodes:
   fernsehserien_episode_id: 1171202
   youtube_video_id: iV3arcWLL-s
 - title: Der Lachszähler von Kanada
+  title_fr: ''
   air_date: '2018-03-11'
   duration: 55
   thetvdb_season_episode: S20E07
@@ -4684,6 +4939,7 @@ episodes:
   fernsehserien_episode_id: 1173798
   youtube_video_id: QM_8fpHN6Jo
 - title: Kreta - Die süßen Früchte des Johannisbrotbaums
+  title_fr: ''
   air_date: '2018-03-18'
   duration: 55
   thetvdb_season_episode: S20E08
@@ -4693,6 +4949,7 @@ episodes:
   fernsehserien_episode_id: 1175560
   youtube_video_id: rVaOPVPAC5Y
 - title: Der Hundeflüsterer der Queen
+  title_fr:
   air_date: '2018-03-25'
   duration: 55
   thetvdb_season_episode: S20E09
@@ -4702,6 +4959,7 @@ episodes:
   fernsehserien_episode_id: 1177787
   youtube_video_id: rejyD-Z97PE
 - title: Italien, eine neue Glocke für Monopoli
+  title_fr:
   air_date: '2018-04-01'
   duration: 55
   thetvdb_season_episode: S20E10
@@ -4712,6 +4970,7 @@ episodes:
   imdb_episode_id: tt19718488
   youtube_video_id: FLTObV0M5RE
 - title: Arapaima, der Riesenfisch vom Amazonas
+  title_fr:
   air_date: '2018-05-13'
   duration: 55
   thetvdb_season_episode: S20E11
@@ -4744,6 +5003,7 @@ episodes:
   fernsehserien_episode_id: 1202913
   youtube_video_id: cMm7vvWgVzY
 - title: Japan - Leben am Fuß des Vulkans
+  title_fr:
   title_en: Japan, living at a vulcan
   air_date: '2018-08-30'
   duration: 55
@@ -4756,6 +5016,7 @@ episodes:
   imdb_episode_id: tt19802452
   youtube_video_id: mztIey-rJi0
 - title: Sucevita - Rumäniens schönste Klosterfresken
+  title_fr:
   title_en: Romania, the holy beauty of the painted monasteries
   air_date: '2018-09-08'
   duration: 55
@@ -4776,6 +5037,7 @@ episodes:
   fernsehserien_episode_id: 1225228
   youtube_video_id: JlzRmmvY6wU
 - title: Neuseeland - Die Tiere vom Ende der Welt
+  title_fr:
   air_date: '2018-09-29'
   duration: 55
   thetvdb_season_episode: S20E17
@@ -4786,6 +5048,7 @@ episodes:
   imdb_episode_id: tt22007414
   youtube_video_id: qGm7J8wCZuo
 - title: Virunga, der Kampf für die Berggorillas
+  title_fr:
   title_en: Virunga - Fighting for Mountain Gorillas
   air_date: '2018-10-06'
   duration: 55
@@ -4796,6 +5059,7 @@ episodes:
   fernsehserien_episode_id: 1230128
   youtube_video_id: -2VXdo0Vm8A
 - title: Gitarren und Flamenco in Granada
+  title_fr:
   title_en: Guitars and Flamenco in Granada
   air_date: '2018-10-13'
   duration: 55
@@ -4806,6 +5070,7 @@ episodes:
   fernsehserien_episode_id: 1232369
   youtube_video_id: qNy9yMLVPhA
 - title: Chatuchak - Bangkoks Riesenmarkt
+  title_fr:
   title_en: Bangkoks Giant Market
   air_date: '2018-10-20'
   duration: 55
@@ -4816,6 +5081,7 @@ episodes:
   fernsehserien_episode_id: 1233630
   youtube_video_id: WGYqFDLRHH8
 - title: Argentinien - Der Jaguar ist zurück
+  title_fr:
   title_en: Argentinia - The Jaguar is Back
   air_date: '2018-10-27'
   duration: 55
@@ -4827,6 +5093,7 @@ episodes:
   imdb_episode_id: tt14429962
   youtube_video_id: paOkViJRTpg
 - title: Rooibos, der rote Tee Südafrikas
+  title_fr:
   title_en: Rooibos, Africas red tea
   air_date: '2018-11-03'
   duration: 55
@@ -4839,6 +5106,7 @@ episodes:
   youtube_video_id: GocBm5fcRKY
 - title: Ankaras gerettete Bücher - Die Müll-Bibliothek von Cankaya
   alias: Ankaras gerettete Bücher
+  title_fr:
   title_en: The trash-library of Cankaya
   air_date: '2018-11-07'
   duration: 55
@@ -4860,6 +5128,7 @@ episodes:
   fernsehserien_episode_id: 1240712
   youtube_video_id: JJXFy9S8b1M
 - title: Sibirien - Im Reich des Amur-Tigers
+  title_fr:
   title_en: Siberia - The realm of the Amur tiger
   air_date: '2018-11-12'
   duration: 55
@@ -4872,6 +5141,7 @@ episodes:
   imdb_episode_id: tt20771558
   youtube_video_id: 3NDivz33wdc
 - title: Peru, das Goldhaar der Vikunjas
+  title_fr:
   title_en: Peru, the golden hair of the vicunas
   air_date: '2018-12-01'
   duration: 55
@@ -4938,6 +5208,7 @@ episodes:
   fernsehserien_episode_id: 1254457
   youtube_video_id: J9JyIhycLnU
 - title: Georgiens himmlische Klöster
+  title_fr:
   title_en: Georgia's heavenly monasteries
   air_date: '2019-01-19'
   duration: 55
@@ -4949,6 +5220,7 @@ episodes:
   imdb_episode_id: tt20190180
   youtube_video_id: FBdpBp3eRm8
 - title: Mexiko - Die edlen Reiterinnen
+  title_fr:
   title_en: Mexico - The noble riders
   air_date: '2019-01-26'
   duration: 55
@@ -4959,6 +5231,7 @@ episodes:
   fernsehserien_episode_id: 1260727
   youtube_video_id: XDTrO7FnzAM
 - title: Kroatien, Das Paradies der Trüffeljäger
+  title_fr:
   title_en: Croatia, the paradise of truffle hunters
   air_date: '2019-02-09'
   duration: 55
@@ -4969,6 +5242,7 @@ episodes:
   fernsehserien_episode_id: 1264723
   youtube_video_id: yGvN68pp1xU
 - title: Arnika - Von der Kraft einer Heilpflanze
+  title_fr:
   title_en: Arnica - From the power of a medicinal plant
   air_date: '2019-02-23'
   duration: 55
@@ -4980,6 +5254,7 @@ episodes:
   imdb_episode_id: tt9874214
   youtube_video_id: Clpi_2hAmtA
 - title: Simbabwe - Leben für den Augenblick
+  title_fr:
   title_en: Zimbabwe - Life for the moment
   air_date: '2019-04-07'
   duration: 55
@@ -4991,6 +5266,7 @@ episodes:
   fernsehserien_episode_id: 1277291
   youtube_video_id: TDnqHD4GaEM
 - title: Äthiopien - Heimat des Kaffees
+  title_fr:
   title_en: Ethiopia, the birthplace of coffee
   air_date: '2019-06-01'
   duration: 55
@@ -5002,6 +5278,7 @@ episodes:
   imdb_episode_id: tt16793592
   youtube_video_id: u9JhD7R2818
 - title: Indien, ein Himmel voller bunter Drachen
+  title_fr:
   title_en: India, a sky of colorful kites
   air_date: '2019-06-08'
   duration: 55
@@ -5012,6 +5289,7 @@ episodes:
   fernsehserien_episode_id: 1292055
   youtube_video_id: -i-Jx_dF9kY
 - title: Norwegen, die Rentierprinzessin
+  title_fr:
   title_en: Norway, the princess of reindeer
   air_date: '2019-07-15'
   duration: 55
@@ -5023,6 +5301,7 @@ episodes:
   imdb_episode_id: tt20854414
   youtube_video_id: C-yvU6oUQks
 - title: Thaimassage, die Heilkunst der Buddhisten
+  title_fr:
   air_date: '2019-08-25'
   duration: 55
   thetvdb_season_episode: S21E10
@@ -5033,6 +5312,7 @@ episodes:
   imdb_episode_id: tt23851456
   youtube_video_id: RR47fu7V2iU
 - title: Hongkongs magisches Neonlicht
+  title_fr:
   air_date: '2019-09-07'
   duration: 55
   thetvdb_season_episode: S21E11
@@ -5043,6 +5323,7 @@ episodes:
   imdb_episode_id: tt16352144
   youtube_video_id: queiVaVuhg4
 - title: Tibetische Medizin - Heilkraft für die Seele
+  title_fr:
   air_date: '2019-09-29'
   duration: 55
   thetvdb_season_episode: S21E12
@@ -5053,6 +5334,7 @@ episodes:
   imdb_episode_id: tt18938838
   youtube_video_id: sXYVFfjiOw8
 - title: Sibirien, die Eisschneider von Jakutsk
+  title_fr:
   air_date: '2019-10-05'
   duration: 55
   thetvdb_season_episode: S21E13
@@ -5062,6 +5344,7 @@ episodes:
   fernsehserien_episode_id: 1321009
   youtube_video_id: _pzMXsISUPU
 - title: Auf Schlangenjagd in Bangkok
+  title_fr:
   air_date: '2019-10-12'
   duration: 55
   thetvdb_season_episode: S21E14
@@ -5071,6 +5354,7 @@ episodes:
   fernsehserien_episode_id: 1322905
   imdb_episode_id: tt23643218
 - title: Die blinde Primaballerina von São Paulo
+  title_fr:
   air_date: '2019-10-19'
   duration: 55
   thetvdb_season_episode: S21E15
@@ -5081,6 +5365,7 @@ episodes:
   imdb_episode_id: tt27123058
   youtube_video_id: NXWsLpDP-Mc
 - title: Slowenien, Land des Honigs
+  title_fr:
   air_date: '2019-10-26'
   duration: 55
   thetvdb_season_episode: S21E16
@@ -5091,6 +5376,7 @@ episodes:
   imdb_episode_id: tt21406216
   youtube_video_id: QxhQbpP57PM
 - title: Japan, der Meister des Zen-Gartens
+  title_fr:
   air_date: '2019-10-27'
   duration: 55
   thetvdb_season_episode: S21E17
@@ -5100,6 +5386,7 @@ episodes:
   fernsehserien_episode_id: 1328528
   youtube_video_id: CA-DwIr8lA4
 - title: Finnland, die rasenden Schrottkisten
+  title_fr:
   air_date: '2019-11-09'
   duration: 55
   thetvdb_season_episode: S21E18
@@ -5109,6 +5396,7 @@ episodes:
   fernsehserien_episode_id: 1330934
   youtube_video_id: AR9cNhlECyA
 - title: Heilende Schwingungen der Klangschalen
+  title_fr:
   air_date: '2019-11-10'
   duration: 55
   thetvdb_season_episode: S21E19
@@ -5119,6 +5407,7 @@ episodes:
   imdb_episode_id: tt22411134
   youtube_video_id: 0JQRSU8Gzc0
 - title: Harpyien, die größten Greifvögel des Regenwaldes
+  title_fr:
   air_date: '2019-11-23'
   thetvdb_season_episode: S21E20
   thetvdb_episode_id: 7457468
@@ -5128,6 +5417,7 @@ episodes:
   imdb_episode_id: tt15157400
   youtube_video_id: rpnZILRBjaw
 - title: 'Island: Von strickenden Männern und Pullovern'
+  title_fr:
   air_date: '2019-12-08'
   duration: 45
   thetvdb_season_episode: S21E21
@@ -5138,6 +5428,7 @@ episodes:
   imdb_episode_id: tt18413912
   youtube_video_id: 4lAHP0Q8908
 - title: Kentucky - Die Schlacht von Sacramento
+  title_fr:
   air_date: '2019-12-14'
   duration: 45
   thetvdb_season_episode: S21E22
@@ -5147,6 +5438,7 @@ episodes:
   fernsehserien_episode_id: 1339867
   youtube_video_id: BM7Tyu59rrI
 - title: Die letzten Walfänger der Beringsee
+  title_fr:
   air_date: '2019-12-21'
   duration: 45
   thetvdb_season_episode: S21E23
@@ -5156,6 +5448,7 @@ episodes:
   fernsehserien_episode_id: 1341480
   youtube_video_id: IlG92mvmCEI
 - title: Kaviar, das schwarze Gold Italiens
+  title_fr:
   air_date: '2019-12-22'
   duration: 45
   thetvdb_season_episode: S21E24
@@ -5166,6 +5459,7 @@ episodes:
   imdb_episode_id: tt16675680
   youtube_video_id: Opg00LWco4s
 - title: Esmeraldas Edelkakao
+  title_fr:
   air_date: '2019-12-29'
   duration: 45
   thetvdb_season_episode: S21E25
@@ -5173,6 +5467,7 @@ episodes:
   imdb_episode_id: tt2215720
   youtube_video_id: IMVYBpL-z4E
 - title: Die Vespa-Rebellen in Indonesien
+  title_fr: Indonésie, la Passion des Deux-Roues Trafiqués
   air_date: '2020-01-05'
   duration: 45
   thetvdb_season_episode: S22E01
@@ -5182,6 +5477,7 @@ episodes:
   fernsehserien_episode_id: 1344883
   youtube_video_id: T882pntN-Jo
 - title: Costa Rica, das größte Hundeheim der Welt
+  title_fr: Au Costa Rica, un Paradis Pour les Chiens Abandonnés
   air_date: '2020-01-12'
   duration: 45
   thetvdb_season_episode: S22E02
@@ -5202,6 +5498,7 @@ episodes:
   imdb_episode_id: tt11854728
   youtube_video_id: KEOwqcBWE2s
 - title: Die Zedernuss, die Königin der Taiga
+  title_fr: Les Pignons de Cèdre, l'Or de la Taïga
   air_date: '2020-02-09'
   duration: 45
   thetvdb_season_episode: S22E04
@@ -5213,6 +5510,7 @@ episodes:
   imdb_episode_id: tt21203618
   youtube_video_id: 0kvHCK0011o
 - title: Die Ostsee, Sehnsuchtsort der Kraniche
+  title_fr: Mer Baltique, Voyage au Pays des Grues Cendrées
   air_date: '2020-02-16'
   duration: 45
   thetvdb_season_episode: S22E05
@@ -5223,6 +5521,7 @@ episodes:
   imdb_episode_id: tt21243234
   youtube_video_id: p-f4YVXnycM
 - title: 'Kapverden: Zwei Hunde als Schildkrötenretter'
+  title_fr: Cap-Vert, les Chiens au Secours des Tortues
   air_date: '2020-02-23'
   duration: 45
   thetvdb_season_episode: S22E06
@@ -5232,6 +5531,7 @@ episodes:
   fernsehserien_episode_id: 1353321
   imdb_episode_id: tt27123062
 - title: Die Schwestern der Erde
+  title_fr: Grèce, les Petites Sœurs de la Terre
   air_date: '2020-03-01'
   duration: 45
   thetvdb_season_episode: S22E07
@@ -5242,6 +5542,7 @@ episodes:
   imdb_episode_id: tt14388672
   youtube_video_id: nfNQ5wCTWlQ
 - title: Argentinien, von wilden Pferden und sanfter Hand
+  title_fr: Oscar ou l'Art d'Apprivoiser les Chevaux
   air_date: '2020-03-08'
   duration: 45
   thetvdb_season_episode: S22E08
