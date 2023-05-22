@@ -4404,7 +4404,7 @@
     },
     {
       "title": "Das Koala-Hospital",
-      "title_fr": "",
+      "title_fr": "L’hôpital des koalas",
       "air_date": "2013-09-21",
       "duration": 55,
       "thetvdb_season_episode": "S15E15",
@@ -6311,7 +6311,7 @@
     },
     {
       "title": "Äthiopien - Heimat des Kaffees",
-      "title_fr": null,
+      "title_fr": "Éthiopie, le berceau du café",
       "title_en": "Ethiopia, the birthplace of coffee",
       "air_date": "2019-06-01",
       "duration": 55,
@@ -6365,7 +6365,7 @@
     },
     {
       "title": "Hongkongs magisches Neonlicht",
-      "title_fr": null,
+      "title_fr": "Hong Kong, la magie des néons",
       "air_date": "2019-09-07",
       "duration": 55,
       "thetvdb_season_episode": "S21E11",
@@ -6653,6 +6653,7 @@
     },
     {
       "title": "Indiens Kurkuma - Heilsam und heilig",
+      "title_fr": "Curcuma, une épice en or",
       "air_date": "2020-06-14",
       "duration": 43,
       "thetvdb_season_episode": "S22E09",
@@ -7009,6 +7010,7 @@
     {
       "title": "Die heilenden Delfine von Curacao",
       "alias": "Curacao - Die sanften Delfine",
+      "title_fr": "Curaçao, des dauphins thérapeutes",
       "air_date": "2021-09-11",
       "duration": 32,
       "thetvdb_season_episode": "S23E18",
@@ -7058,6 +7060,7 @@
     },
     {
       "title": "Stromboli - Zwischen Feuer und Meer",
+      "title_fr": "Stromboli, terre de feu",
       "air_date": "2021-10-09",
       "duration": 32,
       "thetvdb_season_episode": "S23E22",
@@ -7127,6 +7130,7 @@
     },
     {
       "title": "Namibias Geparden - Hoffnung für die Raubkatzen",
+      "title_fr": "Namibie, l'espoir renait pour les guépards",
       "air_date": "2022-01-29",
       "duration": 32,
       "thetvdb_season_episode": "S24E04",
@@ -7203,6 +7207,7 @@
     },
     {
       "title": "Südkorea - die Nonne der Tempelküche",
+      "title_fr": "Temple Food, l’âme de la cuisine coréenne",
       "air_date": "2022-05-07",
       "duration": 35,
       "thetvdb_season_episode": "S24E10",
@@ -7318,6 +7323,7 @@
     },
     {
       "title": "Las Fallas - Valencias feurige Fiesta",
+      "title_fr": "Las fallas de Valencia, l’insolence à l’honneur",
       "air_date": "2022-07-16",
       "duration": 32,
       "thetvdb_season_episode": "S24E19",
@@ -7440,6 +7446,7 @@
     },
     {
       "title": "Zuflucht in den Anden - Kolumbiens indigene Transfrauen",
+      "title_fr": "Colombie, le refuge des cueilleuses de café trans",
       "air_date": "2022-12-17",
       "duration": 32,
       "thetvdb_season_episode": "S24E29",
@@ -7452,6 +7459,7 @@
     },
     {
       "title": "Kristall - Die magische Kunst aus den Vogesen",
+      "title_fr": "Vosges, la magie du cristal",
       "air_date": "2022-12-24",
       "duration": 32,
       "thetvdb_season_episode": "S24E30",
@@ -7565,6 +7573,7 @@
     },
     {
       "title": "Leben mit dem Tod - Ahnenkult auf Sulawesi",
+      "title_fr": "Toraja, le peuple qui fait vivre ses morts",
       "air_date": "2023-05-06",
       "episode": 13,
       "fernsehserien_episode_no": 617,
@@ -7573,6 +7582,7 @@
     },
     {
       "title": "Die Waschbären von Berlin",
+      "title_fr": "Les ratons laveurs, nos nouveaux voisins?",
       "air_date": "2023-05-20",
       "episode": 14,
       "fernsehserien_episode_no": 618,
