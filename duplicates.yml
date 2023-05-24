@@ -18,3 +18,20 @@
   air_date: '2018-03-18'
   thetvdb_episode_id: 7890795
   youtube_video_id: -2OmrWF4YiQ
+
+- title: Überleben am Manila-Express
+  title_fr: Manille, la Vie le Long du Train
+  air_date: '2005-05-07'
+  duration: 55
+  thetvdb_season_episode: S07E06
+  thetvdb_episode_id: 4642151
+
+- title: Überleben in der Wüste - Straffällig gewordene Jugendliche in Arizona
+  title_fr: Les Prisonniers du Désert
+  air_date: '2005-01-29'
+  duration: 55
+  thetvdb_season_episode: S07E03
+  thetvdb_episode_id: 4642148
+  fernsehserien_episode_no: 173
+  fernsehserien_episode_slug: 173-ueberleben-in-der-wueste-straffaellig-gewordene-jugendliche-in-arizona-339500
+  fernsehserien_episode_id: 339500
