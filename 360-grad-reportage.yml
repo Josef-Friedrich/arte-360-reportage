@@ -1154,6 +1154,7 @@ episodes:
   fernsehserien_episode_id: 339443
   imdb_episode_id: tt1042923
 - title: Die Legende von den Killerbienen
+  title_fr: Les Abeilles Tueuses
   air_date: '2002-06-04'
   duration: 55
   thetvdb_season_episode: S04E17
@@ -1449,6 +1450,7 @@ episodes:
   fernsehserien_episode_id: 339479
   youtube_video_id: 3mrXlaxKolU
 - title: Goldrausch in Sibirien
+  title_fr: Tout l’or de sibèrie
   air_date: '2004-01-03'
   duration: 55
   thetvdb_season_episode: S06E01
@@ -1458,6 +1460,7 @@ episodes:
   fernsehserien_episode_id: 339412
   youtube_video_id: orPQ74toO10
 - title: Die Waldbahn der Karpaten
+  title_fr: Le Train des Carpates
   air_date: '2004-02-28'
   duration: 55
   thetvdb_season_episode: S06E02
@@ -1468,6 +1471,7 @@ episodes:
   imdb_episode_id: tt1045684
   youtube_video_id: oglBMMjahqg
 - title: Das Vermächtnis der Marquesas-Inseln
+  title_fr: Cargo pour les marquises
   air_date: '2004-03-27'
   duration: 55
   thetvdb_season_episode: S06E03
@@ -1478,6 +1482,7 @@ episodes:
   imdb_episode_id: tt5000242
   youtube_video_id: 7FS3M6gwn2g
 - title: Joaquims wilde Reiter
+  title_fr: Les Petits Cavaliers de Joaquim
   air_date: '2004-04-24'
   duration: 55
   thetvdb_season_episode: S06E04
@@ -1487,6 +1492,7 @@ episodes:
   fernsehserien_episode_id: 339483
   youtube_video_id: CU4ljdc9mNs
 - title: Johannesburg - Eine Stadt macht dicht
+  title_fr: Johannesburg, le Repli Sur Soi
   air_date: '2004-05-29'
   duration: 55
   thetvdb_season_episode: S06E05
@@ -1496,6 +1502,7 @@ episodes:
   fernsehserien_episode_id: 339486
   youtube_video_id: CyD4tnGwcxs
 - title: Paco Pacos - Die Knatterkisten vom Amazonas
+  title_fr: Paco Pacos, Belles Bagnoles du Brésil
   air_date: '2004-06-26'
   duration: 55
   thetvdb_season_episode: S06E06
@@ -1505,6 +1512,7 @@ episodes:
   fernsehserien_episode_id: 339417
   youtube_video_id: SWt30v35IdA
 - title: Das Parlament der Kinder
+  title_fr: Le Parlement des Enfants du Rajasthan
   alias: Das Kinderparlament von Rajasthan
   air_date: '2004-07-10'
   duration: 55
@@ -1515,6 +1523,7 @@ episodes:
   fernsehserien_episode_id: 339433
   youtube_video_id: 1I5rUoMUmwA
 - title: Die Bogenschützin von Bhutan
+  title_fr: L'Himalaya — La Jeune Fille à l'Arc
   air_date: '2004-07-31'
   duration: 55
   thetvdb_season_episode: S06E08
@@ -1524,6 +1533,7 @@ episodes:
   fernsehserien_episode_id: 339447
   youtube_video_id: wyIXpjaP9VM
 - title: Überleben am Manila Express
+  title_fr: Manille, la Vie le Long du Train
   air_date: '2004-09-04'
   duration: 55
   thetvdb_season_episode: S06E09
@@ -1533,6 +1543,7 @@ episodes:
   fernsehserien_episode_id: 339484
   youtube_video_id: 0uMJ3IZ2_FI
 - title: Das Mysterium der sibirischen Mumie
+  title_fr: Le Mystère de la Momie de Sibérie
   air_date: '2004-09-11'
   duration: 55
   thetvdb_season_episode: S06E10
@@ -1542,6 +1553,7 @@ episodes:
   fernsehserien_episode_id: 339471
   youtube_video_id: DXk26Rs6ev8
 - title: Razzia im Regenwald
+  title_fr: Razzia Dans la Forêt Amazonienne
   air_date: '2004-09-18'
   duration: 55
   thetvdb_season_episode: S06E11
@@ -1551,6 +1563,7 @@ episodes:
   fernsehserien_episode_id: 339488
   youtube_video_id: ExA03zKchVc
 - title: In acht Meilen um die Welt
+  title_fr: New-York, le tour de monde en 13 kms
   air_date: '2004-10-16'
   duration: 55
   thetvdb_season_episode: S06E12
@@ -1560,6 +1573,7 @@ episodes:
   fernsehserien_episode_id: 339489
   youtube_video_id: t59ghH7Ant8
 - title: Alphadi und die Farben der Wüste
+  title_fr: Alphadi, le prince de la haute couture
   alias: Alphadi - Modedesigner aus der Wüste
   air_date: '2004-10-30'
   duration: 55
@@ -1570,6 +1584,7 @@ episodes:
   fernsehserien_episode_id: 339490
   youtube_video_id: y9UDkxFqr0s
 - title: Die Verwandlungskünstler von Dakar
+  title_fr: Dakar, les Rois de la Récup
   air_date: '2004-11-06'
   duration: 55
   thetvdb_season_episode: S06E14
@@ -1579,6 +1594,7 @@ episodes:
   fernsehserien_episode_id: 339491
   youtube_video_id: jjnY-79AN_s
 - title: Kalifornien auf die harte Tour
+  title_fr: Tourisme de choc en californie
   air_date: '2004-11-13'
   duration: 55
   thetvdb_season_episode: S06E15
@@ -1589,6 +1605,7 @@ episodes:
   imdb_episode_id: tt1029217
   youtube_video_id: qIx8uIMxDIM
 - title: Der Polarflieger - Ein Pilot in Sibirien
+  title_fr: Le Cercle Polaire en Hélico
   alias: Der Polarflieger
   air_date: '2004-11-20'
   duration: 55
@@ -1599,6 +1616,7 @@ episodes:
   fernsehserien_episode_id: 339493
   youtube_video_id: JudMONhb6p0
 - title: Dagestan - Land über den Wolken
+  title_fr: La Montagne Sacrée du Daghestan
   air_date: '2004-11-27'
   duration: 55
   thetvdb_season_episode: S06E17
@@ -1608,6 +1626,7 @@ episodes:
   fernsehserien_episode_id: 339494
   youtube_video_id: E0QU7u1xbFM
 - title: Die versunkenen Flugzeuge
+  title_fr: avions portès disparus
   air_date: '2004-12-04'
   duration: 55
   thetvdb_season_episode: S06E18
@@ -1617,6 +1636,7 @@ episodes:
   fernsehserien_episode_id: 339495
   youtube_video_id: 2wbl4SWQ3q8
 - title: Ein Traum von Schokolade
+  title_fr: 100% chocolat
   air_date: '2004-12-30'
   duration: 55
   thetvdb_season_episode: S06E19
@@ -4755,7 +4775,7 @@ episodes:
   youtube_video_id: f0lmD4C0Vs0
 - title: Mate-Tee - Die Seele Argentiniens
   alias: 'Argentinien: Mate-Tee, die Seele des Landes'
-  title_fr: 'Le Maté, l’Élixir des Argentins '
+  title_fr: 'Le Maté, l’Élixir des Argentins'
   air_date: '2017-10-01'
   duration: 55
   thetvdb_season_episode: S19E17

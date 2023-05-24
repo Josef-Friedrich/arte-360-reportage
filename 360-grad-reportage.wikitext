@@ -760,7 +760,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 121
 | NR_ST = 17
-| OT = Die Legende von den Killerbienen<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/121-die-legende-von-den-killerbienen-339405</ref><ref>https://thetvdb.com/series/272599-show/episodes/4641979</ref><ref>https://www.imdb.com/title/tt1042930</ref><ref>https://www.youtube.com/watch?v=rw9kCLRBqS4</ref>
+| OT = Die Legende von den Killerbienen / Les Abeilles Tueuses<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/121-die-legende-von-den-killerbienen-339405</ref><ref>https://thetvdb.com/series/272599-show/episodes/4641979</ref><ref>https://www.imdb.com/title/tt1042930</ref><ref>https://www.youtube.com/watch?v=rw9kCLRBqS4</ref>
 | EA = 2002-06-04
 }}
 {{Episodenlisteneintrag
@@ -966,115 +966,115 @@
 {{Episodenlisteneintrag
 | NR_GES = 152
 | NR_ST = 1
-| OT = Goldrausch in Sibirien<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/152-goldrausch-in-sibirien-339412</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642020</ref><ref>https://www.youtube.com/watch?v=orPQ74toO10</ref>
+| OT = Goldrausch in Sibirien / Tout l’or de sibèrie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/152-goldrausch-in-sibirien-339412</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642020</ref><ref>https://www.youtube.com/watch?v=orPQ74toO10</ref>
 | EA = 2004-01-03
 }}
 {{Episodenlisteneintrag
 | NR_GES = 153
 | NR_ST = 2
-| OT = Die Waldbahn der Karpaten<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/153-die-waldbahn-der-karpaten-339481</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642021</ref><ref>https://www.imdb.com/title/tt1045684</ref><ref>https://www.youtube.com/watch?v=oglBMMjahqg</ref>
+| OT = Die Waldbahn der Karpaten / Le Train des Carpates<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/153-die-waldbahn-der-karpaten-339481</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642021</ref><ref>https://www.imdb.com/title/tt1045684</ref><ref>https://www.youtube.com/watch?v=oglBMMjahqg</ref>
 | EA = 2004-02-28
 }}
 {{Episodenlisteneintrag
 | NR_GES = 154
 | NR_ST = 3
-| OT = Das Vermächtnis der Marquesas-Inseln<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/154-das-vermaechtnis-der-marquesas-inseln-339482</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642022</ref><ref>https://www.imdb.com/title/tt5000242</ref><ref>https://www.youtube.com/watch?v=7FS3M6gwn2g</ref>
+| OT = Das Vermächtnis der Marquesas-Inseln / Cargo pour les marquises<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/154-das-vermaechtnis-der-marquesas-inseln-339482</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642022</ref><ref>https://www.imdb.com/title/tt5000242</ref><ref>https://www.youtube.com/watch?v=7FS3M6gwn2g</ref>
 | EA = 2004-03-27
 }}
 {{Episodenlisteneintrag
 | NR_GES = 155
 | NR_ST = 4
-| OT = Joaquims wilde Reiter<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/155-joaquims-wilde-reiter-339483</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642023</ref><ref>https://www.youtube.com/watch?v=CU4ljdc9mNs</ref>
+| OT = Joaquims wilde Reiter / Les Petits Cavaliers de Joaquim<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/155-joaquims-wilde-reiter-339483</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642023</ref><ref>https://www.youtube.com/watch?v=CU4ljdc9mNs</ref>
 | EA = 2004-04-24
 }}
 {{Episodenlisteneintrag
 | NR_GES = 156
 | NR_ST = 5
-| OT = Johannesburg - Eine Stadt macht dicht<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/156-johannesburg-eine-stadt-macht-dicht-339486</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642024</ref><ref>https://www.youtube.com/watch?v=CyD4tnGwcxs</ref>
+| OT = Johannesburg - Eine Stadt macht dicht / Johannesburg, le Repli Sur Soi<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/156-johannesburg-eine-stadt-macht-dicht-339486</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642024</ref><ref>https://www.youtube.com/watch?v=CyD4tnGwcxs</ref>
 | EA = 2004-05-29
 }}
 {{Episodenlisteneintrag
 | NR_GES = 157
 | NR_ST = 6
-| OT = Paco Pacos - Die Knatterkisten vom Amazonas<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/157-paco-pacos-die-knatterkisten-vom-amazonas-339417</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642025</ref><ref>https://www.youtube.com/watch?v=SWt30v35IdA</ref>
+| OT = Paco Pacos - Die Knatterkisten vom Amazonas / Paco Pacos, Belles Bagnoles du Brésil<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/157-paco-pacos-die-knatterkisten-vom-amazonas-339417</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642025</ref><ref>https://www.youtube.com/watch?v=SWt30v35IdA</ref>
 | EA = 2004-06-26
 }}
 {{Episodenlisteneintrag
 | NR_GES = 158
 | NR_ST = 7
-| OT = Das Parlament der Kinder<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/158-das-parlament-der-kinder-339433</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642026</ref><ref>https://www.youtube.com/watch?v=1I5rUoMUmwA</ref>
+| OT = Das Parlament der Kinder / Le Parlement des Enfants du Rajasthan<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/158-das-parlament-der-kinder-339433</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642026</ref><ref>https://www.youtube.com/watch?v=1I5rUoMUmwA</ref>
 | EA = 2004-07-10
 }}
 {{Episodenlisteneintrag
 | NR_GES = 159
 | NR_ST = 8
-| OT = Die Bogenschützin von Bhutan<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/159-die-bogenschuetzin-von-bhutan-339447</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642027</ref><ref>https://www.youtube.com/watch?v=wyIXpjaP9VM</ref>
+| OT = Die Bogenschützin von Bhutan / L'Himalaya — La Jeune Fille à l'Arc<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/159-die-bogenschuetzin-von-bhutan-339447</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642027</ref><ref>https://www.youtube.com/watch?v=wyIXpjaP9VM</ref>
 | EA = 2004-07-31
 }}
 {{Episodenlisteneintrag
 | NR_GES = 160
 | NR_ST = 9
-| OT = Überleben am Manila Express<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/160-ueberleben-am-manila-express-339484</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642028</ref><ref>https://www.youtube.com/watch?v=0uMJ3IZ2_FI</ref>
+| OT = Überleben am Manila Express / Manille, la Vie le Long du Train<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/160-ueberleben-am-manila-express-339484</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642028</ref><ref>https://www.youtube.com/watch?v=0uMJ3IZ2_FI</ref>
 | EA = 2004-09-04
 }}
 {{Episodenlisteneintrag
 | NR_GES = 161
 | NR_ST = 10
-| OT = Das Mysterium der sibirischen Mumie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/161-das-mysterium-der-sibirischen-mumie-339471</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642029</ref><ref>https://www.youtube.com/watch?v=DXk26Rs6ev8</ref>
+| OT = Das Mysterium der sibirischen Mumie / Le Mystère de la Momie de Sibérie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/161-das-mysterium-der-sibirischen-mumie-339471</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642029</ref><ref>https://www.youtube.com/watch?v=DXk26Rs6ev8</ref>
 | EA = 2004-09-11
 }}
 {{Episodenlisteneintrag
 | NR_GES = 162
 | NR_ST = 11
-| OT = Razzia im Regenwald<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/162-razzia-im-regenwald-339488</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642031</ref><ref>https://www.youtube.com/watch?v=ExA03zKchVc</ref>
+| OT = Razzia im Regenwald / Razzia Dans la Forêt Amazonienne<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/162-razzia-im-regenwald-339488</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642031</ref><ref>https://www.youtube.com/watch?v=ExA03zKchVc</ref>
 | EA = 2004-09-18
 }}
 {{Episodenlisteneintrag
 | NR_GES = 163
 | NR_ST = 12
-| OT = In acht Meilen um die Welt<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/163-in-acht-meilen-um-die-welt-339489</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642033</ref><ref>https://www.youtube.com/watch?v=t59ghH7Ant8</ref>
+| OT = In acht Meilen um die Welt / New-York, le tour de monde en 13 kms<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/163-in-acht-meilen-um-die-welt-339489</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642033</ref><ref>https://www.youtube.com/watch?v=t59ghH7Ant8</ref>
 | EA = 2004-10-16
 }}
 {{Episodenlisteneintrag
 | NR_GES = 164
 | NR_ST = 13
-| OT = Alphadi und die Farben der Wüste<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/164-alphadi-modedesigner-aus-der-wueste-339490</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642034</ref><ref>https://www.youtube.com/watch?v=y9UDkxFqr0s</ref>
+| OT = Alphadi und die Farben der Wüste / Alphadi, le prince de la haute couture<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/164-alphadi-modedesigner-aus-der-wueste-339490</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642034</ref><ref>https://www.youtube.com/watch?v=y9UDkxFqr0s</ref>
 | EA = 2004-10-30
 }}
 {{Episodenlisteneintrag
 | NR_GES = 165
 | NR_ST = 14
-| OT = Die Verwandlungskünstler von Dakar<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/165-die-verwandlungskuenstler-von-dakar-339491</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642036</ref><ref>https://www.youtube.com/watch?v=jjnY-79AN_s</ref>
+| OT = Die Verwandlungskünstler von Dakar / Dakar, les Rois de la Récup<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/165-die-verwandlungskuenstler-von-dakar-339491</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642036</ref><ref>https://www.youtube.com/watch?v=jjnY-79AN_s</ref>
 | EA = 2004-11-06
 }}
 {{Episodenlisteneintrag
 | NR_GES = 166
 | NR_ST = 15
-| OT = Kalifornien auf die harte Tour<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/166-kalifornien-auf-die-harte-tour-339492</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642037</ref><ref>https://www.imdb.com/title/tt1029217</ref><ref>https://www.youtube.com/watch?v=qIx8uIMxDIM</ref>
+| OT = Kalifornien auf die harte Tour / Tourisme de choc en californie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/166-kalifornien-auf-die-harte-tour-339492</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642037</ref><ref>https://www.imdb.com/title/tt1029217</ref><ref>https://www.youtube.com/watch?v=qIx8uIMxDIM</ref>
 | EA = 2004-11-13
 }}
 {{Episodenlisteneintrag
 | NR_GES = 167
 | NR_ST = 16
-| OT = Der Polarflieger - Ein Pilot in Sibirien<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/167-der-polarflieger-ein-pilot-in-sibirien-339493</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642038</ref><ref>https://www.youtube.com/watch?v=JudMONhb6p0</ref>
+| OT = Der Polarflieger - Ein Pilot in Sibirien / Le Cercle Polaire en Hélico<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/167-der-polarflieger-ein-pilot-in-sibirien-339493</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642038</ref><ref>https://www.youtube.com/watch?v=JudMONhb6p0</ref>
 | EA = 2004-11-20
 }}
 {{Episodenlisteneintrag
 | NR_GES = 168
 | NR_ST = 17
-| OT = Dagestan - Land über den Wolken<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/168-dagestan-land-ueber-den-wolken-339494</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642039</ref><ref>https://www.youtube.com/watch?v=E0QU7u1xbFM</ref>
+| OT = Dagestan - Land über den Wolken / La Montagne Sacrée du Daghestan<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/168-dagestan-land-ueber-den-wolken-339494</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642039</ref><ref>https://www.youtube.com/watch?v=E0QU7u1xbFM</ref>
 | EA = 2004-11-27
 }}
 {{Episodenlisteneintrag
 | NR_GES = 169
 | NR_ST = 18
-| OT = Die versunkenen Flugzeuge<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/169-die-versunkenen-flugzeuge-339495</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642040</ref><ref>https://www.youtube.com/watch?v=2wbl4SWQ3q8</ref>
+| OT = Die versunkenen Flugzeuge / avions portès disparus<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/169-die-versunkenen-flugzeuge-339495</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642040</ref><ref>https://www.youtube.com/watch?v=2wbl4SWQ3q8</ref>
 | EA = 2004-12-04
 }}
 {{Episodenlisteneintrag
 | NR_GES = 170
 | NR_ST = 19
-| OT = Ein Traum von Schokolade<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/170-ein-traum-von-schokolade-339496</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642041</ref><ref>https://www.imdb.com/title/tt1350548</ref><ref>https://www.youtube.com/watch?v=BxUtrDZX1FI</ref>
+| OT = Ein Traum von Schokolade / 100% chocolat<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/170-ein-traum-von-schokolade-339496</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642041</ref><ref>https://www.imdb.com/title/tt1350548</ref><ref>https://www.youtube.com/watch?v=BxUtrDZX1FI</ref>
 | EA = 2004-12-30
 }}
 }}
@@ -3028,7 +3028,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 474
 | NR_ST = 17
-| OT = Mate-Tee - Die Seele Argentiniens / Le Maté, l’Élixir des Argentins <ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/472-argentinien-mate-tee-die-seele-des-landes-1132095</ref><ref>https://thetvdb.com/series/272599-show/episodes/6348729</ref><ref>https://www.imdb.com/title/tt14840080</ref><ref>https://www.youtube.com/watch?v=fWvRJ-pbYxI</ref>
+| OT = Mate-Tee - Die Seele Argentiniens / Le Maté, l’Élixir des Argentins<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/472-argentinien-mate-tee-die-seele-des-landes-1132095</ref><ref>https://thetvdb.com/series/272599-show/episodes/6348729</ref><ref>https://www.imdb.com/title/tt14840080</ref><ref>https://www.youtube.com/watch?v=fWvRJ-pbYxI</ref>
 | EA = 2017-10-01
 }}
 {{Episodenlisteneintrag

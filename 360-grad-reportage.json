@@ -1399,6 +1399,7 @@
     },
     {
       "title": "Die Legende von den Killerbienen",
+      "title_fr": "Les Abeilles Tueuses",
       "air_date": "2002-06-04",
       "duration": 55,
       "thetvdb_season_episode": "S04E17",
@@ -1756,6 +1757,7 @@
     },
     {
       "title": "Goldrausch in Sibirien",
+      "title_fr": "Tout l’or de sibèrie",
       "air_date": "2004-01-03",
       "duration": 55,
       "thetvdb_season_episode": "S06E01",
@@ -1767,6 +1769,7 @@
     },
     {
       "title": "Die Waldbahn der Karpaten",
+      "title_fr": "Le Train des Carpates",
       "air_date": "2004-02-28",
       "duration": 55,
       "thetvdb_season_episode": "S06E02",
@@ -1779,6 +1782,7 @@
     },
     {
       "title": "Das Vermächtnis der Marquesas-Inseln",
+      "title_fr": "Cargo pour les marquises",
       "air_date": "2004-03-27",
       "duration": 55,
       "thetvdb_season_episode": "S06E03",
@@ -1791,6 +1795,7 @@
     },
     {
       "title": "Joaquims wilde Reiter",
+      "title_fr": "Les Petits Cavaliers de Joaquim",
       "air_date": "2004-04-24",
       "duration": 55,
       "thetvdb_season_episode": "S06E04",
@@ -1802,6 +1807,7 @@
     },
     {
       "title": "Johannesburg - Eine Stadt macht dicht",
+      "title_fr": "Johannesburg, le Repli Sur Soi",
       "air_date": "2004-05-29",
       "duration": 55,
       "thetvdb_season_episode": "S06E05",
@@ -1813,6 +1819,7 @@
     },
     {
       "title": "Paco Pacos - Die Knatterkisten vom Amazonas",
+      "title_fr": "Paco Pacos, Belles Bagnoles du Brésil",
       "air_date": "2004-06-26",
       "duration": 55,
       "thetvdb_season_episode": "S06E06",
@@ -1824,6 +1831,7 @@
     },
     {
       "title": "Das Parlament der Kinder",
+      "title_fr": "Le Parlement des Enfants du Rajasthan",
       "alias": "Das Kinderparlament von Rajasthan",
       "air_date": "2004-07-10",
       "duration": 55,
@@ -1836,6 +1844,7 @@
     },
     {
       "title": "Die Bogenschützin von Bhutan",
+      "title_fr": "L'Himalaya — La Jeune Fille à l'Arc",
       "air_date": "2004-07-31",
       "duration": 55,
       "thetvdb_season_episode": "S06E08",
@@ -1847,6 +1856,7 @@
     },
     {
       "title": "Überleben am Manila Express",
+      "title_fr": "Manille, la Vie le Long du Train",
       "air_date": "2004-09-04",
       "duration": 55,
       "thetvdb_season_episode": "S06E09",
@@ -1858,6 +1868,7 @@
     },
     {
       "title": "Das Mysterium der sibirischen Mumie",
+      "title_fr": "Le Mystère de la Momie de Sibérie",
       "air_date": "2004-09-11",
       "duration": 55,
       "thetvdb_season_episode": "S06E10",
@@ -1869,6 +1880,7 @@
     },
     {
       "title": "Razzia im Regenwald",
+      "title_fr": "Razzia Dans la Forêt Amazonienne",
       "air_date": "2004-09-18",
       "duration": 55,
       "thetvdb_season_episode": "S06E11",
@@ -1880,6 +1892,7 @@
     },
     {
       "title": "In acht Meilen um die Welt",
+      "title_fr": "New-York, le tour de monde en 13 kms",
       "air_date": "2004-10-16",
       "duration": 55,
       "thetvdb_season_episode": "S06E12",
@@ -1891,6 +1904,7 @@
     },
     {
       "title": "Alphadi und die Farben der Wüste",
+      "title_fr": "Alphadi, le prince de la haute couture",
       "alias": "Alphadi - Modedesigner aus der Wüste",
       "air_date": "2004-10-30",
       "duration": 55,
@@ -1903,6 +1917,7 @@
     },
     {
       "title": "Die Verwandlungskünstler von Dakar",
+      "title_fr": "Dakar, les Rois de la Récup",
       "air_date": "2004-11-06",
       "duration": 55,
       "thetvdb_season_episode": "S06E14",
@@ -1914,6 +1929,7 @@
     },
     {
       "title": "Kalifornien auf die harte Tour",
+      "title_fr": "Tourisme de choc en californie",
       "air_date": "2004-11-13",
       "duration": 55,
       "thetvdb_season_episode": "S06E15",
@@ -1926,6 +1942,7 @@
     },
     {
       "title": "Der Polarflieger - Ein Pilot in Sibirien",
+      "title_fr": "Le Cercle Polaire en Hélico",
       "alias": "Der Polarflieger",
       "air_date": "2004-11-20",
       "duration": 55,
@@ -1938,6 +1955,7 @@
     },
     {
       "title": "Dagestan - Land über den Wolken",
+      "title_fr": "La Montagne Sacrée du Daghestan",
       "air_date": "2004-11-27",
       "duration": 55,
       "thetvdb_season_episode": "S06E17",
@@ -1949,6 +1967,7 @@
     },
     {
       "title": "Die versunkenen Flugzeuge",
+      "title_fr": "avions portès disparus",
       "air_date": "2004-12-04",
       "duration": 55,
       "thetvdb_season_episode": "S06E18",
@@ -1960,6 +1979,7 @@
     },
     {
       "title": "Ein Traum von Schokolade",
+      "title_fr": "100% chocolat",
       "air_date": "2004-12-30",
       "duration": 55,
       "thetvdb_season_episode": "S06E19",
@@ -5705,7 +5725,7 @@
     {
       "title": "Mate-Tee - Die Seele Argentiniens",
       "alias": "Argentinien: Mate-Tee, die Seele des Landes",
-      "title_fr": "Le Maté, l’Élixir des Argentins ",
+      "title_fr": "Le Maté, l’Élixir des Argentins",
       "air_date": "2017-10-01",
       "duration": 55,
       "thetvdb_season_episode": "S19E17",
