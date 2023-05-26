@@ -3192,7 +3192,7 @@ episodes:
   imdb_episode_id: tt14617222
   youtube_video_id: 9N1Qll5w0ng
 - title: Sumatras letzte Orang-Utans
-  title_fr: 'Les Derniers Orang-Outangs de Sumatra'
+  title_fr: 'Les derniers orangs-outangs de Sumatra'
   air_date: '2011-09-03'
   duration: 55
   thetvdb_season_episode: S13E19
@@ -3276,7 +3276,7 @@ episodes:
   fernsehserien_episode_id: 339994
   youtube_video_id: dpdeqdga-RM
 - title: Guano - Schatzinseln und Vogeldreck
-  title_fr: 'Guano, Sale Besogne au Paradis des Oiseaux'
+  title_fr: 'Guano, sale besogne au paradis des oiseaux'
   air_date: '2011-12-03'
   duration: 55
   thetvdb_season_episode: S13E27
@@ -3564,7 +3564,7 @@ episodes:
   fernsehserien_episode_id: 506728
   youtube_video_id: OJJze1tQhz0
 - title: Die letzten Köhler von Rumänien
-  title_fr: 'Roumanie, les Derniers Charbonniers'
+  title_fr: 'Roumanie, les derniers charbonniers'
   air_date: '2013-02-23'
   duration: 55
   thetvdb_season_episode: S15E05
@@ -3743,7 +3743,7 @@ episodes:
   fernsehserien_episode_id: 543725
   youtube_video_id: 3ti-NbruVhU
 - title: Chivas, Kolumbiens bunte Busse
-  title_fr: 'La Colombie et Ses Bus Multicolores'
+  title_fr: La Colombie et ses bus multicolores
   air_date: '2013-11-23'
   duration: 55
   thetvdb_season_episode: S15E22
@@ -3875,7 +3875,7 @@ episodes:
   fernsehserien_episode_id: 591624
   youtube_video_id: QNabMUFSr2Y
 - title: Bangkoks Schatztaucher
-  title_fr: 'Chasseurs de Trésors à Bangkok'
+  title_fr: 'Chasseurs de trésors à Bangkok'
   air_date: '2014-04-26'
   duration: 55
   thetvdb_season_episode: S16E08
@@ -3926,7 +3926,7 @@ episodes:
   fernsehserien_episode_id: 620596
   youtube_video_id: ksF9UzJGXeE
 - title: Die Tango-Spelunken von Buenos Aires
-  title_fr: 'Buenos Aires, Tango pour tous'
+  title_fr: 'Buenos Aires, tango pour tous'
   air_date: '2014-08-30'
   duration: 55
   thetvdb_season_episode: S16E13
@@ -4686,7 +4686,7 @@ episodes:
   imdb_episode_id: tt14564776
   youtube_video_id: 8N06lkFAtYI
 - title: Malaysia - Von Frauen und Motorrädern
-  title_fr: 'Malaisie, la Moto au Féminin'
+  title_fr: 'Malaisie, la moto au Féminin'
   air_date: '2017-03-19'
   duration: 55
   thetvdb_season_episode: S19E10
@@ -5374,7 +5374,7 @@ episodes:
   imdb_episode_id: tt27123058
   youtube_video_id: NXWsLpDP-Mc
 - title: Slowenien, Land des Honigs
-  title_fr: La Slovénie, le Royaume des Abeilles
+  title_fr: Slovénie, le royaume des abeilles
   air_date: '2019-10-26'
   duration: 55
   thetvdb_season_episode: S21E16
@@ -5405,7 +5405,7 @@ episodes:
   fernsehserien_episode_id: 1330934
   youtube_video_id: AR9cNhlECyA
 - title: Heilende Schwingungen der Klangschalen
-  title_fr: Bols Tibétains, la Thérapie Par les Sons
+  title_fr: Bols tibétains, la thérapie par les Sons
   air_date: '2019-11-10'
   duration: 55
   thetvdb_season_episode: S21E19
@@ -5661,6 +5661,7 @@ episodes:
   imdb_episode_id: tt13616848
   youtube_video_id: BZaILC2jnoM
 - title: Lichterglanz im Norden - Winter in Stockholm und den Schären
+  title_fr: 'Les lumières scandinaves : un hiver autour de Stockholm'
   air_date: '2020-12-13'
   duration: 43
   thetvdb_season_episode: S22E18
@@ -5672,6 +5673,7 @@ episodes:
   imdb_episode_id: tt13814040
   youtube_video_id: uE8XcPEKQIo
 - title: Chartres, die Farben des Himmels
+  title_fr: Chartres, l'art du vitrail
   air_date: '2020-12-20'
   duration: 43
   thetvdb_season_episode: S22E19
@@ -5683,6 +5685,7 @@ episodes:
   imdb_episode_id: tt15105296
   youtube_video_id: qPLtZngzS10
 - title: Bretagne, die raue Schönheit
+  title_fr: La Bretagne entre terre et mer
   air_date: '2021-01-03'
   duration: 43
   thetvdb_season_episode: S23E01
@@ -5821,6 +5824,7 @@ episodes:
   imdb_episode_id: tt14477970
   youtube_video_id: pQaBkRIgRk0
 - title: Notruf Nordseeküste - Die Robben-Retter
+  title_fr: Mer du Nord, sauvons les bébés phoques
   air_date: '2021-04-25'
   duration: 43
   thetvdb_season_episode: S23E14
@@ -5851,6 +5855,7 @@ episodes:
   fernsehserien_episode_id: 1489640
   youtube_video_id: k9jFka2IecU
 - title: Escobars Erbe - Kolumbiens Kokain-Hippos
+  title_fr: Les hippopotames de Pablo Escobar
   title_en: Pablo Escobar's Hippos
   air_date: '2021-09-04'
   duration: 32
@@ -5885,6 +5890,7 @@ episodes:
   imdb_episode_id: tt15455872
   youtube_video_id: 9z8Eer2KngU
 - title: 'Schweiz: Gletscherflieger - Faszination in Weiß'
+  title_fr: Suisse, en vol avec des pilotes des glaciers
   air_date: '2021-09-25'
   duration: 32
   thetvdb_season_episode: S23E20
@@ -5917,6 +5923,7 @@ episodes:
   imdb_episode_id: tt15610994
   youtube_video_id: _z29qS0mTjY
 - title: Italien - Die Igel-Retter aus dem Piemont
+  title_fr: Italie, un refuge pour hérissons
   air_date: '2021-10-16'
   duration: 32
   thetvdb_season_episode: S23E23
@@ -6007,6 +6014,7 @@ episodes:
   imdb_episode_id: tt18335884
   youtube_video_id: Ef81fAqnuJs
 - title: Wilde Waterkant - Nordfriesland und seine Gänse
+  title_fr: Mer du nord, le retour des oies sauvages
   air_date: '2022-03-12'
   duration: 32
   thetvdb_season_episode: S24E08
@@ -6086,6 +6094,7 @@ episodes:
   youtube_video_id: kyrHUKDiyck
 - title: Kastiliens Kämpfer - Ritterspiele an der Burg Belmonte
   alias: Ganz ritterlich - Kastiliens Kämpfer
+  title_fr: Le béhourd, l'art du combat médiéval
   air_date: '2022-06-18'
   duration: 32
   thetvdb_season_episode: S24E15
@@ -6179,6 +6188,7 @@ episodes:
   imdb_episode_id: tt22805294
   youtube_video_id: xzfFqvblS34
 - title: Sardiniens wertvolle Muschelseide
+  title_fr: La soie de mer, trésor de Sardaigne
   air_date: '2022-10-29'
   duration: 32
   thetvdb_season_episode: S24E24
@@ -6189,6 +6199,7 @@ episodes:
   fernsehserien_episode_id: 1590045
   imdb_episode_id: tt23159150
 - title: Cordoba, die Stadt der Patios
+  title_fr: Cordoue et ses patios fleuris
   air_date: '2022-11-05'
   duration: 32
   thetvdb_season_episode: S24E25
@@ -6200,6 +6211,7 @@ episodes:
   imdb_episode_id: tt23368470
   youtube_video_id: XrEtMdxF76c
 - title: Marquesas-Inseln, das Comeback der Tattoos
+  title_fr: Îles Marquises, le tatouage dans la peau
   air_date: '2022-11-19'
   duration: 32
   thetvdb_season_episode: S24E26
@@ -6220,6 +6232,7 @@ episodes:
   fernsehserien_episode_id: 1602010
   imdb_episode_id: tt23985080
 - title: Island, die wertvollsten Daunen der Welt
+  title_fr: Islande, des plumes qui valent de l'or
   air_date: '2022-12-10'
   duration: 32
   thetvdb_season_episode: S24E28
@@ -6307,6 +6320,7 @@ episodes:
   fernsehserien_episode_id: 1618464
   imdb_episode_id: tt26898737
 - title: Laos - Futterblöcke und Büffel-Leasing
+  title_fr: Les buffles, l’avenir pour le Laos ?
   air_date: '2023-03-04'
   episode: 9
   fernsehserien_episode_no: 613
@@ -6314,6 +6328,7 @@ episodes:
   fernsehserien_episode_id: 1620347
   imdb_episode_id: tt27005233
 - title: Freiheit auf Pferderücken - Der lange Weg der Nez Perce
+  title_fr: Nez-Percés, chevauchée pour la liberté
   air_date: '2023-03-11'
   episode: 10
   fernsehserien_episode_no: 614
@@ -6322,6 +6337,7 @@ episodes:
   imdb_episode_id: tt27110800
 - title: Peloponnes - Rückkehr zur Erde
   alias: Peloponnes - Die Pioniere des Waldgartens
+  title_fr: Péloponnèse, la pasionaria de l'agroforesterie
   air_date: '2023-03-18'
   episode: 11
   fernsehserien_episode_no: 615
@@ -6329,6 +6345,7 @@ episodes:
   fernsehserien_episode_id: 1623768
   imdb_episode_id: tt27170463
 - title: Handgemacht in Laos - Rares aus Rattan
+  title_fr: Laos, la vannerie dans tous ses états
   air_date: '2023-03-25'
   episode: 12
   fernsehserien_episode_no: 616
@@ -6604,7 +6621,7 @@ dvds:
 - title: Hilfe für die Tierwelt
   dvd_count: 2
   asin: B01E0NDKB8
-  ean:     4006680079097
+  ean: '4006680079097'
   release_date: '2016-10-20'
   duration: 420
   mediamops: M0B01E0NDKB8
