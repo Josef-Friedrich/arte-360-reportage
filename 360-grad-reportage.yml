@@ -1752,23 +1752,6 @@ episodes:
   fernsehserien_episode_slug: 181-die-eisenbahn-vom-baikal-zum-amur-339654
   fernsehserien_episode_id: 339654
   youtube_video_id: GTkxMy9yVZM
-- title: Ein göttlicher Zug
-  air_date: '2005-10-01'
-  duration: 55
-  thetvdb_season_episode: S07E13
-  thetvdb_episode_id: 4642158
-  imdb_episode_id: tt1042934
-  youtube_video_id: UA8kICaAY_Q
-- title: Ticket in ein neues Leben
-  air_date: '2005-10-01'
-  duration: 55
-  thetvdb_season_episode: S07E14
-  thetvdb_episode_id: 4642159
-  fernsehserien_episode_no: 182
-  fernsehserien_episode_slug: 182-ticket-in-ein-neues-leben-339656
-  fernsehserien_episode_id: 339656
-  imdb_episode_id: tt1042944
-  youtube_video_id: pi9fUEg6QJs
 - title: Das schwimmende Krankenhaus vom Amazonas
   title_fr: L'Hôpital Flottant du Fleuve Amazone
   air_date: '2005-10-08'
@@ -4719,7 +4702,7 @@ episodes:
   imdb_episode_id: tt21308734
   youtube_video_id: Mx0SpmGP9JM
 - title: Die Minga - Umzug auf Chilenisch
-  title_fr: ''
+  title_fr: Chili, l'incroyable voyage d'une maison des bois
   air_date: '2017-05-28'
   duration: 55
   thetvdb_season_episode: S19E13
@@ -5299,7 +5282,7 @@ episodes:
   fernsehserien_episode_id: 1292055
   youtube_video_id: -i-Jx_dF9kY
 - title: Norwegen, die Rentierprinzessin
-  title_fr:
+  title_fr: Norvège, la princess des rennes
   title_en: Norway, the princess of reindeer
   air_date: '2019-07-15'
   duration: 55
@@ -5448,7 +5431,7 @@ episodes:
   fernsehserien_episode_id: 1339867
   youtube_video_id: BM7Tyu59rrI
 - title: Die letzten Walfänger der Beringsee
-  title_fr:
+  title_fr: Les derniers chasseurs de baleines du détroit de Béring
   air_date: '2019-12-21'
   duration: 45
   thetvdb_season_episode: S21E23
@@ -5468,14 +5451,6 @@ episodes:
   fernsehserien_episode_id: 1341482
   imdb_episode_id: tt16675680
   youtube_video_id: Opg00LWco4s
-- title: Esmeraldas Edelkakao
-  title_fr:
-  air_date: '2019-12-29'
-  duration: 45
-  thetvdb_season_episode: S21E25
-  thetvdb_episode_id: 7517098
-  imdb_episode_id: tt2215720
-  youtube_video_id: IMVYBpL-z4E
 - title: Die Vespa-Rebellen in Indonesien
   title_fr: Indonésie, la Passion des Deux-Roues Trafiqués
   air_date: '2020-01-05'

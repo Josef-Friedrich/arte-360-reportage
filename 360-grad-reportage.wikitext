@@ -1150,48 +1150,36 @@
 {{Episodenlisteneintrag
 | NR_GES = 181
 | NR_ST = 11
-| OT = Ein göttlicher Zug<ref>https://thetvdb.com/series/272599-show/episodes/4642158</ref><ref>https://www.imdb.com/title/tt1042934</ref><ref>https://www.youtube.com/watch?v=UA8kICaAY_Q</ref>
-| EA = 2005-10-01
-}}
-{{Episodenlisteneintrag
-| NR_GES = 182
-| NR_ST = 12
-| OT = Ticket in ein neues Leben<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/182-ticket-in-ein-neues-leben-339656</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642159</ref><ref>https://www.imdb.com/title/tt1042944</ref><ref>https://www.youtube.com/watch?v=pi9fUEg6QJs</ref>
-| EA = 2005-10-01
-}}
-{{Episodenlisteneintrag
-| NR_GES = 183
-| NR_ST = 13
 | OT = Das schwimmende Krankenhaus vom Amazonas / L'Hôpital Flottant du Fleuve Amazone<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/183-das-schwimmende-krankenhaus-vom-amazonas-339657</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642160</ref><ref>https://www.youtube.com/watch?v=0Xz-nWoBhUQ</ref>
 | EA = 2005-10-08
 }}
 {{Episodenlisteneintrag
-| NR_GES = 184
-| NR_ST = 14
+| NR_GES = 182
+| NR_ST = 12
 | OT = Der weiße Berg von Feuerland / Le Géant Blanc de Patagonie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/184-der-weisse-berg-von-feuerland-339658</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642161</ref><ref>https://www.youtube.com/watch?v=N1vjuQX9RyY</ref>
 | EA = 2005-10-22
 }}
 {{Episodenlisteneintrag
-| NR_GES = 185
-| NR_ST = 15
+| NR_GES = 183
+| NR_ST = 13
 | OT = Mecaniqueros - Nichts ist unmöglich in Havanna / Mecaniqueros: Impossible n’Est Pas Cubain<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/185-mecaniqueros-nichts-ist-unmoeglich-in-havanna-339659</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642162</ref><ref>https://www.youtube.com/watch?v=80vkFm7tzCM</ref>
 | EA = 2005-11-12
 }}
 {{Episodenlisteneintrag
-| NR_GES = 186
-| NR_ST = 16
+| NR_GES = 184
+| NR_ST = 14
 | OT = Eremitage - Palast der Katzen / Des Chats au Pays des Tsars<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/186-eremitage-palast-der-katzen-339660</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642163</ref><ref>https://www.youtube.com/watch?v=_hiU5OzkNQ0</ref>
 | EA = 2005-12-10
 }}
 {{Episodenlisteneintrag
-| NR_GES = 187
-| NR_ST = 17
+| NR_GES = 185
+| NR_ST = 15
 | OT = Traumberuf Schäfer / Pyrénées, à l'École des Bergers<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/187-traumberuf-schaefer-339661</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642164</ref><ref>https://www.youtube.com/watch?v=J6auo5M-mxI</ref>
 | EA = 2005-12-17
 }}
 {{Episodenlisteneintrag
-| NR_GES = 188
-| NR_ST = 18
+| NR_GES = 186
+| NR_ST = 16
 | OT = Die Kinder des Vater Nikolai / Les Petits Choristes de l'Oural<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/188-die-kinder-des-vater-nikolai-339662</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642165</ref>
 | EA = 2005-12-24
 }}
@@ -1206,115 +1194,115 @@
 | DREHBUCH = nein
 | INHALT =
 {{Episodenlisteneintrag
-| NR_GES = 189
+| NR_GES = 187
 | NR_ST = 1
 | OT = Im Land der Schwarzen Witwen / Arizona, au Pays des Veuves Noires<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/189-im-land-der-schwarzen-witwen-339499</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642167</ref><ref>https://www.youtube.com/watch?v=TwJc0Qx152o</ref>
 | EA = 2006-01-14
 }}
 {{Episodenlisteneintrag
-| NR_GES = 190
+| NR_GES = 188
 | NR_ST = 2
 | OT = Polen - Ärger im Revier / La Pologne des Braconniers<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/190-polen-aerger-im-revier-339665</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642168</ref><ref>https://www.youtube.com/watch?v=YMQMvv9gl4A</ref>
 | EA = 2006-02-04
 }}
 {{Episodenlisteneintrag
-| NR_GES = 191
+| NR_GES = 189
 | NR_ST = 3
 | OT = Lust auf Liebe in Lisdoonvarna / Irlande, Célibataire Cherche Amoureuse<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/191-lust-auf-liebe-in-lisdoonvarna-339503</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642169</ref><ref>https://www.imdb.com/title/tt1045683</ref><ref>https://www.youtube.com/watch?v=MlM93JHkIU4</ref>
 | EA = 2006-03-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 192
+| NR_GES = 190
 | NR_ST = 4
 | OT = Kung-Fu - Chinas neue Kämpferinnen / Chine - Les Filles Aussi Font du Kung-fu<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/192-kung-fu-chinas-neue-kaempferinnen-339669</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642170</ref><ref>https://www.youtube.com/watch?v=rzkqoL0_cEw</ref>
 | EA = 2006-04-08
 }}
 {{Episodenlisteneintrag
-| NR_GES = 193
+| NR_GES = 191
 | NR_ST = 5
 | OT = Highway durch die Arktis / Vivre au-Delà de l'Arctique<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/193-highway-durch-die-arktis-339670</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642171</ref><ref>https://www.imdb.com/title/tt2046172</ref><ref>https://www.youtube.com/watch?v=dx2YI4of1wU</ref>
 | EA = 2006-04-22
 }}
 {{Episodenlisteneintrag
-| NR_GES = 194
+| NR_GES = 192
 | NR_ST = 6
 | OT = Churubamba - Frauen am Ball / Footballeuses des Andes<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/194-churubamba-frauen-am-ball-339674</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642172</ref><ref>https://www.youtube.com/watch?v=4S_yDEomrcY</ref>
 | EA = 2006-05-27
 }}
 {{Episodenlisteneintrag
-| NR_GES = 195
+| NR_GES = 193
 | NR_ST = 7
 | OT = Chicagos Stahlmänner - Abriss und Wiederaufbau eines Hochofens / Les Métallos de Chicago<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/195-chicagos-stahlmaenner-abriss-und-wiederaufbau-eines-hochofens-339676</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642173</ref><ref>https://www.youtube.com/watch?v=Nz8O4PT5AbI</ref>
 | EA = 2006-07-29
 }}
 {{Episodenlisteneintrag
-| NR_GES = 196
+| NR_GES = 194
 | NR_ST = 8
 | OT = Die schwimmenden Dörfer der Ha Long Bucht / Villages Flottants de la Baie d'Along<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/196-die-schwimmenden-doerfer-der-ha-long-bucht-339509</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642174</ref><ref>https://www.youtube.com/watch?v=At-Ei18eK_8</ref>
 | EA = 2006-07-29
 }}
 {{Episodenlisteneintrag
-| NR_GES = 197
+| NR_GES = 195
 | NR_ST = 9
 | OT = Von Männern und Mustangs / Des Mustangs et des Hommes<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/197-von-maennern-und-mustangs-339511</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642175</ref><ref>https://www.youtube.com/watch?v=vEQecvaogb8</ref>
 | EA = 2006-08-26
 }}
 {{Episodenlisteneintrag
-| NR_GES = 198
+| NR_GES = 196
 | NR_ST = 10
 | OT = Tasmanien: Wächterin im Paradies / La Gardienne du Paradis de Tasmanie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/198-tasmanien-waechterin-im-paradies-339666</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642176</ref><ref>https://www.youtube.com/watch?v=df1G1ZN2OdM</ref>
 | EA = 2006-09-09
 }}
 {{Episodenlisteneintrag
-| NR_GES = 199
+| NR_GES = 197
 | NR_ST = 11
 | OT = Die Teebahn von Darjeeling / Le Train du Darjeeling<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/199-die-teebahn-von-darjeeling-339668</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642177</ref><ref>https://www.imdb.com/title/tt2166468</ref><ref>https://www.youtube.com/watch?v=htD-vlXaVcw</ref>
 | EA = 2006-09-16
 }}
 {{Episodenlisteneintrag
-| NR_GES = 200
+| NR_GES = 198
 | NR_ST = 12
 | OT = Die Millionen-Dollar-Hirsche / Les Cerfs aux Bois de Velours<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/200-die-millionen-dollar-hirsche-339671</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642178</ref><ref>https://www.youtube.com/watch?v=b96BcyI9T9M</ref>
 | EA = 2006-10-07
 }}
 {{Episodenlisteneintrag
-| NR_GES = 201
+| NR_GES = 199
 | NR_ST = 13
 | OT = Die Dächer von Kairo / Sur les Toits du Caire<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/201-die-daecher-von-kairo-339672</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642179</ref><ref>https://www.youtube.com/watch?v=6rS22dz6_7o</ref>
 | EA = 2006-10-14
 }}
 {{Episodenlisteneintrag
-| NR_GES = 202
+| NR_GES = 200
 | NR_ST = 14
 | OT = Die Trommler von Burundi / Tambours du Burundi<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/202-die-trommler-von-burundi-339677</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642180</ref><ref>https://www.imdb.com/title/tt3032950</ref><ref>https://www.youtube.com/watch?v=jgIQx6w8oN8</ref>
 | EA = 2006-10-21
 }}
 {{Episodenlisteneintrag
-| NR_GES = 203
+| NR_GES = 201
 | NR_ST = 15
 | OT = Saphir-Fieber auf Madagaskar / Les Mines de Saphir de Madagascar<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/203-saphir-fieber-auf-madagaskar-339673</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642181</ref><ref>https://www.youtube.com/watch?v=gSR8zp3hLgQ</ref>
 | EA = 2006-11-04
 }}
 {{Episodenlisteneintrag
-| NR_GES = 204
+| NR_GES = 202
 | NR_ST = 16
 | OT = Auf den Spuren der Wikinger / Sur la Route des Vikings<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/204-auf-den-spuren-der-wikinger-339683</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642182</ref><ref>https://www.youtube.com/watch?v=Zsj8iSV3nQE</ref>
 | EA = 2006-11-18
 }}
 {{Episodenlisteneintrag
-| NR_GES = 205
+| NR_GES = 203
 | NR_ST = 17
 | OT = Chile - Segen und Fluch einer Kupfermine / Chili Entre Mine et Famine<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/205-chile-segen-und-fluch-einer-kupfermine-339685</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642183</ref><ref>https://www.youtube.com/watch?v=SvRfFmEL43Y</ref>
 | EA = 2006-12-02
 }}
 {{Episodenlisteneintrag
-| NR_GES = 206
+| NR_GES = 204
 | NR_ST = 18
 | OT = Buddhas Kinder im Goldenen Dreieck / Le Triangle d'Or et les Enfants de Bouddha<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/206-buddhas-kinder-im-goldenen-dreieck-339686</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642184</ref><ref>https://www.youtube.com/watch?v=5_SK0AFJqfQ</ref>
 | EA = 2006-12-16
 }}
 {{Episodenlisteneintrag
-| NR_GES = 207
+| NR_GES = 205
 | NR_ST = 19
 | OT = Eritrea - Ein Esel für die Zukunft / Érythrée, l'Âne de la Dernière Chance<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/207-eritrea-ein-esel-fuer-die-zukunft-339687</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642185</ref><ref>https://www.youtube.com/watch?v=deTDbCTBKtA</ref>
 | EA = 2006-12-23
@@ -1330,157 +1318,157 @@
 | DREHBUCH = nein
 | INHALT =
 {{Episodenlisteneintrag
-| NR_GES = 208
+| NR_GES = 206
 | NR_ST = 1
 | OT = Hai-Alarm in Polynesien / L'Homme Qui Aimait les Requins<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/208-hai-alarm-in-polynesien-339688</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642205</ref><ref>https://www.youtube.com/watch?v=kwuqkmG7z_M</ref>
 | EA = 2007-01-06
 }}
 {{Episodenlisteneintrag
-| NR_GES = 209
+| NR_GES = 207
 | NR_ST = 2
 | OT = Sumatra - Ettis Schönheitssalon / Sumatra Vénus Beauté<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/209-sumatra-ettis-schoenheitssalon-339689</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642206</ref><ref>https://www.youtube.com/watch?v=0JguIiABfw8</ref>
 | EA = 2007-01-27
 }}
 {{Episodenlisteneintrag
-| NR_GES = 210
+| NR_GES = 208
 | NR_ST = 3
 | OT = Kenia: Das Dorf der Frauen / Kenya, le Village des Femmes<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/210-kenia-das-dorf-der-frauen-339690</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642207</ref><ref>https://www.youtube.com/watch?v=CGJ9nKH4zFw</ref>
 | EA = 2007-02-10
 }}
 {{Episodenlisteneintrag
-| NR_GES = 211
+| NR_GES = 209
 | NR_ST = 4
 | OT = Boliviens junge Wilde / L'Arche de Noé en Bolivie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/211-boliviens-junge-wilde-339692</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642208</ref><ref>https://www.imdb.com/title/tt3843720</ref><ref>https://www.youtube.com/watch?v=SfnqxRXIJSo</ref>
 | EA = 2007-03-03
 }}
 {{Episodenlisteneintrag
-| NR_GES = 212
+| NR_GES = 210
 | NR_ST = 5
 | OT = Ein Dorfladen reist durch Lettland / L'Épicier Volant de Lettonie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/212-ein-dorfladen-reist-durch-lettland-339693</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642209</ref><ref>https://www.youtube.com/watch?v=wHc_aS93aZc</ref>
 | EA = 2007-03-24
 }}
 {{Episodenlisteneintrag
-| NR_GES = 213
+| NR_GES = 211
 | NR_ST = 6
 | OT = Miyako: Die Insel des langen Lebens / Miyako — Vivre Cent Ans, Vivre Heureux!<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/213-miyako-die-insel-des-langen-lebens-339694</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642210</ref><ref>https://www.youtube.com/watch?v=04TrtARWfGA</ref>
 | EA = 2007-04-07
 }}
 {{Episodenlisteneintrag
-| NR_GES = 214
+| NR_GES = 212
 | NR_ST = 7
 | OT = Die Sandmenschen von Schoina / Choïna, Sous le Sable<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/214-die-sandmenschen-von-schoina-339696</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642211</ref><ref>https://www.youtube.com/watch?v=EdPZhBjtBas</ref>
 | EA = 2007-04-21
 }}
 {{Episodenlisteneintrag
-| NR_GES = 215
+| NR_GES = 213
 | NR_ST = 8
 | OT = Bangkoks krabbelnde Delikatessen / Bangkok, Insectes Frits à Toute Heure<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/215-bangkoks-krabbelnde-delikatessen-339697</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642212</ref><ref>https://www.youtube.com/watch?v=Cxe2KMNhjG0</ref>
 | EA = 2007-05-05
 }}
 {{Episodenlisteneintrag
-| NR_GES = 216
+| NR_GES = 214
 | NR_ST = 9
 | OT = Die Windreiter der Anden / Les Enragés du Vol à Voile<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/216-die-windreiter-der-anden-339698</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642213</ref><ref>https://www.youtube.com/watch?v=xkVql_Bm6FM</ref>
 | EA = 2007-05-12
 }}
 {{Episodenlisteneintrag
-| NR_GES = 217
+| NR_GES = 215
 | NR_ST = 10
 | OT = Der Lachszähler von Kamtschatka / Alexeï, les Saumons et les Ours<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/217-der-lachszaehler-von-kamtschatka-339700</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642214</ref><ref>https://www.youtube.com/watch?v=_1z6gndFCQg</ref>
 | EA = 2007-06-02
 }}
 {{Episodenlisteneintrag
-| NR_GES = 218
+| NR_GES = 216
 | NR_ST = 11
 | OT = Kamtschatka: Kochende Erde / Katmtchatka, Là où la Terre Tremble<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/218-kamtschatka-kochende-erde-339701</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642215</ref><ref>https://www.youtube.com/watch?v=9Nbz_igMCmM</ref>
 | EA = 2007-06-09
 }}
 {{Episodenlisteneintrag
-| NR_GES = 219
+| NR_GES = 217
 | NR_ST = 12
 | OT = Venezuela: Die alte Frau und das Meer / Venezuela, la vieille dame et la mer<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/219-venezuela-die-alte-frau-und-das-meer-339703</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642216</ref><ref>https://www.imdb.com/title/tt1169292</ref><ref>https://www.youtube.com/watch?v=sOtopRXixzg</ref>
 | EA = 2007-06-30
 }}
 {{Episodenlisteneintrag
-| NR_GES = 220
+| NR_GES = 218
 | NR_ST = 13
 | OT = Die Krabbenflut / Les Crabes Attaques<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/220-die-krabbenflut-339704</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642217</ref><ref>https://www.youtube.com/watch?v=Unop9XcUC7g</ref>
 | EA = 2007-08-11
 }}
 {{Episodenlisteneintrag
-| NR_GES = 221
+| NR_GES = 219
 | NR_ST = 14
 | OT = Thailand: Kinder im Ring / Thaïlande, les Enfants du Ring<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/221-thailand-kinder-im-ring-339705</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642245</ref><ref>https://www.youtube.com/watch?v=LtDq72ui27g</ref>
 | EA = 2007-09-01
 }}
 {{Episodenlisteneintrag
-| NR_GES = 222
+| NR_GES = 220
 | NR_ST = 15
 | OT = Kolumbien: Ein Riesenrad auf Reisen / Colombie, le Manège Enchanté<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/222-kolumbien-ein-riesenrad-auf-reisen-339706</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642246</ref><ref>https://www.youtube.com/watch?v=l0tgOGBbI7M</ref>
 | EA = 2007-09-08
 }}
 {{Episodenlisteneintrag
-| NR_GES = 223
+| NR_GES = 221
 | NR_ST = 16
 | OT = Rio: Vom Strich auf den Laufsteg / Rio, le Trottoir Fait Sa Mode<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/223-rio-vom-strich-auf-den-laufsteg-339707</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642247</ref><ref>https://www.youtube.com/watch?v=lONevE9h_GM</ref>
 | EA = 2007-09-15
 }}
 {{Episodenlisteneintrag
-| NR_GES = 224
+| NR_GES = 222
 | NR_ST = 17
 | OT = Oman: Die Rosen der Wüste / Oman, les Roses du Désert<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/224-oman-die-rosen-der-wueste-339708</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642248</ref><ref>https://www.youtube.com/watch?v=LwijL77IF3c</ref>
 | EA = 2007-09-22
 }}
 {{Episodenlisteneintrag
-| NR_GES = 225
+| NR_GES = 223
 | NR_ST = 18
 | OT = Brasilien: Büffel auf Streife / Des Buffles en Patrouille<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/225-brasilien-bueffel-auf-streife-339710</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642249</ref><ref>https://www.youtube.com/watch?v=J3OzpZ5L3o8</ref>
 | EA = 2007-11-03
 }}
 {{Episodenlisteneintrag
-| NR_GES = 226
+| NR_GES = 224
 | NR_ST = 19
 | OT = Der Ottermann von Ungarn / L'homme aux loutres<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/226-der-ottermann-von-ungarn-339713</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642250</ref><ref>https://www.imdb.com/title/tt6756518</ref><ref>https://www.youtube.com/watch?v=7TUDH-k4qH0</ref>
 | EA = 2007-11-10
 }}
 {{Episodenlisteneintrag
-| NR_GES = 227
+| NR_GES = 225
 | NR_ST = 20
 | OT = Attila und die Pferde der Puszta / Les Cavaliers de la Steppe Hongroise<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/227-attila-und-die-pferde-der-puszta-339714</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642251</ref><ref>https://www.youtube.com/watch?v=Cbc64mnqRck</ref>
 | EA = 2007-11-17
 }}
 {{Episodenlisteneintrag
-| NR_GES = 228
+| NR_GES = 226
 | NR_ST = 21
 | OT = Peru: Delfine in Gefahr / SOS Dauphins!<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/228-peru-delfine-in-gefahr-339715</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642252</ref><ref>https://www.imdb.com/title/tt1281302</ref><ref>https://www.youtube.com/watch?v=LmSo7bINHXQ</ref>
 | EA = 2007-11-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 229
+| NR_GES = 227
 | NR_ST = 22
 | OT = Postbote im Himalaya - Arbeit in 4000 Meter Höhe / Le Facteur de l'Himalaya<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/229-postbote-im-himalaya-339716</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642253</ref><ref>https://www.imdb.com/title/tt6941802</ref><ref>https://www.youtube.com/watch?v=VHEpd2C1GvQ</ref>
 | EA = 2007-12-01
 }}
 {{Episodenlisteneintrag
-| NR_GES = 230
+| NR_GES = 228
 | NR_ST = 23
 | OT = Wenzhou, die Schuh-Stadt von China / Chaussures Made in Wenzhou<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/230-wenzhou-die-schuh-stadt-von-china-339717</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642254</ref><ref>https://www.youtube.com/watch?v=BlMBuBYO0IQ</ref>
 | EA = 2007-12-08
 }}
 {{Episodenlisteneintrag
-| NR_GES = 231
+| NR_GES = 229
 | NR_ST = 24
 | OT = Alligatorjagd in Florida / Alerte aux Alligators<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/231-alligatorjagd-in-florida-339718</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642255</ref><ref>https://www.youtube.com/watch?v=Ky2m06TY8NY</ref>
 | EA = 2007-12-15
 }}
 {{Episodenlisteneintrag
-| NR_GES = 232
+| NR_GES = 230
 | NR_ST = 25
 | OT = Russlands Zirkusschule auf Tour / Le Cirque de Moscou en Balade<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/232-russlands-zirkusschule-auf-tour-339719</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642256</ref><ref>https://www.youtube.com/watch?v=5dS2nHbEqsM</ref>
 | EA = 2007-12-22
 }}
 {{Episodenlisteneintrag
-| NR_GES = 233
+| NR_GES = 231
 | NR_ST = 26
 | OT = Auf Schlangenfang in Kambodscha / Les Chasseurs de Serpents du Cambodge<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/233-auf-schlangenfang-in-kambodscha-339720</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642257</ref><ref>https://www.imdb.com/title/tt1623059</ref><ref>https://www.youtube.com/watch?v=qVuhqpYiH5c</ref>
 | EA = 2007-12-29
@@ -1496,139 +1484,139 @@
 | DREHBUCH = nein
 | INHALT =
 {{Episodenlisteneintrag
-| NR_GES = 234
+| NR_GES = 232
 | NR_ST = 1
 | OT = Hexenwahn in Tansania / Chasse aux Sorcières en Tanzanie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/234-hexenwahn-in-tansania-339722</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642259</ref><ref>https://www.youtube.com/watch?v=8K_unhDEPJo</ref>
 | EA = 2008-01-21
 }}
 {{Episodenlisteneintrag
-| NR_GES = 235
+| NR_GES = 233
 | NR_ST = 2
 | OT = Die Kämpferinnen von Mexiko / Les Catcheuses de Mexico<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/235-die-kaempferinnen-von-mexiko-339724</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642260</ref><ref>https://www.youtube.com/watch?v=HDZDyBBnqDs</ref>
 | EA = 2008-01-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 236
+| NR_GES = 234
 | NR_ST = 3
 | OT = Die Minenratten von Tansania / Les Rats Démineurs de Tanzanie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/236-die-minenratten-von-tansania-339727</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642261</ref><ref>https://www.youtube.com/watch?v=BYPBaBKHjpM</ref>
 | EA = 2008-02-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 237
+| NR_GES = 235
 | NR_ST = 4
 | OT = Philippinen: Rendezvous mit einem Adler / Philippines, Pour l’Amour d’un Aigle<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/237-philippinen-rendezvous-mit-einem-adler-339725</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642262</ref><ref>https://www.imdb.com/title/tt3781424</ref><ref>https://www.youtube.com/watch?v=Qr9EvRRTYLo</ref>
 | EA = 2008-02-28
 }}
 {{Episodenlisteneintrag
-| NR_GES = 238
+| NR_GES = 236
 | NR_ST = 5
 | OT = Die Köchin von Bahia / Les Petits Plats de Bahia<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/238-die-koechin-von-bahia-339728</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642263</ref><ref>https://www.youtube.com/watch?v=U0f-lOEyArs</ref>
 | EA = 2008-03-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 239
+| NR_GES = 237
 | NR_ST = 6
 | OT = Der Kräutergarten von Java / Le Jardin de Java<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/239-der-kraeutergarten-von-java-339730</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642264</ref><ref>https://www.youtube.com/watch?v=n_GzJ5oxdSQ</ref>
 | EA = 2008-03-27
 }}
 {{Episodenlisteneintrag
-| NR_GES = 240
+| NR_GES = 238
 | NR_ST = 7
 | OT = An den Ufern der Loire / Mon Bout de Loire<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/240-an-den-ufern-der-loire-339684</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642265</ref><ref>https://www.youtube.com/watch?v=u-rV3o70aFs</ref>
 | EA = 2008-04-21
 }}
 {{Episodenlisteneintrag
-| NR_GES = 241
+| NR_GES = 239
 | NR_ST = 8
 | OT = Rom - Das Leben der Komparsen / Rome, les Petits Rôles de Cinecitta<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/241-rom-das-leben-der-komparsen-339691</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642266</ref><ref>https://www.youtube.com/watch?v=-M2Nf4GPbHg</ref>
 | EA = 2008-04-22
 }}
 {{Episodenlisteneintrag
-| NR_GES = 242
+| NR_GES = 240
 | NR_ST = 9
 | OT = Kanadas Buschpiloten im Einsatz / Pilotes du Nunavik<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/242-kanadas-buschpiloten-im-einsatz-339695</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642267</ref><ref>https://www.youtube.com/watch?v=dr7OQ8XcdXA</ref>
 | EA = 2008-05-26
 }}
 {{Episodenlisteneintrag
-| NR_GES = 243
+| NR_GES = 241
 | NR_ST = 10
 | OT = Mauretanien: Aufstand der Fischerfrauen / Pêcheurs de Mauritanie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/243-mauretanien-aufstand-der-fischerfrauen-339731</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642268</ref><ref>https://www.youtube.com/watch?v=eRzhzWVRgns</ref>
 | EA = 2008-07-26
 }}
 {{Episodenlisteneintrag
-| NR_GES = 244
+| NR_GES = 242
 | NR_ST = 11
 | OT = Vom Klassenzimmer in die Kalahari / Namibie, Sur les Traces de Darwin<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/244-vom-klassenzimmer-in-die-kalahari-339699</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642269</ref><ref>https://www.youtube.com/watch?v=AB2q4v0rlYo</ref>
 | EA = 2008-07-31
 }}
 {{Episodenlisteneintrag
-| NR_GES = 245
+| NR_GES = 243
 | NR_ST = 12
 | OT = Nicaragua: Fluch der Langustentaucher / Nicaragua, la Malédiction des Pêcheurs de Langoustes<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/245-nicaragua-fluch-der-langustentaucher-339702</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642270</ref><ref>https://www.imdb.com/title/tt1279332</ref><ref>https://www.youtube.com/watch?v=bO6BiCVyGug</ref>
 | EA = 2008-08-28
 }}
 {{Episodenlisteneintrag
-| NR_GES = 246
+| NR_GES = 244
 | NR_ST = 13
 | OT = Uganda: Der Weg zum Fahrradtaxi / La Brousse en Vélo-Taxi<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/246-uganda-der-weg-zum-fahrradtaxi-339709</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642271</ref><ref>https://www.youtube.com/watch?v=Z-9fqoYchv4</ref>
 | EA = 2008-09-04
 }}
 {{Episodenlisteneintrag
-| NR_GES = 247
+| NR_GES = 245
 | NR_ST = 14
 | OT = New York - Die kleinste Oper der Welt / New York, le Plus Petit Opéra du Monde<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/247-new-york-die-kleinste-oper-der-welt-339711</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642272</ref><ref>https://www.youtube.com/watch?v=I-VACV5HkOs</ref>
 | EA = 2008-09-18
 }}
 {{Episodenlisteneintrag
-| NR_GES = 248
+| NR_GES = 246
 | NR_ST = 15
 | OT = Indien: Das Geschäft mit dem Tempelhaar / Inde, les Cheveux du Temple<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/248-indien-das-geschaeft-mit-dem-tempelhaar-339712</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642273</ref><ref>https://www.imdb.com/title/tt27406063</ref><ref>https://www.youtube.com/watch?v=Ka5if339los</ref>
 | EA = 2008-10-02
 }}
 {{Episodenlisteneintrag
-| NR_GES = 249
+| NR_GES = 247
 | NR_ST = 16
 | OT = Kyushu - Wo Japans grüner Tee wächst / Japon, la Voie du Thé<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/249-kyuchu-wo-japans-gruener-tee-waechst-339721</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642274</ref><ref>https://www.imdb.com/title/tt1301207</ref><ref>https://www.youtube.com/watch?v=EoXyDIckuRI</ref>
 | EA = 2008-10-16
 }}
 {{Episodenlisteneintrag
-| NR_GES = 250
+| NR_GES = 248
 | NR_ST = 17
 | OT = Arganöl - Marokkos weißes Gold / L’Huile d’Argan — L’Or Blanc du Maroc<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/250-arganoel-marokkos-weisses-gold-339723</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642275</ref><ref>https://www.youtube.com/watch?v=hebFHCqfu0c</ref>
 | EA = 2008-10-30
 }}
 {{Episodenlisteneintrag
-| NR_GES = 251
+| NR_GES = 249
 | NR_ST = 18
 | OT = Das Geheimnis der Schweizer Uhren / Le Secret des Montres Suisses<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/251-das-geheimnis-der-schweizer-uhren-339729</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642276</ref><ref>https://www.imdb.com/title/tt1301206</ref><ref>https://www.youtube.com/watch?v=WhhdUVCFga0</ref>
 | EA = 2008-11-06
 }}
 {{Episodenlisteneintrag
-| NR_GES = 252
+| NR_GES = 250
 | NR_ST = 19
 | OT = Johana - Make-up und Motorenöl / Jamais Sans Ma Jeep<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/252-johana-make-up-und-motorenoel-339726</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642277</ref><ref>https://www.youtube.com/watch?v=t3FempEGGaw</ref>
 | EA = 2008-11-13
 }}
 {{Episodenlisteneintrag
-| NR_GES = 253
+| NR_GES = 251
 | NR_ST = 20
 | OT = Rio de la Plata - SOS am Silberfluss / Le Dernier Capitaine du Rio de la Plata<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/253-rio-de-la-plata-sos-am-silberfluss-339732</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642278</ref><ref>https://www.youtube.com/watch?v=IkMvsCA4uo0</ref>
 | EA = 2008-11-27
 }}
 {{Episodenlisteneintrag
-| NR_GES = 254
+| NR_GES = 252
 | NR_ST = 21
 | OT = Der Weinpriester von Bali / Bacchus à Bali<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/254-der-weinpriester-von-bali-339733</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642279</ref><ref>https://www.youtube.com/watch?v=-D0iE7FsRGQ</ref>
 | EA = 2008-12-04
 }}
 {{Episodenlisteneintrag
-| NR_GES = 255
+| NR_GES = 253
 | NR_ST = 22
 | OT = Taipeh 101 - Der Himmel über Taiwan / Taipei 101, Sous le Ciel de Taiwan<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/255-taipeh-101-der-himmel-ueber-taiwan-339734</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642280</ref><ref>https://www.youtube.com/watch?v=SJKNUloS0O4</ref>
 | EA = 2008-12-11
 }}
 {{Episodenlisteneintrag
-| NR_GES = 256
+| NR_GES = 254
 | NR_ST = 23
 | OT = Die einsamen Mönche von Oelenberg / Les Moines Blancs de l’Oelenberg<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/256-die-einsamen-moenche-von-oelenberg-339735</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642281</ref><ref>https://www.youtube.com/watch?v=QR5RWf0_ksc</ref>
 | EA = 2008-12-18
@@ -1644,157 +1632,157 @@
 | DREHBUCH = nein
 | INHALT =
 {{Episodenlisteneintrag
-| NR_GES = 257
+| NR_GES = 255
 | NR_ST = 1
 | OT = Arktis - Die Route der Atomeisbrecher / Brise-Glace de l’Arctique<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/257-arktis-die-route-der-atomeisbrecher-339736</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642283</ref><ref>https://www.imdb.com/title/tt1350547</ref><ref>https://www.youtube.com/watch?v=4VEpfXzy214</ref>
 | EA = 2009-01-18
 }}
 {{Episodenlisteneintrag
-| NR_GES = 258
+| NR_GES = 256
 | NR_ST = 2
 | OT = Die besten Hütehunde von Wales / Chiens, Graines de Champion<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/258-die-besten-huetehunde-von-wales-339750</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642493</ref><ref>https://www.imdb.com/title/tt27481079</ref><ref>https://www.youtube.com/watch?v=B0wdXJ_U7TY</ref>
 | EA = 2009-01-24
 }}
 {{Episodenlisteneintrag
-| NR_GES = 259
+| NR_GES = 257
 | NR_ST = 3
 | OT = Idjwi - Afrikas vergessene Insel / Idjwi, l’Île Oubliée<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/259-idjwi-afrikas-vergessene-insel-339737</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642284</ref><ref>https://www.imdb.com/title/tt1350549</ref><ref>https://www.youtube.com/watch?v=y_zW09TMKaQ</ref>
 | EA = 2009-01-31
 }}
 {{Episodenlisteneintrag
-| NR_GES = 260
+| NR_GES = 258
 | NR_ST = 4
 | OT = Die Bambusbahn von Kambodscha / Cambodge — le Petit Train de Bambous<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/260-die-bambusbahn-von-kambodscha-339738</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642285</ref><ref>https://www.youtube.com/watch?v=j3ZqYbPVhq4</ref>
 | EA = 2009-02-07
 }}
 {{Episodenlisteneintrag
-| NR_GES = 261
+| NR_GES = 259
 | NR_ST = 5
 | OT = Nepal: Die Krieger vom Dach der Welt / Népal, les Soldats du Toit du Monde<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/261-nepal-die-krieger-vom-dach-der-welt-339739</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642286</ref><ref>https://www.imdb.com/title/tt1348519</ref><ref>https://www.youtube.com/watch?v=m-7u2kAG2DQ</ref>
 | EA = 2009-02-21
 }}
 {{Episodenlisteneintrag
-| NR_GES = 262
+| NR_GES = 260
 | NR_ST = 6
 | OT = Das Whisky-Geheimnis von Islay / Islay — Le Secret du Whisky<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/262-das-whisky-geheimnis-von-islay-339740</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642287</ref><ref>https://www.imdb.com/title/tt2107879</ref><ref>https://www.youtube.com/watch?v=4z_vcFuiwds</ref>
 | EA = 2009-03-21
 }}
 {{Episodenlisteneintrag
-| NR_GES = 263
+| NR_GES = 261
 | NR_ST = 7
 | OT = Biberkrieg in Bayern / Bavière — La Guerre aux Castors<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/263-biberkrieg-in-bayern-339741</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642288</ref><ref>https://www.youtube.com/watch?v=L1QY4QuRJs4</ref>
 | EA = 2009-04-18
 }}
 {{Episodenlisteneintrag
-| NR_GES = 264
+| NR_GES = 262
 | NR_ST = 8
 | OT = Die Feuerflieger von Valencia / Espagne, les Pompiers du Ciel<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/265-die-feuerflieger-von-valencia-339743</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642290</ref><ref>https://www.imdb.com/title/tt3825396</ref><ref>https://www.youtube.com/watch?v=hc_-HyJy6u0</ref>
 | EA = 2009-05-18
 }}
 {{Episodenlisteneintrag
-| NR_GES = 265
+| NR_GES = 263
 | NR_ST = 9
 | OT = Kaviar - Der Schatz aus dem Iran! / Le Caviar, Ce Trésor Venu d’Iran<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/264-kaviar-der-schatz-aus-dem-iran-339742</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642289</ref><ref>https://www.youtube.com/watch?v=i8lc_XQujbM</ref>
 | EA = 2009-05-02
 }}
 {{Episodenlisteneintrag
-| NR_GES = 266
+| NR_GES = 264
 | NR_ST = 10
 | OT = Georgien: Die Wiege des Weins / Géorgie, Pour l’Amour du Vin<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/266-georgien-die-wiege-des-weins-339744</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642292</ref><ref>https://www.youtube.com/watch?v=iSex9SfaNDg</ref>
 | EA = 2009-05-24
 }}
 {{Episodenlisteneintrag
-| NR_GES = 267
+| NR_GES = 265
 | NR_ST = 11
 | OT = Die Magellan-Lotsen / Turbulences Dans le Détroit de Magellan<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/267-die-magellan-lotsen-339745</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642293</ref><ref>https://www.youtube.com/watch?v=zJXstWpax9g</ref>
 | EA = 2009-05-30
 }}
 {{Episodenlisteneintrag
-| NR_GES = 268
+| NR_GES = 266
 | NR_ST = 12
 | OT = Die Falkenärztin von Abu Dhabi / Abou Dhabi, au Chevet des Faucons<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/268-die-falkenaerztin-von-abu-dhabi-339746</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642294</ref><ref>https://www.imdb.com/title/tt2101587</ref><ref>https://www.youtube.com/watch?v=QE2i1lYmb_Q</ref>
 | EA = 2009-07-05
 }}
 {{Episodenlisteneintrag
-| NR_GES = 269
+| NR_GES = 267
 | NR_ST = 13
 | OT = Sokotra, Schatzinsel in Gefahr / Socotra - Paradis Menacé<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/269-sokotra-schatzinsel-in-gefahr-339747</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642296</ref><ref>https://www.imdb.com/title/tt1458179</ref><ref>https://www.youtube.com/watch?v=G-TbiXRVLTM</ref>
 | EA = 2009-07-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 270
+| NR_GES = 268
 | NR_ST = 14
 | OT = Jemens verschleierte Zukunft / L’Avenir Voilé du Yémen<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/270-jemens-verschleierte-zukunft-339748</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642298</ref><ref>https://www.youtube.com/watch?v=gCIzyjixKpI</ref>
 | EA = 2009-08-08
 }}
 {{Episodenlisteneintrag
-| NR_GES = 271
+| NR_GES = 269
 | NR_ST = 15
 | OT = Neuseelands Lauf der Extreme / Nouvelle-Zélande — Marathon Extrême<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/271-neuseelands-lauf-der-extreme-339749</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642492</ref><ref>https://www.youtube.com/watch?v=6TSXVJB4nmQ</ref>
 | EA = 2009-08-22
 }}
 {{Episodenlisteneintrag
-| NR_GES = 272
+| NR_GES = 270
 | NR_ST = 16
 | OT = Die Narzisseninsel vor Cornwall / Scilly, Îles aux Narcisses<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/272-die-narzisseninsel-vor-cornwall-339751</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642494</ref><ref>https://www.youtube.com/watch?v=2k8K6kPY24U</ref>
 | EA = 2009-09-12
 }}
 {{Episodenlisteneintrag
-| NR_GES = 273
+| NR_GES = 271
 | NR_ST = 17
 | OT = Die Todesküste von Galicien / Galice, Pêcheurs en Danger<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/273-die-todeskueste-von-galicien-339752</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642495</ref><ref>https://www.youtube.com/watch?v=MMsnMfaXpUA</ref>
 | EA = 2009-09-13
 }}
 {{Episodenlisteneintrag
-| NR_GES = 274
+| NR_GES = 272
 | NR_ST = 18
 | OT = Das Salz der Inka / Le Sel des Incas<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/274-das-salz-der-inka-339753</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642496</ref><ref>https://www.imdb.com/title/tt2077916</ref><ref>https://www.youtube.com/watch?v=RUfLIGurIAE</ref>
 | EA = 2009-09-26
 }}
 {{Episodenlisteneintrag
-| NR_GES = 275
+| NR_GES = 273
 | NR_ST = 19
 | OT = Die Holzfäller von British Columbia / Les Bûcherons du Canada<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/275-die-holzfaeller-von-british-columbia-339754</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642497</ref><ref>https://www.imdb.com/title/tt1621646</ref><ref>https://www.youtube.com/watch?v=MpF684mvA5A</ref>
 | EA = 2009-10-10
 }}
 {{Episodenlisteneintrag
-| NR_GES = 276
+| NR_GES = 274
 | NR_ST = 20
 | OT = Die neuen Nomaden von Kirgisistan / Nomades du Kirghizstan<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/276-die-neuen-nomaden-von-kirgisistan-339755</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642498</ref><ref>https://www.youtube.com/watch?v=V5qvHh2phPw</ref>
 | EA = 2009-10-31
 }}
 {{Episodenlisteneintrag
-| NR_GES = 277
+| NR_GES = 275
 | NR_ST = 21
 | OT = Die Meerfrauen von Japan / Japon, les Reines de la Mer<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/277-die-meerfrauen-von-japan-339756</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642499</ref><ref>https://www.youtube.com/watch?v=7Xh5pUZt0yM</ref>
 | EA = 2009-11-01
 }}
 {{Episodenlisteneintrag
-| NR_GES = 278
+| NR_GES = 276
 | NR_ST = 22
 | OT = Paraguays neue Häuser / Maisons Végétales au Paraguay<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/278-paraguays-neue-haeuser-339949</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642500</ref><ref>https://www.imdb.com/title/tt1514454</ref><ref>https://www.youtube.com/watch?v=quHXX9_bIjQ</ref>
 | EA = 2009-11-14
 }}
 {{Episodenlisteneintrag
-| NR_GES = 279
+| NR_GES = 277
 | NR_ST = 23
 | OT = Ein Baumhaus in Costa Rica / Ma Cabane au Costa Rica<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/279-ein-baumhaus-in-costa-rica-339951</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642501</ref><ref>https://www.youtube.com/watch?v=JL3N7pLoXFM</ref>
 | EA = 2009-11-28
 }}
 {{Episodenlisteneintrag
-| NR_GES = 280
+| NR_GES = 278
 | NR_ST = 24
 | OT = Ruanda: Land der Frauen / Le Rwanda aux Femmes<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/280-ruanda-land-der-frauen-339952</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642502</ref><ref>https://www.youtube.com/watch?v=cgNXNRjbB8E</ref>
 | EA = 2009-12-12
 }}
 {{Episodenlisteneintrag
-| NR_GES = 281
+| NR_GES = 279
 | NR_ST = 25
 | OT = Saint-Pierre und Miquelon: Archipel in der Isolation / Saint-Pierre-et-Miquelon — L’Archipel Perdu<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/281-saint-pierre-und-miquelon-archipel-in-der-isolation-339954</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642503</ref><ref>https://www.youtube.com/watch?v=z6mots9SAg0</ref>
 | EA = 2009-12-19
 }}
 {{Episodenlisteneintrag
-| NR_GES = 282
+| NR_GES = 280
 | NR_ST = 26
 | OT = Saint Helena: Vergessen im Atlantik / L’Exil de Sainte-Hélène<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/282-saint-helena-vergessen-im-atlantik-339953</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642504</ref><ref>https://www.youtube.com/watch?v=srGhZLAIPCk</ref>
 | EA = 2009-12-26
@@ -1810,121 +1798,121 @@
 | DREHBUCH = nein
 | INHALT =
 {{Episodenlisteneintrag
-| NR_GES = 283
+| NR_GES = 281
 | NR_ST = 1
 | OT = Vietnams vermintes Paradies / Vietnam, Paradis Miné<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/283-vietnams-vermintes-paradies-339955</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642507</ref><ref>https://www.youtube.com/watch?v=56EQyMDFfzM</ref>
 | EA = 2010-01-09
 }}
 {{Episodenlisteneintrag
-| NR_GES = 284
+| NR_GES = 282
 | NR_ST = 2
 | OT = Spitzbergen, eisige Insel / Expédition au Spitzberg<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/284-spitzbergen-eisige-insel-339956</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642508</ref><ref>https://www.imdb.com/title/tt2128705</ref><ref>https://www.youtube.com/watch?v=5WVk0CvsUA0</ref>
 | EA = 2010-01-30
 }}
 {{Episodenlisteneintrag
-| NR_GES = 285
+| NR_GES = 283
 | NR_ST = 3
 | OT = Hawaii: Beachboys auf Patrouille / Les Beachboys de Hawaii<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/285-hawaii-beachboys-auf-patrouille-339957</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642509</ref><ref>https://www.youtube.com/watch?v=7NHpb3KDYH0</ref>
 | EA = 2010-02-06
 }}
 {{Episodenlisteneintrag
-| NR_GES = 286
+| NR_GES = 284
 | NR_ST = 4
 | OT = SOS in den Rocky Mountains / Sauvetage Dans les Rocheuses<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/286-sos-in-den-rocky-mountains-339958</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642510</ref><ref>https://www.imdb.com/title/tt10007904</ref><ref>https://www.youtube.com/watch?v=S3N8fPmBOD0</ref>
 | EA = 2010-02-20
 }}
 {{Episodenlisteneintrag
-| NR_GES = 287
+| NR_GES = 285
 | NR_ST = 5
 | OT = Die letzten Kamelkarawanen der Sahara / Les Derniers Caravaniers du Sahara<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/287-die-letzten-kamelkarawanen-der-sahara-339960</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642511</ref><ref>https://www.youtube.com/watch?v=kKr2LCU__Pg</ref>
 | EA = 2010-03-06
 }}
 {{Episodenlisteneintrag
-| NR_GES = 288
+| NR_GES = 286
 | NR_ST = 6
 | OT = Mit der Lok durch Angola / Angola — Le Bonheur Est Dans le Train<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/288-mit-der-lok-durch-angola-339961</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642512</ref><ref>https://www.youtube.com/watch?v=jbkp_3nRDjQ</ref>
 | EA = 2010-03-27
 }}
 {{Episodenlisteneintrag
-| NR_GES = 289
+| NR_GES = 287
 | NR_ST = 7
 | OT = Wilde Pferde im Donaudelta / Danuble Bleu et Chevaux Sauvages<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/289-wilde-pferde-im-donaudelta-339757</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642513</ref><ref>https://www.youtube.com/watch?v=nfDk1G85yUA</ref>
 | EA = 2010-04-10
 }}
 {{Episodenlisteneintrag
-| NR_GES = 290
+| NR_GES = 288
 | NR_ST = 8
 | OT = Cranberrysaison auf Cap Cod / Cap Cod — Le Temps des Cranberries<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/290-cranberrysaison-auf-cap-cod-339950</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642514</ref><ref>https://www.youtube.com/watch?v=YZ7wxrTF3uI</ref>
 | EA = 2010-04-24
 }}
 {{Episodenlisteneintrag
-| NR_GES = 291
+| NR_GES = 289
 | NR_ST = 9
 | OT = Indiens Dschungelbuchklinik / L’Inde, la Clinique des Tigres<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/291-indiens-dschungelbuchklinik-506720</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642515</ref><ref>https://www.youtube.com/watch?v=Tc7yml23q14</ref>
 | EA = 2010-05-29
 }}
 {{Episodenlisteneintrag
-| NR_GES = 292
+| NR_GES = 290
 | NR_ST = 10
 | OT = Unterwegs mit der Irish Coast Guard / Irlande, les Sauveteurs de l’Extrême<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/292-unterwegs-mit-der-irish-coast-guard-339963</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642518</ref><ref>https://www.imdb.com/title/tt1692109</ref><ref>https://www.youtube.com/watch?v=vdqig1_VkIg</ref>
 | EA = 2010-06-12
 }}
 {{Episodenlisteneintrag
-| NR_GES = 293
+| NR_GES = 291
 | NR_ST = 11
 | OT = Jillaroos - Cowgirls im australischen Outback / Australie, les Cow-Girls Tiennent les Rênes<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/293-jillaroos-cowgirls-im-australischen-outback-339965</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642517</ref><ref>https://www.imdb.com/title/tt16970474</ref><ref>https://www.youtube.com/watch?v=dzNcn7hvzAc</ref>
 | EA = 2010-09-04
 }}
 {{Episodenlisteneintrag
-| NR_GES = 294
+| NR_GES = 292
 | NR_ST = 12
 | OT = Das Volk der Bishnoi - Tierliebe bis in den Tod / Bishnoi, les Femmes Qui Allaitent les Gazelles<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/294-das-volk-der-bishnoi-tierliebe-bis-in-den-tod-339967</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642527</ref><ref>https://www.youtube.com/watch?v=tcNmq-quVPA</ref>
 | EA = 2010-09-11
 }}
 {{Episodenlisteneintrag
-| NR_GES = 295
+| NR_GES = 293
 | NR_ST = 13
 | OT = Falklandinseln - Pinguine auf dem Vormarsch / Les Malouines, Paradis des Manchots<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/295-falklandinseln-pinguine-auf-dem-vormarsch-339959</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642516</ref><ref>https://www.youtube.com/watch?v=A_eZDMVKVco</ref>
 | EA = 2010-09-18
 }}
 {{Episodenlisteneintrag
-| NR_GES = 296
+| NR_GES = 294
 | NR_ST = 14
 | OT = Taipan, die gefährlichste Schlange der Welt / Taipan, le Serpent le Plus Venimeux au Monde<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/296-taipan-die-gefaehrlichste-schlange-der-welt-339962</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642519</ref><ref>https://www.youtube.com/watch?v=ItZXECu1GPQ</ref>
 | EA = 2010-10-09
 }}
 {{Episodenlisteneintrag
-| NR_GES = 297
+| NR_GES = 295
 | NR_ST = 15
 | OT = Baikalsee, ein Wintermärchen / Les Plongeurs Fous du Lac Baïkal<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/297-baikalsee-ein-wintermaerchen-339966</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642520</ref><ref>https://www.youtube.com/watch?v=Q32TkfdHpnI</ref>
 | EA = 2010-10-16
 }}
 {{Episodenlisteneintrag
-| NR_GES = 298
+| NR_GES = 296
 | NR_ST = 16
 | OT = Legende auf Schienen - Skandinaviens Kirunabahn / Kiruna, le Train du Grand Nord<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/298-legende-auf-schienen-skandinaviens-kirunabahn-339964</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642522</ref><ref>https://www.youtube.com/watch?v=mGdgh-eQVM4</ref>
 | EA = 2010-11-06
 }}
 {{Episodenlisteneintrag
-| NR_GES = 299
+| NR_GES = 297
 | NR_ST = 17
 | OT = Sikkim: Das alte Wissen der Schamanen / Sikkim, le Chercheur et le Chaman<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/299-sikkim-das-alte-wissen-der-schamanen-339968</ref><ref>https://thetvdb.com/series/272599-show/episodes/4777543</ref><ref>https://www.imdb.com/title/tt2137499</ref><ref>https://www.youtube.com/watch?v=DW5ajV0yaFw</ref>
 | EA = 2010-11-20
 }}
 {{Episodenlisteneintrag
-| NR_GES = 300
+| NR_GES = 298
 | NR_ST = 18
 | OT = Die verrückten Karren des Mister Winfield / Gene Winfield, le Mécano de Folles Autos<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/300-die-verrueckten-karren-des-mister-winfield-339970</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642523</ref><ref>https://www.youtube.com/watch?v=Vg9aMMkF7PQ</ref>
 | EA = 2010-12-11
 }}
 {{Episodenlisteneintrag
-| NR_GES = 301
+| NR_GES = 299
 | NR_ST = 19
 | OT = Anatolien, das Land wo die Aprikosen blühen / Les Abricots d’Anatolie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/301-anatolien-das-land-wo-die-aprikosen-bluehen-506722</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642524</ref><ref>https://www.youtube.com/watch?v=6UNZBLK5xHc</ref>
 | EA = 2010-12-18
 }}
 {{Episodenlisteneintrag
-| NR_GES = 302
+| NR_GES = 300
 | NR_ST = 20
 | OT = Laetitia - allein unter Wölfen / Laetitia et Ses Loups<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/302-laetitia-allein-unter-woelfen-506698</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642526</ref><ref>https://www.youtube.com/watch?v=r5sfDn03OWw</ref>
 | EA = 2010-12-25
@@ -1940,175 +1928,175 @@
 | DREHBUCH = nein
 | INHALT =
 {{Episodenlisteneintrag
-| NR_GES = 303
+| NR_GES = 301
 | NR_ST = 1
 | OT = Fremdenlegion - die Hölle im Regenwald / Guyane, l’Enfer Vert des Légionnaires<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/303-fremdenlegion-die-hoelle-im-regenwald-339971</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642528</ref><ref>https://www.imdb.com/title/tt1819778</ref><ref>https://www.youtube.com/watch?v=p3uxoko70Cc</ref>
 | EA = 2011-01-01
 }}
 {{Episodenlisteneintrag
-| NR_GES = 304
+| NR_GES = 302
 | NR_ST = 2
 | OT = Der Affenflüsterer / L’Homme Qui Murmurait à l’Oreille des Chimpanzés<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/304-der-affenfluesterer-339972</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642530</ref><ref>https://www.imdb.com/title/tt2160477</ref><ref>https://www.youtube.com/watch?v=tsXjqdQkSio</ref>
 | EA = 2011-01-08
 }}
 {{Episodenlisteneintrag
-| NR_GES = 305
+| NR_GES = 303
 | NR_ST = 3
 | OT = Sardinien: Stolz und Ehre hoch zu Ross / La Sardaigne des Hommes et des Chevaux<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/305-sardinien-stolz-und-ehre-hoch-zu-ross-339973</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642531</ref><ref>https://www.youtube.com/watch?v=JlaZDPOEupE</ref>
 | EA = 2011-01-15
 }}
 {{Episodenlisteneintrag
-| NR_GES = 306
+| NR_GES = 304
 | NR_ST = 4
 | OT = Die Feuerspringer von Sibirien / Sibérie, les Soldats du Feu<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/306-die-feuerspringer-von-sibirien-339974</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642532</ref><ref>https://www.youtube.com/watch?v=fh2Pl9u1XOw</ref>
 | EA = 2011-01-22
 }}
 {{Episodenlisteneintrag
-| NR_GES = 307
+| NR_GES = 305
 | NR_ST = 5
 | OT = Island: Leben auf dem Pulverfass / L’Islande au Plus Près du Volcan<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/307-island-leben-auf-dem-pulverfass-339975</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642533</ref><ref>https://www.youtube.com/watch?v=n97-kFfr0xg</ref>
 | EA = 2011-01-29
 }}
 {{Episodenlisteneintrag
-| NR_GES = 308
+| NR_GES = 306
 | NR_ST = 6
 | OT = Polarschule der Nomadenkinder / Petits Nomades, Grand Froid<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/308-polarschule-der-nomadenkinder-339976</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642534</ref><ref>https://www.youtube.com/watch?v=pAB_SIM2Big</ref>
 | EA = 2011-02-05
 }}
 {{Episodenlisteneintrag
-| NR_GES = 309
+| NR_GES = 307
 | NR_ST = 7
 | OT = Das Perlenimperium von Palawan / Palawan, l’Empire des Perles<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/309-das-perlenimperium-von-palawan-339977</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642535</ref><ref>https://www.imdb.com/title/tt1839712</ref><ref>https://www.youtube.com/watch?v=7KKgclOqxAU</ref>
 | EA = 2011-02-12
 }}
 {{Episodenlisteneintrag
-| NR_GES = 310
+| NR_GES = 308
 | NR_ST = 8
 | OT = Marokko - die andere Seite des Paradieses / Maroc, la Face Cachée du Paradis<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/310-marokko-die-andere-seite-des-paradieses-339969</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642536</ref><ref>https://www.youtube.com/watch?v=ATAr5oY041c</ref>
 | EA = 2011-02-19
 }}
 {{Episodenlisteneintrag
-| NR_GES = 311
+| NR_GES = 309
 | NR_ST = 9
 | OT = Eine Fähre nach Afrika / Gibraltar, un Bateau Pour l’Afrique<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/311-eine-faehre-nach-afrika-339978</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642538</ref><ref>https://www.youtube.com/watch?v=GwUd8KDdUN4</ref>
 | EA = 2011-02-26
 }}
 {{Episodenlisteneintrag
-| NR_GES = 312
+| NR_GES = 310
 | NR_ST = 10
 | OT = Großglockner, König der Hochalpen / Vivre au Pied d’un Géant<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/312-grossglockner-koenig-der-hochalpen-339979</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642540</ref><ref>https://www.imdb.com/title/tt5037962</ref><ref>https://www.youtube.com/watch?v=7SZoha01QG0</ref>
 | EA = 2011-04-09
 }}
 {{Episodenlisteneintrag
-| NR_GES = 313
+| NR_GES = 311
 | NR_ST = 11
 | OT = Champagner für alle! / Champagne, les Bulles du Désir<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/313-champagner-fuer-alle-339980</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642541</ref><ref>https://www.imdb.com/title/tt2361605</ref><ref>https://www.youtube.com/watch?v=cV-MNXIukmA</ref>
 | EA = 2011-04-23
 }}
 {{Episodenlisteneintrag
-| NR_GES = 314
+| NR_GES = 312
 | NR_ST = 12
 | OT = Armenien, die Früchte aus dem Paradies / Arménie, les Fruits du Paradis<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/314-armenien-die-fruechte-aus-dem-paradies-339981</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642542</ref><ref>https://www.youtube.com/watch?v=25Vub7M_rLc</ref>
 | EA = 2011-05-07
 }}
 {{Episodenlisteneintrag
-| NR_GES = 315
+| NR_GES = 313
 | NR_ST = 13
 | OT = Stilikone Panamahut / L’Authentique Panama<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/315-stilikone-panamahut-339982</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642543</ref><ref>https://www.youtube.com/watch?v=FLkf0zJdhFY</ref>
 | EA = 2011-05-21
 }}
 {{Episodenlisteneintrag
-| NR_GES = 316
+| NR_GES = 314
 | NR_ST = 14
 | OT = Die Halligen mitten im Winter, mitten im Wasser / Entre Tempête et Grande Marée: les Halligen<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/316-die-halligen-mitten-im-winter-mitten-im-wasser-506723</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642544</ref><ref>https://www.youtube.com/watch?v=qZMtcyipMQc</ref>
 | EA = 2011-06-04
 }}
 {{Episodenlisteneintrag
-| NR_GES = 317
+| NR_GES = 315
 | NR_ST = 15
 | OT = Jenny und ihre Flughunde / Jenny, Docteur Chauve-Souris<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/317-jenny-und-ihre-flughunde-339984</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642545</ref><ref>https://www.youtube.com/watch?v=P81A8ljYhNM</ref>
 | EA = 2011-06-18
 }}
 {{Episodenlisteneintrag
-| NR_GES = 318
+| NR_GES = 316
 | NR_ST = 16
 | OT = Jordanien, Dynastie der Pferde / Les Purs-Sangs de Jordanie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/318-jordanien-dynastie-der-pferde-339985</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642546</ref><ref>https://www.imdb.com/title/tt1945242</ref><ref>https://www.youtube.com/watch?v=CTbgWjUewgA</ref>
 | EA = 2011-07-02
 }}
 {{Episodenlisteneintrag
-| NR_GES = 319
+| NR_GES = 317
 | NR_ST = 17
 | OT = In den Smaragdbergen von Bahia / Bahia, Chasseurs d’Émeraudes<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/319-in-den-smaragdbergen-von-bahia-339986</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642547</ref><ref>https://www.imdb.com/title/tt1945241</ref><ref>https://www.youtube.com/watch?v=hjMe94sQCRk</ref>
 | EA = 2011-07-16
 }}
 {{Episodenlisteneintrag
-| NR_GES = 320
+| NR_GES = 318
 | NR_ST = 18
 | OT = Rum auf Guadeloupe / Guadeloupe, le Meilleur Rhum du Monde<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/320-rum-auf-guadeloupe-339988</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642549</ref><ref>https://www.imdb.com/title/tt14617222</ref><ref>https://www.youtube.com/watch?v=9N1Qll5w0ng</ref>
 | EA = 2011-07-30
 }}
 {{Episodenlisteneintrag
-| NR_GES = 321
+| NR_GES = 319
 | NR_ST = 19
 | OT = Sumatras letzte Orang-Utans / Les derniers orangs-outangs de Sumatra<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/321-sumatras-letzte-orang-utans-339989</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642550</ref><ref>https://www.youtube.com/watch?v=1l8k6nfu5NQ</ref>
 | EA = 2011-09-03
 }}
 {{Episodenlisteneintrag
-| NR_GES = 322
+| NR_GES = 320
 | NR_ST = 20
 | OT = Kalmückien - Die Rückkehr der Mönche / Les Moines Bouddhistes de Kalmoukie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/322-kalmueckien-die-rueckkehr-der-moenche-339990</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642551</ref><ref>https://www.imdb.com/title/tt1987522</ref><ref>https://www.youtube.com/watch?v=8f4nujAr3Uc</ref>
 | EA = 2011-09-24
 }}
 {{Episodenlisteneintrag
-| NR_GES = 323
+| NR_GES = 321
 | NR_ST = 21
 | OT = Auf der Spur des spanischen Luchses / Sur la Trace du Lynx Ibérique<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/323-auf-der-spur-des-spanischen-luchses-339991</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642552</ref><ref>https://www.youtube.com/watch?v=ou7f1H60z7Q</ref>
 | EA = 2011-10-15
 }}
 {{Episodenlisteneintrag
-| NR_GES = 324
+| NR_GES = 322
 | NR_ST = 22
 | OT = Palawan - das Dorf der Gefangenen / Palawan: L’Enfer des Prisonniers<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/324-palawan-das-dorf-der-gefangenen-586293</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642553</ref><ref>https://www.imdb.com/title/tt2168596</ref><ref>https://www.youtube.com/watch?v=dH7ls3Lqtzw</ref>
 | EA = 2011-10-22
 }}
 {{Episodenlisteneintrag
-| NR_GES = 325
+| NR_GES = 323
 | NR_ST = 23
 | OT = Der Andenkondor - König der Lüfte / Sur les Ailes du Condor des Andes<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/325-der-andenkondor-koenig-der-luefte-506721</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642554</ref><ref>https://www.youtube.com/watch?v=c0y6PT21TCs</ref>
 | EA = 2011-10-29
 }}
 {{Episodenlisteneintrag
-| NR_GES = 326
+| NR_GES = 324
 | NR_ST = 24
 | OT = Die Rettungshunde vom Gardasee / Les Chiens Sauveteurs du Lac de Garde<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/326-die-rettungshunde-vom-gardasee-339992</ref><ref>https://thetvdb.com/series/272599-show/episodes/4776899</ref><ref>https://www.youtube.com/watch?v=Xqj1OOEq5M4</ref>
 | EA = 2011-10-29
 }}
 {{Episodenlisteneintrag
-| NR_GES = 327
+| NR_GES = 325
 | NR_ST = 25
 | OT = Aserbaidschans fahrende Hochzeitmusikanten / Le Troubadour d’Azerbaïdjan<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/327-aserbaidschans-fahrende-hochzeitmusikanten-339993</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642555</ref><ref>https://www.youtube.com/watch?v=ikwsm25rULY</ref>
 | EA = 2011-11-12
 }}
 {{Episodenlisteneintrag
-| NR_GES = 328
+| NR_GES = 326
 | NR_ST = 26
 | OT = Florenz - Fußball bis aufs Blut / Florence, le Foot Dans le Sang<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/328-florenz-fussball-bis-aufs-blut-339994</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642556</ref><ref>https://www.youtube.com/watch?v=dpdeqdga-RM</ref>
 | EA = 2011-11-19
 }}
 {{Episodenlisteneintrag
-| NR_GES = 329
+| NR_GES = 327
 | NR_ST = 27
 | OT = Guano - Schatzinseln und Vogeldreck / Guano, sale besogne au paradis des oiseaux<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/329-guano-schatzinseln-und-vogeldreck-339995</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642557</ref><ref>https://www.youtube.com/watch?v=hDbmGter130</ref>
 | EA = 2011-12-03
 }}
 {{Episodenlisteneintrag
-| NR_GES = 330
+| NR_GES = 328
 | NR_ST = 28
 | OT = Lamu, die Insel der Esel / Lamu, l’Île aux Ânes<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/330-lamu-die-insel-der-esel-339996</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642558</ref><ref>https://www.youtube.com/watch?v=Z8Xny07TdXQ</ref>
 | EA = 2011-12-17
 }}
 {{Episodenlisteneintrag
-| NR_GES = 331
+| NR_GES = 329
 | NR_ST = 29
 | OT = Sark - die Kanalinsel der Queen / Sercq, Ilôt Sauvage de la Manche<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/331-sark-die-kanalinsel-der-queen-339997</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642559</ref><ref>https://www.youtube.com/watch?v=ybpV9JWD6qs</ref>
 | EA = 2011-12-24
@@ -2124,127 +2112,127 @@
 | DREHBUCH = nein
 | INHALT =
 {{Episodenlisteneintrag
-| NR_GES = 332
+| NR_GES = 330
 | NR_ST = 1
 | OT = Schottland - Kampf, Clan und Königin / L’Écosse des Clans<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/332-schottland-kampf-clan-und-koenigin-339998</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642562</ref><ref>https://www.youtube.com/watch?v=AO5mzpVh6PI</ref>
 | EA = 2012-01-07
 }}
 {{Episodenlisteneintrag
-| NR_GES = 333
+| NR_GES = 331
 | NR_ST = 2
 | OT = Die scharfen Klingen der Auvergne / L’Auvergne, la Guerre des Couteaux<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/333-die-scharfen-klingen-der-auvergne-339987</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642563</ref><ref>https://www.youtube.com/watch?v=Zo2vsTRz4x0</ref>
 | EA = 2012-01-28
 }}
 {{Episodenlisteneintrag
-| NR_GES = 334
+| NR_GES = 332
 | NR_ST = 3
 | OT = China: Im Reich der Mosuo-Frauen / Mosuo, le Pays où les Femmes Sont Reines<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/334-china-im-reich-der-mosuo-frauen-339999</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642564</ref><ref>https://www.imdb.com/title/tt2338236</ref><ref>https://www.youtube.com/watch?v=GhMq7fkeUKI</ref>
 | EA = 2012-02-11
 }}
 {{Episodenlisteneintrag
-| NR_GES = 335
+| NR_GES = 333
 | NR_ST = 4
 | OT = Majuli - ein Inselvolk trotzt den Fluten / Majuli, Terre des Eaux, Terre des Moines<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/335-majuli-ein-inselvolk-trotzt-den-fluten-340000</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642565</ref><ref>https://www.youtube.com/watch?v=ZKUYH2GJDpM</ref>
 | EA = 2012-02-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 336
+| NR_GES = 334
 | NR_ST = 5
 | OT = Lappland: Rushhour im hohen Norden / La Laponie, le Grand Embouteillage<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/336-lappland-rushhour-im-hohen-norden-340001</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642566</ref><ref>https://www.youtube.com/watch?v=MT5oNZ0Y6JY</ref>
 | EA = 2012-03-10
 }}
 {{Episodenlisteneintrag
-| NR_GES = 337
+| NR_GES = 335
 | NR_ST = 6
 | OT = Wildererjagd am Mount Kenya / Mont Kenya, la Chasse au Braconnage<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/337-wildererjagd-am-mount-kenya-340002</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642567</ref><ref>https://www.youtube.com/watch?v=UAGR4vE_i0U</ref>
 | EA = 2012-03-24
 }}
 {{Episodenlisteneintrag
-| NR_GES = 338
+| NR_GES = 336
 | NR_ST = 7
 | OT = Tunesien: Die Suche nach dem Tintenfisch / Tunisie, les Secrets des Pêcheurs de Poulpes<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/338-tunesien-die-suche-nach-dem-tintenfisch-340003</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642568</ref><ref>https://www.youtube.com/watch?v=K--aZyNB-LQ</ref>
 | EA = 2012-04-05
 }}
 {{Episodenlisteneintrag
-| NR_GES = 339
+| NR_GES = 337
 | NR_ST = 8
 | OT = Bahamas - unverfälscht! / Les Mamas des Bahamas<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/339-bahamas-unverfaelscht-506699</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642569</ref><ref>https://www.youtube.com/watch?v=GGxlN3DjKCI</ref>
 | EA = 2012-05-12
 }}
 {{Episodenlisteneintrag
-| NR_GES = 340
+| NR_GES = 338
 | NR_ST = 9
 | OT = Slab City - wildes Leben in der Wüste / Les Campeurs Sauvages de Slab City<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/340-slab-city-wildes-leben-in-der-wueste-506700</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642570</ref><ref>https://www.youtube.com/watch?v=T0K8Qv0eupI</ref>
 | EA = 2012-05-26
 }}
 {{Episodenlisteneintrag
-| NR_GES = 341
+| NR_GES = 339
 | NR_ST = 10
 | OT = Esmeraldas Edelkakao / Équateur, l’Autre Pays du Chocolat<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/341-esmeraldas-edelkakao-506701</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642571</ref><ref>https://www.youtube.com/watch?v=IMVYBpL-z4E</ref>
 | EA = 2012-06-09
 }}
 {{Episodenlisteneintrag
-| NR_GES = 342
+| NR_GES = 340
 | NR_ST = 11
 | OT = So schmeckt Australien! / Le Cuisinier du Bush Australien<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/342-so-schmeckt-australien-506702</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642572</ref><ref>https://www.youtube.com/watch?v=G_gFhibEvNA</ref>
 | EA = 2012-06-23
 }}
 {{Episodenlisteneintrag
-| NR_GES = 343
+| NR_GES = 341
 | NR_ST = 12
 | OT = Jerusalem im Morgengrauen / Jérusalem à l’Aube<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/343-jerusalem-im-morgengrauen-506703</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642573</ref><ref>https://www.imdb.com/title/tt3078344</ref><ref>https://www.youtube.com/watch?v=XeHZ3UW7woE</ref>
 | EA = 2012-07-28
 }}
 {{Episodenlisteneintrag
-| NR_GES = 344
+| NR_GES = 342
 | NR_ST = 13
 | OT = Die letzten Cowboys der Toskana / Les Derniers Cowboys de Toscane<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/344-die-letzten-cowboys-der-toskana-506718</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642574</ref><ref>https://www.youtube.com/watch?v=We74sUq6TL8</ref>
 | EA = 2012-09-01
 }}
 {{Episodenlisteneintrag
-| NR_GES = 345
+| NR_GES = 343
 | NR_ST = 14
 | OT = Modelsuche in Sibirien / Belles de Sibérie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/345-modelsuche-in-sibirien-506705</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642577</ref><ref>https://www.youtube.com/watch?v=ketqT7focbQ</ref>
 | EA = 2012-09-15
 }}
 {{Episodenlisteneintrag
-| NR_GES = 346
+| NR_GES = 344
 | NR_ST = 15
 | OT = Tanganjikasee: Vom Kanonenboot zum Passagierschiff / Le Navire Centenaire du Tanganyika<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/346-tanganjikasee-vom-kanonenboot-zum-passagierschiff-506706</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642580</ref><ref>https://www.youtube.com/watch?v=d9sb8TpPhtE</ref>
 | EA = 2012-09-22
 }}
 {{Episodenlisteneintrag
-| NR_GES = 347
+| NR_GES = 345
 | NR_ST = 16
 | OT = Auf dem Floß durch die Schluchten der Tara / Le Dernier Radeau du Monténégro<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/347-auf-dem-floss-durch-die-schluchten-der-tara-506707</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642582</ref><ref>https://www.youtube.com/watch?v=H9eSAANUh54</ref>
 | EA = 2012-10-20
 }}
 {{Episodenlisteneintrag
-| NR_GES = 348
+| NR_GES = 346
 | NR_ST = 17
 | OT = Indien: Das größte Schulessen der Welt / Cantine à l’Indienne<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/348-indien-das-groesste-schulessen-der-welt-506708</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642583</ref><ref>https://www.imdb.com/title/tt25786532</ref><ref>https://www.youtube.com/watch?v=K7E2T9Imdok</ref>
 | EA = 2012-10-27
 }}
 {{Episodenlisteneintrag
-| NR_GES = 349
+| NR_GES = 347
 | NR_ST = 18
 | OT = Myanmar: Ein Dorf braucht Strom / Birmanie, le Moine, le Village et la Lumière<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/349-myanmar-ein-dorf-braucht-strom-506709</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642584</ref><ref>https://www.youtube.com/watch?v=vN4snehmVSk</ref>
 | EA = 2012-11-03
 }}
 {{Episodenlisteneintrag
-| NR_GES = 350
+| NR_GES = 348
 | NR_ST = 19
 | OT = Bolivien: Lebensader Todesstraße / Bolivie, la Route de la Mort<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/350-bolivien-lebensader-todesstrasse-506710</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642585</ref><ref>https://www.youtube.com/watch?v=JhplvCSCDkQ</ref>
 | EA = 2012-11-10
 }}
 {{Episodenlisteneintrag
-| NR_GES = 351
+| NR_GES = 349
 | NR_ST = 20
 | OT = Die Krabbenfischer von Feuerland / Les Pêcheurs de Crabes de la Terre de Feu<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/351-die-krabbenfischer-von-feuerland-506711</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642587</ref><ref>https://www.youtube.com/watch?v=Y8D9o5YD2dM</ref>
 | EA = 2012-11-17
 }}
 {{Episodenlisteneintrag
-| NR_GES = 352
+| NR_GES = 350
 | NR_ST = 21
 | OT = Die Exzentriker der Düfte / Secrets de Parfumeurs<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/352-die-exzentriker-der-duefte-506712</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642589</ref><ref>https://www.imdb.com/title/tt19718498</ref><ref>https://www.youtube.com/watch?v=qP99-RnEm7U</ref>
 | EA = 2012-12-22
@@ -2260,163 +2248,163 @@
 | DREHBUCH = nein
 | INHALT =
 {{Episodenlisteneintrag
-| NR_GES = 353
+| NR_GES = 351
 | NR_ST = 1
 | OT = Arktis - Ein Junge wird Jäger / Le Petit Chasseur de l’Arctique<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/353-arktis-ein-junge-wird-jaeger-506695</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642601</ref><ref>https://www.imdb.com/title/tt16757896</ref><ref>https://www.youtube.com/watch?v=9ff-GcgySN4</ref>
 | EA = 2013-01-19
 }}
 {{Episodenlisteneintrag
-| NR_GES = 354
+| NR_GES = 352
 | NR_ST = 2
 | OT = Shetland, das Ende des Öls / Les Îles Shetland, la Force du Vent<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/354-shetland-das-ende-des-oels-506713</ref><ref>https://thetvdb.com/series/272599-show/episodes/4791696</ref><ref>https://www.youtube.com/watch?v=ReBwYDvW-VM</ref>
 | EA = 2013-02-02
 }}
 {{Episodenlisteneintrag
-| NR_GES = 355
+| NR_GES = 353
 | NR_ST = 3
 | OT = Mezcal, Hochprozentiges aus Mexiko / Le Mezcal, Eau-de-Vie Mexicaine<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/355-mezcal-hochprozentiges-aus-mexiko-506714</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642603</ref><ref>https://www.youtube.com/watch?v=bpjZIo4bmGw</ref>
 | EA = 2013-02-09
 }}
 {{Episodenlisteneintrag
-| NR_GES = 356
+| NR_GES = 354
 | NR_ST = 4
 | OT = Atacamawüste - Leben ohne Wasser / Désert d’Atacama — La Vie Sans Eau<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/356-atacamawueste-leben-ohne-wasser-506728</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642604</ref><ref>https://www.youtube.com/watch?v=OJJze1tQhz0</ref>
 | EA = 2013-02-16
 }}
 {{Episodenlisteneintrag
-| NR_GES = 357
+| NR_GES = 355
 | NR_ST = 5
 | OT = Die letzten Köhler von Rumänien / Roumanie, les derniers charbonniers<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/357-die-letzten-koehler-von-rumaenien-506729</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642605</ref><ref>https://www.imdb.com/title/tt1007051</ref><ref>https://www.youtube.com/watch?v=NaYD2IlnDXw</ref>
 | EA = 2013-02-23
 }}
 {{Episodenlisteneintrag
-| NR_GES = 358
+| NR_GES = 356
 | NR_ST = 6
 | OT = Island - Der große Schafabtrieb / Islande — Des Montagnes et des Moutons<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/358-island-der-grosse-schafabtrieb-506730</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642606</ref><ref>https://www.youtube.com/watch?v=2tbQzv7Mnqk</ref>
 | EA = 2013-03-09
 }}
 {{Episodenlisteneintrag
-| NR_GES = 359
+| NR_GES = 357
 | NR_ST = 7
 | OT = Bangladesch - Schiff der Hoffnung / Bangladesh, l’Hôpital Flottant<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/359-bangladesch-schiff-der-hoffnung-506731</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642607</ref><ref>https://www.youtube.com/watch?v=4H01x3_OEaY</ref>
 | EA = 2013-03-23
 }}
 {{Episodenlisteneintrag
-| NR_GES = 360
+| NR_GES = 358
 | NR_ST = 8
 | OT = Iquitos - Regenwaldmetropole am Amazonas / Iquitos, une Ville Entre Deux Fleuves<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/360-iquitos-regenwaldmetropole-am-amazonas-506694</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642609</ref><ref>https://www.youtube.com/watch?v=zRCocBSf_SI</ref>
 | EA = 2013-03-30
 }}
 {{Episodenlisteneintrag
-| NR_GES = 361
+| NR_GES = 359
 | NR_ST = 9
 | OT = Die Marmorberge von Italien / Toscane, les Carrières de Marbre<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/361-die-marmorberge-von-italien-506696</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642610</ref><ref>https://www.youtube.com/watch?v=bND3Vz0DIb8</ref>
 | EA = 2013-04-13
 }}
 {{Episodenlisteneintrag
-| NR_GES = 362
+| NR_GES = 360
 | NR_ST = 10
 | OT = Bretagne - von Bienen und Leuchttürmen / Le Phare Breton et les Abeilles<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/362-bretagne-von-bienen-und-leuchttuermen-506697</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642612</ref><ref>https://www.youtube.com/watch?v=FskHAYwU3FM</ref>
 | EA = 2013-04-27
 }}
 {{Episodenlisteneintrag
-| NR_GES = 363
+| NR_GES = 361
 | NR_ST = 11
 | OT = Thailands Elefanten, raus aus der Stadt! / Thaïlande — Le Dernier Voyage d’un Éléphant<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/363-thailands-elefanten-raus-aus-der-stadt-506719</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642615</ref><ref>https://www.youtube.com/watch?v=m3qxxeiI04M</ref>
 | EA = 2013-06-15
 }}
 {{Episodenlisteneintrag
-| NR_GES = 364
+| NR_GES = 362
 | NR_ST = 12
 | OT = Tonga - Paradies der Südsee? / Tonga, la Fin du Paradis?<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/364-tonga-paradies-der-suedsee-514391</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642617</ref><ref>https://www.youtube.com/watch?v=a6-2aXuDLTw</ref>
 | EA = 2013-06-22
 }}
 {{Episodenlisteneintrag
-| NR_GES = 365
+| NR_GES = 363
 | NR_ST = 13
 | OT = Radio Patagonia / Radio Patagonie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/365-radio-patagonia-514392</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642619</ref><ref>https://www.youtube.com/watch?v=xWorOwWPUMg</ref>
 | EA = 2013-07-06
 }}
 {{Episodenlisteneintrag
-| NR_GES = 366
+| NR_GES = 364
 | NR_ST = 14
 | OT = Die Polarbahn / Le Grand Nord Sur les Rails<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/366-die-polarbahn-532546</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642620</ref><ref>https://www.imdb.com/title/tt16606786</ref><ref>https://www.youtube.com/watch?v=VJ6JS8MWo9Y</ref>
 | EA = 2013-09-14
 }}
 {{Episodenlisteneintrag
-| NR_GES = 367
+| NR_GES = 365
 | NR_ST = 15
 | OT = Das Koala-Hospital / L’hôpital des koalas<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/367-das-koala-hospital-534187</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642622</ref><ref>https://www.youtube.com/watch?v=f4ODAYWj-MA</ref>
 | EA = 2013-09-21
 }}
 {{Episodenlisteneintrag
-| NR_GES = 368
+| NR_GES = 366
 | NR_ST = 16
 | OT = Sulawesi - Die letzten Seenomaden / Sulawesi, les Nomades de la Mer<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/368-sulawesi-die-letzten-seenomaden-534189</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642625</ref><ref>https://www.youtube.com/watch?v=5ZSLl8Wj_-E</ref>
 | EA = 2013-09-28
 }}
 {{Episodenlisteneintrag
-| NR_GES = 369
+| NR_GES = 367
 | NR_ST = 17
 | OT = Taiwan - Fliegende Fische oder Atommüll? / Taiwan, une Poubelle Nucléaire?<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/369-taiwan-fliegende-fische-oder-atommuell-538387</ref><ref>https://thetvdb.com/series/272599-show/episodes/4779225</ref><ref>https://www.youtube.com/watch?v=Uz7hFkRtHb4</ref>
 | EA = 2013-12-07
 }}
 {{Episodenlisteneintrag
-| NR_GES = 370
+| NR_GES = 368
 | NR_ST = 18
 | OT = Rattenjagd im Südpolarmeer / Atlantique Austral, Mission Dératisation!<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/370-rattenjagd-im-suedpolarmeer-540267</ref><ref>https://thetvdb.com/series/272599-show/episodes/4642602</ref><ref>https://www.youtube.com/watch?v=oGcMkh67AeE</ref>
 | EA = 2013-10-12
 }}
 {{Episodenlisteneintrag
-| NR_GES = 371
+| NR_GES = 369
 | NR_ST = 19
 | OT = Costa Rica - Leben wie die Faultiere / Costa Rica, le Sanctuaire des Paresseux<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/371-costa-rica-leben-wie-die-faultiere-540268</ref><ref>https://thetvdb.com/series/272599-show/episodes/4791697</ref><ref>https://www.imdb.com/title/tt5229780</ref><ref>https://www.youtube.com/watch?v=NpxUVkA3Dfs</ref>
 | EA = 2013-10-19
 }}
 {{Episodenlisteneintrag
-| NR_GES = 372
+| NR_GES = 370
 | NR_ST = 20
 | OT = Der fröhliche Friedhof von Rumänien / Roumanie, les Récits d’un Cimetière<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/372-der-froehliche-friedhof-von-rumaenien-542626</ref><ref>https://thetvdb.com/series/272599-show/episodes/4812703</ref><ref>https://www.imdb.com/title/tt23145542</ref><ref>https://www.youtube.com/watch?v=kYW3GLZS5tA</ref>
 | EA = 2013-10-26
 }}
 {{Episodenlisteneintrag
-| NR_GES = 373
+| NR_GES = 371
 | NR_ST = 21
 | OT = Mustang - Flucht aus den Bergen / Sécheresse au Royaume du Mustang<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/373-mustang-flucht-aus-den-bergen-543725</ref><ref>https://thetvdb.com/series/272599-show/episodes/4812706</ref><ref>https://www.youtube.com/watch?v=3ti-NbruVhU</ref>
 | EA = 2013-11-09
 }}
 {{Episodenlisteneintrag
-| NR_GES = 374
+| NR_GES = 372
 | NR_ST = 22
 | OT = Chivas, Kolumbiens bunte Busse / La Colombie et ses bus multicolores<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/374-chivas-kolumbiens-bunte-busse-556371</ref><ref>https://thetvdb.com/series/272599-show/episodes/4812708</ref><ref>https://www.youtube.com/watch?v=-Min0yF6ccg</ref>
 | EA = 2013-11-23
 }}
 {{Episodenlisteneintrag
-| NR_GES = 375
+| NR_GES = 373
 | NR_ST = 23
 | OT = Aubrac - Kühe, Käse, Kerle! / Aubrac, des Bergers et des Moines<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/375-aubrac-kuehe-kaese-kerle-560136</ref><ref>https://thetvdb.com/series/272599-show/episodes/4812709</ref><ref>https://www.youtube.com/watch?v=FKXxagKURQM</ref>
 | EA = 2013-11-30
 }}
 {{Episodenlisteneintrag
-| NR_GES = 376
+| NR_GES = 374
 | NR_ST = 24
 | OT = Die Samurai von Fukushima / Les Samouraïs de Fukushima<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/376-die-samurai-von-fukushima-562240</ref><ref>https://thetvdb.com/series/272599-show/episodes/4812710</ref><ref>https://www.youtube.com/watch?v=jVgE3nypw-c</ref>
 | EA = 2013-12-07
 }}
 {{Episodenlisteneintrag
-| NR_GES = 377
+| NR_GES = 375
 | NR_ST = 25
 | OT = Der gute Mensch von Karachi / La Bonne Âme de Karachi<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/377-der-gute-mensch-von-karachi-562637</ref><ref>https://thetvdb.com/series/272599-show/episodes/4812712</ref><ref>https://www.youtube.com/watch?v=pk9M0hHj6e4</ref>
 | EA = 2013-12-14
 }}
 {{Episodenlisteneintrag
-| NR_GES = 378
+| NR_GES = 376
 | NR_ST = 26
 | OT = Die Austern von Arcachon / Arcachon, le Berceau des Huîtres<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/378-die-austern-von-arcachon-564984</ref><ref>https://thetvdb.com/series/272599-show/episodes/4812714</ref><ref>https://www.imdb.com/title/tt27520865</ref><ref>https://www.youtube.com/watch?v=JCjShQJ89x0</ref>
 | EA = 2013-12-21
 }}
 {{Episodenlisteneintrag
-| NR_GES = 379
+| NR_GES = 377
 | NR_ST = 27
 | OT = Thailand, Raketen für die Götter / Thaïlande: Des Fusées Pour les Dieux<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/379-thailand-raketen-fuer-die-goetter-567027</ref><ref>https://thetvdb.com/series/272599-show/episodes/4812716</ref><ref>https://www.youtube.com/watch?v=HPDrBToxk24</ref>
 | EA = 2013-12-28
@@ -2432,145 +2420,145 @@
 | DREHBUCH = nein
 | INHALT =
 {{Episodenlisteneintrag
-| NR_GES = 380
+| NR_GES = 378
 | NR_ST = 1
 | OT = Vietnam, Kobra auf dem Teller / Vietnam, du Cobra au Menu<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/380-vietnam-kobra-auf-dem-teller-569058</ref><ref>https://thetvdb.com/series/272599-show/episodes/4812750</ref><ref>https://www.youtube.com/watch?v=k5mRGmiLhBA</ref>
 | EA = 2014-01-04
 }}
 {{Episodenlisteneintrag
-| NR_GES = 381
+| NR_GES = 379
 | NR_ST = 2
 | OT = Indiens jüngste Polizisten / Inde, Policier Dès 6 Ans?<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/381-indiens-juengste-polizisten-574964</ref><ref>https://thetvdb.com/series/272599-show/episodes/4812751</ref><ref>https://www.youtube.com/watch?v=czIONbtfL-I</ref>
 | EA = 2014-01-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 382
+| NR_GES = 380
 | NR_ST = 3
 | OT = Kambodscha, Ratte süß-sauer / Cambodge, les Chasseurs de Rats<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/382-kambodscha-ratte-suess-sauer-579703</ref><ref>https://thetvdb.com/series/272599-show/episodes/4812752</ref><ref>https://www.youtube.com/watch?v=Fadu9DpauSQ</ref>
 | EA = 2014-02-08
 }}
 {{Episodenlisteneintrag
-| NR_GES = 383
+| NR_GES = 381
 | NR_ST = 4
 | OT = Azoren, das Geschäft mit den Walen / Les Açores, le Sort des Baleines<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/383-azoren-das-geschaeft-mit-den-walen-581362</ref><ref>https://thetvdb.com/series/272599-show/episodes/4812753</ref><ref>https://www.imdb.com/title/tt5225390</ref><ref>https://www.youtube.com/watch?v=GUO0RvRiuQE</ref>
 | EA = 2014-02-22
 }}
 {{Episodenlisteneintrag
-| NR_GES = 384
+| NR_GES = 382
 | NR_ST = 5
 | OT = Fort McMurray, Kanada im Ölfieber / Fort McMurray, la Ruée Vers l’Or Noir<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/384-fort-mcmurray-kanada-im-oelfieber-584399</ref><ref>https://thetvdb.com/series/272599-show/episodes/4812754</ref><ref>https://www.youtube.com/watch?v=eadcv_oMM9o</ref>
 | EA = 2014-03-01
 }}
 {{Episodenlisteneintrag
-| NR_GES = 385
+| NR_GES = 383
 | NR_ST = 6
 | OT = Rosa Amélia - Fische, Freunde, Fado / Rosa Amélia — La Passionaria des Pêcheurs Portugais<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/385-rosa-amelia-fische-freunde-fado-587214</ref><ref>https://thetvdb.com/series/272599-show/episodes/4812755</ref><ref>https://www.youtube.com/watch?v=t9HMH3k3Rz0</ref>
 | EA = 2014-03-08
 }}
 {{Episodenlisteneintrag
-| NR_GES = 386
+| NR_GES = 384
 | NR_ST = 7
 | OT = Schweiz: Das Verschwinden der Gletscher / SOS, Glaciers Suisses en Danger!<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/386-schweiz-das-verschwinden-der-gletscher-591624</ref><ref>https://thetvdb.com/series/272599-show/episodes/4812756</ref><ref>https://www.youtube.com/watch?v=QNabMUFSr2Y</ref>
 | EA = 2014-03-29
 }}
 {{Episodenlisteneintrag
-| NR_GES = 387
+| NR_GES = 385
 | NR_ST = 8
 | OT = Bangkoks Schatztaucher / Chasseurs de trésors à Bangkok<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/387-bangkoks-schatztaucher-598991</ref><ref>https://thetvdb.com/series/272599-show/episodes/5061390</ref><ref>https://www.youtube.com/watch?v=RKq3lqts3lg</ref>
 | EA = 2014-04-26
 }}
 {{Episodenlisteneintrag
-| NR_GES = 388
+| NR_GES = 386
 | NR_ST = 9
 | OT = Elbsandsteingebirge - Märchenwelt und Meisterwerke / Dresde, au Fil de l’Elbe<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/388-elbsandsteingebirge-maerchenwelt-und-meisterwerke-607545</ref><ref>https://thetvdb.com/series/272599-show/episodes/5063398</ref><ref>https://www.youtube.com/watch?v=PEJoGOk3veQ</ref>
 | EA = 2014-05-10
 }}
 {{Episodenlisteneintrag
-| NR_GES = 389
+| NR_GES = 387
 | NR_ST = 10
 | OT = Die Goldenen Schildkröten von Madagaskar / Madagascar — Le trafic des tortues angonoka<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/389-die-goldenen-schildkroeten-von-madagaskar-613998</ref><ref>https://thetvdb.com/series/272599-show/episodes/5078306</ref><ref>https://www.youtube.com/watch?v=Do-ZlyolY9I</ref>
 | EA = 2014-05-31
 }}
 {{Episodenlisteneintrag
-| NR_GES = 390
+| NR_GES = 388
 | NR_ST = 11
 | OT = Hinter den Kulissen von Venedig / Venise en Hiver<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/390-hinter-den-kulissen-von-venedig-617724</ref><ref>https://thetvdb.com/series/272599-show/episodes/5078307</ref><ref>https://www.imdb.com/title/tt16985580</ref><ref>https://www.youtube.com/watch?v=nuuE8tS-bDo</ref>
 | EA = 2014-06-14
 }}
 {{Episodenlisteneintrag
-| NR_GES = 391
+| NR_GES = 389
 | NR_ST = 12
 | OT = Eishockey - Mädchentraum im Himalaya / Le Hockey en Himalaya, une passion au féminin<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/391-eishockey-maedchentraum-im-himalaya-620596</ref><ref>https://thetvdb.com/series/272599-show/episodes/5078310</ref><ref>https://www.youtube.com/watch?v=ksF9UzJGXeE</ref>
 | EA = 2014-07-05
 }}
 {{Episodenlisteneintrag
-| NR_GES = 392
+| NR_GES = 390
 | NR_ST = 13
 | OT = Die Tango-Spelunken von Buenos Aires / Buenos Aires, tango pour tous<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/392-die-tango-spelunken-von-buenos-aires-633374</ref><ref>https://thetvdb.com/series/272599-show/episodes/5078313</ref><ref>https://www.youtube.com/watch?v=gPgur58gJIc</ref>
 | EA = 2014-08-30
 }}
 {{Episodenlisteneintrag
-| NR_GES = 393
+| NR_GES = 391
 | NR_ST = 14
 | OT = Jadehandel im Goldenen Dreieck / Le Commerce du Jade dans le Triangle d’Or<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/393-jadehandel-im-goldenen-dreieck-634962</ref><ref>https://thetvdb.com/series/272599-show/episodes/4986446</ref><ref>https://www.youtube.com/watch?v=grEeTdeih0Q</ref>
 | EA = 2014-09-06
 }}
 {{Episodenlisteneintrag
-| NR_GES = 394
+| NR_GES = 392
 | NR_ST = 15
 | OT = Bolivien: Kleine Käfer, großes Geld! / Trafic d’Insectes en Bolivie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/394-bolivien-kleine-kaefer-grosses-geld-642257</ref><ref>https://thetvdb.com/series/272599-show/episodes/5150636</ref><ref>https://www.youtube.com/watch?v=jOGkfs9xLlk</ref>
 | EA = 2014-09-20
 }}
 {{Episodenlisteneintrag
-| NR_GES = 395
+| NR_GES = 393
 | NR_ST = 16
 | OT = Åland-Archipel: Warten auf das Eis / L’Archipel d’Åland et Ses Postiers<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/395-aaland-archipel-warten-auf-das-eis-646836</ref><ref>https://thetvdb.com/series/272599-show/episodes/5150637</ref><ref>https://www.youtube.com/watch?v=cZG6qlbVXCY</ref>
 | EA = 2014-10-04
 }}
 {{Episodenlisteneintrag
-| NR_GES = 396
+| NR_GES = 394
 | NR_ST = 17
 | OT = Kamelmilch, Kasachstans Wundermedizin / Kazakhstan, les Bienfaits du Lait de Chamelle<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/396-kamelmilch-kasachstans-wundermedizin-649942</ref><ref>https://thetvdb.com/series/272599-show/episodes/5027540</ref><ref>https://www.youtube.com/watch?v=5JYKH97ayxI</ref>
 | EA = 2014-10-18
 }}
 {{Episodenlisteneintrag
-| NR_GES = 397
+| NR_GES = 395
 | NR_ST = 18
 | OT = Königliche Mounties - Kanadas berittene Polizei / Une Femme à la Gendarmerie Royale du Canada<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/397-koenigliche-mounties-kanadas-berittene-polizei-653489</ref><ref>https://thetvdb.com/series/272599-show/episodes/5041435</ref><ref>https://www.youtube.com/watch?v=MKnpMHIWWSI</ref>
 | EA = 2014-11-01
 }}
 {{Episodenlisteneintrag
-| NR_GES = 398
+| NR_GES = 396
 | NR_ST = 19
 | OT = Peru: Ein Alpaka für Christobal / Pérou, un Alpaga Pour Christobal<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/398-peru-ein-alpaka-fuer-christobal-657325</ref><ref>https://thetvdb.com/series/272599-show/episodes/5047865</ref><ref>https://www.youtube.com/watch?v=u27JvFwOKn0</ref>
 | EA = 2014-11-15
 }}
 {{Episodenlisteneintrag
-| NR_GES = 399
+| NR_GES = 397
 | NR_ST = 20
 | OT = Gnadenhof „Gut Aiderbichl“ / Le Dernier Refuge des Animaux<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/399-gnadenhof-gut-aiderbichl-659099</ref><ref>https://thetvdb.com/series/272599-show/episodes/5061387</ref><ref>https://www.youtube.com/watch?v=LkOdAquYeZQ</ref>
 | EA = 2014-11-22
 }}
 {{Episodenlisteneintrag
-| NR_GES = 400
+| NR_GES = 398
 | NR_ST = 21
 | OT = Unter Haien: Riffpatrouille in der Sulu-See / Philippines, un Atoll Sous Haute Protection<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/400-unter-haien-riffpatrouille-in-der-sulu-see-660707</ref><ref>https://thetvdb.com/series/272599-show/episodes/5061388</ref><ref>https://www.youtube.com/watch?v=zDVgKjAc8A0</ref>
 | EA = 2014-11-29
 }}
 {{Episodenlisteneintrag
-| NR_GES = 401
+| NR_GES = 399
 | NR_ST = 22
 | OT = Andalusien - Edle Pferde, wilde Stiere / Andalousie, la Tradition de la Transhumance<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/401-andalusien-edle-pferde-wilde-stiere-663873</ref><ref>https://thetvdb.com/series/272599-show/episodes/5061389</ref><ref>https://www.youtube.com/watch?v=9ZTsCCSztp0</ref>
 | EA = 2014-12-13
 }}
 {{Episodenlisteneintrag
-| NR_GES = 402
+| NR_GES = 400
 | NR_ST = 23
 | OT = Die Eisbergjäger von Neufundland / Terre-Neuve, les Chasseurs d’Iceberges<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/402-die-eisbergjaeger-von-neufundland-665965</ref><ref>https://thetvdb.com/series/272599-show/episodes/5078296</ref><ref>https://www.youtube.com/watch?v=Jylj5OMHrWk</ref>
 | EA = 2014-12-20
 }}
 {{Episodenlisteneintrag
-| NR_GES = 403
+| NR_GES = 401
 | NR_ST = 24
 | OT = Lettland - das Land der Sänger / Lettonie, un Pays Qui Chante<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/403-lettland-das-land-der-saenger-667601</ref><ref>https://thetvdb.com/series/272599-show/episodes/5078299</ref><ref>https://www.youtube.com/watch?v=F7ljNcCsIhA</ref>
 | EA = 2014-12-27
@@ -2586,157 +2574,157 @@
 | DREHBUCH = nein
 | INHALT =
 {{Episodenlisteneintrag
-| NR_GES = 404
+| NR_GES = 402
 | NR_ST = 1
 | OT = Griechenland: Aufbruch am Olymp / Vivre Heureux au Pied de l’Olympe<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/404-griechenland-aufbruch-am-olymp-670158</ref><ref>https://thetvdb.com/series/272599-show/episodes/5095522</ref><ref>https://www.imdb.com/title/tt19802432</ref><ref>https://www.youtube.com/watch?v=6pWfTh6Y4-o</ref>
 | EA = 2015-01-03
 }}
 {{Episodenlisteneintrag
-| NR_GES = 405
+| NR_GES = 403
 | NR_ST = 2
 | OT = Mohair, das Garn der guten Hoffnung / Mohair, Toison de l’Espoir<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/405-mohair-das-garn-der-guten-hoffnung-671310</ref><ref>https://thetvdb.com/series/272599-show/episodes/5095523</ref><ref>https://www.youtube.com/watch?v=NDsFCWIqsIk</ref>
 | EA = 2015-01-06
 }}
 {{Episodenlisteneintrag
-| NR_GES = 406
+| NR_GES = 404
 | NR_ST = 3
 | OT = Der Maestro, Neapels legendärer Boxmeister / Naples, le Maestro de la Boxe<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/406-der-maestro-neapels-legendaerer-boxmeister-671502</ref><ref>https://thetvdb.com/series/272599-show/episodes/5095524</ref><ref>https://www.youtube.com/watch?v=KVIq8lwVpD4</ref>
 | EA = 2015-01-07
 }}
 {{Episodenlisteneintrag
-| NR_GES = 407
+| NR_GES = 405
 | NR_ST = 4
 | OT = Die Baumkletterer von Kalifornien / En Californie, la Mission des Grimpeurs d’Arbres Géants<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/407-die-baumkletterer-von-kalifornien-683425</ref><ref>https://thetvdb.com/series/272599-show/episodes/5095528</ref><ref>https://www.youtube.com/watch?v=CP6G2KgHMR4</ref>
 | EA = 2015-02-16
 }}
 {{Episodenlisteneintrag
-| NR_GES = 408
+| NR_GES = 406
 | NR_ST = 5
 | OT = Kanada: Indianer schreiben Geschichte / Canada, Menace Sur la Terre des Indiens<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/408-kanada-indianer-schreiben-geschichte-683467</ref><ref>https://thetvdb.com/series/272599-show/episodes/5095530</ref><ref>https://www.youtube.com/watch?v=f1L930_UNW0</ref>
 | EA = 2015-02-17
 }}
 {{Episodenlisteneintrag
-| NR_GES = 409
+| NR_GES = 407
 | NR_ST = 6
 | OT = Venezuela, die Blitze von Catatumbo / Venezuela, le Lac des Mille Éclairs<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/409-venezuela-die-blitze-von-catatumbo-695700</ref><ref>https://thetvdb.com/series/272599-show/episodes/5150638</ref><ref>https://www.imdb.com/title/tt18345186</ref><ref>https://www.youtube.com/watch?v=AVB38wERs3Q</ref>
 | EA = 2015-03-23
 }}
 {{Episodenlisteneintrag
-| NR_GES = 410
+| NR_GES = 408
 | NR_ST = 7
 | OT = Tasmanien, Sympathie für den Teufel / Tasmanie, Pauvre Petit Diable<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/410-tasmanien-sympathie-fuer-den-teufel-696253</ref><ref>https://thetvdb.com/series/272599-show/episodes/5150639</ref><ref>https://www.imdb.com/title/tt19495650</ref><ref>https://www.youtube.com/watch?v=iXgcWz3Dqh0</ref>
 | EA = 2015-03-24
 }}
 {{Episodenlisteneintrag
-| NR_GES = 411
+| NR_GES = 409
 | NR_ST = 8
 | OT = Kastanien, das Brot der Korsen / La Châtaigne, une Manne en Corse<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/411-kastanien-das-brot-der-korsen-696597</ref><ref>https://thetvdb.com/series/272599-show/episodes/5150640</ref><ref>https://www.imdb.com/title/tt21971752</ref><ref>https://www.youtube.com/watch?v=PZIIed051OE</ref>
 | EA = 2015-03-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 412
+| NR_GES = 410
 | NR_ST = 9
 | OT = Paris, Blitz Motorcycles / Paris, Blitz Motorcycles<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/412-paris-blitz-motorcycles-696850</ref><ref>https://thetvdb.com/series/272599-show/episodes/5150641</ref><ref>https://www.imdb.com/title/tt15101596</ref><ref>https://www.youtube.com/watch?v=RcPiWMzimBk</ref>
 | EA = 2015-03-26
 }}
 {{Episodenlisteneintrag
-| NR_GES = 413
+| NR_GES = 411
 | NR_ST = 10
 | OT = Kuba: Eine Generation im Wandel / Cuba, les Coiffeurs de La Havane<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/413-kuba-eine-generation-im-wandel-697093</ref><ref>https://thetvdb.com/series/272599-show/episodes/5150642</ref><ref>https://www.imdb.com/title/tt19718478</ref><ref>https://www.youtube.com/watch?v=uONkvisdPJo</ref>
 | EA = 2015-03-27
 }}
 {{Episodenlisteneintrag
-| NR_GES = 414
+| NR_GES = 412
 | NR_ST = 11
 | OT = Hamburg, die Stadt der Schwäne / Hambourg, la Ville des Cygnes<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/414-hamburg-die-stadt-der-schwaene-711415</ref><ref>https://thetvdb.com/series/272599-show/episodes/5221471</ref><ref>https://www.imdb.com/title/tt16985718</ref><ref>https://www.youtube.com/watch?v=f1K7nBVO7Lk</ref>
 | EA = 2015-05-02
 }}
 {{Episodenlisteneintrag
-| NR_GES = 415
+| NR_GES = 413
 | NR_ST = 12
 | OT = Camargue, zwischen Himmel und Meer / Camargue : la Guerre des Tellines<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/415-camargue-zwischen-himmel-und-meer-749148</ref><ref>https://thetvdb.com/series/272599-show/episodes/5328397</ref><ref>https://www.imdb.com/title/tt23870016</ref><ref>https://www.youtube.com/watch?v=8bnLFaEqSeA</ref>
 | EA = 2015-08-29
 }}
 {{Episodenlisteneintrag
-| NR_GES = 416
+| NR_GES = 414
 | NR_ST = 13
 | OT = Bhutan, von Kindern und Kranichen / La Migration des Grues au Bhoutan<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/416-bhutan-von-kindern-und-kranichen-754878</ref><ref>https://thetvdb.com/series/272599-show/episodes/5328398</ref><ref>https://www.imdb.com/title/tt14429918</ref><ref>https://www.youtube.com/watch?v=jlJuiIMhBqQ</ref>
 | EA = 2015-09-05
 }}
 {{Episodenlisteneintrag
-| NR_GES = 417
+| NR_GES = 415
 | NR_ST = 14
 | OT = Bird Island - Allein unter Pinguinen / Bird Island — Le Paradis des Oiseaux Dans l’Antarctique<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/417-bird-island-allein-unter-pinguinen-756555</ref><ref>https://thetvdb.com/series/272599-show/episodes/5328399</ref><ref>https://www.imdb.com/title/tt18413830</ref><ref>https://www.youtube.com/watch?v=Wlc3mjQr5ek</ref>
 | EA = 2015-09-12
 }}
 {{Episodenlisteneintrag
-| NR_GES = 418
+| NR_GES = 416
 | NR_ST = 15
 | OT = Basketball - Die kleinen Barfuß-Spieler von Mexiko / Mexique, les Joueurs de Basket aux Pieds Nus<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/418-basketball-die-kleinen-barfuss-spieler-von-mexiko-759350</ref><ref>https://thetvdb.com/series/272599-show/episodes/5328400</ref><ref>https://www.youtube.com/watch?v=AskLUCcfDuI</ref>
 | EA = 2015-09-19
 }}
 {{Episodenlisteneintrag
-| NR_GES = 419
+| NR_GES = 417
 | NR_ST = 16
 | OT = Die Spinnenjäger von Venezuela / Venezuela, Chasseurs de Mygales<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/419-die-spinnenjaeger-von-venezuela-767199</ref><ref>https://thetvdb.com/series/272599-show/episodes/5328401</ref><ref>https://www.youtube.com/watch?v=wjmhUyOUGvc</ref>
 | EA = 2015-09-26
 }}
 {{Episodenlisteneintrag
-| NR_GES = 420
+| NR_GES = 418
 | NR_ST = 17
 | OT = Das Terrassenwunder von Peru / Pérou, l’Agriculture en Terrasses<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/420-das-terrassenwunder-von-peru-774025</ref><ref>https://thetvdb.com/series/272599-show/episodes/5328402</ref><ref>https://www.youtube.com/watch?v=0-cZ-g6esRw</ref>
 | EA = 2015-10-03
 }}
 {{Episodenlisteneintrag
-| NR_GES = 421
+| NR_GES = 419
 | NR_ST = 18
 | OT = Kambodscha, Sithas große Waisenfamilie / Cambodge, un Espoir Pour les Enfants des Rues<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/421-kambodscha-sithas-grosse-waisenfamilie-776869</ref><ref>https://thetvdb.com/series/272599-show/episodes/5328403</ref><ref>https://www.youtube.com/watch?v=dFjDEa-tVVI</ref>
 | EA = 2015-10-10
 }}
 {{Episodenlisteneintrag
-| NR_GES = 422
+| NR_GES = 420
 | NR_ST = 19
 | OT = Die Oldtimer von Curaçao / Curaçao, la Passion des Vieux Tacots<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/422-die-oldtimer-von-curacao-786745</ref><ref>https://thetvdb.com/series/272599-show/episodes/5396736</ref><ref>https://www.imdb.com/title/tt21083548</ref><ref>https://www.youtube.com/watch?v=RjuudARpaEQ</ref>
 | EA = 2015-11-07
 }}
 {{Episodenlisteneintrag
-| NR_GES = 423
+| NR_GES = 421
 | NR_ST = 20
 | OT = Italien - Hochzeit auf Neapolitanisch / Mariage à la Napolitaine<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/423-italien-hochzeit-auf-neapolitanisch-786746</ref><ref>https://thetvdb.com/series/272599-show/episodes/5404473</ref><ref>https://www.imdb.com/title/tt15108654</ref><ref>https://www.youtube.com/watch?v=tuCZYYFJHLM</ref>
 | EA = 2015-11-14
 }}
 {{Episodenlisteneintrag
-| NR_GES = 424
+| NR_GES = 422
 | NR_ST = 21
 | OT = Yoga, Indiens erstaunliche Medizin / Yoga, Médecine Traditionnelle de l’Inde<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/424-yoga-indiens-erstaunliche-medizin-786747</ref><ref>https://thetvdb.com/series/272599-show/episodes/5411577</ref><ref>https://www.youtube.com/watch?v=uae6n-lyViY</ref>
 | EA = 2015-11-21
 }}
 {{Episodenlisteneintrag
-| NR_GES = 425
+| NR_GES = 423
 | NR_ST = 22
 | OT = David und die Komodowarane / Le Dragon de Komodo<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/425-david-und-die-komodowarane-788674</ref><ref>https://thetvdb.com/series/272599-show/episodes/5420198</ref><ref>https://www.youtube.com/watch?v=6uFzOGhS8UI</ref>
 | EA = 2015-11-28
 }}
 {{Episodenlisteneintrag
-| NR_GES = 426
+| NR_GES = 424
 | NR_ST = 23
 | OT = China, Braut ohne Bräutigam / En Chine, à la Recherche d’Un Mari<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/426-china-braut-ohne-braeutigam-792366</ref><ref>https://thetvdb.com/series/272599-show/episodes/5431748</ref><ref>https://www.youtube.com/watch?v=e9nzSo2Tqr8</ref>
 | EA = 2015-12-05
 }}
 {{Episodenlisteneintrag
-| NR_GES = 427
+| NR_GES = 425
 | NR_ST = 24
 | OT = Sansibars erstes Frauenorchester / Zanzibar, une Affaire de Femmes<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/427-sansibars-erstes-frauenorchester-793099</ref><ref>https://thetvdb.com/series/272599-show/episodes/5440875</ref><ref>https://www.youtube.com/watch?v=PXO6rKXlfnk</ref>
 | EA = 2015-12-13
 }}
 {{Episodenlisteneintrag
-| NR_GES = 428
+| NR_GES = 426
 | NR_ST = 25
 | OT = Die Bergführer von Chamonix / La Compagnie des Guides de Chamonix Mont-Blanc<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/428-die-bergfuehrer-von-chamonix-794734</ref><ref>https://thetvdb.com/series/272599-show/episodes/5446452</ref><ref>https://www.imdb.com/title/tt15277042</ref><ref>https://www.youtube.com/watch?v=l7mRLjiZ1Tw</ref>
 | EA = 2015-12-21
 }}
 {{Episodenlisteneintrag
-| NR_GES = 429
+| NR_GES = 427
 | NR_ST = 26
 | OT = Polen, Winter in den Waldkarpaten / Pologne, Charme Secret des Basses-Carpates<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/429-polen-winter-in-den-waldkarpaten-796124</ref><ref>https://thetvdb.com/series/272599-show/episodes/5455789</ref><ref>https://www.youtube.com/watch?v=tRxGlm8BqbY</ref>
 | EA = 2015-12-26
@@ -2752,157 +2740,157 @@
 | DREHBUCH = nein
 | INHALT =
 {{Episodenlisteneintrag
-| NR_GES = 430
+| NR_GES = 428
 | NR_ST = 1
 | OT = Kenias Spürhunde - Rettung für die Elefanten / Kenya, les Chiens au Secours des Éléphants<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/430-kenias-spuerhunde-rettung-fuer-die-elefanten-797294</ref><ref>https://thetvdb.com/series/272599-show/episodes/5464152</ref><ref>https://www.youtube.com/watch?v=MY6baZRwEL8</ref>
 | EA = 2016-01-02
 }}
 {{Episodenlisteneintrag
-| NR_GES = 431
+| NR_GES = 429
 | NR_ST = 2
 | OT = Valparaíso - Die Stadt der Aufzüge / Valparaiso, la VIlle des Ascenseurs<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/431-valparaiso-die-stadt-der-aufzuege-798761</ref><ref>https://thetvdb.com/series/272599-show/episodes/5473961</ref><ref>https://www.imdb.com/title/tt14429858</ref><ref>https://www.youtube.com/watch?v=VZw_EvXbp18</ref>
 | EA = 2016-01-09
 }}
 {{Episodenlisteneintrag
-| NR_GES = 432
+| NR_GES = 430
 | NR_ST = 3
 | OT = Sibirien - Der Kapitän und die Lena / Au Fil de la Lena en Sibérie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/432-sibirien-der-kapitaen-und-die-lena-801600</ref><ref>https://thetvdb.com/series/272599-show/episodes/5473962</ref><ref>https://www.imdb.com/title/tt18227954</ref><ref>https://www.youtube.com/watch?v=7g-j259KxH0</ref>
 | EA = 2016-01-23
 }}
 {{Episodenlisteneintrag
-| NR_GES = 433
+| NR_GES = 431
 | NR_ST = 4
 | OT = Spreewald - Kähne, Köche, Klapperstörche / La Forêt Secrète de la Spree<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/433-spreewald-kaehne-koeche-klapperstoerche-807566</ref><ref>https://thetvdb.com/series/272599-show/episodes/5526195</ref><ref>https://www.youtube.com/watch?v=FFHcOUH17TE</ref>
 | EA = 2016-02-20
 }}
 {{Episodenlisteneintrag
-| NR_GES = 434
+| NR_GES = 432
 | NR_ST = 5
 | OT = Cocos Island - Paradies für Haie?! / Cocos — L’Île des Requins<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/434-cocos-island-paradies-fuer-haie-807567</ref><ref>https://thetvdb.com/series/272599-show/episodes/5535287</ref><ref>https://www.youtube.com/watch?v=A-aSNeoHaGI</ref>
 | EA = 2016-02-27
 }}
 {{Episodenlisteneintrag
-| NR_GES = 435
+| NR_GES = 433
 | NR_ST = 6
 | OT = Insekten - Unser Speiseplan für morgen? / Les Insectes, la Nourriture de Demain?<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/435-insekten-unser-speiseplan-fuer-morgen-812256</ref><ref>https://thetvdb.com/series/272599-show/episodes/5561577</ref><ref>https://www.youtube.com/watch?v=OOxmAapp8vY</ref>
 | EA = 2016-03-19
 }}
 {{Episodenlisteneintrag
-| NR_GES = 436
+| NR_GES = 434
 | NR_ST = 7
 | OT = Myanmar - Per Zug durch die Zeit / Myanmar, un Voyage Inoubliable en Train<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/436-myanmar-per-zug-durch-die-zeit-816969</ref><ref>https://thetvdb.com/series/272599-show/episodes/5578061</ref><ref>https://www.imdb.com/title/tt21842716</ref><ref>https://www.youtube.com/watch?v=Rj3NNtFqAjo</ref>
 | EA = 2016-04-09
 }}
 {{Episodenlisteneintrag
-| NR_GES = 437
+| NR_GES = 435
 | NR_ST = 8
 | OT = Die Bärenhunde von Nevada / Les Chiens Traqueurs d’Ours du Nevada<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/437-die-baerenhunde-von-nevada-821884</ref><ref>https://thetvdb.com/series/272599-show/episodes/5578064</ref><ref>https://www.youtube.com/watch?v=wf024fhwmvw</ref>
 | EA = 2016-04-30
 }}
 {{Episodenlisteneintrag
-| NR_GES = 438
+| NR_GES = 436
 | NR_ST = 9
 | OT = Die Dhaus - Arabiens legendäre Schiffe / Les Bateaux Légendaires d’Oman<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/438-die-dhaus-arabiens-legendaere-schiffe-825806</ref><ref>https://thetvdb.com/series/272599-show/episodes/5609661</ref><ref>https://www.youtube.com/watch?v=07X5I9kJvS4</ref>
 | EA = 2016-05-14
 }}
 {{Episodenlisteneintrag
-| NR_GES = 439
+| NR_GES = 437
 | NR_ST = 10
 | OT = Der Waldrapp - Punkvogel aus den Alpen / Pour l’Amour des Oiseaux<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/439-der-waldrapp-punkvogel-aus-den-alpen-828241</ref><ref>https://thetvdb.com/series/272599-show/episodes/5628778</ref><ref>https://www.youtube.com/watch?v=WDNIqAtjJnE</ref>
 | EA = 2016-05-28
 }}
 {{Episodenlisteneintrag
-| NR_GES = 440
+| NR_GES = 438
 | NR_ST = 11
 | OT = Die Eisfischer vom Chagan-See / Chine: Les Pêcheurs de Glace du Lac Chagan<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/440-die-eisfischer-vom-chagan-see-923466</ref><ref>https://thetvdb.com/series/272599-show/episodes/5658015</ref><ref>https://www.imdb.com/title/tt25830670</ref><ref>https://www.youtube.com/watch?v=vPLT2RVso_Y</ref>
 | EA = 2016-06-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 441
+| NR_GES = 439
 | NR_ST = 12
 | OT = Pythons - Invasion in Florida / Floride, la Guerre des Pythons<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/441-python-invasion-in-florida-940658</ref><ref>https://thetvdb.com/series/272599-show/episodes/5660701</ref><ref>https://www.imdb.com/title/tt27428146</ref><ref>https://www.youtube.com/watch?v=VMQIqDPSNHw</ref>
 | EA = 2016-07-16
 }}
 {{Episodenlisteneintrag
-| NR_GES = 442
+| NR_GES = 440
 | NR_ST = 13
 | OT = Amas Welt - Das neue Ghana / Ghana — L’Avenir Est aux Femmes<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/442-amas-welt-das-neue-ghana-981928</ref><ref>https://thetvdb.com/series/272599-show/episodes/5714108</ref><ref>https://www.youtube.com/watch?v=xLgEiCxyZ3k</ref>
 | EA = 2016-09-03
 }}
 {{Episodenlisteneintrag
-| NR_GES = 443
+| NR_GES = 441
 | NR_ST = 14
 | OT = Tunesien - Die Kunst der Berbertattoos / Tunisie, l’Art du Tatouage Berbère<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/443-tunesien-die-kunst-der-berbertattoos-983648</ref><ref>https://thetvdb.com/series/272599-show/episodes/5745112</ref><ref>https://www.youtube.com/watch?v=0fWMiz2aS_o</ref>
 | EA = 2016-09-10
 }}
 {{Episodenlisteneintrag
-| NR_GES = 444
+| NR_GES = 442
 | NR_ST = 15
 | OT = Die Cook Islands - Willkommen im Paradies / Les Îles Cook — Bienvenue au Paradis<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/444-die-cook-islands-welcome-to-paradise-985202</ref><ref>https://thetvdb.com/series/272599-show/episodes/5751341</ref><ref>https://www.imdb.com/title/tt26422173</ref><ref>https://www.youtube.com/watch?v=0Hn3y3DIcl4</ref>
 | EA = 2016-09-17
 }}
 {{Episodenlisteneintrag
-| NR_GES = 445
+| NR_GES = 443
 | NR_ST = 16
 | OT = Norwegen - Försterinnen auf dem Vormarsch / Norvège — Le Bois, une Histoire de Femmes<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/445-norwegen-foersterinnen-auf-dem-vormarsch-988012</ref><ref>https://thetvdb.com/series/272599-show/episodes/5739071</ref><ref>https://www.imdb.com/title/tt26472392</ref><ref>https://www.youtube.com/watch?v=Vge_eMlIxEY</ref>
 | EA = 2016-09-24
 }}
 {{Episodenlisteneintrag
-| NR_GES = 446
+| NR_GES = 444
 | NR_ST = 17
 | OT = Vietnam - Das Schicksal der Mondbären / Vietnam, Au Secours des Ours Noirs d’Asie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/446-vietnam-das-schicksal-der-mondbaeren-989430</ref><ref>https://thetvdb.com/series/272599-show/episodes/5751342</ref><ref>https://www.youtube.com/watch?v=bcv3VsOTMdo</ref>
 | EA = 2016-10-01
 }}
 {{Episodenlisteneintrag
-| NR_GES = 447
+| NR_GES = 445
 | NR_ST = 18
 | OT = Die letzten Krokodile Venezuelas / Venezuela: La Ferme aux Crocodiles<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/447-die-letzten-krokodile-venezuelas-992799</ref><ref>https://thetvdb.com/series/272599-show/episodes/5764340</ref><ref>https://www.youtube.com/watch?v=p9sjFVILLlo</ref>
 | EA = 2016-10-15
 }}
 {{Episodenlisteneintrag
-| NR_GES = 448
+| NR_GES = 446
 | NR_ST = 19
 | OT = Das Elefantenkrankenhaus von Thailand / Thaïlande: Le Premier Hôpital Pour Éléphants<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/448-das-elefantenkrankenhaus-von-thailand-995976</ref><ref>https://thetvdb.com/series/272599-show/episodes/5822676</ref><ref>https://www.youtube.com/watch?v=stCFbtfBtcI</ref>
 | EA = 2016-10-29
 }}
 {{Episodenlisteneintrag
-| NR_GES = 449
+| NR_GES = 447
 | NR_ST = 20
 | OT = Die Schlammfußballer von Island / Islande, Fous de Foot de Boue<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/449-schlammfussball-in-island-999289</ref><ref>https://thetvdb.com/series/272599-show/episodes/5830614</ref><ref>https://www.imdb.com/title/tt19495648</ref><ref>https://www.youtube.com/watch?v=jJRGSboanao</ref>
 | EA = 2016-11-05
 }}
 {{Episodenlisteneintrag
-| NR_GES = 450
+| NR_GES = 448
 | NR_ST = 21
 | OT = Dänemark - Königin Margrethe und ihr Sommerschloss / Danemark, un Été Chez la Reine Margrethe<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/450-daenemark-koenigin-margrethe-und-ihr-sommerschloss-1001793</ref><ref>https://thetvdb.com/series/272599-show/episodes/5854099</ref><ref>https://www.youtube.com/watch?v=qIrnygvh_I8</ref>
 | EA = 2016-11-19
 }}
 {{Episodenlisteneintrag
-| NR_GES = 451
+| NR_GES = 449
 | NR_ST = 22
 | OT = Die metallenen Gondeln von Tschiatura / Géorgie — Des Téléphériques Qui Défient la Mort<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/451-die-metallenen-gondeln-von-tschiatura-1002246</ref><ref>https://thetvdb.com/series/272599-show/episodes/5858780</ref><ref>https://www.youtube.com/watch?v=-2OmrWF4YiQ</ref>
 | EA = 2016-11-26
 }}
 {{Episodenlisteneintrag
-| NR_GES = 452
+| NR_GES = 450
 | NR_ST = 23
 | OT = Die Honigsammler von Yunnan / Chine, les Ruches de Maître Xing<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/452-die-honigsammler-von-yunnan-1012644</ref><ref>https://thetvdb.com/series/272599-show/episodes/5869469</ref><ref>https://www.youtube.com/watch?v=ddARBEV3fH4</ref>
 | EA = 2016-12-03
 }}
 {{Episodenlisteneintrag
-| NR_GES = 453
+| NR_GES = 451
 | NR_ST = 24
 | OT = Wilde Schweiz - Von Ringern und Schwingern / Suisse, les Lutteurs Portent la Culotte<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/453-wilde-schweiz-von-ringern-und-schwingern-1036481</ref><ref>https://thetvdb.com/series/272599-show/episodes/5878158</ref><ref>https://www.youtube.com/watch?v=BOZJeflZbeM</ref>
 | EA = 2016-12-10
 }}
 {{Episodenlisteneintrag
-| NR_GES = 454
+| NR_GES = 452
 | NR_ST = 25
 | OT = St. Bernhard - Von Menschen und Hunden / Saint-Bernard et Ses Chiens<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/454-st-bernhard-von-menschen-und-hunden-1037887</ref><ref>https://thetvdb.com/series/272599-show/episodes/5888245</ref><ref>https://www.imdb.com/title/tt11969464</ref><ref>https://www.youtube.com/watch?v=UBQ1XhTzHic</ref>
 | EA = 2016-12-17
 }}
 {{Episodenlisteneintrag
-| NR_GES = 455
+| NR_GES = 453
 | NR_ST = 26
 | OT = Rumänien - Eine Weihnachtsreise ins Donaudelta / Delta du Danube, un Noël Pas Comme les Autres<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/455-rumaenien-eine-weihnachtsreise-ins-donaudelta-1039858</ref><ref>https://thetvdb.com/series/272599-show/episodes/5895561</ref><ref>https://www.youtube.com/watch?v=pcjXQq5fnx4</ref>
 | EA = 2016-12-24
@@ -2918,163 +2906,163 @@
 | DREHBUCH = nein
 | INHALT =
 {{Episodenlisteneintrag
-| NR_GES = 456
+| NR_GES = 454
 | NR_ST = 1
 | OT = Die Liebenden von Santa Cruz del Islote / Santa Cruz del Islote — Une Île Minuscule et Insolite<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/456-die-liebenden-von-santa-cruz-del-islote-1042427</ref><ref>https://thetvdb.com/series/272599-show/episodes/5904645</ref><ref>https://www.youtube.com/watch?v=UNPolG8VXFo</ref>
 | EA = 2017-01-07
 }}
 {{Episodenlisteneintrag
-| NR_GES = 457
+| NR_GES = 455
 | NR_ST = 2
 | OT = Marseille - Kopfüber ins Blau / Plongeon de Haut Vol Sur Marseille<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/457-marseille-kopfueber-ins-blau-1044494</ref><ref>https://thetvdb.com/series/272599-show/episodes/5927802</ref><ref>https://www.imdb.com/title/tt6460474</ref><ref>https://www.youtube.com/watch?v=sVXtF-PwPQY</ref>
 | EA = 2017-01-14
 }}
 {{Episodenlisteneintrag
-| NR_GES = 458
+| NR_GES = 456
 | NR_ST = 3
 | OT = Kurt und seine Wölfe / Kurt, un Homme Parmi les Loups<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/458-kurt-und-seine-woelfe-1046379</ref><ref>https://thetvdb.com/series/272599-show/episodes/5927792</ref><ref>https://www.youtube.com/watch?v=Khp3kDHWSdo</ref>
 | EA = 2017-01-21
 }}
 {{Episodenlisteneintrag
-| NR_GES = 459
+| NR_GES = 457
 | NR_ST = 4
 | OT = Pyrenäen - Ein Hirte zwischen Himmel und Erde / Brice, un Vacher à l’Assaut des Pyrénées<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/459-pyrenaeen-ein-hirte-zwischen-himmel-und-erde-1048641</ref><ref>https://thetvdb.com/series/272599-show/episodes/5945673</ref><ref>https://www.youtube.com/watch?v=hxPBgj2j_eg</ref>
 | EA = 2017-01-28
 }}
 {{Episodenlisteneintrag
-| NR_GES = 460
+| NR_GES = 458
 | NR_ST = 5
 | OT = Zauberhafte Mosel / La Moselle, au Fil de l’Eau<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/460-zauberhafte-mosel-1048643</ref><ref>https://thetvdb.com/series/272599-show/episodes/5966507</ref><ref>https://www.imdb.com/title/tt22478580</ref><ref>https://www.youtube.com/watch?v=fHHJoYzQuz8</ref>
 | EA = 2017-02-04
 }}
 {{Episodenlisteneintrag
-| NR_GES = 461
+| NR_GES = 459
 | NR_ST = 6
 | OT = Der Kosakenpriester vom Don / La Volga au Rythme des Cosaques<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/461-der-kosakenpriester-vom-don-1051882</ref><ref>https://thetvdb.com/series/272599-show/episodes/5975719</ref><ref>https://www.imdb.com/title/tt16971158</ref><ref>https://www.youtube.com/watch?v=RdAzR4VEOHA</ref>
 | EA = 2017-02-18
 }}
 {{Episodenlisteneintrag
-| NR_GES = 462
+| NR_GES = 460
 | NR_ST = 7
 | OT = Chile - Die Leuchttürme am Ende der Welt / Chili, les Phares du Bout du Monde<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/462-chile-die-leuchttuerme-am-ende-der-welt-1052721</ref><ref>https://thetvdb.com/series/272599-show/episodes/5986947</ref><ref>https://www.youtube.com/watch?v=u1jaUHMhRwo</ref>
 | EA = 2017-02-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 463
+| NR_GES = 461
 | NR_ST = 8
 | OT = Indien - Heilendes Ayurveda / Inde, la Médecine Ayurvédique<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/463-indien-heilendes-ayurveda-1055376</ref><ref>https://thetvdb.com/series/272599-show/episodes/5987692</ref><ref>https://www.youtube.com/watch?v=EqHxC_ym5uA</ref>
 | EA = 2017-03-04
 }}
 {{Episodenlisteneintrag
-| NR_GES = 464
+| NR_GES = 462
 | NR_ST = 9
 | OT = Spanien - Die Tradition der Menschentürme / Catalogne, le Défi des Pyramides Humaines<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/464-spanien-die-tradition-der-menschentuerme-1057317</ref><ref>https://thetvdb.com/series/272599-show/episodes/6005142</ref><ref>https://www.imdb.com/title/tt14564776</ref><ref>https://www.youtube.com/watch?v=8N06lkFAtYI</ref>
 | EA = 2017-03-12
 }}
 {{Episodenlisteneintrag
-| NR_GES = 465
+| NR_GES = 463
 | NR_ST = 10
 | OT = Malaysia - Von Frauen und Motorrädern / Malaisie, la moto au Féminin<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/465-malaysia-von-frauen-und-motorraedern-1058938</ref><ref>https://thetvdb.com/series/272599-show/episodes/6010575</ref><ref>https://www.imdb.com/title/tt16971162</ref><ref>https://www.youtube.com/watch?v=yvXaWlw37fQ</ref>
 | EA = 2017-03-19
 }}
 {{Episodenlisteneintrag
-| NR_GES = 466
+| NR_GES = 464
 | NR_ST = 11
 | OT = Eine zweite Art von Frau - Thailand, das Dritte Geschlecht / Les Lady Boys en Thaïlande<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/466-eine-zweite-art-von-frau-thailand-das-dritte-geschlecht-1058939</ref><ref>https://thetvdb.com/series/272599-show/episodes/6021363</ref><ref>https://www.youtube.com/watch?v=h2o97Qd26oI</ref>
 | EA = 2017-03-26
 }}
 {{Episodenlisteneintrag
-| NR_GES = 467
+| NR_GES = 465
 | NR_ST = 12
 | OT = Myanmars Bambusbrücke - Ein Dorf packt an! / Birmanie: l’Étonnant Pont de Bambou<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/467-myanmars-bambusbruecke-ein-dorf-packt-an-1082612</ref><ref>https://thetvdb.com/series/272599-show/episodes/6101743</ref><ref>https://www.imdb.com/title/tt21308734</ref><ref>https://www.youtube.com/watch?v=Mx0SpmGP9JM</ref>
 | EA = 2017-05-21
 }}
 {{Episodenlisteneintrag
-| NR_GES = 468
+| NR_GES = 466
 | NR_ST = 13
-| OT = Die Minga - Umzug auf Chilenisch<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/468-die-minga-umzug-auf-chilenisch-1088464</ref><ref>https://thetvdb.com/series/272599-show/episodes/7219669</ref><ref>https://www.imdb.com/title/tt21916070</ref><ref>https://www.youtube.com/watch?v=H8MxGlRHRHA</ref>
+| OT = Die Minga - Umzug auf Chilenisch / Chili, l'incroyable voyage d'une maison des bois<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/468-die-minga-umzug-auf-chilenisch-1088464</ref><ref>https://thetvdb.com/series/272599-show/episodes/7219669</ref><ref>https://www.imdb.com/title/tt21916070</ref><ref>https://www.youtube.com/watch?v=H8MxGlRHRHA</ref>
 | EA = 2017-05-28
 }}
 {{Episodenlisteneintrag
-| NR_GES = 469
+| NR_GES = 467
 | NR_ST = 14
 | OT = Kuba - Meister der Drehorgeln / Cuba — Danse Avec les Orgues de Barbarie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/469-kuba-meister-der-drehorgeln-1106449</ref><ref>https://thetvdb.com/series/272599-show/episodes/6241979</ref><ref>https://www.youtube.com/watch?v=tnpfneRKHxY</ref>
 | EA = 2017-08-06
 }}
 {{Episodenlisteneintrag
-| NR_GES = 470
+| NR_GES = 468
 | NR_ST = 15
 | OT = Sri Lanka - Eine legendäre Eisenbahnstrecke / Sri Lanka, Avec Rodrigo à Bord du Train Bleu<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/470-sri-lanka-eine-legendaere-eisenbahnstrecke-1109704</ref><ref>https://thetvdb.com/series/272599-show/episodes/6270747</ref><ref>https://www.youtube.com/watch?v=ldpHfqDbWHQ</ref>
 | EA = 2017-08-20
 }}
 {{Episodenlisteneintrag
-| NR_GES = 471
+| NR_GES = 469
 | NR_ST = 16
 | OT = Die Wassernomaden vom Sambesi / Zambie, les Nomades du Fleuve<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/471-wassernomaden-auf-dem-sambesi-1123007</ref><ref>https://thetvdb.com/series/272599-show/episodes/6328065</ref><ref>https://www.youtube.com/watch?v=f0lmD4C0Vs0</ref>
 | EA = 2017-09-17
 }}
 {{Episodenlisteneintrag
-| NR_GES = 472
+| NR_GES = 470
 | NR_ST = 17
 | OT = Mate-Tee - Die Seele Argentiniens / Le Maté, l’Élixir des Argentins<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/472-argentinien-mate-tee-die-seele-des-landes-1132095</ref><ref>https://thetvdb.com/series/272599-show/episodes/6348729</ref><ref>https://www.imdb.com/title/tt14840080</ref><ref>https://www.youtube.com/watch?v=fWvRJ-pbYxI</ref>
 | EA = 2017-10-01
 }}
 {{Episodenlisteneintrag
-| NR_GES = 473
+| NR_GES = 471
 | NR_ST = 18
 | OT = Louisiana - Land unter bei den Shrimpfischern / Les Derniers Pêcheurs de Crevettes de Louisiane<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/473-louisiana-land-unter-bei-den-shrimpfischern-1134615</ref><ref>https://thetvdb.com/series/272599-show/episodes/6376645</ref><ref>https://www.imdb.com/title/tt21928474</ref><ref>https://www.youtube.com/watch?v=tS_0NFzr2l4</ref>
 | EA = 2017-10-22
 }}
 {{Episodenlisteneintrag
-| NR_GES = 474
+| NR_GES = 472
 | NR_ST = 19
 | OT = Svanetien - Von Lebenden und Toten / Géorgie: le Culte des Ancêtres en Svaténie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/474-svanetien-von-lebenden-und-toten-1137649</ref><ref>https://thetvdb.com/series/272599-show/episodes/6387570</ref><ref>https://www.youtube.com/watch?v=KZ9v7YAJzR8</ref>
 | EA = 2017-10-29
 }}
 {{Episodenlisteneintrag
-| NR_GES = 475
+| NR_GES = 473
 | NR_ST = 20
 | OT = Java - Zauberhaftes Schattentheater / Java, la Magie du Théâtre d’Ombres<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/475-java-zauberhaftes-schattentheater-1139270</ref><ref>https://thetvdb.com/series/272599-show/episodes/6398275</ref><ref>https://www.youtube.com/watch?v=HE8MAIiX9OU</ref>
 | EA = 2017-11-05
 }}
 {{Episodenlisteneintrag
-| NR_GES = 476
+| NR_GES = 474
 | NR_ST = 21
 | OT = Frisch vermählt in Estland / Estonie, les Secrets d’un Mariage Réussi<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/476-frisch-vermaehlt-in-estland-1140830</ref><ref>https://thetvdb.com/series/272599-show/episodes/6398624</ref><ref>https://www.imdb.com/title/tt16453240</ref><ref>https://www.youtube.com/watch?v=OzL34KdYfLM</ref>
 | EA = 2017-11-12
 }}
 {{Episodenlisteneintrag
-| NR_GES = 477
+| NR_GES = 475
 | NR_ST = 22
 | OT = Die Geier sind zurück / Les Vautours Sont de Retour<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/477-die-geier-sind-zurueck-1142429</ref><ref>https://thetvdb.com/series/272599-show/episodes/6398625</ref><ref>https://www.imdb.com/title/tt24055100</ref><ref>https://www.youtube.com/watch?v=e5A0glDrlkU</ref>
 | EA = 2017-11-19
 }}
 {{Episodenlisteneintrag
-| NR_GES = 478
+| NR_GES = 476
 | NR_ST = 23
 | OT = Bolivien - Der Kampf um die kleinen Herzen / Bolivie, un Médecin Qui a du Cœur<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/478-bolivien-der-kampf-um-die-kleinen-herzen-1143660</ref><ref>https://thetvdb.com/series/272599-show/episodes/6398620</ref><ref>https://www.youtube.com/watch?v=Brrl86VTvq4</ref>
 | EA = 2017-11-26
 }}
 {{Episodenlisteneintrag
-| NR_GES = 479
+| NR_GES = 477
 | NR_ST = 24
 | OT = Sibirien, die Eisstraße ins Polarmeer / Sur les Routes de Glace de Sibérie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/479-sibirien-die-eisstrasse-ins-polarmeer-1143920</ref><ref>https://thetvdb.com/series/272599-show/episodes/6439596</ref><ref>https://www.imdb.com/title/tt21842726</ref><ref>https://www.youtube.com/watch?v=S7VcirrE2xc</ref>
 | EA = 2017-11-27
 }}
 {{Episodenlisteneintrag
-| NR_GES = 480
+| NR_GES = 478
 | NR_ST = 25
 | OT = Kolumbien: DC3 Oldtimer versorgen den Regenwald / Colombie, les Fous Volants de l’Amazonie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/480-kolumbien-dc3-oldtimer-versorgen-den-regenwald-1148836</ref><ref>https://thetvdb.com/series/272599-show/episodes/6448641</ref><ref>https://www.imdb.com/title/tt21308740</ref><ref>https://www.youtube.com/watch?v=VqPIqn1upqs</ref>
 | EA = 2017-12-10
 }}
 {{Episodenlisteneintrag
-| NR_GES = 481
+| NR_GES = 479
 | NR_ST = 26
 | OT = Der Thomanerchor - Leben für die Musik / Leipzig, les Légendaires Petits Chanteurs<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/481-der-thomanerchor-leben-fuer-die-musik-1151707</ref><ref>https://thetvdb.com/series/272599-show/episodes/6468960</ref><ref>https://www.imdb.com/title/tt26898733</ref><ref>https://www.youtube.com/watch?v=931l1cfsbDg</ref>
 | EA = 2017-12-24
 }}
 {{Episodenlisteneintrag
-| NR_GES = 482
+| NR_GES = 480
 | NR_ST = 27
 | OT = Die Insel Chiloé / Chili: l’Incroyable Voyage d’une Maison de Bois<ref>https://thetvdb.com/series/272599-show/episodes/6126640</ref>
 | EA = 2017-06-03
@@ -3090,181 +3078,181 @@
 | DREHBUCH = nein
 | INHALT =
 {{Episodenlisteneintrag
-| NR_GES = 483
+| NR_GES = 481
 | NR_ST = 1
 | OT = Friaul, Benvenuti im Musiktal / Le Frioul, une Vallée Tout en Musique<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/482-friaul-benvenuti-im-musiktal-1157017</ref><ref>https://thetvdb.com/series/272599-show/episodes/6507973</ref><ref>https://www.imdb.com/title/tt24636846</ref><ref>https://www.youtube.com/watch?v=_-7XZj09-A0</ref>
 | EA = 2018-01-14
 }}
 {{Episodenlisteneintrag
-| NR_GES = 484
+| NR_GES = 482
 | NR_ST = 2
 | OT = Bisons, die sanften Riesen von Montana / Bisons, les Doux Géants du Montana<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/483-bisons-die-sanften-riesen-von-montana-1161790</ref><ref>https://thetvdb.com/series/272599-show/episodes/6529015</ref><ref>https://www.youtube.com/watch?v=HwOJJFzY5Cc</ref>
 | EA = 2018-01-28
 }}
 {{Episodenlisteneintrag
-| NR_GES = 485
+| NR_GES = 483
 | NR_ST = 3
 | OT = Vietnam, die letzten Pangoline / Le Vietnam au Chevet des Pangolins<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/484-vietnam-die-letzten-pangoline-1163224</ref><ref>https://thetvdb.com/series/272599-show/episodes/6538679</ref><ref>https://www.youtube.com/watch?v=HXALW-m2RxM</ref>
 | EA = 2018-02-04
 }}
 {{Episodenlisteneintrag
-| NR_GES = 486
+| NR_GES = 484
 | NR_ST = 4
 | OT = Schottland: Die Seenotretter der Orkney Islands / Au Nord de l’Écosse, les Sauveteurs en Mer<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/485-schottland-die-seenotretter-der-orkney-islands-1164369</ref><ref>https://thetvdb.com/series/272599-show/episodes/6549630</ref><ref>https://www.imdb.com/title/tt27170456</ref><ref>https://www.youtube.com/watch?v=qzTYfQqZltc</ref>
 | EA = 2018-02-11
 }}
 {{Episodenlisteneintrag
-| NR_GES = 487
+| NR_GES = 485
 | NR_ST = 5
 | OT = Kanada - Mit der Hebamme durch die Badlands / Canada — Les Aventures d’une Sage-Femme dans les Badlands<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/486-kanada-mit-der-hebamme-durch-die-badlands-1169596</ref><ref>https://thetvdb.com/series/272599-show/episodes/6578381</ref><ref>https://www.youtube.com/watch?v=Gdcj-iqqRs8</ref>
 | EA = 2018-02-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 488
+| NR_GES = 486
 | NR_ST = 6
 | OT = Myanmar - Die Marmorkünstler von Mandalay / Birmanie, les Sculpteurs de Marbre de Mandalay<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/487-myanmar-die-marmorkuenstler-von-mandalay-1171202</ref><ref>https://thetvdb.com/series/272599-show/episodes/6596840</ref><ref>https://www.youtube.com/watch?v=iV3arcWLL-s</ref>
 | EA = 2018-03-04
 }}
 {{Episodenlisteneintrag
-| NR_GES = 489
+| NR_GES = 487
 | NR_ST = 7
 | OT = Der Lachszähler von Kanada / Canada, le Vieil Homme et la Rivière<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/488-der-lachszaehler-von-kanada-1173798</ref><ref>https://thetvdb.com/series/272599-show/episodes/6590788</ref><ref>https://www.youtube.com/watch?v=QM_8fpHN6Jo</ref>
 | EA = 2018-03-11
 }}
 {{Episodenlisteneintrag
-| NR_GES = 490
+| NR_GES = 488
 | NR_ST = 8
 | OT = Kreta - Die süßen Früchte des Johannisbrotbaums / Le Caroubier, l’Or Noir de la Crète<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/489-kreta-die-suessen-fruechte-des-johannisbrotbaums-1175560</ref><ref>https://thetvdb.com/series/272599-show/episodes/6597521</ref><ref>https://www.youtube.com/watch?v=rVaOPVPAC5Y</ref>
 | EA = 2018-03-18
 }}
 {{Episodenlisteneintrag
-| NR_GES = 491
+| NR_GES = 489
 | NR_ST = 9
 | OT = Der Hundeflüsterer der Queen / L’Anglais Qui Murmure à l'Oreille des Chiens<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/490-der-hundefluesterer-der-queen-1177787</ref><ref>https://thetvdb.com/series/272599-show/episodes/6615190</ref><ref>https://www.youtube.com/watch?v=rejyD-Z97PE</ref>
 | EA = 2018-03-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 492
+| NR_GES = 490
 | NR_ST = 10
 | OT = Italien, eine neue Glocke für Monopoli / Les Cloches, Tout un Art en Italie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/491-italien-eine-neue-glocke-fuer-monopoli-1179190</ref><ref>https://thetvdb.com/series/272599-show/episodes/6615191</ref><ref>https://www.imdb.com/title/tt19718488</ref><ref>https://www.youtube.com/watch?v=FLTObV0M5RE</ref>
 | EA = 2018-04-01
 }}
 {{Episodenlisteneintrag
-| NR_GES = 493
+| NR_GES = 491
 | NR_ST = 11
 | OT = Arapaima, der Riesenfisch vom Amazonas / Arapaïma, le Poisson Géant d’Amazonie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/492-arapaima-der-riesenfisch-vom-amazonas-1191708</ref><ref>https://thetvdb.com/series/272599-show/episodes/6689543</ref><ref>https://www.imdb.com/title/tt20231928</ref><ref>https://www.youtube.com/watch?v=cr4V6JIH8yU</ref>
 | EA = 2018-05-13
 }}
 {{Episodenlisteneintrag
-| NR_GES = 494
+| NR_GES = 492
 | NR_ST = 12
 | OT = Die fliegenden Wildesel von Kasachstan / SOS ânes sauvages du Kazakhstan<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/493-die-fliegenden-wildesel-von-kasachstan-1194430</ref><ref>https://thetvdb.com/series/272599-show/episodes/6707145</ref><ref>https://www.imdb.com/title/tt21073776</ref><ref>https://www.youtube.com/watch?v=ND0yEWkqnSk</ref>
 | EA = 2018-05-27
 }}
 {{Episodenlisteneintrag
-| NR_GES = 495
+| NR_GES = 493
 | NR_ST = 13
 | OT = Geliebtes Korsika - Kampf gegen das Feuer / Corse, les maquisards du feu<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/494-geliebtes-korsika-kampf-gegen-das-feuer-1202913</ref><ref>https://thetvdb.com/series/272599-show/episodes/6739140</ref><ref>https://www.youtube.com/watch?v=cMm7vvWgVzY</ref>
 | EA = 2018-06-22
 }}
 {{Episodenlisteneintrag
-| NR_GES = 496
+| NR_GES = 494
 | NR_ST = 14
 | OT = Japan - Leben am Fuß des Vulkans / Japon — Vivre à l'Ombre du Volcan Iodake<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/495-japan-leben-am-fuss-des-vulkans-1221897</ref><ref>https://thetvdb.com/series/272599-show/episodes/6819062</ref><ref>https://www.imdb.com/title/tt19802452</ref><ref>https://www.youtube.com/watch?v=mztIey-rJi0</ref>
 | EA = 2018-08-30
 }}
 {{Episodenlisteneintrag
-| NR_GES = 497
+| NR_GES = 495
 | NR_ST = 15
 | OT = Sucevita - Rumäniens schönste Klosterfresken / Roumanie, la Beauté Sacrée des Monastères Peints<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/496-sucevita-rumaeniens-schoenste-klosterfresken-1223336</ref><ref>https://thetvdb.com/series/272599-show/episodes/6821173</ref><ref>https://www.youtube.com/watch?v=QPvUMKZxuwU</ref>
 | EA = 2018-09-08
 }}
 {{Episodenlisteneintrag
-| NR_GES = 498
+| NR_GES = 496
 | NR_ST = 16
 | OT = Moskaus berühmte Sprengstoffhunde / Moscou: des chiens renifleurs pour l’aéroport<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/497-moskaus-beruehmte-sprengstoffhunde-1225228</ref><ref>https://thetvdb.com/series/272599-show/episodes/6829028</ref><ref>https://www.youtube.com/watch?v=JlzRmmvY6wU</ref>
 | EA = 2018-09-15
 }}
 {{Episodenlisteneintrag
-| NR_GES = 499
+| NR_GES = 497
 | NR_ST = 17
 | OT = Neuseeland - Die Tiere vom Ende der Welt / Nouvelle-Zélande — Les Animaux du Bout du Monde<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/498-neuseeland-die-tiere-vom-ende-der-welt-1230127</ref><ref>https://thetvdb.com/series/272599-show/episodes/6845491</ref><ref>https://www.imdb.com/title/tt22007414</ref><ref>https://www.youtube.com/watch?v=qGm7J8wCZuo</ref>
 | EA = 2018-09-29
 }}
 {{Episodenlisteneintrag
-| NR_GES = 500
+| NR_GES = 498
 | NR_ST = 18
 | OT = Virunga, der Kampf für die Berggorillas / Virunga, les Gorilles en Péril<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/499-virunga-der-kampf-fuer-die-berggorillas-1230128</ref><ref>https://thetvdb.com/series/272599-show/episodes/6856576</ref><ref>https://www.youtube.com/watch?v=-2VXdo0Vm8A</ref>
 | EA = 2018-10-06
 }}
 {{Episodenlisteneintrag
-| NR_GES = 501
+| NR_GES = 499
 | NR_ST = 19
 | OT = Gitarren und Flamenco in Granada / L'Andalousie — Au Son des Guitares et du Flamenco<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/500-gitarren-und-flamenco-in-granada-1232369</ref><ref>https://thetvdb.com/series/272599-show/episodes/6863765</ref><ref>https://www.youtube.com/watch?v=qNy9yMLVPhA</ref>
 | EA = 2018-10-13
 }}
 {{Episodenlisteneintrag
-| NR_GES = 502
+| NR_GES = 500
 | NR_ST = 20
 | OT = Chatuchak - Bangkoks Riesenmarkt / Chatuchak, le Plus Grand Marché de Thaïlande<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/501-chatuchak-bangkoks-riesenmarkt-1233630</ref><ref>https://thetvdb.com/series/272599-show/episodes/6872146</ref><ref>https://www.youtube.com/watch?v=WGYqFDLRHH8</ref>
 | EA = 2018-10-20
 }}
 {{Episodenlisteneintrag
-| NR_GES = 503
+| NR_GES = 501
 | NR_ST = 21
 | OT = Argentinien - Der Jaguar ist zurück / Argentine, le Retour du Jaguar<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/502-argentinien-der-jaguar-ist-zurueck-1235360</ref><ref>https://thetvdb.com/series/272599-show/episodes/6881859</ref><ref>https://www.imdb.com/title/tt14429962</ref><ref>https://www.youtube.com/watch?v=paOkViJRTpg</ref>
 | EA = 2018-10-27
 }}
 {{Episodenlisteneintrag
-| NR_GES = 504
+| NR_GES = 502
 | NR_ST = 22
 | OT = Rooibos, der rote Tee Südafrikas / Rooibos — Le Thé Rouge d'Afrique du Sud<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/503-rooibos-der-rote-tee-suedafrikas-1237427</ref><ref>https://thetvdb.com/series/272599-show/episodes/6894111</ref><ref>https://www.imdb.com/title/tt9232664</ref><ref>https://www.youtube.com/watch?v=GocBm5fcRKY</ref>
 | EA = 2018-11-03
 }}
 {{Episodenlisteneintrag
-| NR_GES = 505
+| NR_GES = 503
 | NR_ST = 23
 | OT = Ankaras gerettete Bücher - Die Müll-Bibliothek von Cankaya / Ankara, une Deuxième Vie Pour les Livres<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/504-die-muell-bibliothek-von-cankaya-1239188</ref><ref>https://thetvdb.com/series/272599-show/episodes/6897060</ref><ref>https://www.imdb.com/title/tt21139774</ref><ref>https://www.youtube.com/watch?v=90iygjnd5KE</ref>
 | EA = 2018-11-07
 }}
 {{Episodenlisteneintrag
-| NR_GES = 506
+| NR_GES = 504
 | NR_ST = 24
 | OT = Äthiopiens gefräßige Hochland-Affen / Éthiopie — La Guerre des Singes<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/505-aethiopiens-gefraessige-hochland-affen-1240712</ref><ref>https://thetvdb.com/series/272599-show/episodes/6908214</ref><ref>https://www.youtube.com/watch?v=JJXFy9S8b1M</ref>
 | EA = 2018-11-17
 }}
 {{Episodenlisteneintrag
-| NR_GES = 507
+| NR_GES = 505
 | NR_ST = 25
 | OT = Sibirien - Im Reich des Amur-Tigers / Dans la Taïga, Sur les Traces du Tigre de Sibérie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/506-sibirien-im-reich-des-amur-tigers-1243697</ref><ref>https://thetvdb.com/series/272599-show/episodes/6902553</ref><ref>https://www.imdb.com/title/tt20771558</ref><ref>https://www.youtube.com/watch?v=3NDivz33wdc</ref>
 | EA = 2018-11-12
 }}
 {{Episodenlisteneintrag
-| NR_GES = 508
+| NR_GES = 506
 | NR_ST = 26
 | OT = Peru, das Goldhaar der Vikunjas / Pérou, une Laine Qui Vaut de l’Or<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/507-peru-das-goldhaar-der-vikunjas-1244960</ref><ref>https://thetvdb.com/series/272599-show/episodes/6923991</ref><ref>https://www.imdb.com/title/tt21928460</ref><ref>https://www.youtube.com/watch?v=vrYNhC0APiQ</ref>
 | EA = 2018-12-01
 }}
 {{Episodenlisteneintrag
-| NR_GES = 509
+| NR_GES = 507
 | NR_ST = 27
 | OT = Jonathan, der Flugakrobat / Jonathan, Acrobate du Ciel<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/508-jonathan-der-flugakrobat-1247061</ref><ref>https://thetvdb.com/series/272599-show/episodes/6923990</ref><ref>https://www.imdb.com/title/tt15101606</ref><ref>https://www.youtube.com/watch?v=KxXSeCjQQQk</ref>
 | EA = 2018-12-08
 }}
 {{Episodenlisteneintrag
-| NR_GES = 510
+| NR_GES = 508
 | NR_ST = 28
 | OT = Harris Tweed - Rückkehr einer Legende / En Écosse, sur la route du tweed<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/509-harris-tweed-rueckkehr-einer-legende-1249761</ref><ref>https://thetvdb.com/series/272599-show/episodes/6941816</ref><ref>https://www.imdb.com/title/tt11369594</ref><ref>https://www.youtube.com/watch?v=5uVU3J4oXak</ref>
 | EA = 2018-12-15
 }}
 {{Episodenlisteneintrag
-| NR_GES = 511
+| NR_GES = 509
 | NR_ST = 29
 | OT = Kenia, Let's Dance / Kenya, alors on danse<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/510-kenia-lets-dance-1251215</ref><ref>https://thetvdb.com/series/272599-show/episodes/6952756</ref><ref>https://www.imdb.com/title/tt20231942</ref><ref>https://www.youtube.com/watch?v=NOHyqcrRSIo</ref>
 | EA = 2018-12-22
 }}
 {{Episodenlisteneintrag
-| NR_GES = 512
+| NR_GES = 510
 | NR_ST = 30
 | OT = Crémant, der feine Elsässer zum Fest / Crémant d'Alsace - Des bulles fines et festives<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/511-cremant-der-feine-elsaesser-zum-fest-1253307</ref><ref>https://thetvdb.com/series/272599-show/episodes/6970951</ref><ref>https://www.imdb.com/title/tt26914689</ref><ref>https://www.youtube.com/watch?v=1YcWaJWv8ZE</ref>
 | EA = 2018-12-31
@@ -3280,154 +3268,148 @@
 | DREHBUCH = nein
 | INHALT =
 {{Episodenlisteneintrag
-| NR_GES = 513
+| NR_GES = 511
 | NR_ST = 1
 | OT = Kushti, Indiens uralter Kampfsport / Inde, la lutte à mains nues<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/512-kushti-indiens-uralter-kampfsport-1254457</ref><ref>https://thetvdb.com/series/272599-show/episodes/6977226</ref><ref>https://www.youtube.com/watch?v=J9JyIhycLnU</ref>
 | EA = 2019-01-05
 }}
 {{Episodenlisteneintrag
-| NR_GES = 514
+| NR_GES = 512
 | NR_ST = 2
 | OT = Georgiens himmlische Klöster / Monastères, les Trésors Cachés de la Géorgie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/513-georgiens-himmlische-kloester-1258177</ref><ref>https://thetvdb.com/series/272599-show/episodes/6982371</ref><ref>https://www.imdb.com/title/tt20190180</ref><ref>https://www.youtube.com/watch?v=FBdpBp3eRm8</ref>
 | EA = 2019-01-19
 }}
 {{Episodenlisteneintrag
-| NR_GES = 515
+| NR_GES = 513
 | NR_ST = 3
 | OT = Mexiko - Die edlen Reiterinnen / Mexique, les Cavalières de l'Escaramuza<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/514-mexiko-die-edlen-reiterinnen-1260727</ref><ref>https://thetvdb.com/series/272599-show/episodes/7010223</ref><ref>https://www.youtube.com/watch?v=XDTrO7FnzAM</ref>
 | EA = 2019-01-26
 }}
 {{Episodenlisteneintrag
-| NR_GES = 516
+| NR_GES = 514
 | NR_ST = 4
 | OT = Kroatien, Das Paradies der Trüffeljäger / Croatie, l'Autre Pays de la Truffe<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/515-kroatien-das-paradies-der-trueffeljaeger-1264723</ref><ref>https://thetvdb.com/series/272599-show/episodes/7017416</ref><ref>https://www.youtube.com/watch?v=yGvN68pp1xU</ref>
 | EA = 2019-02-09
 }}
 {{Episodenlisteneintrag
-| NR_GES = 517
+| NR_GES = 515
 | NR_ST = 5
 | OT = Arnika - Von der Kraft einer Heilpflanze / Arnica, la Reine des Vosges<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/516-arnika-von-der-kraft-einer-heilpflanze-1266625</ref><ref>https://thetvdb.com/series/272599-show/episodes/7055450</ref><ref>https://www.imdb.com/title/tt9874214</ref><ref>https://www.youtube.com/watch?v=Clpi_2hAmtA</ref>
 | EA = 2019-02-23
 }}
 {{Episodenlisteneintrag
-| NR_GES = 518
+| NR_GES = 516
 | NR_ST = 6
 | OT = Simbabwe - Leben für den Augenblick / Lueurs d'Espoir au Zimbabwe<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/517-simbabwe-leben-fuer-den-augenblick-1277291</ref><ref>https://thetvdb.com/series/272599-show/episodes/7122902</ref><ref>https://www.youtube.com/watch?v=TDnqHD4GaEM</ref>
 | EA = 2019-04-07
 }}
 {{Episodenlisteneintrag
-| NR_GES = 519
+| NR_GES = 517
 | NR_ST = 7
 | OT = Äthiopien - Heimat des Kaffees / Éthiopie, le berceau du café<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/518-aethiopien-heimat-des-kaffees-1290612</ref><ref>https://thetvdb.com/series/272599-show/episodes/7217846</ref><ref>https://www.imdb.com/title/tt16793592</ref><ref>https://www.youtube.com/watch?v=u9JhD7R2818</ref>
 | EA = 2019-06-01
 }}
 {{Episodenlisteneintrag
-| NR_GES = 520
+| NR_GES = 518
 | NR_ST = 8
 | OT = Indien, ein Himmel voller bunter Drachen / Inde, la Magie des Cerfs-Volants<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/519-indien-ein-himmel-voller-bunter-drachen-1292055</ref><ref>https://thetvdb.com/series/272599-show/episodes/7221261</ref><ref>https://www.youtube.com/watch?v=-i-Jx_dF9kY</ref>
 | EA = 2019-06-08
 }}
 {{Episodenlisteneintrag
-| NR_GES = 521
+| NR_GES = 519
 | NR_ST = 9
-| OT = Norwegen, die Rentierprinzessin<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/520-norwegen-die-rentierprinzessin-1299992</ref><ref>https://thetvdb.com/series/272599-show/episodes/7284824</ref><ref>https://www.imdb.com/title/tt20854414</ref><ref>https://www.youtube.com/watch?v=C-yvU6oUQks</ref>
+| OT = Norwegen, die Rentierprinzessin / Norvège, la princess des rennes<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/520-norwegen-die-rentierprinzessin-1299992</ref><ref>https://thetvdb.com/series/272599-show/episodes/7284824</ref><ref>https://www.imdb.com/title/tt20854414</ref><ref>https://www.youtube.com/watch?v=C-yvU6oUQks</ref>
 | EA = 2019-07-15
 }}
 {{Episodenlisteneintrag
-| NR_GES = 522
+| NR_GES = 520
 | NR_ST = 10
 | OT = Thaimassage, die Heilkunst der Buddhisten / Le Massage, une Tradition Thaïlandaise<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/521-thaimassage-die-heilkunst-der-buddhisten-1310639</ref><ref>https://thetvdb.com/series/272599-show/episodes/7334026</ref><ref>https://www.imdb.com/title/tt23851456</ref><ref>https://www.youtube.com/watch?v=RR47fu7V2iU</ref>
 | EA = 2019-08-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 523
+| NR_GES = 521
 | NR_ST = 11
 | OT = Hongkongs magisches Neonlicht / Hong Kong, la magie des néons<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/522-hongkongs-magisches-neonlicht-1314341</ref><ref>https://thetvdb.com/series/272599-show/episodes/7350925</ref><ref>https://www.imdb.com/title/tt16352144</ref><ref>https://www.youtube.com/watch?v=queiVaVuhg4</ref>
 | EA = 2019-09-07
 }}
 {{Episodenlisteneintrag
-| NR_GES = 524
+| NR_GES = 522
 | NR_ST = 12
 | OT = Tibetische Medizin - Heilkraft für die Seele / La Médecine Tibétaine, l'Art de Guérir<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/523-tibetische-medizin-heilkraft-fuer-die-seele-1319247</ref><ref>https://thetvdb.com/series/272599-show/episodes/7378725</ref><ref>https://www.imdb.com/title/tt18938838</ref><ref>https://www.youtube.com/watch?v=sXYVFfjiOw8</ref>
 | EA = 2019-09-29
 }}
 {{Episodenlisteneintrag
-| NR_GES = 525
+| NR_GES = 523
 | NR_ST = 13
 | OT = Sibirien, die Eisschneider von Jakutsk / Sibérie, les Découpeurs de Glace<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/524-sibirien-die-eisschneider-von-jakutsk-1321009</ref><ref>https://thetvdb.com/series/272599-show/episodes/7397819</ref><ref>https://www.youtube.com/watch?v=_pzMXsISUPU</ref>
 | EA = 2019-10-05
 }}
 {{Episodenlisteneintrag
-| NR_GES = 526
+| NR_GES = 524
 | NR_ST = 14
 | OT = Auf Schlangenjagd in Bangkok / Bangkok, les Chasseurs de Serpents<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/525-auf-schlangenjagd-in-bangkok-1322905</ref><ref>https://thetvdb.com/series/272599-show/episodes/7398590</ref><ref>https://www.imdb.com/title/tt23643218</ref>
 | EA = 2019-10-12
 }}
 {{Episodenlisteneintrag
-| NR_GES = 527
+| NR_GES = 525
 | NR_ST = 15
 | OT = Die blinde Primaballerina von São Paulo / La Grâce des Danseuses Aveugles de São Paulo<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/526-die-blinde-primaballerina-von-sao-paulo-1324329</ref><ref>https://thetvdb.com/series/272599-show/episodes/7412295</ref><ref>https://www.imdb.com/title/tt27123058</ref><ref>https://www.youtube.com/watch?v=NXWsLpDP-Mc</ref>
 | EA = 2019-10-19
 }}
 {{Episodenlisteneintrag
-| NR_GES = 528
+| NR_GES = 526
 | NR_ST = 16
 | OT = Slowenien, Land des Honigs / Slovénie, le royaume des abeilles<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/527-slowenien-land-des-honigs-1328522</ref><ref>https://thetvdb.com/series/272599-show/episodes/7423109</ref><ref>https://www.imdb.com/title/tt21406216</ref><ref>https://www.youtube.com/watch?v=QxhQbpP57PM</ref>
 | EA = 2019-10-26
 }}
 {{Episodenlisteneintrag
-| NR_GES = 529
+| NR_GES = 527
 | NR_ST = 17
 | OT = Japan, der Meister des Zen-Gartens / Japon, l'Art du Jardin Zen<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/528-japan-der-meister-des-zen-gartens-1328528</ref><ref>https://thetvdb.com/series/272599-show/episodes/7423122</ref><ref>https://www.youtube.com/watch?v=CA-DwIr8lA4</ref>
 | EA = 2019-10-27
 }}
 {{Episodenlisteneintrag
-| NR_GES = 530
+| NR_GES = 528
 | NR_ST = 18
 | OT = Finnland, die rasenden Schrottkisten / Fous du Volant en Laponie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/529-finnland-die-rasenden-schrottkisten-1330934</ref><ref>https://thetvdb.com/series/272599-show/episodes/7444447</ref><ref>https://www.youtube.com/watch?v=AR9cNhlECyA</ref>
 | EA = 2019-11-09
 }}
 {{Episodenlisteneintrag
-| NR_GES = 531
+| NR_GES = 529
 | NR_ST = 19
 | OT = Heilende Schwingungen der Klangschalen / Bols tibétains, la thérapie par les Sons<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/530-heilende-schwingungen-der-klangschalen-1330935</ref><ref>https://thetvdb.com/series/272599-show/episodes/7444458</ref><ref>https://www.imdb.com/title/tt22411134</ref><ref>https://www.youtube.com/watch?v=0JQRSU8Gzc0</ref>
 | EA = 2019-11-10
 }}
 {{Episodenlisteneintrag
-| NR_GES = 532
+| NR_GES = 530
 | NR_ST = 20
 | OT = Harpyien, die größten Greifvögel des Regenwaldes / La Harpie Féroce, le Plus Puissant Rapace du Monde<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/531-harpyien-die-groessten-greifvoegel-des-regenwaldes-1334458</ref><ref>https://thetvdb.com/series/272599-show/episodes/7457468</ref><ref>https://www.imdb.com/title/tt15157400</ref><ref>https://www.youtube.com/watch?v=rpnZILRBjaw</ref>
 | EA = 2019-11-23
 }}
 {{Episodenlisteneintrag
-| NR_GES = 533
+| NR_GES = 531
 | NR_ST = 21
 | OT = Island: Von strickenden Männern und Pullovern / Islande — Le Tricot, une Affaire d'Hommes<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/532-island-von-strickenden-maennern-und-pullovern-1339073</ref><ref>https://thetvdb.com/series/272599-show/episodes/7486315</ref><ref>https://www.imdb.com/title/tt18413912</ref><ref>https://www.youtube.com/watch?v=4lAHP0Q8908</ref>
 | EA = 2019-12-08
 }}
 {{Episodenlisteneintrag
-| NR_GES = 534
+| NR_GES = 532
 | NR_ST = 22
 | OT = Kentucky - Die Schlacht von Sacramento / Kentucky, la Bataille de Sacramento<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/533-kentucky-die-schlacht-von-sacramento-1339867</ref><ref>https://thetvdb.com/series/272599-show/episodes/7496325</ref><ref>https://www.youtube.com/watch?v=BM7Tyu59rrI</ref>
 | EA = 2019-12-14
 }}
 {{Episodenlisteneintrag
-| NR_GES = 535
+| NR_GES = 533
 | NR_ST = 23
-| OT = Die letzten Walfänger der Beringsee<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/534-die-letzten-walfaenger-der-beringsee-1341480</ref><ref>https://thetvdb.com/series/272599-show/episodes/7496340</ref><ref>https://www.youtube.com/watch?v=IlG92mvmCEI</ref>
+| OT = Die letzten Walfänger der Beringsee / Les derniers chasseurs de baleines du détroit de Béring<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/534-die-letzten-walfaenger-der-beringsee-1341480</ref><ref>https://thetvdb.com/series/272599-show/episodes/7496340</ref><ref>https://www.youtube.com/watch?v=IlG92mvmCEI</ref>
 | EA = 2019-12-21
 }}
 {{Episodenlisteneintrag
-| NR_GES = 536
+| NR_GES = 534
 | NR_ST = 24
 | OT = Kaviar, das schwarze Gold Italiens / Le Caviar, l'Or Noir de l'Italie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/535-kaviar-das-schwarze-gold-italiens-1341482</ref><ref>https://thetvdb.com/series/272599-show/episodes/7496351</ref><ref>https://www.imdb.com/title/tt16675680</ref><ref>https://www.youtube.com/watch?v=Opg00LWco4s</ref>
 | EA = 2019-12-22
-}}
-{{Episodenlisteneintrag
-| NR_GES = 537
-| NR_ST = 25
-| OT = Esmeraldas Edelkakao<ref>https://thetvdb.com/series/272599-show/episodes/7517098</ref><ref>https://www.imdb.com/title/tt2215720</ref><ref>https://www.youtube.com/watch?v=IMVYBpL-z4E</ref>
-| EA = 2019-12-29
 }}
 }}
 
@@ -3440,115 +3422,115 @@
 | DREHBUCH = nein
 | INHALT =
 {{Episodenlisteneintrag
-| NR_GES = 538
+| NR_GES = 535
 | NR_ST = 1
 | OT = Die Vespa-Rebellen in Indonesien / Indonésie, la Passion des Deux-Roues Trafiqués<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/536-die-vespa-rebellen-in-indonesien-1344883</ref><ref>https://thetvdb.com/series/272599-show/episodes/7517155</ref><ref>https://www.youtube.com/watch?v=T882pntN-Jo</ref>
 | EA = 2020-01-05
 }}
 {{Episodenlisteneintrag
-| NR_GES = 539
+| NR_GES = 536
 | NR_ST = 2
 | OT = Costa Rica, das größte Hundeheim der Welt / Au Costa Rica, un Paradis Pour les Chiens Abandonnés<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/537-costa-rica-das-groesste-hundeheim-der-welt-1346786</ref><ref>https://thetvdb.com/series/272599-show/episodes/7542877</ref><ref>https://www.youtube.com/watch?v=5N1mFKBBFLg</ref>
 | EA = 2020-01-12
 }}
 {{Episodenlisteneintrag
-| NR_GES = 540
+| NR_GES = 537
 | NR_ST = 3
 | OT = Die Herren des Lavendels / Les Seigneurs de le Lavande<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/538-die-herren-des-lavendels-1348630</ref><ref>https://thetvdb.com/series/272599-show/episodes/7557995</ref><ref>https://www.imdb.com/title/tt11854728</ref><ref>https://www.youtube.com/watch?v=KEOwqcBWE2s</ref>
 | EA = 2020-01-26
 }}
 {{Episodenlisteneintrag
-| NR_GES = 541
+| NR_GES = 538
 | NR_ST = 4
 | OT = Die Zedernuss, die Königin der Taiga / Les Pignons de Cèdre, l'Or de la Taïga<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/539-die-zedernuss-die-koenigin-der-taiga-1352887</ref><ref>https://thetvdb.com/series/272599-show/episodes/7581810</ref><ref>https://www.imdb.com/title/tt21203618</ref><ref>https://www.youtube.com/watch?v=0kvHCK0011o</ref>
 | EA = 2020-02-09
 }}
 {{Episodenlisteneintrag
-| NR_GES = 542
+| NR_GES = 539
 | NR_ST = 5
 | OT = Die Ostsee, Sehnsuchtsort der Kraniche / Mer Baltique, Voyage au Pays des Grues Cendrées<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/540-die-ostsee-sehnsuchtsort-der-kraniche-1352888</ref><ref>https://thetvdb.com/series/272599-show/episodes/7594851</ref><ref>https://www.imdb.com/title/tt21243234</ref><ref>https://www.youtube.com/watch?v=p-f4YVXnycM</ref>
 | EA = 2020-02-16
 }}
 {{Episodenlisteneintrag
-| NR_GES = 543
+| NR_GES = 540
 | NR_ST = 6
 | OT = Kapverden: Zwei Hunde als Schildkrötenretter / Cap-Vert, les Chiens au Secours des Tortues<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/541-kapverden-zwei-hunde-als-schildkroetenretter-1353321</ref><ref>https://thetvdb.com/series/272599-show/episodes/7619012</ref><ref>https://www.imdb.com/title/tt27123062</ref>
 | EA = 2020-02-23
 }}
 {{Episodenlisteneintrag
-| NR_GES = 544
+| NR_GES = 541
 | NR_ST = 7
 | OT = Die Schwestern der Erde / Grèce, les Petites Sœurs de la Terre<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/542-die-schwestern-der-erde-1355292</ref><ref>https://thetvdb.com/series/272599-show/episodes/7619535</ref><ref>https://www.imdb.com/title/tt14388672</ref><ref>https://www.youtube.com/watch?v=nfNQ5wCTWlQ</ref>
 | EA = 2020-03-01
 }}
 {{Episodenlisteneintrag
-| NR_GES = 545
+| NR_GES = 542
 | NR_ST = 8
 | OT = Argentinien, von wilden Pferden und sanfter Hand / Oscar ou l'Art d'Apprivoiser les Chevaux<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/543-argentinien-von-wilden-pferden-und-sanfter-hand-1357300</ref><ref>https://thetvdb.com/series/272599-show/episodes/7624143</ref><ref>https://www.imdb.com/title/tt14706520</ref><ref>https://www.youtube.com/watch?v=UTT1hwyKwrw</ref>
 | EA = 2020-03-08
 }}
 {{Episodenlisteneintrag
-| NR_GES = 546
+| NR_GES = 543
 | NR_ST = 9
 | OT = Indiens Kurkuma - Heilsam und heilig / Curcuma, une épice en or<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/544-indiens-kurkuma-heilsam-und-heilig-1381765</ref><ref>https://thetvdb.com/series/272599-show/episodes/7793491</ref><ref>https://www.youtube.com/watch?v=Qx7wwbJDDdE</ref>
 | EA = 2020-06-14
 }}
 {{Episodenlisteneintrag
-| NR_GES = 547
+| NR_GES = 544
 | NR_ST = 10
 | OT = Huskys, am Start! / Huskies, top départ!<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/545-huskys-am-start-1384225</ref><ref>https://thetvdb.com/series/272599-show/episodes/7818444</ref><ref>https://www.imdb.com/title/tt17077618</ref><ref>https://www.youtube.com/watch?v=3XyG82_dG-0</ref>
 | EA = 2020-06-28
 }}
 {{Episodenlisteneintrag
-| NR_GES = 548
+| NR_GES = 545
 | NR_ST = 11
 | OT = Schignano, ein uralter Karneval in Italiens Bergen / Le carnaval de Schignano étrange et archaïque<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/546-schignano-ein-uralter-karneval-in-italiens-bergen-1388813</ref><ref>https://thetvdb.com/series/272599-show/episodes/7859337</ref><ref>https://www.imdb.com/title/tt18291258</ref><ref>https://www.youtube.com/watch?v=UBhl_XT1ixY</ref>
 | EA = 2020-07-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 549
+| NR_GES = 546
 | NR_ST = 12
 | OT = Ring frei für Sambias Boxerinnen! / Zambie, les championnes du ring<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/547-ring-frei-fuer-sambias-boxerinnen-1397612</ref><ref>https://thetvdb.com/series/272599-show/episodes/7890793</ref><ref>https://www.youtube.com/watch?v=MmBs2InkDl0</ref>
 | EA = 2020-08-16
 }}
 {{Episodenlisteneintrag
-| NR_GES = 550
+| NR_GES = 547
 | NR_ST = 13
 | OT = Singvögel - Die goldenen Stimmen von Singapur / Singapour, quand les oiseaux chantent<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/548-singvoegel-die-goldenen-stimmen-von-singapur-1404279</ref><ref>https://thetvdb.com/series/272599-show/episodes/7933483</ref><ref>https://www.youtube.com/watch?v=nqHruOs-dqE</ref>
 | EA = 2020-09-13
 }}
 {{Episodenlisteneintrag
-| NR_GES = 551
+| NR_GES = 548
 | NR_ST = 14
 | OT = Italiens Kapern - Der Geschmack des Südens / Les câpres de sicile, la saveur de la méditerranée<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/549-italiens-kapern-der-geschmack-des-suedens-1414438</ref><ref>https://thetvdb.com/series/272599-show/episodes/8023022</ref><ref>https://www.imdb.com/title/tt21801660</ref><ref>https://www.youtube.com/watch?v=wriortwg56E</ref>
 | EA = 2020-10-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 552
+| NR_GES = 549
 | NR_ST = 15
 | OT = Der letzte Rheinfischer / Le dernier pêcheur du rhin<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/550-der-letzte-rheinfischer-1420915</ref><ref>https://thetvdb.com/series/272599-show/episodes/8076150</ref><ref>https://www.imdb.com/title/tt21139796</ref><ref>https://www.youtube.com/watch?v=1JPQTQtsjyA</ref>
 | EA = 2020-11-22
 }}
 {{Episodenlisteneintrag
-| NR_GES = 553
+| NR_GES = 550
 | NR_ST = 16
 | OT = Mit Volldampf durch Kärnten / En autriche avec des mordus du rail<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/551-mit-volldampf-durch-kaernten-1422151</ref><ref>https://thetvdb.com/series/272599-show/episodes/8122019</ref><ref>https://www.imdb.com/title/tt14188714</ref><ref>https://www.youtube.com/watch?v=0HrxXJsDky4</ref>
 | EA = 2020-11-29
 }}
 {{Episodenlisteneintrag
-| NR_GES = 554
+| NR_GES = 551
 | NR_ST = 17
 | OT = Das Elsass, Heimat der Störche / L'Alsace, terre de cigognes<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/552-das-elsass-heimat-der-stoerche-1426023</ref><ref>https://thetvdb.com/series/272599-show/episodes/8092659</ref><ref>https://www.imdb.com/title/tt13616848</ref><ref>https://www.youtube.com/watch?v=BZaILC2jnoM</ref>
 | EA = 2020-12-06
 }}
 {{Episodenlisteneintrag
-| NR_GES = 555
+| NR_GES = 552
 | NR_ST = 18
 | OT = Lichterglanz im Norden - Winter in Stockholm und den Schären / Les lumières scandinaves : un hiver autour de Stockholm<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/553-lichterglanz-im-norden-winter-in-stockholm-und-in-den-schaeren-1427055</ref><ref>https://thetvdb.com/series/272599-show/episodes/8103945</ref><ref>https://www.imdb.com/title/tt13814040</ref><ref>https://www.youtube.com/watch?v=uE8XcPEKQIo</ref>
 | EA = 2020-12-13
 }}
 {{Episodenlisteneintrag
-| NR_GES = 556
+| NR_GES = 553
 | NR_ST = 19
 | OT = Chartres, die Farben des Himmels / Chartres, l'art du vitrail<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/554-chartres-die-farben-des-himmels-1429102</ref><ref>https://thetvdb.com/series/272599-show/episodes/8112897</ref><ref>https://www.imdb.com/title/tt15105296</ref><ref>https://www.youtube.com/watch?v=qPLtZngzS10</ref>
 | EA = 2020-12-20
@@ -3564,145 +3546,145 @@
 | DREHBUCH = nein
 | INHALT =
 {{Episodenlisteneintrag
-| NR_GES = 557
+| NR_GES = 554
 | NR_ST = 1
 | OT = Bretagne, die raue Schönheit / La Bretagne entre terre et mer<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/555-bretagne-die-raue-schoenheit-1434440</ref><ref>https://thetvdb.com/series/272599-show/episodes/8131737</ref><ref>https://www.imdb.com/title/tt16316762</ref><ref>https://www.youtube.com/watch?v=o6cVARiIZGA</ref>
 | EA = 2021-01-03
 }}
 {{Episodenlisteneintrag
-| NR_GES = 558
+| NR_GES = 555
 | NR_ST = 2
 | OT = Pelota, die baskische Leidenschaft / Pays basque, l'âme en Pelote<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/556-pelota-die-baskische-leidenschaft-1436236</ref><ref>https://thetvdb.com/series/272599-show/episodes/8145486</ref><ref>https://www.imdb.com/title/tt18413904</ref><ref>https://www.youtube.com/watch?v=pDf_DqGQAJU</ref>
 | EA = 2021-01-10
 }}
 {{Episodenlisteneintrag
-| NR_GES = 559
+| NR_GES = 556
 | NR_ST = 3
 | OT = Estland und das kleine Königreich der Seto / En estonie, le petit royaume de setomaa<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/557-estland-und-das-kleine-koenigreich-der-seto-1440392</ref><ref>https://thetvdb.com/series/272599-show/episodes/8209429</ref><ref>https://www.youtube.com/watch?v=zgv8oZfn-Sk</ref>
 | EA = 2021-01-31
 }}
 {{Episodenlisteneintrag
-| NR_GES = 560
+| NR_GES = 557
 | NR_ST = 4
 | OT = Puerto Rico: Ein Krankenhaus für Seekühe / Porto Rico - Un hôpital pour les lamantins<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/558-puerto-rico-ein-krankenhaus-fuer-seekuehe-1442086</ref><ref>https://thetvdb.com/series/272599-show/episodes/8209430</ref><ref>https://www.youtube.com/watch?v=B2ODRBt1BTI</ref>
 | EA = 2021-02-07
 }}
 {{Episodenlisteneintrag
-| NR_GES = 561
+| NR_GES = 558
 | NR_ST = 5
 | OT = Dem Wolf auf der Spur - Schnüffeln für den Artenschutz / Des chiens sur la piste des loups<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/559-dem-wolf-auf-der-spur-schnueffeln-fuer-den-artenschutz-1442841</ref><ref>https://thetvdb.com/series/272599-show/episodes/8228076</ref><ref>https://www.imdb.com/title/tt14056190</ref><ref>https://www.youtube.com/watch?v=8zqR15KTGN4</ref>
 | EA = 2021-02-14
 }}
 {{Episodenlisteneintrag
-| NR_GES = 562
+| NR_GES = 559
 | NR_ST = 6
 | OT = Die Eifel und ihre Eulen-Hüter / Sauver les hiboux, c'est chouette<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/560-die-eifel-und-ihre-eulen-hueter-1443627</ref><ref>https://thetvdb.com/series/272599-show/episodes/8230361</ref><ref>https://www.imdb.com/title/tt21073780</ref><ref>https://www.youtube.com/watch?v=DGL9tZwu9z4</ref>
 | EA = 2021-02-21
 }}
 {{Episodenlisteneintrag
-| NR_GES = 563
+| NR_GES = 560
 | NR_ST = 7
 | OT = Percheron, das Kraftpaket mit einer Pferdestärke / Percheron, le retour du cheval de trait<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/561-percheron-das-kraftpaket-mit-einer-pferdestaerke-1444769</ref><ref>https://thetvdb.com/series/272599-show/episodes/8270994</ref><ref>https://www.imdb.com/title/tt14143482</ref><ref>https://www.youtube.com/watch?v=fr7QjYkoqf0</ref>
 | EA = 2021-02-28
 }}
 {{Episodenlisteneintrag
-| NR_GES = 564
+| NR_GES = 561
 | NR_ST = 8
 | OT = Kalkstein - Das weiße Gold von Brač / Croatie, les trailleurs de pierre de Brač<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/562-kalkstein-das-weisse-gold-von-brac-1446848</ref><ref>https://thetvdb.com/series/272599-show/episodes/8271000</ref><ref>https://www.youtube.com/watch?v=sx5ieaeHnUs</ref>
 | EA = 2021-03-07
 }}
 {{Episodenlisteneintrag
-| NR_GES = 565
+| NR_GES = 562
 | NR_ST = 9
 | OT = Hamburg - Welthafen mit schwimmender Kirche / Port d'Hambourg, un bateau-église insolite<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/563-hamburg-welthafen-mit-schwimmender-kirche-1449045</ref><ref>https://thetvdb.com/series/272599-show/episodes/8285562</ref><ref>https://www.imdb.com/title/tt14429944</ref><ref>https://www.youtube.com/watch?v=p43Ug9kO7WQ</ref>
 | EA = 2021-03-14
 }}
 {{Episodenlisteneintrag
-| NR_GES = 566
+| NR_GES = 563
 | NR_ST = 10
 | OT = Tradition am Steilhang - Die Schweiz und ihre Wildheuer / La fenaison en montagne, une tradition Suisse<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/564-tradition-am-steilhang-die-schweiz-und-ihre-wildheuer-1451154</ref><ref>https://thetvdb.com/series/272599-show/episodes/8320384</ref><ref>https://www.imdb.com/title/tt14434674</ref><ref>https://www.youtube.com/watch?v=FsESCsAehtk</ref>
 | EA = 2021-03-21
 }}
 {{Episodenlisteneintrag
-| NR_GES = 567
+| NR_GES = 564
 | NR_ST = 11
 | OT = Biber, die Baumeister an der Elbe / La revanche du castor<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/565-biber-die-baumeister-an-der-elbe-1453165</ref><ref>https://thetvdb.com/series/272599-show/episodes/8320385</ref><ref>https://www.imdb.com/title/tt14338900</ref><ref>https://www.youtube.com/watch?v=X8fy7jZl_rE</ref>
 | EA = 2021-03-28
 }}
 {{Episodenlisteneintrag
-| NR_GES = 568
+| NR_GES = 565
 | NR_ST = 12
 | OT = Pelikane, die Könige des Donaudeltas / Le delta du danube, dernier refuge des pélicans<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/566-pelikane-die-koenige-des-donaudeltas-1456045</ref><ref>https://thetvdb.com/series/272599-show/episodes/8355928</ref><ref>https://www.imdb.com/title/tt14434664</ref><ref>https://www.youtube.com/watch?v=ZgBcESvfvYA</ref>
 | EA = 2021-04-04
 }}
 {{Episodenlisteneintrag
-| NR_GES = 569
+| NR_GES = 566
 | NR_ST = 13
 | OT = Frankreichs Winzer - Tradition trifft Passion / Le renouveau du vignoble français<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/567-frankreichs-winzer-tradition-trifft-passion-1457511</ref><ref>https://thetvdb.com/series/272599-show/episodes/8375958</ref><ref>https://www.imdb.com/title/tt14477970</ref><ref>https://www.youtube.com/watch?v=pQaBkRIgRk0</ref>
 | EA = 2021-04-18
 }}
 {{Episodenlisteneintrag
-| NR_GES = 570
+| NR_GES = 567
 | NR_ST = 14
 | OT = Notruf Nordseeküste - Die Robben-Retter / Mer du Nord, sauvons les bébés phoques<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/568-notruf-nordseekueste-die-robben-retter-1459069</ref><ref>https://thetvdb.com/series/272599-show/episodes/8375959</ref><ref>https://www.youtube.com/watch?v=ltSG2rftqu8</ref>
 | EA = 2021-04-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 571
+| NR_GES = 568
 | NR_ST = 15
 | OT = Australien - Wenn Kunst auf Silos trifft / Australie, le street art s'invite sur les silos<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/569-australien-wenn-kunst-auf-silos-trifft-1462468</ref><ref>https://thetvdb.com/series/272599-show/episodes/8375960</ref><ref>https://www.youtube.com/watch?v=G8JDOqwLGog</ref>
 | EA = 2021-05-09
 }}
 {{Episodenlisteneintrag
-| NR_GES = 572
+| NR_GES = 569
 | NR_ST = 16
 | OT = Der Wüstenzug - die Lebensader Mauretaniens / Mauritanie, le train du désert<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/570-der-wuestenzug-die-lebensader-mauretaniens-1489640</ref><ref>https://thetvdb.com/series/272599-show/episodes/8634489</ref><ref>https://www.youtube.com/watch?v=k9jFka2IecU</ref>
 | EA = 2021-08-28
 }}
 {{Episodenlisteneintrag
-| NR_GES = 573
+| NR_GES = 570
 | NR_ST = 17
 | OT = Escobars Erbe - Kolumbiens Kokain-Hippos / Les hippopotames de Pablo Escobar<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/571-escobars-erbe-kolumbiens-kokain-hippos-1491102</ref><ref>https://thetvdb.com/series/272599-show/episodes/8634490</ref><ref>https://www.imdb.com/title/tt15529088</ref><ref>https://www.youtube.com/watch?v=T8zWiccuv0w</ref>
 | EA = 2021-09-04
 }}
 {{Episodenlisteneintrag
-| NR_GES = 574
+| NR_GES = 571
 | NR_ST = 18
 | OT = Die heilenden Delfine von Curaçao / Curaçao, des dauphins thérapeutes<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/572-die-heilenden-delfine-von-curacao-1492740</ref><ref>https://thetvdb.com/series/272599-show/episodes/8634491</ref><ref>https://www.imdb.com/title/tt15529128</ref><ref>https://www.youtube.com/watch?v=wc4y3QIarAU</ref>
 | EA = 2021-09-11
 }}
 {{Episodenlisteneintrag
-| NR_GES = 575
+| NR_GES = 572
 | NR_ST = 19
 | OT = Der Traum vom Gold - Tirols Überfliegerinnen / Le saut à ski féminin prend son envol<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/573-der-traum-vom-gold-tirols-ueberfliegerinnen-1494060</ref><ref>https://thetvdb.com/series/272599-show/episodes/8692435</ref><ref>https://www.imdb.com/title/tt15455872</ref><ref>https://www.youtube.com/watch?v=9z8Eer2KngU</ref>
 | EA = 2021-09-11
 }}
 {{Episodenlisteneintrag
-| NR_GES = 576
+| NR_GES = 573
 | NR_ST = 20
 | OT = Schweiz: Gletscherflieger - Faszination in Weiß / Suisse, en vol avec des pilotes des glaciers<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/574-schweiz-gletscherflieger-faszination-in-weiss-1495977</ref><ref>https://thetvdb.com/series/272599-show/episodes/8692436</ref><ref>https://www.imdb.com/title/tt16590496</ref><ref>https://www.youtube.com/watch?v=jEZT_6_qloo</ref>
 | EA = 2021-09-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 577
+| NR_GES = 574
 | NR_ST = 21
 | OT = Koh Panyee - Thailands fußballverrückte Insel / Thaïlande, un terrain de football insolite<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/575-koh-panyee-thailands-fussballverrueckte-insel-1497505</ref><ref>https://thetvdb.com/series/272599-show/episodes/8692437</ref><ref>https://www.imdb.com/title/tt15535426</ref><ref>https://www.youtube.com/watch?v=RC_j7QQ1r5U</ref>
 | EA = 2021-10-02
 }}
 {{Episodenlisteneintrag
-| NR_GES = 578
+| NR_GES = 575
 | NR_ST = 22
 | OT = Stromboli - Zwischen Feuer und Meer / Stromboli, terre de feu<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/576-stromboli-zwischen-feuer-und-meer-1499263</ref><ref>https://thetvdb.com/series/272599-show/episodes/8692438</ref><ref>https://www.imdb.com/title/tt15610994</ref><ref>https://www.youtube.com/watch?v=_z29qS0mTjY</ref>
 | EA = 2021-10-09
 }}
 {{Episodenlisteneintrag
-| NR_GES = 579
+| NR_GES = 576
 | NR_ST = 23
 | OT = Italien - Die Igel-Retter aus dem Piemont / Italie, un refuge pour hérissons<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/577-italien-die-igel-retter-aus-dem-piemont-1501091</ref><ref>https://thetvdb.com/series/272599-show/episodes/8788087</ref><ref>https://www.imdb.com/title/tt17043702</ref><ref>https://www.youtube.com/watch?v=FN8ybVCWbVw</ref>
 | EA = 2021-10-16
 }}
 {{Episodenlisteneintrag
-| NR_GES = 580
+| NR_GES = 577
 | NR_ST = 24
 | OT = Dolomiten: Die Bergführer von San Martino / Dolomites, la passion de l'alpinisme<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/578-dolomiten-die-bergfuehrer-von-san-martino-1508252</ref><ref>https://thetvdb.com/series/272599-show/episodes/8814843</ref><ref>https://www.imdb.com/title/tt15746990</ref><ref>https://www.youtube.com/watch?v=rqDUm-WpZJ0</ref>
 | EA = 2021-10-30
@@ -3718,181 +3700,181 @@
 | DREHBUCH = nein
 | INHALT =
 {{Episodenlisteneintrag
-| NR_GES = 581
+| NR_GES = 578
 | NR_ST = 1
 | OT = Die Lowrider-Ladies von L.A. / Los Angeles, les reines du lowriding<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/579-die-lowrider-ladies-von-la-1523102</ref><ref>https://thetvdb.com/series/272599-show/episodes/8949820</ref><ref>https://www.youtube.com/watch?v=3ql7jtqylzU</ref>
 | EA = 2022-01-08
 }}
 {{Episodenlisteneintrag
-| NR_GES = 582
+| NR_GES = 579
 | NR_ST = 2
 | OT = Tapire - Die Dschungel-Gärtner / Le tapir, jardinier des forêts tropicales<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/580-tapire-die-dschungel-gaertner-1526120</ref><ref>https://thetvdb.com/series/272599-show/episodes/8949821</ref><ref>https://www.youtube.com/watch?v=bQXxzQjmPvo</ref>
 | EA = 2022-01-15
 }}
 {{Episodenlisteneintrag
-| NR_GES = 583
+| NR_GES = 580
 | NR_ST = 3
 | OT = Faszination Elbrus - Der Ritt zum Gipfel / Caucase, chevauchèe vers le mont elbrouz<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/581-faszination-elbrus-der-ritt-zum-gipfel-1526526</ref><ref>https://thetvdb.com/series/272599-show/episodes/8949822</ref><ref>https://www.youtube.com/watch?v=FgNR3JW-QbE</ref>
 | EA = 2022-01-22
 }}
 {{Episodenlisteneintrag
-| NR_GES = 584
+| NR_GES = 581
 | NR_ST = 4
 | OT = Namibias Geparden - Hoffnung für die Raubkatzen / Namibie, l'espoir renait pour les guépards<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/582-namibias-geparden-hoffnung-fuer-die-raubkatzen-1528457</ref><ref>https://thetvdb.com/series/272599-show/episodes/8949823</ref><ref>https://www.youtube.com/watch?v=s9UPirsiFbA</ref>
 | EA = 2022-01-29
 }}
 {{Episodenlisteneintrag
-| NR_GES = 585
+| NR_GES = 582
 | NR_ST = 5
 | OT = Haute Couture - Federn, Falten, Seidenblumen<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/583-haute-couture-federn-falten-seidenblumen-1531089</ref><ref>https://thetvdb.com/series/272599-show/episodes/8949824</ref><ref>https://www.imdb.com/title/tt18228046</ref><ref>https://www.youtube.com/watch?v=2MTSdkn22a4</ref>
 | EA = 2022-02-05
 }}
 {{Episodenlisteneintrag
-| NR_GES = 586
+| NR_GES = 583
 | NR_ST = 6
 | OT = Die Odyssee der Mönchsrobbe / L'Odyssèe du phoque moine<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/584-die-odyssee-der-moenchsrobbe-1531389</ref><ref>https://thetvdb.com/series/272599-show/episodes/8949825</ref><ref>https://www.imdb.com/title/tt18279912</ref><ref>https://www.youtube.com/watch?v=IrOfUxc812k</ref>
 | EA = 2022-02-19
 }}
 {{Episodenlisteneintrag
-| NR_GES = 587
+| NR_GES = 584
 | NR_ST = 7
 | OT = Elsass - Land der Orgeln / Alsace, terre d'orgues<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/585-elsass-land-der-orgeln-1533617</ref><ref>https://thetvdb.com/series/272599-show/episodes/8949826</ref><ref>https://www.imdb.com/title/tt18335884</ref><ref>https://www.youtube.com/watch?v=Ef81fAqnuJs</ref>
 | EA = 2022-02-26
 }}
 {{Episodenlisteneintrag
-| NR_GES = 588
+| NR_GES = 585
 | NR_ST = 8
 | OT = Wilde Waterkant - Nordfriesland und seine Gänse / Mer du nord, le retour des oies sauvages<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/586-wilde-waterkant-nordfriesland-und-seine-gaense-1537573</ref><ref>https://thetvdb.com/series/272599-show/episodes/8993022</ref><ref>https://www.imdb.com/title/tt18603248</ref><ref>https://www.youtube.com/watch?v=p33T3S0tqBA</ref>
 | EA = 2022-03-12
 }}
 {{Episodenlisteneintrag
-| NR_GES = 589
+| NR_GES = 586
 | NR_ST = 9
 | OT = Die Puppen tanzen! - Litauens rollendes Theater / Lituanie, l'art des marionnettes<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/587-die-puppen-tanzen-litauens-rollendes-theater-1540410</ref><ref>https://thetvdb.com/series/272599-show/episodes/9075607</ref><ref>https://www.imdb.com/title/tt22300542</ref><ref>https://www.youtube.com/watch?v=axKuA1qBWGQ</ref>
 | EA = 2022-03-26
 }}
 {{Episodenlisteneintrag
-| NR_GES = 590
+| NR_GES = 587
 | NR_ST = 10
 | OT = Südkorea - die Nonne der Tempelküche / Temple Food, l’âme de la cuisine coréenne<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/588-suedkorea-die-nonne-der-tempelkueche-1557485</ref><ref>https://thetvdb.com/series/272599-show/episodes/9158123</ref><ref>https://www.youtube.com/watch?v=if6OhSEjkxM</ref>
 | EA = 2022-05-07
 }}
 {{Episodenlisteneintrag
-| NR_GES = 591
+| NR_GES = 588
 | NR_ST = 11
 | OT = Schwerelos im Windkanal / Portès par le vent, le vol en soufflerie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/589-schwerelos-im-windkanal-1551765</ref><ref>https://thetvdb.com/series/272599-show/episodes/9158124</ref><ref>https://www.imdb.com/title/tt20231988</ref><ref>https://www.youtube.com/watch?v=jp5BDv9KCzY</ref>
 | EA = 2022-05-14
 }}
 {{Episodenlisteneintrag
-| NR_GES = 592
+| NR_GES = 589
 | NR_ST = 12
 | OT = Frankreichs Gärten - Die kleinen Schätze / Le trèsor du jardinier<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/590-frankreichs-gaerten-die-kleinen-schaetze-1553064</ref><ref>https://thetvdb.com/series/272599-show/episodes/9158125</ref><ref>https://www.imdb.com/title/tt20190184</ref><ref>https://www.youtube.com/watch?v=6eWUfGWASTA</ref>
 | EA = 2022-05-21
 }}
 {{Episodenlisteneintrag
-| NR_GES = 593
+| NR_GES = 590
 | NR_ST = 13
 | OT = Europas Urwälder - Ein Schatz der Natur / Forêts primaires, le poumon vert de l'europe<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/591-europas-urwaelder-ein-schatz-der-natur-1556566</ref><ref>https://thetvdb.com/series/272599-show/episodes/9158126</ref><ref>https://www.imdb.com/title/tt20854434</ref><ref>https://www.youtube.com/watch?v=JXN5lNsTZCI</ref>
 | EA = 2022-06-04
 }}
 {{Episodenlisteneintrag
-| NR_GES = 594
+| NR_GES = 591
 | NR_ST = 14
 | OT = Panzer, Wölfe, Rothirsche - Bayerns wilder Übungsplatz / Loups et cerfs à l'ombre des blindès<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/592-panzer-woelfe-rothirsche-bayerns-wilder-uebungsplatz-1559229</ref><ref>https://thetvdb.com/series/272599-show/episodes/9158127</ref><ref>https://www.imdb.com/title/tt21030816</ref><ref>https://www.youtube.com/watch?v=kyrHUKDiyck</ref>
 | EA = 2022-06-11
 }}
 {{Episodenlisteneintrag
-| NR_GES = 595
+| NR_GES = 592
 | NR_ST = 15
 | OT = Kastiliens Kämpfer - Ritterspiele an der Burg Belmonte / Le béhourd, l'art du combat médiéval<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/593-kastiliens-kaempfer-ritterspiele-an-der-burg-belmonte-1560073</ref><ref>https://thetvdb.com/series/272599-show/episodes/9158128</ref><ref>https://www.imdb.com/title/tt21073772</ref><ref>https://www.youtube.com/watch?v=wZgpqRaV7Ik</ref>
 | EA = 2022-06-18
 }}
 {{Episodenlisteneintrag
-| NR_GES = 596
+| NR_GES = 593
 | NR_ST = 16
 | OT = Nopal, der Alleskönner aus Mexiko / Cactus, l'or vert du mexique<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/594-nopal-der-alleskoenner-aus-mexiko-1564718</ref><ref>https://thetvdb.com/series/272599-show/episodes/9254698</ref><ref>https://www.imdb.com/title/tt21203634</ref><ref>https://www.youtube.com/watch?v=MkXx_8rac_M</ref>
 | EA = 2022-06-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 597
+| NR_GES = 594
 | NR_ST = 17
 | OT = Tempo und Leidenschaft - Argentiniens Polo-Spielerinnen / Argentine, le polo au féminin<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/595-tempo-und-leidenschaft-argentiniens-polo-spielerinnen-1570263</ref><ref>https://thetvdb.com/series/272599-show/episodes/9254699</ref><ref>https://www.imdb.com/title/tt21243244</ref><ref>https://www.youtube.com/watch?v=Y-eQibAkbmo</ref>
 | EA = 2022-07-02
 }}
 {{Episodenlisteneintrag
-| NR_GES = 598
+| NR_GES = 595
 | NR_ST = 18
 | OT = Kourou: Palmen, Raketen, Gefängnisinseln / Kourou, des bagnes et des fusées<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/596-kourou-palmen-raketen-gefaengnisinseln-1567103</ref><ref>https://thetvdb.com/series/272599-show/episodes/9254700</ref><ref>https://www.imdb.com/title/tt21294972</ref><ref>https://www.youtube.com/watch?v=LckZ2_Lw88E</ref>
 | EA = 2022-07-09
 }}
 {{Episodenlisteneintrag
-| NR_GES = 599
+| NR_GES = 596
 | NR_ST = 19
 | OT = Las Fallas - Valencias feurige Fiesta / Las fallas de Valencia, l’insolence à l’honneur<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/597-las-fallas-valencias-feurige-fiesta-1569286</ref><ref>https://thetvdb.com/series/272599-show/episodes/9254701</ref><ref>https://www.imdb.com/title/tt21352210</ref><ref>https://www.youtube.com/watch?v=ug2XFpN43CU</ref>
 | EA = 2022-07-16
 }}
 {{Episodenlisteneintrag
-| NR_GES = 600
+| NR_GES = 597
 | NR_ST = 20
 | OT = Das Gerichtsschiff vom Amazonas / Le tribunal flottant de l'amazone<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/598-das-gerichtsschiff-vom-amazonas-1579010</ref><ref>https://thetvdb.com/series/272599-show/episodes/9254702</ref><ref>https://www.imdb.com/title/tt22023194</ref>
 | EA = 2022-08-06
 }}
 {{Episodenlisteneintrag
-| NR_GES = 601
+| NR_GES = 598
 | NR_ST = 21
 | OT = Indien - Kampf den Scharlatanen / Inde, vaincre les gourous<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/599-der-science-van-on-tour-indien-kampf-den-scharlatanen-1581860</ref><ref>https://thetvdb.com/series/272599-show/episodes/9352688</ref><ref>https://www.youtube.com/watch?v=-Clpkb3JdkI</ref>
 | EA = 2022-09-17
 }}
 {{Episodenlisteneintrag
-| NR_GES = 602
+| NR_GES = 599
 | NR_ST = 22
 | OT = Ahornsirup - Kanadas süßer Schatz / Canada, le pays du sirop d'erable<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/600-ahornsirup-kanadas-suesser-schatz-1583564</ref><ref>https://thetvdb.com/series/272599-show/episodes/9352689</ref><ref>https://www.imdb.com/title/tt22299618</ref><ref>https://www.youtube.com/watch?v=HlFRnPw6Y04</ref>
 | EA = 2022-09-24
 }}
 {{Episodenlisteneintrag
-| NR_GES = 603
+| NR_GES = 600
 | NR_ST = 23
 | OT = Estland - Krötenretter im Einsatz / Estonie, au secours des grenouilles<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/601-estland-kroetenretter-im-einsatz-1586757</ref><ref>https://thetvdb.com/series/272599-show/episodes/9352690</ref><ref>https://www.imdb.com/title/tt22805294</ref><ref>https://www.youtube.com/watch?v=xzfFqvblS34</ref>
 | EA = 2022-10-01
 }}
 {{Episodenlisteneintrag
-| NR_GES = 604
+| NR_GES = 601
 | NR_ST = 24
 | OT = Sardiniens wertvolle Muschelseide / La soie de mer, trésor de Sardaigne<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/602-sardiniens-wertvolle-muschelseide-1590045</ref><ref>https://thetvdb.com/series/272599-show/episodes/9352691</ref><ref>https://www.imdb.com/title/tt23159150</ref>
 | EA = 2022-10-29
 }}
 {{Episodenlisteneintrag
-| NR_GES = 605
+| NR_GES = 602
 | NR_ST = 25
 | OT = Cordoba, die Stadt der Patios / Cordoue et ses patios fleuris<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/603-cordoba-die-stadt-der-patios-1602011</ref><ref>https://thetvdb.com/series/272599-show/episodes/9524022</ref><ref>https://www.imdb.com/title/tt23368470</ref><ref>https://www.youtube.com/watch?v=XrEtMdxF76c</ref>
 | EA = 2022-11-05
 }}
 {{Episodenlisteneintrag
-| NR_GES = 606
+| NR_GES = 603
 | NR_ST = 26
 | OT = Marquesas-Inseln, das Comeback der Tattoos / Îles Marquises, le tatouage dans la peau<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/604-marquesas-inseln-das-comeback-der-tattoos-1596812</ref><ref>https://thetvdb.com/series/272599-show/episodes/9524023</ref><ref>https://www.imdb.com/title/tt23747588</ref>
 | EA = 2022-11-19
 }}
 {{Episodenlisteneintrag
-| NR_GES = 607
+| NR_GES = 604
 | NR_ST = 27
 | OT = Die Schweizergarde - Ein Leben für den Papst / Vatican, en coulisse avec les Gardes suisses<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/605-die-schweizergarde-ein-leben-fuer-den-papst-1602010</ref><ref>https://thetvdb.com/series/272599-show/episodes/9524024</ref><ref>https://www.imdb.com/title/tt23985080</ref>
 | EA = 2022-12-03
 }}
 {{Episodenlisteneintrag
-| NR_GES = 608
+| NR_GES = 605
 | NR_ST = 28
 | OT = Island, die wertvollsten Daunen der Welt / Islande, des plumes qui valent de l'or<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/606-island-die-wertvollsten-daunen-der-welt-1602943</ref><ref>https://thetvdb.com/series/272599-show/episodes/9524025</ref><ref>https://www.imdb.com/title/tt24220972</ref>
 | EA = 2022-12-10
 }}
 {{Episodenlisteneintrag
-| NR_GES = 609
+| NR_GES = 606
 | NR_ST = 29
 | OT = Zuflucht in den Anden - Kolumbiens indigene Transfrauen / Colombie, le refuge des cueilleuses de café trans<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/607-zuflucht-in-den-anden-kolumbiens-indigene-transfrauen-1605209</ref><ref>https://thetvdb.com/series/272599-show/episodes/9524026</ref><ref>https://www.imdb.com/title/tt24636850</ref>
 | EA = 2022-12-17
 }}
 {{Episodenlisteneintrag
-| NR_GES = 610
+| NR_GES = 607
 | NR_ST = 30
 | OT = Kristall - Die magische Kunst aus den Vogesen / Vosges, la magie du cristal<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/608-kristall-die-magische-kunst-aus-den-vogesen-1607754</ref><ref>https://thetvdb.com/series/272599-show/episodes/9524027</ref><ref>https://www.imdb.com/title/tt25051572</ref>
 | EA = 2022-12-24
@@ -3908,85 +3890,85 @@
 | DREHBUCH = nein
 | INHALT =
 {{Episodenlisteneintrag
-| NR_GES = 611
+| NR_GES = 608
 | NR_ST = 1
 | OT = Montenegro - Der Eselretter<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/609-montenegro-der-eselretter-1609765</ref><ref>https://thetvdb.com/series/272599-show/episodes/9524036</ref><ref>https://www.imdb.com/title/tt25786568</ref>
 | EA = 2023-01-07
 }}
 {{Episodenlisteneintrag
-| NR_GES = 612
+| NR_GES = 609
 | NR_ST = 2
 | OT = Der Bergkristall - Schatz in den Schweizer Alpen<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/610-der-bergkristall-schatz-in-den-schweizer-alpen-1612863</ref><ref>https://thetvdb.com/series/272599-show/episodes/9524038</ref><ref>https://www.imdb.com/title/tt26422175</ref>
 | EA = 2023-01-21
 }}
 {{Episodenlisteneintrag
-| NR_GES = 613
+| NR_GES = 610
 | NR_ST = 3
 | OT = Maine - Hummer oder Wale?<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/611-maine-hummer-oder-wale-1613685</ref><ref>https://thetvdb.com/series/272599-show/episodes/9524040</ref><ref>https://www.imdb.com/title/tt26472394</ref>
 | EA = 2023-01-28
 }}
 {{Episodenlisteneintrag
-| NR_GES = 614
+| NR_GES = 611
 | NR_ST = 4
 | OT = Singvögel - die goldene Stimmen von Singapur<ref>https://thetvdb.com/series/272599-show/episodes/9524041</ref><ref>https://www.imdb.com/title/tt18413922</ref>
 | EA = 2023-02-04
 }}
 {{Episodenlisteneintrag
-| NR_GES = 615
+| NR_GES = 612
 | NR_ST = 5
 | OT = Namibia - von Sandsurfern und Skatern<ref>https://thetvdb.com/series/272599-show/episodes/9524042</ref>
 | EA = 2023-02-11
 }}
 {{Episodenlisteneintrag
-| NR_GES = 616
+| NR_GES = 613
 | NR_ST = 6
 | OT = Albanien - Die Stimmen der Schäfer / Albanie, une vie de berger<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/612-albanien-die-stimmen-der-schaefer-1618464</ref><ref>https://www.imdb.com/title/tt26898737</ref>
 | EA = 2023-02-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 617
+| NR_GES = 614
 | NR_ST = 7
 | OT = Laos - Futterblöcke und Büffel-Leasing / Les buffles, l’avenir pour le Laos ?<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/613-laos-futterbloecke-und-bueffel-leasing-1620347</ref><ref>https://www.imdb.com/title/tt27005233</ref>
 | EA = 2023-03-04
 }}
 {{Episodenlisteneintrag
-| NR_GES = 618
+| NR_GES = 615
 | NR_ST = 8
 | OT = Freiheit auf Pferderücken - Der lange Weg der Nez Perce / Nez-Percés, chevauchée pour la liberté<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/614-freiheit-auf-pferderuecken-der-lange-weg-der-nez-perce-1621705</ref><ref>https://www.imdb.com/title/tt27110800</ref>
 | EA = 2023-03-11
 }}
 {{Episodenlisteneintrag
-| NR_GES = 619
+| NR_GES = 616
 | NR_ST = 9
 | OT = Peloponnes - Rückkehr zur Erde / Péloponnèse, la pasionaria de l'agroforesterie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/615-peloponnes-rueckkehr-zur-erde-1623768</ref><ref>https://www.imdb.com/title/tt27170463</ref>
 | EA = 2023-03-18
 }}
 {{Episodenlisteneintrag
-| NR_GES = 620
+| NR_GES = 617
 | NR_ST = 10
 | OT = Handgemacht in Laos - Rares aus Rattan / Laos, la vannerie dans tous ses états<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/616-handgemacht-in-laos-rares-aus-rattan-1625195</ref><ref>https://www.imdb.com/title/tt27252897</ref>
 | EA = 2023-03-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 621
+| NR_GES = 618
 | NR_ST = 11
 | OT = Leben mit dem Tod - Ahnenkult auf Sulawesi / Toraja, le peuple qui fait vivre ses morts<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/617-leben-mit-dem-tod-ahnenkult-auf-sulawesi-1634635</ref>
 | EA = 2023-05-06
 }}
 {{Episodenlisteneintrag
-| NR_GES = 622
+| NR_GES = 619
 | NR_ST = 12
 | OT = Die Waschbären von Berlin / Les ratons laveurs, nos nouveaux voisins?<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/618-die-waschbaeren-von-berlin-1640104</ref>
 | EA = 2023-05-20
 }}
 {{Episodenlisteneintrag
-| NR_GES = 623
+| NR_GES = 620
 | NR_ST = 13
 | OT = Rapa Nui - Gladiatoren der Südsee<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/619-rapa-nui-gladiatoren-der-suedsee-1645452</ref>
 | EA = 2023-06-24
 }}
 {{Episodenlisteneintrag
-| NR_GES = 624
+| NR_GES = 621
 | NR_ST = 14
 | OT = Kambodschas schwimmende Dörfer - Umzug am Tonle Sap<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/620-kambodschas-schwimmende-doerfer-umzug-am-tonle-sap-1646559</ref>
 | EA = 2023-07-01

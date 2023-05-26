@@ -36,3 +36,31 @@
   episode: 2
   thetvdb_season_episode: S25E02
   thetvdb_episode_id: 9524037
+
+- title: Esmeraldas Edelkakao
+  title_fr:
+  air_date: '2019-12-29'
+  duration: 45
+  thetvdb_season_episode: S21E25
+  thetvdb_episode_id: 7517098
+  imdb_episode_id: tt2215720
+  youtube_video_id: IMVYBpL-z4E
+
+- title: Ticket in ein neues Leben
+  air_date: '2005-10-01'
+  duration: 55
+  thetvdb_season_episode: S07E14
+  thetvdb_episode_id: 4642159
+  fernsehserien_episode_no: 182
+  fernsehserien_episode_slug: 182-ticket-in-ein-neues-leben-339656
+  fernsehserien_episode_id: 339656
+  imdb_episode_id: tt1042944
+  youtube_video_id:
+
+- title: Ein göttlicher Zug
+  air_date: '2005-10-01'
+  duration: 55
+  thetvdb_season_episode: S07E13
+  thetvdb_episode_id: 4642158
+  imdb_episode_id: tt1042934
+  youtube_video_id: UA8kICaAY_Q
