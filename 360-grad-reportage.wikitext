@@ -3496,49 +3496,49 @@
 {{Episodenlisteneintrag
 | NR_GES = 547
 | NR_ST = 10
-| OT = Huskys, am Start!<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/545-huskys-am-start-1384225</ref><ref>https://thetvdb.com/series/272599-show/episodes/7818444</ref><ref>https://www.imdb.com/title/tt17077618</ref><ref>https://www.youtube.com/watch?v=3XyG82_dG-0</ref>
+| OT = Huskys, am Start! / Huskies, top départ!<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/545-huskys-am-start-1384225</ref><ref>https://thetvdb.com/series/272599-show/episodes/7818444</ref><ref>https://www.imdb.com/title/tt17077618</ref><ref>https://www.youtube.com/watch?v=3XyG82_dG-0</ref>
 | EA = 2020-06-28
 }}
 {{Episodenlisteneintrag
 | NR_GES = 548
 | NR_ST = 11
-| OT = Schignano, ein uralter Karneval in Italiens Bergen<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/546-schignano-ein-uralter-karneval-in-italiens-bergen-1388813</ref><ref>https://thetvdb.com/series/272599-show/episodes/7859337</ref><ref>https://www.imdb.com/title/tt18291258</ref><ref>https://www.youtube.com/watch?v=UBhl_XT1ixY</ref>
+| OT = Schignano, ein uralter Karneval in Italiens Bergen / Le carnaval de Schignano étrange et archaïque<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/546-schignano-ein-uralter-karneval-in-italiens-bergen-1388813</ref><ref>https://thetvdb.com/series/272599-show/episodes/7859337</ref><ref>https://www.imdb.com/title/tt18291258</ref><ref>https://www.youtube.com/watch?v=UBhl_XT1ixY</ref>
 | EA = 2020-07-25
 }}
 {{Episodenlisteneintrag
 | NR_GES = 549
 | NR_ST = 12
-| OT = Ring frei für Sambias Boxerinnen!<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/547-ring-frei-fuer-sambias-boxerinnen-1397612</ref><ref>https://thetvdb.com/series/272599-show/episodes/7890793</ref><ref>https://www.youtube.com/watch?v=MmBs2InkDl0</ref>
+| OT = Ring frei für Sambias Boxerinnen! / Zambie, les championnes du ring<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/547-ring-frei-fuer-sambias-boxerinnen-1397612</ref><ref>https://thetvdb.com/series/272599-show/episodes/7890793</ref><ref>https://www.youtube.com/watch?v=MmBs2InkDl0</ref>
 | EA = 2020-08-16
 }}
 {{Episodenlisteneintrag
 | NR_GES = 550
 | NR_ST = 13
-| OT = Singvögel - Die goldenen Stimmen von Singapur<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/548-singvoegel-die-goldenen-stimmen-von-singapur-1404279</ref><ref>https://thetvdb.com/series/272599-show/episodes/7933483</ref><ref>https://www.youtube.com/watch?v=nqHruOs-dqE</ref>
+| OT = Singvögel - Die goldenen Stimmen von Singapur / Singapour, quand les oiseaux chantent<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/548-singvoegel-die-goldenen-stimmen-von-singapur-1404279</ref><ref>https://thetvdb.com/series/272599-show/episodes/7933483</ref><ref>https://www.youtube.com/watch?v=nqHruOs-dqE</ref>
 | EA = 2020-09-13
 }}
 {{Episodenlisteneintrag
 | NR_GES = 551
 | NR_ST = 14
-| OT = Italiens Kapern - Der Geschmack des Südens<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/549-italiens-kapern-der-geschmack-des-suedens-1414438</ref><ref>https://thetvdb.com/series/272599-show/episodes/8023022</ref><ref>https://www.imdb.com/title/tt21801660</ref><ref>https://www.youtube.com/watch?v=wriortwg56E</ref>
+| OT = Italiens Kapern - Der Geschmack des Südens / Les câpres de sicile, la saveur de la méditerranée<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/549-italiens-kapern-der-geschmack-des-suedens-1414438</ref><ref>https://thetvdb.com/series/272599-show/episodes/8023022</ref><ref>https://www.imdb.com/title/tt21801660</ref><ref>https://www.youtube.com/watch?v=wriortwg56E</ref>
 | EA = 2020-10-25
 }}
 {{Episodenlisteneintrag
 | NR_GES = 552
 | NR_ST = 15
-| OT = Der letzte Rheinfischer<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/550-der-letzte-rheinfischer-1420915</ref><ref>https://thetvdb.com/series/272599-show/episodes/8076150</ref><ref>https://www.imdb.com/title/tt21139796</ref><ref>https://www.youtube.com/watch?v=1JPQTQtsjyA</ref>
+| OT = Der letzte Rheinfischer / Le dernier pêcheur du rhin<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/550-der-letzte-rheinfischer-1420915</ref><ref>https://thetvdb.com/series/272599-show/episodes/8076150</ref><ref>https://www.imdb.com/title/tt21139796</ref><ref>https://www.youtube.com/watch?v=1JPQTQtsjyA</ref>
 | EA = 2020-11-22
 }}
 {{Episodenlisteneintrag
 | NR_GES = 553
 | NR_ST = 16
-| OT = Mit Volldampf durch Kärnten<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/551-mit-volldampf-durch-kaernten-1422151</ref><ref>https://thetvdb.com/series/272599-show/episodes/8122019</ref><ref>https://www.imdb.com/title/tt14188714</ref><ref>https://www.youtube.com/watch?v=0HrxXJsDky4</ref>
+| OT = Mit Volldampf durch Kärnten / En autriche avec des mordus du rail<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/551-mit-volldampf-durch-kaernten-1422151</ref><ref>https://thetvdb.com/series/272599-show/episodes/8122019</ref><ref>https://www.imdb.com/title/tt14188714</ref><ref>https://www.youtube.com/watch?v=0HrxXJsDky4</ref>
 | EA = 2020-11-29
 }}
 {{Episodenlisteneintrag
 | NR_GES = 554
 | NR_ST = 17
-| OT = Das Elsass, Heimat der Störche / Alsace, Terre de Cigogne<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/552-das-elsass-heimat-der-stoerche-1426023</ref><ref>https://thetvdb.com/series/272599-show/episodes/8092659</ref><ref>https://www.imdb.com/title/tt13616848</ref><ref>https://www.youtube.com/watch?v=BZaILC2jnoM</ref>
+| OT = Das Elsass, Heimat der Störche / L'Alsace, terre de cigognes<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/552-das-elsass-heimat-der-stoerche-1426023</ref><ref>https://thetvdb.com/series/272599-show/episodes/8092659</ref><ref>https://www.imdb.com/title/tt13616848</ref><ref>https://www.youtube.com/watch?v=BZaILC2jnoM</ref>
 | EA = 2020-12-06
 }}
 {{Episodenlisteneintrag
@@ -3572,73 +3572,73 @@
 {{Episodenlisteneintrag
 | NR_GES = 558
 | NR_ST = 2
-| OT = Pelota, die baskische Leidenschaft<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/556-pelota-die-baskische-leidenschaft-1436236</ref><ref>https://thetvdb.com/series/272599-show/episodes/8145486</ref><ref>https://www.imdb.com/title/tt18413904</ref><ref>https://www.youtube.com/watch?v=pDf_DqGQAJU</ref>
+| OT = Pelota, die baskische Leidenschaft / Pays basque, l'âme en Pelote<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/556-pelota-die-baskische-leidenschaft-1436236</ref><ref>https://thetvdb.com/series/272599-show/episodes/8145486</ref><ref>https://www.imdb.com/title/tt18413904</ref><ref>https://www.youtube.com/watch?v=pDf_DqGQAJU</ref>
 | EA = 2021-01-10
 }}
 {{Episodenlisteneintrag
 | NR_GES = 559
 | NR_ST = 3
-| OT = Estland und das kleine Königreich der Seto<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/557-estland-und-das-kleine-koenigreich-der-seto-1440392</ref><ref>https://thetvdb.com/series/272599-show/episodes/8209429</ref><ref>https://www.youtube.com/watch?v=zgv8oZfn-Sk</ref>
+| OT = Estland und das kleine Königreich der Seto / En estonie, le petit royaume de setomaa<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/557-estland-und-das-kleine-koenigreich-der-seto-1440392</ref><ref>https://thetvdb.com/series/272599-show/episodes/8209429</ref><ref>https://www.youtube.com/watch?v=zgv8oZfn-Sk</ref>
 | EA = 2021-01-31
 }}
 {{Episodenlisteneintrag
 | NR_GES = 560
 | NR_ST = 4
-| OT = Puerto Rico: Ein Krankenhaus für Seekühe<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/558-puerto-rico-ein-krankenhaus-fuer-seekuehe-1442086</ref><ref>https://thetvdb.com/series/272599-show/episodes/8209430</ref><ref>https://www.youtube.com/watch?v=B2ODRBt1BTI</ref>
+| OT = Puerto Rico: Ein Krankenhaus für Seekühe / Porto Rico - Un hôpital pour les lamantins<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/558-puerto-rico-ein-krankenhaus-fuer-seekuehe-1442086</ref><ref>https://thetvdb.com/series/272599-show/episodes/8209430</ref><ref>https://www.youtube.com/watch?v=B2ODRBt1BTI</ref>
 | EA = 2021-02-07
 }}
 {{Episodenlisteneintrag
 | NR_GES = 561
 | NR_ST = 5
-| OT = Dem Wolf auf der Spur - Schnüffeln für den Artenschutz<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/559-dem-wolf-auf-der-spur-schnueffeln-fuer-den-artenschutz-1442841</ref><ref>https://thetvdb.com/series/272599-show/episodes/8228076</ref><ref>https://www.imdb.com/title/tt14056190</ref><ref>https://www.youtube.com/watch?v=8zqR15KTGN4</ref>
+| OT = Dem Wolf auf der Spur - Schnüffeln für den Artenschutz / Des chiens sur la piste des loups<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/559-dem-wolf-auf-der-spur-schnueffeln-fuer-den-artenschutz-1442841</ref><ref>https://thetvdb.com/series/272599-show/episodes/8228076</ref><ref>https://www.imdb.com/title/tt14056190</ref><ref>https://www.youtube.com/watch?v=8zqR15KTGN4</ref>
 | EA = 2021-02-14
 }}
 {{Episodenlisteneintrag
 | NR_GES = 562
 | NR_ST = 6
-| OT = Die Eifel und ihre Eulen-Hüter<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/560-die-eifel-und-ihre-eulen-hueter-1443627</ref><ref>https://thetvdb.com/series/272599-show/episodes/8230361</ref><ref>https://www.imdb.com/title/tt21073780</ref><ref>https://www.youtube.com/watch?v=DGL9tZwu9z4</ref>
+| OT = Die Eifel und ihre Eulen-Hüter / Sauver les hiboux, c'est chouette<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/560-die-eifel-und-ihre-eulen-hueter-1443627</ref><ref>https://thetvdb.com/series/272599-show/episodes/8230361</ref><ref>https://www.imdb.com/title/tt21073780</ref><ref>https://www.youtube.com/watch?v=DGL9tZwu9z4</ref>
 | EA = 2021-02-21
 }}
 {{Episodenlisteneintrag
 | NR_GES = 563
 | NR_ST = 7
-| OT = Percheron, das Kraftpaket mit einer Pferdestärke<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/561-percheron-das-kraftpaket-mit-einer-pferdestaerke-1444769</ref><ref>https://thetvdb.com/series/272599-show/episodes/8270994</ref><ref>https://www.imdb.com/title/tt14143482</ref><ref>https://www.youtube.com/watch?v=fr7QjYkoqf0</ref>
+| OT = Percheron, das Kraftpaket mit einer Pferdestärke / Percheron, le retour du cheval de trait<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/561-percheron-das-kraftpaket-mit-einer-pferdestaerke-1444769</ref><ref>https://thetvdb.com/series/272599-show/episodes/8270994</ref><ref>https://www.imdb.com/title/tt14143482</ref><ref>https://www.youtube.com/watch?v=fr7QjYkoqf0</ref>
 | EA = 2021-02-28
 }}
 {{Episodenlisteneintrag
 | NR_GES = 564
 | NR_ST = 8
-| OT = Kalkstein - Das weiße Gold von Brac<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/562-kalkstein-das-weisse-gold-von-brac-1446848</ref><ref>https://thetvdb.com/series/272599-show/episodes/8271000</ref><ref>https://www.youtube.com/watch?v=sx5ieaeHnUs</ref>
+| OT = Kalkstein - Das weiße Gold von Brač / Croatie, les trailleurs de pierre de Brač<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/562-kalkstein-das-weisse-gold-von-brac-1446848</ref><ref>https://thetvdb.com/series/272599-show/episodes/8271000</ref><ref>https://www.youtube.com/watch?v=sx5ieaeHnUs</ref>
 | EA = 2021-03-07
 }}
 {{Episodenlisteneintrag
 | NR_GES = 565
 | NR_ST = 9
-| OT = Hamburg - Welthafen mit schwimmender Kirche<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/563-hamburg-welthafen-mit-schwimmender-kirche-1449045</ref><ref>https://thetvdb.com/series/272599-show/episodes/8285562</ref><ref>https://www.imdb.com/title/tt14429944</ref><ref>https://www.youtube.com/watch?v=p43Ug9kO7WQ</ref>
+| OT = Hamburg - Welthafen mit schwimmender Kirche / Port d'Hambourg, un bateau-église insolite<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/563-hamburg-welthafen-mit-schwimmender-kirche-1449045</ref><ref>https://thetvdb.com/series/272599-show/episodes/8285562</ref><ref>https://www.imdb.com/title/tt14429944</ref><ref>https://www.youtube.com/watch?v=p43Ug9kO7WQ</ref>
 | EA = 2021-03-14
 }}
 {{Episodenlisteneintrag
 | NR_GES = 566
 | NR_ST = 10
-| OT = Tradition am Steilhang - Die Schweiz und ihre Wildheuer<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/564-tradition-am-steilhang-die-schweiz-und-ihre-wildheuer-1451154</ref><ref>https://thetvdb.com/series/272599-show/episodes/8320384</ref><ref>https://www.imdb.com/title/tt14434674</ref><ref>https://www.youtube.com/watch?v=FsESCsAehtk</ref>
+| OT = Tradition am Steilhang - Die Schweiz und ihre Wildheuer / La fenaison en montagne, une tradition Suisse<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/564-tradition-am-steilhang-die-schweiz-und-ihre-wildheuer-1451154</ref><ref>https://thetvdb.com/series/272599-show/episodes/8320384</ref><ref>https://www.imdb.com/title/tt14434674</ref><ref>https://www.youtube.com/watch?v=FsESCsAehtk</ref>
 | EA = 2021-03-21
 }}
 {{Episodenlisteneintrag
 | NR_GES = 567
 | NR_ST = 11
-| OT = Biber, die Baumeister an der Elbe<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/565-biber-die-baumeister-an-der-elbe-1453165</ref><ref>https://thetvdb.com/series/272599-show/episodes/8320385</ref><ref>https://www.imdb.com/title/tt14338900</ref><ref>https://www.youtube.com/watch?v=X8fy7jZl_rE</ref>
+| OT = Biber, die Baumeister an der Elbe / La revanche du castor<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/565-biber-die-baumeister-an-der-elbe-1453165</ref><ref>https://thetvdb.com/series/272599-show/episodes/8320385</ref><ref>https://www.imdb.com/title/tt14338900</ref><ref>https://www.youtube.com/watch?v=X8fy7jZl_rE</ref>
 | EA = 2021-03-28
 }}
 {{Episodenlisteneintrag
 | NR_GES = 568
 | NR_ST = 12
-| OT = Pelikane, die Könige des Donaudeltas<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/566-pelikane-die-koenige-des-donaudeltas-1456045</ref><ref>https://thetvdb.com/series/272599-show/episodes/8355928</ref><ref>https://www.imdb.com/title/tt14434664</ref><ref>https://www.youtube.com/watch?v=ZgBcESvfvYA</ref>
+| OT = Pelikane, die Könige des Donaudeltas / Le delta du danube, dernier refuge des pélicans<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/566-pelikane-die-koenige-des-donaudeltas-1456045</ref><ref>https://thetvdb.com/series/272599-show/episodes/8355928</ref><ref>https://www.imdb.com/title/tt14434664</ref><ref>https://www.youtube.com/watch?v=ZgBcESvfvYA</ref>
 | EA = 2021-04-04
 }}
 {{Episodenlisteneintrag
 | NR_GES = 569
 | NR_ST = 13
-| OT = Frankreichs Winzer - Tradition trifft Passion<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/567-frankreichs-winzer-tradition-trifft-passion-1457511</ref><ref>https://thetvdb.com/series/272599-show/episodes/8375958</ref><ref>https://www.imdb.com/title/tt14477970</ref><ref>https://www.youtube.com/watch?v=pQaBkRIgRk0</ref>
+| OT = Frankreichs Winzer - Tradition trifft Passion / Le renouveau du vignoble français<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/567-frankreichs-winzer-tradition-trifft-passion-1457511</ref><ref>https://thetvdb.com/series/272599-show/episodes/8375958</ref><ref>https://www.imdb.com/title/tt14477970</ref><ref>https://www.youtube.com/watch?v=pQaBkRIgRk0</ref>
 | EA = 2021-04-18
 }}
 {{Episodenlisteneintrag
@@ -3650,13 +3650,13 @@
 {{Episodenlisteneintrag
 | NR_GES = 571
 | NR_ST = 15
-| OT = Australien - Wenn Kunst auf Silos trifft<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/569-australien-wenn-kunst-auf-silos-trifft-1462468</ref><ref>https://thetvdb.com/series/272599-show/episodes/8375960</ref><ref>https://www.youtube.com/watch?v=G8JDOqwLGog</ref>
+| OT = Australien - Wenn Kunst auf Silos trifft / Australie, le street art s'invite sur les silos<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/569-australien-wenn-kunst-auf-silos-trifft-1462468</ref><ref>https://thetvdb.com/series/272599-show/episodes/8375960</ref><ref>https://www.youtube.com/watch?v=G8JDOqwLGog</ref>
 | EA = 2021-05-09
 }}
 {{Episodenlisteneintrag
 | NR_GES = 572
 | NR_ST = 16
-| OT = Der Wüstenzug - die Lebensader Mauretaniens<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/570-der-wuestenzug-die-lebensader-mauretaniens-1489640</ref><ref>https://thetvdb.com/series/272599-show/episodes/8634489</ref><ref>https://www.youtube.com/watch?v=k9jFka2IecU</ref>
+| OT = Der Wüstenzug - die Lebensader Mauretaniens / Mauritanie, le train du désert<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/570-der-wuestenzug-die-lebensader-mauretaniens-1489640</ref><ref>https://thetvdb.com/series/272599-show/episodes/8634489</ref><ref>https://www.youtube.com/watch?v=k9jFka2IecU</ref>
 | EA = 2021-08-28
 }}
 {{Episodenlisteneintrag
@@ -3668,13 +3668,13 @@
 {{Episodenlisteneintrag
 | NR_GES = 574
 | NR_ST = 18
-| OT = Die heilenden Delfine von Curacao / Curaçao, des dauphins thérapeutes<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/572-die-heilenden-delfine-von-curacao-1492740</ref><ref>https://thetvdb.com/series/272599-show/episodes/8634491</ref><ref>https://www.imdb.com/title/tt15529128</ref><ref>https://www.youtube.com/watch?v=wc4y3QIarAU</ref>
+| OT = Die heilenden Delfine von Curaçao / Curaçao, des dauphins thérapeutes<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/572-die-heilenden-delfine-von-curacao-1492740</ref><ref>https://thetvdb.com/series/272599-show/episodes/8634491</ref><ref>https://www.imdb.com/title/tt15529128</ref><ref>https://www.youtube.com/watch?v=wc4y3QIarAU</ref>
 | EA = 2021-09-11
 }}
 {{Episodenlisteneintrag
 | NR_GES = 575
 | NR_ST = 19
-| OT = Der Traum vom Gold - Tirols Überfliegerinnen<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/573-der-traum-vom-gold-tirols-ueberfliegerinnen-1494060</ref><ref>https://thetvdb.com/series/272599-show/episodes/8692435</ref><ref>https://www.imdb.com/title/tt15455872</ref><ref>https://www.youtube.com/watch?v=9z8Eer2KngU</ref>
+| OT = Der Traum vom Gold - Tirols Überfliegerinnen / Le saut à ski féminin prend son envol<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/573-der-traum-vom-gold-tirols-ueberfliegerinnen-1494060</ref><ref>https://thetvdb.com/series/272599-show/episodes/8692435</ref><ref>https://www.imdb.com/title/tt15455872</ref><ref>https://www.youtube.com/watch?v=9z8Eer2KngU</ref>
 | EA = 2021-09-11
 }}
 {{Episodenlisteneintrag
@@ -3686,7 +3686,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 577
 | NR_ST = 21
-| OT = Koh Panyee - Thailands fußballverrückte Insel<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/575-koh-panyee-thailands-fussballverrueckte-insel-1497505</ref><ref>https://thetvdb.com/series/272599-show/episodes/8692437</ref><ref>https://www.imdb.com/title/tt15535426</ref><ref>https://www.youtube.com/watch?v=RC_j7QQ1r5U</ref>
+| OT = Koh Panyee - Thailands fußballverrückte Insel / Thaïlande, un terrain de football insolite<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/575-koh-panyee-thailands-fussballverrueckte-insel-1497505</ref><ref>https://thetvdb.com/series/272599-show/episodes/8692437</ref><ref>https://www.imdb.com/title/tt15535426</ref><ref>https://www.youtube.com/watch?v=RC_j7QQ1r5U</ref>
 | EA = 2021-10-02
 }}
 {{Episodenlisteneintrag
@@ -3704,7 +3704,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 580
 | NR_ST = 24
-| OT = Dolomiten: Die Bergführer von San Martino<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/578-dolomiten-die-bergfuehrer-von-san-martino-1508252</ref><ref>https://thetvdb.com/series/272599-show/episodes/8814843</ref><ref>https://www.imdb.com/title/tt15746990</ref><ref>https://www.youtube.com/watch?v=rqDUm-WpZJ0</ref>
+| OT = Dolomiten: Die Bergführer von San Martino / Dolomites, la passion de l'alpinisme<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/578-dolomiten-die-bergfuehrer-von-san-martino-1508252</ref><ref>https://thetvdb.com/series/272599-show/episodes/8814843</ref><ref>https://www.imdb.com/title/tt15746990</ref><ref>https://www.youtube.com/watch?v=rqDUm-WpZJ0</ref>
 | EA = 2021-10-30
 }}
 }}
@@ -3810,19 +3810,19 @@
 {{Episodenlisteneintrag
 | NR_GES = 596
 | NR_ST = 16
-| OT = Nopal, der Alleskönner aus Mexiko<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/594-nopal-der-alleskoenner-aus-mexiko-1564718</ref><ref>https://thetvdb.com/series/272599-show/episodes/9254698</ref><ref>https://www.imdb.com/title/tt21203634</ref><ref>https://www.youtube.com/watch?v=MkXx_8rac_M</ref>
+| OT = Nopal, der Alleskönner aus Mexiko / Cactus, l'or vert du mexique<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/594-nopal-der-alleskoenner-aus-mexiko-1564718</ref><ref>https://thetvdb.com/series/272599-show/episodes/9254698</ref><ref>https://www.imdb.com/title/tt21203634</ref><ref>https://www.youtube.com/watch?v=MkXx_8rac_M</ref>
 | EA = 2022-06-25
 }}
 {{Episodenlisteneintrag
 | NR_GES = 597
 | NR_ST = 17
-| OT = Tempo und Leidenschaft - Argentiniens Polo-Spielerinnen<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/595-tempo-und-leidenschaft-argentiniens-polo-spielerinnen-1570263</ref><ref>https://thetvdb.com/series/272599-show/episodes/9254699</ref><ref>https://www.imdb.com/title/tt21243244</ref><ref>https://www.youtube.com/watch?v=Y-eQibAkbmo</ref>
+| OT = Tempo und Leidenschaft - Argentiniens Polo-Spielerinnen / Argentine, le polo au féminin<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/595-tempo-und-leidenschaft-argentiniens-polo-spielerinnen-1570263</ref><ref>https://thetvdb.com/series/272599-show/episodes/9254699</ref><ref>https://www.imdb.com/title/tt21243244</ref><ref>https://www.youtube.com/watch?v=Y-eQibAkbmo</ref>
 | EA = 2022-07-02
 }}
 {{Episodenlisteneintrag
 | NR_GES = 598
 | NR_ST = 18
-| OT = Kourou: Palmen, Raketen, Gefängnisinseln<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/596-kourou-palmen-raketen-gefaengnisinseln-1567103</ref><ref>https://thetvdb.com/series/272599-show/episodes/9254700</ref><ref>https://www.imdb.com/title/tt21294972</ref><ref>https://www.youtube.com/watch?v=LckZ2_Lw88E</ref>
+| OT = Kourou: Palmen, Raketen, Gefängnisinseln / Kourou, des bagnes et des fusées<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/596-kourou-palmen-raketen-gefaengnisinseln-1567103</ref><ref>https://thetvdb.com/series/272599-show/episodes/9254700</ref><ref>https://www.imdb.com/title/tt21294972</ref><ref>https://www.youtube.com/watch?v=LckZ2_Lw88E</ref>
 | EA = 2022-07-09
 }}
 {{Episodenlisteneintrag
@@ -3834,25 +3834,25 @@
 {{Episodenlisteneintrag
 | NR_GES = 600
 | NR_ST = 20
-| OT = Das Gerichtsschiff vom Amazonas<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/598-das-gerichtsschiff-vom-amazonas-1579010</ref><ref>https://thetvdb.com/series/272599-show/episodes/9254702</ref><ref>https://www.imdb.com/title/tt22023194</ref>
+| OT = Das Gerichtsschiff vom Amazonas / Le tribunal flottant de l'amazone<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/598-das-gerichtsschiff-vom-amazonas-1579010</ref><ref>https://thetvdb.com/series/272599-show/episodes/9254702</ref><ref>https://www.imdb.com/title/tt22023194</ref>
 | EA = 2022-08-06
 }}
 {{Episodenlisteneintrag
 | NR_GES = 601
 | NR_ST = 21
-| OT = Kampf den Scharlatanen<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/599-der-science-van-on-tour-indien-kampf-den-scharlatanen-1581860</ref><ref>https://thetvdb.com/series/272599-show/episodes/9352688</ref><ref>https://www.youtube.com/watch?v=-Clpkb3JdkI</ref>
+| OT = Indien - Kampf den Scharlatanen / Inde, vaincre les gourous<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/599-der-science-van-on-tour-indien-kampf-den-scharlatanen-1581860</ref><ref>https://thetvdb.com/series/272599-show/episodes/9352688</ref><ref>https://www.youtube.com/watch?v=-Clpkb3JdkI</ref>
 | EA = 2022-09-17
 }}
 {{Episodenlisteneintrag
 | NR_GES = 602
 | NR_ST = 22
-| OT = Ahornsirup - Kanadas süßer Schatz<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/600-ahornsirup-kanadas-suesser-schatz-1583564</ref><ref>https://thetvdb.com/series/272599-show/episodes/9352689</ref><ref>https://www.imdb.com/title/tt22299618</ref><ref>https://www.youtube.com/watch?v=HlFRnPw6Y04</ref>
+| OT = Ahornsirup - Kanadas süßer Schatz / Canada, le pays du sirop d'erable<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/600-ahornsirup-kanadas-suesser-schatz-1583564</ref><ref>https://thetvdb.com/series/272599-show/episodes/9352689</ref><ref>https://www.imdb.com/title/tt22299618</ref><ref>https://www.youtube.com/watch?v=HlFRnPw6Y04</ref>
 | EA = 2022-09-24
 }}
 {{Episodenlisteneintrag
 | NR_GES = 603
 | NR_ST = 23
-| OT = Estland - Krötenretter im Einsatz<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/601-estland-kroetenretter-im-einsatz-1586757</ref><ref>https://thetvdb.com/series/272599-show/episodes/9352690</ref><ref>https://www.imdb.com/title/tt22805294</ref><ref>https://www.youtube.com/watch?v=xzfFqvblS34</ref>
+| OT = Estland - Krötenretter im Einsatz / Estonie, au secours des grenouilles<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/601-estland-kroetenretter-im-einsatz-1586757</ref><ref>https://thetvdb.com/series/272599-show/episodes/9352690</ref><ref>https://www.imdb.com/title/tt22805294</ref><ref>https://www.youtube.com/watch?v=xzfFqvblS34</ref>
 | EA = 2022-10-01
 }}
 {{Episodenlisteneintrag

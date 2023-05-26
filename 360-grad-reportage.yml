@@ -5574,6 +5574,7 @@ episodes:
   fernsehserien_episode_id: 1381765
   youtube_video_id: Qx7wwbJDDdE
 - title: Huskys, am Start!
+  title_fr: Huskies, top départ!
   air_date: '2020-06-28'
   duration: 43
   thetvdb_season_episode: S22E10
@@ -5585,6 +5586,7 @@ episodes:
   imdb_episode_id: tt17077618
   youtube_video_id: 3XyG82_dG-0
 - title: Schignano, ein uralter Karneval in Italiens Bergen
+  title_fr: Le carnaval de Schignano étrange et archaïque
   air_date: '2020-07-25'
   duration: 43
   thetvdb_season_episode: S22E11
@@ -5596,6 +5598,7 @@ episodes:
   imdb_episode_id: tt18291258
   youtube_video_id: UBhl_XT1ixY
 - title: Ring frei für Sambias Boxerinnen!
+  title_fr: Zambie, les championnes du ring
   air_date: '2020-08-16'
   duration: 43
   thetvdb_season_episode: S22E12
@@ -5606,6 +5609,7 @@ episodes:
   fernsehserien_episode_id: 1397612
   youtube_video_id: MmBs2InkDl0
 - title: Singvögel - Die goldenen Stimmen von Singapur
+  title_fr: Singapour, quand les oiseaux chantent
   air_date: '2020-09-13'
   duration: 43
   thetvdb_season_episode: S22E13
@@ -5616,6 +5620,7 @@ episodes:
   fernsehserien_episode_id: 1404279
   youtube_video_id: nqHruOs-dqE
 - title: Italiens Kapern - Der Geschmack des Südens
+  title_fr: Les câpres de sicile, la saveur de la méditerranée
   air_date: '2020-10-25'
   duration: 43
   thetvdb_season_episode: S22E14
@@ -5627,6 +5632,7 @@ episodes:
   imdb_episode_id: tt21801660
   youtube_video_id: wriortwg56E
 - title: Der letzte Rheinfischer
+  title_fr: Le dernier pêcheur du rhin
   air_date: '2020-11-22'
   duration: 43
   thetvdb_season_episode: S22E15
@@ -5638,6 +5644,7 @@ episodes:
   imdb_episode_id: tt21139796
   youtube_video_id: 1JPQTQtsjyA
 - title: Mit Volldampf durch Kärnten
+  title_fr: En autriche avec des mordus du rail
   air_date: '2020-11-29'
   duration: 45
   thetvdb_season_episode: S22E16
@@ -5649,7 +5656,7 @@ episodes:
   imdb_episode_id: tt14188714
   youtube_video_id: 0HrxXJsDky4
 - title: Das Elsass, Heimat der Störche
-  title_fr: Alsace, Terre de Cigogne
+  title_fr: L'Alsace, terre de cigognes
   air_date: '2020-12-06'
   duration: 44
   thetvdb_season_episode: S22E17
@@ -5697,6 +5704,7 @@ episodes:
   imdb_episode_id: tt16316762
   youtube_video_id: o6cVARiIZGA
 - title: Pelota, die baskische Leidenschaft
+  title_fr: Pays basque, l'âme en Pelote
   air_date: '2021-01-10'
   duration: 43
   thetvdb_season_episode: S23E02
@@ -5708,6 +5716,7 @@ episodes:
   imdb_episode_id: tt18413904
   youtube_video_id: pDf_DqGQAJU
 - title: Estland und das kleine Königreich der Seto
+  title_fr: En estonie, le petit royaume de setomaa
   air_date: '2021-01-31'
   duration: 45
   thetvdb_season_episode: S23E03
@@ -5718,6 +5727,7 @@ episodes:
   fernsehserien_episode_id: 1440392
   youtube_video_id: zgv8oZfn-Sk
 - title: 'Puerto Rico: Ein Krankenhaus für Seekühe'
+  title_fr: Porto Rico - Un hôpital pour les lamantins
   air_date: '2021-02-07'
   duration: 45
   thetvdb_season_episode: S23E04
@@ -5728,6 +5738,7 @@ episodes:
   fernsehserien_episode_id: 1442086
   youtube_video_id: B2ODRBt1BTI
 - title: Dem Wolf auf der Spur - Schnüffeln für den Artenschutz
+  title_fr: Des chiens sur la piste des loups
   air_date: '2021-02-14'
   duration: 45
   thetvdb_season_episode: S23E05
@@ -5739,6 +5750,7 @@ episodes:
   imdb_episode_id: tt14056190
   youtube_video_id: 8zqR15KTGN4
 - title: Die Eifel und ihre Eulen-Hüter
+  title_fr: Sauver les hiboux, c'est chouette
   air_date: '2021-02-21'
   duration: 45
   thetvdb_season_episode: S23E06
@@ -5750,6 +5762,7 @@ episodes:
   imdb_episode_id: tt21073780
   youtube_video_id: DGL9tZwu9z4
 - title: Percheron, das Kraftpaket mit einer Pferdestärke
+  title_fr: Percheron, le retour du cheval de trait
   air_date: '2021-02-28'
   duration: 45
   thetvdb_season_episode: S23E07
@@ -5760,7 +5773,8 @@ episodes:
   fernsehserien_episode_id: 1444769
   imdb_episode_id: tt14143482
   youtube_video_id: fr7QjYkoqf0
-- title: Kalkstein - Das weiße Gold von Brac
+- title: Kalkstein - Das weiße Gold von Brač
+  title_fr: Croatie, les trailleurs de pierre de Brač
   air_date: '2021-03-07'
   duration: 45
   thetvdb_season_episode: S23E08
@@ -5771,6 +5785,7 @@ episodes:
   fernsehserien_episode_id: 1446848
   youtube_video_id: sx5ieaeHnUs
 - title: Hamburg - Welthafen mit schwimmender Kirche
+  title_fr: Port d'Hambourg, un bateau-église insolite
   air_date: '2021-03-14'
   duration: 45
   thetvdb_season_episode: S23E09
@@ -5782,6 +5797,7 @@ episodes:
   imdb_episode_id: tt14429944
   youtube_video_id: p43Ug9kO7WQ
 - title: Tradition am Steilhang - Die Schweiz und ihre Wildheuer
+  title_fr: La fenaison en montagne, une tradition Suisse
   air_date: '2021-03-21'
   duration: 43
   thetvdb_season_episode: S23E10
@@ -5793,6 +5809,7 @@ episodes:
   imdb_episode_id: tt14434674
   youtube_video_id: FsESCsAehtk
 - title: Biber, die Baumeister an der Elbe
+  title_fr: La revanche du castor
   air_date: '2021-03-28'
   duration: 45
   thetvdb_season_episode: S23E11
@@ -5803,6 +5820,7 @@ episodes:
   imdb_episode_id: tt14338900
   youtube_video_id: X8fy7jZl_rE
 - title: Pelikane, die Könige des Donaudeltas
+  title_fr: Le delta du danube, dernier refuge des pélicans
   air_date: '2021-04-04'
   duration: 45
   thetvdb_season_episode: S23E12
@@ -5813,6 +5831,7 @@ episodes:
   imdb_episode_id: tt14434664
   youtube_video_id: ZgBcESvfvYA
 - title: Frankreichs Winzer - Tradition trifft Passion
+  title_fr: Le renouveau du vignoble français
   air_date: '2021-04-18'
   duration: 43
   thetvdb_season_episode: S23E13
@@ -5835,6 +5854,7 @@ episodes:
   fernsehserien_episode_id: 1459069
   youtube_video_id: ltSG2rftqu8
 - title: Australien - Wenn Kunst auf Silos trifft
+  title_fr: Australie, le street art s'invite sur les silos
   air_date: '2021-05-09'
   duration: 43
   thetvdb_season_episode: S23E15
@@ -5845,6 +5865,7 @@ episodes:
   fernsehserien_episode_id: 1462468
   youtube_video_id: G8JDOqwLGog
 - title: Der Wüstenzug - die Lebensader Mauretaniens
+  title_fr: Mauritanie, le train du désert
   air_date: '2021-08-28'
   duration: 33
   thetvdb_season_episode: S23E16
@@ -5867,8 +5888,8 @@ episodes:
   fernsehserien_episode_id: 1491102
   imdb_episode_id: tt15529088
   youtube_video_id: T8zWiccuv0w
-- title: Die heilenden Delfine von Curacao
-  alias: Curacao - Die sanften Delfine
+- title: Die heilenden Delfine von Curaçao
+  alias: Curaçao - Die sanften Delfine
   title_fr: Curaçao, des dauphins thérapeutes
   air_date: '2021-09-11'
   duration: 32
@@ -5880,6 +5901,7 @@ episodes:
   imdb_episode_id: tt15529128
   youtube_video_id: wc4y3QIarAU
 - title: Der Traum vom Gold - Tirols Überfliegerinnen
+  title_fr: Le saut à ski féminin prend son envol
   air_date: '2021-09-11'
   duration: 32
   thetvdb_season_episode: S23E19
@@ -5901,6 +5923,7 @@ episodes:
   imdb_episode_id: tt16590496
   youtube_video_id: jEZT_6_qloo
 - title: Koh Panyee - Thailands fußballverrückte Insel
+  title_fr: Thaïlande, un terrain de football insolite
   air_date: '2021-10-02'
   duration: 32
   thetvdb_season_episode: S23E21
@@ -5934,6 +5957,7 @@ episodes:
   imdb_episode_id: tt17043702
   youtube_video_id: FN8ybVCWbVw
 - title: 'Dolomiten: Die Bergführer von San Martino'
+  title_fr: Dolomites, la passion de l'alpinisme
   air_date: '2021-10-30'
   duration: 32
   thetvdb_season_episode: S23E24
@@ -6116,6 +6140,7 @@ episodes:
   imdb_episode_id: tt21073772
   youtube_video_id: wZgpqRaV7Ik
 - title: Nopal, der Alleskönner aus Mexiko
+  title_fr: Cactus, l'or vert du mexique
   air_date: '2022-06-25'
   duration: 31
   thetvdb_season_episode: S24E16
@@ -6126,6 +6151,7 @@ episodes:
   imdb_episode_id: tt21203634
   youtube_video_id: MkXx_8rac_M
 - title: Tempo und Leidenschaft - Argentiniens Polo-Spielerinnen
+  title_fr: Argentine, le polo au féminin
   air_date: '2022-07-02'
   duration: 32
   thetvdb_season_episode: S24E17
@@ -6136,6 +6162,7 @@ episodes:
   imdb_episode_id: tt21243244
   youtube_video_id: Y-eQibAkbmo
 - title: 'Kourou: Palmen, Raketen, Gefängnisinseln'
+  title_fr: Kourou, des bagnes et des fusées
   air_date: '2022-07-09'
   duration: 32
   thetvdb_season_episode: S24E18
@@ -6157,6 +6184,7 @@ episodes:
   imdb_episode_id: tt21352210
   youtube_video_id: ug2XFpN43CU
 - title: Das Gerichtsschiff vom Amazonas
+  title_fr: Le tribunal flottant de l'amazone
   air_date: '2022-08-06'
   duration: 32
   thetvdb_season_episode: S24E20
@@ -6166,8 +6194,9 @@ episodes:
   fernsehserien_episode_slug: 598-das-gerichtsschiff-vom-amazonas-1579010
   fernsehserien_episode_id: 1579010
   imdb_episode_id: tt22023194
-- title: 'Kampf den Scharlatanen'
+- title: 'Indien - Kampf den Scharlatanen'
   alias: 'Der Science-Van on Tour: Indien - Kampf den Scharlatanen'
+  title_fr: Inde, vaincre les gourous
   air_date: '2022-09-17'
   duration: 32
   thetvdb_season_episode: S24E21
@@ -6178,6 +6207,7 @@ episodes:
   fernsehserien_episode_id: 1581860
   youtube_video_id: -Clpkb3JdkI
 - title: Ahornsirup - Kanadas süßer Schatz
+  title_fr: Canada, le pays du sirop d'erable
   air_date: '2022-09-24'
   duration: 32
   thetvdb_season_episode: S24E22
@@ -6188,6 +6218,7 @@ episodes:
   imdb_episode_id: tt22299618
   youtube_video_id: HlFRnPw6Y04
 - title: Estland - Krötenretter im Einsatz
+  title_fr: Estonie, au secours des grenouilles
   air_date: '2022-10-01'
   duration: 32
   thetvdb_season_episode: S24E23
