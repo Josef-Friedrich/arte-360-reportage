@@ -3720,19 +3720,19 @@
 {{Episodenlisteneintrag
 | NR_GES = 581
 | NR_ST = 1
-| OT = Die Lowrider-Ladies von L.A.<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/579-die-lowrider-ladies-von-la-1523102</ref><ref>https://thetvdb.com/series/272599-show/episodes/8949820</ref><ref>https://www.youtube.com/watch?v=3ql7jtqylzU</ref>
+| OT = Die Lowrider-Ladies von L.A. / Los Angeles, les reines du lowriding<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/579-die-lowrider-ladies-von-la-1523102</ref><ref>https://thetvdb.com/series/272599-show/episodes/8949820</ref><ref>https://www.youtube.com/watch?v=3ql7jtqylzU</ref>
 | EA = 2022-01-08
 }}
 {{Episodenlisteneintrag
 | NR_GES = 582
 | NR_ST = 2
-| OT = Tapire - Die Dschungel-Gärtner<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/580-tapire-die-dschungel-gaertner-1526120</ref><ref>https://thetvdb.com/series/272599-show/episodes/8949821</ref><ref>https://www.youtube.com/watch?v=bQXxzQjmPvo</ref>
+| OT = Tapire - Die Dschungel-Gärtner / Le tapir, jardinier des forêts tropicales<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/580-tapire-die-dschungel-gaertner-1526120</ref><ref>https://thetvdb.com/series/272599-show/episodes/8949821</ref><ref>https://www.youtube.com/watch?v=bQXxzQjmPvo</ref>
 | EA = 2022-01-15
 }}
 {{Episodenlisteneintrag
 | NR_GES = 583
 | NR_ST = 3
-| OT = Faszination Elbrus - Der Ritt zum Gipfel<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/581-faszination-elbrus-der-ritt-zum-gipfel-1526526</ref><ref>https://thetvdb.com/series/272599-show/episodes/8949822</ref><ref>https://www.youtube.com/watch?v=FgNR3JW-QbE</ref>
+| OT = Faszination Elbrus - Der Ritt zum Gipfel / Caucase, chevauchèe vers le mont elbrouz<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/581-faszination-elbrus-der-ritt-zum-gipfel-1526526</ref><ref>https://thetvdb.com/series/272599-show/episodes/8949822</ref><ref>https://www.youtube.com/watch?v=FgNR3JW-QbE</ref>
 | EA = 2022-01-22
 }}
 {{Episodenlisteneintrag
@@ -3750,13 +3750,13 @@
 {{Episodenlisteneintrag
 | NR_GES = 586
 | NR_ST = 6
-| OT = Die Odyssee der Mönchsrobbe<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/584-die-odyssee-der-moenchsrobbe-1531389</ref><ref>https://thetvdb.com/series/272599-show/episodes/8949825</ref><ref>https://www.imdb.com/title/tt18279912</ref><ref>https://www.youtube.com/watch?v=IrOfUxc812k</ref>
+| OT = Die Odyssee der Mönchsrobbe / L'Odyssèe du phoque moine<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/584-die-odyssee-der-moenchsrobbe-1531389</ref><ref>https://thetvdb.com/series/272599-show/episodes/8949825</ref><ref>https://www.imdb.com/title/tt18279912</ref><ref>https://www.youtube.com/watch?v=IrOfUxc812k</ref>
 | EA = 2022-02-19
 }}
 {{Episodenlisteneintrag
 | NR_GES = 587
 | NR_ST = 7
-| OT = Elsass - Land der Orgeln<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/585-elsass-land-der-orgeln-1533617</ref><ref>https://thetvdb.com/series/272599-show/episodes/8949826</ref><ref>https://www.imdb.com/title/tt18335884</ref><ref>https://www.youtube.com/watch?v=Ef81fAqnuJs</ref>
+| OT = Elsass - Land der Orgeln / Alsace, terre d'orgues<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/585-elsass-land-der-orgeln-1533617</ref><ref>https://thetvdb.com/series/272599-show/episodes/8949826</ref><ref>https://www.imdb.com/title/tt18335884</ref><ref>https://www.youtube.com/watch?v=Ef81fAqnuJs</ref>
 | EA = 2022-02-26
 }}
 {{Episodenlisteneintrag
@@ -3768,7 +3768,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 589
 | NR_ST = 9
-| OT = Die Puppen tanzen! - Litauens rollendes Theater<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/587-die-puppen-tanzen-litauens-rollendes-theater-1540410</ref><ref>https://thetvdb.com/series/272599-show/episodes/9075607</ref><ref>https://www.imdb.com/title/tt22300542</ref><ref>https://www.youtube.com/watch?v=axKuA1qBWGQ</ref>
+| OT = Die Puppen tanzen! - Litauens rollendes Theater / Lituanie, l'art des marionnettes<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/587-die-puppen-tanzen-litauens-rollendes-theater-1540410</ref><ref>https://thetvdb.com/series/272599-show/episodes/9075607</ref><ref>https://www.imdb.com/title/tt22300542</ref><ref>https://www.youtube.com/watch?v=axKuA1qBWGQ</ref>
 | EA = 2022-03-26
 }}
 {{Episodenlisteneintrag
@@ -3780,25 +3780,25 @@
 {{Episodenlisteneintrag
 | NR_GES = 591
 | NR_ST = 11
-| OT = Schwerelos im Windkanal<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/589-schwerelos-im-windkanal-1551765</ref><ref>https://thetvdb.com/series/272599-show/episodes/9158124</ref><ref>https://www.imdb.com/title/tt20231988</ref><ref>https://www.youtube.com/watch?v=jp5BDv9KCzY</ref>
+| OT = Schwerelos im Windkanal / Portès par le vent, le vol en soufflerie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/589-schwerelos-im-windkanal-1551765</ref><ref>https://thetvdb.com/series/272599-show/episodes/9158124</ref><ref>https://www.imdb.com/title/tt20231988</ref><ref>https://www.youtube.com/watch?v=jp5BDv9KCzY</ref>
 | EA = 2022-05-14
 }}
 {{Episodenlisteneintrag
 | NR_GES = 592
 | NR_ST = 12
-| OT = Frankreichs Gärten - Die kleinen Schätze<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/590-frankreichs-gaerten-die-kleinen-schaetze-1553064</ref><ref>https://thetvdb.com/series/272599-show/episodes/9158125</ref><ref>https://www.imdb.com/title/tt20190184</ref><ref>https://www.youtube.com/watch?v=6eWUfGWASTA</ref>
+| OT = Frankreichs Gärten - Die kleinen Schätze / Le trèsor du jardinier<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/590-frankreichs-gaerten-die-kleinen-schaetze-1553064</ref><ref>https://thetvdb.com/series/272599-show/episodes/9158125</ref><ref>https://www.imdb.com/title/tt20190184</ref><ref>https://www.youtube.com/watch?v=6eWUfGWASTA</ref>
 | EA = 2022-05-21
 }}
 {{Episodenlisteneintrag
 | NR_GES = 593
 | NR_ST = 13
-| OT = Europas Urwälder - Ein Schatz der Natur<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/591-europas-urwaelder-ein-schatz-der-natur-1556566</ref><ref>https://thetvdb.com/series/272599-show/episodes/9158126</ref><ref>https://www.imdb.com/title/tt20854434</ref><ref>https://www.youtube.com/watch?v=JXN5lNsTZCI</ref>
+| OT = Europas Urwälder - Ein Schatz der Natur / Forêts primaires, le poumon vert de l'europe<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/591-europas-urwaelder-ein-schatz-der-natur-1556566</ref><ref>https://thetvdb.com/series/272599-show/episodes/9158126</ref><ref>https://www.imdb.com/title/tt20854434</ref><ref>https://www.youtube.com/watch?v=JXN5lNsTZCI</ref>
 | EA = 2022-06-04
 }}
 {{Episodenlisteneintrag
 | NR_GES = 594
 | NR_ST = 14
-| OT = Panzer, Wölfe, Rothirsche - Bayerns wilder Übungsplatz<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/592-panzer-woelfe-rothirsche-bayerns-wilder-uebungsplatz-1559229</ref><ref>https://thetvdb.com/series/272599-show/episodes/9158127</ref><ref>https://www.imdb.com/title/tt21030816</ref><ref>https://www.youtube.com/watch?v=kyrHUKDiyck</ref>
+| OT = Panzer, Wölfe, Rothirsche - Bayerns wilder Übungsplatz / Loups et cerfs à l'ombre des blindès<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/592-panzer-woelfe-rothirsche-bayerns-wilder-uebungsplatz-1559229</ref><ref>https://thetvdb.com/series/272599-show/episodes/9158127</ref><ref>https://www.imdb.com/title/tt21030816</ref><ref>https://www.youtube.com/watch?v=kyrHUKDiyck</ref>
 | EA = 2022-06-11
 }}
 {{Episodenlisteneintrag
@@ -3876,7 +3876,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 607
 | NR_ST = 27
-| OT = Die Schweizergarde - Ein Leben für den Papst<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/605-die-schweizergarde-ein-leben-fuer-den-papst-1602010</ref><ref>https://thetvdb.com/series/272599-show/episodes/9524024</ref><ref>https://www.imdb.com/title/tt23985080</ref>
+| OT = Die Schweizergarde - Ein Leben für den Papst / Vatican, en coulisse avec les Gardes suisses<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/605-die-schweizergarde-ein-leben-fuer-den-papst-1602010</ref><ref>https://thetvdb.com/series/272599-show/episodes/9524024</ref><ref>https://www.imdb.com/title/tt23985080</ref>
 | EA = 2022-12-03
 }}
 {{Episodenlisteneintrag
@@ -3940,7 +3940,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 616
 | NR_ST = 6
-| OT = Albanien - Die Stimmen der Schäfer<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/612-albanien-die-stimmen-der-schaefer-1618464</ref><ref>https://www.imdb.com/title/tt26898737</ref>
+| OT = Albanien - Die Stimmen der Schäfer / Albanie, une vie de berger<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/612-albanien-die-stimmen-der-schaefer-1618464</ref><ref>https://www.imdb.com/title/tt26898737</ref>
 | EA = 2023-02-25
 }}
 {{Episodenlisteneintrag

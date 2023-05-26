@@ -5944,6 +5944,7 @@ episodes:
   imdb_episode_id: tt15746990
   youtube_video_id: rqDUm-WpZJ0
 - title: Die Lowrider-Ladies von L.A.
+  title_fr: Los Angeles, les reines du lowriding
   air_date: '2022-01-08'
   duration: 32
   thetvdb_season_episode: S24E01
@@ -5953,6 +5954,7 @@ episodes:
   fernsehserien_episode_id: 1523102
   youtube_video_id: 3ql7jtqylzU
 - title: Tapire - Die Dschungel-Gärtner
+  title_fr: Le tapir, jardinier des forêts tropicales
   air_date: '2022-01-15'
   duration: 32
   thetvdb_season_episode: S24E02
@@ -5962,6 +5964,7 @@ episodes:
   fernsehserien_episode_id: 1526120
   youtube_video_id: bQXxzQjmPvo
 - title: Faszination Elbrus - Der Ritt zum Gipfel
+  title_fr: Caucase, chevauchèe vers le mont elbrouz
   air_date: '2022-01-22'
   duration: 32
   thetvdb_season_episode: S24E03
@@ -5992,6 +5995,7 @@ episodes:
   imdb_episode_id: tt18228046
   youtube_video_id: 2MTSdkn22a4
 - title: Die Odyssee der Mönchsrobbe
+  title_fr: L'Odyssèe du phoque moine
   air_date: '2022-02-19'
   duration: 32
   thetvdb_season_episode: S24E06
@@ -6003,6 +6007,7 @@ episodes:
   imdb_episode_id: tt18279912
   youtube_video_id: IrOfUxc812k
 - title: Elsass - Land der Orgeln
+  title_fr: Alsace, terre d'orgues
   air_date: '2022-02-26'
   duration: 32
   thetvdb_season_episode: S24E07
@@ -6026,6 +6031,7 @@ episodes:
   imdb_episode_id: tt18603248
   youtube_video_id: p33T3S0tqBA
 - title: Die Puppen tanzen! - Litauens rollendes Theater
+  title_fr: Lituanie, l'art des marionnettes
   air_date: '2022-03-26'
   duration: 32
   thetvdb_season_episode: S24E09
@@ -6048,6 +6054,7 @@ episodes:
   fernsehserien_episode_id: 1557485
   youtube_video_id: if6OhSEjkxM
 - title: Schwerelos im Windkanal
+  title_fr: Portès par le vent, le vol en soufflerie
   air_date: '2022-05-14'
   duration: 32
   thetvdb_season_episode: S24E11
@@ -6060,6 +6067,7 @@ episodes:
   youtube_video_id: jp5BDv9KCzY
 - title: Frankreichs Gärten - Die kleinen Schätze
   alias: Die kleinen Schätze in Frankreichs Gärten
+  title_fr: Le trèsor du jardinier
   air_date: '2022-05-21'
   duration: 32
   thetvdb_season_episode: S24E12
@@ -6071,6 +6079,7 @@ episodes:
   imdb_episode_id: tt20190184
   youtube_video_id: 6eWUfGWASTA
 - title: Europas Urwälder - Ein Schatz der Natur
+  title_fr: Forêts primaires, le poumon vert de l'europe
   air_date: '2022-06-04'
   duration: 32
   thetvdb_season_episode: S24E13
@@ -6083,6 +6092,7 @@ episodes:
   youtube_video_id: JXN5lNsTZCI
 - title: Panzer, Wölfe, Rothirsche - Bayerns wilder Übungsplatz
   alias: Zwischen Naturschutz und Panzern - Bayerns wilder Schießplatz
+  title_fr: Loups et cerfs à l'ombre des blindès
   air_date: '2022-06-11'
   duration: 32
   thetvdb_season_episode: S24E14
