@@ -7819,6 +7819,11 @@
       ]
     },
     {
+      "title": "Beirut - Die Milliarden Dollar Utopie",
+      "asin": "B002KQ68ZI",
+      "release_date": "2009-09-02"
+    },
+    {
       "title": "Eine Reise durch Nordamerika",
       "asin": "B005WPNWGC",
       "dvd_count": 4,
@@ -8095,6 +8100,148 @@
       "collection": [
         "Eine Seereise durch den Norden Europas",
         "Leben an der Küste"
+      ]
+    },
+    {
+      "title": "Chandigarh - Leben im Beton",
+      "asin": "B002KQ6844",
+      "release_date": "2009-09-02",
+      "dvd_count": 1
+    },
+    {
+      "title": "Chemie der Traurigkeit",
+      "asin": "B002HWRL5Q",
+      "release_date": "2009-09-02",
+      "dvd_count": 1
+    },
+    {
+      "title": "Cunahá - Tod im Regenwald",
+      "asin": "B002KQ68LW",
+      "release_date": "2009-09-02",
+      "dvd_count": 1
+    },
+    {
+      "title": "Der Blechmusik Oskar",
+      "asin": "B002KQ68T4",
+      "release_date": "2009-09-02",
+      "dvd_count": 1
+    },
+    {
+      "title": "Der Markt der Schönheit",
+      "asin": "B002HWRL1U",
+      "release_date": "2009-09-02",
+      "dvd_count": 1
+    },
+    {
+      "title": "Die ausgefallensten Sportwettkämpfe",
+      "dvd_count": 2,
+      "asin": "B084B21LZV",
+      "release_date": "2020-04-02",
+      "episodes": [
+        "Die Schlammfußballer von Island",
+        "Kushti, Indiens uralter Kampfsport",
+        "Spanien, die Kunst der Menschentürme",
+        "Pyrenäen, ein Hirte zwischen Himmel und Erde",
+        "Mexiko - Die edlen Reiterinnen",
+        "Wilde Schweiz, Von Ringern und Schwingern",
+        "Schottland - Kampf, Clan und Könige",
+        "Jonathan, der Flugakrobat"
+      ]
+    },
+    {
+      "title": "Die Baustelle des Herrn",
+      "asin": "B002HWRLCE",
+      "release_date": "2009-09-02",
+      "dvd_count": 1
+    },
+    {
+      "title": "Die Farm der Schmetterlinge",
+      "asin": "B002KQ68JY",
+      "release_date": "2009-09-02",
+      "dvd_count": 1
+    },
+    {
+      "title": "Die Schule der Inuit",
+      "asin": "B002KQ68QW",
+      "release_date": "2009-09-02",
+      "dvd_count": 1
+    },
+    {
+      "title": "Die Seelensammler von Bangkok",
+      "asin": "B002KQ68YY",
+      "release_date": "2009-09-02",
+      "dvd_count": 1
+    },
+    {
+      "title": "Geniale Störenfriede",
+      "asin": "B002HWRL2Y",
+      "release_date": "2009-09-02",
+      "dvd_count": 1
+    },
+    {
+      "title": "Mehr als nur ein Kinderspiel",
+      "asin": "B002KQ687G",
+      "release_date": "2009-09-02",
+      "dvd_count": 1
+    },
+    {
+      "title": "Mensch Roboter!",
+      "asin": "B002J9GH48",
+      "release_date": "2009-09-02",
+      "dvd_count": 1
+    },
+    {
+      "title": "Musik macht klug",
+      "asin": "B002HWRL38",
+      "release_date": "2009-09-02",
+      "dvd_count": 1
+    },
+    {
+      "title": "Deutschland - Quer durch die Heimat",
+      "dvd_count": 2,
+      "asin": "B08F6RYDPJ",
+      "release_date": "2020-10-22",
+      "episodes": [
+        "Die Ostsee, Sehnsuchtsort der Kraniche",
+        "Zauberhafte Mosel",
+        "Spreewald – Kähne, Köche, Klapperstörche",
+        "Elbsandsteingebirge – Märchenwelt und Meisterwerke",
+        "Die Halligen mitten im Winter, mitten im Wasser",
+        "Hamburg, die Stadt der Schwäne",
+        "Gnadenhof „Gut Aiderbichl“",
+        "Biberkrieg in Bayern"
+      ]
+    },
+    {
+      "title": "Eine Reise nach Südostasien",
+      "dvd_count": 2,
+      "asin": "B08F6TVTQQ",
+      "release_date": "2020-10-22",
+      "episodes": [
+        "Chatuchak, Bangkoks Riesenmarkt",
+        "Auf Schlangenjagd in Bangkok",
+        "Myanmars Bambusbrücke – Ein Dorf packt an!",
+        "Myanmar, die Marmorküste von Mandalay",
+        "Vietnam, das Schicksal der Mondbären",
+        "Java, zauberhafte Schattentheater",
+        "Unter Haien: Riffpatrouille in den Sulu-See",
+        "Sulawesi – Die letzten Seenomaden"
+      ]
+    },
+    {
+      "title": "Zwischen Heilkraft und Wellness",
+      "dvd_count": 2,
+      "asin": "B084B34SYS",
+      "release_date": "2020-4-02",
+      "episodes": [
+        "Yoga, Indiens erstaunliche Medizin",
+        "Indien, heilendes Ayurveda",
+        "Thaimassage, die Heilkunst der Buddhisten",
+        "Die Herren des Lavendel",
+        "Tibetische Medizin – Heilkraft für die Seele",
+        "Arnika – Von der Kraft einer Heilpflanze",
+        "Japan, der Meister des Zen-Gartens",
+        "Heilende Schwingungen der Klangschalen"
       ]
     }
   ]
