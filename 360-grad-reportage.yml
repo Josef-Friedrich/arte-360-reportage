@@ -6402,6 +6402,111 @@ episodes:
 
 dvds:
 
+- title: Kolumbien - Die rasenden Engel der Linea 5
+  dvd_count: 1
+  ean: '4009496401519'
+  release_date: '2007-01-01'
+  production_date: '2007-01-01'
+  duration: 52
+  mediamops: M0B09SDJQGBH
+  asin: B09SDJQGBH
+
+- title: Die Baustelle des Herrn
+  ean: '0883629672953'
+  duration: 25
+  mediamops: M0B002HWRLCE
+  asin: B002HWRLCE
+  release_date: '2009-09-02'
+  dvd_count: 1
+
+- title: Die Farm der Schmetterlinge
+  ean: '0883629673134'
+  duration: 25
+  mediamops: M0B002KQ68JY
+  asin: B002KQ68JY
+  release_date: '2009-09-02'
+  dvd_count: 1
+
+- title: Die Schule der Inuit
+  asin: B002KQ68QW
+  release_date: '2009-09-02'
+  dvd_count: 1
+
+- title: Die Seelensammler von Bangkok
+  ean: '0883629673622'
+  duration: 25
+  mediamops: M0B002KQ68YY
+  asin: B002KQ68YY
+  release_date: '2009-09-02'
+  dvd_count: 1
+
+- title: Geniale Störenfriede
+  ean: '0883629672359'
+  duration: 25
+  mediamops: M0B002HWRL2Y
+  asin: B002HWRL2Y
+  release_date: '2009-09-02'
+  dvd_count: 1
+
+- title: Mehr als nur ein Kinderspiel
+  ean: '0883629672618'
+  duration: 25
+  mediamops: M0B002KQ687G
+  asin: B002KQ687G
+  release_date: '2009-09-02'
+  dvd_count: 1
+
+- title: Mensch Roboter!
+  asin: B002J9GH48
+  release_date: '2009-09-02'
+  dvd_count: 1
+
+- title: Musik macht klug
+  asin: B002HWRL38
+  release_date: '2009-09-02'
+  dvd_count: 1
+
+- title: Chandigarh - Leben im Beton
+  ean: '0883629672168'
+  duration: 25
+  mediamops: M0B002KQ6844
+  asin: B002KQ6844
+  release_date: '2009-09-02'
+  dvd_count: 1
+
+- title: Chemie der Traurigkeit
+  ean: '0883629672458'
+  duration: 25
+  mediamops: M0B002HWRL5Q
+  asin: B002HWRL5Q
+  release_date: '2009-09-02'
+  dvd_count: 1
+
+- title: Cunahá - Tod im Regenwald
+  ean: '0883629673196'
+  duration: 25
+  mediamops: M0B002KQ68LW
+  asin: B002KQ68LW
+  release_date: '2009-09-02'
+  dvd_count: 1
+
+- title: Der Blechmusik Oskar
+  ean: '0883629673424'
+  duration: 25
+  mediamops: M0B002KQ68T4
+  asin: B002KQ68T4
+  release_date: '2009-09-02'
+  dvd_count: 1
+
+- title: Der Markt der Schönheit
+  asin: B002HWRL1U
+  release_date: '2009-09-02'
+  dvd_count: 1
+
+- title: Beirut - Die Milliarden Dollar Utopie
+  asin: B002KQ68ZI
+  release_date: '2009-09-02'
+
 - title: Eine kulinarische Reise um die Welt
   ean: '4006680065199'
   release_date: '2012-12-06'
@@ -6448,7 +6553,9 @@ dvds:
 
 - title: Leben in Italien
   asin: B01FL88C6E
-
+  duration: '4006680082875'
+  release_date: '2016-07-07'
+  production_date: '2015-01-01'
   dvd_count: 2
   episodes:
   - Die Rettungshunde vom Gardasee
@@ -6570,10 +6677,6 @@ dvds:
   - Venezuela, die Blitze von Catatumbo
   - Rum auf Guadeloupe
 
-- title: Beirut - Die Milliarden Dollar Utopie
-  asin: B002KQ68ZI
-  release_date: '2009-09-02'
-
 - title: Eine Reise durch Nordamerika
   asin: B005WPNWGC
   dvd_count: 4
@@ -6614,7 +6717,9 @@ dvds:
 
 - title: Das Leben auf dem Wasser
   asin: B01I60VC0C
-
+  ean: '4006680082905'
+  release_date: '2016-09-01'
+  duration: 468
   dvd_count: 3
   episodes:
   - Arktis - Die Route der Atomeisbrecher
@@ -6629,6 +6734,9 @@ dvds:
 
 - title: Starke Frauen
   asin: B01E0NDKDQ
+  ean: '4006680079073'
+  release_date: '2016-10-20'
+  duration: 628
   episodes:
   - Churubamba - Frauen am Ball
   - Die Falkenärztin von Abu Dhabi
@@ -6676,6 +6784,7 @@ dvds:
   - Auf den Dächern von Kairo
   - Johannesburg - Eine Stadt macht dicht
   - Taipeh 101 - Der Himmel über Taiwan
+
 - title: Eine Expedition durch Südamerika
   dvd_count: 4
   asin: B009CW2HQMB008IAQPFI
@@ -6810,15 +6919,6 @@ dvds:
   - Miyako - Insel des langen Lebens
   - Tasmanien - Wächterin im Paradies
 
-- title: KOLUMBIEN - Die rasenden Engel der Linea 5
-  dvd_count: 1
-  ean: '4009496401519'
-  release_date: '2007-01-01'
-  production_date: '2007-01-01'
-  duration: 52
-  mediamops: M0B09SDJQGBH
-  asin: B09SDJQGBH
-
 - title: Der Mensch und das Meer
   ean: '4006680063249'
   duration: 1039
@@ -6830,43 +6930,6 @@ dvds:
   collection:
   - Eine Seereise durch den Norden Europas
   - Leben an der Küste
-
-- title: Chandigarh - Leben im Beton
-  ean: '0883629672168'
-  duration: 25
-  mediamops: M0B002KQ6844
-  asin: B002KQ6844
-  release_date: '2009-09-02'
-  dvd_count: 1
-
-- title: Chemie der Traurigkeit
-  ean: '0883629672458'
-  duration: 25
-  mediamops: M0B002HWRL5Q
-  asin: B002HWRL5Q
-  release_date: '2009-09-02'
-  dvd_count: 1
-
-- title: Cunahá - Tod im Regenwald
-  ean: '0883629673196'
-  duration: 25
-  mediamops: M0B002KQ68LW
-  asin: B002KQ68LW
-  release_date: '2009-09-02'
-  dvd_count: 1
-
-- title: Der Blechmusik Oskar
-  ean: '0883629673424'
-  duration: 25
-  mediamops: M0B002KQ68T4
-  asin: B002KQ68T4
-  release_date: '2009-09-02'
-  dvd_count: 1
-
-- title: Der Markt der Schönheit
-  asin: B002HWRL1U
-  release_date: '2009-09-02'
-  dvd_count: 1
 
 - title: Die ausgefallensten Sportwettkämpfe
   ean: '4006680095264'
@@ -6884,61 +6947,6 @@ dvds:
   - Wilde Schweiz, Von Ringern und Schwingern
   - Schottland - Kampf, Clan und Könige
   - Jonathan, der Flugakrobat
-
-- title: Die Baustelle des Herrn
-  ean: '0883629672953'
-  duration: 25
-  mediamops: M0B002HWRLCE
-  asin: B002HWRLCE
-  release_date: '2009-09-02'
-  dvd_count: 1
-
-- title: Die Farm der Schmetterlinge
-  ean: '0883629673134'
-  duration: 25
-  mediamops: M0B002KQ68JY
-  asin: B002KQ68JY
-  release_date: '2009-09-02'
-  dvd_count: 1
-
-- title: Die Schule der Inuit
-  asin: B002KQ68QW
-  release_date: '2009-09-02'
-  dvd_count: 1
-
-- title: Die Seelensammler von Bangkok
-  ean: '0883629673622'
-  duration: 25
-  mediamops: M0B002KQ68YY
-  asin: B002KQ68YY
-  release_date: '2009-09-02'
-  dvd_count: 1
-
-- title: Geniale Störenfriede
-  ean: '0883629672359'
-  duration: 25
-  mediamops: M0B002HWRL2Y
-  asin: B002HWRL2Y
-  release_date: '2009-09-02'
-  dvd_count: 1
-
-- title: Mehr als nur ein Kinderspiel
-  ean: '0883629672618'
-  duration: 25
-  mediamops: M0B002KQ687G
-  asin: B002KQ687G
-  release_date: '2009-09-02'
-  dvd_count: 1
-
-- title: Mensch Roboter!
-  asin: B002J9GH48
-  release_date: '2009-09-02'
-  dvd_count: 1
-
-- title: Musik macht klug
-  asin: B002HWRL38
-  release_date: '2009-09-02'
-  dvd_count: 1
 
 - title: Deutschland - Quer durch die Heimat
   ean: '4006680096018'
