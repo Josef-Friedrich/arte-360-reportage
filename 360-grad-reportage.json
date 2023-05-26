@@ -7501,6 +7501,7 @@
     },
     {
       "title": "Montenegro - Der Eselretter",
+      "title_fr": "Monténégro, pour l'amour des ánes",
       "air_date": "2023-01-07",
       "duration": 32,
       "episode": 1,
@@ -7527,6 +7528,7 @@
     },
     {
       "title": "Maine - Hummer oder Wale?",
+      "title_fr": "Pêcher le homard ou protéger les baleines?",
       "air_date": "2023-01-28",
       "duration": 32,
       "episode": 5,
@@ -7537,15 +7539,6 @@
       "fernsehserien_episode_slug": "611-maine-hummer-oder-wale-1613685",
       "fernsehserien_episode_id": 1613685,
       "imdb_episode_id": "tt26472394"
-    },
-    {
-      "title": "Singvögel - die goldene Stimmen von Singapur",
-      "air_date": "2023-02-04",
-      "duration": 32,
-      "episode": 6,
-      "thetvdb_season_episode": "S25E06",
-      "thetvdb_episode_id": 9524041,
-      "imdb_episode_id": "tt18413922"
     },
     {
       "title": "Namibia - von Sandsurfern und Skatern",
