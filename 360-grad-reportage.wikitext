@@ -504,7 +504,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 80
 | NR_ST = 4
-| OT = Überleben in der Wüste: Wüste auf Bewährung<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/80-ueberleben-in-der-wueste-wueste-auf-bewaehrung-339359</ref><ref>https://thetvdb.com/series/272599-show/episodes/4641938</ref><ref>https://www.youtube.com/watch?v=GA9d8JNQ0aY</ref>
+| OT = Überleben in der Wüste: Wüste auf Bewährung / Les Prisonniers du Désert<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/80-ueberleben-in-der-wueste-wueste-auf-bewaehrung-339359</ref><ref>https://thetvdb.com/series/272599-show/episodes/4641938</ref><ref>https://www.youtube.com/watch?v=GA9d8JNQ0aY</ref>
 | EA = 2001-01-05
 }}
 {{Episodenlisteneintrag
