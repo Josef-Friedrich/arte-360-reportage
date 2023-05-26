@@ -18,6 +18,13 @@
     "https://www.youtube.com/@georeportage",
     "https://www.youtube.com/playlist?list=PLAocIS-jUf43CkOnsymOxHihGWKfCkUDC"
   ],
+  "seasons": [
+    {
+      "false": null,
+      "year": null,
+      "episodes": null
+    }
+  ],
   "episodes": [
     {
       "title": "Traum-Städte: Beirut - die Milliarden-Dollar-Utopie",
@@ -8095,6 +8102,11 @@
     },
     {
       "title": "Der Mensch und das Meer",
+      "ean": "4006680063249",
+      "duration": 1039,
+      "mediamops": "M0B007BZ06QU",
+      "release_date": "2012-05-01",
+      "production_date": "2011-01-01",
       "asin": "B007BZ06QU",
       "dvd_count": 8,
       "collection": [
@@ -8104,24 +8116,36 @@
     },
     {
       "title": "Chandigarh - Leben im Beton",
+      "ean": "0883629672168",
+      "duration": 25,
+      "mediamops": "M0B002KQ6844",
       "asin": "B002KQ6844",
       "release_date": "2009-09-02",
       "dvd_count": 1
     },
     {
       "title": "Chemie der Traurigkeit",
+      "ean": "0883629672458",
+      "duration": 25,
+      "mediamops": "M0B002HWRL5Q",
       "asin": "B002HWRL5Q",
       "release_date": "2009-09-02",
       "dvd_count": 1
     },
     {
       "title": "Cunahá - Tod im Regenwald",
+      "ean": "0883629673196",
+      "duration": 25,
+      "mediamops": "M0B002KQ68LW",
       "asin": "B002KQ68LW",
       "release_date": "2009-09-02",
       "dvd_count": 1
     },
     {
       "title": "Der Blechmusik Oskar",
+      "ean": "0883629673424",
+      "duration": 25,
+      "mediamops": "M0B002KQ68T4",
       "asin": "B002KQ68T4",
       "release_date": "2009-09-02",
       "dvd_count": 1
@@ -8134,6 +8158,9 @@
     },
     {
       "title": "Die ausgefallensten Sportwettkämpfe",
+      "ean": "4006680095264",
+      "duration": 410,
+      "mediamops": "M0B084B21LZV",
       "dvd_count": 2,
       "asin": "B084B21LZV",
       "release_date": "2020-04-02",
@@ -8150,12 +8177,18 @@
     },
     {
       "title": "Die Baustelle des Herrn",
+      "ean": "0883629672953",
+      "duration": 25,
+      "mediamops": "M0B002HWRLCE",
       "asin": "B002HWRLCE",
       "release_date": "2009-09-02",
       "dvd_count": 1
     },
     {
       "title": "Die Farm der Schmetterlinge",
+      "ean": "0883629673134",
+      "duration": 25,
+      "mediamops": "M0B002KQ68JY",
       "asin": "B002KQ68JY",
       "release_date": "2009-09-02",
       "dvd_count": 1
@@ -8168,18 +8201,27 @@
     },
     {
       "title": "Die Seelensammler von Bangkok",
+      "ean": "0883629673622",
+      "duration": 25,
+      "mediamops": "M0B002KQ68YY",
       "asin": "B002KQ68YY",
       "release_date": "2009-09-02",
       "dvd_count": 1
     },
     {
       "title": "Geniale Störenfriede",
+      "ean": "0883629672359",
+      "duration": 25,
+      "mediamops": "M0B002HWRL2Y",
       "asin": "B002HWRL2Y",
       "release_date": "2009-09-02",
       "dvd_count": 1
     },
     {
       "title": "Mehr als nur ein Kinderspiel",
+      "ean": "0883629672618",
+      "duration": 25,
+      "mediamops": "M0B002KQ687G",
       "asin": "B002KQ687G",
       "release_date": "2009-09-02",
       "dvd_count": 1
@@ -8198,6 +8240,9 @@
     },
     {
       "title": "Deutschland - Quer durch die Heimat",
+      "ean": "4006680096018",
+      "duration": 410,
+      "mediamops": "M0B08F6RYDPJ",
       "dvd_count": 2,
       "asin": "B08F6RYDPJ",
       "release_date": "2020-10-22",
@@ -8214,6 +8259,9 @@
     },
     {
       "title": "Eine Reise nach Südostasien",
+      "ean": "4006680096001",
+      "duration": 420,
+      "mediamops": "M0B08F6TVTQQ",
       "dvd_count": 2,
       "asin": "B08F6TVTQQ",
       "release_date": "2020-10-22",
@@ -8230,9 +8278,12 @@
     },
     {
       "title": "Zwischen Heilkraft und Wellness",
+      "ean": "4006680095257",
+      "duration": 425,
+      "mediamops": "M0B084B34SYS",
       "dvd_count": 2,
       "asin": "B084B34SYS",
-      "release_date": "2020-4-02",
+      "release_date": "2020-04-02",
       "episodes": [
         "Yoga, Indiens erstaunliche Medizin",
         "Indien, heilendes Ayurveda",
