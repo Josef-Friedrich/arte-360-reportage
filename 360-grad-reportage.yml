@@ -6222,6 +6222,8 @@ episodes:
   fernsehserien_episode_id: 1596812
   imdb_episode_id: tt23747588
 - title: Die Schweizergarde - Ein Leben für den Papst
+  title_fr: Vatican, en coulisse avec les Gardes suisses
+  arte: https://www.arte.tv/de/videos/106265-018-F/360-reportage
   air_date: '2022-12-03'
   duration: 32
   thetvdb_season_episode: S24E27
@@ -6313,6 +6315,8 @@ episodes:
   thetvdb_season_episode: S25E07
   thetvdb_episode_id: 9524042
 - title: Albanien - Die Stimmen der Schäfer
+  title_fr: Albanie, une vie de berger
+  arte: https://www.arte.tv/de/videos/106265-016-F/360-reportage/
   air_date: '2023-02-25'
   episode: 8
   fernsehserien_episode_no: 612
