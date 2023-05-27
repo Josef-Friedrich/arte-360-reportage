@@ -28,6 +28,12 @@ class EpisodeData(typing.TypedDict):
 
     continent: typing.Literal["Europa", "Amerika", "Asien", "Afrika", "Ozeanien und Pole"]
 
+    description: str
+    """Longest description that can be found"""
+
+    description_short: str
+    """two sentences generate by openai"""
+
     air_date: str
 
     duration: int
