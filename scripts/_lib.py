@@ -15,11 +15,11 @@ from _episode import Episode
 
 
 if TYPE_CHECKING:
-    from _episode import EpisodeData
+    from _season import SeasonData
 
 
 class TvShowData(typing.TypedDict):
-    episodes: list[EpisodeData]
+    seasons: list[SeasonData]
     databases: dict[str, str]
 
 
