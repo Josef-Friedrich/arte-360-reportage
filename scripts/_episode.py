@@ -22,6 +22,9 @@ class EpisodeData(typing.TypedDict):
     title_en: str
     """English title"""
 
+    topic: str
+    """For example Traum-Städte"""
+
     air_date: str
 
     duration: int
