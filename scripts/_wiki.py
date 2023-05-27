@@ -16,7 +16,8 @@ def format_internetquelle(
     titel_ergaenzung: str | None = None,
     herausgeber: str | None = None,
 ) -> str:
-    """https://de.wikipedia.org/wiki/Vorlage:Internetquelle"""
+    """https://de.wikipedia.org/wiki/Vorlage:Internetquelle not usable because of
+    https://de.wikipedia.org/wiki/Hilfe:Vorlagenbeschr%C3%A4nkungen"""
 
     def format_key_value(key: str, value: str) -> str:
         return "|" + key + "=" + value
@@ -82,3 +83,20 @@ def format_ref_fernsehserien(episode: Episode) -> str:
             website="fernsehserien.de",
         )
     )
+
+
+# === Saisons 21 et plus (2019 à aujourd'hui)===
+# {| class="wikitable sortable mw-collapsible mw-collapsed"
+# |+Saison 21 — Année 2019
+# !width="8%"|N°
+# !width="5%"|
+# !width="87%"|Titre français
+# |-
+# |1
+# |💚
+# | Inde, la Lutte à Mains Nues
+# |-
+# |30
+# |
+# |
+# |}

@@ -3,7 +3,6 @@
 from __future__ import annotations
 from _lib import tv_show as geo, Episode
 from _wiki import format_ref
-import _wiki
 
 """
 https://de.wikipedia.org/wiki/Vorlage:Episodenlistentabelle
@@ -46,42 +45,43 @@ def generate_season(year: int, season_no: int, episode_entries: list[str]) -> st
     )
 
 
-episode_entries: list[str] = []
-season_entries: list[str] = []
-absolute_no = 1
-episode_no = 1
-year = 0
-season_no = 0
+def main() -> None:
+    episode_entries: list[str] = []
+    season_entries: list[str] = []
+    absolute_no = 1
+    episode_no = 1
+    year = 0
+    season_no = 0
 
-
-def collect_episodes():
-    global episode_entries
-    global season_entries
-    global episode_no
-    if len(episode_entries) > 0:
-        season_entries.append(
-            generate_season(
-                year=year, season_no=season_no, episode_entries=episode_entries
+    def collect_episodes() -> None:
+        nonlocal episode_entries
+        nonlocal season_entries
+        nonlocal episode_no
+        if len(episode_entries) > 0:
+            season_entries.append(
+                generate_season(
+                    year=year, season_no=season_no, episode_entries=episode_entries
+                )
             )
+            episode_entries = []
+            episode_no = 1
+
+    for episode in geo.episodes:
+        if year != episode.year:
+            collect_episodes()
+            year: int = episode.year
+            season_no += 1
+
+        episode_entries.append(
+            generate_episode(episode, episode_no=episode_no, absolute_no=absolute_no)
         )
-        episode_entries = []
-        episode_no = 1
+        absolute_no += 1
+        episode_no += 1
+
+    collect_episodes()
+
+    with open("360-grad-reportage.wikitext", "w") as readme:
+        readme.write("\n".join(season_entries))
 
 
-for episode in geo.episodes:
-    if year != episode.year:
-        collect_episodes()
-        year: int = episode.year
-        season_no += 1
-
-    episode_entries.append(
-        generate_episode(episode, episode_no=episode_no, absolute_no=absolute_no)
-    )
-    absolute_no += 1
-    episode_no += 1
-
-collect_episodes()
-
-
-with open("360-grad-reportage.wikitext", "w") as readme:
-    readme.write("\n".join(season_entries))
+main()

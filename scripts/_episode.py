@@ -16,6 +16,7 @@ class EpisodeData(typing.TypedDict):
     """German title"""
 
     alias: str
+
     title_fr: str
     """French title"""
 
@@ -23,7 +24,9 @@ class EpisodeData(typing.TypedDict):
     """English title"""
 
     topic: str
-    """For example Traum-Städte"""
+    """For example ``Traum-Städte``"""
+
+    continent: typing.Literal["Europa", "Amerika", "Asien", "Afrika", "Ozeanien und Pole"]
 
     air_date: str
 
