@@ -1,5 +1,5 @@
 #! /usr/bin/env python
 
-import _lib
+from _tvshow import tv_show
 
-_lib.tv_show.export_to_json()
+tv_show.export_to_json()

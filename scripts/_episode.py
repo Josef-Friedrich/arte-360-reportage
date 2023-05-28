@@ -73,28 +73,39 @@ class Episode:
     season_no: int
     episode_no: int
 
-    def __init__(self, data: EpisodeData, tv_show: TvShowData) -> None:
+    def __init__(
+        self,
+        data: EpisodeData,
+        tv_show: TvShowData,
+        overall_no: int,
+        season_no: int,
+        episode_no: int,
+    ) -> None:
         self.data = data
         self.tv_show = tv_show
+        self.overall_no = overall_no
+        self.season_no = season_no
+        self.episode_no = episode_no
 
     @property
     def title(self) -> str:
         return self.data["title"]
 
+    def __get_str_key(self, key: str) -> str | None:
+        if key in self.data and self.data[key] != "":
+            return typing.cast(str, self.data[key])
+
     @property
     def title_fr(self) -> str | None:
-        if "title_fr" in self.data and self.data["title_fr"] != "":
-            return self.data["title_fr"]
+        return self.__get_str_key("title_fr")
 
     @property
     def title_en(self) -> str | None:
-        if "title_en" in self.data and self.data["title_en"] != "":
-            return self.data["title_en"]
+        return self.__get_str_key("title_en")
 
     @property
     def alias(self) -> str | None:
-        if "alias" in self.data and self.data["alias"] != "":
-            return self.data["alias"]
+        return self.__get_str_key("alias")
 
     @property
     def air_date(self) -> str:

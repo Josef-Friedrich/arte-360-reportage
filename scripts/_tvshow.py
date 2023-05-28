@@ -15,7 +15,7 @@ from _episode import Episode
 
 
 if TYPE_CHECKING:
-    from _season import SeasonData
+    from _season import SeasonData, Season
 
 
 class TvShowData(typing.TypedDict):
@@ -33,9 +33,11 @@ class TvShow:
 
     episodes: list[Episode]
 
+    seasons: list[Season]
+
     def __init__(self) -> None:
         self.data = self.__load()
-        self.episodes = self.__add_episodes()
+        self.__generate_season_episodes()
         self.titles = self.__generate_title_list()
 
     def __load(self) -> TvShowData:
@@ -43,20 +45,26 @@ class TvShow:
             result: TvShowData = yaml.load(y, Loader=yaml.Loader)
             return result
 
-    def __add_episodes(self) -> list[Episode]:
-        result: list[Episode] = []
+    def __generate_season_episodes(self) -> None:
+        self.episodes: list[Episode] = []
+        self.seasons: list[Season] = []
         overall_no: int = 1
         for season_data in self.data["seasons"]:
+            episodes: list[Episode] = []
             episode_no: int = 1
             for episode_data in season_data["episodes"]:
-                episode = Episode(episode_data, self.data)
-                episode.episode_no = episode_no
-                episode.season_no = season_data["no"]
-                episode.overall_no = overall_no
-                result.append(episode)
+                episode = Episode(
+                    episode_data,
+                    tv_show=self.data,
+                    overall_no=overall_no,
+                    season_no=season_data["no"],
+                    episode_no=episode_no,
+                )
+                self.episodes.append(episode)
+                episodes.append(episode)
                 overall_no += 1
                 episode_no += 1
-        return result
+            self.seasons.append(Season(season_data, episodes))
 
     def __generate_title_list(self) -> dict[str, int]:
         titles: dict[str, int] = {}
