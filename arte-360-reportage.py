@@ -51,6 +51,52 @@ class Utils:
         return title.lower()
 
 
+### yaml ######################################################################
+
+
+class Yaml:
+    @staticmethod
+    def load(filepath: str) -> typing.Any:
+        with open(filepath, "r") as y:
+            return yaml.load(y, Loader=yaml.Loader)
+
+    @staticmethod
+    def save(filepath: str, data: typing.Any) -> None:
+        with open(filepath, "w") as y:
+            yaml.dump(
+                data,
+                stream=y,
+                allow_unicode=True,
+                sort_keys=False,
+                width=72,
+                indent=4,
+                explicit_start=True,
+            )
+
+
+### markdown ##################################################################
+
+
+class Markdown:
+    @staticmethod
+    def table(header: list[str], rows: list[list[str]]) -> str:
+        def _format_row(cells: list[typing.Any]) -> str:
+            row: str = " | ".join(cells)
+            return f"| {row} | "
+
+        rendered_rows: list[str] = []
+        rendered_rows.append(_format_row(header))
+
+        separator: list[str] = []
+        for _ in header:
+            separator.append("---")
+        rendered_rows.append(_format_row(separator))
+
+        for row in rows:
+            rendered_rows.append(_format_row(row))
+        return "\n".join(rendered_rows)
+
+
 ### dvd #######################################################################
 
 
@@ -352,6 +398,13 @@ class Episode:
     def year(self) -> int:
         return int(self.data["air_date"][0:4])
 
+    def export_data(self) -> EpisodeData:
+        result: dict[str, typing.Any] = {}
+        for key in EpisodeData.__annotations__:
+            if key in self.data and self.data[key] != None:
+                result[key] = self.data[key]
+        return typing.cast(EpisodeData, result)
+
 
 ### season ####################################################################
 
@@ -379,6 +432,12 @@ class Season:
     def year(self) -> int:
         return self.data["year"]
 
+    def export_data(self) -> SeasonData:
+        episodes: list[EpisodeData] = []
+        for episode in self.episodes:
+            episodes.append(episode.export_data())
+        return {"no": self.no, "year": self.year, "episodes": episodes}
+
 
 ### main ######################################################################
 
@@ -403,9 +462,7 @@ class TvShow:
         self.titles = self.__generate_title_list()
 
     def __load(self) -> TvShowData:
-        with open(EXPORT_FILENAME + ".yml", "r") as y:
-            result: TvShowData = yaml.load(y, Loader=yaml.Loader)
-            return result
+        return Yaml.load("database.yml")
 
     def __generate_season_episodes(self) -> None:
         self.episodes: list[Episode] = []
@@ -461,30 +518,24 @@ class TvShow:
 
         return episode
 
-    # @property
-    # def episodes_data(self) -> list[EpisodeData]:
-    #     self.__add_indexes()
-    #     return self.data["episodes"]
+    def export_data(self) -> TvShowData:
+        data: TvShowData = self.__load()
 
-    # def reformat(self) -> None:
-    #     for old in self.episodes_data:
-    #         episode: dict[str, str | int] = {
-    #             "title": old["title"],
-    #             "air_date": old["air_date"],
-    #         }
-    #         if "duration" in old and old["duration"]:
-    #             episode["duration"] = old["duration"]
+        seasons: list[SeasonData] = []
+        for season in self.seasons:
+            seasons.append(season.export_data())
+        data["seasons"] = seasons
+
+        return data
+
+    def export_to_yaml(self, filepath: str | None = None):
+        if not filepath:
+            filepath = EXPORT_FILENAME + ".yml"
+        Yaml.save(filepath, self.export_data())
 
     def export_to_json(self) -> None:
         with open(EXPORT_FILENAME + ".json", "w") as j:
             json.dump(self.data, fp=j, indent=2, ensure_ascii=False)
-
-    def __write(self) -> None:
-        with open(EXPORT_FILENAME + ".yml", "w") as y:
-            yaml.dump(self.data, stream=y, allow_unicode=True, sort_keys=False)
-
-    def save(self) -> None:
-        self.__write()
 
 
 tv_show = TvShow()
@@ -656,29 +707,6 @@ class FrWiki(WikiTemplate):
         )
 
 
-### markdown ##################################################################
-
-
-class Markdown:
-    @staticmethod
-    def table(header: list[str], rows: list[list[str]]) -> str:
-        def _format_row(cells: list[typing.Any]) -> str:
-            row: str = " | ".join(cells)
-            return f"| {row} | "
-
-        rendered_rows: list[str] = []
-        rendered_rows.append(_format_row(header))
-
-        separator: list[str] = []
-        for _ in header:
-            separator.append("---")
-        rendered_rows.append(_format_row(separator))
-
-        for row in rows:
-            rendered_rows.append(_format_row(row))
-        return "\n".join(rendered_rows)
-
-
 ### actions ###################################################################
 
 
@@ -700,9 +728,7 @@ def generate_wikitext(language: typing.Literal["de", "fr"] = "de") -> None:
             Template.season(season=season, episode_entries=episode_entries)
         )
 
-    Utils.write_text_file(
-        f"{EXPORT_FILENAME}_wiki-{language}.wikitext", season_entries
-    )
+    Utils.write_text_file(f"{EXPORT_FILENAME}_wiki-{language}.wikitext", season_entries)
 
 
 def generate_readme():
@@ -786,6 +812,7 @@ def get_argument_parser() -> argparse.ArgumentParser:
     parser.add_argument("-r", "--readme", action="store_true")
     parser.add_argument("-j", "--json", action="store_true")
     parser.add_argument("-w", "--wiki", choices=("de", "fr"))
+    parser.add_argument("-y", "--yaml", action="store_true")
     return parser
 
 
@@ -800,6 +827,9 @@ def main() -> None:
 
     if args.wiki:
         generate_wikitext(args.wiki)
+
+    if args.yaml:
+        tv_show.export_to_yaml()
 
 
 if __name__ == "__main__":
