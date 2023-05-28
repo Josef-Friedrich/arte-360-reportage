@@ -1,4 +1,9 @@
 {
+  "continentAfrika": {
+    "prefix": ["f", "afrika"],
+    "body": ["continent: Afrika"],
+    "description": "continent: Afrika"
+  },
   "continentAmerika": {
     "prefix": ["m", "amerika"],
     "body": ["continent: Amerika"],
@@ -13,5 +18,10 @@
     "prefix": ["e", "europa"],
     "body": ["continent: Europa"],
     "description": "continent: Europa"
+  },
+  "continentOzeaniePole": {
+    "prefix": ["p", "pole"],
+    "body": ["continent: Ozeanien und Pole"],
+    "description": "continent: Ozeanien und Pole"
   }
 }

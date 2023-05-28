@@ -18,7 +18,8 @@ def get_continent_emoji(episode: Episode) -> str:
     elif episode.continent == "Amerika":
         return "🔴"
     elif episode.continent == "Asien":
-        return "💚"
+        # "💚"
+        return "🟡"
     elif episode.continent == "Europa":
         return "⚪️"
     elif episode.continent == "Ozeanien und Pole":
