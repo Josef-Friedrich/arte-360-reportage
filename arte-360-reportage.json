@@ -9933,7 +9933,8 @@
           "imdb_episode_id": "tt15746990",
           "thetvdb_season_episode": "S23E24",
           "thetvdb_episode_id": 8814843,
-          "youtube_video_id": "rqDUm-WpZJ0"
+          "youtube_video_id": "rqDUm-WpZJ0",
+          "continent": "Europa"
         }
       ]
     },
@@ -9956,7 +9957,8 @@
           "fernsehserien_episode_id": 1523102,
           "thetvdb_season_episode": "S24E01",
           "thetvdb_episode_id": 8949820,
-          "youtube_video_id": "3ql7jtqylzU"
+          "youtube_video_id": "3ql7jtqylzU",
+          "continent": "Amerika"
         },
         {
           "overall_no": 579,
@@ -9964,7 +9966,7 @@
           "episode_no": 2,
           "title": "Tapire - Die Dschungel-Gärtner",
           "title_fr": "Le tapir, jardinier des forêts tropicales",
-          "description": "Einst bevölkerten sie die Wälder des ganzen amerikanischen Kontinents, heute leben sie nur noch in wenigen Regionen Mittel- und Südamerikas: Tapire. Die urzeitlich anmutenden Tiere mit ihrem markanten Rüssel sind vor allem durch menschengemachte Gefahren vom Aussterben bedroht. Biologen in Costa Rica und Nicaragua widmen ihre ganze Kraft dem Kampf ums Überleben der Spezies – mit Erfolg? Der Lebensraum der Tapire wird immer kleiner. Neben Rodungen haben auch Wilderer und große Highways dafür gesorgt, dass die Zahl der tapsigen Rüsseltiere in Mittel- und Südamerika drastisch zurückgeht. Aber Tierschützer in Costa Rica und Nicaragua kämpfen dagegen an. Im Zoo von Managua hat Dr.\nEduardo Sacasa ein Zuchtprogramm ins Leben gerufen, 23 Tapire leben in seiner Obhut, zwei davon stehen nun erstmals vor ihrer Auswilderung – eine Sensation! Auch im Nachbarland Costa Rica nimmt die Tapirpopulation stetig ab. Wilderer haben es auf das Fleisch der Tiere abgesehen, außerdem ist das Schnellstraßennetz Panamericana eine Todesfalle für viele Tapire. Der junge Biologe Esteban Brenes-Mora ist Gründer der Nai Conservation, die sich der Erforschung und dem Schutz der hier noch wildlebenden Tapire verschrieben hat. Die Wissenschaftlerinnen und Wissenschaftler wollen Probleme analysieren, die im Miteinander von Mensch und Tier entstehen, und passende Lösungen finden. Dafür brauchen sie mehr Informationen, wie und wo die Tiere leben, wie nah sie den Menschen kommen und wie man gezielt Gefahren mindern kann.\nMit Hilfe von GPS-Halsbändern für freilebende Tapire erhoffen sie sich die notwendigen Ergebnisse. In Nicaragua wie in Costa Rica steht viel auf dem Spiel – aber die Tierschützer in beiden Ländern scheinen ersten Erfolgen sehr nah zu sein. (Text: arte)",
+          "description": "Einst bevölkerten sie die Wälder des ganzen amerikanischen Kontinents, heute leben sie nur noch in wenigen Regionen Mittel- und Südamerikas: Tapire. Die urzeitlich anmutenden Tiere mit ihrem markanten Rüssel sind vor allem durch menschengemachte Gefahren vom Aussterben bedroht. Biologen in Costa Rica und Nicaragua widmen ihre ganze Kraft dem Kampf ums Überleben der Spezies – mit Erfolg? Der Lebensraum der Tapire wird immer kleiner. Neben Rodungen haben auch Wilderer und große Highways dafür gesorgt, dass die Zahl der tapsigen Rüsseltiere in Mittel- und Südamerika drastisch zurückgeht. Aber Tierschützer in Costa Rica und Nicaragua kämpfen dagegen an. Im Zoo von Managua hat Dr. Eduardo Sacasa ein Zuchtprogramm ins Leben gerufen, 23 Tapire leben in seiner Obhut, zwei davon stehen nun erstmals vor ihrer Auswilderung – eine Sensation! Auch im Nachbarland Costa Rica nimmt die Tapirpopulation stetig ab. Wilderer haben es auf das Fleisch der Tiere abgesehen, außerdem ist das Schnellstraßennetz Panamericana eine Todesfalle für viele Tapire. Der junge Biologe Esteban Brenes-Mora ist Gründer der Nai Conservation, die sich der Erforschung und dem Schutz der hier noch wildlebenden Tapire verschrieben hat. Die Wissenschaftlerinnen und Wissenschaftler wollen Probleme analysieren, die im Miteinander von Mensch und Tier entstehen, und passende Lösungen finden. Dafür brauchen sie mehr Informationen, wie und wo die Tiere leben, wie nah sie den Menschen kommen und wie man gezielt Gefahren mindern kann.\nMit Hilfe von GPS-Halsbändern für freilebende Tapire erhoffen sie sich die notwendigen Ergebnisse. In Nicaragua wie in Costa Rica steht viel auf dem Spiel – aber die Tierschützer in beiden Ländern scheinen ersten Erfolgen sehr nah zu sein. (Text: arte)",
           "director": "Alexander Späth",
           "air_date": "2022-01-15",
           "duration": 32,
@@ -9973,7 +9975,8 @@
           "fernsehserien_episode_id": 1526120,
           "thetvdb_season_episode": "S24E02",
           "thetvdb_episode_id": 8949821,
-          "youtube_video_id": "bQXxzQjmPvo"
+          "youtube_video_id": "bQXxzQjmPvo",
+          "continent": "Amerika"
         },
         {
           "overall_no": 580,
@@ -9990,7 +9993,8 @@
           "fernsehserien_episode_id": 1526526,
           "thetvdb_season_episode": "S24E03",
           "thetvdb_episode_id": 8949822,
-          "youtube_video_id": "FgNR3JW-QbE"
+          "youtube_video_id": "FgNR3JW-QbE",
+          "continent": "Asien"
         },
         {
           "overall_no": 581,
@@ -10007,7 +10011,8 @@
           "fernsehserien_episode_id": 1528457,
           "thetvdb_season_episode": "S24E04",
           "thetvdb_episode_id": 8949823,
-          "youtube_video_id": "s9UPirsiFbA"
+          "youtube_video_id": "s9UPirsiFbA",
+          "continent": "Afrika"
         },
         {
           "overall_no": 582,
@@ -10025,7 +10030,8 @@
           "imdb_episode_id": "tt18228046",
           "thetvdb_season_episode": "S24E05",
           "thetvdb_episode_id": 8949824,
-          "youtube_video_id": "2MTSdkn22a4"
+          "youtube_video_id": "2MTSdkn22a4",
+          "continent": "Europa"
         },
         {
           "overall_no": 583,
@@ -10044,7 +10050,8 @@
           "imdb_episode_id": "tt18279912",
           "thetvdb_season_episode": "S24E06",
           "thetvdb_episode_id": 8949825,
-          "youtube_video_id": "IrOfUxc812k"
+          "youtube_video_id": "IrOfUxc812k",
+          "continent": "Europa"
         },
         {
           "overall_no": 584,
@@ -10063,7 +10070,8 @@
           "imdb_episode_id": "tt18335884",
           "thetvdb_season_episode": "S24E07",
           "thetvdb_episode_id": 8949826,
-          "youtube_video_id": "Ef81fAqnuJs"
+          "youtube_video_id": "Ef81fAqnuJs",
+          "continent": "Europa"
         },
         {
           "overall_no": 585,
@@ -10082,7 +10090,8 @@
           "imdb_episode_id": "tt18603248",
           "thetvdb_season_episode": "S24E08",
           "thetvdb_episode_id": 8993022,
-          "youtube_video_id": "p33T3S0tqBA"
+          "youtube_video_id": "p33T3S0tqBA",
+          "continent": "Europa"
         },
         {
           "overall_no": 586,
@@ -10101,7 +10110,8 @@
           "imdb_episode_id": "tt22300542",
           "thetvdb_season_episode": "S24E09",
           "thetvdb_episode_id": 9075607,
-          "youtube_video_id": "axKuA1qBWGQ"
+          "youtube_video_id": "axKuA1qBWGQ",
+          "continent": "Europa"
         },
         {
           "overall_no": 587,
@@ -10119,7 +10129,8 @@
           "fernsehserien_episode_id": 1557485,
           "thetvdb_season_episode": "S24E10",
           "thetvdb_episode_id": 9158123,
-          "youtube_video_id": "if6OhSEjkxM"
+          "youtube_video_id": "if6OhSEjkxM",
+          "continent": "Asien"
         },
         {
           "overall_no": 588,
@@ -10138,7 +10149,8 @@
           "imdb_episode_id": "tt20231988",
           "thetvdb_season_episode": "S24E11",
           "thetvdb_episode_id": 9158124,
-          "youtube_video_id": "jp5BDv9KCzY"
+          "youtube_video_id": "jp5BDv9KCzY",
+          "continent": "Europa"
         },
         {
           "overall_no": 589,
@@ -10158,7 +10170,8 @@
           "imdb_episode_id": "tt20190184",
           "thetvdb_season_episode": "S24E12",
           "thetvdb_episode_id": 9158125,
-          "youtube_video_id": "6eWUfGWASTA"
+          "youtube_video_id": "6eWUfGWASTA",
+          "continent": "Europa"
         },
         {
           "overall_no": 590,
@@ -10177,7 +10190,8 @@
           "imdb_episode_id": "tt20854434",
           "thetvdb_season_episode": "S24E13",
           "thetvdb_episode_id": 9158126,
-          "youtube_video_id": "JXN5lNsTZCI"
+          "youtube_video_id": "JXN5lNsTZCI",
+          "continent": "Europa"
         },
         {
           "overall_no": 591,
@@ -10196,7 +10210,8 @@
           "imdb_episode_id": "tt21030816",
           "thetvdb_season_episode": "S24E14",
           "thetvdb_episode_id": 9158127,
-          "youtube_video_id": "kyrHUKDiyck"
+          "youtube_video_id": "kyrHUKDiyck",
+          "continent": "Europa"
         },
         {
           "overall_no": 592,
@@ -10216,7 +10231,8 @@
           "imdb_episode_id": "tt21073772",
           "thetvdb_season_episode": "S24E15",
           "thetvdb_episode_id": 9158128,
-          "youtube_video_id": "wZgpqRaV7Ik"
+          "youtube_video_id": "wZgpqRaV7Ik",
+          "continent": "Europa"
         },
         {
           "overall_no": 593,
@@ -10234,7 +10250,8 @@
           "imdb_episode_id": "tt21203634",
           "thetvdb_season_episode": "S24E16",
           "thetvdb_episode_id": 9254698,
-          "youtube_video_id": "MkXx_8rac_M"
+          "youtube_video_id": "MkXx_8rac_M",
+          "continent": "Amerika"
         },
         {
           "overall_no": 594,
@@ -10252,7 +10269,8 @@
           "imdb_episode_id": "tt21243244",
           "thetvdb_season_episode": "S24E17",
           "thetvdb_episode_id": 9254699,
-          "youtube_video_id": "Y-eQibAkbmo"
+          "youtube_video_id": "Y-eQibAkbmo",
+          "continent": "Amerika"
         },
         {
           "overall_no": 595,
@@ -10270,7 +10288,8 @@
           "imdb_episode_id": "tt21294972",
           "thetvdb_season_episode": "S24E18",
           "thetvdb_episode_id": 9254700,
-          "youtube_video_id": "LckZ2_Lw88E"
+          "youtube_video_id": "LckZ2_Lw88E",
+          "continent": "Amerika"
         },
         {
           "overall_no": 596,
@@ -10279,6 +10298,7 @@
           "title": "Las Fallas - Valencias feurige Fiesta",
           "title_fr": "Las fallas de Valencia, l’insolence à l’honneur",
           "description": "Las Fallas de Valencia sind eine Mischung aus Frühlingsfest und Karneval – sie verwandeln die drittgrößte Stadt Spaniens jedes Jahr in einen gigantischen Party-Hotspot. Künstler wie Mario Gual del Olmo stecken Monate vorher viel Zeit und Kreativität in ihre riesigen Straßen-Skulpturen, die allerdings nicht sehr langlebig sein werden: Im März gehen sie traditionell in Flammen auf. Eine ganze Woche lang wird gefeiert, begleitet von Spielmannszügen, Fanfaren, Böllern und viel Feuerwerk. Die Ursprünge reichen zurück bis ins Mittelalter. Damals verbrannten die Zimmerleute am 19. März, dem Gedenktag ihres Schutzheiligen Joseph, alle Werkstattreste auf den Straßen. Fallas, übersetzt „Fehler“ oder „Misserfolge“, nannten sie diese Überreste erledigter oder misslungener Arbeiten und trieben mit dem Feuer den Winter aus.\nSpäter begann man, die Holzreste mit Puppen, den sogenannten Ninots, zu schmücken und zu bemalen. Im letzten Jahrhundert bekamen die Fallas einen satirischen, sozialkritischen Aspekt. Fast jeder Straßenzug hat einen eigenen Fallas-Verein. Rund 120 Künstler leben davon. Die meisten haben ihre Werkstätten in der Ciudad Fallera, einem eigenen Stadtviertel nur für dieses Handwerk. Hier entstehen jährlich fast 780 Kreationen, nach Größe und Budget in Sektionen unterteilt – nur um in einer Nacht kollektiv verbrannt zu werden. Lediglich eine Ninot indultat, eine „begnadigte Puppe“, die vom Publikum gewählt wird, entgeht dem Verbrennen und wandert ins Museum. Las Fallas de Valencia – alle Jahre wieder eine spektakuläre, feurige Fiesta. (Text: arte)",
+          "continent": "Europa",
           "director": "J. Michael Schumacher",
           "air_date": "2022-07-16",
           "duration": 32,
@@ -10306,7 +10326,8 @@
           "fernsehserien_episode_id": 1579010,
           "imdb_episode_id": "tt22023194",
           "thetvdb_season_episode": "S24E20",
-          "thetvdb_episode_id": 9254702
+          "thetvdb_episode_id": 9254702,
+          "continent": "Amerika"
         },
         {
           "overall_no": 598,
@@ -10325,7 +10346,8 @@
           "fernsehserien_episode_id": 1581860,
           "thetvdb_season_episode": "S24E21",
           "thetvdb_episode_id": 9352688,
-          "youtube_video_id": "-Clpkb3JdkI"
+          "youtube_video_id": "-Clpkb3JdkI",
+          "continent": "Asien"
         },
         {
           "overall_no": 599,
@@ -10343,7 +10365,8 @@
           "imdb_episode_id": "tt22299618",
           "thetvdb_season_episode": "S24E22",
           "thetvdb_episode_id": 9352689,
-          "youtube_video_id": "HlFRnPw6Y04"
+          "youtube_video_id": "HlFRnPw6Y04",
+          "continent": "Amerika"
         },
         {
           "overall_no": 600,
@@ -10361,7 +10384,8 @@
           "imdb_episode_id": "tt22805294",
           "thetvdb_season_episode": "S24E23",
           "thetvdb_episode_id": 9352690,
-          "youtube_video_id": "xzfFqvblS34"
+          "youtube_video_id": "xzfFqvblS34",
+          "continent": "Europa"
         },
         {
           "overall_no": 601,
@@ -10379,7 +10403,8 @@
           "fernsehserien_episode_id": 1590045,
           "imdb_episode_id": "tt23159150",
           "thetvdb_season_episode": "S24E24",
-          "thetvdb_episode_id": 9352691
+          "thetvdb_episode_id": 9352691,
+          "continent": "Europa"
         },
         {
           "overall_no": 602,
@@ -10398,12 +10423,14 @@
           "imdb_episode_id": "tt23368470",
           "thetvdb_season_episode": "S24E25",
           "thetvdb_episode_id": 9524022,
-          "youtube_video_id": "XrEtMdxF76c"
+          "youtube_video_id": "XrEtMdxF76c",
+          "continent": "Europa"
         },
         {
           "overall_no": 603,
           "season_no": 24,
           "episode_no": 26,
+          "continent": "Asien",
           "title": "Marquesas-Inseln, das Comeback der Tattoos",
           "title_fr": "Îles Marquises, le tatouage dans la peau",
           "description": "Heretu Tetahiotupa und Teiki Huukena sind die Pioniere der neuen Tattoo-Bewegung auf den Marquesas-Inseln. Sie haben jüngst eine eigene Tätowierschule ins Leben gerufen, in der das alte Wissen über die originalen Marquesas-Motive vermittelt wird, in Theorie und Praxis. Das ist wichtig, denn die Bedeutung der alten Tattoo-Zeichen ist fast komplett verloren gegangen. Auf Nuku Hiva, der nördlichen Hauptinsel des Archipels, durchstreifen Heretu und Teiki immer wieder die Waldgebiete. Hier, mitten im Dschungel, verbergen sich Hinterlassenschaften ihrer Vorfahren und Hinweise zu ursprünglichen Tattoo-Motiven. Das früher nahezu komplett isolierte Inselvolk auf den Marquesas entwickelte eine eigene Sprache und einzigartige Zeichensymbole. Diese wurden als Tattoos unter die Haut gestochen und auch in Felsen geritzt. So haben einige Symbole die Jahrhunderte überdauert.\nEs sind teils rätselhafte Zeichen längst untergegangener Inselstämme und heute wichtige Fenster in die Vergangenheit. Schätzungsweise seit dem 4. Jahrhundert wurde der Archipel von Seefahrern aus Westpolynesien besiedelt. Politisch und wirtschaftlich sind die Marquesas heute fest an Frankeich und Europa angebunden. Frachtschiffe versorgen die abgelegenen Inseln regelmäßig. Einst aber regierte hier ein recht kriegerisches Südseevolk, das Kannibalismus praktizierte und Menschenopfer darbrachte. Und: Damals ließ man sich jeden Teil des Körpers tätowieren. Die Menschenopfer wünscht sich heute niemand zurück. Die Tätowierungen aber schon. Heretu gehört zur Avantgarde der Tattoo-Bewegung. Er hat sich sogar schon ein großes Tattoo ins Gesicht stechen lassen – genau wie einst seine Vorfahren.\nWer wird seinem Beispiel folgen? Haben die martialisch anmutenden Tätowierungen eine Zukunft in der modernen Welt der Marquesas-Inseln? (Text: arte)",
@@ -10434,7 +10461,8 @@
           "fernsehserien_episode_id": 1602010,
           "imdb_episode_id": "tt23985080",
           "thetvdb_season_episode": "S24E27",
-          "thetvdb_episode_id": 9524024
+          "thetvdb_episode_id": 9524024,
+          "continent": "Europa"
         },
         {
           "overall_no": 605,
@@ -10452,7 +10480,8 @@
           "fernsehserien_episode_id": 1602943,
           "imdb_episode_id": "tt24220972",
           "thetvdb_season_episode": "S24E28",
-          "thetvdb_episode_id": 9524025
+          "thetvdb_episode_id": 9524025,
+          "continent": "Europa"
         },
         {
           "overall_no": 606,
@@ -10463,6 +10492,7 @@
           "description": "Das Land der Emberá Chamí erstreckt sich in den kolumbianischen Anden, wo edler Kaffee wächst. Das Geschäft mit der Hochlandbohne ist noch fest in der Hand von Weißen und den Nachfahren von Europäern und Ureinwohnern. Seitdem es nicht mehr so rentabel ist, ziehen immer mehr Indigene als billige Arbeitskräfte auf die Plantagen. Die Kaffeefelder stellen auch für Emberá-Transfrauen eine Nische dar. Hier finden sie nicht nur einen Lebensunterhalt, sondern auch Schutz. Denn bis heute sind sie Repressalien und Unterdrückung ausgesetzt – nicht nur innerhalb der breiten Bevölkerung, sondern auch in ihren indigenen Gemeinden: In der Vorstellung vieler Emberá gilt Transsexualität als ein von Weißen eingeschlepptes Übel, das hart bekämpft werden muss. Auch Bella Wasorna hat in dieser Enklave ein neues Leben begonnen.\nAuf den Namen Jesús Stiven wurde sie vor 19 Jahren getauft, einen Namen, gegen den sie unermüdlich kämpft, da er für sie das sichtbarste Zeichen ihrer gesetzlichen – für sie falschen – Identität ist. Nun ist ihr Ziel, eine gesetzliche Änderung ihres Namens zu erreichen, in greifbare Nähe gerückt. Doch die angestrebte Namensänderung wird teuer, Bella wird umso härter auf der Plantage schuften müssen. Zeitgleich wird dort ein großer Auftritt vorbereitet, bei dem die Transfrauen im Zentrum der Provinzhauptstadt tanzen wollen, um auf sich und ihr Schicksal aufmerksam zu machen. Werden am Ende alle die Nerven behalten, um einen derart großen Schritt zu wagen? (Text: arte)",
           "description_short": "Die Emberá Chamí leben in den kolumbianischen Anden, wo Kaffee angebaut wird. Transfrauen wie Bella Wasorna finden auf den Kaffeefeldern nicht nur Arbeit, sondern auch Schutz, während sie gegen ihre gesetzliche Identität kämpft und eine Namensänderung anstrebt, um ihre wahre Identität anzunehmen. Gleichzeitig bereiten sie sich darauf vor, in der Provinzhauptstadt einen großen Auftritt zu haben, um Aufmerksamkeit auf sich und ihr Schicksal zu lenken.",
           "director": "Carmen Butta",
+          "continent": "Amerika",
           "air_date": "2022-12-17",
           "duration": 32,
           "fernsehserien_air_date": "2022-12-10",
@@ -10479,6 +10509,7 @@
           "episode_no": 30,
           "title": "Kristall - Die magische Kunst aus den Vogesen",
           "title_fr": "Vosges, la magie du cristal",
+          "continent": "Europa",
           "description": "Alles funkelt, alles strahlt: Die nördlichen Vogesen gelten als Wiege der Kristallherstellung in Europa. Vor allem drei französische Manufakturen haben Weltruhm erlangt: die Werkstätten Saint-Louis und Lalique sowie das Internationale Zentrum für Glaskunst in Meisenthal. Dort herrscht erst recht zu Weihnachten alle Jahre wieder Hochbetrieb. Die Nordvogesen sind wie gemacht für die Kristallherstellung. Hier entstehen schon seit Generationen glänzende, durchsichtige und vor allem glitzernde Kristallkörper. Wandernde Glasmacher im 16. Jahrhundert wählten diese Region, weil hier alle natürlichen Ressourcen vorkommen, die für die Herstellung von Glas und Kristall unerlässlich sind: feinster Sand aus Flüssen, Gestein, ausreichend Holz für die pausenlos befeuerten Brennöfen und auch reichlich Wasser zur Kühlung des Glases.\nDie Arbeit der Glasmacher ähnelt seit jeher der Choreographie eines Balletts. Jeder und jede weiß, was zu tun ist. Alle Arbeitsschritte sind im Sekundentakt aufeinander abgestimmt. Denn nur dann kann die flüssige, rund 1.400 Grad Celsius heiße Glasmasse Qualität und Perfektion erlangen. Nach stundenlangem vorsichtigen Abkühlen wird das Kristall geschnitten, geformt und poliert. Auch in den Werkstätten von Meisenthal, rund 50 Kilometer nordöstlich von Straßburg, sind die Öfen Tag und Nacht in Betrieb. Gerade kurz vor Weihnachten herrscht hier Hochkonjunktur. Im Fokus der Glasmacher stehen Tannenbaumkugeln aus Glas, allesamt Entwürfe von Designern. Jedes Jahr wird eine ganz spezielle Kugel entworfen, die von Kunden heißbegehrt wird. Kein Wunder, dass Weihnachten hier so kunstvoll zelebriert wird.\nSchließlich sagt man, dass vor allem die romantische Landschaft der Vogesen die Menschen hier schon immer angetrieben haben mag, Märchenhaftes zu kreieren. (Text: arte)",
           "description_short": "Die nördlichen Vogesen gelten als Wiege der Kristallherstellung in Europa, mit weltberühmten Manufakturen wie Saint-Louis, Lalique und dem Internationalen Zentrum für Glaskunst in Meisenthal. Die Region bietet natürliche Ressourcen und eine malerische Landschaft, die die Glasmacher inspiriert, kunstvolle Kristallkörper und Tannenbaumkugeln von hoher Qualität zu schaffen, insbesondere zur Weihnachtszeit.",
           "director": "Jean-Baptiste Mathieu",

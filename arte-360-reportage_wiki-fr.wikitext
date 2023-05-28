@@ -2464,7 +2464,7 @@
 | Italie, un refuge pour hérissons
 |-
 |24
-|
+|⚪️
 | Dolomites, la passion de l'alpinisme
 |}
 
@@ -2475,123 +2475,123 @@
 !width="87%"|Titre français
 |-
 |1
-|
+|🔴
 | Los Angeles, les reines du lowriding
 |-
 |2
-|
+|🔴
 | Le tapir, jardinier des forêts tropicales
 |-
 |3
-|
+|🟡
 | Caucase, chevauchèe vers le mont elbrouz
 |-
 |4
-|
+|⚫️
 | Namibie, l'espoir renait pour les guépards
 |-
 |5
-|
+|⚪️
 | Titre inconnu
 |-
 |6
-|
+|⚪️
 | L'Odyssèe du phoque moine
 |-
 |7
-|
+|⚪️
 | Alsace, terre d'orgues
 |-
 |8
-|
+|⚪️
 | Mer du nord, le retour des oies sauvages
 |-
 |9
-|
+|⚪️
 | Lituanie, l'art des marionnettes
 |-
 |10
-|
+|🟡
 | Temple Food, l’âme de la cuisine coréenne
 |-
 |11
-|
+|⚪️
 | Portès par le vent, le vol en soufflerie
 |-
 |12
-|
+|⚪️
 | Le trèsor du jardinier
 |-
 |13
-|
+|⚪️
 | Forêts primaires, le poumon vert de l'europe
 |-
 |14
-|
+|⚪️
 | Loups et cerfs à l'ombre des blindès
 |-
 |15
-|
+|⚪️
 | Le béhourd, l'art du combat médiéval
 |-
 |16
-|
+|🔴
 | Cactus, l'or vert du mexique
 |-
 |17
-|
+|🔴
 | Argentine, le polo au féminin
 |-
 |18
-|
+|🔴
 | Kourou, des bagnes et des fusées
 |-
 |19
-|
+|⚪️
 | Las fallas de Valencia, l’insolence à l’honneur
 |-
 |20
-|
+|🔴
 | Le tribunal flottant de l'amazone
 |-
 |21
-|
+|🟡
 | Inde, vaincre les gourous
 |-
 |22
-|
+|🔴
 | Canada, le pays du sirop d'erable
 |-
 |23
-|
+|⚪️
 | Estonie, au secours des grenouilles
 |-
 |24
-|
+|⚪️
 | La soie de mer, trésor de Sardaigne
 |-
 |25
-|
+|⚪️
 | Cordoue et ses patios fleuris
 |-
 |26
-|
+|🟡
 | Îles Marquises, le tatouage dans la peau
 |-
 |27
-|
+|⚪️
 | Vatican, en coulisse avec les Gardes suisses
 |-
 |28
-|
+|⚪️
 | Islande, des plumes qui valent de l'or
 |-
 |29
-|
+|🔴
 | Colombie, le refuge des cueilleuses de café trans
 |-
 |30
-|
+|⚪️
 | Vosges, la magie du cristal
 |}
 
