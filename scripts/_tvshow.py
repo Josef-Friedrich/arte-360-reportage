@@ -51,7 +51,6 @@ class TvShow:
         self.seasons: list[Season] = []
         overall_no: int = 1
         for season_data in self.data["seasons"]:
-            print(season_data)
             episodes: list[Episode] = []
             episode_no: int = 1
             for episode_data in season_data["episodes"]:

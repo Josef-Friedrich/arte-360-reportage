@@ -3910,60 +3910,54 @@
 {{Episodenlisteneintrag
 | NR_GES = 611
 | NR_ST = 4
-| OT = Namibia - von Sandsurfern und Skatern<ref>https://thetvdb.com/series/272599-show/episodes/9524042</ref>
-| EA = 2023-02-11
-}}
-{{Episodenlisteneintrag
-| NR_GES = 612
-| NR_ST = 5
 | OT = Albanien - Die Stimmen der Schäfer / Albanie, une vie de berger<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/612-albanien-die-stimmen-der-schaefer-1618464</ref><ref>https://www.imdb.com/title/tt26898737</ref>
 | EA = 2023-02-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 613
-| NR_ST = 6
+| NR_GES = 612
+| NR_ST = 5
 | OT = Laos - Futterblöcke und Büffel-Leasing / Les buffles, l’avenir pour le Laos ?<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/613-laos-futterbloecke-und-bueffel-leasing-1620347</ref><ref>https://www.imdb.com/title/tt27005233</ref>
 | EA = 2023-03-04
 }}
 {{Episodenlisteneintrag
-| NR_GES = 614
-| NR_ST = 7
+| NR_GES = 613
+| NR_ST = 6
 | OT = Freiheit auf Pferderücken - Der lange Weg der Nez Perce / Nez-Percés, chevauchée pour la liberté<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/614-freiheit-auf-pferderuecken-der-lange-weg-der-nez-perce-1621705</ref><ref>https://www.imdb.com/title/tt27110800</ref>
 | EA = 2023-03-11
 }}
 {{Episodenlisteneintrag
-| NR_GES = 615
-| NR_ST = 8
+| NR_GES = 614
+| NR_ST = 7
 | OT = Peloponnes - Rückkehr zur Erde / Péloponnèse, la pasionaria de l'agroforesterie<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/615-peloponnes-rueckkehr-zur-erde-1623768</ref><ref>https://www.imdb.com/title/tt27170463</ref>
 | EA = 2023-03-18
 }}
 {{Episodenlisteneintrag
-| NR_GES = 616
-| NR_ST = 9
+| NR_GES = 615
+| NR_ST = 8
 | OT = Handgemacht in Laos - Rares aus Rattan / Laos, la vannerie dans tous ses états<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/616-handgemacht-in-laos-rares-aus-rattan-1625195</ref><ref>https://www.imdb.com/title/tt27252897</ref>
 | EA = 2023-03-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 617
-| NR_ST = 10
+| NR_GES = 616
+| NR_ST = 9
 | OT = Leben mit dem Tod - Ahnenkult auf Sulawesi / Toraja, le peuple qui fait vivre ses morts<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/617-leben-mit-dem-tod-ahnenkult-auf-sulawesi-1634635</ref>
 | EA = 2023-05-06
 }}
 {{Episodenlisteneintrag
-| NR_GES = 618
-| NR_ST = 11
+| NR_GES = 617
+| NR_ST = 10
 | OT = Die Waschbären von Berlin / Les ratons laveurs, nos nouveaux voisins?<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/618-die-waschbaeren-von-berlin-1640104</ref>
 | EA = 2023-05-20
 }}
 {{Episodenlisteneintrag
-| NR_GES = 619
-| NR_ST = 12
+| NR_GES = 618
+| NR_ST = 11
 | OT = Rapa Nui - Gladiatoren der Südsee<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/619-rapa-nui-gladiatoren-der-suedsee-1645452</ref>
 | EA = 2023-06-24
 }}
 {{Episodenlisteneintrag
-| NR_GES = 620
-| NR_ST = 13
+| NR_GES = 619
+| NR_ST = 12
 | OT = Kambodschas schwimmende Dörfer - Umzug am Tonle Sap<ref>https://www.fernsehserien.de/arte-360grad-reportage/folgen/620-kambodschas-schwimmende-doerfer-umzug-am-tonle-sap-1646559</ref>
 | EA = 2023-07-01
 }}
