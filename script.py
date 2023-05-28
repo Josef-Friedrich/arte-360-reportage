@@ -22,6 +22,13 @@ class Utils:
             return f.read()
 
     @staticmethod
+    def write_text_file(file_path: str, content: str | list[str]) -> None:
+        if isinstance(content, list):
+            content = "\n".join(content)
+        with open(file_path, "w") as readme:
+            readme.write(content)
+
+    @staticmethod
     def clean_title(title: str) -> str:
         title = title.replace("–", "-")
         title = re.sub(r" *\(.+\) *", " ", title)
@@ -464,6 +471,87 @@ class TvShow:
 tv_show = TvShow()
 
 
+### markdown ##################################################################
+
+
+class Markdown:
+    @staticmethod
+    def table(header: list[str], rows: list[list[str]]) -> str:
+        def _format_row(cells: list[typing.Any]) -> str:
+            row: str = " | ".join(cells)
+            return f"| {row} | "
+
+        rendered_rows: list[str] = []
+        rendered_rows.append(_format_row(header))
+
+        separator: list[str] = []
+        for _ in header:
+            separator.append("---")
+        rendered_rows.append(_format_row(separator))
+
+        for row in rows:
+            rendered_rows.append(_format_row(row))
+        return "\n".join(rendered_rows)
+
+
+### actions ###################################################################
+
+
+def generate_readme():
+    def _format_title(episode: Episode) -> str:
+        title: str = episode.title
+        if episode.title_fr:
+            title += f"<br>fr: *{episode.title_fr}*"
+        if episode.title_en:
+            title += f"<br>en: *{episode.title_en}*"
+        return title
+
+    def _format_links(episode: Episode) -> str:
+        links: list[str] = []
+
+        def prefix_caption(caption: str, link: str) -> str:
+            return f"{caption}: {link}"
+
+        def append(caption: str, link: str | None) -> None:
+            if link and link != "":
+                links.append(prefix_caption(caption, link))
+
+        if episode.youtube_video_id:
+            append("youtube", episode.youtube_link)
+
+        if episode.thetvdb_season_episode:
+            append("thetvdb", episode.thetvdb_link)
+
+        if episode.imdb_episode_id:
+            append("imdb", episode.imdb_link)
+
+        if episode.fernsehserien_episode_no:
+            append("fernsehserien", episode.fernsehserien_link)
+
+        return "<br>".join(links)
+
+    def _assemble_row(episode: Episode) -> list[str]:
+        row: list[str] = []
+        row.append(episode.format_air_date("%a %Y-%m-%d"))
+        row.append(_format_title(episode))
+        row.append(_format_links(episode))
+
+        return row
+
+    rows: list[list[str]] = []
+
+    for episode in tv_show.episodes:
+        rows.append(_assemble_row(episode))
+
+    Utils.write_text_file(
+        "README.md",
+        Markdown.table(
+            ["air_date", "title", "links"],
+            rows,
+        ),
+    )
+
+
 ### main ######################################################################
 
 
@@ -481,6 +569,8 @@ def main() -> None:
     if args.json:
         tv_show.export_to_json()
 
+    if args.readme:
+        generate_readme()
 
 if __name__ == "__main__":
     main()

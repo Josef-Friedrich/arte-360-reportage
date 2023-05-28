@@ -4,7 +4,7 @@ json:
 	./script.py --json
 
 readme:
-	./scripts/generate-readme.py
+	./script.py --readme
 
 wiki:
 	./scripts/generate-wikitext.py
