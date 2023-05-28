@@ -1,5 +1,5 @@
 import datetime
-from _lib import Episode
+from _episode import Episode
 
 
 def format_ref(content: str | None) -> str:
