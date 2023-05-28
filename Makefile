@@ -7,5 +7,5 @@ readme:
 	./script.py --readme
 
 wiki:
-	./scripts/generate-wikitext.py
-	./scripts/generate-wikitext-fr.py
+	./script.py --wiki de
+	./script.py --wiki fr

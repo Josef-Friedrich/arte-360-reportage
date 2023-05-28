@@ -8,6 +8,8 @@ import json
 import re
 import typing
 from datetime import date
+import abc
+
 
 import termcolor
 import yaml
@@ -191,6 +193,23 @@ class Episode:
     @property
     def continent(self) -> str | None:
         return self.__get_str_key("continent")
+
+    @property
+    def continent_emoji(self) -> str:
+        if not self.continent:
+            return ""
+        if self.continent == "Afrika":
+            return "⚫️"
+        elif self.continent == "Amerika":
+            return "🔴"
+        elif self.continent == "Asien":
+            # Old symbol "💚"
+            return "🟡"
+        elif self.continent == "Europa":
+            return "⚪️"
+        elif self.continent == "Ozeanien und Pole":
+            return "🔵"
+        return ""
 
     @property
     def air_date(self) -> str:
@@ -556,6 +575,87 @@ class Wiki:
         )
 
 
+class WikiTemplate(abc.ABC):
+    @abc.abstractmethod
+    @staticmethod
+    def episode(episode: Episode) -> str:
+        pass
+
+    @abc.abstractmethod
+    @staticmethod
+    def season(season: Season, episode_entries: list[str]) -> str:
+        pass
+
+
+class DeWiki(WikiTemplate):
+    @staticmethod
+    def episode(episode: Episode) -> str:
+        """
+        https://de.wikipedia.org/wiki/Vorlage:Episodenlisteneintrag
+        """
+        title: str = episode.title
+        if episode.title_fr:
+            title += f" / {episode.title_fr}"
+        title += Wiki.ref(episode.fernsehserien_url)
+        title += Wiki.ref(episode.thetvdb_url)
+        title += Wiki.ref(episode.imdb_url)
+        title += Wiki.ref(episode.youtube_url)
+        return (
+            "{{Episodenlisteneintrag\n"
+            "| NR_GES = " + str(episode.overall_no) + "\n"
+            "| NR_ST = " + str(episode.episode_no) + "\n"
+            "| OT = " + title + "\n" + "| EA = " + episode.air_date + "\n" + "}}"
+        )
+
+    @staticmethod
+    def season(season: Season, episode_entries: list[str]) -> str:
+        """
+        https://de.wikipedia.org/wiki/Vorlage:Episodenlistentabelle
+        """
+        return (
+            "\n=== Staffel "
+            + str(season.no)
+            + " ("
+            + str(season.year)
+            + ")"
+            + " ===\n\n"
+            + "{{Episodenlistentabelle|BREITE=100%\n"
+            + "| ZUSAMMENFASSUNG = nein\n"
+            + "| SORTIERBAR = nein\n"
+            + "| REGISSEUR = nein\n"
+            + "| DREHBUCH = nein\n"
+            + "| INHALT =\n"
+            + "\n".join(episode_entries)
+            + "\n}}"
+        )
+
+
+class FrWiki(WikiTemplate):
+    @staticmethod
+    def episode(episode: Episode) -> str:
+        title = episode.title_fr
+        if not title:
+            title = "Titre inconnu"
+        return (
+            "|-\n"
+            + f"|{episode.episode_no}\n"
+            + f"|{episode.continent_emoji}\n"
+            + f"| {title}"
+        )
+
+    @staticmethod
+    def season(season: Season, episode_entries: list[str]) -> str:
+        return (
+            '\n{| class="wikitable sortable mw-collapsible mw-collapsed"\n'
+            + f"|+Saison {season.no} — Année {season.year}\n"
+            + '!width="8%"|N°\n'
+            + '!width="5%"|\n'
+            + '!width="87%"|Titre français\n'
+            + "\n".join(episode_entries)
+            + "\n|}"
+        )
+
+
 ### markdown ##################################################################
 
 
@@ -582,24 +682,47 @@ class Markdown:
 ### actions ###################################################################
 
 
+def generate_wikitext(language: typing.Literal["de", "fr"] = "de") -> None:
+    episode_entries: list[str] = []
+    season_entries: list[str] = []
+
+    Template: WikiTemplate
+    if language == "fr":
+        Template = typing.cast(WikiTemplate, FrWiki)
+    else:
+        Template = typing.cast(WikiTemplate, DeWiki)
+
+    for season in tv_show.seasons:
+        episode_entries = []
+        for episode in season.episodes:
+            episode_entries.append(Template.episode(episode))
+        season_entries.append(
+            Template.season(season=season, episode_entries=episode_entries)
+        )
+
+    Utils.write_text_file(
+        f"360-grad-reportage_wiki-{language}.wikitext", season_entries
+    )
+
+
 def generate_readme():
-    header = """
-# 360-geo-reportage
+    #     header = """
+    # # 360-geo-reportage
 
-https://thetvdb.com/series/272599-show
+    # https://thetvdb.com/series/272599-show
 
-https://www.imdb.com/title/tt0457219
+    # https://www.imdb.com/title/tt0457219
 
-https://www.themoviedb.org/tv/95966-360-die-geo-reportage
+    # https://www.themoviedb.org/tv/95966-360-die-geo-reportage
 
-https://www.arte.tv/de/videos/RC-014120/360-reportage/
+    # https://www.arte.tv/de/videos/RC-014120/360-reportage/
 
-https://programm.ard.de/TV/Programm/Suche?sort=date&suche=GEO+Reportage
+    # https://programm.ard.de/TV/Programm/Suche?sort=date&suche=GEO+Reportage
 
-https://docs.google.com/spreadsheets/d/1lL1KNkdH1Rz1BHug8OPVuFEWXzD3Ax1Q-00jBV55INg/edit?usp=sharing
+    # https://docs.google.com/spreadsheets/d/1lL1KNkdH1Rz1BHug8OPVuFEWXzD3Ax1Q-00jBV55INg/edit?usp=sharing
 
-Quelle: https://www.fernsehserien.de/arte-360grad-reportage/episodenguide
-"""
+    # Quelle: https://www.fernsehserien.de/arte-360grad-reportage/episodenguide
+    # """
 
     def _format_title(episode: Episode) -> str:
         title: str = episode.title
@@ -662,7 +785,7 @@ def get_argument_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog="arte-360-reportage-script")
     parser.add_argument("-r", "--readme", action="store_true")
     parser.add_argument("-j", "--json", action="store_true")
-
+    parser.add_argument("-w", "--wiki", choices=("de", "fr"))
     return parser
 
 
@@ -674,6 +797,9 @@ def main() -> None:
 
     if args.readme:
         generate_readme()
+
+    if args.wiki:
+        generate_wikitext(args.wiki)
 
 
 if __name__ == "__main__":
