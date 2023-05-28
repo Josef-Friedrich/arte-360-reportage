@@ -3,20 +3,16 @@ from __future__ import annotations
 import difflib
 import json
 import typing
+from typing import TYPE_CHECKING
 
 import termcolor
 import yaml
-from _lib import normalize_title
-
-
-from typing import TYPE_CHECKING
-
 from _episode import Episode
-
+from _lib import normalize_title
 from _season import Season
 
 if TYPE_CHECKING:
-    from _season import SeasonData, Season
+    from _season import Season, SeasonData
 
 
 class TvShowData(typing.TypedDict):

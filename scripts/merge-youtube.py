@@ -2,9 +2,8 @@
 
 import typing
 
-
-from _lib import tv_show, clean_title
-from _youtube import fetch_videos_by_playlist, fetch_videos_by_channel
+from _lib import clean_title, tv_show
+from _youtube import fetch_videos_by_channel, fetch_videos_by_playlist
 
 
 def merge(playlist_items: typing.Any):

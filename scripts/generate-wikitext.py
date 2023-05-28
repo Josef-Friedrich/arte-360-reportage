@@ -1,9 +1,14 @@
 #! /usr/bin/env python
 
 from __future__ import annotations
-from _tvshow import tv_show, Episode
+
+from typing import TYPE_CHECKING
+
+from _tvshow import Episode, tv_show
 from _wiki import format_ref
-from _season import Season
+
+if TYPE_CHECKING:
+    from _season import Season
 
 """
 https://de.wikipedia.org/wiki/Vorlage:Episodenlistentabelle

@@ -4,8 +4,8 @@ from __future__ import annotations
 
 import typing
 
-from _tvshow import tv_show
 from _episode import Episode
+from _tvshow import tv_show
 
 """
 # 360-geo-reportage

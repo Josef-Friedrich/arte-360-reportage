@@ -1,10 +1,10 @@
 from __future__ import annotations
 
-from datetime import date
 import typing
+from datetime import date
+from typing import TYPE_CHECKING
 
 import typing_extensions
-from typing import TYPE_CHECKING
 
 if TYPE_CHECKING:
     from _tvshow import TvShowData
