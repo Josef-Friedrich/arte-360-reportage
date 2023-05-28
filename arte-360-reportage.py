@@ -111,10 +111,15 @@ class Scrapper:
         page = requests.get(url)
         self.__soup = bs4.BeautifulSoup(page.content, "lxml")
 
-    def find(self, tag: str, **kwargs: typing.Any) -> str | None:
-        element = self.__soup.find(tag, **kwargs)
-        if element:
-            return str(element)
+    def find(self, tag_name: str, **kwargs: typing.Any) -> bs4.Tag | None:
+        tag = self.__soup.find(tag_name, **kwargs)
+        if tag and isinstance(tag, bs4.Tag):
+            return tag
+
+    def find_str(self, tag_name: str, **kwargs: typing.Any) -> str | None:
+        tag = self.find(tag_name, **kwargs)
+        if tag:
+            return str(tag)
 
     def get_text(self, element: typing.Any):
         return bs4.BeautifulSoup(element, "lxml").text
@@ -123,7 +128,7 @@ class Scrapper:
 class FernsehserienScrapper(Scrapper):
     @property
     def description(self) -> str | None:
-        element = self.find("div", class_="episode-output-inhalt-inner")
+        element = self.find_str("div", class_="episode-output-inhalt-inner")
         if element:
             text = re.sub(" *<br/?> *", self.MARKER, element)
             text = self.get_text(text)
@@ -131,6 +136,14 @@ class FernsehserienScrapper(Scrapper):
             text = re.sub(r"\s+", " ", text)
             text = text.replace(self.MARKER, "\n")
             return text
+
+    @property
+    def director(self) -> str | None:
+        li = self.find("li", itemprop="director")
+        if li:
+            dt = li.find("dt", itemprop="name")
+            if dt:
+                return dt.text
 
 
 ### dvd #######################################################################
@@ -201,6 +214,9 @@ class EpisodeData(typing.TypedDict):
 
     description_short: str
     """two sentences generate by openai"""
+
+    director: str
+    """Regie"""
 
     air_date: str
     """for example ``2020-08-16``"""
@@ -329,6 +345,14 @@ class Episode:
     @description.setter
     def description(self, description: str) -> None:
         self.data["description"] = description
+
+    @property
+    def director(self) -> str | None:
+        return self.__get_str_key("director")
+
+    @director.setter
+    def director(self, director: str) -> None:
+        self.data["director"] = director
 
     @property
     def air_date(self) -> str:
@@ -780,17 +804,29 @@ class FrWiki(WikiTemplate):
 ### actions ###################################################################
 
 
+def debug():
+    """Test some code"""
+
+    scrapper = FernsehserienScrapper(
+        "https://www.fernsehserien.de/arte-360grad-reportage/folgen/606-island-die-wertvollsten-daunen-der-welt-1602943"
+    )
+    print(scrapper.director)
+
+
 def scrape():
     for episode in tv_show.episodes:
         if episode.fernsehserien_url:
             scrapper = FernsehserienScrapper(episode.fernsehserien_url)
             print("\n\n" + episode.fernsehserien_url + "\n")
             description = scrapper.description
-            print(description)
-
             if description:
+                print(description)
                 episode.description = description
 
+            director = scrapper.director
+            if director:
+                print(director)
+                episode.director = director
         tv_show.export_to_yaml()
 
 
@@ -893,6 +929,7 @@ def generate_readme():
 
 def get_argument_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog=EXPORT_FILENAME)
+    parser.add_argument("-d", "--debug", action="store_true")
     parser.add_argument("-j", "--json", action="store_true")
     parser.add_argument("-r", "--readme", action="store_true")
     parser.add_argument("-s", "--scrape", action="store_true")
@@ -903,6 +940,9 @@ def get_argument_parser() -> argparse.ArgumentParser:
 
 def main() -> None:
     args = get_argument_parser().parse_args()
+
+    if args.debug:
+        debug()
 
     if args.json:
         tv_show.export_to_json()

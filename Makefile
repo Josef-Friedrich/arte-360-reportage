@@ -1,5 +1,8 @@
 all: json readme wiki yaml
 
+debug:
+	./arte-360-reportage.py --debug
+
 json:
 	./arte-360-reportage.py --json
 
