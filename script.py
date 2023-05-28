@@ -14,6 +14,9 @@ import abc
 import termcolor
 import yaml
 
+EXPORT_FILENAME = "360-grad-reportage"
+
+
 ### utils #####################################################################
 
 
@@ -385,7 +388,6 @@ class TvShowData(typing.TypedDict):
     databases: dict[str, str]
 
 
-YAML_FILENAME = "360-grad-reportage.yml"
 
 
 class TvShow:
@@ -403,7 +405,7 @@ class TvShow:
         self.titles = self.__generate_title_list()
 
     def __load(self) -> TvShowData:
-        with open(YAML_FILENAME, "r") as y:
+        with open(EXPORT_FILENAME + '.yml', "r") as y:
             result: TvShowData = yaml.load(y, Loader=yaml.Loader)
             return result
 
@@ -476,11 +478,11 @@ class TvShow:
     #             episode["duration"] = old["duration"]
 
     def export_to_json(self) -> None:
-        with open("360-grad-reportage.json", "w") as j:
+        with open(EXPORT_FILENAME + '.json', "w") as j:
             json.dump(self.data, fp=j, indent=2, ensure_ascii=False)
 
     def __write(self) -> None:
-        with open(YAML_FILENAME, "w") as y:
+        with open(EXPORT_FILENAME + '.yml', "w") as y:
             yaml.dump(self.data, stream=y, allow_unicode=True, sort_keys=False)
 
     def save(self) -> None:
@@ -576,13 +578,13 @@ class Wiki:
 
 
 class WikiTemplate(abc.ABC):
-    @abc.abstractmethod
     @staticmethod
+    @abc.abstractmethod
     def episode(episode: Episode) -> str:
         pass
 
-    @abc.abstractmethod
     @staticmethod
+    @abc.abstractmethod
     def season(season: Season, episode_entries: list[str]) -> str:
         pass
 
