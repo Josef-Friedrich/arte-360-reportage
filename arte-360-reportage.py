@@ -237,10 +237,6 @@ class Episode:
     data: EpisodeData
     tv_show: TvShowData
 
-    overall_no: int
-    season_no: int
-    episode_no: int
-
     def __init__(
         self,
         data: EpisodeData,
@@ -255,13 +251,43 @@ class Episode:
         self.season_no = season_no
         self.episode_no = episode_no
 
-    @property
-    def title(self) -> str:
-        return self.data["title"]
-
     def __get_str_key(self, key: str) -> str | None:
         if key in self.data and self.data[key] != "":
             return typing.cast(str, self.data[key])
+
+    def __get_int_key_safe(self, key: str) -> int:
+        if key in self.data and self.data[key] != "":
+            return typing.cast(int, self.data[key])
+        else:
+            raise Exception("int not found")
+
+    @property
+    def overall_no(self) -> int:
+        return self.__get_int_key_safe("overall_no")
+
+    @overall_no.setter
+    def overall_no(self, no: int) -> None:
+        self.data["overall_no"] = no
+
+    @property
+    def season_no(self) -> int:
+        return self.__get_int_key_safe("season_no")
+
+    @season_no.setter
+    def season_no(self, no: int) -> None:
+        self.data["season_no"] = no
+
+    @property
+    def episode_no(self) -> int:
+        return self.__get_int_key_safe("episode_no")
+
+    @episode_no.setter
+    def episode_no(self, no: int) -> None:
+        self.data["episode_no"] = no
+
+    @property
+    def title(self) -> str:
+        return self.data["title"]
 
     @property
     def title_fr(self) -> str | None:
