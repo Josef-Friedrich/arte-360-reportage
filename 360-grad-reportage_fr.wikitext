@@ -2618,7 +2618,7 @@
 | Albanie, une vie de berger
 |-
 |5
-|💚
+|🟡
 | Les buffles, l’avenir pour le Laos ?
 |-
 |6
@@ -2630,11 +2630,11 @@
 | Péloponnèse, la pasionaria de l'agroforesterie
 |-
 |8
-|💚
+|🟡
 | Laos, la vannerie dans tous ses états
 |-
 |9
-|💚
+|🟡
 | Toraja, le peuple qui fait vivre ses morts
 |-
 |10
@@ -2642,10 +2642,10 @@
 | Les ratons laveurs, nos nouveaux voisins?
 |-
 |11
-|💚
+|🟡
 | Titre inconnu
 |-
 |12
-|💚
+|🟡
 | Titre inconnu
 |}

@@ -1,7 +1,7 @@
 all: json readme wiki
 
 json:
-	./scripts/export-to-json.py
+	./script.py --json
 
 readme:
 	./scripts/generate-readme.py
