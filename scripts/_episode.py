@@ -2,13 +2,12 @@ from __future__ import annotations
 
 from datetime import date
 import typing
-import re
 
 import typing_extensions
 from typing import TYPE_CHECKING
 
 if TYPE_CHECKING:
-    from _lib import TvShowData
+    from _tvshow import TvShowData
 
 
 class EpisodeData(typing.TypedDict):
@@ -26,7 +25,9 @@ class EpisodeData(typing.TypedDict):
     topic: str
     """For example ``Traum-Städte``"""
 
-    continent: typing.Literal["Europa", "Amerika", "Asien", "Afrika", "Ozeanien und Pole"]
+    continent: typing.Literal[
+        "Europa", "Amerika", "Asien", "Afrika", "Ozeanien und Pole"
+    ]
 
     description: str
     """Longest description that can be found"""
@@ -68,6 +69,10 @@ class Episode:
     data: EpisodeData
     tv_show: TvShowData
 
+    overall_no: int
+    season_no: int
+    episode_no: int
+
     def __init__(self, data: EpisodeData, tv_show: TvShowData) -> None:
         self.data = data
         self.tv_show = tv_show
@@ -85,6 +90,11 @@ class Episode:
     def title_en(self) -> str | None:
         if "title_en" in self.data and self.data["title_en"] != "":
             return self.data["title_en"]
+
+    @property
+    def alias(self) -> str | None:
+        if "alias" in self.data and self.data["alias"] != "":
+            return self.data["alias"]
 
     @property
     def air_date(self) -> str:
@@ -208,25 +218,17 @@ class Episode:
             self.data["youtube_video_id"], self.youtube_url
         )
 
-    def __get_season_or_episode(self, episode: bool = True) -> int | None:
-        if not "thetvdb_season_episode" in self.data:
-            return
+    # def __get_season_or_episode(self, episode: bool = True) -> int | None:
+    #     if not "thetvdb_season_episode" in self.data:
+    #         return
 
-        if episode:
-            regex = r"s\d+e(\d+)"
-        else:
-            regex = r"s(\d)+e\d+"
-        match = re.match(regex, self.data["thetvdb_season_episode"], re.IGNORECASE)
-        if match:
-            return int(match.group(1))
-
-    @property
-    def season_no(self) -> int | None:
-        return self.__get_season_or_episode(False)
-
-    @property
-    def episode_no(self) -> int | None:
-        return self.__get_season_or_episode(True)
+    #     if episode:
+    #         regex = r"s\d+e(\d+)"
+    #     else:
+    #         regex = r"s(\d)+e\d+"
+    #     match = re.match(regex, self.data["thetvdb_season_episode"], re.IGNORECASE)
+    #     if match:
+    #         return int(match.group(1))
 
     @property
     def year(self) -> int:
