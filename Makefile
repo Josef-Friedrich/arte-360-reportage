@@ -1,11 +1,11 @@
 all: json readme wiki
 
 json:
-	./script.py --json
+	./arte-360-reportage.py --json
 
 readme:
-	./script.py --readme
+	./arte-360-reportage.py --readme
 
 wiki:
-	./script.py --wiki de
-	./script.py --wiki fr
+	./arte-360-reportage.py --wiki de
+	./arte-360-reportage.py --wiki fr

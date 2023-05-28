@@ -14,7 +14,7 @@ import abc
 import termcolor
 import yaml
 
-EXPORT_FILENAME = "360-grad-reportage"
+EXPORT_FILENAME = "arte-360-reportage"
 
 
 ### utils #####################################################################
@@ -388,8 +388,6 @@ class TvShowData(typing.TypedDict):
     databases: dict[str, str]
 
 
-
-
 class TvShow:
     data: TvShowData
 
@@ -405,7 +403,7 @@ class TvShow:
         self.titles = self.__generate_title_list()
 
     def __load(self) -> TvShowData:
-        with open(EXPORT_FILENAME + '.yml', "r") as y:
+        with open(EXPORT_FILENAME + ".yml", "r") as y:
             result: TvShowData = yaml.load(y, Loader=yaml.Loader)
             return result
 
@@ -478,11 +476,11 @@ class TvShow:
     #             episode["duration"] = old["duration"]
 
     def export_to_json(self) -> None:
-        with open(EXPORT_FILENAME + '.json', "w") as j:
+        with open(EXPORT_FILENAME + ".json", "w") as j:
             json.dump(self.data, fp=j, indent=2, ensure_ascii=False)
 
     def __write(self) -> None:
-        with open(EXPORT_FILENAME + '.yml', "w") as y:
+        with open(EXPORT_FILENAME + ".yml", "w") as y:
             yaml.dump(self.data, stream=y, allow_unicode=True, sort_keys=False)
 
     def save(self) -> None:
@@ -703,7 +701,7 @@ def generate_wikitext(language: typing.Literal["de", "fr"] = "de") -> None:
         )
 
     Utils.write_text_file(
-        f"360-grad-reportage_wiki-{language}.wikitext", season_entries
+        f"{EXPORT_FILENAME}_wiki-{language}.wikitext", season_entries
     )
 
 
@@ -784,7 +782,7 @@ def generate_readme():
 
 
 def get_argument_parser() -> argparse.ArgumentParser:
-    parser = argparse.ArgumentParser(prog="arte-360-reportage-script")
+    parser = argparse.ArgumentParser(prog=EXPORT_FILENAME)
     parser.add_argument("-r", "--readme", action="store_true")
     parser.add_argument("-j", "--json", action="store_true")
     parser.add_argument("-w", "--wiki", choices=("de", "fr"))
