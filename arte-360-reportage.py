@@ -10,6 +10,8 @@ import typing
 from datetime import date
 import abc
 
+import requests
+import bs4
 
 import termcolor
 import yaml
@@ -95,6 +97,40 @@ class Markdown:
         for row in rows:
             rendered_rows.append(_format_row(row))
         return "\n".join(rendered_rows)
+
+
+### scraper ###################################################################
+
+
+class Scrapper:
+    __soup: bs4.BeautifulSoup
+
+    MARKER = "-*-*-*-"
+
+    def __init__(self, url: str) -> None:
+        page = requests.get(url)
+        self.__soup = bs4.BeautifulSoup(page.content, "lxml")
+
+    def find(self, tag: str, **kwargs: typing.Any) -> str | None:
+        element = self.__soup.find(tag, **kwargs)
+        if element:
+            return str(element)
+
+    def get_text(self, element: typing.Any):
+        return bs4.BeautifulSoup(element, "lxml").text
+
+
+class FernsehserienScrapper(Scrapper):
+    @property
+    def description(self) -> str | None:
+        element = self.find("div", class_="episode-output-inhalt-inner")
+        if element:
+            text = re.sub(" *<br/?> *", self.MARKER, element)
+            text = self.get_text(text)
+            text = text.strip()
+            text = re.sub(r"\s+", " ", text)
+            text = text.replace(self.MARKER, "\n")
+            return text
 
 
 ### dvd #######################################################################
@@ -259,6 +295,14 @@ class Episode:
         elif self.continent == "Ozeanien und Pole":
             return "🔵"
         return ""
+
+    @property
+    def description(self) -> str | None:
+        return self.__get_str_key("description")
+
+    @description.setter
+    def description(self, description: str) -> None:
+        self.data["description"] = description
 
     @property
     def air_date(self) -> str:
@@ -710,6 +754,20 @@ class FrWiki(WikiTemplate):
 ### actions ###################################################################
 
 
+def scrape():
+    for episode in tv_show.episodes:
+        if episode.fernsehserien_url:
+            scrapper = FernsehserienScrapper(episode.fernsehserien_url)
+            print("\n\n" + episode.fernsehserien_url + "\n")
+            description = scrapper.description
+            print(description)
+
+            if description:
+                episode.description = description
+
+        tv_show.export_to_yaml()
+
+
 def generate_wikitext(language: typing.Literal["de", "fr"] = "de") -> None:
     episode_entries: list[str] = []
     season_entries: list[str] = []
@@ -809,8 +867,9 @@ def generate_readme():
 
 def get_argument_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog=EXPORT_FILENAME)
-    parser.add_argument("-r", "--readme", action="store_true")
     parser.add_argument("-j", "--json", action="store_true")
+    parser.add_argument("-r", "--readme", action="store_true")
+    parser.add_argument("-s", "--scrape", action="store_true")
     parser.add_argument("-w", "--wiki", choices=("de", "fr"))
     parser.add_argument("-y", "--yaml", action="store_true")
     return parser
@@ -824,6 +883,9 @@ def main() -> None:
 
     if args.readme:
         generate_readme()
+
+    if args.scrape:
+        scrape()
 
     if args.wiki:
         generate_wikitext(args.wiki)
