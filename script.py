@@ -2,46 +2,41 @@
 
 from __future__ import annotations
 
-import typing
-from datetime import date
-
-
+import argparse
 import difflib
 import json
-
+import re
+import typing
+from datetime import date
 
 import termcolor
 import yaml
 
-
-import argparse
-
-
-import re
-
-### lib #######################################################################
+### utils #####################################################################
 
 
-def read_text_file(file_path: str) -> str:
-    with open(file_path, "r") as f:
-        return f.read()
+class Utils:
+    @staticmethod
+    def read_text_file(file_path: str) -> str:
+        with open(file_path, "r") as f:
+            return f.read()
 
+    @staticmethod
+    def clean_title(title: str) -> str:
+        title = title.replace("–", "-")
+        title = re.sub(r" *\(.+\) *", " ", title)
+        title = title.strip()
+        title = re.sub(r"  +", " ", title)
+        title = re.sub(r"GEO Reportage *[:-] +", "", title)
+        title = re.sub(r"^\d+ *- *", "", title)
+        return title
 
-def clean_title(title: str) -> str:
-    title = title.replace("–", "-")
-    title = re.sub(r" *\(.+\) *", " ", title)
-    title = title.strip()
-    title = re.sub(r"  +", " ", title)
-    title = re.sub(r"GEO Reportage *[:-] +", "", title)
-    title = re.sub(r"^\d+ *- *", "", title)
-    return title
-
-
-def normalize_title(title: str) -> str:
-    title = title.replace(", ", " ")
-    title = title.replace(": ", " ")
-    title = title.replace(" - ", " ")
-    return title.lower()
+    @staticmethod
+    def normalize_title(title: str) -> str:
+        title = title.replace(", ", " ")
+        title = title.replace(": ", " ")
+        title = title.replace(" - ", " ")
+        return title.lower()
 
 
 ### dvd #######################################################################
@@ -433,7 +428,7 @@ class TvShow:
         if debug:
             if not episode:
                 print(f"No match found for: {termcolor.colored(title, color='red')}")
-            elif normalize_title(title) != normalize_title(episode.title):
+            elif Utils.normalize_title(title) != Utils.normalize_title(episode.title):
                 print(
                     f"{termcolor.colored(title, color='yellow')} <> {termcolor.colored(episode.title, color='blue')}"
                 )

@@ -1,9 +1,9 @@
 #! /usr/bin/env python
 
-import requests
-from bs4 import BeautifulSoup, NavigableString, Tag
 import re
 
+import requests
+from bs4 import BeautifulSoup, NavigableString, Tag
 
 URL = "https://www.fernsehserien.de/arte-360grad-reportage/folgen/1-traum-staedte-beirut-die-milliarden-dollar-utopie-339116"
 MARKER = "-*-*-*-"
