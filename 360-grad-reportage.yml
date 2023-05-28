@@ -14,7 +14,7 @@ youtube:
 - https://www.youtube.com/@georeportage
 - https://www.youtube.com/playlist?list=PLAocIS-jUf43CkOnsymOxHihGWKfCkUDC
 seasons:
-  - no: 1
+  - 'no': 1
     year: 1999
     episodes:
     - title: 'Traum-Städte: Beirut - die Milliarden-Dollar-Utopie'
@@ -380,7 +380,7 @@ seasons:
       fernsehserien_episode_slug: 40-im-namen-der-liebe-menue-der-zaertlichkeit-339152
       fernsehserien_episode_id: 339152
       youtube_video_id: r0rtNVYxUkg
-  - no: 2
+  - 'no': 2
     year: 2000
     episodes:
     - title: 'Naturgewalten: Ernstfall Erdbeben'
@@ -726,7 +726,7 @@ seasons:
       fernsehserien_episode_slug: 76-tiere-im-rampenlicht-kamele-im-rennen-339355
       fernsehserien_episode_id: 339355
       youtube_video_id: LgBk0kjjk0E
-  - no: 3
+  - 'no': 3
     year: 2001
     episodes:
     - title: 'Überleben in der Wüste: Timbuktu'
@@ -1004,7 +1004,7 @@ seasons:
       fernsehserien_episode_id: 339424
       imdb_episode_id: tt1042926
       youtube_video_id: oHFU1aOHGr0
-  - no: 4
+  - 'no': 4
     year: 2002
     episodes:
     - title: Cunahá - Tod im Regenwald
@@ -1315,7 +1315,7 @@ seasons:
       fernsehserien_episode_slug: 135-die-abalone-wilderer-der-kampf-um-den-erhalt-einer-seeschneckenart-339460
       fernsehserien_episode_id: 339460
       youtube_video_id: kF1VEBBmF0A
-  - no: 5
+  - 'no': 5
     year: 2003
     episodes:
     - title: Die Mörderinnen von Targsor - Das einzige Frauengefängnis in Rumänien
@@ -1465,7 +1465,7 @@ seasons:
       fernsehserien_episode_slug: 151-der-vogelhaendler-von-guangzhou-339479
       fernsehserien_episode_id: 339479
       youtube_video_id: 3mrXlaxKolU
-  - no: 6
+  - 'no': 6
     year: 2004
     episodes:
     - title: Goldrausch in Sibirien
@@ -1665,7 +1665,7 @@ seasons:
       fernsehserien_episode_id: 339496
       imdb_episode_id: tt1350548
       youtube_video_id: BxUtrDZX1FI
-  - no: 7
+  - 'no': 7
     year: 2005
     episodes:
     - title: Die rasenden Engel der Línea 5
@@ -1830,7 +1830,7 @@ seasons:
       fernsehserien_episode_no: 188
       fernsehserien_episode_slug: 188-die-kinder-des-vater-nikolai-339662
       fernsehserien_episode_id: 339662
-  - no: 8
+  - 'no': 8
     year: 2006
     episodes:
     - title: Im Land der Schwarzen Witwen
@@ -2029,7 +2029,7 @@ seasons:
       fernsehserien_episode_slug: 207-eritrea-ein-esel-fuer-die-zukunft-339687
       fernsehserien_episode_id: 339687
       youtube_video_id: deTDbCTBKtA
-  - no: 9
+  - 'no': 9
     year: 2007
     episodes:
     - title: Hai-Alarm in Polynesien
@@ -2299,7 +2299,7 @@ seasons:
       fernsehserien_episode_id: 339720
       imdb_episode_id: tt1623059
       youtube_video_id: qVuhqpYiH5c
-  - no: 10
+  - 'no': 10
     year: 2008
     episodes:
     - title: Hexenwahn in Tansania
@@ -2537,7 +2537,7 @@ seasons:
       fernsehserien_episode_slug: 256-die-einsamen-moenche-von-oelenberg-339735
       fernsehserien_episode_id: 339735
       youtube_video_id: QR5RWf0_ksc
-  - no: 11
+  - 'no': 11
     year: 2009
     episodes:
     - title: Arktis - Die Route der Atomeisbrecher
@@ -2813,7 +2813,7 @@ seasons:
       fernsehserien_episode_slug: 282-saint-helena-vergessen-im-atlantik-339953
       fernsehserien_episode_id: 339953
       youtube_video_id: srGhZLAIPCk
-  - no: 12
+  - 'no': 12
     year: 2010
     episodes:
     - title: Vietnams vermintes Paradies
@@ -3021,7 +3021,7 @@ seasons:
       fernsehserien_episode_slug: 302-laetitia-allein-unter-woelfen-506698
       fernsehserien_episode_id: 506698
       youtube_video_id: r5sfDn03OWw
-  - no: 13
+  - 'no': 13
     year: 2011
     episodes:
     - title: Fremdenlegion - die Hölle im Regenwald
@@ -3326,7 +3326,7 @@ seasons:
       fernsehserien_episode_slug: 331-sark-die-kanalinsel-der-queen-339997
       fernsehserien_episode_id: 339997
       youtube_video_id: ybpV9JWD6qs
-  - no: 14
+  - 'no': 14
     year: 2012
     episodes:
     - title: Schottland - Kampf, Clan und Königin
@@ -3545,7 +3545,7 @@ seasons:
       fernsehserien_episode_id: 506712
       imdb_episode_id: tt19718498
       youtube_video_id: qP99-RnEm7U
-  - no: 15
+  - 'no': 15
     year: 2013
     episodes:
     - title: Arktis - Ein Junge wird Jäger
@@ -3830,7 +3830,7 @@ seasons:
       fernsehserien_episode_slug: 379-thailand-raketen-fuer-die-goetter-567027
       fernsehserien_episode_id: 567027
       youtube_video_id: HPDrBToxk24
-  - no: 16
+  - 'no': 16
     year: 2014
     episodes:
     - title: Vietnam, Kobra auf dem Teller
@@ -4075,7 +4075,7 @@ seasons:
       fernsehserien_episode_slug: 403-lettland-das-land-der-saenger-667601
       fernsehserien_episode_id: 667601
       youtube_video_id: F7ljNcCsIhA
-  - no: 17
+  - 'no': 17
     year: 2015
     episodes:
     - title: 'Griechenland: Aufbruch am Olymp'
@@ -4353,7 +4353,7 @@ seasons:
       fernsehserien_episode_slug: 429-polen-winter-in-den-waldkarpaten-796124
       fernsehserien_episode_id: 796124
       youtube_video_id: tRxGlm8BqbY
-  - no: 18
+  - 'no': 18
     year: 2016
     episodes:
     - title: Kenias Spürhunde - Rettung für die Elefanten
@@ -4627,7 +4627,7 @@ seasons:
       fernsehserien_episode_slug: 455-rumaenien-eine-weihnachtsreise-ins-donaudelta-1039858
       fernsehserien_episode_id: 1039858
       youtube_video_id: pcjXQq5fnx4
-  - no: 19
+  - 'no': 19
     year: 2017
     episodes:
     - title: Die Liebenden von Santa Cruz del Islote
@@ -4912,7 +4912,7 @@ seasons:
       duration: 55
       thetvdb_season_episode: S19E27
       thetvdb_episode_id: 6126640
-  - no: 20
+  - 'no': 20
     year: 2018
     episodes:
     - title: Friaul, Benvenuti im Musiktal
@@ -5247,7 +5247,7 @@ seasons:
       fernsehserien_episode_id: 1253307
       imdb_episode_id: tt26914689
       youtube_video_id: 1YcWaJWv8ZE
-  - no: 21
+  - 'no': 21
     year: 2019
     episodes:
     - title: Kushti, Indiens uralter Kampfsport
@@ -5512,7 +5512,7 @@ seasons:
       fernsehserien_episode_id: 1341482
       imdb_episode_id: tt16675680
       youtube_video_id: Opg00LWco4s
-  - no: 22
+  - 'no': 22
     year: 2020
     episodes:
     - title: Die Vespa-Rebellen in Indonesien
@@ -5731,7 +5731,7 @@ seasons:
       fernsehserien_episode_id: 1429102
       imdb_episode_id: tt15105296
       youtube_video_id: qPLtZngzS10
-  - no: 23
+  - 'no': 23
     year: 2021
     episodes:
     - title: Bretagne, die raue Schönheit
@@ -6010,7 +6010,7 @@ seasons:
       fernsehserien_episode_id: 1508252
       imdb_episode_id: tt15746990
       youtube_video_id: rqDUm-WpZJ0
-  - no: 24
+  - 'no': 24
     year: 2022
     episodes:
     - title: Die Lowrider-Ladies von L.A.
@@ -6430,7 +6430,7 @@ seasons:
         malerische Landschaft, die die Glasmacher inspiriert, kunstvolle
         Kristallkörper und Tannenbaumkugeln von hoher Qualität zu
         schaffen, insbesondere zur Weihnachtszeit.
-  - no: 25
+  - 'no': 25
     year: 2023
     episodes:
     - title: Montenegro - Der Eselretter
