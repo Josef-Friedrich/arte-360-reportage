@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import typing
 
-from _lib import tv_show
+from _tvshow import tv_show
 from _episode import Episode
 
 """

@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 
 from __future__ import annotations
-from _lib import tv_show as geo, Episode
+from _tvshow import tv_show, Episode
 from _wiki import format_ref
 
 """
@@ -66,7 +66,7 @@ def main() -> None:
             episode_entries = []
             episode_no = 1
 
-    for episode in geo.episodes:
+    for episode in tv_show.episodes:
         if year != episode.year:
             collect_episodes()
             year: int = episode.year
