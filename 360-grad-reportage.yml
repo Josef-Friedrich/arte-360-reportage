@@ -6434,6 +6434,7 @@ seasons:
     year: 2023
     episodes:
     - title: Montenegro - Der Eselretter
+      continent: Europa
       title_fr: Monténégro, pour l'amour des ánes
       air_date: '2023-01-07'
       duration: 32
@@ -6485,6 +6486,7 @@ seasons:
         haben. Seine Mission ist es, die Esel vor dem Aussterben zu
         bewahren und ein Modell für artgerechten Tierschutz zu schaffen.
     - title: Der Bergkristall - Schatz in den Schweizer Alpen
+      continent: Europa
       air_date: '2023-01-21'
       duration: 32
       episode: 3
@@ -6530,6 +6532,7 @@ seasons:
         Klimawandels eröffnet neue Möglichkeiten, birgt jedoch auch
         Gefahren für die Schatzsucher.
     - title: Maine - Hummer oder Wale?
+      continent: Amerika
       title_fr: Pêcher le homard ou protéger les baleines?
       air_date: '2023-01-28'
       duration: 32
@@ -6583,6 +6586,7 @@ seasons:
         die Hummerfischerei fortzusetzen.
     - title: Albanien - Die Stimmen der Schäfer
       title_fr: Albanie, une vie de berger
+      continent: Europa
       arte: https://www.arte.tv/de/videos/106265-016-F/360-reportage/
       air_date: '2023-02-25'
       episode: 8
@@ -6626,6 +6630,7 @@ seasons:
         könnte eine Chance für den Erhalt des Schäferberufs bieten.
     - title: Laos - Futterblöcke und Büffel-Leasing
       title_fr: Les buffles, l’avenir pour le Laos ?
+      continent: Asien
       air_date: '2023-03-04'
       episode: 9
       fernsehserien_episode_no: 613
@@ -6682,6 +6687,7 @@ seasons:
         Ziegenmilch, um unterernährten Kindern zu helfen und
         irreversible Schäden durch Mangelernährung abzuwenden.
     - title: Freiheit auf Pferderücken - Der lange Weg der Nez Perce
+      continent: Amerika
       title_fr: Nez-Percés, chevauchée pour la liberté
       air_date: '2023-03-11'
       episode: 10
@@ -6721,6 +6727,7 @@ seasons:
         Grizzlybären und entdecken Orte, die noch heute die Namen und
         Spuren ihrer Ahnen tragen.
     - title: Peloponnes - Rückkehr zur Erde
+      continent: Europa
       alias: Peloponnes - Die Pioniere des Waldgartens
       title_fr: Péloponnèse, la pasionaria de l'agroforesterie
       air_date: '2023-03-18'
@@ -6761,6 +6768,7 @@ seasons:
         schaffen.
     - title: Handgemacht in Laos - Rares aus Rattan
       title_fr: Laos, la vannerie dans tous ses états
+      continent: Asien
       air_date: '2023-03-25'
       episode: 12
       fernsehserien_episode_no: 616
@@ -6807,6 +6815,7 @@ seasons:
         Rattanfertigung ihres Dorfes zu erhöhen.
     - title: Leben mit dem Tod - Ahnenkult auf Sulawesi
       title_fr: Toraja, le peuple qui fait vivre ses morts
+      continent: Asien
       air_date: '2023-05-06'
       episode: 13
       fernsehserien_episode_no: 617
@@ -6849,6 +6858,7 @@ seasons:
         ins Jenseits geleitet.
     - title: Die Waschbären von Berlin
       title_fr: Les ratons laveurs, nos nouveaux voisins?
+      continent: Europa
       air_date: '2023-05-20'
       episode: 14
       fernsehserien_episode_no: 618
@@ -6900,6 +6910,7 @@ seasons:
         zu reduzieren und eine friedliche Koexistenz zwischen Mensch und
         Waschbär zu ermöglichen.
     - title: Rapa Nui - Gladiatoren der Südsee
+      continent: Asien
       fernsehserien_episode_no: 619
       air_date: '2023-06-24'
       fernsehserien_episode_slug: 619-rapa-nui-gladiatoren-der-suedsee-1645452
@@ -6946,6 +6957,7 @@ seasons:
         die amtierende Königin sich auf den Tau'a-Triathlon
         konzentriert.
     - title: Kambodschas schwimmende Dörfer - Umzug am Tonle Sap
+      continent: Asien
       fernsehserien_episode_no: 620
       air_date: '2023-07-01'
       fernsehserien_episode_slug: 620-kambodschas-schwimmende-doerfer-umzug-am-tonle-sap-1646559

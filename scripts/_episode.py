@@ -108,6 +108,10 @@ class Episode:
         return self.__get_str_key("alias")
 
     @property
+    def continent(self) -> str | None:
+        return self.__get_str_key("continent")
+
+    @property
     def air_date(self) -> str:
         if "air_date" not in self.data or not self.data["air_date"]:
             return ""

@@ -1,0 +1,17 @@
+{
+  "continentAmerika": {
+    "prefix": ["m", "amerika"],
+    "body": ["continent: Amerika"],
+    "description": "continent: Amerika"
+  },
+  "continentAsien": {
+    "prefix": ["a", "asien"],
+    "body": ["continent: Asien"],
+    "description": "continent: Asien"
+  },
+  "continentEuropa": {
+    "prefix": ["e", "europa"],
+    "body": ["continent: Europa"],
+    "description": "continent: Europa"
+  }
+}

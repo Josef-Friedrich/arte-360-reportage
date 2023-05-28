@@ -10,11 +10,32 @@ if TYPE_CHECKING:
     from _season import Season
 
 
+def get_continent_emoji(episode: Episode) -> str:
+    if not episode.continent:
+        return ""
+    if episode.continent == "Afrika":
+        return "⚫️"
+    elif episode.continent == "Amerika":
+        return "🔴"
+    elif episode.continent == "Asien":
+        return "💚"
+    elif episode.continent == "Europa":
+        return "⚪️"
+    elif episode.continent == "Ozeanien und Pole":
+        return "🔵"
+    return ""
+
+
 def generate_episode(episode: Episode) -> str:
     title = episode.title_fr
     if not title:
         title = "Titre inconnu"
-    return "|-\n" + f"|{episode.episode_no}\n" + "|🔵\n" + f"| {title}"
+    return (
+        "|-\n"
+        + f"|{episode.episode_no}\n"
+        + f"|{get_continent_emoji(episode)}\n"
+        + f"| {title}"
+    )
 
 
 def generate_season(season: Season, episode_entries: list[str]) -> str:
