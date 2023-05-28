@@ -1,10 +1,13 @@
 {
-  "python.formatting.provider": "black",
+  "python.formatting.provider": "none",
   "yaml.maxItemsComputed": 500000,
   "editor.autoIndent": "advanced",
   "[yaml]": {
     "editor.autoIndent": "advanced",
     "editor.formatOnType": true
   },
-  "ansible.python.interpreterPath": "/home/jf/.pyenv/versions/3.11.0/bin/python"
+  "ansible.python.interpreterPath": "/home/jf/.pyenv/versions/3.11.0/bin/python",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  }
 }

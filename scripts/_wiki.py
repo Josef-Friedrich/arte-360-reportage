@@ -84,20 +84,3 @@ def format_ref_fernsehserien(episode: Episode) -> str:
             website="fernsehserien.de",
         )
     )
-
-
-# === Saisons 21 et plus (2019 à aujourd'hui)===
-# {| class="wikitable sortable mw-collapsible mw-collapsed"
-# |+Saison 21 — Année 2019
-# !width="8%"|N°
-# !width="5%"|
-# !width="87%"|Titre français
-# |-
-# |1
-# |💚
-# | Inde, la Lutte à Mains Nues
-# |-
-# |30
-# |
-# |
-# |}

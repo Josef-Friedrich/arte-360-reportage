@@ -8,3 +8,4 @@ readme:
 
 wiki:
 	./scripts/generate-wikitext.py
+	./scripts/generate-wikitext-fr.py
