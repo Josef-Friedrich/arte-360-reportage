@@ -498,6 +498,24 @@ class Markdown:
 
 
 def generate_readme():
+    header = """
+# 360-geo-reportage
+
+https://thetvdb.com/series/272599-show
+
+https://www.imdb.com/title/tt0457219
+
+https://www.themoviedb.org/tv/95966-360-die-geo-reportage
+
+https://www.arte.tv/de/videos/RC-014120/360-reportage/
+
+https://programm.ard.de/TV/Programm/Suche?sort=date&suche=GEO+Reportage
+
+https://docs.google.com/spreadsheets/d/1lL1KNkdH1Rz1BHug8OPVuFEWXzD3Ax1Q-00jBV55INg/edit?usp=sharing
+
+Quelle: https://www.fernsehserien.de/arte-360grad-reportage/episodenguide
+"""
+
     def _format_title(episode: Episode) -> str:
         title: str = episode.title
         if episode.title_fr:
@@ -571,6 +589,7 @@ def main() -> None:
 
     if args.readme:
         generate_readme()
+
 
 if __name__ == "__main__":
     main()
