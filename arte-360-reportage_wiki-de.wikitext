@@ -5018,69 +5018,77 @@
 | REG = German Kral
 | EA = 2022-07-02
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 595
 | NR_ST = 18
 | OT = Kourou: Palmen, Raketen, Gefängnisinseln<ref>Internetquellen zur Episode ''„Kourou: Palmen, Raketen, Gefängnisinseln“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/596-kourou-palmen-raketen-gefaengnisinseln-1567103 596] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/596-kourou-palmen-raketen-gefaengnisinseln-1567103 1567103], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9254700 S24E18] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9254700 9254700], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt21294972 tt21294972], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=LckZ2_Lw88E LckZ2_Lw88E]</ref>
 | Feld1 = Kourou, des bagnes et des fusées
 | REG = Marie-Hélène Baconnet
 | EA = 2022-07-09
+| ZF = Europäische Raketen und Satelliten starten regelmäßig vom Raumfahrtzentrum in Französisch-Guayana. Drei vorgelagerte Inseln, einst Gefängnisinseln, müssen vor jedem Countdown aus Sicherheitsgründen evakuiert werden. Die verfallenen Gebäude wurden von der Natur überwuchert, doch Frankreich beginnt nun mit der Sanierung, um das historische Erbe zu bewahren. Aurélie Schneider ist für die Renovierung beauftragt, damit die Anlagen bald Besuchern offenstehen können.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 596
 | NR_ST = 19
 | OT = Las Fallas - Valencias feurige Fiesta<ref>Internetquellen zur Episode ''„Las Fallas - Valencias feurige Fiesta“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/597-las-fallas-valencias-feurige-fiesta-1569286 597] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/597-las-fallas-valencias-feurige-fiesta-1569286 1569286], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9254701 S24E19] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9254701 9254701], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt21352210 tt21352210], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=ug2XFpN43CU ug2XFpN43CU]</ref>
 | Feld1 = Las fallas de Valencia, l’insolence à l’honneur
 | REG = J. Michael Schumacher
 | EA = 2022-07-16
+| ZF = Die Las Fallas de Valencia sind eine jährliche Feier in der drittgrößten Stadt Spaniens. Künstler wie Mario Gual del Olmo schaffen beeindruckende Straßenskulpturen, die im März traditionell verbrannt werden. Die Feierlichkeiten dauern eine Woche und beinhalten Spielmannsumzüge, Fanfaren, Feuerwerk und Böller. Ursprünglich im Mittelalter entstanden, wurden die Holzreste der Zimmerleute auf den Straßen verbrannt, um den Winter zu vertreiben. Heute haben die Fallas einen satirischen und sozialkritischen Aspekt. Es gibt rund 120 Künstler, die von diesem Handwerk leben, und die meisten haben ihre Werkstätten in einem eigenen Stadtviertel, der Ciudad Fallera. Jährlich entstehen fast 780 Skulpturen, die am Ende kollektiv verbrannt werden, außer einer „begnadigten Puppe“, die ins Museum wandert.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 597
 | NR_ST = 20
 | OT = Das Gerichtsschiff vom Amazonas<ref>Internetquellen zur Episode ''„Das Gerichtsschiff vom Amazonas“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/598-das-gerichtsschiff-vom-amazonas-1579010 598] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/598-das-gerichtsschiff-vom-amazonas-1579010 1579010], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9254702 S24E20] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9254702 9254702], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt22023194 tt22023194]</ref>
 | Feld1 = Le tribunal flottant de l'amazone
 | REG = Manuel Fenn
 | EA = 2022-08-06
+| ZF = Die Initiative „Justicia Itinerante“ wurde von der Richterin Sueli Pini ins Leben gerufen, um den Menschen im abgelegenen Amazonas-Delta Zugang zur Justiz zu ermöglichen. Mit einem Justizschiff namens "Joao Bruno II" reisen brasilianische Richter seit vielen Jahren zu den entlegenen Dörfern, in denen Menschen ohne Pass oder Geburtsurkunde leben. Durch diese Maßnahme sollen staatliche Dienstleistungen für die Bevölkerung bereitgestellt und ihre rechtlichen Bedürfnisse erfüllt werden. Der genaue Bevölkerungsstand am Amazonas ist jedoch immer noch unbekannt.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 598
 | NR_ST = 21
 | OT = Indien - Kampf den Scharlatanen<ref>Internetquellen zur Episode ''„Indien - Kampf den Scharlatanen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/599-der-science-van-on-tour-indien-kampf-den-scharlatanen-1581860 599] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/599-der-science-van-on-tour-indien-kampf-den-scharlatanen-1581860 1581860], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9352688 S24E21] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9352688 9352688], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=-Clpkb3JdkI -Clpkb3JdkI]</ref>
 | Feld1 = Inde, vaincre les gourous
 | REG = Holger Riedel
 | EA = 2022-09-17
+| ZF = In Indien kämpfen Rationalisten gegen gefährlichen Aberglauben und Geschäftemacherei mit Spiritualität. Mit ihrem Science-Van reisen sie durch das Land, um aufzuklären. Rationalisten glauben an Vernunft und Wissenschaft statt an Götter und Geister. Die Organisation hat fast 10.000 ehrenamtliche Mitglieder aus verschiedenen Berufen. Opfer reichen von Trickbetrügereien bis hin zu seelischer Misshandlung und ruinöser Abhängigkeit. Frauen sind besonders gefährdet aufgrund ihrer geringen Bildung.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 599
 | NR_ST = 22
 | OT = Ahornsirup - Kanadas süßer Schatz<ref>Internetquellen zur Episode ''„Ahornsirup - Kanadas süßer Schatz“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/600-ahornsirup-kanadas-suesser-schatz-1583564 600] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/600-ahornsirup-kanadas-suesser-schatz-1583564 1583564], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9352689 S24E22] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9352689 9352689], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt22299618 tt22299618], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=HlFRnPw6Y04 HlFRnPw6Y04]</ref>
 | Feld1 = Canada, le pays du sirop d'erable
 | REG = Maria-Christina Degen
 | EA = 2022-09-24
+| ZF = Félix Sabourin betreibt eine Ahornsirupfarm in Ripon, zwei Autostunden nordwestlich von Montréal. Gemeinsam mit Freunden und Nachbarn sammelt er im Frühjahr den Saft der Ahornbäume, um den weltweit beliebten Sirup herzustellen. Die Saison beginnt dieses Jahr spät, daher bleibt Félix nur wenig Zeit zum Ernten. Ahornsirup ist ein lukratives Zusatzeinkommen für viele Farmer und wird hauptsächlich in Zentral- und Ostkanada produziert. Die Produktion könnte jedoch langfristig durch den Klimawandel gefährdet sein. Félix arbeitet hart, um seine Farm zu erhalten und hofft auf ein großes Abschlussfest am Ende der Saison.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 600
 | NR_ST = 23
 | OT = Estland - Krötenretter im Einsatz<ref>Internetquellen zur Episode ''„Estland - Krötenretter im Einsatz“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/601-estland-kroetenretter-im-einsatz-1586757 601] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/601-estland-kroetenretter-im-einsatz-1586757 1586757], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9352690 S24E23] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9352690 9352690], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt22805294 tt22805294], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=xzfFqvblS34 xzfFqvblS34]</ref>
 | Feld1 = Estonie, au secours des grenouilles
 | REG = Yuri Burak
 | EA = 2022-10-01
+| ZF = Die Biologin Katerina Pesocki und der Estnische Naturfonds organisieren eine Rettungsaktion für die jährliche Krötenwanderung im Frühjahr. Freiwillige Helferinnen und Helfer transportieren Tausende von Kröten und Fröschen sicher über Straßen, um sie vor dem Verkehrstod zu bewahren. Katerinas Fachkenntnisse sind für die Planung der Aktion unerlässlich. Die Tiere kehren zu ihren Heimatteichen zurück, um sich fortzupflanzen. Die größeren Weibchen werden von vielen Männchen umworben, oft schon während der Wanderung. Der Autoverkehr stellt die größte Herausforderung dar, weshalb der Einsatz von Katerina und den Helfenden wichtig ist, um die Amphibien zu schützen. Sogar die Polizei unterstützt die Aktion, um Estlands Naturschätze zu bewahren.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 601
 | NR_ST = 24
 | OT = Sardiniens wertvolle Muschelseide<ref>Internetquellen zur Episode ''„Sardiniens wertvolle Muschelseide“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/602-sardiniens-wertvolle-muschelseide-1590045 602] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/602-sardiniens-wertvolle-muschelseide-1590045 1590045], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9352691 S24E24] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9352691 9352691], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt23159150 tt23159150]</ref>
 | Feld1 = La soie de mer, trésor de Sardaigne
 | REG = Therese Engels
 | EA = 2022-10-29
+| ZF = Assuntina und Guiseppina Pes bereiten sich auf die große Prozession zu Ehren des heiligen Antiochus vor, dem Schutzpatron Sardiniens. Die jährliche Festa Manna, eine 15 Tage nach Ostern stattfindende Feier, bringt die Einwohner der gesamten Insel zusammen. Die Schwestern stellen Altartücher her oder reparieren alte Tücher. Sie verwenden Reste der seltenen Muschelseide, die aus der Pinna nobilis gewonnen wird, einer vom Aussterben bedrohten Riesenmuschel. Doch die Muschelpopulation ist stark dezimiert. Die Einwohner müssen sich an alternative Materialien wie Maulbeerseide gewöhnen. Assuntina und Guiseppina arbeiten mit großer Sorgfalt, um rechtzeitig fertig zu werden.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 602
 | NR_ST = 25
 | OT = Cordoba, die Stadt der Patios<ref>Internetquellen zur Episode ''„Cordoba, die Stadt der Patios“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/603-cordoba-die-stadt-der-patios-1602011 603] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/603-cordoba-die-stadt-der-patios-1602011 1602011], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9524022 S24E25] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9524022 9524022], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt23368470 tt23368470], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=XrEtMdxF76c XrEtMdxF76c]</ref>
 | Feld1 = Cordoue et ses patios fleuris
 | REG = Dietrich von Richthofen
 | EA = 2022-11-05
+| ZF = Die andalusischen Patios sind Ruheoasen in den heißen Sommermonaten und eine architektonische Antwort auf die brütende Hitze. Ursprünglich aus der römischen Antike stammend, wurden sie während der muslimischen Herrschaft um Pflanzen, Brunnen und typischen Farben erweitert. Córdoba ist stolz auf über 3.000 traditionelle Patios, die 2012 von der UNESCO zum immateriellen Weltkulturerbe erklärt wurden. Im Frühjahr findet ein großer Wettbewerb statt, bei dem die Besitzer ihre Innenhöfe aufwändig gestalten, um den ersten Preis zu gewinnen.
 }}
 {{Episodenlisteneintrag2
 | NR_GES = 603
