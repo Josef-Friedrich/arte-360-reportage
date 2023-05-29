@@ -2270,15 +2270,15 @@
 | Islande — Le Tricot, une Affaire d'Hommes
 |-
 |22
-|
+|🔴
 | Kentucky, la Bataille de Sacramento
 |-
 |23
-|
+|🟡
 | Les derniers chasseurs de baleines du détroit de Béring
 |-
 |24
-|
+|⚪️
 | Le Caviar, l'Or Noir de l'Italie
 |}
 
@@ -2289,79 +2289,79 @@
 !width="87%"|Titre français
 |-
 |1
-|
+|🟡
 | Indonésie, la Passion des Deux-Roues Trafiqués
 |-
 |2
-|
+|🔴
 | Au Costa Rica, un Paradis Pour les Chiens Abandonnés
 |-
 |3
-|
+|⚪️
 | Les Seigneurs de le Lavande
 |-
 |4
-|
+|🟡
 | Les Pignons de Cèdre, l'Or de la Taïga
 |-
 |5
-|
+|⚪️
 | Mer Baltique, Voyage au Pays des Grues Cendrées
 |-
 |6
-|
+|⚫️
 | Cap-Vert, les Chiens au Secours des Tortues
 |-
 |7
-|
+|⚪️
 | Grèce, les Petites Sœurs de la Terre
 |-
 |8
-|
+|🔴
 | Oscar ou l'Art d'Apprivoiser les Chevaux
 |-
 |9
-|
+|🟡
 | Curcuma, une épice en or
 |-
 |10
-|
+|⚪️
 | Huskies, top départ!
 |-
 |11
-|
+|⚪️
 | Le carnaval de Schignano étrange et archaïque
 |-
 |12
-|
+|⚫️
 | Zambie, les championnes du ring
 |-
 |13
-|
+|🟡
 | Singapour, quand les oiseaux chantent
 |-
 |14
-|
+|⚪️
 | Les câpres de sicile, la saveur de la méditerranée
 |-
 |15
-|
+|⚪️
 | Le dernier pêcheur du rhin
 |-
 |16
-|
+|⚪️
 | En autriche avec des mordus du rail
 |-
 |17
-|
+|⚪️
 | L'Alsace, terre de cigognes
 |-
 |18
-|
+|⚪️
 | Les lumières scandinaves : un hiver autour de Stockholm
 |-
 |19
-|
+|⚪️
 | Chartres, l'art du vitrail
 |}
 
@@ -2372,95 +2372,95 @@
 !width="87%"|Titre français
 |-
 |1
-|
+|⚪️
 | La Bretagne entre terre et mer
 |-
 |2
-|
+|⚪️
 | Pays basque, l'âme en Pelote
 |-
 |3
-|
+|⚪️
 | En estonie, le petit royaume de setomaa
 |-
 |4
-|
+|🔴
 | Porto Rico - Un hôpital pour les lamantins
 |-
 |5
-|
+|⚪️
 | Des chiens sur la piste des loups
 |-
 |6
-|
+|⚪️
 | Sauver les hiboux, c'est chouette
 |-
 |7
-|
+|⚪️
 | Percheron, le retour du cheval de trait
 |-
 |8
-|
+|⚪️
 | Croatie, les trailleurs de pierre de Brač
 |-
 |9
-|
+|⚪️
 | Port d'Hambourg, un bateau-église insolite
 |-
 |10
-|
+|⚪️
 | La fenaison en montagne, une tradition Suisse
 |-
 |11
-|
+|⚪️
 | La revanche du castor
 |-
 |12
-|
+|⚪️
 | Le delta du danube, dernier refuge des pélicans
 |-
 |13
-|
+|⚪️
 | Le renouveau du vignoble français
 |-
 |14
-|
+|⚪️
 | Mer du Nord, sauvons les bébés phoques
 |-
 |15
-|
+|🔵
 | Australie, le street art s'invite sur les silos
 |-
 |16
-|
+|⚫️
 | Mauritanie, le train du désert
 |-
 |17
-|
+|🔴
 | Les hippopotames de Pablo Escobar
 |-
 |18
-|
+|🔴
 | Curaçao, des dauphins thérapeutes
 |-
 |19
-|
+|⚪️
 | Le saut à ski féminin prend son envol
 |-
 |20
-|
+|⚪️
 | Suisse, en vol avec des pilotes des glaciers
 |-
 |21
-|
+|🟡
 | Thaïlande, un terrain de football insolite
 |-
 |22
-|
+|⚪️
 | Stromboli, terre de feu
 |-
 |23
-|
+|⚪️
 | Italie, un refuge pour hérissons
 |-
 |24

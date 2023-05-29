@@ -16603,6 +16603,7 @@ seasons:
         episode_no: 22
         title: Kentucky - Die Schlacht von Sacramento
         title_fr: Kentucky, la Bataille de Sacramento
+        continent: Amerika
         description: 'Sacramento im Mai 2019. Mit etwas mehr als 500 Einwohnern
             scheint die kleine Stadt in Kentucky weit entfernt von der Hektik
             der großen amerikanischen Millionenstädte. Überall in der Stadt
@@ -16637,6 +16638,7 @@ seasons:
         episode_no: 23
         title: Die letzten Walfänger der Beringsee
         title_fr: Les derniers chasseurs de baleines du détroit de Béring
+        continent: Asien
         description: 'Tschukotka liegt im äußersten Nordosten Russlands, direkt
             an der Beringstraße. Nur einen Steinwurf entfernt von Alaska.
             Die Küste hier ist reich an Meeresbewohnern: Fische, Walrosse
@@ -16674,6 +16676,7 @@ seasons:
         episode_no: 24
         title: Kaviar, das schwarze Gold Italiens
         title_fr: Le Caviar, l'Or Noir de l'Italie
+        continent: Europa
         description: 'Wohl jeder verbindet mit Kaviar unweigerlich Luxus und
             Russland. Doch dort, wo die kostbaren Fischeier des Störs zwar
             immer noch in großen Mengen verspeist werden, dürfen sie nicht
@@ -16718,6 +16721,7 @@ seasons:
         episode_no: 1
         title: Die Vespa-Rebellen in Indonesien
         title_fr: Indonésie, la Passion des Deux-Roues Trafiqués
+        continent: Asien
         description: 'Vespas, die Italo-Roller von Piaggio, wurden lange auch
             in der Hauptstadt Jakarta hergestellt. Heute kostet eine alte
             Vespa umgerechnet 20 Euro, so viel kann sich ein junger Indonesier
@@ -16756,6 +16760,7 @@ seasons:
         episode_no: 2
         title: Costa Rica, das größte Hundeheim der Welt
         title_fr: Au Costa Rica, un Paradis Pour les Chiens Abandonnés
+        continent: Amerika
         description: 'Umgegeben von Farmland liegt das Territorio de Zaguates
             – das Land der Streuner. Geführt wird es von dem Ehepaar Lya Battle
             und Alvaro Saumet sowie zahlreichen Helfern. 600 Kilogramm Futter
@@ -16794,6 +16799,7 @@ seasons:
         episode_no: 3
         title: Die Herren des Lavendels
         title_fr: Les Seigneurs de le Lavande
+        continent: Europa
         description: 'Michel Blanc ist einer der französischen Lavendel-Bauern.
             Mit seiner Familie bewirtschaftet er eine Fläche von rund 200
             Hektar. Vor allem das zentrale Gebäude ihres Gutes atmet Geschichte:
@@ -16831,6 +16837,7 @@ seasons:
         episode_no: 4
         title: Die Zedernuss, die Königin der Taiga
         title_fr: Les Pignons de Cèdre, l'Or de la Taïga
+        continent: Asien
         description: 'Der Altai: Gelegen im Vierländereck von Russland, Kasachstan,
             China und der Mongolei. Das Gebirge ist bis heute nur wenig erschlossen.
             Die Menschen leben verstreut in den umliegenden Tälern. Im September
@@ -16872,6 +16879,7 @@ seasons:
         episode_no: 5
         title: Die Ostsee, Sehnsuchtsort der Kraniche
         title_fr: Mer Baltique, Voyage au Pays des Grues Cendrées
+        continent: Europa
         description: 'Es ist eine geografische Besonderheit auf dem Darß,
             die diesen Küstenabschnitt für Kraniche attraktiv macht: Der Bodden.
             Dieses durch Landzungen und Inseln entstandene Lagunengewässer
@@ -16912,6 +16920,7 @@ seasons:
         episode_no: 6
         title: 'Kapverden: Zwei Hunde als Schildkrötenretter'
         title_fr: Cap-Vert, les Chiens au Secours des Tortues
+        continent: Afrika
         description: 'Die zweijährigen Hundegeschwister Kelo und Karetta verdanken
             ihre Namen den wissenschaftlichen Bezeichnungen zweier Schildkrötenarten.
             Marlene Zähner hat sie in der Schweiz ausgebildet – nun sollen
@@ -16948,6 +16957,7 @@ seasons:
         episode_no: 7
         title: Die Schwestern der Erde
         title_fr: Grèce, les Petites Sœurs de la Terre
+        continent: Europa
         description: 'Das Kloster auf dem Berg Ossa wurde im 16. Jahrhundert
             gegründet. Ende des 20. Jahrhunderts verfiel es und wurde erst
             Anfang des neuen Jahrtausends von einer Handvoll Nonnen wiederentdeckt.
@@ -16991,6 +17001,7 @@ seasons:
         episode_no: 8
         title: Argentinien, von wilden Pferden und sanfter Hand
         title_fr: Oscar ou l'Art d'Apprivoiser les Chevaux
+        continent: Amerika
         description: 'Pferdenation Argentinien: Bis heute spielen Pferde hier
             eine wichtige Rolle – bei Arbeit und Vergnügen. Im Umgang mit
             ihren Reittieren sind die Gauchos und die Besitzer der riesigen
@@ -17030,6 +17041,7 @@ seasons:
         episode_no: 9
         title: Indiens Kurkuma - Heilsam und heilig
         title_fr: Curcuma, une épice en or
+        continent: Asien
         description: 'Hauptabbaugebiet der Kukuma sind die Bergen von Andhra
             Pradesh. Hier verarbeiten auch Veni Macs und Dr. Sudheer Krishna
             gemeinsam mit lokalen Bauern die Wunderknolle. Di beiden haben
@@ -17068,6 +17080,7 @@ seasons:
         episode_no: 10
         title: Huskys, am Start!
         title_fr: Huskies, top départ!
+        continent: Europa
         description: 'Die Norwegerin Marit Beate Kasin träumt seit ihrer Kindheit
             davon, Huskies zu züchten und an großen Hundeschlittenrennen teilzunehmen.
             Mit Mitte 20 begann sie, diesen Traum umzusetzen und gründete
@@ -17111,6 +17124,7 @@ seasons:
         episode_no: 11
         title: Schignano, ein uralter Karneval in Italiens Bergen
         title_fr: Le carnaval de Schignano étrange et archaïque
+        continent: Europa
         description: 'Einmal im Jahr legen die Bewohner der Gemeinde Schignano
             ihre Identität ab, um einen rauschhaften, euphorischen, wild-ungezügelten
             Karneval zu feiern. Die meisten Bewohner hier fahren täglich zum
@@ -17151,6 +17165,7 @@ seasons:
         episode_no: 12
         title: Ring frei für Sambias Boxerinnen!
         title_fr: Zambie, les championnes du ring
+        continent: Afrika
         description: 'Das Leben hat es lange nicht gut gemeint mit Margret,
             Lina oder Melody. In einem Land, wo Frauen noch immer wenig zählen,
             wo Bildung nur an wenige Privilegierte vergeben wird und die Armut
@@ -17190,6 +17205,7 @@ seasons:
         episode_no: 13
         title: Singvögel - Die goldenen Stimmen von Singapur
         title_fr: Singapour, quand les oiseaux chantent
+        continent: Asien
         description: 'Ein Vogel, der so viel kostet wie ein Auto, ja sogar
             ein Haus. In Singapur ist das keine Seltenheit. Singvogel-Liebhaber
             scheuen dort weder Kosten noch Mühen für die Stars der Szene:
@@ -17198,7 +17214,7 @@ seasons:
             der Preis. Zahlreiche Singvogel-Wettbewerbe demonstrieren diesen
             Status. Doch die Liebe zu den gefiederten Stimmathleten hat auch
             Schattenseiten, denn sie befeuert den illegalen Handel mit den
-            Vögeln.“GEO Reportage“ taucht mit Vogelzüchtern und Umweltaktivisten
+            Vögeln. „GEO Reportage“ taucht mit Vogelzüchtern und Umweltaktivisten
             in den Kosmos von Singapurs Singvögeln. (Text: arte)'
         director: Cordula Stadter
         air_date: '2020-09-13'
@@ -17215,6 +17231,7 @@ seasons:
         episode_no: 14
         title: Italiens Kapern - Der Geschmack des Südens
         title_fr: Les câpres de sicile, la saveur de la méditerranée
+        continent: Europa
         description: 'Kapern sind die Blütenknospen des im gesamten Mittelmeerraum
             heimischen Kapernstrauches. Sie werden in Salz oder Öl eingelegt
             und mehrere Monate fermentiert. Werden die Knospen nicht geerntet,
@@ -17269,6 +17286,7 @@ seasons:
         episode_no: 15
         title: Der letzte Rheinfischer
         title_fr: Le dernier pêcheur du rhin
+        continent: Europa
         description: 'Adrien Vonarb ist 69 Jahre alt. Seit 30 Jahren fischt
             er im Rhein, als einziger Berufsfischer im Elsass. Er kennt alle
             Geheimnisse dieses wilden Flusses, er weiß alles über den Fischfang.
@@ -17307,6 +17325,7 @@ seasons:
         episode_no: 16
         title: Mit Volldampf durch Kärnten
         title_fr: En autriche avec des mordus du rail
+        continent: Europa
         description: 'Es ist immer wieder eine ganz besondere Zeitreise, wenn
             eine hundert Jahre alte Dampflok durch romantische Alpentäler
             schnauft: In Kärnten, Österreichs südlichstem Bundesland, gibt
@@ -17352,6 +17371,7 @@ seasons:
         episode_no: 17
         title: Das Elsass, Heimat der Störche
         title_fr: L'Alsace, terre de cigognes
+        continent: Europa
         description: 'Der Storch ist im Elsass allgegenwärtig, für viele die
             Ikone, das Wahrzeichen der Region. Ob in der Metropole Straßburg
             oder den romantischen Dörfern – überall hocken die schwarz-weiß
@@ -17402,6 +17422,7 @@ seasons:
         episode_no: 18
         title: Lichterglanz im Norden - Winter in Stockholm und den Schären
         title_fr: 'Les lumières scandinaves : un hiver autour de Stockholm'
+        continent: Europa
         description: 'Stockholm und sein Schärengarten sind weltberühmt, im
             Sommer verbringen Tausende Touristen auf den kleinen Inseln ihren
             Urlaub. Im Winter herrscht hier zumeist Stille – aber die Versorgung
@@ -17442,6 +17463,7 @@ seasons:
         episode_no: 19
         title: Chartres, die Farben des Himmels
         title_fr: Chartres, l'art du vitrail
+        continent: Europa
         description: 'Elodie Vally lebt schon seit ihrer Geburt in Chartres.
             Sie wuchs direkt an der Kathedrale auf und entwickelte bereits
             in ihrer Jugend eine Leidenschaft für die Glasmalerei. Heute leitet
@@ -17482,6 +17504,7 @@ seasons:
         episode_no: 1
         title: Bretagne, die raue Schönheit
         title_fr: La Bretagne entre terre et mer
+        continent: Europa
         description: 'Nicolas Chaléa und Nathan Roullot waren nicht immer
             Fischer: der Meeresbiologe und der Kaufmann leben aber leidenschaftlich
             gern am Meer und nun auch von ihm. Das wird immer komplizierter
@@ -17518,6 +17541,7 @@ seasons:
         episode_no: 2
         title: Pelota, die baskische Leidenschaft
         title_fr: Pays basque, l'âme en Pelote
+        continent: Europa
         description: 'Man kann Pelota mit der Hand spielen oder mit einem
             Schläger, auch mit einem eigens angefertigten Handschuh. Insgesamt
             gibt es etwa 20 Varianten. Wichtig dabei ist, dass es eine gegenüberliegende
@@ -17555,6 +17579,7 @@ seasons:
         episode_no: 3
         title: Estland und das kleine Königreich der Seto
         title_fr: En estonie, le petit royaume de setomaa
+        continent: Europa
         description: 'Es ist eines der kleinsten Völker Europas: Die ethnische
             Minderheit der Seto lebt im Süden des heutigen Estland, ihr traditionelles
             Siedlungsgebiet reicht bis über die nahe Grenze hinein ins westliche
@@ -17591,6 +17616,7 @@ seasons:
         episode_no: 4
         title: 'Puerto Rico: Ein Krankenhaus für Seekühe'
         title_fr: Porto Rico - Un hôpital pour les lamantins
+        continent: Amerika
         description: 'Die kleine Moana kam verwaist ins Seekuh-Krankenhaus
             zu Dr. Tony Mignucci. Das nur wenige Monate alte Seekalb wurde
             allein und hilflos an einem Strand gefunden, und es ist fraglich,
@@ -17629,6 +17655,7 @@ seasons:
         episode_no: 5
         title: Dem Wolf auf der Spur - Schnüffeln für den Artenschutz
         title_fr: Des chiens sur la piste des loups
+        continent: Europa
         description: 'Die Lausitz – Heimat der größten Wolfspopulation Deutschlands.
             Vor über zwei Jahrzehnten ist das Raubtier hierher zurückgekehrt.Die
             Wildbiologin Lea Wirk erforscht die Reviere der Wölfe zusammen
@@ -17678,6 +17705,7 @@ seasons:
         episode_no: 6
         title: Die Eifel und ihre Eulen-Hüter
         title_fr: Sauver les hiboux, c'est chouette
+        continent: Europa
         description: 'Eulen! Im Mittelalter gefürchtet als Hexenvögel und
             Todesboten, seit jeher aber auch verehrt als Symbole der Weisheit
             und als Glücksbringer. Heute sind die nachtaktiven Vögel wieder
@@ -17735,6 +17763,7 @@ seasons:
         episode_no: 7
         title: Percheron, das Kraftpaket mit einer Pferdestärke
         title_fr: Percheron, le retour du cheval de trait
+        continent: Europa
         description: 'Hector ist ein dreijähriger Percheron-Hengst, der auf
             dem Gestüt „Centre de Valorisation du Haras national du Pin“ zu
             einem universell einsetzbaren Arbeitspferd ausgebildet werden
@@ -17772,6 +17801,7 @@ seasons:
         episode_no: 8
         title: Kalkstein - Das weiße Gold von Brač
         title_fr: Croatie, les trailleurs de pierre de Brač
+        continent: Europa
         description: 'Kalkstein von der kroatischen Insel Brac war über viele
             Jahrhunderte einer der begehrtesten Baustoffe Europas – Paläste
             und Kathedralen entstanden aus dem edlen weißen Stein. Die Ausbildung
@@ -17817,6 +17847,7 @@ seasons:
         episode_no: 9
         title: Hamburg - Welthafen mit schwimmender Kirche
         title_fr: Port d'Hambourg, un bateau-église insolite
+        continent: Europa
         description: 'Mitten im Trubel des Hamburger Hafens, zwischen Containerschiffen,
             Schleppern und Schuten, gibt es ein echtes Kleinod: die Flussschifferkirche,
             eine schwimmende Kirche. Ein „Seelenhafen“ sozusagen, an dem Menschen
@@ -17863,6 +17894,7 @@ seasons:
         episode_no: 10
         title: Tradition am Steilhang - Die Schweiz und ihre Wildheuer
         title_fr: La fenaison en montagne, une tradition Suisse
+        continent: Europa
         description: 'Im Schweizer Kanton Uri pflegen die Bauern an den fast
             senkrechten Steilhängen eine gefährliche Tradition: das Wildheuen.
             Seit Jahrhunderten mähen sie hier in den Alpen das Gras für ihre
@@ -17912,6 +17944,7 @@ seasons:
         episode_no: 11
         title: Biber, die Baumeister an der Elbe
         title_fr: La revanche du castor
+        continent: Europa
         description: 'Peter Ibe ist Biberschützer aus Leidenschaft. Schon
             in den 70er Jahren engagierte sich der Biologe an der Elbe und
             half bei Umsiedlungsprojekten mit, um die letzten heimischen Biber
@@ -17946,6 +17979,7 @@ seasons:
         episode_no: 12
         title: Pelikane, die Könige des Donaudeltas
         title_fr: Le delta du danube, dernier refuge des pélicans
+        continent: Europa
         description: 'Andrei Ciobanu ist verzweifelt. Seit Monaten holt der
             Fischer aus dem kleinen Dorf Letea im Donaudelta kaum noch genügend
             Fische aus dem Wasser, um sich und seine Frau ernähren zu können.
@@ -17986,6 +18020,7 @@ seasons:
         episode_no: 13
         title: Frankreichs Winzer - Tradition trifft Passion
         title_fr: Le renouveau du vignoble français
+        continent: Europa
         description: 'Einer, der gegen das Sterben der Weinberge in Frankreich
             ankämpft, ist der Reben-Züchter Lilian Bérillon. In Villeneuve-lès-Avignon,
             einer kleinen Gemeinde in Südfrankreich, besitzt er eine Baumschule.
@@ -18025,6 +18060,7 @@ seasons:
         episode_no: 14
         title: Notruf Nordseeküste - Die Robben-Retter
         title_fr: Mer du Nord, sauvons les bébés phoques
+        continent: Europa
         description: 'Jedes Jahr im Frühsommer werden auf den Sandbänken und
             an den Stränden der Nordsee Hunderte Seehundbabys geboren. Manchmal
             werden diese Welpen von der Mutter getrennt und können nicht mehr
@@ -18069,6 +18105,7 @@ seasons:
         episode_no: 15
         title: Australien - Wenn Kunst auf Silos trifft
         title_fr: Australie, le street art s'invite sur les silos
+        continent: Ozeanien und Pole
         description: 'Als die kleine australische Stadt Northam vor ein paar
             Jahren beschloss, ihre großen, leerstehenden Weizensilos von einem
             lokalen Künstler bemalen zu lassen, ahnte noch niemand, was für
@@ -18115,6 +18152,7 @@ seasons:
         episode_no: 16
         title: Der Wüstenzug - die Lebensader Mauretaniens
         title_fr: Mauritanie, le train du désert
+        continent: Afrika
         description: 'Durch Mauretanien verläuft eine einzigartige Bahnlinie,
             quer durch ein Meer aus Sand. 700 Kilometer Gleise führen hier
             seit 1963 mitten durch die Sahara. Gebaut wurde Mauretaniens Wüstenexpress
@@ -18171,6 +18209,7 @@ seasons:
         title: Escobars Erbe - Kolumbiens Kokain-Hippos
         title_fr: Les hippopotames de Pablo Escobar
         title_en: Pablo Escobar's Hippos
+        continent: Amerika
         description: 'Als Kokainmillionär Pablo Escobar in den 80er Jahren
             begann, afrikanische Flusspferde zu seinem privaten Vergnügen
             zu halten, konnte noch niemand in Kolumbien ahnen, dass die Tiere
@@ -18214,6 +18253,7 @@ seasons:
         title: Die heilenden Delfine von Curaçao
         title_fr: Curaçao, des dauphins thérapeutes
         alias: Curaçao - Die sanften Delfine
+        continent: Amerika
         description: 'Die Karibikinsel Curaçao ist mit einer reichen Unterwasserflora
             und -fauna gesegnet. Hier gibt es seit 2004 auch ein Zentrum für
             Delfintherapie – eine Einrichtung für Menschen mit besonderen
@@ -18256,6 +18296,7 @@ seasons:
         episode_no: 19
         title: Der Traum vom Gold - Tirols Überfliegerinnen
         title_fr: Le saut à ski féminin prend son envol
+        continent: Europa
         description: 'Die „fliegende Gräfin“ Paula von Lamberg gilt als Pionierin
             des Damenskisprungs. 1911 stellte sie in Kitzbühel mit 22 Metern
             einen Weltrekord auf. Trotzdem sollte es noch fast hundert Jahre
@@ -18297,6 +18338,7 @@ seasons:
         episode_no: 20
         title: 'Schweiz: Gletscherflieger - Faszination in Weiß'
         title_fr: Suisse, en vol avec des pilotes des glaciers
+        continent: Europa
         description: 'Isabel Menzi ist im Hauptberuf Pilotin bei einer Schweizer
             Fluggesellschaft. Doch sie liebt nicht nur die großen Jumbos,
             sondern auch die kleinen Gletscherflugzeuge, mit denen die junge
@@ -18349,6 +18391,7 @@ seasons:
         episode_no: 21
         title: Koh Panyee - Thailands fußballverrückte Insel
         title_fr: Thaïlande, un terrain de football insolite
+        continent: Asien
         description: '1986 sah eine Gruppe von Kindern in Thailand ein Fußballspiel
             im Fernsehen. Sie träumten, einmal selbst an einer Fussball-Weltmeisterschaft
             teilzunehmen. Nur wohnten sie auf einer auf Stelzen gebauten Stadt.
@@ -18371,6 +18414,7 @@ seasons:
         episode_no: 22
         title: Stromboli - Zwischen Feuer und Meer
         title_fr: Stromboli, terre de feu
+        continent: Europa
         description: 'Wohnen am Fuße eines aktiven Vulkans – Alltag für die
             rund 300 Bewohnerinnen und Bewohner der Insel Stromboli. Die meisten
             von ihnen arbeiten als Künstler, Bauern, Bergführer – und vor
@@ -18414,6 +18458,7 @@ seasons:
         episode_no: 23
         title: Italien - Die Igel-Retter aus dem Piemont
         title_fr: Italie, un refuge pour hérissons
+        continent: Europa
         description: 'Orecchio, Ettore, Pino oder Onorina – sie alle sind
             Patienten bei Dr. Massimo Vacchetta, in der einzigen Igelklinik
             Italiens. Die nachtaktiven Tiere sind Opfer von Autos, motorisierten
