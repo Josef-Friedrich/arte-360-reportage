@@ -21,7 +21,8 @@ seasons:
     -   overall_no: 1
         season_no: 1
         episode_no: 1
-        title: 'Traum-Städte: Beirut - die Milliarden-Dollar-Utopie'
+        title: Beirut - die Milliarden-Dollar-Utopie
+        topic: Traum-Städte
         description: '15 Jahre Bürgerkrieg hatten von Beirut, dem „Paris des
             Orients“, nur noch Trümmer übrig gelassen. Aber seit einigen Jahren
             entstehen in der Ruinenlandschaft täglich neue Marmorfassaden.
@@ -45,6 +46,7 @@ seasons:
             ist umstritten. Viele Beiruter wollen einen Neuanfang und die
             Stadt neu beleben. Doch wie hoch ist der Preis dafür - und wer
             muß ihn zahlen? (Text: arte)'
+        director: Klaus Hein
         air_date: '1999-01-04'
         duration: 55
         fernsehserien_episode_no: 1
@@ -56,7 +58,8 @@ seasons:
     -   overall_no: 2
         season_no: 1
         episode_no: 2
-        title: 'Traum-Städte: Chandigarh - Leben im Beton'
+        title: Chandigarh - Leben im Beton
+        topic: Traum-Städte
         description: 'Chandigarh - die Stadt, die 1948 aus dem Nichts erbaut
             wurde. Ein politisches Manifest für das neue, unabhängige Indien,
             dessen Strukturen sich von der Agrargesellschaft zur modernen,
@@ -87,6 +90,7 @@ seasons:
 
             Satish räumt ein, daß das Leben für ihn hier auch nicht leichter
             ist als anderswo - aber die Leute sind anders. (Text: arte)'
+        director: Sylvain Roumette
         air_date: '1999-01-05'
         duration: 55
         fernsehserien_episode_no: 2
@@ -98,7 +102,8 @@ seasons:
     -   overall_no: 3
         season_no: 1
         episode_no: 3
-        title: 'Traum-Städte: Brasilia - Metropole vom Reißbrett'
+        title: Brasilia - Metropole vom Reißbrett
+        topic: Traum-Städte
         description: 'Wie ein Magnet zog die Stadt bei ihrer Gründung 1960
             die verschiedenartigsten Menschen an, die alle mit der gleichen
             Erwartung kamen: Sie wollten in einer Stadt leben, in der es keine
@@ -129,6 +134,7 @@ seasons:
 
             Warum übt es auch auf junge Leute eine unwiderstehliche Anziehungskraft
             aus? (Text: arte)'
+        director: Jorge Bodanzky
         air_date: '1999-01-06'
         duration: 55
         fernsehserien_episode_no: 3
@@ -140,7 +146,8 @@ seasons:
     -   overall_no: 4
         season_no: 1
         episode_no: 4
-        title: 'Traum-Städte: Celebration - Leben in Harmonie'
+        title: Celebration - Leben in Harmonie
+        topic: Traum-Städte
         description: 'Das Leben ist ein „Jubelfest“: Celebration - der Name
             der Stadt ist Programm. Hier schafft der Unterhaltungskonzern
             Disney seit 1995 Realität nach eigenem Drehbuch. Zwei Meister
@@ -170,6 +177,7 @@ seasons:
             Sie akzeptieren es, von einem Disney Manager als Bürgermeister-Ersatz
             regiert zu werden. Ist die lückenlos durchgeplante Privatstadt
             das Modell der Zukunft? (Text: arte)'
+        director: Walter Tauber
         air_date: '1999-01-07'
         duration: 55
         fernsehserien_episode_no: 4
@@ -181,8 +189,9 @@ seasons:
     -   overall_no: 5
         season_no: 1
         episode_no: 5
-        title: 'Weibs-Bilder: Die mächtigen Frauen von Juchitán'
+        title: Die mächtigen Frauen von Juchitán
         alias: Leistungsstarke Frauen Juchitan
+        topic: Weibs-Bilder
         description: 'Die zweite Staffel von 360° - Die GEO-Reportage widmet
             sich im Februar dem vermeintlich schwachen Geschlecht - und zeigt
             dabei, daß Frauen einfach anders stark sind als Männer.In den
@@ -217,6 +226,7 @@ seasons:
             Schule - danach stehen ihr als Frau noch alle Möglichkeiten offen.
             Ist die matrilineare Gesellschaft, in der Frauen im Mittelpunkt
             stehen, besser oder einfach nur anders? (Text: arte)'
+        director: Carmen Butta
         air_date: '1999-02-01'
         duration: 55
         fernsehserien_episode_no: 5
@@ -229,7 +239,8 @@ seasons:
     -   overall_no: 6
         season_no: 1
         episode_no: 6
-        title: 'Weibs-Bilder: Hazeras Geschäfte'
+        title: Hazeras Geschäfte
+        topic: Weibs-Bilder
         description: '„Women first“ - so nennt sich ein Trend in der internationalen
             Entwicklungspolitik. Frauen werden als Zielgruppe der Hilfsorganisationen
             entdeckt: Auf Grund der traditionellen Rollenverteilung beschränkt
@@ -258,6 +269,7 @@ seasons:
 
             Das Handy - in Bangladesh kein Statussymbol, sondern ein Ausweg
             aus dem Teufelskreis der Armut. (Text: arte)'
+        director: Sigrun Matthiesen
         air_date: '1999-02-02'
         duration: 55
         fernsehserien_episode_no: 6
@@ -269,7 +281,8 @@ seasons:
     -   overall_no: 7
         season_no: 1
         episode_no: 7
-        title: 'Weibs-Bilder: Die neue Kunst des Kinderkriegens'
+        title: Die neue Kunst des Kinderkriegens
+        topic: Weibs-Bilder
         description: 'Die Pille brachte den Frauen die erste sexuelle Revolution.
             Eine zweite Revolution steht vor der Türe: Macht die Reproduktionsmedizin
             in Zukunft Frauen für die Geburt überflüssig? Haben Sexualität
@@ -300,6 +313,7 @@ seasons:
             Frauen jenseits der fünfzig hat: Sie hoffen auf eine späte Erfüllung
             des Kinderwunsches. Welche Gefahren und Chancen bringen die neuen
             medizinischen Möglichkeiten? (Text: arte)'
+        director: Maren Niemeyer
         air_date: '1999-02-03'
         duration: 55
         fernsehserien_episode_no: 7
@@ -311,7 +325,8 @@ seasons:
     -   overall_no: 8
         season_no: 1
         episode_no: 8
-        title: 'Weibs-Bilder: Der kleine Unterschied im Kopf'
+        title: Der kleine Unterschied im Kopf
+        topic: Weibs-Bilder
         description: 'Frauen sind weniger aggressiv und haben ein schlechteres
             räumliches Orientierungsvermögen als Männer. Ist das ein Vorurteil,
             allgemeine Erfahrung, oder läßt sich dieser Geschlechterunterschied
@@ -334,6 +349,7 @@ seasons:
             Wir haben immer gelernt, daß es unweiblich ist, aggressiv zu sein.“
             Ist es wirklich die Erziehung, oder sind es nicht doch unterschiedliche
             biologische Grundlagen? (Text: arte)'
+        director: Elke Werry
         air_date: '1999-02-04'
         duration: 55
         fernsehserien_episode_no: 8
@@ -345,7 +361,8 @@ seasons:
     -   overall_no: 9
         season_no: 1
         episode_no: 9
-        title: 'Regenwald: Die Spurensucher'
+        title: Die Spurensucher
+        topic: Regenwald
         description: 'Die Regenwälder, die Lungen der Erde, werden Mitte des
             nächsten Jahrhunderts ersticken, zurück bleiben dann riesige Wüsten
             - so die neuesten Prognose britischen Klimaforscher. Ist der Pessimismus
@@ -381,6 +398,7 @@ seasons:
             Regenwald zu erforschen, bevor er von der Erde verschwunden ist?
 
             (Text: arte)'
+        director: Thomas Wartmann
         air_date: '1999-03-01'
         duration: 55
         fernsehserien_episode_no: 9
@@ -392,7 +410,8 @@ seasons:
     -   overall_no: 10
         season_no: 1
         episode_no: 10
-        title: 'Regenwald: Auf dem Holzweg'
+        title: Auf dem Holzweg
+        topic: Regenwald
         description: 'Der Schweizer Fotograf Karl Amman lebt seit 25 Jahren
             in Afrika. Er hat sich den Schutz des Regenwaldes sowie den Schutz
             der Affen zur Lebensaufgabe gemacht: „Die Primaten sind die nächsten
@@ -405,8 +424,8 @@ seasons:
             wollen nicht, daß Weiße kommen und sich in unsere Angelegenheiten
             mischen.
 
-            “ Welche Chancen - und welches Recht - haben Regenwaldschützer
-            wie Karl Amman mit ihrem Engagement?Wenn internationale Holzkonzerne
+            „Welche Chancen - und welches Recht - haben Regenwaldschützer
+            wie Karl Amman mit ihrem Engagement? Wenn internationale Holzkonzerne
             ihre Schneisen in den Kameruner Regenwald schlagen, sprechen sie
             gerne von „selektiver Extraktion“, denn sie fällen immer nur ein
             bis zwei Urwaldriesen pro Hektar. Aber bis der gefällte Baum von
@@ -429,12 +448,13 @@ seasons:
         fernsehserien_episode_id: 339125
         thetvdb_season_episode: S01E10
         thetvdb_episode_id: 4641902
-        youtube_video_id: _dmzJgBbZQ4
+        youtube_video_id: XAyYoAetjuQ
     -   overall_no: 11
         season_no: 1
         episode_no: 11
-        title: 'Regenwald: Der Geist des Vogels - Heilkraft aus dem Urwald'
+        title: Der Geist des Vogels - Heilkraft aus dem Urwald
         alias: Heilkraft aus dem Urwald
+        topic: Regenwald
         description: 'Der 75jährige Schamane Takuma lebt im Xingú Nationalpark
             in Brasilien. Er hat sich geschworen: „Den Weißen erzähle ich
             nichts. Die haben immer nur genommen.“ Eines Tages lernt er Marc
@@ -476,7 +496,8 @@ seasons:
     -   overall_no: 12
         season_no: 1
         episode_no: 12
-        title: 'Regenwald: Die Pille für den Wald'
+        title: Die Pille für den Wald
+        topic: Regenwald
         description: 'Die Kindersterblichkeit ist hoch in dem kleinen Himalaya-Dorf
             Bhujung. Deshalb setzen Eltern möglichst viele Kinder in die Welt
             in der Hoffnung, daß wenigstens ein paar überleben und zum Familienunterhalt
@@ -512,6 +533,7 @@ seasons:
             für jeden Tee neues Wasser aufgesetzt wird. Die Zeichen stehen
             gut in Bhujung, daß aus den Wald-Verbrauchern nun Wald-Schützer
             werden. (Text: arte)'
+        director: Jens Dücker
         air_date: '1999-03-04'
         duration: 55
         fernsehserien_episode_no: 12
@@ -523,12 +545,14 @@ seasons:
     -   overall_no: 13
         season_no: 1
         episode_no: 13
-        title: 'Vorbild Natur: Copyright Natur'
+        title: Copyright Natur
+        topic: Vorbild Natur
         description: Was hat ein Haifisch mit einem Airbus zu tun? Auf den
             ersten Blick nicht viel - und doch steht der Haifisch Modell bei
             der Konstruktion von Flugzeug-Oberflächen. Die Reportage zeigt,
             wie die Natur als Ideenlieferant für die Entwicklung neuer High-Tech-Lösungen
             genutzt wird.
+        director: Thomas Brodbeck, Thomas Simmon
         air_date: '1999-04-05'
         duration: 55
         fernsehserien_episode_no: 13
@@ -540,13 +564,15 @@ seasons:
     -   overall_no: 14
         season_no: 1
         episode_no: 14
-        title: 'Vorbild Natur: Mensch Roboter!'
+        title: Mensch Roboter!
+        topic: Vorbild Natur
         description: Wenn Roboter-Forscher ans Werk gehen, bedienen sie sich
             bei Vorbildern aus der Natur - vor allem beim Menschen. Dabei
             staunen die Forscher immer wieder über die Komplexität, die hinter
             so grundlegenden Fähigkeiten wie dem Sehen oder Gehen steckt.
             Die Reportage zeigt dabei auch, wie die Technik, die den Robotern
             ‚Beine macht‘, wiederum dem Menschen zugutekommt.
+        director: Thomas Brodbeck, Hartmut Vogel
         air_date: '1999-04-06'
         duration: 55
         fernsehserien_episode_no: 14
@@ -558,13 +584,15 @@ seasons:
     -   overall_no: 15
         season_no: 1
         episode_no: 15
-        title: 'Vorbild Natur: ABC des Universums'
+        title: ABC des Universums
+        topic: Vorbild Natur
         description: Jedes Lebewesen ist ein Universum en miniature, das den
             gleichen Formgebungs- Gesetzen gehorcht wie die gesamte Welt.
             So gibt es etwa das Spiral-Muster sowohl bei winzigen, bakterienfressenden
             Schleimpilzen als auch in fernen Galaxien. Die Hoffnung der Wissenschaft
             ist es, durch die Entschlüsselung der Muster auch der Entstehung
             des Lebens auf die Spur zu kommen.
+        director: Thomas Brodbeck
         air_date: '1999-04-07'
         duration: 55
         fernsehserien_episode_no: 15
@@ -576,7 +604,8 @@ seasons:
     -   overall_no: 16
         season_no: 1
         episode_no: 16
-        title: 'Vorbild Natur: Die Erfindung der Wirklichkeit'
+        title: Die Erfindung der Wirklichkeit
+        topic: Vorbild Natur
         description: 'Ein Wunschtraum für so manchen Mediziner ist wahr geworden:
             Noch bevor das Skalpell den Patienten berührt, weiß der Arzt bereits
             genau, wie das Organ des Patienten aussieht - die Computersimulation
@@ -585,6 +614,7 @@ seasons:
             Realität oft ganz anders aussieht als die Prognosen. Die Reportage
             geht der Frage nach, wie dicht die Simulation an die Realität
             herankommen kann.'
+        director: Thomas Brodbeck, Hartmut Vogel
         air_date: '1999-04-08'
         duration: 55
         fernsehserien_episode_no: 16
@@ -596,7 +626,8 @@ seasons:
     -   overall_no: 17
         season_no: 1
         episode_no: 17
-        title: 'Schönheit: Markt der Schönheit'
+        title: Markt der Schönheit
+        topic: Schönheit
         description: Die Model-Industrie sucht immer nach neuen Formen der
             Schönheit. Derzeit sind im Westen dunkelhäutige Models äußerst
             gefragt. Die ehrgeizigen äthiopischen Model-Agentinnen Lina Kalifa
@@ -604,6 +635,7 @@ seasons:
             angesagt ist. Dann kehren sie in ihre von Hungersnöten und Kriegen
             gebeutelte Heimat zurück und suchen neue Gesichter, die vielleicht
             bald die Cover-Seiten westlicher Hochglanz-Magazine schmücken.
+        director: Juliana Ruhfus
         air_date: '1999-05-03'
         duration: 55
         fernsehserien_episode_no: 17
@@ -615,7 +647,8 @@ seasons:
     -   overall_no: 18
         season_no: 1
         episode_no: 18
-        title: 'Schönheit: Kuba - von der stillen Revolte der Schönheit'
+        title: Cuba - Von der stillen Revolte der Schönheit
+        topic: Schönheit
         description: Der Tropicana Club in Havanna war vor der Revolution
             für die Schönheit seiner Tänzerinnen berühmt. Auch jetzt nach
             der Wiedereröffnung will das Tropicana an diesen Ruhm anknüpfen
@@ -623,6 +656,7 @@ seasons:
             nun in der Riege der Auserlesenen tanzen, sind keineswegs jüngere
             Kopien der alten Garde. Hat die Revolution mit ihrer radikalen
             Ideologie auch das traditionelle Schönheitsideal des Landes beeinflusst?
+        director: Heidi E. Ewing
         air_date: '1999-05-04'
         duration: 55
         fernsehserien_episode_no: 18
@@ -634,7 +668,8 @@ seasons:
     -   overall_no: 19
         season_no: 1
         episode_no: 19
-        title: 'Schönheit: Das Maß der Schönheit'
+        title: Das Maß der Schönheit
+        topic: Schönheit
         description: 'Schönheit entsteht im Auge des Betrachters - so das
             Sprichwort. Demnach müsste jeder Mensch Schönheit anders empfinden.
             Einige Evolutions-Biologen vertreten jedoch die Theorie, dass
@@ -642,6 +677,7 @@ seasons:
             der Fähigkeit geboren werden, diese zu erkennen. Tragen wir alle
             ein genetisch vorprogrammiertes „Schönheitskonzept“ in uns? (Text:
             GEO Television)'
+        director: Tony Mason
         air_date: '1999-05-05'
         duration: 55
         fernsehserien_episode_no: 19
@@ -649,11 +685,12 @@ seasons:
         fernsehserien_episode_id: 339334
         thetvdb_season_episode: S01E19
         thetvdb_episode_id: 4641911
-        youtube_video_id: XW4c4rXmj_U
+        youtube_video_id: LpKB8n-ejwk
     -   overall_no: 20
         season_no: 1
         episode_no: 20
-        title: 'Schönheit: Die andere Seite der Schönheit'
+        title: Die andere Seite der Schönheit
+        topic: Schönheit
         description: 'Schon immer hatte jede Gesellschaft ihre Schönheitsideale,
             an denen ihre Mitglieder sich selbst und andere maßen. Doch in
             den letzten Jahrzehnten setzten westliche Medien derart unrealistische
@@ -661,6 +698,7 @@ seasons:
             neue Krankheit breitet sich aus, die bereits mit der Magersucht
             verglichen wird. Body Dysmorphic Disorder: Die Patienten finden
             sich ohne objektiven Grund unerträglich hässlich.'
+        director: Chris Ledger
         air_date: '1999-05-06'
         duration: 55
         fernsehserien_episode_no: 20
@@ -672,7 +710,8 @@ seasons:
     -   overall_no: 21
         season_no: 1
         episode_no: 21
-        title: 'Intelligenz: Geniale Störenfriede'
+        title: Geniale Störenfriede
+        topic: Intelligenz
         description: 'Der Homo sapiens - in Sachen Intelligenz hält er sich
             gerne für die Krone der Schöpfung. Aber kennen wir alle Formen
             der Intelligenz - wie läßt sich Intelligenz definieren und messen?
@@ -698,6 +737,7 @@ seasons:
             ihren Wissensvorsprung zu verstecken, um der sozialen Ausgrenzung
             zu entgehen. Diese psychische Belastung ist groß. Das Internat
             Cademuir bietet ihnen die Chance für ein neues Leben. (Text: arte)'
+        director: Wibke Kämpfer
         air_date: '1999-07-05'
         duration: 55
         fernsehserien_episode_no: 21
@@ -709,7 +749,8 @@ seasons:
     -   overall_no: 22
         season_no: 1
         episode_no: 22
-        title: 'Intelligenz: Musik macht klug'
+        title: Musik macht klug
+        topic: Intelligenz
         description: 'Meditation mit Mozart - so beginnt mitten in einem der
             ärmsten und gefährlichsten Viertel von Los Angeles für die Kinder
             der zweiten Klasse der Musikunterricht. Und Mozart zieht die Kinder
@@ -733,6 +774,7 @@ seasons:
             Verbesserung der schulischen Leistungen der „Musikkinder“. Vielleicht
             hilft uns die universelle Sprache der Musik tatsächlich, intelligenter
             durchs Leben zu gehen? (Text: arte)'
+        director: Michael Richter
         air_date: '1999-07-06'
         duration: 55
         fernsehserien_episode_no: 22
@@ -744,12 +786,14 @@ seasons:
     -   overall_no: 23
         season_no: 1
         episode_no: 23
-        title: 'Intelligenz: „Think Tank“ - Die Schule der Affen'
+        title: „Think Tank“ - Die Schule der Affen
+        topic: Intelligenz
         description: Die zierliche Indah und der stattliche Azy sind die Stars
             des ‚Think Tank‘, der Sprachschule für Orang-Utans im Zoo von
             Washington. Menschenaffen können zwar auf Grund ihrer Anatomie
             nicht wirklich sprechen, aber immer mehr Forscher wollen trotzdem
             mit den Tieren kommunizieren, um ihre Denkstrukturen zu verstehen.
+        director: Dietrich von Ruffer
         air_date: '1999-07-07'
         duration: 55
         fernsehserien_episode_no: 23
@@ -761,7 +805,8 @@ seasons:
     -   overall_no: 24
         season_no: 1
         episode_no: 24
-        title: 'Intelligenz: Künstliche Intelligenz'
+        title: Künstliche Intelligenz
+        topic: Intelligenz
         description: 'Wenn Emo traurig oder aufgeregt ist, sieht man ihm das
             an und zwar anhand der Kurven auf seinem Bildschirm: „Emo“ ist
             ein Computerprogramm, die Schöpfung des Bamberger Psychologen
@@ -769,6 +814,7 @@ seasons:
             überzeugt davon, dass auch die intensivsten menschlichen Gefühle
             letztendlich nichts als Verknüpfungen von Informationen sind.
             (Text: GEO Television)'
+        director: Tilman Brucker
         air_date: '1999-07-08'
         duration: 55
         fernsehserien_episode_no: 24
@@ -780,7 +826,8 @@ seasons:
     -   overall_no: 25
         season_no: 1
         episode_no: 25
-        title: 'Irren ist menschlich: Der Kaninchen-Krieg'
+        title: Der Kaninchen-Krieg
+        topic: Irren ist menschlich
         description: Wer hätte je gedacht, dass Kaninchen eine biologische
             Katastrophe auslösen könnten? Hierzulande bekannt als flauschiges
             Haustier, werden die niedlichen Tiere in Australien gefürchtet
@@ -789,6 +836,7 @@ seasons:
             verfolgt die Geschichte des skurrilen Kaninchen-Kriegs in Australien
             und zeigt die eigenwilligen Bekämpfungsmethoden von Farmern und
             Wissenschaftlern.
+        director: Anna Cater
         air_date: '1999-09-06'
         duration: 55
         fernsehserien_episode_no: 25
@@ -800,7 +848,8 @@ seasons:
     -   overall_no: 26
         season_no: 1
         episode_no: 26
-        title: 'Irren ist menschlich: Countdown ins Desaster'
+        title: Countdown ins Desaster
+        topic: Irren ist menschlich
         description: Nach 20 Jahren Forschung und Investitionen von 3,6 Milliarden
             Mark wurde das Hubble-Weltraum-Teleskop schließlich ins All befördert.
             Das Prestige-Objekt der NASA, das nach der Challenger-Katastrophe
@@ -808,6 +857,7 @@ seasons:
             Fiasko. Die Reportage rollt die größte Blamage in der Geschichte
             der NASA noch einmal auf und rekonstruiert das ganze Ausmaß des
             Hubble-Fiaskos und dessen Folgen.
+        director: Jeff Swimmer
         air_date: '1999-09-07'
         duration: 55
         fernsehserien_episode_no: 26
@@ -819,13 +869,15 @@ seasons:
     -   overall_no: 27
         season_no: 1
         episode_no: 27
-        title: 'Irren ist menschlich: Liebe und andere Katastrophen'
+        title: Liebe und andere Katastrophen
+        topic: Irren ist menschlich
         description: 'Für viele Menschen ist der Hochzeitstag der schönste
             Tag ihres Lebens. Doch leider hält der Bund fürs Leben oft nicht
             das, was er verspricht: Fast die Hälfte aller Ehen wird geschieden,
             die Liebe wird zur Katastrophe. Ist so ein Scheitern vorhersehbar?
             Können Fehlverhalten in der Partnerschaft vermieden werden? (Text:
             Discovery Channel)'
+        director: Eddie Baddage
         air_date: '1999-09-08'
         duration: 55
         fernsehserien_episode_no: 27
@@ -837,12 +889,14 @@ seasons:
     -   overall_no: 28
         season_no: 1
         episode_no: 28
-        title: 'Irren ist menschlich: Verkehrte Sicherheit'
+        title: Verkehrte Sicherheit
+        topic: Irren ist menschlich
         description: 'Laut Psychologen entstehen 95 Prozent aller Verkehrsunfälle
             durch die gefährliche Kombination aus Risikobereitschaft und menschlichem
             Versagen. Also nicht das Auto ist gefährlich, sondern der Mensch,
             der es steuert. Aber was macht uns so rücksichtslos? Und wie können
             wir den Rowdy in uns aufhalten? (Text: Discovery Channel)'
+        director: Steve Bowles
         air_date: '1999-09-09'
         duration: 55
         fernsehserien_episode_no: 28
@@ -854,7 +908,8 @@ seasons:
     -   overall_no: 29
         season_no: 1
         episode_no: 29
-        title: 'Die Suche nach dem Glück: Die Meister des Glücks'
+        title: Die Meister des Glücks
+        topic: Die Suche nach dem Glück
         description: 'Glück gehabt, sagt der Volksmund, wenn wir einem Unheil
             knapp entronnen sind. Doch das Glück, das wir uns erträumen ist
             ein anderes, ein beständigeres. Gianni Conte fand dieses Glück
@@ -880,6 +935,7 @@ seasons:
             darauf warten. „360° - Die Geo-Reportage“ berichtet über die Heilwirkung
             des Lachens, die wir vielleicht unbewusst wahrnehmen, aber bisher
             unterschätzt haben. (Text: arte)'
+        director: Harold Woetzel
         air_date: '1999-10-11'
         duration: 55
         fernsehserien_episode_no: 29
@@ -891,12 +947,13 @@ seasons:
     -   overall_no: 30
         season_no: 1
         episode_no: 30
-        title: 'Die Suche nach dem Glück: Die Macht des Lachens'
+        title: Die Macht des Lachens
+        topic: Die Suche nach dem Glück
         description: 'Lachen macht glücklich! Die Reportage beschreibt die
             Heilwirkung des Lachens, behandelt die Volkskrankheit Depression
             und verrät, wo die glücklichsten Menschen der Welt leben. (Text:
             arte)'
-        director: Ludo Grahan
+        director: Ludo Graham
         air_date: '1999-10-12'
         duration: 55
         fernsehserien_episode_no: 30
@@ -908,7 +965,8 @@ seasons:
     -   overall_no: 31
         season_no: 1
         episode_no: 31
-        title: 'Die Suche nach dem Glück: Chemie der Traurigkeit'
+        title: Chemie der Traurigkeit
+        topic: Die Suche nach dem Glück
         description: 'Depression ist eine Volkskrankheit: jeder fünfte Mensch
             erleidet einmal in seinem Leben eine schwere und länger anhaltende
             Depression. Einem Forscherteam des Max-Planck-Institutes für Psychiatrie
@@ -928,7 +986,8 @@ seasons:
     -   overall_no: 32
         season_no: 1
         episode_no: 32
-        title: 'Die Suche nach dem Glück: Insel der Glücklichsten'
+        title: Insel der Glücklichsten
+        topic: Die Suche nach dem Glück
         description: Gibt es ein Paradies auf Erden? Diese Frage hat die Menschen
             schon immer beschäftigt - und seit einiger Zeit nun auch die Wissenschaft.
             Ein niederländischer Forscher hat sich auf die Suche nach dem
@@ -947,7 +1006,8 @@ seasons:
     -   overall_no: 33
         season_no: 1
         episode_no: 33
-        title: 'Universum des Lichts: Hunger nach Sonne'
+        title: Hunger nach Sonne
+        topic: Universum des Lichts
         description: 'Gerade im Herbst, wenn wir dem langen Winter und der
             Dunkelheit entgegensehen, treten besonders häufig Depressionen
             auf. Forscher haben inzwischen einen einfachen aber genialen Weg
@@ -956,6 +1016,7 @@ seasons:
             Winterschlaffheit vertreiben und den müden Körper mit Energie
             aufladen. Werden wir also bald in einer Welt leben, in der die
             Sonne ersetzbar geworden ist?'
+        director: Walter Tauber
         air_date: '1999-11-01'
         duration: 55
         fernsehserien_episode_no: 33
@@ -967,7 +1028,8 @@ seasons:
     -   overall_no: 34
         season_no: 1
         episode_no: 34
-        title: 'Universum des Lichts: Die Leuchtkraft der Natur'
+        title: Die Leuchtkraft der Natur
+        topic: Universum des Lichts
         description: Wer auf der Insel Vieque in der Karibik ein nächtliches
             Bad im Meer nehmen will, braucht dafür keine Taschenlampe. Der
             Sprung ins Wasser wird zum Sprung in ein Lichterbad, in nahezu
@@ -976,6 +1038,7 @@ seasons:
             Gerhard in den norwegischen Lurje-Fjord begeben. Hier lebt ein
             leuchtendes Urtier, das es bereits seit über 500 Millionen Jahren
             gibt. Die Reportage taucht ab in die Welt des lebenden Lichts.
+        director: Claudia Wassmann
         air_date: '1999-11-02'
         duration: 55
         fernsehserien_episode_no: 34
@@ -983,17 +1046,19 @@ seasons:
         fernsehserien_episode_id: 339146
         thetvdb_season_episode: S01E34
         thetvdb_episode_id: 4824541
-        youtube_video_id: 7_3cDZ3yVrg
+        youtube_video_id: epuV5ouQ7OA
     -   overall_no: 35
         season_no: 1
         episode_no: 35
-        title: 'Universum des Lichts: Die Seele des Lichts'
+        title: Die Seele des Lichts
+        topic: Universum des Lichts
         description: 'Das Licht führt ein verborgenes Doppelleben, es ist
             Teilchen und Welle zugleich. Ein Mysterium und Wissenschaftlern
             wurde immer bewusster: Je mehr Daten sie sammelten, desto häufiger
             tappten sie im Dunkeln. Doch jetzt ist es einigen Wissenschaftlern
             gelungen, den Rätseln des Lichts einen Schritt näher zu kommen
             und dessen Wesen genauer zu ergründen.'
+        director: Dietrich Krauß
         air_date: '1999-11-03'
         duration: 55
         fernsehserien_episode_no: 35
@@ -1005,7 +1070,8 @@ seasons:
     -   overall_no: 36
         season_no: 1
         episode_no: 36
-        title: 'Universum des Lichts: Lichtkunst - Kunstlicht'
+        title: Lichtkunst - Kunstlicht
+        topic: Universum des Lichts
         description: Als Edison im vorigen Jahrhundert die Glühbirne entwickelte,
             ahnte er nicht, welche Veränderungen das künstliche Licht bewirken
             würde. Elektrische Beleuchtung revolutionierte unseren Alltag.
@@ -1014,6 +1080,7 @@ seasons:
             keineswegs mehr vorstellen, wieder darauf zu verzichten. Die Reportage
             beleuchtet den Siegeszug des elektrischen Lichts und seinen Einsatz
             in Architektur und Kunst.
+        director: Elke Werry
         air_date: '1999-11-04'
         duration: 55
         fernsehserien_episode_no: 36
@@ -1025,7 +1092,8 @@ seasons:
     -   overall_no: 37
         season_no: 1
         episode_no: 37
-        title: 'Im Namen der Liebe: Eine Liebe auf Bali'
+        title: Eine Liebe auf Bali
+        topic: Im Namen der Liebe
         description: 'Die indonesische Insel Bali gilt als Paradies, an dessen
             Stränden unzählige junge Paare aus aller Welt ihre Flitterwochen
             verbringen. Doch den Einwohnern Balis ist das Konzept der romantischen
@@ -1033,6 +1101,7 @@ seasons:
             „360° - Geo Reportage“ reist zu einer der ältesten Kulturen der
             Welt, wo Liebe alles andere als eine Privatangelegenheit ist.
             (Text: arte)'
+        director: David Goodale
         air_date: '1999-12-06'
         duration: 55
         fernsehserien_episode_no: 37
@@ -1040,11 +1109,12 @@ seasons:
         fernsehserien_episode_id: 339149
         thetvdb_season_episode: S01E37
         thetvdb_episode_id: 4824545
-        youtube_video_id: hxAERStQV4w
+        youtube_video_id: kf8zhso0u4s
     -   overall_no: 38
         season_no: 1
         episode_no: 38
-        title: 'Im Namen der Liebe: Mythos Mutterliebe'
+        title: Mythos Mutterliebe
+        topic: Im Namen der Liebe
         description: 'In der Regel gilt die Mutter als alleinverantwortlich
             für das Wohl ihres Kindes. Erfüllt sie ihre „Pflicht“ nicht oder
             nicht zufriedenstellend, wird sie schnell als „Rabenmutter“ abgestempelt.
@@ -1052,6 +1122,7 @@ seasons:
             Kinder bedingungslos zu lieben. Eine Gruppe von Wissenschaftlern
             ist diesem Rätsel auf der Spur. Wird eine Frau als Mutter geboren
             oder muss sie diese Rolle erst erlernen? (Text: GEO Television)'
+        director: Nadya Mahdi
         air_date: '1999-12-07'
         duration: 55
         fernsehserien_episode_no: 38
@@ -1063,7 +1134,8 @@ seasons:
     -   overall_no: 39
         season_no: 1
         episode_no: 39
-        title: 'Im Namen der Liebe: Angst macht verführerisch'
+        title: Angst macht verführerisch
+        topic: Im Namen der Liebe
         description: Liebe und Furcht - zwei Emotionen, die sich gegenseitig
             ausschließen - so sollte man meinen. Doch neueste Erkenntnisse
             von Psychologen und Anthropologen scheinen in eine andere Richtung
@@ -1071,6 +1143,7 @@ seasons:
             Umwelt, sondern auch unsere Gefühlswelt erschüttern kann. Die
             Reportage zeigt die spannende Suche nach der Anleitung zum Verlieben
             und deckt die Zusammenhänge zwischen Liebe und Angst auf.
+        director: Chris Ledger
         air_date: '1999-12-08'
         duration: 55
         fernsehserien_episode_no: 39
@@ -1078,11 +1151,13 @@ seasons:
         fernsehserien_episode_id: 339151
         thetvdb_season_episode: S01E39
         thetvdb_episode_id: 4824550
-        youtube_video_id: YPsAb0uUOyA
+        youtube_video_id: c238XngnQas
     -   overall_no: 40
         season_no: 1
         episode_no: 40
-        title: 'Im Namen der Liebe: Menü der Zärtlichkeit'
+        title: Menü der Zärtlichkeit
+        topic: Im Namen der Liebe
+        director: Ludo Graham
         air_date: '1999-12-09'
         duration: 55
         fernsehserien_episode_no: 40
@@ -1090,7 +1165,7 @@ seasons:
         fernsehserien_episode_id: 339152
         thetvdb_season_episode: S01E40
         thetvdb_episode_id: 4824551
-        youtube_video_id: r0rtNVYxUkg
+        youtube_video_id: cgu64PhWtA8
 -   'no': 2
     year: 2000
     episodes:

@@ -11,79 +11,79 @@
 {{Episodenlisteneintrag
 | NR_GES = 1
 | NR_ST = 1
-| OT = Traum-Städte: Beirut - die Milliarden-Dollar-Utopie<ref>Internetquellen zur Episode ''„Traum-Städte: Beirut - die Milliarden-Dollar-Utopie“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/1-traum-staedte-beirut-die-milliarden-dollar-utopie-339116 1] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/1-traum-staedte-beirut-die-milliarden-dollar-utopie-339116 339116], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641893 S01E01] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641893 4641893], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=E_uSFyHf7BM E_uSFyHf7BM]</ref>
+| OT = Beirut - die Milliarden-Dollar-Utopie<ref>Internetquellen zur Episode ''„Beirut - die Milliarden-Dollar-Utopie“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/1-traum-staedte-beirut-die-milliarden-dollar-utopie-339116 1] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/1-traum-staedte-beirut-die-milliarden-dollar-utopie-339116 339116], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641893 S01E01] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641893 4641893], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=E_uSFyHf7BM E_uSFyHf7BM]</ref>
 | Feld1 = -
-| REG = -
+| REG = Klaus Hein
 | EA = 1999-01-04
 }}
 {{Episodenlisteneintrag
 | NR_GES = 2
 | NR_ST = 2
-| OT = Traum-Städte: Chandigarh - Leben im Beton<ref>Internetquellen zur Episode ''„Traum-Städte: Chandigarh - Leben im Beton“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/2-traum-staedte-chandigarh-leben-im-beton-339117 2] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/2-traum-staedte-chandigarh-leben-im-beton-339117 339117], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641894 S01E02] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641894 4641894], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=FGgrN8pRhTU FGgrN8pRhTU]</ref>
+| OT = Chandigarh - Leben im Beton<ref>Internetquellen zur Episode ''„Chandigarh - Leben im Beton“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/2-traum-staedte-chandigarh-leben-im-beton-339117 2] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/2-traum-staedte-chandigarh-leben-im-beton-339117 339117], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641894 S01E02] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641894 4641894], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=FGgrN8pRhTU FGgrN8pRhTU]</ref>
 | Feld1 = -
-| REG = -
+| REG = Sylvain Roumette
 | EA = 1999-01-05
 }}
 {{Episodenlisteneintrag
 | NR_GES = 3
 | NR_ST = 3
-| OT = Traum-Städte: Brasilia - Metropole vom Reißbrett<ref>Internetquellen zur Episode ''„Traum-Städte: Brasilia - Metropole vom Reißbrett“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/3-traum-staedte-brasilia-metropole-vom-reissbrett-339118 3] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/3-traum-staedte-brasilia-metropole-vom-reissbrett-339118 339118], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641895 S01E03] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641895 4641895], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=_7Y2Y4bbw9s _7Y2Y4bbw9s]</ref>
+| OT = Brasilia - Metropole vom Reißbrett<ref>Internetquellen zur Episode ''„Brasilia - Metropole vom Reißbrett“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/3-traum-staedte-brasilia-metropole-vom-reissbrett-339118 3] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/3-traum-staedte-brasilia-metropole-vom-reissbrett-339118 339118], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641895 S01E03] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641895 4641895], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=_7Y2Y4bbw9s _7Y2Y4bbw9s]</ref>
 | Feld1 = -
-| REG = -
+| REG = Jorge Bodanzky
 | EA = 1999-01-06
 }}
 {{Episodenlisteneintrag
 | NR_GES = 4
 | NR_ST = 4
-| OT = Traum-Städte: Celebration - Leben in Harmonie<ref>Internetquellen zur Episode ''„Traum-Städte: Celebration - Leben in Harmonie“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/4-traum-staedte-celebration-leben-in-harmonie-339119 4] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/4-traum-staedte-celebration-leben-in-harmonie-339119 339119], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641896 S01E04] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641896 4641896], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=cA7vQS4fCTI cA7vQS4fCTI]</ref>
+| OT = Celebration - Leben in Harmonie<ref>Internetquellen zur Episode ''„Celebration - Leben in Harmonie“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/4-traum-staedte-celebration-leben-in-harmonie-339119 4] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/4-traum-staedte-celebration-leben-in-harmonie-339119 339119], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641896 S01E04] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641896 4641896], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=cA7vQS4fCTI cA7vQS4fCTI]</ref>
 | Feld1 = -
-| REG = -
+| REG = Walter Tauber
 | EA = 1999-01-07
 }}
 {{Episodenlisteneintrag
 | NR_GES = 5
 | NR_ST = 5
-| OT = Weibs-Bilder: Die mächtigen Frauen von Juchitán<ref>Internetquellen zur Episode ''„Weibs-Bilder: Die mächtigen Frauen von Juchitán“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/5-weibs-bilder-die-maechtigen-frauen-von-juchitan-339120 5] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/5-weibs-bilder-die-maechtigen-frauen-von-juchitan-339120 339120], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641897 S01E05] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641897 4641897], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt3369154 tt3369154], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=1mSDukDzpDM 1mSDukDzpDM]</ref>
+| OT = Die mächtigen Frauen von Juchitán<ref>Internetquellen zur Episode ''„Die mächtigen Frauen von Juchitán“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/5-weibs-bilder-die-maechtigen-frauen-von-juchitan-339120 5] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/5-weibs-bilder-die-maechtigen-frauen-von-juchitan-339120 339120], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641897 S01E05] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641897 4641897], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt3369154 tt3369154], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=1mSDukDzpDM 1mSDukDzpDM]</ref>
 | Feld1 = -
-| REG = -
+| REG = Carmen Butta
 | EA = 1999-02-01
 }}
 {{Episodenlisteneintrag
 | NR_GES = 6
 | NR_ST = 6
-| OT = Weibs-Bilder: Hazeras Geschäfte<ref>Internetquellen zur Episode ''„Weibs-Bilder: Hazeras Geschäfte“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/6-weibs-bilder-hazeras-geschaefte-339123 6] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/6-weibs-bilder-hazeras-geschaefte-339123 339123], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641898 S01E06] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641898 4641898], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=R5rvxs4hX20 R5rvxs4hX20]</ref>
+| OT = Hazeras Geschäfte<ref>Internetquellen zur Episode ''„Hazeras Geschäfte“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/6-weibs-bilder-hazeras-geschaefte-339123 6] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/6-weibs-bilder-hazeras-geschaefte-339123 339123], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641898 S01E06] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641898 4641898], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=R5rvxs4hX20 R5rvxs4hX20]</ref>
 | Feld1 = -
-| REG = -
+| REG = Sigrun Matthiesen
 | EA = 1999-02-02
 }}
 {{Episodenlisteneintrag
 | NR_GES = 7
 | NR_ST = 7
-| OT = Weibs-Bilder: Die neue Kunst des Kinderkriegens<ref>Internetquellen zur Episode ''„Weibs-Bilder: Die neue Kunst des Kinderkriegens“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/7-weibs-bilder-die-neue-kunst-des-kinderkriegens-339122 7] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/7-weibs-bilder-die-neue-kunst-des-kinderkriegens-339122 339122], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641899 S01E07] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641899 4641899], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=LrC1AVBi3c4 LrC1AVBi3c4]</ref>
+| OT = Die neue Kunst des Kinderkriegens<ref>Internetquellen zur Episode ''„Die neue Kunst des Kinderkriegens“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/7-weibs-bilder-die-neue-kunst-des-kinderkriegens-339122 7] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/7-weibs-bilder-die-neue-kunst-des-kinderkriegens-339122 339122], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641899 S01E07] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641899 4641899], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=LrC1AVBi3c4 LrC1AVBi3c4]</ref>
 | Feld1 = -
-| REG = -
+| REG = Maren Niemeyer
 | EA = 1999-02-03
 }}
 {{Episodenlisteneintrag
 | NR_GES = 8
 | NR_ST = 8
-| OT = Weibs-Bilder: Der kleine Unterschied im Kopf<ref>Internetquellen zur Episode ''„Weibs-Bilder: Der kleine Unterschied im Kopf“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/8-weibs-bilder-der-kleine-unterschied-im-kopf-339124 8] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/8-weibs-bilder-der-kleine-unterschied-im-kopf-339124 339124], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641900 S01E08] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641900 4641900], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=cwkotpcPnSw cwkotpcPnSw]</ref>
+| OT = Der kleine Unterschied im Kopf<ref>Internetquellen zur Episode ''„Der kleine Unterschied im Kopf“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/8-weibs-bilder-der-kleine-unterschied-im-kopf-339124 8] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/8-weibs-bilder-der-kleine-unterschied-im-kopf-339124 339124], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641900 S01E08] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641900 4641900], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=cwkotpcPnSw cwkotpcPnSw]</ref>
 | Feld1 = -
-| REG = -
+| REG = Elke Werry
 | EA = 1999-02-04
 }}
 {{Episodenlisteneintrag
 | NR_GES = 9
 | NR_ST = 9
-| OT = Regenwald: Die Spurensucher<ref>Internetquellen zur Episode ''„Regenwald: Die Spurensucher“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/9-regenwald-die-spurensucher-339121 9] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/9-regenwald-die-spurensucher-339121 339121], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641901 S01E09] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641901 4641901], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=Lo0nKPEQ8Rw Lo0nKPEQ8Rw]</ref>
+| OT = Die Spurensucher<ref>Internetquellen zur Episode ''„Die Spurensucher“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/9-regenwald-die-spurensucher-339121 9] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/9-regenwald-die-spurensucher-339121 339121], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641901 S01E09] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641901 4641901], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=Lo0nKPEQ8Rw Lo0nKPEQ8Rw]</ref>
 | Feld1 = -
-| REG = -
+| REG = Thomas Wartmann
 | EA = 1999-03-01
 }}
 {{Episodenlisteneintrag
 | NR_GES = 10
 | NR_ST = 10
-| OT = Regenwald: Auf dem Holzweg<ref>Internetquellen zur Episode ''„Regenwald: Auf dem Holzweg“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/10-regenwald-auf-dem-holzweg-339125 10] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/10-regenwald-auf-dem-holzweg-339125 339125], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641902 S01E10] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641902 4641902], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=_dmzJgBbZQ4 _dmzJgBbZQ4]</ref>
+| OT = Auf dem Holzweg<ref>Internetquellen zur Episode ''„Auf dem Holzweg“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/10-regenwald-auf-dem-holzweg-339125 10] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/10-regenwald-auf-dem-holzweg-339125 339125], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641902 S01E10] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641902 4641902], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=XAyYoAetjuQ XAyYoAetjuQ]</ref>
 | Feld1 = -
 | REG = -
 | EA = 1999-03-02
@@ -91,7 +91,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 11
 | NR_ST = 11
-| OT = Regenwald: Der Geist des Vogels - Heilkraft aus dem Urwald<ref>Internetquellen zur Episode ''„Regenwald: Der Geist des Vogels - Heilkraft aus dem Urwald“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/11-regenwald-der-geist-des-vogels-heilkraft-aus-dem-urwald-339126 11] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/11-regenwald-der-geist-des-vogels-heilkraft-aus-dem-urwald-339126 339126], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641903 S01E11] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641903 4641903], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=NrEukDOS1EA NrEukDOS1EA]</ref>
+| OT = Der Geist des Vogels - Heilkraft aus dem Urwald<ref>Internetquellen zur Episode ''„Der Geist des Vogels - Heilkraft aus dem Urwald“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/11-regenwald-der-geist-des-vogels-heilkraft-aus-dem-urwald-339126 11] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/11-regenwald-der-geist-des-vogels-heilkraft-aus-dem-urwald-339126 339126], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641903 S01E11] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641903 4641903], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=NrEukDOS1EA NrEukDOS1EA]</ref>
 | Feld1 = -
 | REG = Walter Tauber
 | EA = 1999-03-03
@@ -99,159 +99,159 @@
 {{Episodenlisteneintrag
 | NR_GES = 12
 | NR_ST = 12
-| OT = Regenwald: Die Pille für den Wald<ref>Internetquellen zur Episode ''„Regenwald: Die Pille für den Wald“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/12-regenwald-die-pille-fuer-den-wald-339127 12] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/12-regenwald-die-pille-fuer-den-wald-339127 339127], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641904 S01E12] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641904 4641904], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=dLFIQxBpprQ dLFIQxBpprQ]</ref>
+| OT = Die Pille für den Wald<ref>Internetquellen zur Episode ''„Die Pille für den Wald“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/12-regenwald-die-pille-fuer-den-wald-339127 12] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/12-regenwald-die-pille-fuer-den-wald-339127 339127], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641904 S01E12] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641904 4641904], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=dLFIQxBpprQ dLFIQxBpprQ]</ref>
 | Feld1 = -
-| REG = -
+| REG = Jens Dücker
 | EA = 1999-03-04
 }}
 {{Episodenlisteneintrag
 | NR_GES = 13
 | NR_ST = 13
-| OT = Vorbild Natur: Copyright Natur<ref>Internetquellen zur Episode ''„Vorbild Natur: Copyright Natur“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/13-vorbild-natur-copyright-natur-339129 13] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/13-vorbild-natur-copyright-natur-339129 339129], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641905 S01E13] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641905 4641905], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=tCbl1P76mxs tCbl1P76mxs]</ref>
+| OT = Copyright Natur<ref>Internetquellen zur Episode ''„Copyright Natur“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/13-vorbild-natur-copyright-natur-339129 13] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/13-vorbild-natur-copyright-natur-339129 339129], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641905 S01E13] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641905 4641905], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=tCbl1P76mxs tCbl1P76mxs]</ref>
 | Feld1 = -
-| REG = -
+| REG = Thomas Brodbeck, Thomas Simmon
 | EA = 1999-04-05
 }}
 {{Episodenlisteneintrag
 | NR_GES = 14
 | NR_ST = 14
-| OT = Vorbild Natur: Mensch Roboter!<ref>Internetquellen zur Episode ''„Vorbild Natur: Mensch Roboter!“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/14-vorbild-natur-mensch-roboter-339130 14] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/14-vorbild-natur-mensch-roboter-339130 339130], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641906 S01E14] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641906 4641906], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=vqEw-I_qCfU vqEw-I_qCfU]</ref>
+| OT = Mensch Roboter!<ref>Internetquellen zur Episode ''„Mensch Roboter!“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/14-vorbild-natur-mensch-roboter-339130 14] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/14-vorbild-natur-mensch-roboter-339130 339130], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641906 S01E14] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641906 4641906], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=vqEw-I_qCfU vqEw-I_qCfU]</ref>
 | Feld1 = -
-| REG = -
+| REG = Thomas Brodbeck, Hartmut Vogel
 | EA = 1999-04-06
 }}
 {{Episodenlisteneintrag
 | NR_GES = 15
 | NR_ST = 15
-| OT = Vorbild Natur: ABC des Universums<ref>Internetquellen zur Episode ''„Vorbild Natur: ABC des Universums“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/15-vorbild-natur-abc-des-universums-339131 15] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/15-vorbild-natur-abc-des-universums-339131 339131], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641907 S01E15] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641907 4641907], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=rCzm-aVuTzg rCzm-aVuTzg]</ref>
+| OT = ABC des Universums<ref>Internetquellen zur Episode ''„ABC des Universums“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/15-vorbild-natur-abc-des-universums-339131 15] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/15-vorbild-natur-abc-des-universums-339131 339131], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641907 S01E15] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641907 4641907], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=rCzm-aVuTzg rCzm-aVuTzg]</ref>
 | Feld1 = -
-| REG = -
+| REG = Thomas Brodbeck
 | EA = 1999-04-07
 }}
 {{Episodenlisteneintrag
 | NR_GES = 16
 | NR_ST = 16
-| OT = Vorbild Natur: Die Erfindung der Wirklichkeit<ref>Internetquellen zur Episode ''„Vorbild Natur: Die Erfindung der Wirklichkeit“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/16-vorbild-natur-die-erfindung-der-wirklichkeit-339132 16] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/16-vorbild-natur-die-erfindung-der-wirklichkeit-339132 339132], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641908 S01E16] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641908 4641908], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=06CDuq1PtKo 06CDuq1PtKo]</ref>
+| OT = Die Erfindung der Wirklichkeit<ref>Internetquellen zur Episode ''„Die Erfindung der Wirklichkeit“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/16-vorbild-natur-die-erfindung-der-wirklichkeit-339132 16] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/16-vorbild-natur-die-erfindung-der-wirklichkeit-339132 339132], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641908 S01E16] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641908 4641908], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=06CDuq1PtKo 06CDuq1PtKo]</ref>
 | Feld1 = -
-| REG = -
+| REG = Thomas Brodbeck, Hartmut Vogel
 | EA = 1999-04-08
 }}
 {{Episodenlisteneintrag
 | NR_GES = 17
 | NR_ST = 17
-| OT = Schönheit: Markt der Schönheit<ref>Internetquellen zur Episode ''„Schönheit: Markt der Schönheit“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/17-schoenheit-markt-der-schoenheit-339310 17] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/17-schoenheit-markt-der-schoenheit-339310 339310], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641909 S01E17] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641909 4641909], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=TNonjmeywIQ TNonjmeywIQ]</ref>
+| OT = Markt der Schönheit<ref>Internetquellen zur Episode ''„Markt der Schönheit“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/17-schoenheit-markt-der-schoenheit-339310 17] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/17-schoenheit-markt-der-schoenheit-339310 339310], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641909 S01E17] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641909 4641909], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=TNonjmeywIQ TNonjmeywIQ]</ref>
 | Feld1 = -
-| REG = -
+| REG = Juliana Ruhfus
 | EA = 1999-05-03
 }}
 {{Episodenlisteneintrag
 | NR_GES = 18
 | NR_ST = 18
-| OT = Schönheit: Kuba - von der stillen Revolte der Schönheit<ref>Internetquellen zur Episode ''„Schönheit: Kuba - von der stillen Revolte der Schönheit“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/18-schoenheit-kuba-von-der-stillen-revolte-der-schoenheit-339333 18] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/18-schoenheit-kuba-von-der-stillen-revolte-der-schoenheit-339333 339333], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641910 S01E18] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641910 4641910], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=YKZbpc4kuSI YKZbpc4kuSI]</ref>
+| OT = Cuba - Von der stillen Revolte der Schönheit<ref>Internetquellen zur Episode ''„Cuba - Von der stillen Revolte der Schönheit“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/18-schoenheit-kuba-von-der-stillen-revolte-der-schoenheit-339333 18] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/18-schoenheit-kuba-von-der-stillen-revolte-der-schoenheit-339333 339333], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641910 S01E18] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641910 4641910], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=YKZbpc4kuSI YKZbpc4kuSI]</ref>
 | Feld1 = -
-| REG = -
+| REG = Heidi E. Ewing
 | EA = 1999-05-04
 }}
 {{Episodenlisteneintrag
 | NR_GES = 19
 | NR_ST = 19
-| OT = Schönheit: Das Maß der Schönheit<ref>Internetquellen zur Episode ''„Schönheit: Das Maß der Schönheit“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/19-schoenheit-das-mass-der-schoenheit-339334 19] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/19-schoenheit-das-mass-der-schoenheit-339334 339334], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641911 S01E19] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641911 4641911], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=XW4c4rXmj_U XW4c4rXmj_U]</ref>
+| OT = Das Maß der Schönheit<ref>Internetquellen zur Episode ''„Das Maß der Schönheit“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/19-schoenheit-das-mass-der-schoenheit-339334 19] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/19-schoenheit-das-mass-der-schoenheit-339334 339334], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641911 S01E19] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641911 4641911], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=LpKB8n-ejwk LpKB8n-ejwk]</ref>
 | Feld1 = -
-| REG = -
+| REG = Tony Mason
 | EA = 1999-05-05
 }}
 {{Episodenlisteneintrag
 | NR_GES = 20
 | NR_ST = 20
-| OT = Schönheit: Die andere Seite der Schönheit<ref>Internetquellen zur Episode ''„Schönheit: Die andere Seite der Schönheit“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/20-schoenheit-die-andere-seite-der-schoenheit-339328 20] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/20-schoenheit-die-andere-seite-der-schoenheit-339328 339328], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641912 S01E20] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641912 4641912], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=tcYPNiXisX0 tcYPNiXisX0]</ref>
+| OT = Die andere Seite der Schönheit<ref>Internetquellen zur Episode ''„Die andere Seite der Schönheit“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/20-schoenheit-die-andere-seite-der-schoenheit-339328 20] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/20-schoenheit-die-andere-seite-der-schoenheit-339328 339328], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641912 S01E20] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641912 4641912], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=tcYPNiXisX0 tcYPNiXisX0]</ref>
 | Feld1 = -
-| REG = -
+| REG = Chris Ledger
 | EA = 1999-05-06
 }}
 {{Episodenlisteneintrag
 | NR_GES = 21
 | NR_ST = 21
-| OT = Intelligenz: Geniale Störenfriede<ref>Internetquellen zur Episode ''„Intelligenz: Geniale Störenfriede“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/21-intelligenz-geniale-stoerenfriede-339133 21] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/21-intelligenz-geniale-stoerenfriede-339133 339133], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824521 S01E21] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824521 4824521], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=9N_DwJ2fymM 9N_DwJ2fymM]</ref>
+| OT = Geniale Störenfriede<ref>Internetquellen zur Episode ''„Geniale Störenfriede“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/21-intelligenz-geniale-stoerenfriede-339133 21] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/21-intelligenz-geniale-stoerenfriede-339133 339133], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824521 S01E21] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824521 4824521], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=9N_DwJ2fymM 9N_DwJ2fymM]</ref>
 | Feld1 = -
-| REG = -
+| REG = Wibke Kämpfer
 | EA = 1999-07-05
 }}
 {{Episodenlisteneintrag
 | NR_GES = 22
 | NR_ST = 22
-| OT = Intelligenz: Musik macht klug<ref>Internetquellen zur Episode ''„Intelligenz: Musik macht klug“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/22-intelligenz-musik-macht-klug-339134 22] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/22-intelligenz-musik-macht-klug-339134 339134], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824525 S01E22] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824525 4824525], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=GdWPt-utQPM GdWPt-utQPM]</ref>
+| OT = Musik macht klug<ref>Internetquellen zur Episode ''„Musik macht klug“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/22-intelligenz-musik-macht-klug-339134 22] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/22-intelligenz-musik-macht-klug-339134 339134], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824525 S01E22] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824525 4824525], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=GdWPt-utQPM GdWPt-utQPM]</ref>
 | Feld1 = -
-| REG = -
+| REG = Michael Richter
 | EA = 1999-07-06
 }}
 {{Episodenlisteneintrag
 | NR_GES = 23
 | NR_ST = 23
-| OT = Intelligenz: „Think Tank“ - Die Schule der Affen<ref>Internetquellen zur Episode ''„Intelligenz: „Think Tank“ - Die Schule der Affen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/23-intelligenz-think-tank-die-schule-der-affen-339157 23] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/23-intelligenz-think-tank-die-schule-der-affen-339157 339157], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824526 S01E23] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824526 4824526], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=P6QzAbgbxFg P6QzAbgbxFg]</ref>
+| OT = „Think Tank“ - Die Schule der Affen<ref>Internetquellen zur Episode ''„„Think Tank“ - Die Schule der Affen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/23-intelligenz-think-tank-die-schule-der-affen-339157 23] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/23-intelligenz-think-tank-die-schule-der-affen-339157 339157], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824526 S01E23] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824526 4824526], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=P6QzAbgbxFg P6QzAbgbxFg]</ref>
 | Feld1 = -
-| REG = -
+| REG = Dietrich von Ruffer
 | EA = 1999-07-07
 }}
 {{Episodenlisteneintrag
 | NR_GES = 24
 | NR_ST = 24
-| OT = Intelligenz: Künstliche Intelligenz<ref>Internetquellen zur Episode ''„Intelligenz: Künstliche Intelligenz“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/24-intelligenz-kuenstliche-intelligenz-339158 24] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/24-intelligenz-kuenstliche-intelligenz-339158 339158], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824528 S01E24] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824528 4824528], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=3rC25gW3xxk 3rC25gW3xxk]</ref>
+| OT = Künstliche Intelligenz<ref>Internetquellen zur Episode ''„Künstliche Intelligenz“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/24-intelligenz-kuenstliche-intelligenz-339158 24] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/24-intelligenz-kuenstliche-intelligenz-339158 339158], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824528 S01E24] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824528 4824528], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=3rC25gW3xxk 3rC25gW3xxk]</ref>
 | Feld1 = -
-| REG = -
+| REG = Tilman Brucker
 | EA = 1999-07-08
 }}
 {{Episodenlisteneintrag
 | NR_GES = 25
 | NR_ST = 25
-| OT = Irren ist menschlich: Der Kaninchen-Krieg<ref>Internetquellen zur Episode ''„Irren ist menschlich: Der Kaninchen-Krieg“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/25-irren-ist-menschlich-der-kaninchen-krieg-339138 25] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/25-irren-ist-menschlich-der-kaninchen-krieg-339138 339138], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824530 S01E25] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824530 4824530], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=jYrt-OPNDJM jYrt-OPNDJM]</ref>
+| OT = Der Kaninchen-Krieg<ref>Internetquellen zur Episode ''„Der Kaninchen-Krieg“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/25-irren-ist-menschlich-der-kaninchen-krieg-339138 25] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/25-irren-ist-menschlich-der-kaninchen-krieg-339138 339138], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824530 S01E25] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824530 4824530], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=jYrt-OPNDJM jYrt-OPNDJM]</ref>
 | Feld1 = -
-| REG = -
+| REG = Anna Cater
 | EA = 1999-09-06
 }}
 {{Episodenlisteneintrag
 | NR_GES = 26
 | NR_ST = 26
-| OT = Irren ist menschlich: Countdown ins Desaster<ref>Internetquellen zur Episode ''„Irren ist menschlich: Countdown ins Desaster“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/26-irren-ist-menschlich-countdown-ins-desaster-339139 26] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/26-irren-ist-menschlich-countdown-ins-desaster-339139 339139], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824531 S01E26] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824531 4824531], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=Re2So-kXO2E Re2So-kXO2E]</ref>
+| OT = Countdown ins Desaster<ref>Internetquellen zur Episode ''„Countdown ins Desaster“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/26-irren-ist-menschlich-countdown-ins-desaster-339139 26] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/26-irren-ist-menschlich-countdown-ins-desaster-339139 339139], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824531 S01E26] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824531 4824531], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=Re2So-kXO2E Re2So-kXO2E]</ref>
 | Feld1 = -
-| REG = -
+| REG = Jeff Swimmer
 | EA = 1999-09-07
 }}
 {{Episodenlisteneintrag
 | NR_GES = 27
 | NR_ST = 27
-| OT = Irren ist menschlich: Liebe und andere Katastrophen<ref>Internetquellen zur Episode ''„Irren ist menschlich: Liebe und andere Katastrophen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/27-irren-ist-menschlich-liebe-und-andere-katastrophen-339140 27] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/27-irren-ist-menschlich-liebe-und-andere-katastrophen-339140 339140], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824532 S01E27] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824532 4824532], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=WgWcbKnYJJY WgWcbKnYJJY]</ref>
+| OT = Liebe und andere Katastrophen<ref>Internetquellen zur Episode ''„Liebe und andere Katastrophen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/27-irren-ist-menschlich-liebe-und-andere-katastrophen-339140 27] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/27-irren-ist-menschlich-liebe-und-andere-katastrophen-339140 339140], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824532 S01E27] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824532 4824532], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=WgWcbKnYJJY WgWcbKnYJJY]</ref>
 | Feld1 = -
-| REG = -
+| REG = Eddie Baddage
 | EA = 1999-09-08
 }}
 {{Episodenlisteneintrag
 | NR_GES = 28
 | NR_ST = 28
-| OT = Irren ist menschlich: Verkehrte Sicherheit<ref>Internetquellen zur Episode ''„Irren ist menschlich: Verkehrte Sicherheit“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/28-irren-ist-menschlich-verkehrte-sicherheit-339141 28] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/28-irren-ist-menschlich-verkehrte-sicherheit-339141 339141], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824533 S01E28] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824533 4824533], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=G1M3FDyey0k G1M3FDyey0k]</ref>
+| OT = Verkehrte Sicherheit<ref>Internetquellen zur Episode ''„Verkehrte Sicherheit“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/28-irren-ist-menschlich-verkehrte-sicherheit-339141 28] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/28-irren-ist-menschlich-verkehrte-sicherheit-339141 339141], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824533 S01E28] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824533 4824533], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=G1M3FDyey0k G1M3FDyey0k]</ref>
 | Feld1 = -
-| REG = -
+| REG = Steve Bowles
 | EA = 1999-09-09
 }}
 {{Episodenlisteneintrag
 | NR_GES = 29
 | NR_ST = 29
-| OT = Die Suche nach dem Glück: Die Meister des Glücks<ref>Internetquellen zur Episode ''„Die Suche nach dem Glück: Die Meister des Glücks“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/29-die-suche-nach-dem-glueck-die-meister-des-gluecks-339142 29] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/29-die-suche-nach-dem-glueck-die-meister-des-gluecks-339142 339142], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824535 S01E29] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824535 4824535], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=1U3Bl34Iu3A 1U3Bl34Iu3A]</ref>
+| OT = Die Meister des Glücks<ref>Internetquellen zur Episode ''„Die Meister des Glücks“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/29-die-suche-nach-dem-glueck-die-meister-des-gluecks-339142 29] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/29-die-suche-nach-dem-glueck-die-meister-des-gluecks-339142 339142], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824535 S01E29] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824535 4824535], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=1U3Bl34Iu3A 1U3Bl34Iu3A]</ref>
 | Feld1 = -
-| REG = -
+| REG = Harold Woetzel
 | EA = 1999-10-11
 }}
 {{Episodenlisteneintrag
 | NR_GES = 30
 | NR_ST = 30
-| OT = Die Suche nach dem Glück: Die Macht des Lachens<ref>Internetquellen zur Episode ''„Die Suche nach dem Glück: Die Macht des Lachens“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/30-die-suche-nach-dem-glueck-die-macht-des-lachens-339143 30] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/30-die-suche-nach-dem-glueck-die-macht-des-lachens-339143 339143], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824536 S01E30] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824536 4824536], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=TCOpr5a6tAY TCOpr5a6tAY]</ref>
+| OT = Die Macht des Lachens<ref>Internetquellen zur Episode ''„Die Macht des Lachens“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/30-die-suche-nach-dem-glueck-die-macht-des-lachens-339143 30] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/30-die-suche-nach-dem-glueck-die-macht-des-lachens-339143 339143], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824536 S01E30] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824536 4824536], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=TCOpr5a6tAY TCOpr5a6tAY]</ref>
 | Feld1 = -
-| REG = Ludo Grahan
+| REG = Ludo Graham
 | EA = 1999-10-12
 }}
 {{Episodenlisteneintrag
 | NR_GES = 31
 | NR_ST = 31
-| OT = Die Suche nach dem Glück: Chemie der Traurigkeit<ref>Internetquellen zur Episode ''„Die Suche nach dem Glück: Chemie der Traurigkeit“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/31-die-suche-nach-dem-glueck-chemie-der-traurigkeit-339144 31] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/31-die-suche-nach-dem-glueck-chemie-der-traurigkeit-339144 339144], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824537 S01E31] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824537 4824537], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=1SVM-x4U7w4 1SVM-x4U7w4]</ref>
+| OT = Chemie der Traurigkeit<ref>Internetquellen zur Episode ''„Chemie der Traurigkeit“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/31-die-suche-nach-dem-glueck-chemie-der-traurigkeit-339144 31] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/31-die-suche-nach-dem-glueck-chemie-der-traurigkeit-339144 339144], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824537 S01E31] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824537 4824537], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=1SVM-x4U7w4 1SVM-x4U7w4]</ref>
 | Feld1 = -
 | REG = Thomas Wartmann
 | EA = 1999-10-13
@@ -259,7 +259,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 32
 | NR_ST = 32
-| OT = Die Suche nach dem Glück: Insel der Glücklichsten<ref>Internetquellen zur Episode ''„Die Suche nach dem Glück: Insel der Glücklichsten“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/32-die-suche-nach-dem-glueck-insel-der-gluecklichsten-339145 32] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/32-die-suche-nach-dem-glueck-insel-der-gluecklichsten-339145 339145], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824538 S01E32] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824538 4824538], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=0ejrRWcXiro 0ejrRWcXiro]</ref>
+| OT = Insel der Glücklichsten<ref>Internetquellen zur Episode ''„Insel der Glücklichsten“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/32-die-suche-nach-dem-glueck-insel-der-gluecklichsten-339145 32] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/32-die-suche-nach-dem-glueck-insel-der-gluecklichsten-339145 339145], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824538 S01E32] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824538 4824538], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=0ejrRWcXiro 0ejrRWcXiro]</ref>
 | Feld1 = -
 | REG = Harold Woetzel
 | EA = 1999-10-14
@@ -267,65 +267,65 @@
 {{Episodenlisteneintrag
 | NR_GES = 33
 | NR_ST = 33
-| OT = Universum des Lichts: Hunger nach Sonne<ref>Internetquellen zur Episode ''„Universum des Lichts: Hunger nach Sonne“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/33-universum-des-lichts-hunger-nach-sonne-339137 33] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/33-universum-des-lichts-hunger-nach-sonne-339137 339137], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824539 S01E33] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824539 4824539], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=WicPXmsDRC8 WicPXmsDRC8]</ref>
+| OT = Hunger nach Sonne<ref>Internetquellen zur Episode ''„Hunger nach Sonne“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/33-universum-des-lichts-hunger-nach-sonne-339137 33] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/33-universum-des-lichts-hunger-nach-sonne-339137 339137], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824539 S01E33] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824539 4824539], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=WicPXmsDRC8 WicPXmsDRC8]</ref>
 | Feld1 = -
-| REG = -
+| REG = Walter Tauber
 | EA = 1999-11-01
 }}
 {{Episodenlisteneintrag
 | NR_GES = 34
 | NR_ST = 34
-| OT = Universum des Lichts: Die Leuchtkraft der Natur<ref>Internetquellen zur Episode ''„Universum des Lichts: Die Leuchtkraft der Natur“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/34-universum-des-lichts-die-leuchtkraft-der-natur-339146 34] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/34-universum-des-lichts-die-leuchtkraft-der-natur-339146 339146], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824541 S01E34] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824541 4824541], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=7_3cDZ3yVrg 7_3cDZ3yVrg]</ref>
+| OT = Die Leuchtkraft der Natur<ref>Internetquellen zur Episode ''„Die Leuchtkraft der Natur“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/34-universum-des-lichts-die-leuchtkraft-der-natur-339146 34] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/34-universum-des-lichts-die-leuchtkraft-der-natur-339146 339146], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824541 S01E34] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824541 4824541], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=epuV5ouQ7OA epuV5ouQ7OA]</ref>
 | Feld1 = -
-| REG = -
+| REG = Claudia Wassmann
 | EA = 1999-11-02
 }}
 {{Episodenlisteneintrag
 | NR_GES = 35
 | NR_ST = 35
-| OT = Universum des Lichts: Die Seele des Lichts<ref>Internetquellen zur Episode ''„Universum des Lichts: Die Seele des Lichts“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/35-universum-des-lichts-die-seele-des-lichts-339147 35] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/35-universum-des-lichts-die-seele-des-lichts-339147 339147], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824542 S01E35] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824542 4824542], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=gFoyqUu_hAU gFoyqUu_hAU]</ref>
+| OT = Die Seele des Lichts<ref>Internetquellen zur Episode ''„Die Seele des Lichts“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/35-universum-des-lichts-die-seele-des-lichts-339147 35] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/35-universum-des-lichts-die-seele-des-lichts-339147 339147], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824542 S01E35] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824542 4824542], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=gFoyqUu_hAU gFoyqUu_hAU]</ref>
 | Feld1 = -
-| REG = -
+| REG = Dietrich Krauß
 | EA = 1999-11-03
 }}
 {{Episodenlisteneintrag
 | NR_GES = 36
 | NR_ST = 36
-| OT = Universum des Lichts: Lichtkunst - Kunstlicht<ref>Internetquellen zur Episode ''„Universum des Lichts: Lichtkunst - Kunstlicht“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/36-universum-des-lichts-lichtkunst-kunstlicht-339148 36] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/36-universum-des-lichts-lichtkunst-kunstlicht-339148 339148], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824544 S01E36] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824544 4824544], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=bTTuATcO2Wg bTTuATcO2Wg]</ref>
+| OT = Lichtkunst - Kunstlicht<ref>Internetquellen zur Episode ''„Lichtkunst - Kunstlicht“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/36-universum-des-lichts-lichtkunst-kunstlicht-339148 36] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/36-universum-des-lichts-lichtkunst-kunstlicht-339148 339148], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824544 S01E36] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824544 4824544], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=bTTuATcO2Wg bTTuATcO2Wg]</ref>
 | Feld1 = -
-| REG = -
+| REG = Elke Werry
 | EA = 1999-11-04
 }}
 {{Episodenlisteneintrag
 | NR_GES = 37
 | NR_ST = 37
-| OT = Im Namen der Liebe: Eine Liebe auf Bali<ref>Internetquellen zur Episode ''„Im Namen der Liebe: Eine Liebe auf Bali“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/37-im-namen-der-liebe-eine-liebe-auf-bali-339149 37] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/37-im-namen-der-liebe-eine-liebe-auf-bali-339149 339149], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824545 S01E37] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824545 4824545], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=hxAERStQV4w hxAERStQV4w]</ref>
+| OT = Eine Liebe auf Bali<ref>Internetquellen zur Episode ''„Eine Liebe auf Bali“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/37-im-namen-der-liebe-eine-liebe-auf-bali-339149 37] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/37-im-namen-der-liebe-eine-liebe-auf-bali-339149 339149], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824545 S01E37] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824545 4824545], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=kf8zhso0u4s kf8zhso0u4s]</ref>
 | Feld1 = -
-| REG = -
+| REG = David Goodale
 | EA = 1999-12-06
 }}
 {{Episodenlisteneintrag
 | NR_GES = 38
 | NR_ST = 38
-| OT = Im Namen der Liebe: Mythos Mutterliebe<ref>Internetquellen zur Episode ''„Im Namen der Liebe: Mythos Mutterliebe“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/38-im-namen-der-liebe-mythos-mutterliebe-339150 38] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/38-im-namen-der-liebe-mythos-mutterliebe-339150 339150], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824549 S01E38] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824549 4824549], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=mgGI3er1qPI mgGI3er1qPI]</ref>
+| OT = Mythos Mutterliebe<ref>Internetquellen zur Episode ''„Mythos Mutterliebe“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/38-im-namen-der-liebe-mythos-mutterliebe-339150 38] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/38-im-namen-der-liebe-mythos-mutterliebe-339150 339150], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824549 S01E38] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824549 4824549], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=mgGI3er1qPI mgGI3er1qPI]</ref>
 | Feld1 = -
-| REG = -
+| REG = Nadya Mahdi
 | EA = 1999-12-07
 }}
 {{Episodenlisteneintrag
 | NR_GES = 39
 | NR_ST = 39
-| OT = Im Namen der Liebe: Angst macht verführerisch<ref>Internetquellen zur Episode ''„Im Namen der Liebe: Angst macht verführerisch“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/39-im-namen-der-liebe-angst-macht-verfuehrerisch-339151 39] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/39-im-namen-der-liebe-angst-macht-verfuehrerisch-339151 339151], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824550 S01E39] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824550 4824550], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=YPsAb0uUOyA YPsAb0uUOyA]</ref>
+| OT = Angst macht verführerisch<ref>Internetquellen zur Episode ''„Angst macht verführerisch“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/39-im-namen-der-liebe-angst-macht-verfuehrerisch-339151 39] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/39-im-namen-der-liebe-angst-macht-verfuehrerisch-339151 339151], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824550 S01E39] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824550 4824550], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=c238XngnQas c238XngnQas]</ref>
 | Feld1 = -
-| REG = -
+| REG = Chris Ledger
 | EA = 1999-12-08
 }}
 {{Episodenlisteneintrag
 | NR_GES = 40
 | NR_ST = 40
-| OT = Im Namen der Liebe: Menü der Zärtlichkeit<ref>Internetquellen zur Episode ''„Im Namen der Liebe: Menü der Zärtlichkeit“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/40-im-namen-der-liebe-menue-der-zaertlichkeit-339152 40] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/40-im-namen-der-liebe-menue-der-zaertlichkeit-339152 339152], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824551 S01E40] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824551 4824551], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=r0rtNVYxUkg r0rtNVYxUkg]</ref>
+| OT = Menü der Zärtlichkeit<ref>Internetquellen zur Episode ''„Menü der Zärtlichkeit“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/40-im-namen-der-liebe-menue-der-zaertlichkeit-339152 40] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/40-im-namen-der-liebe-menue-der-zaertlichkeit-339152 339152], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824551 S01E40] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824551 4824551], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=cgu64PhWtA8 cgu64PhWtA8]</ref>
 | Feld1 = -
-| REG = -
+| REG = Ludo Graham
 | EA = 1999-12-09
 }}
 }}

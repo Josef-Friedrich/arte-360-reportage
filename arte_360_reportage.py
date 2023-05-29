@@ -285,7 +285,7 @@ class EpisodeData(typing.TypedDict):
     """Different German title"""
 
     topic: str
-    """For example ``Traum-Städte``"""
+    """Overarching theme that summarizes four episodes, for example ``Traum-Städte``"""
 
     continent: typing.Literal[
         "Europa", "Amerika", "Asien", "Afrika", "Ozeanien und Pole"

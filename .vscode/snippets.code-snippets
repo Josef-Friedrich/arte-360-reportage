@@ -23,5 +23,10 @@
     "prefix": ["p", "pole"],
     "body": ["continent: Ozeanien und Pole"],
     "description": "continent: Ozeanien und Pole"
+  },
+  "director": {
+    "prefix": ["d", "director"],
+    "body": ["director: $0"],
+    "description": "director: Regie"
   }
 }
