@@ -2117,7 +2117,7 @@
 | NR_ST = 20
 | OT = Rio de la Plata - SOS am Silberfluss<ref>Internetquellen zur Episode ''„Rio de la Plata - SOS am Silberfluss“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/253-rio-de-la-plata-sos-am-silberfluss-339732 253] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/253-rio-de-la-plata-sos-am-silberfluss-339732 339732], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642278 S10E20] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642278 4642278], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=IkMvsCA4uo0 IkMvsCA4uo0]</ref>
 | Feld1 = Le Dernier Capitaine du Rio de la Plata
-| REG = -
+| REG = Seven Jaax
 | EA = 2008-11-27
 }}
 {{Episodenlisteneintrag
@@ -2133,7 +2133,7 @@
 | NR_ST = 22
 | OT = Taipeh 101 - Der Himmel über Taiwan<ref>Internetquellen zur Episode ''„Taipeh 101 - Der Himmel über Taiwan“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/255-taipeh-101-der-himmel-ueber-taiwan-339734 255] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/255-taipeh-101-der-himmel-ueber-taiwan-339734 339734], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642280 S10E22] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642280 4642280], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=SJKNUloS0O4 SJKNUloS0O4]</ref>
 | Feld1 = Taipei 101, Sous le Ciel de Taiwan
-| REG = -
+| REG = Monika Hielscher, Matthias Heeder
 | EA = 2008-12-11
 }}
 {{Episodenlisteneintrag
@@ -2141,7 +2141,7 @@
 | NR_ST = 23
 | OT = Die einsamen Mönche von Oelenberg<ref>Internetquellen zur Episode ''„Die einsamen Mönche von Oelenberg“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/256-die-einsamen-moenche-von-oelenberg-339735 256] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/256-die-einsamen-moenche-von-oelenberg-339735 339735], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642281 S10E23] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642281 4642281], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=QR5RWf0_ksc QR5RWf0_ksc]</ref>
 | Feld1 = Les Moines Blancs de l’Oelenberg
-| REG = -
+| REG = Jean-Luc Nachbauer
 | EA = 2008-12-18
 }}
 }}
@@ -2175,8 +2175,8 @@
 | NR_GES = 257
 | NR_ST = 3
 | OT = Idjwi - Afrikas vergessene Insel<ref>Internetquellen zur Episode ''„Idjwi - Afrikas vergessene Insel“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/259-idjwi-afrikas-vergessene-insel-339737 259] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/259-idjwi-afrikas-vergessene-insel-339737 339737], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642284 S11E03] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642284 4642284], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1350549 tt1350549], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=y_zW09TMKaQ y_zW09TMKaQ]</ref>
-| Feld1 = Idjwi, l’Île Oubliée
-| REG = -
+| Feld1 = Idjwi - l’Île Oubliée
+| REG = Vincent Munié
 | EA = 2009-01-31
 }}
 {{Episodenlisteneintrag
@@ -2264,7 +2264,7 @@
 | NR_ST = 14
 | OT = Jemens verschleierte Zukunft<ref>Internetquellen zur Episode ''„Jemens verschleierte Zukunft“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/270-jemens-verschleierte-zukunft-339748 270] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/270-jemens-verschleierte-zukunft-339748 339748], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642298 S11E14] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642298 4642298], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=gCIzyjixKpI gCIzyjixKpI]</ref>
 | Feld1 = L’Avenir Voilé du Yémen
-| REG = -
+| REG = Holger Riedel
 | EA = 2009-08-08
 }}
 {{Episodenlisteneintrag
@@ -2304,7 +2304,7 @@
 | NR_ST = 19
 | OT = Die Holzfäller von British Columbia<ref>Internetquellen zur Episode ''„Die Holzfäller von British Columbia“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/275-die-holzfaeller-von-british-columbia-339754 275] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/275-die-holzfaeller-von-british-columbia-339754 339754], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642497 S11E19] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642497 4642497], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1621646 tt1621646], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=MpF684mvA5A MpF684mvA5A]</ref>
 | Feld1 = Les Bûcherons du Canada
-| REG = -
+| REG = Frank Mirbach
 | EA = 2009-10-10
 }}
 {{Episodenlisteneintrag
@@ -2358,9 +2358,9 @@
 {{Episodenlisteneintrag
 | NR_GES = 280
 | NR_ST = 26
-| OT = Saint Helena: Vergessen im Atlantik<ref>Internetquellen zur Episode ''„Saint Helena: Vergessen im Atlantik“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/282-saint-helena-vergessen-im-atlantik-339953 282] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/282-saint-helena-vergessen-im-atlantik-339953 339953], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642504 S11E26] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642504 4642504], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=srGhZLAIPCk srGhZLAIPCk]</ref>
+| OT = St. Helena: Vergessen im Atlantik<ref>Internetquellen zur Episode ''„St. Helena: Vergessen im Atlantik“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/282-saint-helena-vergessen-im-atlantik-339953 282] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/282-saint-helena-vergessen-im-atlantik-339953 339953], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642504 S11E26] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642504 4642504], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=srGhZLAIPCk srGhZLAIPCk]</ref>
 | Feld1 = L’Exil de Sainte-Hélène
-| REG = -
+| REG = Karl Alexander Weck
 | EA = 2009-12-26
 }}
 }}
@@ -2825,7 +2825,7 @@
 | NR_ST = 5
 | OT = Lappland: Rushhour im hohen Norden<ref>Internetquellen zur Episode ''„Lappland: Rushhour im hohen Norden“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/336-lappland-rushhour-im-hohen-norden-340001 336] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/336-lappland-rushhour-im-hohen-norden-340001 340001], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642566 S14E05] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642566 4642566], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=MT5oNZ0Y6JY MT5oNZ0Y6JY]</ref>
 | Feld1 = La Laponie, le Grand Embouteillage
-| REG = -
+| REG = J. Michael Schumacher
 | EA = 2012-03-10
 }}
 {{Episodenlisteneintrag
@@ -2897,7 +2897,7 @@
 | NR_ST = 14
 | OT = Modelsuche in Sibirien<ref>Internetquellen zur Episode ''„Modelsuche in Sibirien“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/345-modelsuche-in-sibirien-506705 345] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/345-modelsuche-in-sibirien-506705 506705], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642577 S14E14] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642577 4642577], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=ketqT7focbQ ketqT7focbQ]</ref>
 | Feld1 = Belles de Sibérie
-| REG = -
+| REG = Galina Breitkreuz
 | EA = 2012-09-15
 }}
 {{Episodenlisteneintrag
@@ -3263,7 +3263,7 @@
 | NR_ST = 9
 | OT = Elbsandsteingebirge - Märchenwelt und Meisterwerke<ref>Internetquellen zur Episode ''„Elbsandsteingebirge - Märchenwelt und Meisterwerke“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/388-elbsandsteingebirge-maerchenwelt-und-meisterwerke-607545 388] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/388-elbsandsteingebirge-maerchenwelt-und-meisterwerke-607545 607545], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/5063398 S16E09] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/5063398 5063398], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=PEJoGOk3veQ PEJoGOk3veQ]</ref>
 | Feld1 = Dresde, au Fil de l’Elbe
-| REG = -
+| REG = Gunnar Meyer
 | EA = 2014-05-10
 }}
 {{Episodenlisteneintrag
@@ -3374,8 +3374,8 @@
 | NR_GES = 400
 | NR_ST = 23
 | OT = Die Eisbergjäger von Neufundland<ref>Internetquellen zur Episode ''„Die Eisbergjäger von Neufundland“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/402-die-eisbergjaeger-von-neufundland-665965 402] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/402-die-eisbergjaeger-von-neufundland-665965 665965], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/5078296 S16E23] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/5078296 5078296], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=Jylj5OMHrWk Jylj5OMHrWk]</ref>
-| Feld1 = Terre-Neuve, les Chasseurs d’Iceberges
-| REG = -
+| Feld1 = Terre-Neuve, les Chasseurs d’Icebergs
+| REG = Julien Hamelin
 | EA = 2014-12-20
 }}
 {{Episodenlisteneintrag
@@ -3592,9 +3592,9 @@
 {{Episodenlisteneintrag
 | NR_GES = 426
 | NR_ST = 25
-| OT = Die Bergführer von Chamonix<ref>Internetquellen zur Episode ''„Die Bergführer von Chamonix“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/428-die-bergfuehrer-von-chamonix-794734 428] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/428-die-bergfuehrer-von-chamonix-794734 794734], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/5446452 S17E25] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/5446452 5446452], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt15277042 tt15277042], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=l7mRLjiZ1Tw l7mRLjiZ1Tw]</ref>
+| OT = Die Bergführer vom Mont Blanc<ref>Internetquellen zur Episode ''„Die Bergführer vom Mont Blanc“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/428-die-bergfuehrer-von-chamonix-794734 428] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/428-die-bergfuehrer-von-chamonix-794734 794734], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/5446452 S17E25] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/5446452 5446452], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt15277042 tt15277042], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=l7mRLjiZ1Tw l7mRLjiZ1Tw]</ref>
 | Feld1 = La Compagnie des Guides de Chamonix Mont-Blanc
-| REG = -
+| REG = Friederike Schlumbom
 | EA = 2015-12-21
 }}
 {{Episodenlisteneintrag
@@ -3651,9 +3651,9 @@
 {{Episodenlisteneintrag
 | NR_GES = 432
 | NR_ST = 5
-| OT = Cocos Island - Paradies für Haie?!<ref>Internetquellen zur Episode ''„Cocos Island - Paradies für Haie?!“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/434-cocos-island-paradies-fuer-haie-807567 434] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/434-cocos-island-paradies-fuer-haie-807567 807567], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/5535287 S18E05] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/5535287 5535287], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=A-aSNeoHaGI A-aSNeoHaGI]</ref>
+| OT = Cocos Island - Die Insel der Haie<ref>Internetquellen zur Episode ''„Cocos Island - Die Insel der Haie“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/434-cocos-island-paradies-fuer-haie-807567 434] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/434-cocos-island-paradies-fuer-haie-807567 807567], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/5535287 S18E05] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/5535287 5535287], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=A-aSNeoHaGI A-aSNeoHaGI]</ref>
 | Feld1 = Cocos — L’Île des Requins
-| REG = -
+| REG = Cordula Stadter
 | EA = 2016-02-27
 }}
 {{Episodenlisteneintrag
@@ -4043,14 +4043,6 @@
 | REG = Hilde Bechert
 | EA = 2017-12-24
 }}
-{{Episodenlisteneintrag
-| NR_GES = 480
-| NR_ST = 27
-| OT = Die Insel Chiloé<ref>Internetquellen zur Episode ''„Die Insel Chiloé“'': ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6126640 S19E27] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6126640 6126640]</ref>
-| Feld1 = Chili: l’Incroyable Voyage d’une Maison de Bois
-| REG = -
-| EA = 2017-06-03
-}}
 }}
 
 === Staffel 20 (2018) ===
@@ -4063,7 +4055,7 @@
 | Feld1 = Französischer Titel
 | INHALT =
 {{Episodenlisteneintrag
-| NR_GES = 481
+| NR_GES = 480
 | NR_ST = 1
 | OT = Friaul, Benvenuti im Musiktal<ref>Internetquellen zur Episode ''„Friaul, Benvenuti im Musiktal“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/482-friaul-benvenuti-im-musiktal-1157017 482] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/482-friaul-benvenuti-im-musiktal-1157017 1157017], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6507973 S20E01] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6507973 6507973], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt24636846 tt24636846], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=_-7XZj09-A0 _-7XZj09-A0]</ref>
 | Feld1 = Le Frioul, une Vallée Tout en Musique
@@ -4071,7 +4063,7 @@
 | EA = 2018-01-14
 }}
 {{Episodenlisteneintrag
-| NR_GES = 482
+| NR_GES = 481
 | NR_ST = 2
 | OT = Bisons, die sanften Riesen von Montana<ref>Internetquellen zur Episode ''„Bisons, die sanften Riesen von Montana“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/483-bisons-die-sanften-riesen-von-montana-1161790 483] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/483-bisons-die-sanften-riesen-von-montana-1161790 1161790], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6529015 S20E02] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6529015 6529015], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=HwOJJFzY5Cc HwOJJFzY5Cc]</ref>
 | Feld1 = Bisons, les Doux Géants du Montana
@@ -4079,7 +4071,7 @@
 | EA = 2018-01-28
 }}
 {{Episodenlisteneintrag
-| NR_GES = 483
+| NR_GES = 482
 | NR_ST = 3
 | OT = Vietnam, die letzten Pangoline<ref>Internetquellen zur Episode ''„Vietnam, die letzten Pangoline“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/484-vietnam-die-letzten-pangoline-1163224 484] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/484-vietnam-die-letzten-pangoline-1163224 1163224], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6538679 S20E03] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6538679 6538679], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=HXALW-m2RxM HXALW-m2RxM]</ref>
 | Feld1 = Le Vietnam au Chevet des Pangolins
@@ -4087,7 +4079,7 @@
 | EA = 2018-02-04
 }}
 {{Episodenlisteneintrag
-| NR_GES = 484
+| NR_GES = 483
 | NR_ST = 4
 | OT = Schottland: Die Seenotretter der Orkney Islands<ref>Internetquellen zur Episode ''„Schottland: Die Seenotretter der Orkney Islands“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/485-schottland-die-seenotretter-der-orkney-islands-1164369 485] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/485-schottland-die-seenotretter-der-orkney-islands-1164369 1164369], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6549630 S20E04] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6549630 6549630], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt27170456 tt27170456], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=qzTYfQqZltc qzTYfQqZltc]</ref>
 | Feld1 = Au Nord de l’Écosse, les Sauveteurs en Mer
@@ -4095,7 +4087,7 @@
 | EA = 2018-02-11
 }}
 {{Episodenlisteneintrag
-| NR_GES = 485
+| NR_GES = 484
 | NR_ST = 5
 | OT = Kanada - Mit der Hebamme durch die Badlands<ref>Internetquellen zur Episode ''„Kanada - Mit der Hebamme durch die Badlands“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/486-kanada-mit-der-hebamme-durch-die-badlands-1169596 486] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/486-kanada-mit-der-hebamme-durch-die-badlands-1169596 1169596], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6578381 S20E05] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6578381 6578381], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=Gdcj-iqqRs8 Gdcj-iqqRs8]</ref>
 | Feld1 = Canada — Les Aventures d’une Sage-Femme dans les Badlands
@@ -4103,7 +4095,7 @@
 | EA = 2018-02-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 486
+| NR_GES = 485
 | NR_ST = 6
 | OT = Myanmar - Die Marmorkünstler von Mandalay<ref>Internetquellen zur Episode ''„Myanmar - Die Marmorkünstler von Mandalay“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/487-myanmar-die-marmorkuenstler-von-mandalay-1171202 487] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/487-myanmar-die-marmorkuenstler-von-mandalay-1171202 1171202], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6596840 S20E06] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6596840 6596840], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=iV3arcWLL-s iV3arcWLL-s]</ref>
 | Feld1 = Birmanie, les Sculpteurs de Marbre de Mandalay
@@ -4111,7 +4103,7 @@
 | EA = 2018-03-04
 }}
 {{Episodenlisteneintrag
-| NR_GES = 487
+| NR_GES = 486
 | NR_ST = 7
 | OT = Der Lachszähler von Kanada<ref>Internetquellen zur Episode ''„Der Lachszähler von Kanada“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/488-der-lachszaehler-von-kanada-1173798 488] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/488-der-lachszaehler-von-kanada-1173798 1173798], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6590788 S20E07] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6590788 6590788], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=QM_8fpHN6Jo QM_8fpHN6Jo]</ref>
 | Feld1 = Canada, le Vieil Homme et la Rivière
@@ -4119,7 +4111,7 @@
 | EA = 2018-03-11
 }}
 {{Episodenlisteneintrag
-| NR_GES = 488
+| NR_GES = 487
 | NR_ST = 8
 | OT = Kreta - Die süßen Früchte des Johannisbrotbaums<ref>Internetquellen zur Episode ''„Kreta - Die süßen Früchte des Johannisbrotbaums“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/489-kreta-die-suessen-fruechte-des-johannisbrotbaums-1175560 489] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/489-kreta-die-suessen-fruechte-des-johannisbrotbaums-1175560 1175560], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6597521 S20E08] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6597521 6597521], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=rVaOPVPAC5Y rVaOPVPAC5Y]</ref>
 | Feld1 = Le Caroubier, l’Or Noir de la Crète
@@ -4127,7 +4119,7 @@
 | EA = 2018-03-18
 }}
 {{Episodenlisteneintrag
-| NR_GES = 489
+| NR_GES = 488
 | NR_ST = 9
 | OT = Der Hundeflüsterer der Queen<ref>Internetquellen zur Episode ''„Der Hundeflüsterer der Queen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/490-der-hundefluesterer-der-queen-1177787 490] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/490-der-hundefluesterer-der-queen-1177787 1177787], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6615190 S20E09] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6615190 6615190], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=rejyD-Z97PE rejyD-Z97PE]</ref>
 | Feld1 = L’Anglais Qui Murmure à l'Oreille des Chiens
@@ -4135,7 +4127,7 @@
 | EA = 2018-03-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 490
+| NR_GES = 489
 | NR_ST = 10
 | OT = Italien, eine neue Glocke für Monopoli<ref>Internetquellen zur Episode ''„Italien, eine neue Glocke für Monopoli“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/491-italien-eine-neue-glocke-fuer-monopoli-1179190 491] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/491-italien-eine-neue-glocke-fuer-monopoli-1179190 1179190], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6615191 S20E10] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6615191 6615191], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt19718488 tt19718488], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=FLTObV0M5RE FLTObV0M5RE]</ref>
 | Feld1 = Les Cloches, Tout un Art en Italie
@@ -4143,7 +4135,7 @@
 | EA = 2018-04-01
 }}
 {{Episodenlisteneintrag
-| NR_GES = 491
+| NR_GES = 490
 | NR_ST = 11
 | OT = Arapaima, der Riesenfisch vom Amazonas<ref>Internetquellen zur Episode ''„Arapaima, der Riesenfisch vom Amazonas“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/492-arapaima-der-riesenfisch-vom-amazonas-1191708 492] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/492-arapaima-der-riesenfisch-vom-amazonas-1191708 1191708], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6689543 S20E11] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6689543 6689543], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt20231928 tt20231928], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=cr4V6JIH8yU cr4V6JIH8yU]</ref>
 | Feld1 = Arapaïma, le Poisson Géant d’Amazonie
@@ -4151,7 +4143,7 @@
 | EA = 2018-05-13
 }}
 {{Episodenlisteneintrag
-| NR_GES = 492
+| NR_GES = 491
 | NR_ST = 12
 | OT = Die fliegenden Wildesel von Kasachstan<ref>Internetquellen zur Episode ''„Die fliegenden Wildesel von Kasachstan“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/493-die-fliegenden-wildesel-von-kasachstan-1194430 493] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/493-die-fliegenden-wildesel-von-kasachstan-1194430 1194430], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6707145 S20E12] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6707145 6707145], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt21073776 tt21073776], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=ND0yEWkqnSk ND0yEWkqnSk]</ref>
 | Feld1 = SOS ânes sauvages du Kazakhstan
@@ -4159,7 +4151,7 @@
 | EA = 2018-05-27
 }}
 {{Episodenlisteneintrag
-| NR_GES = 493
+| NR_GES = 492
 | NR_ST = 13
 | OT = Geliebtes Korsika - Kampf gegen das Feuer<ref>Internetquellen zur Episode ''„Geliebtes Korsika - Kampf gegen das Feuer“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/494-geliebtes-korsika-kampf-gegen-das-feuer-1202913 494] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/494-geliebtes-korsika-kampf-gegen-das-feuer-1202913 1202913], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6739140 S20E13] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6739140 6739140], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=cMm7vvWgVzY cMm7vvWgVzY]</ref>
 | Feld1 = Corse, les maquisards du feu
@@ -4167,7 +4159,7 @@
 | EA = 2018-06-22
 }}
 {{Episodenlisteneintrag
-| NR_GES = 494
+| NR_GES = 493
 | NR_ST = 14
 | OT = Japan - Leben am Fuß des Vulkans<ref>Internetquellen zur Episode ''„Japan - Leben am Fuß des Vulkans“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/495-japan-leben-am-fuss-des-vulkans-1221897 495] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/495-japan-leben-am-fuss-des-vulkans-1221897 1221897], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6819062 S20E14] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6819062 6819062], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt19802452 tt19802452], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=mztIey-rJi0 mztIey-rJi0]</ref>
 | Feld1 = Japon — Vivre à l'Ombre du Volcan Iodake
@@ -4175,7 +4167,7 @@
 | EA = 2018-08-30
 }}
 {{Episodenlisteneintrag
-| NR_GES = 495
+| NR_GES = 494
 | NR_ST = 15
 | OT = Sucevita - Rumäniens schönste Klosterfresken<ref>Internetquellen zur Episode ''„Sucevita - Rumäniens schönste Klosterfresken“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/496-sucevita-rumaeniens-schoenste-klosterfresken-1223336 496] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/496-sucevita-rumaeniens-schoenste-klosterfresken-1223336 1223336], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6821173 S20E15] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6821173 6821173], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=QPvUMKZxuwU QPvUMKZxuwU]</ref>
 | Feld1 = Roumanie, la Beauté Sacrée des Monastères Peints
@@ -4183,7 +4175,7 @@
 | EA = 2018-09-08
 }}
 {{Episodenlisteneintrag
-| NR_GES = 496
+| NR_GES = 495
 | NR_ST = 16
 | OT = Moskaus berühmte Sprengstoffhunde<ref>Internetquellen zur Episode ''„Moskaus berühmte Sprengstoffhunde“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/497-moskaus-beruehmte-sprengstoffhunde-1225228 497] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/497-moskaus-beruehmte-sprengstoffhunde-1225228 1225228], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6829028 S20E16] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6829028 6829028], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=JlzRmmvY6wU JlzRmmvY6wU]</ref>
 | Feld1 = Moscou: des chiens renifleurs pour l’aéroport
@@ -4191,7 +4183,7 @@
 | EA = 2018-09-15
 }}
 {{Episodenlisteneintrag
-| NR_GES = 497
+| NR_GES = 496
 | NR_ST = 17
 | OT = Neuseeland - Die Tiere vom Ende der Welt<ref>Internetquellen zur Episode ''„Neuseeland - Die Tiere vom Ende der Welt“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/498-neuseeland-die-tiere-vom-ende-der-welt-1230127 498] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/498-neuseeland-die-tiere-vom-ende-der-welt-1230127 1230127], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6845491 S20E17] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6845491 6845491], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt22007414 tt22007414], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=qGm7J8wCZuo qGm7J8wCZuo]</ref>
 | Feld1 = Nouvelle-Zélande — Les Animaux du Bout du Monde
@@ -4199,7 +4191,7 @@
 | EA = 2018-09-29
 }}
 {{Episodenlisteneintrag
-| NR_GES = 498
+| NR_GES = 497
 | NR_ST = 18
 | OT = Virunga, der Kampf für die Berggorillas<ref>Internetquellen zur Episode ''„Virunga, der Kampf für die Berggorillas“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/499-virunga-der-kampf-fuer-die-berggorillas-1230128 499] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/499-virunga-der-kampf-fuer-die-berggorillas-1230128 1230128], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6856576 S20E18] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6856576 6856576], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=-2VXdo0Vm8A -2VXdo0Vm8A]</ref>
 | Feld1 = Virunga, les Gorilles en Péril
@@ -4207,7 +4199,7 @@
 | EA = 2018-10-06
 }}
 {{Episodenlisteneintrag
-| NR_GES = 499
+| NR_GES = 498
 | NR_ST = 19
 | OT = Gitarren und Flamenco in Granada<ref>Internetquellen zur Episode ''„Gitarren und Flamenco in Granada“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/500-gitarren-und-flamenco-in-granada-1232369 500] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/500-gitarren-und-flamenco-in-granada-1232369 1232369], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6863765 S20E19] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6863765 6863765], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=qNy9yMLVPhA qNy9yMLVPhA]</ref>
 | Feld1 = L'Andalousie — Au Son des Guitares et du Flamenco
@@ -4215,7 +4207,7 @@
 | EA = 2018-10-13
 }}
 {{Episodenlisteneintrag
-| NR_GES = 500
+| NR_GES = 499
 | NR_ST = 20
 | OT = Chatuchak - Bangkoks Riesenmarkt<ref>Internetquellen zur Episode ''„Chatuchak - Bangkoks Riesenmarkt“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/501-chatuchak-bangkoks-riesenmarkt-1233630 501] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/501-chatuchak-bangkoks-riesenmarkt-1233630 1233630], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6872146 S20E20] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6872146 6872146], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=WGYqFDLRHH8 WGYqFDLRHH8]</ref>
 | Feld1 = Chatuchak, le Plus Grand Marché de Thaïlande
@@ -4223,7 +4215,7 @@
 | EA = 2018-10-20
 }}
 {{Episodenlisteneintrag
-| NR_GES = 501
+| NR_GES = 500
 | NR_ST = 21
 | OT = Argentinien - Der Jaguar ist zurück<ref>Internetquellen zur Episode ''„Argentinien - Der Jaguar ist zurück“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/502-argentinien-der-jaguar-ist-zurueck-1235360 502] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/502-argentinien-der-jaguar-ist-zurueck-1235360 1235360], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6881859 S20E21] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6881859 6881859], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt14429962 tt14429962], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=paOkViJRTpg paOkViJRTpg]</ref>
 | Feld1 = Argentine, le Retour du Jaguar
@@ -4231,7 +4223,7 @@
 | EA = 2018-10-27
 }}
 {{Episodenlisteneintrag
-| NR_GES = 502
+| NR_GES = 501
 | NR_ST = 22
 | OT = Rooibos, der rote Tee Südafrikas<ref>Internetquellen zur Episode ''„Rooibos, der rote Tee Südafrikas“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/503-rooibos-der-rote-tee-suedafrikas-1237427 503] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/503-rooibos-der-rote-tee-suedafrikas-1237427 1237427], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6894111 S20E22] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6894111 6894111], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt9232664 tt9232664], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=GocBm5fcRKY GocBm5fcRKY]</ref>
 | Feld1 = Rooibos — Le Thé Rouge d'Afrique du Sud
@@ -4239,7 +4231,7 @@
 | EA = 2018-11-03
 }}
 {{Episodenlisteneintrag
-| NR_GES = 503
+| NR_GES = 502
 | NR_ST = 23
 | OT = Ankaras gerettete Bücher - Die Müll-Bibliothek von Cankaya<ref>Internetquellen zur Episode ''„Ankaras gerettete Bücher - Die Müll-Bibliothek von Cankaya“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/504-die-muell-bibliothek-von-cankaya-1239188 504] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/504-die-muell-bibliothek-von-cankaya-1239188 1239188], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6897060 S20E23] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6897060 6897060], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt21139774 tt21139774], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=90iygjnd5KE 90iygjnd5KE]</ref>
 | Feld1 = Ankara, une Deuxième Vie Pour les Livres
@@ -4247,7 +4239,7 @@
 | EA = 2018-11-07
 }}
 {{Episodenlisteneintrag
-| NR_GES = 504
+| NR_GES = 503
 | NR_ST = 24
 | OT = Äthiopiens gefräßige Hochland-Affen<ref>Internetquellen zur Episode ''„Äthiopiens gefräßige Hochland-Affen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/505-aethiopiens-gefraessige-hochland-affen-1240712 505] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/505-aethiopiens-gefraessige-hochland-affen-1240712 1240712], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6908214 S20E24] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6908214 6908214], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=JJXFy9S8b1M JJXFy9S8b1M]</ref>
 | Feld1 = Éthiopie — La Guerre des Singes
@@ -4255,7 +4247,7 @@
 | EA = 2018-11-17
 }}
 {{Episodenlisteneintrag
-| NR_GES = 505
+| NR_GES = 504
 | NR_ST = 25
 | OT = Sibirien - Im Reich des Amur-Tigers<ref>Internetquellen zur Episode ''„Sibirien - Im Reich des Amur-Tigers“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/506-sibirien-im-reich-des-amur-tigers-1243697 506] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/506-sibirien-im-reich-des-amur-tigers-1243697 1243697], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6902553 S20E25] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6902553 6902553], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt20771558 tt20771558], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=3NDivz33wdc 3NDivz33wdc]</ref>
 | Feld1 = Dans la Taïga, Sur les Traces du Tigre de Sibérie
@@ -4263,7 +4255,7 @@
 | EA = 2018-11-12
 }}
 {{Episodenlisteneintrag
-| NR_GES = 506
+| NR_GES = 505
 | NR_ST = 26
 | OT = Peru, das Goldhaar der Vikunjas<ref>Internetquellen zur Episode ''„Peru, das Goldhaar der Vikunjas“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/507-peru-das-goldhaar-der-vikunjas-1244960 507] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/507-peru-das-goldhaar-der-vikunjas-1244960 1244960], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6923991 S20E26] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6923991 6923991], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt21928460 tt21928460], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=vrYNhC0APiQ vrYNhC0APiQ]</ref>
 | Feld1 = Pérou, une Laine Qui Vaut de l’Or
@@ -4271,7 +4263,7 @@
 | EA = 2018-12-01
 }}
 {{Episodenlisteneintrag
-| NR_GES = 507
+| NR_GES = 506
 | NR_ST = 27
 | OT = Jonathan, der Flugakrobat<ref>Internetquellen zur Episode ''„Jonathan, der Flugakrobat“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/508-jonathan-der-flugakrobat-1247061 508] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/508-jonathan-der-flugakrobat-1247061 1247061], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6923990 S20E27] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6923990 6923990], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt15101606 tt15101606], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=KxXSeCjQQQk KxXSeCjQQQk]</ref>
 | Feld1 = Jonathan, Acrobate du Ciel
@@ -4279,7 +4271,7 @@
 | EA = 2018-12-08
 }}
 {{Episodenlisteneintrag
-| NR_GES = 508
+| NR_GES = 507
 | NR_ST = 28
 | OT = Harris Tweed - Rückkehr einer Legende<ref>Internetquellen zur Episode ''„Harris Tweed - Rückkehr einer Legende“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/509-harris-tweed-rueckkehr-einer-legende-1249761 509] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/509-harris-tweed-rueckkehr-einer-legende-1249761 1249761], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6941816 S20E28] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6941816 6941816], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt11369594 tt11369594], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=5uVU3J4oXak 5uVU3J4oXak]</ref>
 | Feld1 = En Écosse, sur la route du tweed
@@ -4287,7 +4279,7 @@
 | EA = 2018-12-15
 }}
 {{Episodenlisteneintrag
-| NR_GES = 509
+| NR_GES = 508
 | NR_ST = 29
 | OT = Kenia, Let's Dance<ref>Internetquellen zur Episode ''„Kenia, Let's Dance“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/510-kenia-lets-dance-1251215 510] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/510-kenia-lets-dance-1251215 1251215], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6952756 S20E29] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6952756 6952756], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt20231942 tt20231942], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=NOHyqcrRSIo NOHyqcrRSIo]</ref>
 | Feld1 = Kenya, alors on danse
@@ -4295,7 +4287,7 @@
 | EA = 2018-12-22
 }}
 {{Episodenlisteneintrag
-| NR_GES = 510
+| NR_GES = 509
 | NR_ST = 30
 | OT = Crémant, der feine Elsässer zum Fest<ref>Internetquellen zur Episode ''„Crémant, der feine Elsässer zum Fest“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/511-cremant-der-feine-elsaesser-zum-fest-1253307 511] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/511-cremant-der-feine-elsaesser-zum-fest-1253307 1253307], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6970951 S20E30] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6970951 6970951], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt26914689 tt26914689], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=1YcWaJWv8ZE 1YcWaJWv8ZE]</ref>
 | Feld1 = Crémant d'Alsace - Des bulles fines et festives
@@ -4314,7 +4306,7 @@
 | Feld1 = Französischer Titel
 | INHALT =
 {{Episodenlisteneintrag
-| NR_GES = 511
+| NR_GES = 510
 | NR_ST = 1
 | OT = Kushti, Indiens uralter Kampfsport<ref>Internetquellen zur Episode ''„Kushti, Indiens uralter Kampfsport“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/512-kushti-indiens-uralter-kampfsport-1254457 512] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/512-kushti-indiens-uralter-kampfsport-1254457 1254457], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6977226 S21E01] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6977226 6977226], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=J9JyIhycLnU J9JyIhycLnU]</ref>
 | Feld1 = Inde, la lutte à mains nues
@@ -4322,7 +4314,7 @@
 | EA = 2019-01-05
 }}
 {{Episodenlisteneintrag
-| NR_GES = 512
+| NR_GES = 511
 | NR_ST = 2
 | OT = Georgiens himmlische Klöster<ref>Internetquellen zur Episode ''„Georgiens himmlische Klöster“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/513-georgiens-himmlische-kloester-1258177 513] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/513-georgiens-himmlische-kloester-1258177 1258177], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6982371 S21E02] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6982371 6982371], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt20190180 tt20190180], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=FBdpBp3eRm8 FBdpBp3eRm8]</ref>
 | Feld1 = Monastères, les Trésors Cachés de la Géorgie
@@ -4330,7 +4322,7 @@
 | EA = 2019-01-19
 }}
 {{Episodenlisteneintrag
-| NR_GES = 513
+| NR_GES = 512
 | NR_ST = 3
 | OT = Mexiko - Die edlen Reiterinnen<ref>Internetquellen zur Episode ''„Mexiko - Die edlen Reiterinnen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/514-mexiko-die-edlen-reiterinnen-1260727 514] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/514-mexiko-die-edlen-reiterinnen-1260727 1260727], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7010223 S21E03] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7010223 7010223], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=XDTrO7FnzAM XDTrO7FnzAM]</ref>
 | Feld1 = Mexique, les Cavalières de l'Escaramuza
@@ -4338,7 +4330,7 @@
 | EA = 2019-01-26
 }}
 {{Episodenlisteneintrag
-| NR_GES = 514
+| NR_GES = 513
 | NR_ST = 4
 | OT = Kroatien, Das Paradies der Trüffeljäger<ref>Internetquellen zur Episode ''„Kroatien, Das Paradies der Trüffeljäger“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/515-kroatien-das-paradies-der-trueffeljaeger-1264723 515] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/515-kroatien-das-paradies-der-trueffeljaeger-1264723 1264723], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7017416 S21E04] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7017416 7017416], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=yGvN68pp1xU yGvN68pp1xU]</ref>
 | Feld1 = Croatie, l'Autre Pays de la Truffe
@@ -4346,7 +4338,7 @@
 | EA = 2019-02-09
 }}
 {{Episodenlisteneintrag
-| NR_GES = 515
+| NR_GES = 514
 | NR_ST = 5
 | OT = Arnika - Von der Kraft einer Heilpflanze<ref>Internetquellen zur Episode ''„Arnika - Von der Kraft einer Heilpflanze“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/516-arnika-von-der-kraft-einer-heilpflanze-1266625 516] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/516-arnika-von-der-kraft-einer-heilpflanze-1266625 1266625], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7055450 S21E05] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7055450 7055450], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt9874214 tt9874214], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=Clpi_2hAmtA Clpi_2hAmtA]</ref>
 | Feld1 = Arnica, la Reine des Vosges
@@ -4354,7 +4346,7 @@
 | EA = 2019-02-23
 }}
 {{Episodenlisteneintrag
-| NR_GES = 516
+| NR_GES = 515
 | NR_ST = 6
 | OT = Simbabwe - Leben für den Augenblick<ref>Internetquellen zur Episode ''„Simbabwe - Leben für den Augenblick“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/517-simbabwe-leben-fuer-den-augenblick-1277291 517] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/517-simbabwe-leben-fuer-den-augenblick-1277291 1277291], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7122902 S21E06] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7122902 7122902], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=TDnqHD4GaEM TDnqHD4GaEM]</ref>
 | Feld1 = Lueurs d'Espoir au Zimbabwe
@@ -4362,7 +4354,7 @@
 | EA = 2019-04-07
 }}
 {{Episodenlisteneintrag
-| NR_GES = 517
+| NR_GES = 516
 | NR_ST = 7
 | OT = Äthiopien - Heimat des Kaffees<ref>Internetquellen zur Episode ''„Äthiopien - Heimat des Kaffees“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/518-aethiopien-heimat-des-kaffees-1290612 518] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/518-aethiopien-heimat-des-kaffees-1290612 1290612], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7217846 S21E07] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7217846 7217846], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt16793592 tt16793592], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=u9JhD7R2818 u9JhD7R2818]</ref>
 | Feld1 = Éthiopie, le berceau du café
@@ -4370,7 +4362,7 @@
 | EA = 2019-06-01
 }}
 {{Episodenlisteneintrag
-| NR_GES = 518
+| NR_GES = 517
 | NR_ST = 8
 | OT = Indien, ein Himmel voller bunter Drachen<ref>Internetquellen zur Episode ''„Indien, ein Himmel voller bunter Drachen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/519-indien-ein-himmel-voller-bunter-drachen-1292055 519] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/519-indien-ein-himmel-voller-bunter-drachen-1292055 1292055], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7221261 S21E08] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7221261 7221261], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=-i-Jx_dF9kY -i-Jx_dF9kY]</ref>
 | Feld1 = Inde, la Magie des Cerfs-Volants
@@ -4378,7 +4370,7 @@
 | EA = 2019-06-08
 }}
 {{Episodenlisteneintrag
-| NR_GES = 519
+| NR_GES = 518
 | NR_ST = 9
 | OT = Norwegen, die Rentierprinzessin<ref>Internetquellen zur Episode ''„Norwegen, die Rentierprinzessin“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/520-norwegen-die-rentierprinzessin-1299992 520] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/520-norwegen-die-rentierprinzessin-1299992 1299992], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7284824 S21E09] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7284824 7284824], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt20854414 tt20854414], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=C-yvU6oUQks C-yvU6oUQks]</ref>
 | Feld1 = Norvège, la princess des rennes
@@ -4386,7 +4378,7 @@
 | EA = 2019-07-15
 }}
 {{Episodenlisteneintrag
-| NR_GES = 520
+| NR_GES = 519
 | NR_ST = 10
 | OT = Thaimassage, die Heilkunst der Buddhisten<ref>Internetquellen zur Episode ''„Thaimassage, die Heilkunst der Buddhisten“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/521-thaimassage-die-heilkunst-der-buddhisten-1310639 521] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/521-thaimassage-die-heilkunst-der-buddhisten-1310639 1310639], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7334026 S21E10] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7334026 7334026], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt23851456 tt23851456], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=RR47fu7V2iU RR47fu7V2iU]</ref>
 | Feld1 = Le Massage, une Tradition Thaïlandaise
@@ -4394,7 +4386,7 @@
 | EA = 2019-08-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 521
+| NR_GES = 520
 | NR_ST = 11
 | OT = Hongkongs magisches Neonlicht<ref>Internetquellen zur Episode ''„Hongkongs magisches Neonlicht“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/522-hongkongs-magisches-neonlicht-1314341 522] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/522-hongkongs-magisches-neonlicht-1314341 1314341], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7350925 S21E11] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7350925 7350925], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt16352144 tt16352144], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=queiVaVuhg4 queiVaVuhg4]</ref>
 | Feld1 = Hong Kong, la magie des néons
@@ -4402,7 +4394,7 @@
 | EA = 2019-09-07
 }}
 {{Episodenlisteneintrag
-| NR_GES = 522
+| NR_GES = 521
 | NR_ST = 12
 | OT = Tibetische Medizin - Heilkraft für die Seele<ref>Internetquellen zur Episode ''„Tibetische Medizin - Heilkraft für die Seele“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/523-tibetische-medizin-heilkraft-fuer-die-seele-1319247 523] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/523-tibetische-medizin-heilkraft-fuer-die-seele-1319247 1319247], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7378725 S21E12] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7378725 7378725], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt18938838 tt18938838], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=sXYVFfjiOw8 sXYVFfjiOw8]</ref>
 | Feld1 = La Médecine Tibétaine, l'Art de Guérir
@@ -4410,7 +4402,7 @@
 | EA = 2019-09-29
 }}
 {{Episodenlisteneintrag
-| NR_GES = 523
+| NR_GES = 522
 | NR_ST = 13
 | OT = Sibirien, die Eisschneider von Jakutsk<ref>Internetquellen zur Episode ''„Sibirien, die Eisschneider von Jakutsk“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/524-sibirien-die-eisschneider-von-jakutsk-1321009 524] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/524-sibirien-die-eisschneider-von-jakutsk-1321009 1321009], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7397819 S21E13] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7397819 7397819], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=_pzMXsISUPU _pzMXsISUPU]</ref>
 | Feld1 = Sibérie, les Découpeurs de Glace
@@ -4418,7 +4410,7 @@
 | EA = 2019-10-05
 }}
 {{Episodenlisteneintrag
-| NR_GES = 524
+| NR_GES = 523
 | NR_ST = 14
 | OT = Auf Schlangenjagd in Bangkok<ref>Internetquellen zur Episode ''„Auf Schlangenjagd in Bangkok“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/525-auf-schlangenjagd-in-bangkok-1322905 525] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/525-auf-schlangenjagd-in-bangkok-1322905 1322905], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7398590 S21E14] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7398590 7398590], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt23643218 tt23643218]</ref>
 | Feld1 = Bangkok, les Chasseurs de Serpents
@@ -4426,7 +4418,7 @@
 | EA = 2019-10-12
 }}
 {{Episodenlisteneintrag
-| NR_GES = 525
+| NR_GES = 524
 | NR_ST = 15
 | OT = Die blinde Primaballerina von São Paulo<ref>Internetquellen zur Episode ''„Die blinde Primaballerina von São Paulo“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/526-die-blinde-primaballerina-von-sao-paulo-1324329 526] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/526-die-blinde-primaballerina-von-sao-paulo-1324329 1324329], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7412295 S21E15] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7412295 7412295], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt27123058 tt27123058], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=NXWsLpDP-Mc NXWsLpDP-Mc]</ref>
 | Feld1 = La Grâce des Danseuses Aveugles de São Paulo
@@ -4434,7 +4426,7 @@
 | EA = 2019-10-19
 }}
 {{Episodenlisteneintrag
-| NR_GES = 526
+| NR_GES = 525
 | NR_ST = 16
 | OT = Slowenien, Land des Honigs<ref>Internetquellen zur Episode ''„Slowenien, Land des Honigs“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/527-slowenien-land-des-honigs-1328522 527] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/527-slowenien-land-des-honigs-1328522 1328522], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7423109 S21E16] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7423109 7423109], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt21406216 tt21406216], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=QxhQbpP57PM QxhQbpP57PM]</ref>
 | Feld1 = Slovénie, le royaume des abeilles
@@ -4442,7 +4434,7 @@
 | EA = 2019-10-26
 }}
 {{Episodenlisteneintrag
-| NR_GES = 527
+| NR_GES = 526
 | NR_ST = 17
 | OT = Japan, der Meister des Zen-Gartens<ref>Internetquellen zur Episode ''„Japan, der Meister des Zen-Gartens“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/528-japan-der-meister-des-zen-gartens-1328528 528] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/528-japan-der-meister-des-zen-gartens-1328528 1328528], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7423122 S21E17] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7423122 7423122], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=CA-DwIr8lA4 CA-DwIr8lA4]</ref>
 | Feld1 = Japon, l'Art du Jardin Zen
@@ -4450,7 +4442,7 @@
 | EA = 2019-10-27
 }}
 {{Episodenlisteneintrag
-| NR_GES = 528
+| NR_GES = 527
 | NR_ST = 18
 | OT = Finnland, die rasenden Schrottkisten<ref>Internetquellen zur Episode ''„Finnland, die rasenden Schrottkisten“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/529-finnland-die-rasenden-schrottkisten-1330934 529] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/529-finnland-die-rasenden-schrottkisten-1330934 1330934], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7444447 S21E18] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7444447 7444447], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=AR9cNhlECyA AR9cNhlECyA]</ref>
 | Feld1 = Fous du Volant en Laponie
@@ -4458,7 +4450,7 @@
 | EA = 2019-11-09
 }}
 {{Episodenlisteneintrag
-| NR_GES = 529
+| NR_GES = 528
 | NR_ST = 19
 | OT = Heilende Schwingungen der Klangschalen<ref>Internetquellen zur Episode ''„Heilende Schwingungen der Klangschalen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/530-heilende-schwingungen-der-klangschalen-1330935 530] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/530-heilende-schwingungen-der-klangschalen-1330935 1330935], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7444458 S21E19] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7444458 7444458], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt22411134 tt22411134], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=0JQRSU8Gzc0 0JQRSU8Gzc0]</ref>
 | Feld1 = Bols tibétains, la thérapie par les Sons
@@ -4466,7 +4458,7 @@
 | EA = 2019-11-10
 }}
 {{Episodenlisteneintrag
-| NR_GES = 530
+| NR_GES = 529
 | NR_ST = 20
 | OT = Harpyien, die größten Greifvögel des Regenwaldes<ref>Internetquellen zur Episode ''„Harpyien, die größten Greifvögel des Regenwaldes“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/531-harpyien-die-groessten-greifvoegel-des-regenwaldes-1334458 531] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/531-harpyien-die-groessten-greifvoegel-des-regenwaldes-1334458 1334458], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7457468 S21E20] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7457468 7457468], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt15157400 tt15157400], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=rpnZILRBjaw rpnZILRBjaw]</ref>
 | Feld1 = La Harpie Féroce, le Plus Puissant Rapace du Monde
@@ -4474,7 +4466,7 @@
 | EA = 2019-11-23
 }}
 {{Episodenlisteneintrag
-| NR_GES = 531
+| NR_GES = 530
 | NR_ST = 21
 | OT = Island: Von strickenden Männern und Pullovern<ref>Internetquellen zur Episode ''„Island: Von strickenden Männern und Pullovern“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/532-island-von-strickenden-maennern-und-pullovern-1339073 532] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/532-island-von-strickenden-maennern-und-pullovern-1339073 1339073], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7486315 S21E21] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7486315 7486315], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt18413912 tt18413912], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=4lAHP0Q8908 4lAHP0Q8908]</ref>
 | Feld1 = Islande — Le Tricot, une Affaire d'Hommes
@@ -4482,7 +4474,7 @@
 | EA = 2019-12-08
 }}
 {{Episodenlisteneintrag
-| NR_GES = 532
+| NR_GES = 531
 | NR_ST = 22
 | OT = Kentucky - Die Schlacht von Sacramento<ref>Internetquellen zur Episode ''„Kentucky - Die Schlacht von Sacramento“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/533-kentucky-die-schlacht-von-sacramento-1339867 533] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/533-kentucky-die-schlacht-von-sacramento-1339867 1339867], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7496325 S21E22] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7496325 7496325], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=BM7Tyu59rrI BM7Tyu59rrI]</ref>
 | Feld1 = Kentucky, la Bataille de Sacramento
@@ -4490,7 +4482,7 @@
 | EA = 2019-12-14
 }}
 {{Episodenlisteneintrag
-| NR_GES = 533
+| NR_GES = 532
 | NR_ST = 23
 | OT = Die letzten Walfänger der Beringsee<ref>Internetquellen zur Episode ''„Die letzten Walfänger der Beringsee“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/534-die-letzten-walfaenger-der-beringsee-1341480 534] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/534-die-letzten-walfaenger-der-beringsee-1341480 1341480], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7496340 S21E23] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7496340 7496340], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=IlG92mvmCEI IlG92mvmCEI]</ref>
 | Feld1 = Les derniers chasseurs de baleines du détroit de Béring
@@ -4498,7 +4490,7 @@
 | EA = 2019-12-21
 }}
 {{Episodenlisteneintrag
-| NR_GES = 534
+| NR_GES = 533
 | NR_ST = 24
 | OT = Kaviar, das schwarze Gold Italiens<ref>Internetquellen zur Episode ''„Kaviar, das schwarze Gold Italiens“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/535-kaviar-das-schwarze-gold-italiens-1341482 535] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/535-kaviar-das-schwarze-gold-italiens-1341482 1341482], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7496351 S21E24] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7496351 7496351], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt16675680 tt16675680], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=Opg00LWco4s Opg00LWco4s]</ref>
 | Feld1 = Le Caviar, l'Or Noir de l'Italie
@@ -4517,7 +4509,7 @@
 | Feld1 = Französischer Titel
 | INHALT =
 {{Episodenlisteneintrag
-| NR_GES = 535
+| NR_GES = 534
 | NR_ST = 1
 | OT = Die Vespa-Rebellen in Indonesien<ref>Internetquellen zur Episode ''„Die Vespa-Rebellen in Indonesien“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/536-die-vespa-rebellen-in-indonesien-1344883 536] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/536-die-vespa-rebellen-in-indonesien-1344883 1344883], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7517155 S22E01] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7517155 7517155], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=T882pntN-Jo T882pntN-Jo]</ref>
 | Feld1 = Indonésie, la Passion des Deux-Roues Trafiqués
@@ -4525,7 +4517,7 @@
 | EA = 2020-01-05
 }}
 {{Episodenlisteneintrag
-| NR_GES = 536
+| NR_GES = 535
 | NR_ST = 2
 | OT = Costa Rica, das größte Hundeheim der Welt<ref>Internetquellen zur Episode ''„Costa Rica, das größte Hundeheim der Welt“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/537-costa-rica-das-groesste-hundeheim-der-welt-1346786 537] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/537-costa-rica-das-groesste-hundeheim-der-welt-1346786 1346786], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7542877 S22E02] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7542877 7542877], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=5N1mFKBBFLg 5N1mFKBBFLg]</ref>
 | Feld1 = Au Costa Rica, un Paradis Pour les Chiens Abandonnés
@@ -4533,7 +4525,7 @@
 | EA = 2020-01-12
 }}
 {{Episodenlisteneintrag
-| NR_GES = 537
+| NR_GES = 536
 | NR_ST = 3
 | OT = Die Herren des Lavendels<ref>Internetquellen zur Episode ''„Die Herren des Lavendels“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/538-die-herren-des-lavendels-1348630 538] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/538-die-herren-des-lavendels-1348630 1348630], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7557995 S22E03] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7557995 7557995], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt11854728 tt11854728], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=KEOwqcBWE2s KEOwqcBWE2s]</ref>
 | Feld1 = Les Seigneurs de le Lavande
@@ -4541,7 +4533,7 @@
 | EA = 2020-01-26
 }}
 {{Episodenlisteneintrag
-| NR_GES = 538
+| NR_GES = 537
 | NR_ST = 4
 | OT = Die Zedernuss, die Königin der Taiga<ref>Internetquellen zur Episode ''„Die Zedernuss, die Königin der Taiga“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/539-die-zedernuss-die-koenigin-der-taiga-1352887 539] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/539-die-zedernuss-die-koenigin-der-taiga-1352887 1352887], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7581810 S22E04] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7581810 7581810], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt21203618 tt21203618], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=0kvHCK0011o 0kvHCK0011o]</ref>
 | Feld1 = Les Pignons de Cèdre, l'Or de la Taïga
@@ -4549,7 +4541,7 @@
 | EA = 2020-02-09
 }}
 {{Episodenlisteneintrag
-| NR_GES = 539
+| NR_GES = 538
 | NR_ST = 5
 | OT = Die Ostsee, Sehnsuchtsort der Kraniche<ref>Internetquellen zur Episode ''„Die Ostsee, Sehnsuchtsort der Kraniche“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/540-die-ostsee-sehnsuchtsort-der-kraniche-1352888 540] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/540-die-ostsee-sehnsuchtsort-der-kraniche-1352888 1352888], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7594851 S22E05] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7594851 7594851], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt21243234 tt21243234], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=p-f4YVXnycM p-f4YVXnycM]</ref>
 | Feld1 = Mer Baltique, Voyage au Pays des Grues Cendrées
@@ -4557,7 +4549,7 @@
 | EA = 2020-02-16
 }}
 {{Episodenlisteneintrag
-| NR_GES = 540
+| NR_GES = 539
 | NR_ST = 6
 | OT = Kapverden: Zwei Hunde als Schildkrötenretter<ref>Internetquellen zur Episode ''„Kapverden: Zwei Hunde als Schildkrötenretter“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/541-kapverden-zwei-hunde-als-schildkroetenretter-1353321 541] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/541-kapverden-zwei-hunde-als-schildkroetenretter-1353321 1353321], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7619012 S22E06] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7619012 7619012], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt27123062 tt27123062]</ref>
 | Feld1 = Cap-Vert, les Chiens au Secours des Tortues
@@ -4565,7 +4557,7 @@
 | EA = 2020-02-23
 }}
 {{Episodenlisteneintrag
-| NR_GES = 541
+| NR_GES = 540
 | NR_ST = 7
 | OT = Die Schwestern der Erde<ref>Internetquellen zur Episode ''„Die Schwestern der Erde“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/542-die-schwestern-der-erde-1355292 542] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/542-die-schwestern-der-erde-1355292 1355292], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7619535 S22E07] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7619535 7619535], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt14388672 tt14388672], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=nfNQ5wCTWlQ nfNQ5wCTWlQ]</ref>
 | Feld1 = Grèce, les Petites Sœurs de la Terre
@@ -4573,7 +4565,7 @@
 | EA = 2020-03-01
 }}
 {{Episodenlisteneintrag
-| NR_GES = 542
+| NR_GES = 541
 | NR_ST = 8
 | OT = Argentinien, von wilden Pferden und sanfter Hand<ref>Internetquellen zur Episode ''„Argentinien, von wilden Pferden und sanfter Hand“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/543-argentinien-von-wilden-pferden-und-sanfter-hand-1357300 543] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/543-argentinien-von-wilden-pferden-und-sanfter-hand-1357300 1357300], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7624143 S22E08] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7624143 7624143], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt14706520 tt14706520], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=UTT1hwyKwrw UTT1hwyKwrw]</ref>
 | Feld1 = Oscar ou l'Art d'Apprivoiser les Chevaux
@@ -4581,7 +4573,7 @@
 | EA = 2020-03-08
 }}
 {{Episodenlisteneintrag
-| NR_GES = 543
+| NR_GES = 542
 | NR_ST = 9
 | OT = Indiens Kurkuma - Heilsam und heilig<ref>Internetquellen zur Episode ''„Indiens Kurkuma - Heilsam und heilig“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/544-indiens-kurkuma-heilsam-und-heilig-1381765 544] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/544-indiens-kurkuma-heilsam-und-heilig-1381765 1381765], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7793491 S22E09] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7793491 7793491], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=Qx7wwbJDDdE Qx7wwbJDDdE]</ref>
 | Feld1 = Curcuma, une épice en or
@@ -4589,7 +4581,7 @@
 | EA = 2020-06-14
 }}
 {{Episodenlisteneintrag
-| NR_GES = 544
+| NR_GES = 543
 | NR_ST = 10
 | OT = Huskys, am Start!<ref>Internetquellen zur Episode ''„Huskys, am Start!“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/545-huskys-am-start-1384225 545] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/545-huskys-am-start-1384225 1384225], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7818444 S22E10] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7818444 7818444], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt17077618 tt17077618], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=3XyG82_dG-0 3XyG82_dG-0]</ref>
 | Feld1 = Huskies, top départ!
@@ -4597,7 +4589,7 @@
 | EA = 2020-06-28
 }}
 {{Episodenlisteneintrag
-| NR_GES = 545
+| NR_GES = 544
 | NR_ST = 11
 | OT = Schignano, ein uralter Karneval in Italiens Bergen<ref>Internetquellen zur Episode ''„Schignano, ein uralter Karneval in Italiens Bergen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/546-schignano-ein-uralter-karneval-in-italiens-bergen-1388813 546] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/546-schignano-ein-uralter-karneval-in-italiens-bergen-1388813 1388813], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7859337 S22E11] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7859337 7859337], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt18291258 tt18291258], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=UBhl_XT1ixY UBhl_XT1ixY]</ref>
 | Feld1 = Le carnaval de Schignano étrange et archaïque
@@ -4605,7 +4597,7 @@
 | EA = 2020-07-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 546
+| NR_GES = 545
 | NR_ST = 12
 | OT = Ring frei für Sambias Boxerinnen!<ref>Internetquellen zur Episode ''„Ring frei für Sambias Boxerinnen!“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/547-ring-frei-fuer-sambias-boxerinnen-1397612 547] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/547-ring-frei-fuer-sambias-boxerinnen-1397612 1397612], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7890793 S22E12] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7890793 7890793], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=MmBs2InkDl0 MmBs2InkDl0]</ref>
 | Feld1 = Zambie, les championnes du ring
@@ -4613,7 +4605,7 @@
 | EA = 2020-08-16
 }}
 {{Episodenlisteneintrag
-| NR_GES = 547
+| NR_GES = 546
 | NR_ST = 13
 | OT = Singvögel - Die goldenen Stimmen von Singapur<ref>Internetquellen zur Episode ''„Singvögel - Die goldenen Stimmen von Singapur“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/548-singvoegel-die-goldenen-stimmen-von-singapur-1404279 548] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/548-singvoegel-die-goldenen-stimmen-von-singapur-1404279 1404279], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7933483 S22E13] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7933483 7933483], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=nqHruOs-dqE nqHruOs-dqE]</ref>
 | Feld1 = Singapour, quand les oiseaux chantent
@@ -4621,7 +4613,7 @@
 | EA = 2020-09-13
 }}
 {{Episodenlisteneintrag
-| NR_GES = 548
+| NR_GES = 547
 | NR_ST = 14
 | OT = Italiens Kapern - Der Geschmack des Südens<ref>Internetquellen zur Episode ''„Italiens Kapern - Der Geschmack des Südens“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/549-italiens-kapern-der-geschmack-des-suedens-1414438 549] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/549-italiens-kapern-der-geschmack-des-suedens-1414438 1414438], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8023022 S22E14] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8023022 8023022], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt21801660 tt21801660], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=wriortwg56E wriortwg56E]</ref>
 | Feld1 = Les câpres de sicile, la saveur de la méditerranée
@@ -4629,7 +4621,7 @@
 | EA = 2020-10-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 549
+| NR_GES = 548
 | NR_ST = 15
 | OT = Der letzte Rheinfischer<ref>Internetquellen zur Episode ''„Der letzte Rheinfischer“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/550-der-letzte-rheinfischer-1420915 550] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/550-der-letzte-rheinfischer-1420915 1420915], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8076150 S22E15] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8076150 8076150], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt21139796 tt21139796], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=1JPQTQtsjyA 1JPQTQtsjyA]</ref>
 | Feld1 = Le dernier pêcheur du rhin
@@ -4637,7 +4629,7 @@
 | EA = 2020-11-22
 }}
 {{Episodenlisteneintrag
-| NR_GES = 550
+| NR_GES = 549
 | NR_ST = 16
 | OT = Mit Volldampf durch Kärnten<ref>Internetquellen zur Episode ''„Mit Volldampf durch Kärnten“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/551-mit-volldampf-durch-kaernten-1422151 551] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/551-mit-volldampf-durch-kaernten-1422151 1422151], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8122019 S22E16] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8122019 8122019], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt14188714 tt14188714], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=0HrxXJsDky4 0HrxXJsDky4]</ref>
 | Feld1 = En autriche avec des mordus du rail
@@ -4645,7 +4637,7 @@
 | EA = 2020-11-29
 }}
 {{Episodenlisteneintrag
-| NR_GES = 551
+| NR_GES = 550
 | NR_ST = 17
 | OT = Das Elsass, Heimat der Störche<ref>Internetquellen zur Episode ''„Das Elsass, Heimat der Störche“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/552-das-elsass-heimat-der-stoerche-1426023 552] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/552-das-elsass-heimat-der-stoerche-1426023 1426023], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8092659 S22E17] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8092659 8092659], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt13616848 tt13616848], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=BZaILC2jnoM BZaILC2jnoM]</ref>
 | Feld1 = L'Alsace, terre de cigognes
@@ -4653,7 +4645,7 @@
 | EA = 2020-12-06
 }}
 {{Episodenlisteneintrag
-| NR_GES = 552
+| NR_GES = 551
 | NR_ST = 18
 | OT = Lichterglanz im Norden - Winter in Stockholm und den Schären<ref>Internetquellen zur Episode ''„Lichterglanz im Norden - Winter in Stockholm und den Schären“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/553-lichterglanz-im-norden-winter-in-stockholm-und-in-den-schaeren-1427055 553] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/553-lichterglanz-im-norden-winter-in-stockholm-und-in-den-schaeren-1427055 1427055], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8103945 S22E18] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8103945 8103945], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt13814040 tt13814040], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=uE8XcPEKQIo uE8XcPEKQIo]</ref>
 | Feld1 = Les lumières scandinaves : un hiver autour de Stockholm
@@ -4661,7 +4653,7 @@
 | EA = 2020-12-13
 }}
 {{Episodenlisteneintrag
-| NR_GES = 553
+| NR_GES = 552
 | NR_ST = 19
 | OT = Chartres, die Farben des Himmels<ref>Internetquellen zur Episode ''„Chartres, die Farben des Himmels“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/554-chartres-die-farben-des-himmels-1429102 554] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/554-chartres-die-farben-des-himmels-1429102 1429102], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8112897 S22E19] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8112897 8112897], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt15105296 tt15105296], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=qPLtZngzS10 qPLtZngzS10]</ref>
 | Feld1 = Chartres, l'art du vitrail
@@ -4680,7 +4672,7 @@
 | Feld1 = Französischer Titel
 | INHALT =
 {{Episodenlisteneintrag
-| NR_GES = 554
+| NR_GES = 553
 | NR_ST = 1
 | OT = Bretagne, die raue Schönheit<ref>Internetquellen zur Episode ''„Bretagne, die raue Schönheit“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/555-bretagne-die-raue-schoenheit-1434440 555] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/555-bretagne-die-raue-schoenheit-1434440 1434440], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8131737 S23E01] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8131737 8131737], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt16316762 tt16316762], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=o6cVARiIZGA o6cVARiIZGA]</ref>
 | Feld1 = La Bretagne entre terre et mer
@@ -4688,7 +4680,7 @@
 | EA = 2021-01-03
 }}
 {{Episodenlisteneintrag
-| NR_GES = 555
+| NR_GES = 554
 | NR_ST = 2
 | OT = Pelota, die baskische Leidenschaft<ref>Internetquellen zur Episode ''„Pelota, die baskische Leidenschaft“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/556-pelota-die-baskische-leidenschaft-1436236 556] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/556-pelota-die-baskische-leidenschaft-1436236 1436236], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8145486 S23E02] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8145486 8145486], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt18413904 tt18413904], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=pDf_DqGQAJU pDf_DqGQAJU]</ref>
 | Feld1 = Pays basque, l'âme en Pelote
@@ -4696,7 +4688,7 @@
 | EA = 2021-01-10
 }}
 {{Episodenlisteneintrag
-| NR_GES = 556
+| NR_GES = 555
 | NR_ST = 3
 | OT = Estland und das kleine Königreich der Seto<ref>Internetquellen zur Episode ''„Estland und das kleine Königreich der Seto“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/557-estland-und-das-kleine-koenigreich-der-seto-1440392 557] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/557-estland-und-das-kleine-koenigreich-der-seto-1440392 1440392], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8209429 S23E03] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8209429 8209429], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=zgv8oZfn-Sk zgv8oZfn-Sk]</ref>
 | Feld1 = En estonie, le petit royaume de setomaa
@@ -4704,7 +4696,7 @@
 | EA = 2021-01-31
 }}
 {{Episodenlisteneintrag
-| NR_GES = 557
+| NR_GES = 556
 | NR_ST = 4
 | OT = Puerto Rico: Ein Krankenhaus für Seekühe<ref>Internetquellen zur Episode ''„Puerto Rico: Ein Krankenhaus für Seekühe“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/558-puerto-rico-ein-krankenhaus-fuer-seekuehe-1442086 558] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/558-puerto-rico-ein-krankenhaus-fuer-seekuehe-1442086 1442086], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8209430 S23E04] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8209430 8209430], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=B2ODRBt1BTI B2ODRBt1BTI]</ref>
 | Feld1 = Porto Rico - Un hôpital pour les lamantins
@@ -4712,7 +4704,7 @@
 | EA = 2021-02-07
 }}
 {{Episodenlisteneintrag
-| NR_GES = 558
+| NR_GES = 557
 | NR_ST = 5
 | OT = Dem Wolf auf der Spur - Schnüffeln für den Artenschutz<ref>Internetquellen zur Episode ''„Dem Wolf auf der Spur - Schnüffeln für den Artenschutz“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/559-dem-wolf-auf-der-spur-schnueffeln-fuer-den-artenschutz-1442841 559] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/559-dem-wolf-auf-der-spur-schnueffeln-fuer-den-artenschutz-1442841 1442841], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8228076 S23E05] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8228076 8228076], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt14056190 tt14056190], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=8zqR15KTGN4 8zqR15KTGN4]</ref>
 | Feld1 = Des chiens sur la piste des loups
@@ -4720,7 +4712,7 @@
 | EA = 2021-02-14
 }}
 {{Episodenlisteneintrag
-| NR_GES = 559
+| NR_GES = 558
 | NR_ST = 6
 | OT = Die Eifel und ihre Eulen-Hüter<ref>Internetquellen zur Episode ''„Die Eifel und ihre Eulen-Hüter“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/560-die-eifel-und-ihre-eulen-hueter-1443627 560] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/560-die-eifel-und-ihre-eulen-hueter-1443627 1443627], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8230361 S23E06] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8230361 8230361], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt21073780 tt21073780], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=DGL9tZwu9z4 DGL9tZwu9z4]</ref>
 | Feld1 = Sauver les hiboux, c'est chouette
@@ -4728,7 +4720,7 @@
 | EA = 2021-02-21
 }}
 {{Episodenlisteneintrag
-| NR_GES = 560
+| NR_GES = 559
 | NR_ST = 7
 | OT = Percheron, das Kraftpaket mit einer Pferdestärke<ref>Internetquellen zur Episode ''„Percheron, das Kraftpaket mit einer Pferdestärke“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/561-percheron-das-kraftpaket-mit-einer-pferdestaerke-1444769 561] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/561-percheron-das-kraftpaket-mit-einer-pferdestaerke-1444769 1444769], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8270994 S23E07] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8270994 8270994], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt14143482 tt14143482], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=fr7QjYkoqf0 fr7QjYkoqf0]</ref>
 | Feld1 = Percheron, le retour du cheval de trait
@@ -4736,7 +4728,7 @@
 | EA = 2021-02-28
 }}
 {{Episodenlisteneintrag
-| NR_GES = 561
+| NR_GES = 560
 | NR_ST = 8
 | OT = Kalkstein - Das weiße Gold von Brač<ref>Internetquellen zur Episode ''„Kalkstein - Das weiße Gold von Brač“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/562-kalkstein-das-weisse-gold-von-brac-1446848 562] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/562-kalkstein-das-weisse-gold-von-brac-1446848 1446848], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8271000 S23E08] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8271000 8271000], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=sx5ieaeHnUs sx5ieaeHnUs]</ref>
 | Feld1 = Croatie, les trailleurs de pierre de Brač
@@ -4744,7 +4736,7 @@
 | EA = 2021-03-07
 }}
 {{Episodenlisteneintrag
-| NR_GES = 562
+| NR_GES = 561
 | NR_ST = 9
 | OT = Hamburg - Welthafen mit schwimmender Kirche<ref>Internetquellen zur Episode ''„Hamburg - Welthafen mit schwimmender Kirche“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/563-hamburg-welthafen-mit-schwimmender-kirche-1449045 563] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/563-hamburg-welthafen-mit-schwimmender-kirche-1449045 1449045], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8285562 S23E09] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8285562 8285562], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt14429944 tt14429944], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=p43Ug9kO7WQ p43Ug9kO7WQ]</ref>
 | Feld1 = Port d'Hambourg, un bateau-église insolite
@@ -4752,7 +4744,7 @@
 | EA = 2021-03-14
 }}
 {{Episodenlisteneintrag
-| NR_GES = 563
+| NR_GES = 562
 | NR_ST = 10
 | OT = Tradition am Steilhang - Die Schweiz und ihre Wildheuer<ref>Internetquellen zur Episode ''„Tradition am Steilhang - Die Schweiz und ihre Wildheuer“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/564-tradition-am-steilhang-die-schweiz-und-ihre-wildheuer-1451154 564] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/564-tradition-am-steilhang-die-schweiz-und-ihre-wildheuer-1451154 1451154], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8320384 S23E10] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8320384 8320384], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt14434674 tt14434674], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=FsESCsAehtk FsESCsAehtk]</ref>
 | Feld1 = La fenaison en montagne, une tradition Suisse
@@ -4760,7 +4752,7 @@
 | EA = 2021-03-21
 }}
 {{Episodenlisteneintrag
-| NR_GES = 564
+| NR_GES = 563
 | NR_ST = 11
 | OT = Biber, die Baumeister an der Elbe<ref>Internetquellen zur Episode ''„Biber, die Baumeister an der Elbe“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/565-biber-die-baumeister-an-der-elbe-1453165 565] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/565-biber-die-baumeister-an-der-elbe-1453165 1453165], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8320385 S23E11] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8320385 8320385], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt14338900 tt14338900], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=X8fy7jZl_rE X8fy7jZl_rE]</ref>
 | Feld1 = La revanche du castor
@@ -4768,7 +4760,7 @@
 | EA = 2021-03-28
 }}
 {{Episodenlisteneintrag
-| NR_GES = 565
+| NR_GES = 564
 | NR_ST = 12
 | OT = Pelikane, die Könige des Donaudeltas<ref>Internetquellen zur Episode ''„Pelikane, die Könige des Donaudeltas“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/566-pelikane-die-koenige-des-donaudeltas-1456045 566] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/566-pelikane-die-koenige-des-donaudeltas-1456045 1456045], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8355928 S23E12] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8355928 8355928], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt14434664 tt14434664], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=ZgBcESvfvYA ZgBcESvfvYA]</ref>
 | Feld1 = Le delta du danube, dernier refuge des pélicans
@@ -4776,7 +4768,7 @@
 | EA = 2021-04-04
 }}
 {{Episodenlisteneintrag
-| NR_GES = 566
+| NR_GES = 565
 | NR_ST = 13
 | OT = Frankreichs Winzer - Tradition trifft Passion<ref>Internetquellen zur Episode ''„Frankreichs Winzer - Tradition trifft Passion“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/567-frankreichs-winzer-tradition-trifft-passion-1457511 567] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/567-frankreichs-winzer-tradition-trifft-passion-1457511 1457511], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8375958 S23E13] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8375958 8375958], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt14477970 tt14477970], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=pQaBkRIgRk0 pQaBkRIgRk0]</ref>
 | Feld1 = Le renouveau du vignoble français
@@ -4784,7 +4776,7 @@
 | EA = 2021-04-18
 }}
 {{Episodenlisteneintrag
-| NR_GES = 567
+| NR_GES = 566
 | NR_ST = 14
 | OT = Notruf Nordseeküste - Die Robben-Retter<ref>Internetquellen zur Episode ''„Notruf Nordseeküste - Die Robben-Retter“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/568-notruf-nordseekueste-die-robben-retter-1459069 568] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/568-notruf-nordseekueste-die-robben-retter-1459069 1459069], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8375959 S23E14] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8375959 8375959], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=ltSG2rftqu8 ltSG2rftqu8]</ref>
 | Feld1 = Mer du Nord, sauvons les bébés phoques
@@ -4792,7 +4784,7 @@
 | EA = 2021-04-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 568
+| NR_GES = 567
 | NR_ST = 15
 | OT = Australien - Wenn Kunst auf Silos trifft<ref>Internetquellen zur Episode ''„Australien - Wenn Kunst auf Silos trifft“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/569-australien-wenn-kunst-auf-silos-trifft-1462468 569] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/569-australien-wenn-kunst-auf-silos-trifft-1462468 1462468], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8375960 S23E15] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8375960 8375960], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=G8JDOqwLGog G8JDOqwLGog]</ref>
 | Feld1 = Australie, le street art s'invite sur les silos
@@ -4800,7 +4792,7 @@
 | EA = 2021-05-09
 }}
 {{Episodenlisteneintrag
-| NR_GES = 569
+| NR_GES = 568
 | NR_ST = 16
 | OT = Der Wüstenzug - die Lebensader Mauretaniens<ref>Internetquellen zur Episode ''„Der Wüstenzug - die Lebensader Mauretaniens“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/570-der-wuestenzug-die-lebensader-mauretaniens-1489640 570] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/570-der-wuestenzug-die-lebensader-mauretaniens-1489640 1489640], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8634489 S23E16] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8634489 8634489], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=k9jFka2IecU k9jFka2IecU]</ref>
 | Feld1 = Mauritanie, le train du désert
@@ -4808,7 +4800,7 @@
 | EA = 2021-08-28
 }}
 {{Episodenlisteneintrag
-| NR_GES = 570
+| NR_GES = 569
 | NR_ST = 17
 | OT = Escobars Erbe - Kolumbiens Kokain-Hippos<ref>Internetquellen zur Episode ''„Escobars Erbe - Kolumbiens Kokain-Hippos“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/571-escobars-erbe-kolumbiens-kokain-hippos-1491102 571] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/571-escobars-erbe-kolumbiens-kokain-hippos-1491102 1491102], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8634490 S23E17] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8634490 8634490], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt15529088 tt15529088], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=T8zWiccuv0w T8zWiccuv0w]</ref>
 | Feld1 = Les hippopotames de Pablo Escobar
@@ -4816,7 +4808,7 @@
 | EA = 2021-09-04
 }}
 {{Episodenlisteneintrag
-| NR_GES = 571
+| NR_GES = 570
 | NR_ST = 18
 | OT = Die heilenden Delfine von Curaçao<ref>Internetquellen zur Episode ''„Die heilenden Delfine von Curaçao“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/572-die-heilenden-delfine-von-curacao-1492740 572] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/572-die-heilenden-delfine-von-curacao-1492740 1492740], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8634491 S23E18] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8634491 8634491], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt15529128 tt15529128], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=wc4y3QIarAU wc4y3QIarAU]</ref>
 | Feld1 = Curaçao, des dauphins thérapeutes
@@ -4824,7 +4816,7 @@
 | EA = 2021-09-11
 }}
 {{Episodenlisteneintrag
-| NR_GES = 572
+| NR_GES = 571
 | NR_ST = 19
 | OT = Der Traum vom Gold - Tirols Überfliegerinnen<ref>Internetquellen zur Episode ''„Der Traum vom Gold - Tirols Überfliegerinnen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/573-der-traum-vom-gold-tirols-ueberfliegerinnen-1494060 573] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/573-der-traum-vom-gold-tirols-ueberfliegerinnen-1494060 1494060], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8692435 S23E19] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8692435 8692435], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt15455872 tt15455872], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=9z8Eer2KngU 9z8Eer2KngU]</ref>
 | Feld1 = Le saut à ski féminin prend son envol
@@ -4832,7 +4824,7 @@
 | EA = 2021-09-11
 }}
 {{Episodenlisteneintrag
-| NR_GES = 573
+| NR_GES = 572
 | NR_ST = 20
 | OT = Schweiz: Gletscherflieger - Faszination in Weiß<ref>Internetquellen zur Episode ''„Schweiz: Gletscherflieger - Faszination in Weiß“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/574-schweiz-gletscherflieger-faszination-in-weiss-1495977 574] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/574-schweiz-gletscherflieger-faszination-in-weiss-1495977 1495977], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8692436 S23E20] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8692436 8692436], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt16590496 tt16590496], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=jEZT_6_qloo jEZT_6_qloo]</ref>
 | Feld1 = Suisse, en vol avec des pilotes des glaciers
@@ -4840,7 +4832,7 @@
 | EA = 2021-09-25
 }}
 {{Episodenlisteneintrag
-| NR_GES = 574
+| NR_GES = 573
 | NR_ST = 21
 | OT = Koh Panyee - Thailands fußballverrückte Insel<ref>Internetquellen zur Episode ''„Koh Panyee - Thailands fußballverrückte Insel“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/575-koh-panyee-thailands-fussballverrueckte-insel-1497505 575] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/575-koh-panyee-thailands-fussballverrueckte-insel-1497505 1497505], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8692437 S23E21] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8692437 8692437], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt15535426 tt15535426], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=RC_j7QQ1r5U RC_j7QQ1r5U]</ref>
 | Feld1 = Thaïlande, un terrain de football insolite
@@ -4848,7 +4840,7 @@
 | EA = 2021-10-02
 }}
 {{Episodenlisteneintrag
-| NR_GES = 575
+| NR_GES = 574
 | NR_ST = 22
 | OT = Stromboli - Zwischen Feuer und Meer<ref>Internetquellen zur Episode ''„Stromboli - Zwischen Feuer und Meer“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/576-stromboli-zwischen-feuer-und-meer-1499263 576] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/576-stromboli-zwischen-feuer-und-meer-1499263 1499263], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8692438 S23E22] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8692438 8692438], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt15610994 tt15610994], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=_z29qS0mTjY _z29qS0mTjY]</ref>
 | Feld1 = Stromboli, terre de feu
@@ -4856,7 +4848,7 @@
 | EA = 2021-10-09
 }}
 {{Episodenlisteneintrag
-| NR_GES = 576
+| NR_GES = 575
 | NR_ST = 23
 | OT = Italien - Die Igel-Retter aus dem Piemont<ref>Internetquellen zur Episode ''„Italien - Die Igel-Retter aus dem Piemont“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/577-italien-die-igel-retter-aus-dem-piemont-1501091 577] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/577-italien-die-igel-retter-aus-dem-piemont-1501091 1501091], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8788087 S23E23] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8788087 8788087], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt17043702 tt17043702], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=FN8ybVCWbVw FN8ybVCWbVw]</ref>
 | Feld1 = Italie, un refuge pour hérissons
@@ -4864,7 +4856,7 @@
 | EA = 2021-10-16
 }}
 {{Episodenlisteneintrag
-| NR_GES = 577
+| NR_GES = 576
 | NR_ST = 24
 | OT = Dolomiten: Die Bergführer von San Martino<ref>Internetquellen zur Episode ''„Dolomiten: Die Bergführer von San Martino“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/578-dolomiten-die-bergfuehrer-von-san-martino-1508252 578] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/578-dolomiten-die-bergfuehrer-von-san-martino-1508252 1508252], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8814843 S23E24] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8814843 8814843], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt15746990 tt15746990], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=rqDUm-WpZJ0 rqDUm-WpZJ0]</ref>
 | Feld1 = Dolomites, la passion de l'alpinisme
@@ -4883,7 +4875,7 @@
 | Feld1 = Französischer Titel
 | INHALT =
 {{Episodenlisteneintrag2
-| NR_GES = 578
+| NR_GES = 577
 | NR_ST = 1
 | OT = Die Lowrider-Ladies von L.A.<ref>Internetquellen zur Episode ''„Die Lowrider-Ladies von L.A.“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/579-die-lowrider-ladies-von-la-1523102 579] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/579-die-lowrider-ladies-von-la-1523102 1523102], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8949820 S24E01] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8949820 8949820], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=3ql7jtqylzU 3ql7jtqylzU]</ref>
 | Feld1 = Los Angeles, les reines du lowriding
@@ -4892,7 +4884,7 @@
 | ZF = Der Lowrider-Motorsport ist ein Hobby der „Chicanos“ mit mexikanischen Wurzeln. Die Autos sind extrem tief gelegt und können mithilfe von Hydraulikmotoren sogar springen. Die „First Class Ladies“ sind ein Frauenclub, der das Image der Lowrider verbessern möchte und Spenden für Obdachlose in L.A. sammelt.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 579
+| NR_GES = 578
 | NR_ST = 2
 | OT = Tapire - Die Dschungel-Gärtner<ref>Internetquellen zur Episode ''„Tapire - Die Dschungel-Gärtner“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/580-tapire-die-dschungel-gaertner-1526120 580] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/580-tapire-die-dschungel-gaertner-1526120 1526120], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8949821 S24E02] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8949821 8949821], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=bQXxzQjmPvo bQXxzQjmPvo]</ref>
 | Feld1 = Le tapir, jardinier des forêts tropicales
@@ -4901,7 +4893,7 @@
 | ZF = Tapire, einst im gesamten amerikanischen Kontinent beheimatet, sind heute nur noch in wenigen Regionen Mittel- und Südamerikas anzutreffen. Menschliche Aktivitäten wie Abholzung, Wilderei und der Bau von Autobahnen haben zu einem drastischen Rückgang der Tiere geführt. In Costa Rica und Nicaragua versuchen Biologen das Überleben der Tapire zu sichern. Ein Zuchtprogramm im Zoo von Managua hat bereits Erfolge erzielt, sodass zwei Tiere zur Auswilderung vorbereitet werden. In Costa Rica widmet sich die Organisation Nai Conservation dem Schutz der wildlebenden Tapire. Die Wissenschaftler verwenden GPS-Halsbänder, um mehr über das Verhalten und die Gefahren für die Tiere zu erfahren.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 580
+| NR_GES = 579
 | NR_ST = 3
 | OT = Faszination Elbrus - Der Ritt zum Gipfel<ref>Internetquellen zur Episode ''„Faszination Elbrus - Der Ritt zum Gipfel“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/581-faszination-elbrus-der-ritt-zum-gipfel-1526526 581] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/581-faszination-elbrus-der-ritt-zum-gipfel-1526526 1526526], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8949822 S24E03] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8949822 8949822], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=FgNR3JW-QbE FgNR3JW-QbE]</ref>
 | Feld1 = Caucase, chevauchèe vers le mont elbrouz
@@ -4910,7 +4902,7 @@
 | ZF = Karachai-Pferde sind legendäre Nutztiere im Süden Russlands, die fast ausgestorben waren, aber von lokalen Züchtern gerettet wurden. Sie sind ein wichtiger Teil der kaukasischen Kultur und wurden einst für die Eroberung des Kaukasus genutzt. Der Pferdezüchter Hassan Salpagarow plant nun, den Elbrus mit diesen Pferden zu besteigen. Die Karachai-Pferde finden ausreichend Nahrung auf den saftigen Hochweiden im Nordkaukasus. Die Pferderasse war in den 30er Jahren von Stalins Säuberungspolitik betroffen, doch durch die Rückbesinnung auf die kaukasische Identität erleben sie ein Comeback. Trotz der extremen Bedingungen am Elbrus hofft man, dass der Gipfel des Elbrus erneut mit Pferden erklommen werden kann.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 581
+| NR_GES = 580
 | NR_ST = 4
 | OT = Namibias Geparden - Hoffnung für die Raubkatzen<ref>Internetquellen zur Episode ''„Namibias Geparden - Hoffnung für die Raubkatzen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/582-namibias-geparden-hoffnung-fuer-die-raubkatzen-1528457 582] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/582-namibias-geparden-hoffnung-fuer-die-raubkatzen-1528457 1528457], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8949823 S24E04] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8949823 8949823], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=s9UPirsiFbA s9UPirsiFbA]</ref>
 | Feld1 = Namibie, l'espoir renait pour les guépards
@@ -4919,7 +4911,7 @@
 | ZF = Namibia hat zahlreiche Schutzgebiete und Tierreservate, die fast 40 Prozent der Landesfläche umfassen. Die Gepardenpopulation in Namibia ist auf etwa 8.000 geschätzt, wobei mehr als ein Drittel von ihnen dort lebt. Trockenheit, Wilderei und der Wettbewerb mit Leoparden haben den Gepardenbestand reduziert. Tierschützer, Veterinäre und engagierte Menschen kämpfen um das Überleben der Raubkatzen. Die Geparden leben hauptsächlich auf fruchtbarem Farmland, wo sie eine Bedrohung für das Vieh der Bauern darstellen. Tierschutzorganisationen bieten den Bauern alternative Lösungen an, um Konflikte zu vermeiden. Mobile Teams fangen Geparden ein und versehen sie mit Sendern, um ihre Positionen zu verfolgen. Fährtenleser wie Debe unterstützen bei der Suche und dem Fangen der Tiere, insbesondere des Gepardenweibchens Amber.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 582
+| NR_GES = 581
 | NR_ST = 5
 | OT = Haute Couture - Federn, Falten, Seidenblumen<ref>Internetquellen zur Episode ''„Haute Couture - Federn, Falten, Seidenblumen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/583-haute-couture-federn-falten-seidenblumen-1531089 583] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/583-haute-couture-federn-falten-seidenblumen-1531089 1531089], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8949824 S24E05] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8949824 8949824], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt18228046 tt18228046], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=2MTSdkn22a4 2MTSdkn22a4]</ref>
 | Feld1 = -
@@ -4928,7 +4920,7 @@
 | ZF = Paris ist das Zentrum der Haute Couture für edlen Roben und extravaganten Designs. Séverina Lartigue und Eric Charles-Donatien sind Kunsthandwerker, die für namhafte Designer wie Jean Paul Gaultier und Christophe Josse arbeiten. Diese Künstler, darunter auch Karen Grigorian, verbindet die bedingungslose Leidenschaft für ihr Handwerk, das sie durch berühmte Lehrmeister und unzählige Stunden in einsamen Ateliers auf höchstem Niveau perfektioniert haben.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 583
+| NR_GES = 582
 | NR_ST = 6
 | OT = Die Odyssee der Mönchsrobbe<ref>Internetquellen zur Episode ''„Die Odyssee der Mönchsrobbe“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/584-die-odyssee-der-moenchsrobbe-1531389 584] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/584-die-odyssee-der-moenchsrobbe-1531389 1531389], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8949825 S24E06] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8949825 8949825], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt18279912 tt18279912], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=IrOfUxc812k IrOfUxc812k]</ref>
 | Feld1 = L'Odyssèe du phoque moine
@@ -4937,7 +4929,7 @@
 | ZF = Ein Forschungsteam der Octopus Foundation reist nach Griechenland, um autonome Kameras zu installieren und die Mönchsrobben im Mittelmeer zu studieren. Die scheuen Meeressäuger verstecken sich in unzugänglichen Höhlen, um sich vor Menschen zu schützen. Früher wurden sie gejagt, aber jetzt sind sie stark gefährdet. Das Team hofft, mehr über die Robben zu erfahren und ihren Lebensraum zu schützen.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 584
+| NR_GES = 583
 | NR_ST = 7
 | OT = Elsass - Land der Orgeln<ref>Internetquellen zur Episode ''„Elsass - Land der Orgeln“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/585-elsass-land-der-orgeln-1533617 585] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/585-elsass-land-der-orgeln-1533617 1533617], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8949826 S24E07] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8949826 8949826], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt18335884 tt18335884], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=Ef81fAqnuJs Ef81fAqnuJs]</ref>
 | Feld1 = Alsace, terre d'orgues
@@ -4946,7 +4938,7 @@
 | ZF = Patrick Armand ist ein renommierter Orgelbauer und Besitzer der ältesten Orgelbau-Manufaktur, der Firma Muhleisen, in Eschau im Elsass. Das Elsass beherbergt die meisten Orgeln in Frankreich, mit 1.250 von insgesamt 8.000 im ganzen Land. Die Manufaktur widmet sich der Wartung, Restaurierung, dem Neubau und der Ausreinigung von Orgeln. Die Orgelbauer sind sowohl musikalisch qualifiziert als auch handwerklich geschickt und arbeiten mit verschiedenen Materialien wie Holz, Eisen und Metalllegierungen. Die Projekte dauern oft mehrere Jahre. Aktuell plant die Manufaktur den Bau einer Orgel für eine Kirche in Köln, die Ausreinigung eines Instruments in Versailles und die vollständige Überholung der Orgel in der Kathedrale Notre-Dame in Amiens.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 585
+| NR_GES = 584
 | NR_ST = 8
 | OT = Wilde Waterkant - Nordfriesland und seine Gänse<ref>Internetquellen zur Episode ''„Wilde Waterkant - Nordfriesland und seine Gänse“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/586-wilde-waterkant-nordfriesland-und-seine-gaense-1537573 586] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/586-wilde-waterkant-nordfriesland-und-seine-gaense-1537573 1537573], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8993022 S24E08] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8993022 8993022], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt18603248 tt18603248], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=p33T3S0tqBA p33T3S0tqBA]</ref>
 | Feld1 = Mer du nord, le retour des oies sauvages
@@ -4955,7 +4947,7 @@
 | ZF = Vor 50 Jahren waren Nonnengänse vom Aussterben bedroht, aber heute gibt es Hunderttausende von ihnen. Sie brüten nicht mehr nur in den Polargebieten, sondern auch an der Ostsee und an der Westküste Norddeutschlands. Während Biologen und Naturschützer sich darüber freuen, sind viele Landwirte besorgt, da die Vögel große Schäden auf ihren Feldern verursachen. Einige Gänse bleiben den ganzen Sommer in Nordfriesland und vermehren sich aufgrund von Schutzmaßnahmen stark. Bauern fordern eine Bejagung, während Naturschützer und Vogelliebhaber dies verhindern wollen. Die Suche nach einem Kompromiss für beide Seiten ist aktuell eine Herausforderung.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 586
+| NR_GES = 585
 | NR_ST = 9
 | OT = Die Puppen tanzen! - Litauens rollendes Theater<ref>Internetquellen zur Episode ''„Die Puppen tanzen! - Litauens rollendes Theater“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/587-die-puppen-tanzen-litauens-rollendes-theater-1540410 587] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/587-die-puppen-tanzen-litauens-rollendes-theater-1540410 1540410], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9075607 S24E09] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9075607 9075607], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt22300542 tt22300542], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=axKuA1qBWGQ axKuA1qBWGQ]</ref>
 | Feld1 = Lituanie, l'art des marionnettes
@@ -4964,7 +4956,7 @@
 | ZF = Das Marionettenkutschentheater aus Panevezys führt jedes Jahr im Sommer seine Kunst in abgelegenen litauischen Dörfern auf. Mit einem motorisierten, aber als Dampflok dekorierten Fahrzeug fährt das Ensemble in entlegene Gegenden. Die meisten Bewohner haben keinen Zugang zu modernen Einrichtungen wie Kinos oder Schwimmbädern. Der 23-jährige Puppenspieler Daniel begleitet die Gruppe zum ersten Mal auf Tour und hofft, eine größere Rolle übernehmen zu dürfen. Allerdings hat er Schwierigkeiten bei den Proben.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 587
+| NR_GES = 586
 | NR_ST = 10
 | OT = Südkorea - die Nonne der Tempelküche<ref>Internetquellen zur Episode ''„Südkorea - die Nonne der Tempelküche“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/588-suedkorea-die-nonne-der-tempelkueche-1557485 588] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/588-suedkorea-die-nonne-der-tempelkueche-1557485 1557485], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9158123 S24E10] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9158123 9158123], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=if6OhSEjkxM if6OhSEjkxM]</ref>
 | Feld1 = Temple Food, l’âme de la cuisine coréenne
@@ -4973,7 +4965,7 @@
 | ZF = Wookwan Sunim bevorzugt natürliche Zutaten, die saisonal und regional gewachsen sind. Im Kloster werden wilde Pflanzen aus dem Gemüsegarten, Blumenbeeten, dem Wald und Schotterwegen verwendet. Die Nonnen nutzen Blüten für Tee, Blätter für Salate und trocknen und frittieren frisch ausgegrabene Wurzeln. Im Winter suchen sie nach nährstoffreichen Wurzeln im Wald. Die Äbtissin bereitet die Wurzeln mit selbst gemachten Pasten und Soßen zu, um unerwünschte Bitter- und Giftstoffe zu entfernen. Die Tempelküche basiert auf Sojasoße, Chilipaste und Sojabohnenpaste. Neben dem gesundheitlichen Aspekt werden die aromatischen Geschmackskreationen international anerkannt. Die Tempelküche und tägliche Gebete sind eine vitale Symbiose im Zen-Buddhismus Südkoreas.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 588
+| NR_GES = 587
 | NR_ST = 11
 | OT = Schwerelos im Windkanal<ref>Internetquellen zur Episode ''„Schwerelos im Windkanal“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/589-schwerelos-im-windkanal-1551765 589] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/589-schwerelos-im-windkanal-1551765 1551765], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9158124 S24E11] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9158124 9158124], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt20231988 tt20231988], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=jp5BDv9KCzY jp5BDv9KCzY]</ref>
 | Feld1 = Portès par le vent, le vol en soufflerie
@@ -4982,7 +4974,7 @@
 | ZF = Im größten Indoor-Windtunnel Europas bei Mailand wird der Traum vom Fliegen wahr. Ursprünglich für die Luft- und Raumfahrt entwickelt, sind Freifallsimulatoren nun auch Freizeitspaß und Bühne für Leistungssportler wie Laurie Lubbe. Sie ist eine Freestylerin, die hart für die französischen Meisterschaften trainiert. Als Teil der französischen Nationalmannschaft fliegt sie im Windkanal in der künstlerischen Disziplin Freestyle. Mit einer Geschwindigkeit von 200 km/h muss sie ihren Körper kontrollieren und jede Bewegung hat große Auswirkungen. Laurie hofft, mit ihrer Anmut und Eleganz die Preisrichter in Lyon zu überzeugen.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 589
+| NR_GES = 588
 | NR_ST = 12
 | OT = Frankreichs Gärten - Die kleinen Schätze<ref>Internetquellen zur Episode ''„Frankreichs Gärten - Die kleinen Schätze“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/590-frankreichs-gaerten-die-kleinen-schaetze-1553064 590] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/590-frankreichs-gaerten-die-kleinen-schaetze-1553064 1553064], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9158125 S24E12] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9158125 9158125], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt20190184 tt20190184], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=6eWUfGWASTA 6eWUfGWASTA]</ref>
 | Feld1 = Le trèsor du jardinier
@@ -4991,7 +4983,7 @@
 | ZF = Serge Denoix und Laurence Beaufils sind leidenschaftliche Gärtner und interessieren sich auch für alte Gartenwerkzeuge. Sie sammeln Fundstücke, deren Zweck und Herkunft sie mühsam recherchieren müssen. Unterstützt werden sie dabei von Landwirten, Handwerkern und Antiquitätenhändlern. Viele der Werkzeuge sind beschädigt und abgenutzt, daher müssen sie aufwendig von Hand restauriert werden. Ein besonders wertvolles Stück, ein alter Blumenpflücker, soll von einem Goldschmied repariert werden.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 590
+| NR_GES = 589
 | NR_ST = 13
 | OT = Europas Urwälder - Ein Schatz der Natur<ref>Internetquellen zur Episode ''„Europas Urwälder - Ein Schatz der Natur“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/591-europas-urwaelder-ein-schatz-der-natur-1556566 591] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/591-europas-urwaelder-ein-schatz-der-natur-1556566 1556566], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9158126 S24E13] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9158126 9158126], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt20854434 tt20854434], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=JXN5lNsTZCI JXN5lNsTZCI]</ref>
 | Feld1 = Forêts primaires, le poumon vert de l'europe
@@ -5000,7 +4992,7 @@
 | ZF = Martin Mikolas, ein slowakischer Waldökologe und Naturschützer, leitet wissenschaftliche Expeditionen in die letzten Urwälder Europas. Sein aktuelles Ziel ist ein abgelegener Buchenwald in den Albanischen Alpen. Das Team wandert stundenlang, um den Urwald zu erreichen, und sammelt Daten über Bäume und Bodenproben. Die Forschungsergebnisse werden in Prag ausgewertet und könnten wertvolle Informationen über die Anpassungsfähigkeit von Bäumen und den Klimawandel liefern. Das Urwaldarchiv enthält bereits Tausende von Bohrkernen aus Primärwäldern.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 591
+| NR_GES = 590
 | NR_ST = 14
 | OT = Panzer, Wölfe, Rothirsche - Bayerns wilder Übungsplatz<ref>Internetquellen zur Episode ''„Panzer, Wölfe, Rothirsche - Bayerns wilder Übungsplatz“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/592-panzer-woelfe-rothirsche-bayerns-wilder-uebungsplatz-1559229 592] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/592-panzer-woelfe-rothirsche-bayerns-wilder-uebungsplatz-1559229 1559229], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9158127 S24E14] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9158127 9158127], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt21030816 tt21030816], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=kyrHUKDiyck kyrHUKDiyck]</ref>
 | Feld1 = Loups et cerfs à l'ombre des blindès
@@ -5009,7 +5001,7 @@
 | ZF = Im oberpfälzischen Grafenwöhr, auf dem Truppenübungsplatz der US-Streitkräfte, hat sich ein einzigartiges Naturrefugium entwickelt. Trotz des ständigen Schießens leben dort zahlreiche Tierarten ungestört. Nun wird der Einfluss des Wolfs auf die Rotwild-Bestände untersucht. Das Wildbiologische Institut Göttingen und Dresden führt das Projekt mit einer Sondergenehmigung der US-Armee durch. Marcus Meißner und Maria Zetsche erforschen das Verhalten der Rothirsche mittels GPS-Sendern. Die Tiere werden erneut gefangen und mit Sendern ausgestattet, um den Einfluss der Wölfe zu untersuchen.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 592
+| NR_GES = 591
 | NR_ST = 15
 | OT = Kastiliens Kämpfer - Ritterspiele an der Burg Belmonte<ref>Internetquellen zur Episode ''„Kastiliens Kämpfer - Ritterspiele an der Burg Belmonte“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/593-kastiliens-kaempfer-ritterspiele-an-der-burg-belmonte-1560073 593] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/593-kastiliens-kaempfer-ritterspiele-an-der-burg-belmonte-1560073 1560073], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9158128 S24E15] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9158128 9158128], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt21073772 tt21073772], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=wZgpqRaV7Ik wZgpqRaV7Ik]</ref>
 | Feld1 = Le béhourd, l'art du combat médiéval
@@ -5018,7 +5010,7 @@
 | ZF = Der mittelalterliche Turniersport erlebt in Spanien einen Boom. Jedes Jahr findet ein großes Turnier am Fuße der Burg Belmonte in Kastilien-La Mancha statt. Die Teilnehmer treten in historischer Ritterrüstung mit Schwertern, Äxten und Hellebarden in Duellen oder als Mannschaft gegeneinander an. Die Kämpfe sind hart und anstrengend, dauern bis zu eineinhalb Minuten und erfordern physische und mentale Stärke. Die Waffen sind aus Sicherheitsgründen ohne Spitze und scharfe Klinge.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 593
+| NR_GES = 592
 | NR_ST = 16
 | OT = Nopal, der Alleskönner aus Mexiko<ref>Internetquellen zur Episode ''„Nopal, der Alleskönner aus Mexiko“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/594-nopal-der-alleskoenner-aus-mexiko-1564718 594] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/594-nopal-der-alleskoenner-aus-mexiko-1564718 1564718], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9254698 S24E16] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9254698 9254698], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt21203634 tt21203634], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=MkXx_8rac_M MkXx_8rac_M]</ref>
 | Feld1 = Cactus, l'or vert du mexique
@@ -5027,7 +5019,7 @@
 | ZF = Der mexikanische Feigenkaktus Nopal wird als Superfood und Inspiration für Modeideen verwendet. Junge Unternehmerinnen und Unternehmer haben veganes Leder aus dieser Pflanze entwickelt. Es könnte eine Revolution in der Lederindustrie bedeuten. Consuelo Lara besitzt Kaktusfelder in Milpa Alta, Mexiko-Stadt, und hat eine Kooperative gegründet, um Frauen Arbeit zu bieten. Sie plant, ihren Bio-Nopal unter einer eigenen Marke mit regionalem Herkunftslabel zu vermarkten. Adrián López und Marte Cázarez haben eine umweltfreundliche Alternative zu tierischem und synthetischem Leder entwickelt.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 594
+| NR_GES = 593
 | NR_ST = 17
 | OT = Tempo und Leidenschaft - Argentiniens Polo-Spielerinnen<ref>Internetquellen zur Episode ''„Tempo und Leidenschaft - Argentiniens Polo-Spielerinnen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/595-tempo-und-leidenschaft-argentiniens-polo-spielerinnen-1570263 595] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/595-tempo-und-leidenschaft-argentiniens-polo-spielerinnen-1570263 1570263], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9254699 S24E17] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9254699 9254699], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt21243244 tt21243244], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=Y-eQibAkbmo Y-eQibAkbmo]</ref>
 | Feld1 = Argentine, le polo au féminin
@@ -5036,7 +5028,7 @@
 | ZF = Die Polosportwelt dreht sich um Pferde und engagierte Fachleute wie Tierärzte, Pferdepfleger, Trainer und Hufschmiede. In Argentinien, dem Land der Pferde, haben Frauen den männerdominierten Sport erobert und sind sehr erfolgreich. Eine herausragende Spielerin ist Clarita Cassino, die den Sport seit ihrer Kindheit betreibt. Silvina Casadedio ist eine weitere starke Frau in der Szene, die Rinder züchtet und als Pferdezähmerin arbeitet. Sie hat viel geopfert, um ihren Traum zu leben und ihre Zeit den Pferden zu widmen.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 595
+| NR_GES = 594
 | NR_ST = 18
 | OT = Kourou: Palmen, Raketen, Gefängnisinseln<ref>Internetquellen zur Episode ''„Kourou: Palmen, Raketen, Gefängnisinseln“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/596-kourou-palmen-raketen-gefaengnisinseln-1567103 596] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/596-kourou-palmen-raketen-gefaengnisinseln-1567103 1567103], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9254700 S24E18] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9254700 9254700], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt21294972 tt21294972], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=LckZ2_Lw88E LckZ2_Lw88E]</ref>
 | Feld1 = Kourou, des bagnes et des fusées
@@ -5045,7 +5037,7 @@
 | ZF = Europäische Raketen und Satelliten starten regelmäßig vom Raumfahrtzentrum in Französisch-Guayana. Drei vorgelagerte Inseln, einst Gefängnisinseln, müssen vor jedem Countdown aus Sicherheitsgründen evakuiert werden. Die verfallenen Gebäude wurden von der Natur überwuchert, doch Frankreich beginnt nun mit der Sanierung, um das historische Erbe zu bewahren. Aurélie Schneider ist für die Renovierung beauftragt, damit die Anlagen bald Besuchern offenstehen können.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 596
+| NR_GES = 595
 | NR_ST = 19
 | OT = Las Fallas - Valencias feurige Fiesta<ref>Internetquellen zur Episode ''„Las Fallas - Valencias feurige Fiesta“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/597-las-fallas-valencias-feurige-fiesta-1569286 597] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/597-las-fallas-valencias-feurige-fiesta-1569286 1569286], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9254701 S24E19] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9254701 9254701], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt21352210 tt21352210], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=ug2XFpN43CU ug2XFpN43CU]</ref>
 | Feld1 = Las fallas de Valencia, l’insolence à l’honneur
@@ -5054,7 +5046,7 @@
 | ZF = Die Las Fallas de Valencia sind eine jährliche Feier in der drittgrößten Stadt Spaniens. Künstler wie Mario Gual del Olmo schaffen beeindruckende Straßenskulpturen, die im März traditionell verbrannt werden. Die Feierlichkeiten dauern eine Woche und beinhalten Spielmannsumzüge, Fanfaren, Feuerwerk und Böller. Ursprünglich im Mittelalter entstanden, wurden die Holzreste der Zimmerleute auf den Straßen verbrannt, um den Winter zu vertreiben. Heute haben die Fallas einen satirischen und sozialkritischen Aspekt. Es gibt rund 120 Künstler, die von diesem Handwerk leben, und die meisten haben ihre Werkstätten in einem eigenen Stadtviertel, der Ciudad Fallera. Jährlich entstehen fast 780 Skulpturen, die am Ende kollektiv verbrannt werden, außer einer „begnadigten Puppe“, die ins Museum wandert.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 597
+| NR_GES = 596
 | NR_ST = 20
 | OT = Das Gerichtsschiff vom Amazonas<ref>Internetquellen zur Episode ''„Das Gerichtsschiff vom Amazonas“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/598-das-gerichtsschiff-vom-amazonas-1579010 598] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/598-das-gerichtsschiff-vom-amazonas-1579010 1579010], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9254702 S24E20] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9254702 9254702], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt22023194 tt22023194]</ref>
 | Feld1 = Le tribunal flottant de l'amazone
@@ -5063,7 +5055,7 @@
 | ZF = Die Initiative „Justicia Itinerante“ wurde von der Richterin Sueli Pini ins Leben gerufen, um den Menschen im abgelegenen Amazonas-Delta Zugang zur Justiz zu ermöglichen. Mit einem Justizschiff namens "Joao Bruno II" reisen brasilianische Richter seit vielen Jahren zu den entlegenen Dörfern, in denen Menschen ohne Pass oder Geburtsurkunde leben. Durch diese Maßnahme sollen staatliche Dienstleistungen für die Bevölkerung bereitgestellt und ihre rechtlichen Bedürfnisse erfüllt werden. Der genaue Bevölkerungsstand am Amazonas ist jedoch immer noch unbekannt.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 598
+| NR_GES = 597
 | NR_ST = 21
 | OT = Indien - Kampf den Scharlatanen<ref>Internetquellen zur Episode ''„Indien - Kampf den Scharlatanen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/599-der-science-van-on-tour-indien-kampf-den-scharlatanen-1581860 599] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/599-der-science-van-on-tour-indien-kampf-den-scharlatanen-1581860 1581860], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9352688 S24E21] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9352688 9352688], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=-Clpkb3JdkI -Clpkb3JdkI]</ref>
 | Feld1 = Inde, vaincre les gourous
@@ -5072,7 +5064,7 @@
 | ZF = In Indien kämpfen Rationalisten gegen gefährlichen Aberglauben und Geschäftemacherei mit Spiritualität. Mit ihrem Science-Van reisen sie durch das Land, um aufzuklären. Rationalisten glauben an Vernunft und Wissenschaft statt an Götter und Geister. Die Organisation hat fast 10.000 ehrenamtliche Mitglieder aus verschiedenen Berufen. Opfer reichen von Trickbetrügereien bis hin zu seelischer Misshandlung und ruinöser Abhängigkeit. Frauen sind besonders gefährdet aufgrund ihrer geringen Bildung.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 599
+| NR_GES = 598
 | NR_ST = 22
 | OT = Ahornsirup - Kanadas süßer Schatz<ref>Internetquellen zur Episode ''„Ahornsirup - Kanadas süßer Schatz“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/600-ahornsirup-kanadas-suesser-schatz-1583564 600] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/600-ahornsirup-kanadas-suesser-schatz-1583564 1583564], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9352689 S24E22] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9352689 9352689], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt22299618 tt22299618], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=HlFRnPw6Y04 HlFRnPw6Y04]</ref>
 | Feld1 = Canada, le pays du sirop d'erable
@@ -5081,7 +5073,7 @@
 | ZF = Félix Sabourin betreibt eine Ahornsirupfarm in Ripon, zwei Autostunden nordwestlich von Montréal. Gemeinsam mit Freunden und Nachbarn sammelt er im Frühjahr den Saft der Ahornbäume, um den weltweit beliebten Sirup herzustellen. Die Saison beginnt dieses Jahr spät, daher bleibt Félix nur wenig Zeit zum Ernten. Ahornsirup ist ein lukratives Zusatzeinkommen für viele Farmer und wird hauptsächlich in Zentral- und Ostkanada produziert. Die Produktion könnte jedoch langfristig durch den Klimawandel gefährdet sein. Félix arbeitet hart, um seine Farm zu erhalten und hofft auf ein großes Abschlussfest am Ende der Saison.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 600
+| NR_GES = 599
 | NR_ST = 23
 | OT = Estland - Krötenretter im Einsatz<ref>Internetquellen zur Episode ''„Estland - Krötenretter im Einsatz“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/601-estland-kroetenretter-im-einsatz-1586757 601] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/601-estland-kroetenretter-im-einsatz-1586757 1586757], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9352690 S24E23] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9352690 9352690], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt22805294 tt22805294], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=xzfFqvblS34 xzfFqvblS34]</ref>
 | Feld1 = Estonie, au secours des grenouilles
@@ -5090,7 +5082,7 @@
 | ZF = Die Biologin Katerina Pesocki und der Estnische Naturfonds organisieren eine Rettungsaktion für die jährliche Krötenwanderung im Frühjahr. Freiwillige Helferinnen und Helfer transportieren Tausende von Kröten und Fröschen sicher über Straßen, um sie vor dem Verkehrstod zu bewahren. Katerinas Fachkenntnisse sind für die Planung der Aktion unerlässlich. Die Tiere kehren zu ihren Heimatteichen zurück, um sich fortzupflanzen. Die größeren Weibchen werden von vielen Männchen umworben, oft schon während der Wanderung. Der Autoverkehr stellt die größte Herausforderung dar, weshalb der Einsatz von Katerina und den Helfenden wichtig ist, um die Amphibien zu schützen. Sogar die Polizei unterstützt die Aktion, um Estlands Naturschätze zu bewahren.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 601
+| NR_GES = 600
 | NR_ST = 24
 | OT = Sardiniens wertvolle Muschelseide<ref>Internetquellen zur Episode ''„Sardiniens wertvolle Muschelseide“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/602-sardiniens-wertvolle-muschelseide-1590045 602] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/602-sardiniens-wertvolle-muschelseide-1590045 1590045], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9352691 S24E24] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9352691 9352691], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt23159150 tt23159150]</ref>
 | Feld1 = La soie de mer, trésor de Sardaigne
@@ -5099,7 +5091,7 @@
 | ZF = Assuntina und Guiseppina Pes bereiten sich auf die große Prozession zu Ehren des heiligen Antiochus vor, dem Schutzpatron Sardiniens. Die jährliche Festa Manna, eine 15 Tage nach Ostern stattfindende Feier, bringt die Einwohner der gesamten Insel zusammen. Die Schwestern stellen Altartücher her oder reparieren alte Tücher. Sie verwenden Reste der seltenen Muschelseide, die aus der Pinna nobilis gewonnen wird, einer vom Aussterben bedrohten Riesenmuschel. Doch die Muschelpopulation ist stark dezimiert. Die Einwohner müssen sich an alternative Materialien wie Maulbeerseide gewöhnen. Assuntina und Guiseppina arbeiten mit großer Sorgfalt, um rechtzeitig fertig zu werden.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 602
+| NR_GES = 601
 | NR_ST = 25
 | OT = Cordoba, die Stadt der Patios<ref>Internetquellen zur Episode ''„Cordoba, die Stadt der Patios“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/603-cordoba-die-stadt-der-patios-1602011 603] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/603-cordoba-die-stadt-der-patios-1602011 1602011], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9524022 S24E25] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9524022 9524022], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt23368470 tt23368470], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=XrEtMdxF76c XrEtMdxF76c]</ref>
 | Feld1 = Cordoue et ses patios fleuris
@@ -5108,7 +5100,7 @@
 | ZF = Die andalusischen Patios sind Ruheoasen in den heißen Sommermonaten und eine architektonische Antwort auf die brütende Hitze. Ursprünglich aus der römischen Antike stammend, wurden sie während der muslimischen Herrschaft um Pflanzen, Brunnen und typischen Farben erweitert. Córdoba ist stolz auf über 3.000 traditionelle Patios, die 2012 von der UNESCO zum immateriellen Weltkulturerbe erklärt wurden. Im Frühjahr findet ein großer Wettbewerb statt, bei dem die Besitzer ihre Innenhöfe aufwändig gestalten, um den ersten Preis zu gewinnen.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 603
+| NR_GES = 602
 | NR_ST = 26
 | OT = Marquesas-Inseln, das Comeback der Tattoos<ref>Internetquellen zur Episode ''„Marquesas-Inseln, das Comeback der Tattoos“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/604-marquesas-inseln-das-comeback-der-tattoos-1596812 604] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/604-marquesas-inseln-das-comeback-der-tattoos-1596812 1596812], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9524023 S24E26] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9524023 9524023], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt23747588 tt23747588]</ref>
 | Feld1 = Îles Marquises, le tatouage dans la peau
@@ -5117,7 +5109,7 @@
 | ZF = Heretu Tetahiotupa und Teiki Huukena sind Pioniere der neuen Tattoo-Bewegung auf den Marquesas-Inseln. Sie gründeten eine Tätowierschule, um das alte Wissen über Marquesas-Motive zu bewahren. Die Bedeutung der Tattoos ging verloren, aber Heretu und Teiki erforschen den Dschungel nach Hinweisen. Die Symbole sind Fenster in die Vergangenheit und stammen von früheren Inselstämmen. Die Marquesas sind heute politisch und wirtschaftlich an Frankreich angebunden. Heretus hat sich Gesichtstattoo stechen und gehört damit zur Avantgarde der neuen Tattoo-Bewegung. Die Zukunft der martialisch anmutenden Tattoos in der modernen Welt bleibt abzuwarten.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 604
+| NR_GES = 603
 | NR_ST = 27
 | OT = Die Schweizergarde - Ein Leben für den Papst<ref>Internetquellen zur Episode ''„Die Schweizergarde - Ein Leben für den Papst“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/605-die-schweizergarde-ein-leben-fuer-den-papst-1602010 605] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/605-die-schweizergarde-ein-leben-fuer-den-papst-1602010 1602010], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9524024 S24E27] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9524024 9524024], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt23985080 tt23985080]</ref>
 | Feld1 = Vatican, en coulisse avec les Gardes suisses
@@ -5126,7 +5118,7 @@
 | ZF = Die Schweizer Garde schützt seit über 700 Jahren den Papst und den Vatikan. Sie sichern die Eingänge zum Vatikan und begleiten den Papst bei Gottesdiensten und Audienzen. Tag und Nacht stehen sie in Uniform und Rüstung auf ihren Posten. Lukas und Dominique sind Gardisten aus der Schweiz und haben eine strenge Ausbildung absolviert. Sie haben sich dem Schutz des Papstes verschrieben und sind bereit, ihr Leben dafür zu geben.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 605
+| NR_GES = 604
 | NR_ST = 28
 | OT = Island, die wertvollsten Daunen der Welt<ref>Internetquellen zur Episode ''„Island, die wertvollsten Daunen der Welt“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/606-island-die-wertvollsten-daunen-der-welt-1602943 606] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/606-island-die-wertvollsten-daunen-der-welt-1602943 1602943], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9524025 S24E28] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9524025 9524025], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt24220972 tt24220972]</ref>
 | Feld1 = Islande, des plumes qui valent de l'or
@@ -5135,7 +5127,7 @@
 | ZF = Im Loðmundarfjörður auf Island sammeln Farmer Eiderenten-Daunen, die zu wertvollen Kissen und Decken verarbeitet werden. Óðinn Logi rettet gefährdete Enteneier und züchtet die Küken in seiner Garage. Íris Birgisdóttir hat die Farm ihres Onkels zur Eiderentenfarm umgewandelt und betreibt sie allein mit ihrer Tochter. Ólafur erntet in dieser Saison über 300 Kilogramm Daunen, ohne den Enten Schaden zuzufügen. Die Zukunft der Branche bleibt ungewiss.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 606
+| NR_GES = 605
 | NR_ST = 29
 | OT = Zuflucht in den Anden - Kolumbiens indigene Transfrauen<ref>Internetquellen zur Episode ''„Zuflucht in den Anden - Kolumbiens indigene Transfrauen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/607-zuflucht-in-den-anden-kolumbiens-indigene-transfrauen-1605209 607] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/607-zuflucht-in-den-anden-kolumbiens-indigene-transfrauen-1605209 1605209], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9524026 S24E29] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9524026 9524026], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt24636850 tt24636850]</ref>
 | Feld1 = Colombie, le refuge des cueilleuses de café trans
@@ -5144,7 +5136,7 @@
 | ZF = Die Emberá Chamí leben in den kolumbianischen Anden, wo Kaffee angebaut wird. Transfrauen wie Bella Wasorna finden auf den Kaffeefeldern nicht nur Arbeit, sondern auch Schutz. Die Frauen bereiten sie sich auf einen großen Tanzauftritt in der Provinzhauptstadt vor, um Aufmerksamkeit auf sich und ihr Schicksal zu lenken.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 607
+| NR_GES = 606
 | NR_ST = 30
 | OT = Kristall - Die magische Kunst aus den Vogesen<ref>Internetquellen zur Episode ''„Kristall - Die magische Kunst aus den Vogesen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/608-kristall-die-magische-kunst-aus-den-vogesen-1607754 608] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/608-kristall-die-magische-kunst-aus-den-vogesen-1607754 1607754], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9524027 S24E30] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9524027 9524027], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt25051572 tt25051572]</ref>
 | Feld1 = Vosges, la magie du cristal
@@ -5164,7 +5156,7 @@
 | Feld1 = Französischer Titel
 | INHALT =
 {{Episodenlisteneintrag2
-| NR_GES = 608
+| NR_GES = 607
 | NR_ST = 1
 | OT = Montenegro - Der Eselretter<ref>Internetquellen zur Episode ''„Montenegro - Der Eselretter“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/609-montenegro-der-eselretter-1609765 609] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/609-montenegro-der-eselretter-1609765 1609765], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9524036 S25E01] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9524036 9524036], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt25786568 tt25786568]</ref>
 | Feld1 = Monténégro, pour l'amour des ánes
@@ -5173,7 +5165,7 @@
 | ZF = Darko Saveljic betreibt eine Eselfarm in den Bergen Montenegros, auf der mehrere Stuten und ein Hengst ein neues Zuhause gefunden haben. Seine Mission ist es, die Esel vor dem Aussterben zu bewahren und ein Modell für artgerechten Tierschutz zu schaffen.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 609
+| NR_GES = 608
 | NR_ST = 2
 | OT = Der Bergkristall - Schatz in den Schweizer Alpen<ref>Internetquellen zur Episode ''„Der Bergkristall - Schatz in den Schweizer Alpen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/610-der-bergkristall-schatz-in-den-schweizer-alpen-1612863 610] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/610-der-bergkristall-schatz-in-den-schweizer-alpen-1612863 1612863], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9524038 S25E03] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9524038 9524038], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt26422175 tt26422175]</ref>
 | Feld1 = -
@@ -5182,7 +5174,7 @@
 | ZF = In den Schweizer Alpen riskieren Mineralien- und Kristallsucher, auch „Strahler“ genannt, ihr Leben, während sie mit Werkzeugen wie Spitzhacke und Meißel Bergkristalle in tiefen Felsspalten und Hohlräumen abbauen. Das Schmelzen der Gletscher aufgrund des Klimawandels eröffnet neue Möglichkeiten, birgt jedoch auch Gefahren für die Schatzsucher.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 610
+| NR_GES = 609
 | NR_ST = 3
 | OT = Maine - Hummer oder Wale?<ref>Internetquellen zur Episode ''„Maine - Hummer oder Wale?“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/611-maine-hummer-oder-wale-1613685 611] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/611-maine-hummer-oder-wale-1613685 1613685], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9524040 S25E05] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9524040 9524040], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt26472394 tt26472394]</ref>
 | Feld1 = Pêcher le homard ou protéger les baleines?
@@ -5191,7 +5183,7 @@
 | ZF = Die traditionelle Hummerfischerei in Maine ist bedroht, da sich der Golf von Maine erwärmt und die Hummer weiter gen Norden ziehen, während Wale durch die Hummerfallen gefährdet werden. Fischer stehen vor der Entscheidung, aufzuhören oder alternative Methoden und Einnahmequellen zu finden, während Wissenschaftler nach Lösungen suchen, um sowohl die Wale zu schützen als auch die Hummerfischerei fortzusetzen.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 611
+| NR_GES = 610
 | NR_ST = 4
 | OT = Albanien - Die Stimmen der Schäfer<ref>Internetquellen zur Episode ''„Albanien - Die Stimmen der Schäfer“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/612-albanien-die-stimmen-der-schaefer-1618464 612] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/612-albanien-die-stimmen-der-schaefer-1618464 1618464], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt26898737 tt26898737]</ref>
 | Feld1 = Albanie, une vie de berger
@@ -5200,7 +5192,7 @@
 | ZF = Bastri Limoj, ein Hirte in dem südalbanischen Bergdorf Vranisht, hofft, dass sein Sohn Lucjano ihn beim Auftrieb der Herde zur Sommerweide begleitet und dadurch die Schäfertradition weiterführt. Die Wiederbelebung der traditionellen polyphonen Gesänge weckt auch bei der jüngeren Generation Interesse und könnte eine Chance für den Erhalt des Schäferberufs bieten.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 612
+| NR_GES = 611
 | NR_ST = 5
 | OT = Laos - Futterblöcke und Büffel-Leasing<ref>Internetquellen zur Episode ''„Laos - Futterblöcke und Büffel-Leasing“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/613-laos-futterbloecke-und-bueffel-leasing-1620347 613] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/613-laos-futterbloecke-und-bueffel-leasing-1620347 1620347], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt27005233 tt27005233]</ref>
 | Feld1 = Les buffles, l’avenir pour le Laos ?
@@ -5209,7 +5201,7 @@
 | ZF = Ein junges Team von Tierspezialisten bietet den Büffeln in Laos Nahrungsergänzung durch Futterblöcke an, wodurch die Tiere gesünder werden und mehr Milch geben. Sie nutzen die Milch von Wasserbüffeln und Ziegen, um unterernährten Kindern zu helfen und irreversible Schäden durch Mangelernährung abzuwenden.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 613
+| NR_GES = 612
 | NR_ST = 6
 | OT = Freiheit auf Pferderücken - Der lange Weg der Nez Perce<ref>Internetquellen zur Episode ''„Freiheit auf Pferderücken - Der lange Weg der Nez Perce“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/614-freiheit-auf-pferderuecken-der-lange-weg-der-nez-perce-1621705 614] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/614-freiheit-auf-pferderuecken-der-lange-weg-der-nez-perce-1621705 1621705], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt27110800 tt27110800]</ref>
 | Feld1 = Nez-Percés, chevauchée pour la liberté
@@ -5218,7 +5210,7 @@
 | ZF = Über zwei Dutzend Mitglieder des Stammes der Nez Perce reiten durch den Yellowstone-Nationalpark, um den langen Fluchtweg ihrer Vorfahren nachzuerleben und die Freiheit auf Pferderücken zu spüren. Sie begegnen imposanten Wildtieren wie Bisons und Grizzlybären und entdecken Orte, die noch heute die Namen und Spuren ihrer Ahnen tragen.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 614
+| NR_GES = 613
 | NR_ST = 7
 | OT = Peloponnes - Rückkehr zur Erde<ref>Internetquellen zur Episode ''„Peloponnes - Rückkehr zur Erde“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/615-peloponnes-rueckkehr-zur-erde-1623768 615] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/615-peloponnes-rueckkehr-zur-erde-1623768 1623768], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt27170463 tt27170463]</ref>
 | Feld1 = Péloponnèse, la pasionaria de l'agroforesterie
@@ -5227,7 +5219,7 @@
 | ZF = Sheila Darmos, eine junge Deutsch-Griechin, hat den Hof ihres Vaters übernommen und einen Waldgarten geschaffen, der eine hohe Biodiversität ermöglicht. Sie unterstützt einheimische junge Bauern mit ihrer Organisation „The Southern Lights“ dabei, dieses Modell in ganz Griechenland zu verbreiten und neue Möglichkeiten für die Landwirtschaft zu schaffen.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 615
+| NR_GES = 614
 | NR_ST = 8
 | OT = Handgemacht in Laos - Rares aus Rattan<ref>Internetquellen zur Episode ''„Handgemacht in Laos - Rares aus Rattan“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/616-handgemacht-in-laos-rares-aus-rattan-1625195 616] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/616-handgemacht-in-laos-rares-aus-rattan-1625195 1625195], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt27252897 tt27252897]</ref>
 | Feld1 = Laos, la vannerie dans tous ses états
@@ -5236,7 +5228,7 @@
 | ZF = Rattan wird in Asien vielseitig verwendet und ist seit dem 19. Jahrhundert auch in Europa beliebt. Das Schrumpfen der Wälder in Südostasien hat zu steigenden Preisen geführt, weshalb in Laos Rattan wieder aufgeforstet wird. Eine junge Frau aus einem Dorf in Zentral-Laos reist durch das Land, um Kontakte zu knüpfen, neue Techniken zu erlernen und eine Rattanschälmaschine zu kaufen, um die Produktivität der Rattanfertigung ihres Dorfes zu erhöhen.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 616
+| NR_GES = 615
 | NR_ST = 9
 | OT = Leben mit dem Tod - Ahnenkult auf Sulawesi<ref>Internetquellen zur Episode ''„Leben mit dem Tod - Ahnenkult auf Sulawesi“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/617-leben-mit-dem-tod-ahnenkult-auf-sulawesi-1634635 617] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/617-leben-mit-dem-tod-ahnenkult-auf-sulawesi-1634635 1634635]</ref>
 | Feld1 = Toraja, le peuple qui fait vivre ses morts
@@ -5245,7 +5237,7 @@
 | ZF = Isac und seine Familie auf Sulawesi sind seit Wochen damit beschäftigt, ein provisorisches Dorf für die Bestattungsfeierlichkeiten seiner Mutter zu bauen, doch aufgrund der immensen Kosten können sie erst jetzt, 21 Jahre nach ihrem Tod, die erforderliche Summe aufbringen. In der Zwischenzeit hat eine andere Familie in der Nähe alle Hürden überwunden und ihre Verstorbene in einer aufwendigen Zeremonie ins Jenseits geleitet.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 617
+| NR_GES = 616
 | NR_ST = 10
 | OT = Die Waschbären von Berlin<ref>Internetquellen zur Episode ''„Die Waschbären von Berlin“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/618-die-waschbaeren-von-berlin-1640104 618] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/618-die-waschbaeren-von-berlin-1640104 1640104]</ref>
 | Feld1 = Les ratons laveurs, nos nouveaux voisins?
@@ -5254,7 +5246,7 @@
 | ZF = Der Verein „Hauptsache Waschbär“ in Berlin setzt sich für den Schutz und die Regulierung der Waschbärenpopulation ein, indem er wild lebende Waschbären einfängt, kastriert und wieder in die Natur entlässt. Ziel ist es, Schäden in menschlichen Siedlungen zu reduzieren und eine friedliche Koexistenz zwischen Mensch und Waschbär zu ermöglichen.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 618
+| NR_GES = 617
 | NR_ST = 11
 | OT = Rapa Nui - Gladiatoren der Südsee<ref>Internetquellen zur Episode ''„Rapa Nui - Gladiatoren der Südsee“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/619-rapa-nui-gladiatoren-der-suedsee-1645452 619] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/619-rapa-nui-gladiatoren-der-suedsee-1645452 1645452]</ref>
 | Feld1 = -
@@ -5263,7 +5255,7 @@
 | ZF = Während der Coronapandemie erlebten die Rapanui zwei Jahre der Abschottung, in denen sie sich auf alte Selbstversorgungsmethoden besannen und erfolgreich Obst und Gemüse anbauten. Das Tapati-Fest wird wieder in vollem Umfang gefeiert, inklusive der Krönung einer neuen Festkönigin, während die amtierende Königin sich auf den Tau'a-Triathlon konzentriert.
 }}
 {{Episodenlisteneintrag2
-| NR_GES = 619
+| NR_GES = 618
 | NR_ST = 12
 | OT = Kambodschas schwimmende Dörfer - Umzug am Tonle Sap<ref>Internetquellen zur Episode ''„Kambodschas schwimmende Dörfer - Umzug am Tonle Sap“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/620-kambodschas-schwimmende-doerfer-umzug-am-tonle-sap-1646559 620] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/620-kambodschas-schwimmende-doerfer-umzug-am-tonle-sap-1646559 1646559]</ref>
 | Feld1 = -

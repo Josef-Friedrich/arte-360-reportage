@@ -72,3 +72,13 @@
   thetvdb_season_episode: S25E06
   thetvdb_episode_id: 9524041
   imdb_episode_id: tt18413922
+
+- overall_no: 480
+  season_no: 19
+  episode_no: 27
+  title: Die Insel Chiloé
+  title_fr: 'Chili: l’Incroyable Voyage d’une Maison de Bois'
+  air_date: '2017-06-03'
+  duration: 52
+  thetvdb_season_episode: S19E27
+  thetvdb_episode_id: 6126640

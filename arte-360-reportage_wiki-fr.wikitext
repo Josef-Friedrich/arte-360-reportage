@@ -1101,7 +1101,7 @@
 |-
 |3
 |
-| Idjwi, l’Île Oubliée
+| Idjwi - l’Île Oubliée
 |-
 |4
 |
@@ -1708,7 +1708,7 @@
 |-
 |23
 |
-| Terre-Neuve, les Chasseurs d’Iceberges
+| Terre-Neuve, les Chasseurs d’Icebergs
 |-
 |24
 |
@@ -2046,10 +2046,6 @@
 |26
 |
 | Leipzig, les Légendaires Petits Chanteurs
-|-
-|27
-|
-| Chili: l’Incroyable Voyage d’une Maison de Bois
 |}
 
 {| class="wikitable sortable mw-collapsible mw-collapsed"

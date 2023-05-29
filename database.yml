@@ -6003,6 +6003,7 @@ seasons:
             Politiker überzeugen kann, nicht nur an die zahlungskräftigen
             Touristen, sondern auch an die Lebensqualität der Deltabewohner
             zu denken? (Text: Arte)'
+        director: Seven Jaax
         air_date: '2008-11-27'
         duration: 52
         fernsehserien_episode_no: 253
@@ -6049,6 +6050,7 @@ seasons:
             der Welt. Außerdem fegen jährlich drei bis vier tropische Wirbelstürme
             mit bis zu 250 Kilometern pro Stunde über die Pazifikinsel. (Text:
             arte)'
+        director: Monika Hielscher, Matthias Heeder
         air_date: '2008-12-11'
         duration: 52
         fernsehserien_episode_no: 255
@@ -6069,6 +6071,7 @@ seasons:
             Benediktinermönche. Ende des 19. Jahrhunderts gehörten über 200
             Geistliche der Abtei von Oelenberg an. Heute sind sie nur noch
             14. (Text: Arte)'
+        director: Jean-Luc Nachbauer
         air_date: '2008-12-18'
         duration: 52
         fernsehserien_episode_no: 256
@@ -6136,7 +6139,7 @@ seasons:
         season_no: 11
         episode_no: 3
         title: Idjwi - Afrikas vergessene Insel
-        title_fr: Idjwi, l’Île Oubliée
+        title_fr: Idjwi - l’Île Oubliée
         description: 'Die Insel Idjwi liegt mitten im Kiwusee, zwischen Ruanda
             und der Demokratischen Republik Kongo. Obwohl seit Jahren von
             Krieg und Leid umgeben, blieben die Inselbewohner von Gewalt verschont.
@@ -6144,6 +6147,7 @@ seasons:
             begreifen die Menschen auf Idjwi den Frieden als höchstes Gut,
             auch wenn ihr Alltag von Armut und Mangel geprägt ist. (Text:
             arte)'
+        director: Vincent Munié
         air_date: '2009-01-31'
         duration: 52
         fernsehserien_episode_no: 259
@@ -6419,6 +6423,7 @@ seasons:
             mit den traditionsbewussten Stammesführern. Die Reportage begleitet
             den selbstbewussten Streitschlichter Mohammed Saad in das Bergdorf
             Al Sabre. (Text: Arte)'
+        director: Holger Riedel
         air_date: '2009-08-08'
         duration: 52
         fernsehserien_episode_no: 270
@@ -6558,6 +6563,7 @@ seasons:
             Reportage“ hat Cal March besucht, einen der letzten Holzunternehmer
             dieser Gegend, und erlebt, wie die moderne Holzwirtschaft die
             Zukunft meistern will. (Text: Arte)'
+        director: Frank Mirbach
         air_date: '2009-10-10'
         duration: 52
         fernsehserien_episode_no: 275
@@ -6706,8 +6712,9 @@ seasons:
     -   overall_no: 280
         season_no: 11
         episode_no: 26
-        title: 'Saint Helena: Vergessen im Atlantik'
+        title: 'St. Helena: Vergessen im Atlantik'
         title_fr: L’Exil de Sainte-Hélène
+        alias: 'Saint Helena: Vergessen im Atlantik'
         description: 'Kaum eine bewohnte Insel der Welt ist weiter entfernt
             von jeglicher Nachbarschaft als das britische Überseeterritorium
             Saint Helena im südlichen Atlantischen Ozean. 2.000 Kilometer
@@ -6718,6 +6725,7 @@ seasons:
             4.000 „Saints“, wie sich die Inselbewohner nennen, leben auf dem
             isolierten Eiland. „360° - Geo Reportage“ zeigt ihren Alltag.
             (Text: Arte)'
+        director: Karl Alexander Weck
         air_date: '2009-12-26'
         duration: 52
         fernsehserien_episode_no: 282
@@ -8805,6 +8813,7 @@ seasons:
             ihre Herden mit Motorschlitten und Schneemobilen in die Täler.
             Dann beginnt ein neuer Zyklus im Kalender der Rentiere. (Text:
             arte)'
+        director: J. Michael Schumacher
         air_date: '2012-03-10'
         duration: 52
         fernsehserien_episode_no: 336
@@ -9123,6 +9132,7 @@ seasons:
             Modemarkt äußerst begehrt und erfolgreich sind. Für die meisten
             dieser sibirischen Mädchen ist es die einzige Chance, Geld im
             Westen zu verdienen und dabei die Welt zu sehen. (Text: Arte)'
+        director: Galina Breitkreuz
         air_date: '2012-09-15'
         duration: 52
         fernsehserien_episode_no: 345
@@ -10861,6 +10871,7 @@ seasons:
             dann kehren hoffentlich die großen Lachse, die sie hier einst
             als kleine Lachsbrütlinge ausgesetzt haben, aus Südgrönland zum
             Laichen in die Nebenarme der Elbe zurück. (Text: Arte)'
+        director: Gunnar Meyer
         air_date: '2014-05-10'
         duration: 52
         fernsehserien_episode_no: 388
@@ -11416,7 +11427,7 @@ seasons:
         season_no: 16
         episode_no: 23
         title: Die Eisbergjäger von Neufundland
-        title_fr: Terre-Neuve, les Chasseurs d’Iceberges
+        title_fr: Terre-Neuve, les Chasseurs d’Icebergs
         description: 'Die Titanic war ihr bekanntestes Opfer. Als sie 1912
             vor der Küste Neufundlands einen Eisberg rammte und sank, rückte
             die Insel erstmals in den Fokus der Öffentlichkeit. Damals wurde
@@ -11444,6 +11455,7 @@ seasons:
             der Nachschub auf Dauer gesichert werden soll, ist fraglich. In
             diesem Jahr steht Ed Kean jedenfalls bereit. Zumindest solange
             sein Boot mitmacht. (Text: Arte)'
+        director: Julien Hamelin
         air_date: '2014-12-20'
         duration: 52
         fernsehserien_episode_no: 402
@@ -12485,8 +12497,9 @@ seasons:
     -   overall_no: 426
         season_no: 17
         episode_no: 25
-        title: Die Bergführer von Chamonix
+        title: Die Bergführer vom Mont Blanc
         title_fr: La Compagnie des Guides de Chamonix Mont-Blanc
+        alias: Die Bergführer von Chamonix
         description: 'François Pallandre ist Bergführer und hat die höchsten
             Gipfel der Welt erklommen. Ein Skiunfall ließ ihn sein Leben überdenken,
             und jetzt hat sein alter Mentor ihn überzeugen können, der Gilde
@@ -12505,6 +12518,7 @@ seasons:
             müssen eine harte Eintrittsprüfung bestehen, bei der selbst jene
             mit viel alpiner Erfahrung an ihre Grenzen stoßen oder sogar durchfallen.
             Auch in diesem Sommer werden es nur wenige schaffen. (Text: Arte)'
+        director: Friederike Schlumbom
         air_date: '2015-12-21'
         duration: 52
         fernsehserien_air_date: '2015-12-19'
@@ -12726,8 +12740,9 @@ seasons:
     -   overall_no: 432
         season_no: 18
         episode_no: 5
-        title: Cocos Island - Paradies für Haie?!
+        title: Cocos Island - Die Insel der Haie
         title_fr: Cocos — L’Île des Requins
+        alias: Cocos Island - Paradies für Haie?!
         description: 'Vor der Küste Costa Ricas liegt die Kinderstube vieler
             Haiarten. Gleichzeitig wird dort eine intensive Fischerei betrieben.
             Viele Haie sterben als Beifang oder werden intensiv gejagt, um
@@ -12754,6 +12769,7 @@ seasons:
             um die Wege der Tiere nachverfolgen zu können. Nun wollen die
             Wissenschaftler zurückkehren, um die Sender auszutauschen und
             neue Tiere damit zu bestücken. (Text: Arte)'
+        director: Cordula Stadter
         air_date: '2016-02-27'
         duration: 52
         fernsehserien_episode_no: 434
@@ -14739,19 +14755,10 @@ seasons:
         thetvdb_season_episode: S19E26
         thetvdb_episode_id: 6468960
         youtube_video_id: 931l1cfsbDg
-    -   overall_no: 480
-        season_no: 19
-        episode_no: 27
-        title: Die Insel Chiloé
-        title_fr: 'Chili: l’Incroyable Voyage d’une Maison de Bois'
-        air_date: '2017-06-03'
-        duration: 52
-        thetvdb_season_episode: S19E27
-        thetvdb_episode_id: 6126640
 -   'no': 20
     year: 2018
     episodes:
-    -   overall_no: 481
+    -   overall_no: 480
         season_no: 20
         episode_no: 1
         title: Friaul, Benvenuti im Musiktal
@@ -14797,7 +14804,7 @@ seasons:
         thetvdb_season_episode: S20E01
         thetvdb_episode_id: 6507973
         youtube_video_id: _-7XZj09-A0
-    -   overall_no: 482
+    -   overall_no: 481
         season_no: 20
         episode_no: 2
         title: Bisons, die sanften Riesen von Montana
@@ -14834,7 +14841,7 @@ seasons:
         thetvdb_season_episode: S20E02
         thetvdb_episode_id: 6529015
         youtube_video_id: HwOJJFzY5Cc
-    -   overall_no: 483
+    -   overall_no: 482
         season_no: 20
         episode_no: 3
         title: Vietnam, die letzten Pangoline
@@ -14874,7 +14881,7 @@ seasons:
         thetvdb_season_episode: S20E03
         thetvdb_episode_id: 6538679
         youtube_video_id: HXALW-m2RxM
-    -   overall_no: 484
+    -   overall_no: 483
         season_no: 20
         episode_no: 4
         title: 'Schottland: Die Seenotretter der Orkney Islands'
@@ -14920,7 +14927,7 @@ seasons:
         thetvdb_season_episode: S20E04
         thetvdb_episode_id: 6549630
         youtube_video_id: qzTYfQqZltc
-    -   overall_no: 485
+    -   overall_no: 484
         season_no: 20
         episode_no: 5
         title: Kanada - Mit der Hebamme durch die Badlands
@@ -14950,7 +14957,7 @@ seasons:
         thetvdb_season_episode: S20E05
         thetvdb_episode_id: 6578381
         youtube_video_id: Gdcj-iqqRs8
-    -   overall_no: 486
+    -   overall_no: 485
         season_no: 20
         episode_no: 6
         title: Myanmar - Die Marmorkünstler von Mandalay
@@ -14990,7 +14997,7 @@ seasons:
         thetvdb_season_episode: S20E06
         thetvdb_episode_id: 6596840
         youtube_video_id: iV3arcWLL-s
-    -   overall_no: 487
+    -   overall_no: 486
         season_no: 20
         episode_no: 7
         title: Der Lachszähler von Kanada
@@ -15035,7 +15042,7 @@ seasons:
         thetvdb_season_episode: S20E07
         thetvdb_episode_id: 6590788
         youtube_video_id: QM_8fpHN6Jo
-    -   overall_no: 488
+    -   overall_no: 487
         season_no: 20
         episode_no: 8
         title: Kreta - Die süßen Früchte des Johannisbrotbaums
@@ -15055,7 +15062,7 @@ seasons:
         thetvdb_season_episode: S20E08
         thetvdb_episode_id: 6597521
         youtube_video_id: rVaOPVPAC5Y
-    -   overall_no: 489
+    -   overall_no: 488
         season_no: 20
         episode_no: 9
         title: Der Hundeflüsterer der Queen
@@ -15078,7 +15085,7 @@ seasons:
         thetvdb_season_episode: S20E09
         thetvdb_episode_id: 6615190
         youtube_video_id: rejyD-Z97PE
-    -   overall_no: 490
+    -   overall_no: 489
         season_no: 20
         episode_no: 10
         title: Italien, eine neue Glocke für Monopoli
@@ -15102,7 +15109,7 @@ seasons:
         thetvdb_season_episode: S20E10
         thetvdb_episode_id: 6615191
         youtube_video_id: FLTObV0M5RE
-    -   overall_no: 491
+    -   overall_no: 490
         season_no: 20
         episode_no: 11
         title: Arapaima, der Riesenfisch vom Amazonas
@@ -15143,7 +15150,7 @@ seasons:
         thetvdb_season_episode: S20E11
         thetvdb_episode_id: 6689543
         youtube_video_id: cr4V6JIH8yU
-    -   overall_no: 492
+    -   overall_no: 491
         season_no: 20
         episode_no: 12
         title: Die fliegenden Wildesel von Kasachstan
@@ -15184,7 +15191,7 @@ seasons:
         thetvdb_season_episode: S20E12
         thetvdb_episode_id: 6707145
         youtube_video_id: ND0yEWkqnSk
-    -   overall_no: 493
+    -   overall_no: 492
         season_no: 20
         episode_no: 13
         title: Geliebtes Korsika - Kampf gegen das Feuer
@@ -15230,7 +15237,7 @@ seasons:
         thetvdb_season_episode: S20E13
         thetvdb_episode_id: 6739140
         youtube_video_id: cMm7vvWgVzY
-    -   overall_no: 494
+    -   overall_no: 493
         season_no: 20
         episode_no: 14
         title: Japan - Leben am Fuß des Vulkans
@@ -15273,7 +15280,7 @@ seasons:
         thetvdb_season_episode: S20E14
         thetvdb_episode_id: 6819062
         youtube_video_id: mztIey-rJi0
-    -   overall_no: 495
+    -   overall_no: 494
         season_no: 20
         episode_no: 15
         title: Sucevita - Rumäniens schönste Klosterfresken
@@ -15324,7 +15331,7 @@ seasons:
         thetvdb_season_episode: S20E15
         thetvdb_episode_id: 6821173
         youtube_video_id: QPvUMKZxuwU
-    -   overall_no: 496
+    -   overall_no: 495
         season_no: 20
         episode_no: 16
         title: Moskaus berühmte Sprengstoffhunde
@@ -15370,7 +15377,7 @@ seasons:
         thetvdb_season_episode: S20E16
         thetvdb_episode_id: 6829028
         youtube_video_id: JlzRmmvY6wU
-    -   overall_no: 497
+    -   overall_no: 496
         season_no: 20
         episode_no: 17
         title: Neuseeland - Die Tiere vom Ende der Welt
@@ -15417,7 +15424,7 @@ seasons:
         thetvdb_season_episode: S20E17
         thetvdb_episode_id: 6845491
         youtube_video_id: qGm7J8wCZuo
-    -   overall_no: 498
+    -   overall_no: 497
         season_no: 20
         episode_no: 18
         title: Virunga, der Kampf für die Berggorillas
@@ -15465,7 +15472,7 @@ seasons:
         thetvdb_season_episode: S20E18
         thetvdb_episode_id: 6856576
         youtube_video_id: -2VXdo0Vm8A
-    -   overall_no: 499
+    -   overall_no: 498
         season_no: 20
         episode_no: 19
         title: Gitarren und Flamenco in Granada
@@ -15508,7 +15515,7 @@ seasons:
         thetvdb_season_episode: S20E19
         thetvdb_episode_id: 6863765
         youtube_video_id: qNy9yMLVPhA
-    -   overall_no: 500
+    -   overall_no: 499
         season_no: 20
         episode_no: 20
         title: Chatuchak - Bangkoks Riesenmarkt
@@ -15548,7 +15555,7 @@ seasons:
         thetvdb_season_episode: S20E20
         thetvdb_episode_id: 6872146
         youtube_video_id: WGYqFDLRHH8
-    -   overall_no: 501
+    -   overall_no: 500
         season_no: 20
         episode_no: 21
         title: Argentinien - Der Jaguar ist zurück
@@ -15590,7 +15597,7 @@ seasons:
         thetvdb_season_episode: S20E21
         thetvdb_episode_id: 6881859
         youtube_video_id: paOkViJRTpg
-    -   overall_no: 502
+    -   overall_no: 501
         season_no: 20
         episode_no: 22
         title: Rooibos, der rote Tee Südafrikas
@@ -15632,7 +15639,7 @@ seasons:
         thetvdb_season_episode: S20E22
         thetvdb_episode_id: 6894111
         youtube_video_id: GocBm5fcRKY
-    -   overall_no: 503
+    -   overall_no: 502
         season_no: 20
         episode_no: 23
         title: Ankaras gerettete Bücher - Die Müll-Bibliothek von Cankaya
@@ -15681,7 +15688,7 @@ seasons:
         thetvdb_season_episode: S20E23
         thetvdb_episode_id: 6897060
         youtube_video_id: 90iygjnd5KE
-    -   overall_no: 504
+    -   overall_no: 503
         season_no: 20
         episode_no: 24
         title: Äthiopiens gefräßige Hochland-Affen
@@ -15720,7 +15727,7 @@ seasons:
         thetvdb_season_episode: S20E24
         thetvdb_episode_id: 6908214
         youtube_video_id: JJXFy9S8b1M
-    -   overall_no: 505
+    -   overall_no: 504
         season_no: 20
         episode_no: 25
         title: Sibirien - Im Reich des Amur-Tigers
@@ -15766,7 +15773,7 @@ seasons:
         thetvdb_season_episode: S20E25
         thetvdb_episode_id: 6902553
         youtube_video_id: 3NDivz33wdc
-    -   overall_no: 506
+    -   overall_no: 505
         season_no: 20
         episode_no: 26
         title: Peru, das Goldhaar der Vikunjas
@@ -15811,7 +15818,7 @@ seasons:
         thetvdb_season_episode: S20E26
         thetvdb_episode_id: 6923991
         youtube_video_id: vrYNhC0APiQ
-    -   overall_no: 507
+    -   overall_no: 506
         season_no: 20
         episode_no: 27
         title: Jonathan, der Flugakrobat
@@ -15848,7 +15855,7 @@ seasons:
         thetvdb_season_episode: S20E27
         thetvdb_episode_id: 6923990
         youtube_video_id: KxXSeCjQQQk
-    -   overall_no: 508
+    -   overall_no: 507
         season_no: 20
         episode_no: 28
         title: Harris Tweed - Rückkehr einer Legende
@@ -15891,7 +15898,7 @@ seasons:
         thetvdb_season_episode: S20E28
         thetvdb_episode_id: 6941816
         youtube_video_id: 5uVU3J4oXak
-    -   overall_no: 509
+    -   overall_no: 508
         season_no: 20
         episode_no: 29
         title: Kenia, Let's Dance
@@ -15935,7 +15942,7 @@ seasons:
         thetvdb_season_episode: S20E29
         thetvdb_episode_id: 6952756
         youtube_video_id: NOHyqcrRSIo
-    -   overall_no: 510
+    -   overall_no: 509
         season_no: 20
         episode_no: 30
         title: Crémant, der feine Elsässer zum Fest
@@ -15980,7 +15987,7 @@ seasons:
 -   'no': 21
     year: 2019
     episodes:
-    -   overall_no: 511
+    -   overall_no: 510
         season_no: 21
         episode_no: 1
         title: Kushti, Indiens uralter Kampfsport
@@ -16023,7 +16030,7 @@ seasons:
         thetvdb_season_episode: S21E01
         thetvdb_episode_id: 6977226
         youtube_video_id: J9JyIhycLnU
-    -   overall_no: 512
+    -   overall_no: 511
         season_no: 21
         episode_no: 2
         title: Georgiens himmlische Klöster
@@ -16065,7 +16072,7 @@ seasons:
         thetvdb_season_episode: S21E02
         thetvdb_episode_id: 6982371
         youtube_video_id: FBdpBp3eRm8
-    -   overall_no: 513
+    -   overall_no: 512
         season_no: 21
         episode_no: 3
         title: Mexiko - Die edlen Reiterinnen
@@ -16107,7 +16114,7 @@ seasons:
         thetvdb_season_episode: S21E03
         thetvdb_episode_id: 7010223
         youtube_video_id: XDTrO7FnzAM
-    -   overall_no: 514
+    -   overall_no: 513
         season_no: 21
         episode_no: 4
         title: Kroatien, Das Paradies der Trüffeljäger
@@ -16150,7 +16157,7 @@ seasons:
         thetvdb_season_episode: S21E04
         thetvdb_episode_id: 7017416
         youtube_video_id: yGvN68pp1xU
-    -   overall_no: 515
+    -   overall_no: 514
         season_no: 21
         episode_no: 5
         title: Arnika - Von der Kraft einer Heilpflanze
@@ -16188,7 +16195,7 @@ seasons:
         thetvdb_season_episode: S21E05
         thetvdb_episode_id: 7055450
         youtube_video_id: Clpi_2hAmtA
-    -   overall_no: 516
+    -   overall_no: 515
         season_no: 21
         episode_no: 6
         title: Simbabwe - Leben für den Augenblick
@@ -16229,7 +16236,7 @@ seasons:
         thetvdb_season_episode: S21E06
         thetvdb_episode_id: 7122902
         youtube_video_id: TDnqHD4GaEM
-    -   overall_no: 517
+    -   overall_no: 516
         season_no: 21
         episode_no: 7
         title: Äthiopien - Heimat des Kaffees
@@ -16256,7 +16263,7 @@ seasons:
         thetvdb_season_episode: S21E07
         thetvdb_episode_id: 7217846
         youtube_video_id: u9JhD7R2818
-    -   overall_no: 518
+    -   overall_no: 517
         season_no: 21
         episode_no: 8
         title: Indien, ein Himmel voller bunter Drachen
@@ -16296,7 +16303,7 @@ seasons:
         thetvdb_season_episode: S21E08
         thetvdb_episode_id: 7221261
         youtube_video_id: -i-Jx_dF9kY
-    -   overall_no: 519
+    -   overall_no: 518
         season_no: 21
         episode_no: 9
         title: Norwegen, die Rentierprinzessin
@@ -16333,7 +16340,7 @@ seasons:
         thetvdb_season_episode: S21E09
         thetvdb_episode_id: 7284824
         youtube_video_id: C-yvU6oUQks
-    -   overall_no: 520
+    -   overall_no: 519
         season_no: 21
         episode_no: 10
         title: Thaimassage, die Heilkunst der Buddhisten
@@ -16372,7 +16379,7 @@ seasons:
         thetvdb_season_episode: S21E10
         thetvdb_episode_id: 7334026
         youtube_video_id: RR47fu7V2iU
-    -   overall_no: 521
+    -   overall_no: 520
         season_no: 21
         episode_no: 11
         title: Hongkongs magisches Neonlicht
@@ -16414,7 +16421,7 @@ seasons:
         thetvdb_season_episode: S21E11
         thetvdb_episode_id: 7350925
         youtube_video_id: queiVaVuhg4
-    -   overall_no: 522
+    -   overall_no: 521
         season_no: 21
         episode_no: 12
         title: Tibetische Medizin - Heilkraft für die Seele
@@ -16460,7 +16467,7 @@ seasons:
         thetvdb_season_episode: S21E12
         thetvdb_episode_id: 7378725
         youtube_video_id: sXYVFfjiOw8
-    -   overall_no: 523
+    -   overall_no: 522
         season_no: 21
         episode_no: 13
         title: Sibirien, die Eisschneider von Jakutsk
@@ -16500,7 +16507,7 @@ seasons:
         thetvdb_season_episode: S21E13
         thetvdb_episode_id: 7397819
         youtube_video_id: _pzMXsISUPU
-    -   overall_no: 524
+    -   overall_no: 523
         season_no: 21
         episode_no: 14
         title: Auf Schlangenjagd in Bangkok
@@ -16543,7 +16550,7 @@ seasons:
         imdb_episode_id: tt23643218
         thetvdb_season_episode: S21E14
         thetvdb_episode_id: 7398590
-    -   overall_no: 525
+    -   overall_no: 524
         season_no: 21
         episode_no: 15
         title: Die blinde Primaballerina von São Paulo
@@ -16582,7 +16589,7 @@ seasons:
         thetvdb_season_episode: S21E15
         thetvdb_episode_id: 7412295
         youtube_video_id: NXWsLpDP-Mc
-    -   overall_no: 526
+    -   overall_no: 525
         season_no: 21
         episode_no: 16
         title: Slowenien, Land des Honigs
@@ -16622,7 +16629,7 @@ seasons:
         thetvdb_season_episode: S21E16
         thetvdb_episode_id: 7423109
         youtube_video_id: QxhQbpP57PM
-    -   overall_no: 527
+    -   overall_no: 526
         season_no: 21
         episode_no: 17
         title: Japan, der Meister des Zen-Gartens
@@ -16663,7 +16670,7 @@ seasons:
         thetvdb_season_episode: S21E17
         thetvdb_episode_id: 7423122
         youtube_video_id: CA-DwIr8lA4
-    -   overall_no: 528
+    -   overall_no: 527
         season_no: 21
         episode_no: 18
         title: Finnland, die rasenden Schrottkisten
@@ -16701,7 +16708,7 @@ seasons:
         thetvdb_season_episode: S21E18
         thetvdb_episode_id: 7444447
         youtube_video_id: AR9cNhlECyA
-    -   overall_no: 529
+    -   overall_no: 528
         season_no: 21
         episode_no: 19
         title: Heilende Schwingungen der Klangschalen
@@ -16744,7 +16751,7 @@ seasons:
         thetvdb_season_episode: S21E19
         thetvdb_episode_id: 7444458
         youtube_video_id: 0JQRSU8Gzc0
-    -   overall_no: 530
+    -   overall_no: 529
         season_no: 21
         episode_no: 20
         title: Harpyien, die größten Greifvögel des Regenwaldes
@@ -16794,7 +16801,7 @@ seasons:
         thetvdb_season_episode: S21E20
         thetvdb_episode_id: 7457468
         youtube_video_id: rpnZILRBjaw
-    -   overall_no: 531
+    -   overall_no: 530
         season_no: 21
         episode_no: 21
         title: 'Island: Von strickenden Männern und Pullovern'
@@ -16834,7 +16841,7 @@ seasons:
         thetvdb_season_episode: S21E21
         thetvdb_episode_id: 7486315
         youtube_video_id: 4lAHP0Q8908
-    -   overall_no: 532
+    -   overall_no: 531
         season_no: 21
         episode_no: 22
         title: Kentucky - Die Schlacht von Sacramento
@@ -16869,7 +16876,7 @@ seasons:
         thetvdb_season_episode: S21E22
         thetvdb_episode_id: 7496325
         youtube_video_id: BM7Tyu59rrI
-    -   overall_no: 533
+    -   overall_no: 532
         season_no: 21
         episode_no: 23
         title: Die letzten Walfänger der Beringsee
@@ -16907,7 +16914,7 @@ seasons:
         thetvdb_season_episode: S21E23
         thetvdb_episode_id: 7496340
         youtube_video_id: IlG92mvmCEI
-    -   overall_no: 534
+    -   overall_no: 533
         season_no: 21
         episode_no: 24
         title: Kaviar, das schwarze Gold Italiens
@@ -16952,7 +16959,7 @@ seasons:
 -   'no': 22
     year: 2020
     episodes:
-    -   overall_no: 535
+    -   overall_no: 534
         season_no: 22
         episode_no: 1
         title: Die Vespa-Rebellen in Indonesien
@@ -16991,7 +16998,7 @@ seasons:
         thetvdb_season_episode: S22E01
         thetvdb_episode_id: 7517155
         youtube_video_id: T882pntN-Jo
-    -   overall_no: 536
+    -   overall_no: 535
         season_no: 22
         episode_no: 2
         title: Costa Rica, das größte Hundeheim der Welt
@@ -17030,7 +17037,7 @@ seasons:
         thetvdb_season_episode: S22E02
         thetvdb_episode_id: 7542877
         youtube_video_id: 5N1mFKBBFLg
-    -   overall_no: 537
+    -   overall_no: 536
         season_no: 22
         episode_no: 3
         title: Die Herren des Lavendels
@@ -17068,7 +17075,7 @@ seasons:
         thetvdb_season_episode: S22E03
         thetvdb_episode_id: 7557995
         youtube_video_id: KEOwqcBWE2s
-    -   overall_no: 538
+    -   overall_no: 537
         season_no: 22
         episode_no: 4
         title: Die Zedernuss, die Königin der Taiga
@@ -17110,7 +17117,7 @@ seasons:
         thetvdb_season_episode: S22E04
         thetvdb_episode_id: 7581810
         youtube_video_id: 0kvHCK0011o
-    -   overall_no: 539
+    -   overall_no: 538
         season_no: 22
         episode_no: 5
         title: Die Ostsee, Sehnsuchtsort der Kraniche
@@ -17151,7 +17158,7 @@ seasons:
         thetvdb_season_episode: S22E05
         thetvdb_episode_id: 7594851
         youtube_video_id: p-f4YVXnycM
-    -   overall_no: 540
+    -   overall_no: 539
         season_no: 22
         episode_no: 6
         title: 'Kapverden: Zwei Hunde als Schildkrötenretter'
@@ -17188,7 +17195,7 @@ seasons:
         imdb_episode_id: tt27123062
         thetvdb_season_episode: S22E06
         thetvdb_episode_id: 7619012
-    -   overall_no: 541
+    -   overall_no: 540
         season_no: 22
         episode_no: 7
         title: Die Schwestern der Erde
@@ -17232,7 +17239,7 @@ seasons:
         thetvdb_season_episode: S22E07
         thetvdb_episode_id: 7619535
         youtube_video_id: nfNQ5wCTWlQ
-    -   overall_no: 542
+    -   overall_no: 541
         season_no: 22
         episode_no: 8
         title: Argentinien, von wilden Pferden und sanfter Hand
@@ -17272,7 +17279,7 @@ seasons:
         thetvdb_season_episode: S22E08
         thetvdb_episode_id: 7624143
         youtube_video_id: UTT1hwyKwrw
-    -   overall_no: 543
+    -   overall_no: 542
         season_no: 22
         episode_no: 9
         title: Indiens Kurkuma - Heilsam und heilig
@@ -17311,7 +17318,7 @@ seasons:
         thetvdb_season_episode: S22E09
         thetvdb_episode_id: 7793491
         youtube_video_id: Qx7wwbJDDdE
-    -   overall_no: 544
+    -   overall_no: 543
         season_no: 22
         episode_no: 10
         title: Huskys, am Start!
@@ -17355,7 +17362,7 @@ seasons:
         thetvdb_season_episode: S22E10
         thetvdb_episode_id: 7818444
         youtube_video_id: 3XyG82_dG-0
-    -   overall_no: 545
+    -   overall_no: 544
         season_no: 22
         episode_no: 11
         title: Schignano, ein uralter Karneval in Italiens Bergen
@@ -17396,7 +17403,7 @@ seasons:
         thetvdb_season_episode: S22E11
         thetvdb_episode_id: 7859337
         youtube_video_id: UBhl_XT1ixY
-    -   overall_no: 546
+    -   overall_no: 545
         season_no: 22
         episode_no: 12
         title: Ring frei für Sambias Boxerinnen!
@@ -17436,7 +17443,7 @@ seasons:
         thetvdb_season_episode: S22E12
         thetvdb_episode_id: 7890793
         youtube_video_id: MmBs2InkDl0
-    -   overall_no: 547
+    -   overall_no: 546
         season_no: 22
         episode_no: 13
         title: Singvögel - Die goldenen Stimmen von Singapur
@@ -17462,7 +17469,7 @@ seasons:
         thetvdb_season_episode: S22E13
         thetvdb_episode_id: 7933483
         youtube_video_id: nqHruOs-dqE
-    -   overall_no: 548
+    -   overall_no: 547
         season_no: 22
         episode_no: 14
         title: Italiens Kapern - Der Geschmack des Südens
@@ -17517,7 +17524,7 @@ seasons:
         thetvdb_season_episode: S22E14
         thetvdb_episode_id: 8023022
         youtube_video_id: wriortwg56E
-    -   overall_no: 549
+    -   overall_no: 548
         season_no: 22
         episode_no: 15
         title: Der letzte Rheinfischer
@@ -17556,7 +17563,7 @@ seasons:
         thetvdb_season_episode: S22E15
         thetvdb_episode_id: 8076150
         youtube_video_id: 1JPQTQtsjyA
-    -   overall_no: 550
+    -   overall_no: 549
         season_no: 22
         episode_no: 16
         title: Mit Volldampf durch Kärnten
@@ -17602,7 +17609,7 @@ seasons:
         thetvdb_season_episode: S22E16
         thetvdb_episode_id: 8122019
         youtube_video_id: 0HrxXJsDky4
-    -   overall_no: 551
+    -   overall_no: 550
         season_no: 22
         episode_no: 17
         title: Das Elsass, Heimat der Störche
@@ -17653,7 +17660,7 @@ seasons:
         thetvdb_season_episode: S22E17
         thetvdb_episode_id: 8092659
         youtube_video_id: BZaILC2jnoM
-    -   overall_no: 552
+    -   overall_no: 551
         season_no: 22
         episode_no: 18
         title: Lichterglanz im Norden - Winter in Stockholm und den Schären
@@ -17694,7 +17701,7 @@ seasons:
         thetvdb_season_episode: S22E18
         thetvdb_episode_id: 8103945
         youtube_video_id: uE8XcPEKQIo
-    -   overall_no: 553
+    -   overall_no: 552
         season_no: 22
         episode_no: 19
         title: Chartres, die Farben des Himmels
@@ -17735,7 +17742,7 @@ seasons:
 -   'no': 23
     year: 2021
     episodes:
-    -   overall_no: 554
+    -   overall_no: 553
         season_no: 23
         episode_no: 1
         title: Bretagne, die raue Schönheit
@@ -17772,7 +17779,7 @@ seasons:
         thetvdb_season_episode: S23E01
         thetvdb_episode_id: 8131737
         youtube_video_id: o6cVARiIZGA
-    -   overall_no: 555
+    -   overall_no: 554
         season_no: 23
         episode_no: 2
         title: Pelota, die baskische Leidenschaft
@@ -17810,7 +17817,7 @@ seasons:
         thetvdb_season_episode: S23E02
         thetvdb_episode_id: 8145486
         youtube_video_id: pDf_DqGQAJU
-    -   overall_no: 556
+    -   overall_no: 555
         season_no: 23
         episode_no: 3
         title: Estland und das kleine Königreich der Seto
@@ -17847,7 +17854,7 @@ seasons:
         thetvdb_season_episode: S23E03
         thetvdb_episode_id: 8209429
         youtube_video_id: zgv8oZfn-Sk
-    -   overall_no: 557
+    -   overall_no: 556
         season_no: 23
         episode_no: 4
         title: 'Puerto Rico: Ein Krankenhaus für Seekühe'
@@ -17886,7 +17893,7 @@ seasons:
         thetvdb_season_episode: S23E04
         thetvdb_episode_id: 8209430
         youtube_video_id: B2ODRBt1BTI
-    -   overall_no: 558
+    -   overall_no: 557
         season_no: 23
         episode_no: 5
         title: Dem Wolf auf der Spur - Schnüffeln für den Artenschutz
@@ -17936,7 +17943,7 @@ seasons:
         thetvdb_season_episode: S23E05
         thetvdb_episode_id: 8228076
         youtube_video_id: 8zqR15KTGN4
-    -   overall_no: 559
+    -   overall_no: 558
         season_no: 23
         episode_no: 6
         title: Die Eifel und ihre Eulen-Hüter
@@ -17994,7 +18001,7 @@ seasons:
         thetvdb_season_episode: S23E06
         thetvdb_episode_id: 8230361
         youtube_video_id: DGL9tZwu9z4
-    -   overall_no: 560
+    -   overall_no: 559
         season_no: 23
         episode_no: 7
         title: Percheron, das Kraftpaket mit einer Pferdestärke
@@ -18032,7 +18039,7 @@ seasons:
         thetvdb_season_episode: S23E07
         thetvdb_episode_id: 8270994
         youtube_video_id: fr7QjYkoqf0
-    -   overall_no: 561
+    -   overall_no: 560
         season_no: 23
         episode_no: 8
         title: Kalkstein - Das weiße Gold von Brač
@@ -18078,7 +18085,7 @@ seasons:
         thetvdb_season_episode: S23E08
         thetvdb_episode_id: 8271000
         youtube_video_id: sx5ieaeHnUs
-    -   overall_no: 562
+    -   overall_no: 561
         season_no: 23
         episode_no: 9
         title: Hamburg - Welthafen mit schwimmender Kirche
@@ -18125,7 +18132,7 @@ seasons:
         thetvdb_season_episode: S23E09
         thetvdb_episode_id: 8285562
         youtube_video_id: p43Ug9kO7WQ
-    -   overall_no: 563
+    -   overall_no: 562
         season_no: 23
         episode_no: 10
         title: Tradition am Steilhang - Die Schweiz und ihre Wildheuer
@@ -18175,7 +18182,7 @@ seasons:
         thetvdb_season_episode: S23E10
         thetvdb_episode_id: 8320384
         youtube_video_id: FsESCsAehtk
-    -   overall_no: 564
+    -   overall_no: 563
         season_no: 23
         episode_no: 11
         title: Biber, die Baumeister an der Elbe
@@ -18210,7 +18217,7 @@ seasons:
         thetvdb_season_episode: S23E11
         thetvdb_episode_id: 8320385
         youtube_video_id: X8fy7jZl_rE
-    -   overall_no: 565
+    -   overall_no: 564
         season_no: 23
         episode_no: 12
         title: Pelikane, die Könige des Donaudeltas
@@ -18251,7 +18258,7 @@ seasons:
         thetvdb_season_episode: S23E12
         thetvdb_episode_id: 8355928
         youtube_video_id: ZgBcESvfvYA
-    -   overall_no: 566
+    -   overall_no: 565
         season_no: 23
         episode_no: 13
         title: Frankreichs Winzer - Tradition trifft Passion
@@ -18291,7 +18298,7 @@ seasons:
         thetvdb_season_episode: S23E13
         thetvdb_episode_id: 8375958
         youtube_video_id: pQaBkRIgRk0
-    -   overall_no: 567
+    -   overall_no: 566
         season_no: 23
         episode_no: 14
         title: Notruf Nordseeküste - Die Robben-Retter
@@ -18336,7 +18343,7 @@ seasons:
         thetvdb_season_episode: S23E14
         thetvdb_episode_id: 8375959
         youtube_video_id: ltSG2rftqu8
-    -   overall_no: 568
+    -   overall_no: 567
         season_no: 23
         episode_no: 15
         title: Australien - Wenn Kunst auf Silos trifft
@@ -18383,7 +18390,7 @@ seasons:
         thetvdb_season_episode: S23E15
         thetvdb_episode_id: 8375960
         youtube_video_id: G8JDOqwLGog
-    -   overall_no: 569
+    -   overall_no: 568
         season_no: 23
         episode_no: 16
         title: Der Wüstenzug - die Lebensader Mauretaniens
@@ -18439,7 +18446,7 @@ seasons:
         thetvdb_season_episode: S23E16
         thetvdb_episode_id: 8634489
         youtube_video_id: k9jFka2IecU
-    -   overall_no: 570
+    -   overall_no: 569
         season_no: 23
         episode_no: 17
         title: Escobars Erbe - Kolumbiens Kokain-Hippos
@@ -18483,7 +18490,7 @@ seasons:
         thetvdb_season_episode: S23E17
         thetvdb_episode_id: 8634490
         youtube_video_id: T8zWiccuv0w
-    -   overall_no: 571
+    -   overall_no: 570
         season_no: 23
         episode_no: 18
         title: Die heilenden Delfine von Curaçao
@@ -18527,7 +18534,7 @@ seasons:
         thetvdb_season_episode: S23E18
         thetvdb_episode_id: 8634491
         youtube_video_id: wc4y3QIarAU
-    -   overall_no: 572
+    -   overall_no: 571
         season_no: 23
         episode_no: 19
         title: Der Traum vom Gold - Tirols Überfliegerinnen
@@ -18569,7 +18576,7 @@ seasons:
         thetvdb_season_episode: S23E19
         thetvdb_episode_id: 8692435
         youtube_video_id: 9z8Eer2KngU
-    -   overall_no: 573
+    -   overall_no: 572
         season_no: 23
         episode_no: 20
         title: 'Schweiz: Gletscherflieger - Faszination in Weiß'
@@ -18622,7 +18629,7 @@ seasons:
         thetvdb_season_episode: S23E20
         thetvdb_episode_id: 8692436
         youtube_video_id: jEZT_6_qloo
-    -   overall_no: 574
+    -   overall_no: 573
         season_no: 23
         episode_no: 21
         title: Koh Panyee - Thailands fußballverrückte Insel
@@ -18645,7 +18652,7 @@ seasons:
         thetvdb_season_episode: S23E21
         thetvdb_episode_id: 8692437
         youtube_video_id: RC_j7QQ1r5U
-    -   overall_no: 575
+    -   overall_no: 574
         season_no: 23
         episode_no: 22
         title: Stromboli - Zwischen Feuer und Meer
@@ -18689,7 +18696,7 @@ seasons:
         thetvdb_season_episode: S23E22
         thetvdb_episode_id: 8692438
         youtube_video_id: _z29qS0mTjY
-    -   overall_no: 576
+    -   overall_no: 575
         season_no: 23
         episode_no: 23
         title: Italien - Die Igel-Retter aus dem Piemont
@@ -18729,7 +18736,7 @@ seasons:
         thetvdb_season_episode: S23E23
         thetvdb_episode_id: 8788087
         youtube_video_id: FN8ybVCWbVw
-    -   overall_no: 577
+    -   overall_no: 576
         season_no: 23
         episode_no: 24
         title: 'Dolomiten: Die Bergführer von San Martino'
@@ -18763,7 +18770,7 @@ seasons:
 -   'no': 24
     year: 2022
     episodes:
-    -   overall_no: 578
+    -   overall_no: 577
         season_no: 24
         episode_no: 1
         title: Die Lowrider-Ladies von L.A.
@@ -18804,7 +18811,7 @@ seasons:
         thetvdb_season_episode: S24E01
         thetvdb_episode_id: 8949820
         youtube_video_id: 3ql7jtqylzU
-    -   overall_no: 579
+    -   overall_no: 578
         season_no: 24
         episode_no: 2
         title: Tapire - Die Dschungel-Gärtner
@@ -18859,7 +18866,7 @@ seasons:
         thetvdb_season_episode: S24E02
         thetvdb_episode_id: 8949821
         youtube_video_id: bQXxzQjmPvo
-    -   overall_no: 580
+    -   overall_no: 579
         season_no: 24
         episode_no: 3
         title: Faszination Elbrus - Der Ritt zum Gipfel
@@ -18924,7 +18931,7 @@ seasons:
         thetvdb_season_episode: S24E03
         thetvdb_episode_id: 8949822
         youtube_video_id: FgNR3JW-QbE
-    -   overall_no: 581
+    -   overall_no: 580
         season_no: 24
         episode_no: 4
         title: Namibias Geparden - Hoffnung für die Raubkatzen
@@ -18977,7 +18984,7 @@ seasons:
         thetvdb_season_episode: S24E04
         thetvdb_episode_id: 8949823
         youtube_video_id: s9UPirsiFbA
-    -   overall_no: 582
+    -   overall_no: 581
         season_no: 24
         episode_no: 5
         title: Haute Couture - Federn, Falten, Seidenblumen
@@ -19026,7 +19033,7 @@ seasons:
         thetvdb_season_episode: S24E05
         thetvdb_episode_id: 8949824
         youtube_video_id: 2MTSdkn22a4
-    -   overall_no: 583
+    -   overall_no: 582
         season_no: 24
         episode_no: 6
         title: Die Odyssee der Mönchsrobbe
@@ -19080,7 +19087,7 @@ seasons:
         thetvdb_season_episode: S24E06
         thetvdb_episode_id: 8949825
         youtube_video_id: IrOfUxc812k
-    -   overall_no: 584
+    -   overall_no: 583
         season_no: 24
         episode_no: 7
         title: Elsass - Land der Orgeln
@@ -19136,7 +19143,7 @@ seasons:
         thetvdb_season_episode: S24E07
         thetvdb_episode_id: 8949826
         youtube_video_id: Ef81fAqnuJs
-    -   overall_no: 585
+    -   overall_no: 584
         season_no: 24
         episode_no: 8
         title: Wilde Waterkant - Nordfriesland und seine Gänse
@@ -19178,7 +19185,7 @@ seasons:
         thetvdb_season_episode: S24E08
         thetvdb_episode_id: 8993022
         youtube_video_id: p33T3S0tqBA
-    -   overall_no: 586
+    -   overall_no: 585
         season_no: 24
         episode_no: 9
         title: Die Puppen tanzen! - Litauens rollendes Theater
@@ -19226,7 +19233,7 @@ seasons:
         thetvdb_season_episode: S24E09
         thetvdb_episode_id: 9075607
         youtube_video_id: axKuA1qBWGQ
-    -   overall_no: 587
+    -   overall_no: 586
         season_no: 24
         episode_no: 10
         title: Südkorea - die Nonne der Tempelküche
@@ -19286,7 +19293,7 @@ seasons:
         thetvdb_season_episode: S24E10
         thetvdb_episode_id: 9158123
         youtube_video_id: if6OhSEjkxM
-    -   overall_no: 588
+    -   overall_no: 587
         season_no: 24
         episode_no: 11
         title: Schwerelos im Windkanal
@@ -19337,7 +19344,7 @@ seasons:
         thetvdb_season_episode: S24E11
         thetvdb_episode_id: 9158124
         youtube_video_id: jp5BDv9KCzY
-    -   overall_no: 589
+    -   overall_no: 588
         season_no: 24
         episode_no: 12
         title: Frankreichs Gärten - Die kleinen Schätze
@@ -19382,7 +19389,7 @@ seasons:
         thetvdb_season_episode: S24E12
         thetvdb_episode_id: 9158125
         youtube_video_id: 6eWUfGWASTA
-    -   overall_no: 590
+    -   overall_no: 589
         season_no: 24
         episode_no: 13
         title: Europas Urwälder - Ein Schatz der Natur
@@ -19431,7 +19438,7 @@ seasons:
         thetvdb_season_episode: S24E13
         thetvdb_episode_id: 9158126
         youtube_video_id: JXN5lNsTZCI
-    -   overall_no: 591
+    -   overall_no: 590
         season_no: 24
         episode_no: 14
         title: Panzer, Wölfe, Rothirsche - Bayerns wilder Übungsplatz
@@ -19483,7 +19490,7 @@ seasons:
         thetvdb_season_episode: S24E14
         thetvdb_episode_id: 9158127
         youtube_video_id: kyrHUKDiyck
-    -   overall_no: 592
+    -   overall_no: 591
         season_no: 24
         episode_no: 15
         title: Kastiliens Kämpfer - Ritterspiele an der Burg Belmonte
@@ -19534,7 +19541,7 @@ seasons:
         thetvdb_season_episode: S24E15
         thetvdb_episode_id: 9158128
         youtube_video_id: wZgpqRaV7Ik
-    -   overall_no: 593
+    -   overall_no: 592
         season_no: 24
         episode_no: 16
         title: Nopal, der Alleskönner aus Mexiko
@@ -19587,7 +19594,7 @@ seasons:
         thetvdb_season_episode: S24E16
         thetvdb_episode_id: 9254698
         youtube_video_id: MkXx_8rac_M
-    -   overall_no: 594
+    -   overall_no: 593
         season_no: 24
         episode_no: 17
         title: Tempo und Leidenschaft - Argentiniens Polo-Spielerinnen
@@ -19632,7 +19639,7 @@ seasons:
         thetvdb_season_episode: S24E17
         thetvdb_episode_id: 9254699
         youtube_video_id: Y-eQibAkbmo
-    -   overall_no: 595
+    -   overall_no: 594
         season_no: 24
         episode_no: 18
         title: 'Kourou: Palmen, Raketen, Gefängnisinseln'
@@ -19676,7 +19683,7 @@ seasons:
         thetvdb_season_episode: S24E18
         thetvdb_episode_id: 9254700
         youtube_video_id: LckZ2_Lw88E
-    -   overall_no: 596
+    -   overall_no: 595
         season_no: 24
         episode_no: 19
         title: Las Fallas - Valencias feurige Fiesta
@@ -19731,7 +19738,7 @@ seasons:
         thetvdb_season_episode: S24E19
         thetvdb_episode_id: 9254701
         youtube_video_id: ug2XFpN43CU
-    -   overall_no: 597
+    -   overall_no: 596
         season_no: 24
         episode_no: 20
         title: Das Gerichtsschiff vom Amazonas
@@ -19768,7 +19775,7 @@ seasons:
         imdb_episode_id: tt22023194
         thetvdb_season_episode: S24E20
         thetvdb_episode_id: 9254702
-    -   overall_no: 598
+    -   overall_no: 597
         season_no: 24
         episode_no: 21
         title: Indien - Kampf den Scharlatanen
@@ -19815,7 +19822,7 @@ seasons:
         thetvdb_season_episode: S24E21
         thetvdb_episode_id: 9352688
         youtube_video_id: -Clpkb3JdkI
-    -   overall_no: 599
+    -   overall_no: 598
         season_no: 24
         episode_no: 22
         title: Ahornsirup - Kanadas süßer Schatz
@@ -19867,7 +19874,7 @@ seasons:
         thetvdb_season_episode: S24E22
         thetvdb_episode_id: 9352689
         youtube_video_id: HlFRnPw6Y04
-    -   overall_no: 600
+    -   overall_no: 599
         season_no: 24
         episode_no: 23
         title: Estland - Krötenretter im Einsatz
@@ -19926,7 +19933,7 @@ seasons:
         thetvdb_season_episode: S24E23
         thetvdb_episode_id: 9352690
         youtube_video_id: xzfFqvblS34
-    -   overall_no: 601
+    -   overall_no: 600
         season_no: 24
         episode_no: 24
         title: Sardiniens wertvolle Muschelseide
@@ -19975,7 +19982,7 @@ seasons:
         imdb_episode_id: tt23159150
         thetvdb_season_episode: S24E24
         thetvdb_episode_id: 9352691
-    -   overall_no: 602
+    -   overall_no: 601
         season_no: 24
         episode_no: 25
         title: Cordoba, die Stadt der Patios
@@ -20025,7 +20032,7 @@ seasons:
         thetvdb_season_episode: S24E25
         thetvdb_episode_id: 9524022
         youtube_video_id: XrEtMdxF76c
-    -   overall_no: 603
+    -   overall_no: 602
         season_no: 24
         episode_no: 26
         title: Marquesas-Inseln, das Comeback der Tattoos
@@ -20082,7 +20089,7 @@ seasons:
         imdb_episode_id: tt23747588
         thetvdb_season_episode: S24E26
         thetvdb_episode_id: 9524023
-    -   overall_no: 604
+    -   overall_no: 603
         season_no: 24
         episode_no: 27
         title: Die Schweizergarde - Ein Leben für den Papst
@@ -20127,7 +20134,7 @@ seasons:
         imdb_episode_id: tt23985080
         thetvdb_season_episode: S24E27
         thetvdb_episode_id: 9524024
-    -   overall_no: 605
+    -   overall_no: 604
         season_no: 24
         episode_no: 28
         title: Island, die wertvollsten Daunen der Welt
@@ -20177,7 +20184,7 @@ seasons:
         imdb_episode_id: tt24220972
         thetvdb_season_episode: S24E28
         thetvdb_episode_id: 9524025
-    -   overall_no: 606
+    -   overall_no: 605
         season_no: 24
         episode_no: 29
         title: Zuflucht in den Anden - Kolumbiens indigene Transfrauen
@@ -20224,7 +20231,7 @@ seasons:
         imdb_episode_id: tt24636850
         thetvdb_season_episode: S24E29
         thetvdb_episode_id: 9524026
-    -   overall_no: 607
+    -   overall_no: 606
         season_no: 24
         episode_no: 30
         title: Kristall - Die magische Kunst aus den Vogesen
@@ -20280,7 +20287,7 @@ seasons:
 -   'no': 25
     year: 2023
     episodes:
-    -   overall_no: 608
+    -   overall_no: 607
         season_no: 25
         episode_no: 1
         title: Montenegro - Der Eselretter
@@ -20332,7 +20339,7 @@ seasons:
         imdb_episode_id: tt25786568
         thetvdb_season_episode: S25E01
         thetvdb_episode_id: 9524036
-    -   overall_no: 609
+    -   overall_no: 608
         season_no: 25
         episode_no: 2
         title: Der Bergkristall - Schatz in den Schweizer Alpen
@@ -20377,7 +20384,7 @@ seasons:
         imdb_episode_id: tt26422175
         thetvdb_season_episode: S25E03
         thetvdb_episode_id: 9524038
-    -   overall_no: 610
+    -   overall_no: 609
         season_no: 25
         episode_no: 3
         title: Maine - Hummer oder Wale?
@@ -20429,7 +20436,7 @@ seasons:
         imdb_episode_id: tt26472394
         thetvdb_season_episode: S25E05
         thetvdb_episode_id: 9524040
-    -   overall_no: 611
+    -   overall_no: 610
         season_no: 25
         episode_no: 4
         title: Albanien - Die Stimmen der Schäfer
@@ -20472,7 +20479,7 @@ seasons:
         fernsehserien_episode_slug: 612-albanien-die-stimmen-der-schaefer-1618464
         fernsehserien_episode_id: 1618464
         imdb_episode_id: tt26898737
-    -   overall_no: 612
+    -   overall_no: 611
         season_no: 25
         episode_no: 5
         title: Laos - Futterblöcke und Büffel-Leasing
@@ -20528,7 +20535,7 @@ seasons:
         fernsehserien_episode_slug: 613-laos-futterbloecke-und-bueffel-leasing-1620347
         fernsehserien_episode_id: 1620347
         imdb_episode_id: tt27005233
-    -   overall_no: 613
+    -   overall_no: 612
         season_no: 25
         episode_no: 6
         title: Freiheit auf Pferderücken - Der lange Weg der Nez Perce
@@ -20568,7 +20575,7 @@ seasons:
         fernsehserien_episode_slug: 614-freiheit-auf-pferderuecken-der-lange-weg-der-nez-perce-1621705
         fernsehserien_episode_id: 1621705
         imdb_episode_id: tt27110800
-    -   overall_no: 614
+    -   overall_no: 613
         season_no: 25
         episode_no: 7
         title: Peloponnes - Rückkehr zur Erde
@@ -20606,7 +20613,7 @@ seasons:
         fernsehserien_episode_slug: 615-peloponnes-rueckkehr-zur-erde-1623768
         fernsehserien_episode_id: 1623768
         imdb_episode_id: tt27170463
-    -   overall_no: 615
+    -   overall_no: 614
         season_no: 25
         episode_no: 8
         title: Handgemacht in Laos - Rares aus Rattan
@@ -20651,7 +20658,7 @@ seasons:
         fernsehserien_episode_slug: 616-handgemacht-in-laos-rares-aus-rattan-1625195
         fernsehserien_episode_id: 1625195
         imdb_episode_id: tt27252897
-    -   overall_no: 616
+    -   overall_no: 615
         season_no: 25
         episode_no: 9
         title: Leben mit dem Tod - Ahnenkult auf Sulawesi
@@ -20693,12 +20700,11 @@ seasons:
         fernsehserien_episode_no: 617
         fernsehserien_episode_slug: 617-leben-mit-dem-tod-ahnenkult-auf-sulawesi-1634635
         fernsehserien_episode_id: 1634635
-    -   overall_no: 617
+    -   overall_no: 616
         season_no: 25
         episode_no: 10
         title: Die Waschbären von Berlin
         title_fr: Les ratons laveurs, nos nouveaux voisins?
-        coordinates: [52.518611, 13.408333]
         continent: Europa
         description: 'Es fing alles harmlos an: Als der Berliner Tierärztin
             Mathilde Laininger zwei verwaiste Waschbären in die Praxis gebracht
@@ -20742,15 +20748,17 @@ seasons:
             Mensch und Waschbär zu ermöglichen.
         director: Maja Dielhenn
         air_date: '2023-05-20'
+        coordinates:
+        - 52.518611
+        - 13.408333
         fernsehserien_episode_no: 618
         fernsehserien_episode_slug: 618-die-waschbaeren-von-berlin-1640104
         fernsehserien_episode_id: 1640104
-    -   overall_no: 618
+    -   overall_no: 617
         season_no: 25
         episode_no: 11
         title: Rapa Nui - Gladiatoren der Südsee
         continent: Asien
-        coordinates: [-27.119444, -109.354722]
         description: 'Im Jahr 1722 wurde die Osterinsel von dem niederländischen
             Seefahrer Jakob Roggeveen entdeckt, an einem Ostersonntag, daher
             der Name. Damals lebten aber schon seit gut tausend Jahren polynesische
@@ -20789,15 +20797,17 @@ seasons:
             Tau'a-Triathlon konzentriert.
         director: J. Michael Schumacher
         air_date: '2023-06-24'
+        coordinates:
+        - -27.119444
+        - -109.354722
         fernsehserien_episode_no: 619
         fernsehserien_episode_slug: 619-rapa-nui-gladiatoren-der-suedsee-1645452
         fernsehserien_episode_id: 1645452
-    -   overall_no: 619
+    -   overall_no: 618
         season_no: 25
         episode_no: 12
         title: Kambodschas schwimmende Dörfer - Umzug am Tonle Sap
         continent: Asien
-        coordinates: [12.876, 104.073]
         description: 'Um bis zu acht Meter schwankt der Wasserstand des Tonle
             Sap-Sees. Zur Trockenzeit im Februar und März sinkt der Pegel
             stark. In Ufernähe tauchen Wälder aus dem Wasser auf, durch die
@@ -20829,6 +20839,9 @@ seasons:
             Landwirtschaft leben.
         director: Martin Schacht
         air_date: '2023-07-01'
+        coordinates:
+        - 12.876
+        - 104.073
         fernsehserien_episode_no: 620
         fernsehserien_episode_slug: 620-kambodschas-schwimmende-doerfer-umzug-am-tonle-sap-1646559
         fernsehserien_episode_id: 1646559
