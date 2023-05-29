@@ -82,6 +82,12 @@ class Yaml:
 
 class Markdown:
     @staticmethod
+    def link(title: str | typing.Any | None, url: str | None) -> str:
+        if not title or not url:
+            return ""
+        return f"[{str(title)}]({url})"
+
+    @staticmethod
     def table(header: list[str], rows: list[list[str]]) -> str:
         def _format_row(cells: list[typing.Any]) -> str:
             row: str = " | ".join(cells)
@@ -451,13 +457,6 @@ class Episode:
             return ""
         return d.strftime(format)
 
-    def __make_markdown_link(
-        self, title: str | typing.Any | None, url: str | None
-    ) -> str:
-        if not title or not url:
-            return ""
-        return f"[{str(title)}]({url})"
-
     @property
     def thetvdb_season_episode(self) -> str | None:
         if "thetvdb_season_episode" not in self.data:
@@ -479,14 +478,6 @@ class Episode:
         return f"{base_url}/episodes/{id}"
 
     @property
-    def thetvdb_link(self) -> str:
-        if "thetvdb_season_episode" not in self.data:
-            return ""
-        return self.__make_markdown_link(
-            self.data["thetvdb_season_episode"], self.thetvdb_url
-        )
-
-    @property
     def imdb_episode_id(self) -> str | None:
         "For example: ``tt10007904``"
         if "imdb_episode_id" in self.data:
@@ -497,12 +488,6 @@ class Episode:
         if not self.imdb_episode_id:
             return
         return f"https://www.imdb.com/title/{self.imdb_episode_id}"
-
-    @property
-    def imdb_link(self) -> str:
-        if "imdb_episode_id" not in self.data:
-            return ""
-        return self.__make_markdown_link(self.data["imdb_episode_id"], self.imdb_url)
 
     @property
     def fernsehserien_episode_no(self) -> int | None:
@@ -528,14 +513,6 @@ class Episode:
         return f"{base_url}/folgen/{slug}"
 
     @property
-    def fernsehserien_link(self) -> str:
-        if not self.fernsehserien_episode_no:
-            return ""
-        return self.__make_markdown_link(
-            self.fernsehserien_episode_no, self.fernsehserien_url
-        )
-
-    @property
     def youtube_video_id(self) -> str | None:
         if "youtube_video_id" not in self.data:
             return
@@ -547,14 +524,6 @@ class Episode:
             return
         video_id: str = self.data["youtube_video_id"]
         return f"https://www.youtube.com/watch?v={video_id}"
-
-    @property
-    def youtube_link(self) -> str:
-        if "youtube_video_id" not in self.data:
-            return ""
-        return self.__make_markdown_link(
-            self.data["youtube_video_id"], self.youtube_url
-        )
 
     # def __get_season_or_episode(self, episode: bool = True) -> int | None:
     #     if not "thetvdb_season_episode" in self.data:
@@ -723,6 +692,11 @@ class Wiki:
         return "<ref>" + content + "</ref>"
 
     @staticmethod
+    def link(url: str, title: str) -> str:
+        """https://de.wikipedia.org/wiki/Hilfe:Links#Links_zu_externen_Webseiten_(Weblinks,_URLs)"""
+        return f"[{url} {title}]"
+
+    @staticmethod
     def internetquelle(
         url: str,
         titel: str,
@@ -766,7 +740,7 @@ class Wiki:
         return f"zur Folge „{episode.title}“"
 
     @staticmethod
-    def format_ref_imdb(episode: Episode) -> str:
+    def ref_imdb(episode: Episode) -> str:
         "https://developer.imdb.com/documentation/key-concepts"
         if not episode.imdb_url or not episode.imdb_episode_id:
             return ""
@@ -781,7 +755,7 @@ class Wiki:
         )
 
     @staticmethod
-    def format_ref_fernsehserien(episode: Episode) -> str:
+    def ref_fernsehserien(episode: Episode) -> str:
         if (
             not episode.fernsehserien_episode_no
             or not episode.fernsehserien_episode_slug
@@ -955,7 +929,7 @@ def generate_wikitext(language: typing.Literal["de", "fr"] = "de") -> None:
     Utils.write_text_file(f"{EXPORT_FILENAME}_wiki-{language}.wikitext", season_entries)
 
 
-def generate_readme():
+def generate_readme() -> None:
     #     header = """
     # # 360-geo-reportage
 
@@ -974,7 +948,29 @@ def generate_readme():
     # Quelle: https://www.fernsehserien.de/arte-360grad-reportage/episodenguide
     # """
 
-    def _format_title(episode: Episode) -> str:
+    def link_fernsehserien(episode: Episode) -> str:
+        if not episode.fernsehserien_episode_no:
+            return ""
+        return Markdown.link(
+            episode.fernsehserien_episode_no, episode.fernsehserien_url
+        )
+
+    def link_youtube(episode: Episode) -> str:
+        if not episode.youtube_video_id:
+            return ""
+        return Markdown.link(episode.youtube_video_id, episode.youtube_url)
+
+    def link_imdb(episode: Episode) -> str:
+        if not episode.imdb_episode_id:
+            return ""
+        return Markdown.link(episode.imdb_episode_id, episode.imdb_url)
+
+    def link_thetvdb(episode: Episode) -> str:
+        if not episode.thetvdb_season_episode:
+            return ""
+        return Markdown.link(episode.thetvdb_season_episode, episode.thetvdb_url)
+
+    def format_title(episode: Episode) -> str:
         title: str = episode.title
         if episode.title_fr:
             title += f"<br>fr: *{episode.title_fr}*"
@@ -982,7 +978,7 @@ def generate_readme():
             title += f"<br>en: *{episode.title_en}*"
         return title
 
-    def _format_links(episode: Episode) -> str:
+    def format_links(episode: Episode) -> str:
         links: list[str] = []
 
         def prefix_caption(caption: str, link: str) -> str:
@@ -993,31 +989,31 @@ def generate_readme():
                 links.append(prefix_caption(caption, link))
 
         if episode.youtube_video_id:
-            append("youtube", episode.youtube_link)
+            append("youtube", link_youtube(episode))
 
         if episode.thetvdb_season_episode:
-            append("thetvdb", episode.thetvdb_link)
+            append("thetvdb", link_thetvdb(episode))
 
         if episode.imdb_episode_id:
-            append("imdb", episode.imdb_link)
+            append("imdb", link_imdb(episode))
 
         if episode.fernsehserien_episode_no:
-            append("fernsehserien", episode.fernsehserien_link)
+            append("fernsehserien", link_fernsehserien(episode))
 
         return "<br>".join(links)
 
-    def _assemble_row(episode: Episode) -> list[str]:
+    def assemble_row(episode: Episode) -> list[str]:
         row: list[str] = []
         row.append(episode.format_air_date("%a %Y-%m-%d"))
-        row.append(_format_title(episode))
-        row.append(_format_links(episode))
+        row.append(format_title(episode))
+        row.append(format_links(episode))
 
         return row
 
     rows: list[list[str]] = []
 
     for episode in tv_show.episodes:
-        rows.append(_assemble_row(episode))
+        rows.append(assemble_row(episode))
 
     Utils.write_text_file(
         "README.md",

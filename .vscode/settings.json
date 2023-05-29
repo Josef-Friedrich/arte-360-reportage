@@ -9,5 +9,6 @@
   "[python]": {
     "editor.defaultFormatter": "ms-python.black-formatter"
   },
-  "python.defaultInterpreterPath": ".venv/bin/python"
+  "python.defaultInterpreterPath": ".venv/bin/python",
+  "ansible.python.interpreterPath": "/home/jf/Downloads/arte-360-reportage/.venv/bin/python"
 }
