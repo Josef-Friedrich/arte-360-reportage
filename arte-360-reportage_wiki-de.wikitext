@@ -8,37 +8,41 @@
 | DREHBUCH = nein
 | Feld1 = Französischer Titel
 | INHALT =
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 1
 | NR_ST = 1
 | OT = Beirut - die Milliarden-Dollar-Utopie<ref>Internetquellen zur Episode ''„Beirut - die Milliarden-Dollar-Utopie“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/1-traum-staedte-beirut-die-milliarden-dollar-utopie-339116 1] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/1-traum-staedte-beirut-die-milliarden-dollar-utopie-339116 339116], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641893 S01E01] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641893 4641893], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=E_uSFyHf7BM E_uSFyHf7BM]</ref>
 | Feld1 = -
 | REG = Klaus Hein
 | EA = 1999-01-04
+| ZF = Nach einem 15-jährigen Bürgerkrieg in Beirut entstehen täglich neue Marmorfassaden inmitten der Trümmerlandschaft. Die Baugesellschaft „Solidere“ enteignet Eigentümer und gibt ihnen Aktien, um der Stadt ein neues Gesicht zu geben. Die Flüchtlingsunterkünfte müssen weichen, während Premierminister Rafik Hairi von einem ehrgeizigen Projekt träumt, um Beirut als Finanz- und Dienstleistungszentrum wiederherzustellen. Während die Beiruter zwischen Müllbergen leben, stellt sich die Frage, wer den hohen Preis für die Umgestaltung der Stadt zahlen muss. Das Ziel von „Solidere“, aus der Asche eine neue Metropole zu schaffen, ist umstritten.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 2
 | NR_ST = 2
 | OT = Chandigarh - Leben im Beton<ref>Internetquellen zur Episode ''„Chandigarh - Leben im Beton“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/2-traum-staedte-chandigarh-leben-im-beton-339117 2] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/2-traum-staedte-chandigarh-leben-im-beton-339117 339117], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641894 S01E02] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641894 4641894], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=FGgrN8pRhTU FGgrN8pRhTU]</ref>
 | Feld1 = -
 | REG = Sylvain Roumette
 | EA = 1999-01-05
+| ZF = Chandigarh, eine 1948 aus dem Nichts entstandene Stadt, ist ein politisches Manifest für das neue Indien. Le Corbusier entwarf sie als neue Wohn- und Arbeitsstätte, die den Wandel zur modernen Industriegesellschaft symbolisiert. Der Film zeigt jedoch, wie die Bewohner die Stadt für ihre eigenen Bedürfnisse nutzen und weniger nach den Visionen von Le Corbusier leben. Rechtsanwalt Gupta schwärmt von Chandigarh, obwohl die anfängliche strikte Trennung der Lebensbereiche gescheitert ist. Selbst die ärmsten Bewohner, wie Rikscha-Fahrer Satish, möchten nirgendwo anders leben.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 3
 | NR_ST = 3
 | OT = Brasilia - Metropole vom Reißbrett<ref>Internetquellen zur Episode ''„Brasilia - Metropole vom Reißbrett“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/3-traum-staedte-brasilia-metropole-vom-reissbrett-339118 3] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/3-traum-staedte-brasilia-metropole-vom-reissbrett-339118 339118], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641895 S01E03] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641895 4641895], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=_7Y2Y4bbw9s _7Y2Y4bbw9s]</ref>
 | Feld1 = -
 | REG = Jorge Bodanzky
 | EA = 1999-01-06
+| ZF = Die Gründung von Brasilia im Jahr 1960 zog Menschen an, die alle die Vision einer Stadt ohne soziale Unterschiede teilten. Der Städteplaner Lucio Costa gewann einen nationalen Wettbewerb und entwarf einen Grundriss mit einer kreuzförmigen Anordnung, symbolisch für Zeit, Raum und Ewigkeit. Brasilia wurde mitten in der Einöde des Landes gebaut. Doch der Militärputsch von 1964 beendete abrupt den Traum der Menschen, bevor die Utopie Wirklichkeit werden konnte. Heute sind die sozialen Gegensätze in Brasilia besonders stark, aber die Stadt gilt immer noch als Denkmaschine des Landes. Luiz Umberto, ein Architekt und Professor, der den Militärputsch erlebte, bleibt seiner Stadt treu.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 4
 | NR_ST = 4
 | OT = Celebration - Leben in Harmonie<ref>Internetquellen zur Episode ''„Celebration - Leben in Harmonie“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/4-traum-staedte-celebration-leben-in-harmonie-339119 4] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/4-traum-staedte-celebration-leben-in-harmonie-339119 339119], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641896 S01E04] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641896 4641896], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=cA7vQS4fCTI cA7vQS4fCTI]</ref>
 | Feld1 = -
 | REG = Walter Tauber
 | EA = 1999-01-07
+| ZF = Celebration ist eine von Disney geschaffene Stadt, die den modernen Städtebau verkörpern soll. Das Konzept des „New Urbanism“ zielt darauf ab, Vororte neues Leben einzuhauchen und amerikanische Tugenden wie Gemeinschaftssinn wiederzubeleben. Autos sind in den Hinterhöfen verbannt, während nostalgische Einfamilienhäuser mit offenen Veranden eine ruhige und harmonische Atmosphäre schaffen. Die Familie steht im Mittelpunkt, vernetzt mit der Nachbarschaft. Einwohner wie Pat und Ken Liles genießen die Gemeinschaft und akzeptieren die Führung eines Disney-Managers als Bürgermeister-Ersatz.
 }}
 {{Episodenlisteneintrag
 | NR_GES = 5
@@ -320,13 +324,14 @@
 | REG = Chris Ledger
 | EA = 1999-12-08
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 40
 | NR_ST = 40
 | OT = Menü der Zärtlichkeit<ref>Internetquellen zur Episode ''„Menü der Zärtlichkeit“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/40-im-namen-der-liebe-menue-der-zaertlichkeit-339152 40] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/40-im-namen-der-liebe-menue-der-zaertlichkeit-339152 339152], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824551 S01E40] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824551 4824551], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=cgu64PhWtA8 cgu64PhWtA8]</ref>
 | Feld1 = -
 | REG = Ludo Graham
 | EA = 1999-12-09
+| ZF = Die Verbindung zwischen Essen und Lust wird seit langem anerkannt. Forscher untersuchen nun die Wirkung von Lebensmitteln auf die Libido. Studien zeigen, dass Trüffel, Schokolade und Austern tatsächlich die sexuelle Lust steigern können. Sogar der Duft von Essen kann den sexuellen Appetit anregen. Der Neurologe Alan Hirsch untersucht den Einfluss von Essen auf das sexuelle Empfinden und behauptet, dass Männer, die Frauen verführen wollen, auf Parfüm verzichten und stattdessen Lakritze verwenden sollten. Dieses Ergebnis könnte der Kosmetikbranche missfallen.
 }}
 }}
 
