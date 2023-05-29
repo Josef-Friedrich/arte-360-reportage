@@ -1,9 +1,9 @@
 [tool.poetry]
 name = "arte-360-reportage"
 version = "0.1.0"
-description = "A collection of boilerplate files and templates for my Python projects."
+description = "Management script for data collection in various file format (JSON, YAML) of the German and French TV show “Arte 360°-Reportage”."
 authors = ["Josef Friedrich <josef@friedrich.rocks>"]
-readme = "README.rst"
+readme = "README.md"
 repository = "https://github.com/Josef-Friedrich/arte-360-reportage"
 license = "MIT" # GPL-3.0-only LGPL-2.1-only
 # https://pypi.org/classifiers/
@@ -12,19 +12,11 @@ classifiers = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.8"
-Sphinx = "^5.0.2"
+python = "^3.10"
+google-api-python-client = "^2.87.0"
+google-api-python-client-stubs = "^1.17.0"
+beautifulsoup4 = "^4.12.2"
 
-[tool.poetry.group.dev.dependencies]
-beautifulsoup4 = "^4.11.1"
-pytest = "^5.2"
-mypy = "^0.961"
-autopep8 = "^1.6.0"
-readme-patcher = "^0.5.0"
-# readme-patcher = { path = "../readme_patcher", develop = true }
-tox = "^3.25.1"
-black = "^22.6.0"
-isort = "^5.10.1"
 
 [build-system]
 requires = ["poetry>=1.4.2"]
