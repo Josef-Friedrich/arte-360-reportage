@@ -905,7 +905,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 108
 | NR_ST = 4
-| OT = Party für eine Leiche - Das Fest der Ahnen in Madagaskar<ref>Internetquellen zur Episode ''„Party für eine Leiche - Das Fest der Ahnen in Madagaskar“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/108-party-fuer-eine-leiche-das-fest-der-ahnen-in-madagaskar-339429 108] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/108-party-fuer-eine-leiche-das-fest-der-ahnen-in-madagaskar-339429 339429], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641966 S04E04] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641966 4641966], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042940 tt1042940], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=VT0H2Jc0TQA VT0H2Jc0TQA]</ref>
+| OT = Party für eine Leiche<ref>Internetquellen zur Episode ''„Party für eine Leiche“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/108-party-fuer-eine-leiche-das-fest-der-ahnen-in-madagaskar-339429 108] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/108-party-fuer-eine-leiche-das-fest-der-ahnen-in-madagaskar-339429 339429], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641966 S04E04] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641966 4641966], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042940 tt1042940], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=rw8zynFSFJo rw8zynFSFJo]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-02-07
@@ -921,7 +921,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 110
 | NR_ST = 6
-| OT = Hongkongs fliegende Küchen<ref>Internetquellen zur Episode ''„Hongkongs fliegende Küchen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/110-hongkongs-fliegende-kuechen-339431 110] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/110-hongkongs-fliegende-kuechen-339431 339431], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641968 S04E06] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641968 4641968], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042937 tt1042937], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=tuvJUdvYD_A tuvJUdvYD_A]</ref>
+| OT = Hongkongs fliegende Küchen<ref>Internetquellen zur Episode ''„Hongkongs fliegende Küchen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/110-hongkongs-fliegende-kuechen-339431 110] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/110-hongkongs-fliegende-kuechen-339431 339431], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641968 S04E06] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641968 4641968], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042937 tt1042937], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=tsr8CmfJ4cY tsr8CmfJ4cY]</ref>
 | Feld1 = -
 | REG = Stefan Pannen
 | EA = 2002-03-05
@@ -961,7 +961,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 115
 | NR_ST = 11
-| OT = Sinfonie der Straße - Kinderorchester in Venezuela<ref>Internetquellen zur Episode ''„Sinfonie der Straße - Kinderorchester in Venezuela“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/115-sinfonie-der-strasse-kinderorchester-in-venezuela-339437 115] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/115-sinfonie-der-strasse-kinderorchester-in-venezuela-339437 339437], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641973 S04E11] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641973 4641973], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042943 tt1042943], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=N-uzrMPGm3w N-uzrMPGm3w]</ref>
+| OT = Sinfonie der Straße<ref>Internetquellen zur Episode ''„Sinfonie der Straße“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/115-sinfonie-der-strasse-kinderorchester-in-venezuela-339437 115] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/115-sinfonie-der-strasse-kinderorchester-in-venezuela-339437 339437], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641973 S04E11] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641973 4641973], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042943 tt1042943], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=XqG2GkP4BqI XqG2GkP4BqI]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-04-03
@@ -1081,7 +1081,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 130
 | NR_ST = 26
-| OT = Der Blechmusik-Oscar<ref>Internetquellen zur Episode ''„Der Blechmusik-Oscar“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/130-der-blechmusik-oscar-339455 130] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/130-der-blechmusik-oscar-339455 339455], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641988 S04E26] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641988 4641988], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1051728 tt1051728], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=OZGiwkf-WqI OZGiwkf-WqI]</ref>
+| OT = Der Blechmusik-Oscar<ref>Internetquellen zur Episode ''„Der Blechmusik-Oscar“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/130-der-blechmusik-oscar-339455 130] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/130-der-blechmusik-oscar-339455 339455], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641988 S04E26] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641988 4641988], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1051728 tt1051728], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=mw6CLMWS17k mw6CLMWS17k]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-10-09
@@ -1188,7 +1188,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 142
 | NR_ST = 7
-| OT = Die Hightech-Oase - Auf der größten Milchfarm der Welt<ref>Internetquellen zur Episode ''„Die Hightech-Oase - Auf der größten Milchfarm der Welt“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/142-die-hightech-oase-auf-der-groessten-milchfarm-der-welt-339467 142] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/142-die-hightech-oase-auf-der-groessten-milchfarm-der-welt-339467 339467], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642000 S05E07] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642000 4642000], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1623060 tt1623060], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=sESu-VYdVFQ sESu-VYdVFQ]</ref>
+| OT = Die Hightech-Oase<ref>Internetquellen zur Episode ''„Die Hightech-Oase“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/142-die-hightech-oase-auf-der-groessten-milchfarm-der-welt-339467 142] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/142-die-hightech-oase-auf-der-groessten-milchfarm-der-welt-339467 339467], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642000 S05E07] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642000 4642000], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1623060 tt1623060], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=8gLLh2teor4 8gLLh2teor4]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2003-02-05
@@ -1252,7 +1252,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 150
 | NR_ST = 15
-| OT = Die Seelensammler von Bangkok<ref>Internetquellen zur Episode ''„Die Seelensammler von Bangkok“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/150-die-seelensammler-von-bangkok-von-freiwilligen-rettungshelfern-339478 150] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/150-die-seelensammler-von-bangkok-von-freiwilligen-rettungshelfern-339478 339478], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642008 S05E15] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642008 4642008], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=kqy7qmiDe64 kqy7qmiDe64]</ref>
+| OT = Die Seelensammler von Bangkok<ref>Internetquellen zur Episode ''„Die Seelensammler von Bangkok“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/150-die-seelensammler-von-bangkok-von-freiwilligen-rettungshelfern-339478 150] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/150-die-seelensammler-von-bangkok-von-freiwilligen-rettungshelfern-339478 339478], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642008 S05E15] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642008 4642008], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=ra8dlxRJWkc ra8dlxRJWkc]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2003-04-09
