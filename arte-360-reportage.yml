@@ -1813,7 +1813,7 @@ seasons:
         fernsehserien_episode_id: 339351
         thetvdb_season_episode: S02E32
         thetvdb_episode_id: 4824568
-        youtube_video_id: yMRU2rYV9cY
+        youtube_video_id: xI5D3TCuoYM
     -   overall_no: 73
         season_no: 2
         episode_no: 33
@@ -1943,7 +1943,7 @@ seasons:
         fernsehserien_episode_id: 339357
         thetvdb_season_episode: S03E02
         thetvdb_episode_id: 4641936
-        youtube_video_id: YIkyylhDf78
+        youtube_video_id: L1bcEWTOHm4
     -   overall_no: 79
         season_no: 3
         episode_no: 3
@@ -2000,7 +2000,8 @@ seasons:
     -   overall_no: 82
         season_no: 3
         episode_no: 6
-        title: Retter des Nebelwaldes
+        title: Im Einsatz für den Nebelwald
+        alias: Retter des Nebelwaldes
         description: 'Wilfried Merle und Klaus Müller gingen in den 60er-Jahren
             als Entwicklungshelfer nach Venezuela. Auf der Halbinsel Paria
             haben sie ihr persönliches Paradies gefunden und sich der Rettung
@@ -2012,6 +2013,7 @@ seasons:
         fernsehserien_episode_id: 339364
         thetvdb_season_episode: S03E06
         thetvdb_episode_id: 4641940
+        youtube_video_id: gcOIjyneLdc
     -   overall_no: 83
         season_no: 3
         episode_no: 7
@@ -2031,7 +2033,8 @@ seasons:
     -   overall_no: 84
         season_no: 3
         episode_no: 8
-        title: Die Adern von Berlin - Der Wasserkreislauf einer Metropole
+        title: Die Adern von Berlin
+        alias: Die Adern von Berlin - Der Wasserkreislauf einer Metropole
         description: 'Nach der Wende wurden die Trinkwassernetze von Ost-
             und Westberlin verbunden und auf 7.700 Kilometer erweitert. Das
             kostbare Nass kommt jedoch nie zur Ruhe. Immer wieder wird es
@@ -2061,7 +2064,7 @@ seasons:
         imdb_episode_id: tt1007056
         thetvdb_season_episode: S03E09
         thetvdb_episode_id: 4641943
-        youtube_video_id: ZbGyoSRZNNA
+        youtube_video_id: 9DqxNEBmpd8
     -   overall_no: 86
         season_no: 3
         episode_no: 10
@@ -2079,7 +2082,7 @@ seasons:
         imdb_episode_id: tt1007042
         thetvdb_season_episode: S03E10
         thetvdb_episode_id: 4641944
-        youtube_video_id: n3SiL7t9T_s
+        youtube_video_id: X_u4jC40L_Q
     -   overall_no: 87
         season_no: 3
         episode_no: 11
@@ -2152,7 +2155,7 @@ seasons:
         imdb_episode_id: tt1007047
         thetvdb_season_episode: S03E14
         thetvdb_episode_id: 4641948
-        youtube_video_id: qUfiXyZwcbw
+        youtube_video_id: qoO1ZxQk_iQ
     -   overall_no: 91
         season_no: 3
         episode_no: 15
@@ -2229,7 +2232,8 @@ seasons:
     -   overall_no: 95
         season_no: 3
         episode_no: 19
-        title: Wasser im Tank
+        title: Wasserstoff im Tank
+        alias: Wasser im Tank
         description: 'Das Auto der Zukunft fährt mit Wasserstoff, aus seinem
             Auspuff kommt nichts als Wasser. In Sacramento, Kalifornien, forschen
             DaimlerChrysler, Honda, Ford und Volkswagen gemeinsam an einem
@@ -2243,7 +2247,7 @@ seasons:
         imdb_episode_id: tt1007059
         thetvdb_season_episode: S03E19
         thetvdb_episode_id: 4641953
-        youtube_video_id: U2ZGceieMCI
+        youtube_video_id: H-U9h4gjRpQ
     -   overall_no: 96
         season_no: 3
         episode_no: 20

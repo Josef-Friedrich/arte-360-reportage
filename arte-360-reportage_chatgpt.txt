@@ -303,7 +303,7 @@ s3e5 Die Baustelle des Herrn
 
 Fasse folgenden Text auf Deutsch in 75 Wörtern zusammen: Justo Gallego Martinez folgte vor 40 Jahren einer Eingebung und begann, eine eigene Kathedrale zu bauen. Die Kirche in einer Madrider Vorstadt wird nicht etwa von einer Baufirma errichtet, sondern von dem mittlerweile 75-Jährigen selbst.
 
-s3e6 Retter des Nebelwaldes
+s3e6 Im Einsatz für den Nebelwald
 
 Fasse folgenden Text auf Deutsch in 75 Wörtern zusammen: Wilfried Merle und Klaus Müller gingen in den 60er-Jahren als Entwicklungshelfer nach Venezuela. Auf der Halbinsel Paria haben sie ihr persönliches Paradies gefunden und sich der Rettung des Nebelwaldes verschrieben.
 
@@ -311,7 +311,7 @@ s3e7 Hollywood auf dem Trockenen
 
 Fasse folgenden Text auf Deutsch in 75 Wörtern zusammen: Fast zehn Millionen Menschen leben im Großraum Los Angeles, inmitten der südkalifornischen Wüste. Die eigenen Süßwasserreserven sind längst ausgeschöpft. Die Stadt lebt von Wasserimporten aus der Umgebung, ein skrupelloses Geschäft.
 
-s3e8 Die Adern von Berlin - Der Wasserkreislauf einer Metropole
+s3e8 Die Adern von Berlin
 
 Fasse folgenden Text auf Deutsch in 75 Wörtern zusammen: Nach der Wende wurden die Trinkwassernetze von Ost- und Westberlin verbunden und auf 7.700 Kilometer erweitert. Das kostbare Nass kommt jedoch nie zur Ruhe. Immer wieder wird es gepumpt, gefiltert, geflockt und umgewälzt.
 
@@ -355,7 +355,7 @@ s3e18 Buzkashi - Spiel der Steppenreiter
 
 Fasse folgenden Text auf Deutsch in 75 Wörtern zusammen: Das Buzkashi-Spiel ist ein uraltes Reiterspiel der Tadschiken um einen Tierkadaver, das auf Dschingis Khan zurückgeht und dessen Tradition noch heute gepflegt wird. „360° - Die Geo-Reportage“ begleitet einen der Teilnehmer zum größten Wettkampf des Jahres.
 
-s3e19 Wasser im Tank
+s3e19 Wasserstoff im Tank
 
 Fasse folgenden Text auf Deutsch in 75 Wörtern zusammen: Das Auto der Zukunft fährt mit Wasserstoff, aus seinem Auspuff kommt nichts als Wasser. In Sacramento, Kalifornien, forschen DaimlerChrysler, Honda, Ford und Volkswagen gemeinsam an einem erdölunabhängigen und völlig emissionsfreien Auto, das schon bald über die Straßen rollen könnte.
 

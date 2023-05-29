@@ -507,7 +507,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 61
 | NR_ST = 21
-| OT = Im Reich der Meere: Das Fenster zum Meer - Im Großaquarium von Sydney<ref>Internetquellen zur Episode ''„Im Reich der Meere: Das Fenster zum Meer - Im Großaquarium von Sydney“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/61-im-reich-der-meere-das-fenster-zum-meer-im-grossaquarium-von-sydney-339341 61] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/61-im-reich-der-meere-das-fenster-zum-meer-im-grossaquarium-von-sydney-339341 339341], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824557 S02E21] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824557 4824557], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=0QK0oUCiGSk 0QK0oUCiGSk]</ref>
+| OT = Im Reich der Meere: Das Fenster zum Meer - Im Großaquarium von Sydney<ref>Internetquellen zur Episode ''„Im Reich der Meere: Das Fenster zum Meer - Im Großaquarium von Sydney“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/61-im-reich-der-meere-das-fenster-zum-meer-im-grossaquarium-von-sydney-339341 61] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/61-im-reich-der-meere-das-fenster-zum-meer-im-grossaquarium-von-sydney-339341 339341], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824557 S02E21] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824557 4824557], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=pr77EnZFwug pr77EnZFwug]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2000-09-04
@@ -579,7 +579,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 70
 | NR_ST = 30
-| OT = Leben am Limit / Grenzen des Körpers: Apnoe-Taucher - Im Tiefenrausch<ref>Internetquellen zur Episode ''„Leben am Limit / Grenzen des Körpers: Apnoe-Taucher - Im Tiefenrausch“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/70-leben-am-limit-grenzen-des-koerpers-apnoe-taucher-im-tiefenrausch-339349 70] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/70-leben-am-limit-grenzen-des-koerpers-apnoe-taucher-im-tiefenrausch-339349 339349], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824566 S02E30] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824566 4824566], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=j00DR-wJURo j00DR-wJURo]</ref>
+| OT = Leben am Limit / Grenzen des Körpers: Apnoe-Taucher - Im Tiefenrausch<ref>Internetquellen zur Episode ''„Leben am Limit / Grenzen des Körpers: Apnoe-Taucher - Im Tiefenrausch“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/70-leben-am-limit-grenzen-des-koerpers-apnoe-taucher-im-tiefenrausch-339349 70] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/70-leben-am-limit-grenzen-des-koerpers-apnoe-taucher-im-tiefenrausch-339349 339349], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824566 S02E30] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824566 4824566], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=jCzsdDS3yRI jCzsdDS3yRI]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2000-11-07
@@ -587,7 +587,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 71
 | NR_ST = 31
-| OT = Leben am Limit / Grenzen des Körpers: Radrennen - Ewiger Endspurt<ref>Internetquellen zur Episode ''„Leben am Limit / Grenzen des Körpers: Radrennen - Ewiger Endspurt“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/71-leben-am-limit-grenzen-des-koerpers-radrennen-ewiger-endspurt-339350 71] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/71-leben-am-limit-grenzen-des-koerpers-radrennen-ewiger-endspurt-339350 339350], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824567 S02E31] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824567 4824567], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=liSvczCI4aE liSvczCI4aE]</ref>
+| OT = Leben am Limit / Grenzen des Körpers: Radrennen - Ewiger Endspurt<ref>Internetquellen zur Episode ''„Leben am Limit / Grenzen des Körpers: Radrennen - Ewiger Endspurt“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/71-leben-am-limit-grenzen-des-koerpers-radrennen-ewiger-endspurt-339350 71] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/71-leben-am-limit-grenzen-des-koerpers-radrennen-ewiger-endspurt-339350 339350], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824567 S02E31] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824567 4824567], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=gqUU0m2KVqg gqUU0m2KVqg]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2000-11-08
@@ -595,7 +595,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 72
 | NR_ST = 32
-| OT = Leben am Limit / Grenzen des Körpers: Sadhus - Heilige Aussteiger<ref>Internetquellen zur Episode ''„Leben am Limit / Grenzen des Körpers: Sadhus - Heilige Aussteiger“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/72-leben-am-limit-grenzen-des-koerpers-sadhus-heilige-aussteiger-339351 72] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/72-leben-am-limit-grenzen-des-koerpers-sadhus-heilige-aussteiger-339351 339351], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824568 S02E32] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824568 4824568], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=yMRU2rYV9cY yMRU2rYV9cY]</ref>
+| OT = Leben am Limit / Grenzen des Körpers: Sadhus - Heilige Aussteiger<ref>Internetquellen zur Episode ''„Leben am Limit / Grenzen des Körpers: Sadhus - Heilige Aussteiger“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/72-leben-am-limit-grenzen-des-koerpers-sadhus-heilige-aussteiger-339351 72] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/72-leben-am-limit-grenzen-des-koerpers-sadhus-heilige-aussteiger-339351 339351], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824568 S02E32] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824568 4824568], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=xI5D3TCuoYM xI5D3TCuoYM]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2000-11-09
@@ -654,7 +654,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 78
 | NR_ST = 2
-| OT = Überleben in der Wüste: Die Frucht, die aus der Dürre kam<ref>Internetquellen zur Episode ''„Überleben in der Wüste: Die Frucht, die aus der Dürre kam“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/78-ueberleben-in-der-wueste-die-frucht-die-aus-der-duerre-kam-339357 78] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/78-ueberleben-in-der-wueste-die-frucht-die-aus-der-duerre-kam-339357 339357], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641936 S03E02] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641936 4641936], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=YIkyylhDf78 YIkyylhDf78]</ref>
+| OT = Überleben in der Wüste: Die Frucht, die aus der Dürre kam<ref>Internetquellen zur Episode ''„Überleben in der Wüste: Die Frucht, die aus der Dürre kam“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/78-ueberleben-in-der-wueste-die-frucht-die-aus-der-duerre-kam-339357 78] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/78-ueberleben-in-der-wueste-die-frucht-die-aus-der-duerre-kam-339357 339357], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641936 S03E02] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641936 4641936], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=L1bcEWTOHm4 L1bcEWTOHm4]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2001-01-03
@@ -686,7 +686,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 82
 | NR_ST = 6
-| OT = Retter des Nebelwaldes<ref>Internetquellen zur Episode ''„Retter des Nebelwaldes“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/82-retter-des-nebelwaldes-339364 82] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/82-retter-des-nebelwaldes-339364 339364], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641940 S03E06] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641940 4641940]</ref>
+| OT = Im Einsatz für den Nebelwald<ref>Internetquellen zur Episode ''„Im Einsatz für den Nebelwald“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/82-retter-des-nebelwaldes-339364 82] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/82-retter-des-nebelwaldes-339364 339364], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641940 S03E06] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641940 4641940], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=gcOIjyneLdc gcOIjyneLdc]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2001-03-06
@@ -702,7 +702,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 84
 | NR_ST = 8
-| OT = Die Adern von Berlin - Der Wasserkreislauf einer Metropole<ref>Internetquellen zur Episode ''„Die Adern von Berlin - Der Wasserkreislauf einer Metropole“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/84-die-adern-von-berlin-der-wasserkreislauf-einer-metropole-339366 84] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/84-die-adern-von-berlin-der-wasserkreislauf-einer-metropole-339366 339366], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641942 S03E08] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641942 4641942], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=rh-tBQxi6Ro rh-tBQxi6Ro]</ref>
+| OT = Die Adern von Berlin<ref>Internetquellen zur Episode ''„Die Adern von Berlin“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/84-die-adern-von-berlin-der-wasserkreislauf-einer-metropole-339366 84] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/84-die-adern-von-berlin-der-wasserkreislauf-einer-metropole-339366 339366], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641942 S03E08] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641942 4641942], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=rh-tBQxi6Ro rh-tBQxi6Ro]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2001-03-08
@@ -710,7 +710,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 85
 | NR_ST = 9
-| OT = Operation Alpentunnel<ref>Internetquellen zur Episode ''„Operation Alpentunnel“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/85-operation-alpentunnel-339367 85] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/85-operation-alpentunnel-339367 339367], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641943 S03E09] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641943 4641943], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007056 tt1007056], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=ZbGyoSRZNNA ZbGyoSRZNNA]</ref>
+| OT = Operation Alpentunnel<ref>Internetquellen zur Episode ''„Operation Alpentunnel“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/85-operation-alpentunnel-339367 85] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/85-operation-alpentunnel-339367 339367], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641943 S03E09] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641943 4641943], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007056 tt1007056], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=9DqxNEBmpd8 9DqxNEBmpd8]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2001-04-09
@@ -718,7 +718,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 86
 | NR_ST = 10
-| OT = Brücke in den Orient<ref>Internetquellen zur Episode ''„Brücke in den Orient“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/86-bruecke-in-den-orient-339368 86] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/86-bruecke-in-den-orient-339368 339368], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641944 S03E10] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641944 4641944], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007042 tt1007042], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=n3SiL7t9T_s n3SiL7t9T_s]</ref>
+| OT = Brücke in den Orient<ref>Internetquellen zur Episode ''„Brücke in den Orient“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/86-bruecke-in-den-orient-339368 86] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/86-bruecke-in-den-orient-339368 339368], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641944 S03E10] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641944 4641944], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007042 tt1007042], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=X_u4jC40L_Q X_u4jC40L_Q]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2001-04-10
@@ -750,7 +750,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 90
 | NR_ST = 14
-| OT = Die Erbin Gandhis - Widerstand gegen einen Staudamm<ref>Internetquellen zur Episode ''„Die Erbin Gandhis - Widerstand gegen einen Staudamm“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/90-die-erbin-gandhis-widerstand-gegen-einen-staudamm-339408 90] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/90-die-erbin-gandhis-widerstand-gegen-einen-staudamm-339408 339408], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641948 S03E14] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641948 4641948], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007047 tt1007047], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=qUfiXyZwcbw qUfiXyZwcbw]</ref>
+| OT = Die Erbin Gandhis - Widerstand gegen einen Staudamm<ref>Internetquellen zur Episode ''„Die Erbin Gandhis - Widerstand gegen einen Staudamm“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/90-die-erbin-gandhis-widerstand-gegen-einen-staudamm-339408 90] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/90-die-erbin-gandhis-widerstand-gegen-einen-staudamm-339408 339408], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641948 S03E14] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641948 4641948], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007047 tt1007047], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=qoO1ZxQk_iQ qoO1ZxQk_iQ]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2001-05-01
@@ -790,7 +790,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 95
 | NR_ST = 19
-| OT = Wasser im Tank<ref>Internetquellen zur Episode ''„Wasser im Tank“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/95-wasser-im-tank-339414 95] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/95-wasser-im-tank-339414 339414], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641953 S03E19] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641953 4641953], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007059 tt1007059], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=U2ZGceieMCI U2ZGceieMCI]</ref>
+| OT = Wasserstoff im Tank<ref>Internetquellen zur Episode ''„Wasserstoff im Tank“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/95-wasser-im-tank-339414 95] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/95-wasser-im-tank-339414 339414], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641953 S03E19] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641953 4641953], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007059 tt1007059], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=H-U9h4gjRpQ H-U9h4gjRpQ]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2001-06-06
