@@ -2,21 +2,18 @@
 
 from __future__ import annotations
 
+import abc
 import argparse
 import difflib
 import json
+import pathlib
 import re
 import typing
 from datetime import date
-import abc
 
-import pathlib
-
-import googleapiclient
-
-import requests
 import bs4
-
+import googleapiclient
+import requests
 import termcolor
 import yaml
 
@@ -122,8 +119,8 @@ class YouTube:
         keys = json.load(open(pathlib.Path.home() / ".youtube-api.json", mode="r"))
         return keys["api_key"]
 
-    def get_youtube_resource(self, key: str)-> typing.Any:
-        return googleapiclient.discovery.build( # type: ignore
+    def get_youtube_resource(self, key: str) -> typing.Any:
+        return googleapiclient.discovery.build(  # type: ignore
             self.YOUTUBE_API_SERVICE_NAME, self.YOUTUBE_API_VERSION, developerKey=key
         )
 
@@ -159,9 +156,12 @@ class YouTube:
 
         return result
 
-
     def get_playlist_id_of_channel(self, channel_id: str) -> str | None:
-        result = self.resource.channels().list(part="contentDetails", id=channel_id).execute()
+        result = (
+            self.resource.channels()
+            .list(part="contentDetails", id=channel_id)
+            .execute()
+        )
 
         if "items" in result:
             if len(result["items"]) > 0:
@@ -172,7 +172,6 @@ class YouTube:
                         related_playlists = content_details["relatedPlaylists"]
                         if "uploads" in related_playlists:
                             return related_playlists["uploads"]
-
 
     def fetch_videos_by_channel(self, channel_id: str):
         playlist_id = self.get_playlist_id_of_channel(channel_id)
