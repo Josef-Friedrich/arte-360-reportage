@@ -295,7 +295,7 @@ class EpisodeData(typing.TypedDict):
     """Longest description that can be found"""
 
     description_short: str
-    """two sentences generate by openai"""
+    """Auto-generated with chatgpt: ``Fasse folgenden Text auf Deutsch in 75 Wörtern zusammen: ``"""
 
     director: str
     """Regie"""

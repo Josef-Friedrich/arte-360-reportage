@@ -89,7 +89,7 @@
 | NR_ST = 10
 | OT = Auf dem Holzweg<ref>Internetquellen zur Episode ''„Auf dem Holzweg“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/10-regenwald-auf-dem-holzweg-339125 10] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/10-regenwald-auf-dem-holzweg-339125 339125], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641902 S01E10] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641902 4641902], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=XAyYoAetjuQ XAyYoAetjuQ]</ref>
 | Feld1 = -
-| REG = -
+| REG = Thomas Wartmann
 | EA = 1999-03-02
 }}
 {{Episodenlisteneintrag
