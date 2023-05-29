@@ -10,6 +10,10 @@ import typing
 from datetime import date
 import abc
 
+import pathlib
+
+import googleapiclient
+
 import requests
 import bs4
 
@@ -59,12 +63,12 @@ class Utils:
 class Yaml:
     @staticmethod
     def load(filepath: str) -> typing.Any:
-        with open(filepath, "r") as y:
+        with open(filepath, mode="r") as y:
             return yaml.load(y, Loader=yaml.Loader)
 
     @staticmethod
     def save(filepath: str, data: typing.Any) -> None:
-        with open(filepath, "w") as y:
+        with open(filepath, mode="w") as y:
             yaml.dump(
                 data,
                 stream=y,
@@ -100,6 +104,81 @@ class Markdown:
 
 
 ### scraper ###################################################################
+
+
+class YouTube:
+
+    YOUTUBE_API_SERVICE_NAME = "youtube"
+
+    YOUTUBE_API_VERSION = "v3"
+
+    resource: typing.Any
+
+    def __init__(self):
+        key = self.__load_key()
+        self.resource = self.get_youtube_resource(key)
+
+    def __load_key(self) -> str:
+        keys = json.load(open(pathlib.Path.home() / ".youtube-api.json", mode="r"))
+        return keys["api_key"]
+
+    def get_youtube_resource(self, key: str)-> typing.Any:
+        return googleapiclient.discovery.build( # type: ignore
+            self.YOUTUBE_API_SERVICE_NAME, self.YOUTUBE_API_VERSION, developerKey=key
+        )
+
+    def fetch_videos_by_playlist(self, playlist_id: str):
+
+        result = (
+            self.resource.playlistItems()
+            .list(part="snippet", playlistId=playlist_id, maxResults=50)
+            .execute()
+        )
+
+        next_page_token = result.get("nextPageToken")  # type: ignore
+        while "nextPageToken" in result:
+            if not next_page_token:
+                continue
+            next_page = (
+                self.resource.playlistItems()
+                .list(
+                    part="snippet",
+                    playlistId=playlist_id,
+                    maxResults=50,
+                    pageToken=next_page_token,
+                )
+                .execute()
+            )
+            if "items" in result and "items" in next_page:
+                result["items"] = result["items"] + next_page["items"]
+
+            if "nextPageToken" not in next_page:
+                result.pop("nextPageToken", None)
+            else:
+                next_page_token: str = next_page["nextPageToken"]
+
+        return result
+
+
+    def get_playlist_id_of_channel(self, channel_id: str) -> str | None:
+        result = self.resource.channels().list(part="contentDetails", id=channel_id).execute()
+
+        if "items" in result:
+            if len(result["items"]) > 0:
+                channel = result["items"][0]
+                if "contentDetails" in channel:
+                    content_details = channel["contentDetails"]
+                    if "relatedPlaylists" in content_details:
+                        related_playlists = content_details["relatedPlaylists"]
+                        if "uploads" in related_playlists:
+                            return related_playlists["uploads"]
+
+
+    def fetch_videos_by_channel(self, channel_id: str):
+        playlist_id = self.get_playlist_id_of_channel(channel_id)
+        if not playlist_id:
+            raise Exception(f"No upload playlist found for channel {channel_id}")
+        return self.fetch_videos_by_playlist(playlist_id)
 
 
 class Scrapper:
