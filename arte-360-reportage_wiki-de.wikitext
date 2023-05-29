@@ -5077,29 +5077,32 @@
 | REG = Dietrich von Richthofen
 | EA = 2022-11-05
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 603
 | NR_ST = 26
 | OT = Marquesas-Inseln, das Comeback der Tattoos<ref>Internetquellen zur Episode ''„Marquesas-Inseln, das Comeback der Tattoos“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/604-marquesas-inseln-das-comeback-der-tattoos-1596812 604] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/604-marquesas-inseln-das-comeback-der-tattoos-1596812 1596812], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9524023 S24E26] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9524023 9524023], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt23747588 tt23747588]</ref>
 | Feld1 = Îles Marquises, le tatouage dans la peau
 | REG = Luigi Maria Perotti
 | EA = 2022-11-19
+| ZF = Heretu Tetahiotupa und Teiki Huukena sind Pioniere der neuen Tattoo-Bewegung auf den Marquesas-Inseln. Sie gründeten eine Tätowierschule, um das alte Wissen über Marquesas-Motive zu bewahren. Die Bedeutung der Tattoos ging verloren, aber Heretu und Teiki erforschen den Dschungel nach Hinweisen. Die Symbole sind Fenster in die Vergangenheit und stammen von früheren Inselstämmen. Die Marquesas sind heute politisch und wirtschaftlich an Frankreich angebunden. Heretus hat sich Gesichtstattoo stechen und gehört damit zur Avantgarde der neuen Tattoo-Bewegung. Die Zukunft der martialisch anmutenden Tattoos in der modernen Welt bleibt abzuwarten.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 604
 | NR_ST = 27
 | OT = Die Schweizergarde - Ein Leben für den Papst<ref>Internetquellen zur Episode ''„Die Schweizergarde - Ein Leben für den Papst“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/605-die-schweizergarde-ein-leben-fuer-den-papst-1602010 605] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/605-die-schweizergarde-ein-leben-fuer-den-papst-1602010 1602010], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9524024 S24E27] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9524024 9524024], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt23985080 tt23985080]</ref>
 | Feld1 = Vatican, en coulisse avec les Gardes suisses
 | REG = Alessandro Cassigoli
 | EA = 2022-12-03
+| ZF = Die Schweizer Garde schützt seit über 700 Jahren den Papst und den Vatikan. Sie sichern die Eingänge zum Vatikan und begleiten den Papst bei Gottesdiensten und Audienzen. Tag und Nacht stehen sie in Uniform und Rüstung auf ihren Posten. Lukas und Dominique sind Gardisten aus der Schweiz und haben eine strenge Ausbildung absolviert. Sie haben sich dem Schutz des Papstes verschrieben und sind bereit, ihr Leben dafür zu geben.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 605
 | NR_ST = 28
 | OT = Island, die wertvollsten Daunen der Welt<ref>Internetquellen zur Episode ''„Island, die wertvollsten Daunen der Welt“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/606-island-die-wertvollsten-daunen-der-welt-1602943 606] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/606-island-die-wertvollsten-daunen-der-welt-1602943 1602943], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9524025 S24E28] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9524025 9524025], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt24220972 tt24220972]</ref>
 | Feld1 = Islande, des plumes qui valent de l'or
 | REG = Marc Mühldorfer
 | EA = 2022-12-10
+| ZF = Im Loðmundarfjörður auf Island sammeln Farmer Eiderenten-Daunen, die zu wertvollen Kissen und Decken verarbeitet werden. Óðinn Logi rettet gefährdete Enteneier und züchtet die Küken in seiner Garage. Íris Birgisdóttir hat die Farm ihres Onkels zur Eiderentenfarm umgewandelt und betreibt sie allein mit ihrer Tochter. Ólafur erntet in dieser Saison über 300 Kilogramm Daunen, ohne den Enten Schaden zuzufügen. Die Zukunft der Branche bleibt ungewiss.
 }}
 {{Episodenlisteneintrag2
 | NR_GES = 606
