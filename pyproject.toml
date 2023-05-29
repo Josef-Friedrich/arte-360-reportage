@@ -16,6 +16,9 @@ python = "^3.10"
 google-api-python-client = "^2.87.0"
 google-api-python-client-stubs = "^1.17.0"
 beautifulsoup4 = "^4.12.2"
+requests = "^2.31.0"
+termcolor = "^2.3.0"
+pyyaml = "^6.0"
 
 
 [build-system]
@@ -24,4 +27,4 @@ build-backend = "poetry.masonry.api"
 
 
 [tool.poetry.scripts]
-"arte-360-reportage.py" = "python_project_boilerplate:print_version"
+"arte-360-reportage.py" = "arte_360_reportage:main"
