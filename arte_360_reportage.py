@@ -692,8 +692,10 @@ class Wiki:
         return "<ref>" + content + "</ref>"
 
     @staticmethod
-    def link(url: str, title: str) -> str:
+    def link(title: str | typing.Any | None, url: str | None) -> str:
         """https://de.wikipedia.org/wiki/Hilfe:Links#Links_zu_externen_Webseiten_(Weblinks,_URLs)"""
+        if not title or not url:
+            return ""
         return f"[{url} {title}]"
 
     @staticmethod
@@ -788,6 +790,65 @@ class WikiTemplate(abc.ABC):
 
 class DeWiki(WikiTemplate):
     @staticmethod
+    def ref(episode: Episode) -> str:
+        def link_fernsehserien(episode: Episode) -> str:
+            if not episode.fernsehserien_episode_no:
+                return ""
+            return (
+                "Folge "
+                + Wiki.link(episode.fernsehserien_episode_no, episode.fernsehserien_url)
+                + " Folgen-ID "
+                + Wiki.link(episode.fernsehserien_episode_id, episode.fernsehserien_url)
+            )
+
+        def link_youtube(episode: Episode) -> str:
+            if not episode.youtube_video_id:
+                return ""
+            return "Video-ID " + Wiki.link(
+                episode.youtube_video_id, episode.youtube_url
+            )
+
+        def link_imdb(episode: Episode) -> str:
+            if not episode.imdb_episode_id:
+                return ""
+            return "Titel-ID " + Wiki.link(episode.imdb_episode_id, episode.imdb_url)
+
+        def link_thetvdb(episode: Episode) -> str:
+            if not episode.thetvdb_season_episode:
+                return ""
+            return (
+                "Staffel/Episode "
+                + Wiki.link(episode.thetvdb_season_episode, episode.thetvdb_url)
+                + " Episoden-ID "
+                + Wiki.link(episode.thetvdb_episode_id, episode.thetvdb_url)
+            )
+
+        links: list[str] = []
+
+        def prefix_caption(caption: str, link: str) -> str:
+            return f"''{caption}'': {link}"
+
+        def append(caption: str, link: str | None) -> None:
+            if link and link != "":
+                links.append(prefix_caption(caption, link))
+
+        if episode.fernsehserien_episode_no:
+            append("fernsehserien.de", link_fernsehserien(episode))
+
+        if episode.thetvdb_season_episode:
+            append("thetvdb.com", link_thetvdb(episode))
+
+        if episode.imdb_episode_id:
+            append("imdb.com", link_imdb(episode))
+
+        if episode.youtube_video_id:
+            append("youtube.com", link_youtube(episode))
+
+        return Wiki.ref(
+            f"Internetquellen zur Episode ''„{episode.title}“'': " + ", ".join(links)
+        )
+
+    @staticmethod
     def key(key: str, value: typing.Any) -> str:
         return f"| {key} = {value}\n"
 
@@ -800,11 +861,7 @@ class DeWiki(WikiTemplate):
         """
         key = DeWiki.key
 
-        title: str = episode.title
-        title += Wiki.ref(episode.fernsehserien_url)
-        title += Wiki.ref(episode.thetvdb_url)
-        title += Wiki.ref(episode.imdb_url)
-        title += Wiki.ref(episode.youtube_url)
+        title: str = episode.title + DeWiki.ref(episode)
 
         template = "Episodenlisteneintrag"
         summary = ""
@@ -840,7 +897,7 @@ class DeWiki(WikiTemplate):
         https://de.wikipedia.org/wiki/Vorlage:Episodenlistentabelle
         """
         return (
-            "\n=== Staffel {season.no} ({season.year}) ===\n\n"
+            f"\n=== Staffel {season.no} ({season.year}) ===\n\n"
             + "{{Episodenlistentabelle|BREITE=100%\n"
             + "| ZUSAMMENFASSUNG = nein\n"
             + "| SORTIERBAR = nein\n"
