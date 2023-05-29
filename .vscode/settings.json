@@ -6,8 +6,8 @@
     "editor.autoIndent": "advanced",
     "editor.formatOnType": true
   },
-  "ansible.python.interpreterPath": "/home/jf/.pyenv/versions/3.11.0/bin/python",
   "[python]": {
     "editor.defaultFormatter": "ms-python.black-formatter"
-  }
+  },
+  "python.defaultInterpreterPath": ".venv/bin/python"
 }

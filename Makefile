@@ -1,17 +1,22 @@
+SCRIPT = .venv/bin/arte-360-reportage.py
+
 all: json readme wiki yaml
 
 debug:
-	./arte-360-reportage.py --debug
+	$(SCRIPT) --debug
 
 json:
-	./arte-360-reportage.py --json
+	$(SCRIPT) --json
 
 readme:
-	./arte-360-reportage.py --readme
+	$(SCRIPT) --readme
 
 wiki:
-	./arte-360-reportage.py --wiki de
-	./arte-360-reportage.py --wiki fr
+	$(SCRIPT) --wiki de
+	$(SCRIPT) --wiki fr
 
 yaml:
-	./arte-360-reportage.py --yaml
+	$(SCRIPT) --yaml
+
+install:
+	poetry install
