@@ -1237,7 +1237,8 @@ seasons:
     -   overall_no: 41
         season_no: 2
         episode_no: 1
-        title: 'Naturgewalten: Ernstfall Erdbeben'
+        title: Ernstfall Erdbeben
+        topic: Naturgewalten
         description: 'Die SEEBA ist eine Einheit des Technischen Hilfswerkes,
             die Rettungsdienst bei Katastrophen leistet. Die freiwilligen
             Helfer waren unter anderem nach einem schweren Erdbeben in der
@@ -1253,8 +1254,9 @@ seasons:
     -   overall_no: 42
         season_no: 2
         episode_no: 2
-        title: 'Naturgewalten: Tsunami - die Todeswelle'
+        title: Tsunami - die Todeswelle
         alias: Tsunami - Die tödliche Welle
+        topic: Naturgewalten
         description: 'Sie erreichen Höhen von mehr als 30 Metern und rasen
             mit Geschwindigkeiten von bis zu 700 Stundenkilometern auf die
             Küsten zu: Tsunamis, alles zerstörende Riesenwellen. Wissenschaftler
@@ -1271,7 +1273,8 @@ seasons:
     -   overall_no: 43
         season_no: 2
         episode_no: 3
-        title: 'Naturgewalten: Operation Wolkenbruch'
+        title: Operation Wolkenbruch
+        topic: Naturgewalten
         description: 'Gewaltige Vulkanausbrüche und verheerende Erdbeben,
             Riesenwellen und Dürrekatastrophen: Naturgewalten lassen sich
             nicht kontrollieren. Doch immer wieder gibt es Menschen, die sich
@@ -1290,7 +1293,8 @@ seasons:
     -   overall_no: 44
         season_no: 2
         episode_no: 4
-        title: 'Naturgewalten: Im Schatten des Vulkans'
+        title: Im Schatten des Vulkans
+        topic: Naturgewalten
         description: 'Millionen von Menschen leben im Schatten von Vulkanen.
             Jeden Tag müssen sie damit rechnen, dass die schlafenden Riesen
             plötzlich zum Leben erwachen. Für die Menschen auf der Karibikinsel
@@ -1308,7 +1312,8 @@ seasons:
     -   overall_no: 45
         season_no: 2
         episode_no: 5
-        title: 'Spiele des Lebens: Casino der Häuptlinge'
+        title: Casino der Häuptlinge
+        topic: Spiele des Lebens
         description: 'Im Foxwoods-Casino haben schon viele das schnelle finanzielle
             Glück gesucht und mussten dann doch wieder als arme Schlucker
             nach Hause fahren. Die Reportage wagt einen Blick hinter die Plastikfassaden
@@ -1325,7 +1330,8 @@ seasons:
     -   overall_no: 46
         season_no: 2
         episode_no: 6
-        title: 'Spiele des Lebens: Schach - Krieg auf 64 Feldern'
+        title: Schach - Krieg auf 64 Feldern
+        topic: Spiele des Lebens
         description: 'Schach ist kein reines Strategiespiel. Es reicht nicht
             aus, nur die Regeln zu kennen. Wer siegreich sein will, muss die
             Schwächen des Gegners studieren und ausnutzen. Das in Indien erfundene
@@ -1342,7 +1348,8 @@ seasons:
     -   overall_no: 47
         season_no: 2
         episode_no: 7
-        title: 'Spiele des Lebens: Mehr als nur ein Kinderspiel'
+        title: Mehr als nur ein Kinderspiel
+        topic: Spiele des Lebens
         description: 'Generation um Generation schaffen sich Kinder im Spiel
             ihre eigene Welt. Sie toben und träumen, bauen und zerstören.
             Sie ahmen Erwachsene nach und leben ihre Fantasien aus. Doch warum
@@ -1360,7 +1367,8 @@ seasons:
     -   overall_no: 48
         season_no: 2
         episode_no: 8
-        title: 'Spiele des Lebens: Spielplatz Natur'
+        title: Spielplatz Natur
+        topic: Spiele des Lebens
         description: 'Raufende Hunde, tobende Katzen, neugierige Raben und
             selbst Fische zeigen: Spielen ist im Tierreich ein weit verbreitetes
             Phänomen. Tierforscher untersuchen, ob Spielen stets einen Lernzweck
@@ -1378,7 +1386,8 @@ seasons:
     -   overall_no: 49
         season_no: 2
         episode_no: 9
-        title: 'Die Schatzjäger: Beruf Grabräuber'
+        title: Beruf Grabräuber
+        topic: Die Schatzjäger
         description: 'Sie tauchen nach versunkenen Schiffen voller Gold und
             Juwelen, durchstreifen Wüstengebiete mit Metalldetektoren oder
             plündern antike Gräber: Moderne Schatzjäger. Die italienische
@@ -1395,7 +1404,8 @@ seasons:
     -   overall_no: 50
         season_no: 2
         episode_no: 10
-        title: 'Die Schatzjäger: Schätze aus dem All'
+        title: Schätze aus dem All
+        topic: Die Schatzjäger
         description: 'Sie tauchen nach versunkenen Schiffen, durchstreifen
             Wüstengebiete mit Metalldetektoren oder plündern antike Gräber:
             Moderne Schatzjäger. Die Dokumentation begleitet Sammler, die
@@ -1413,7 +1423,8 @@ seasons:
     -   overall_no: 51
         season_no: 2
         episode_no: 11
-        title: 'Die Schatzjäger: Die Taucher der Goldküste'
+        title: Die Taucher der Goldküste
+        topic: Die Schatzjäger
         description: 'Moderne Schatzjäger lassen nichts unversucht, mit Hilfe
             modernster Technologien Kostbarkeiten von einst zu heben. Schatzjäger
             Mo Molinar will in den Gewässern vor Florida nach der 1715 versunkenen
@@ -1430,7 +1441,8 @@ seasons:
     -   overall_no: 52
         season_no: 2
         episode_no: 12
-        title: 'Die Schatzjäger: Im Bann der Rubine'
+        title: Im Bann der Rubine
+        topic: Die Schatzjäger
         description: 'Moderne Schatzsucher sind immer auf der Suche nach etwas
             Einzigartigem. Im Niemandsland zwischen Thailand und Kambodscha
             suchen Juwelenhändler nach Rubinen. Tag für Tag riskieren Minenarbeiter
@@ -1447,7 +1459,8 @@ seasons:
     -   overall_no: 53
         season_no: 2
         episode_no: 13
-        title: 'Medizin der Zukunft: Die Klinik der Schamanen'
+        title: Die Klinik der Schamanen
+        topic: Medizin der Zukunft
         description: 'Schamanen finden die Ursachen für Krankheiten in den
             Seelen ihrer Patienten. Nikolai Orschak leitet eine Schamanenklinik
             in Sibirien. Für die Menschen in Tuwa ist er Heilpraktiker, Psychotherapeut
@@ -1464,8 +1477,9 @@ seasons:
     -   overall_no: 54
         season_no: 2
         episode_no: 14
-        title: 'Medizin der Zukunft: Organe nach Maß'
+        title: Organe nach Maß
         alias: Organe nach Maß
+        topic: Medizin der Zukunft
         description: 'Die Züchtung menschlicher Haut ist in der modernen Heilkunde
             bereits möglich, Ohr- und Gelenkknorpel werden bald folgen. Selbst
             innere Organe sollen sich eines Tages züchten lassen. Viele Kranke
@@ -1482,7 +1496,8 @@ seasons:
     -   overall_no: 55
         season_no: 2
         episode_no: 15
-        title: 'Medizin der Zukunft: Die Jäger des Lassa-Virus'
+        title: Die Jäger des Lassa-Virus
+        topic: Medizin der Zukunft
         description: 'Pro Jahr sterben mehr als 22.000 Menschen am Lassa-Fieber.
             In Deutschland erlangte die Krankheit durch den Tod der Kunststudentin
             Annegret V. traurige Berühmtheit. Der Mediziner Jan ter Meulen
@@ -1499,7 +1514,8 @@ seasons:
     -   overall_no: 56
         season_no: 2
         episode_no: 16
-        title: 'Medizin der Zukunft: Chirurgen am Joystick'
+        title: Chirurgen am Joystick
+        topic: Medizin der Zukunft
         description: 'Immer mehr Ärzte setzten auf High-Tech-Medizin. Sie
             vertrauen auf Computergesteuerte Geräte, die punktgenau eingesetzt
             werden können. Die Dokumentation beobachtet einige dieser medizinischen
@@ -1516,7 +1532,8 @@ seasons:
     -   overall_no: 57
         season_no: 2
         episode_no: 17
-        title: 'Dem Täter auf der Spur: Die Hightech-Polizei'
+        title: Die Hightech-Polizei
+        topic: Dem Täter auf der Spur
         description: 'Der Cop der Zukunft könnte einen möglichen Angreifer
             bereits im Voraus mit Wärmekameras entdecken und ihn per Computer-Erkennungssystemen
             identifizieren. In den USA sind solche Ermittlungsmethoden schon
@@ -1533,7 +1550,8 @@ seasons:
     -   overall_no: 58
         season_no: 2
         episode_no: 18
-        title: 'Dem Täter auf der Spur: Die Kunst des Fälschens'
+        title: Die Kunst des Fälschens
+        topic: Dem Täter auf der Spur
         description: '„360° - Die Geo-Reportage“ erzählt die Geschichte des
             Kunstfälscherpaares John Drewe und John Myatt und zeigt, wie bereitwillig
             sich die weltweite Kunstszene täuschen ließ. Selbst renommierte
@@ -1550,7 +1568,8 @@ seasons:
     -   overall_no: 59
         season_no: 2
         episode_no: 19
-        title: 'Dem Täter auf der Spur: Geheimnisse der Toten'
+        title: Geheimnisse der Toten
+        topic: Dem Täter auf der Spur
         description: 'Die Welt des Verbrechens fasziniert Menschen aller Kulturen,
             und so zählt der Krimi in Büchern, Filmen und Fernsehen zu den
             erfolgreichsten Genres überhaupt. Egal, ob trickreiche Kunstfälscher,
@@ -1574,8 +1593,9 @@ seasons:
     -   overall_no: 60
         season_no: 2
         episode_no: 20
-        title: 'Dem Täter auf der Spur: Psycho-Detektive'
+        title: Psycho-Detektive
         alias: Psycho-Detektive
+        topic: Dem Täter auf der Spur
         description: 'Robert Ressler ist einer der Pioniere auf dem Gebiet
             des „profiling“. In den 70er-Jahren konnte der FBI-Agent beweisen,
             dass ein psychologisches Profil helfen kann, Serienmörder zu fassen.
@@ -1592,9 +1612,9 @@ seasons:
     -   overall_no: 61
         season_no: 2
         episode_no: 21
-        title: 'Im Reich der Meere: Das Fenster zum Meer - Im Großaquarium
-            von Sydney'
+        title: Das Fenster zum Meer - Im Großaquarium von Sydney
         alias: Das Fenster zum Meer
+        topic: Im Reich der Meere
         description: 'Das Aquarium in Sydney ist eine Wunderwelt für Wasserscheue:
             Besucher können trockenen Fußes auf dem Meeresboden spazieren
             gehen und sich von der Magie der Ozeane berauschen lassen. In
@@ -1611,9 +1631,10 @@ seasons:
     -   overall_no: 62
         season_no: 2
         episode_no: 22
-        title: 'Im Reich der Meere: Schwarze Brandung - Nach der Ölkatastrophe
-            an der bretonischen Küste'
+        title: Schwarze Brandung - Nach der Ölkatastrophe an der bretonischen
+            Küste
         alias: Schwarze Brandung
+        topic: Im Reich der Meere
         description: 'Im Dezember 1999 verunglückte der Tanker „Erika“ vor
             der bretonischen Küste. Bereits einige Monate später gab die französische
             Tourismusindustrie Entwarnung, die Strände seien wieder sauber.
@@ -1630,8 +1651,9 @@ seasons:
     -   overall_no: 63
         season_no: 2
         episode_no: 23
-        title: 'Im Reich der Meere: Durst nach Meer - Neue Methoden der Trinkwassergewinnung'
+        title: Durst nach Meer - Neue Methoden der Trinkwassergewinnung
         alias: Durst nach Meer
+        topic: Im Reich der Meere
         description: 'Auf der Erde gibt es 1,4 Milliarden Kubikkilometer Wasser.
             Doch der größte Teil des Vorkommens besteht aus salzigen Meeren
             oder Dauereis. Wissenschaftler und Ingenieure in aller Welt arbeiten
@@ -1648,9 +1670,9 @@ seasons:
     -   overall_no: 64
         season_no: 2
         episode_no: 24
-        title: 'Im Reich der Meere: SOS auf hoher See - Moderne Rettungstechnik
-            im Einsatz'
+        title: SOS auf hoher See - Moderne Rettungstechnik im Einsatz
         alias: SOS auf hoher See
+        topic: Im Reich der Meere
         description: 'Für die ersten Rettungseinsätze auf See wurden noch
             Ruderboote eingesetzt. Heute sind es aufwändige High-Tech Schiffe.
             Die „Deutsche Gesellschaft zur Rettung Schiffbrüchiger“ zählt
@@ -1668,8 +1690,9 @@ seasons:
     -   overall_no: 65
         season_no: 2
         episode_no: 25
-        title: 'Die Geheimnisse des Waldes: Die Feuerpatrouille'
+        title: Die Feuerpatrouille
         alias: Die Feuerpatrouille
+        topic: Die Geheimnisse des Waldes
         description: 'Jeden Sommer brennen allein in der Provence knapp 300
             Quadratkilometer Wald ab. „360º - Geo Reportage“ begibt sich auf
             eine nervenaufreibende Feuerpatrouille durch die beliebte Urlaubsregion
@@ -1685,7 +1708,8 @@ seasons:
     -   overall_no: 66
         season_no: 2
         episode_no: 26
-        title: 'Die Geheimnisse des Waldes: Der letzte Märchenwald'
+        title: Der letzte Märchenwald
+        topic: Die Geheimnisse des Waldes
         description: 'Im Böhmerwald in Tschechien gibt es noch Urwälder, unberührte
             Hochmoore und sprudelnde Wildbäche. Doch der letzte Märchenwald
             Europas ist in Gefahr. Borkenkäfer und die touristische Erschließung
@@ -1703,8 +1727,9 @@ seasons:
     -   overall_no: 67
         season_no: 2
         episode_no: 27
-        title: 'Die Geheimnisse des Waldes: Chinas grüne Mauer'
+        title: Chinas grüne Mauer
         alias: Chinas grüne Mauer
+        topic: Die Geheimnisse des Waldes
         description: 'In China weitet sich die Wüste immer weiter aus, selbst
             Städte wie Peking werden von Sandstürmen heimgesucht. Die Bevölkerung
             führt einen verzweifelten Kampf gegen die Wüste. Schutzwälder
@@ -1722,8 +1747,9 @@ seasons:
     -   overall_no: 68
         season_no: 2
         episode_no: 28
-        title: 'Die Geheimnisse des Waldes: Die Waldfabrik'
+        title: Die Waldfabrik
         alias: Die Waldfabrik
+        topic: Die Geheimnisse des Waldes
         description: 'Der Wald ist in Finnland ein wichtiger Wirtschaftsfaktor.
             Lange Zeit versuchte man, ihn genauso zu bewirtschaften wie Felder:
             Wälder wurden komplett kahl geschlagen und wieder neu ausgesät.
@@ -1741,9 +1767,9 @@ seasons:
     -   overall_no: 69
         season_no: 2
         episode_no: 29
-        title: 'Leben am Limit / Grenzen des Körpers: Himalaja - Tödliche
-            Höhe'
+        title: Himalaja - Tödliche Höhe
         alias: Himalaja - Tödliche Höhe
+        topic: Leben am Limit / Grenzen des Körpers
         description: 'Jedes Jahr machen sich mehr und mehr Expeditionen ins
             Himalaja-Gebirge auf, um den Mount Everest oder benachbarte Gipfel
             zu besteigen. Der Kräfte zehrende Aufstieg bringt die Bergsteiger
@@ -1763,7 +1789,8 @@ seasons:
     -   overall_no: 70
         season_no: 2
         episode_no: 30
-        title: 'Leben am Limit / Grenzen des Körpers: Apnoe-Taucher - Im Tiefenrausch'
+        title: Apnoe-Taucher - Im Tiefenrausch
+        topic: Leben am Limit / Grenzen des Körpers
         description: 'Bis vor 100 Jahren glaubte man, der Mensch könne nicht
             tiefer als 30 Meter ohne Atemgerät tauchen. Eine neue Generation
             von Freitauchern, die so genannten Apnoe-Taucher, haben die Grenzen
@@ -1780,8 +1807,9 @@ seasons:
     -   overall_no: 71
         season_no: 2
         episode_no: 31
-        title: 'Leben am Limit / Grenzen des Körpers: Radrennen - Ewiger Endspurt'
+        title: Radrennen - Ewiger Endspurt
         alias: Radrennen - Ewiger Endspurt
+        topic: Leben am Limit / Grenzen des Körpers
         description: 'Radrennprofis betreiben eine der härtesten Sportarten.
             Profi-Radsportler wie Andreas Klöden vom Team Telekom haben ihre
             körperlichen Grenzen nahezu ausgereizt. Umso mehr zählen jetzt
@@ -1798,8 +1826,9 @@ seasons:
     -   overall_no: 72
         season_no: 2
         episode_no: 32
-        title: 'Leben am Limit / Grenzen des Körpers: Sadhus - Heilige Aussteiger'
+        title: Sadhus - Heilige Aussteiger
         alias: Sadhus - Heilige Aussteiger
+        topic: Leben am Limit / Grenzen des Körpers
         description: 'Die „Heiligen Aussteiger“ von Paschupathinat in Nepal
             leben in Askese und fügen sich Schmerzen zu, weil sie hoffen,
             dadurch von Gott erlöst zu werden. „360° - Die Geo-Reportage“
@@ -1817,7 +1846,8 @@ seasons:
     -   overall_no: 73
         season_no: 2
         episode_no: 33
-        title: 'Tiere im Rampenlicht: Die Elefantenschule'
+        title: Die Elefantenschule
+        topic: Tiere im Rampenlicht
         description: 'Im Gegensatz zu seinem asiatischen Artverwandten galt
             der afrikanische Elefant lange Zeit als unzähmbar. Doch eine Elefantenschule
             im Busch von Botswana beweist das Gegenteil: Seit zehn Jahren
@@ -1834,8 +1864,9 @@ seasons:
     -   overall_no: 74
         season_no: 2
         episode_no: 34
-        title: 'Tiere im Rampenlicht: Der Rentier-Trek'
+        title: Der Rentier-Trek
         alias: Der Rentier-Trek
+        topic: Tiere im Rampenlicht
         description: 'Einst folgten die Sami ihren Herden zu Fuß durch die
             Weite der westlichen Finnmark, heute hüten sie ihre Herden mit
             Hilfe von Schneemobilen. Doch trotz dieser Anpassung an die moderne
@@ -1853,7 +1884,8 @@ seasons:
     -   overall_no: 75
         season_no: 2
         episode_no: 35
-        title: 'Tiere im Rampenlicht: Nicht ohne meinen Hund'
+        title: Nicht ohne meinen Hund
+        topic: Tiere im Rampenlicht
         description: 'Die Beziehung zwischen Mensch und Hund basiert vor allem
             auf Vertrautheit und Loyalität. Hunde sind heute viel mehr als
             Weggefährten des Menschen. Blindenhunde sind wahrscheinlich die
@@ -1890,8 +1922,9 @@ seasons:
     -   overall_no: 76
         season_no: 2
         episode_no: 36
-        title: 'Tiere im Rampenlicht: Kamele im Rennen'
+        title: Kamele im Rennen
         alias: Kamele im Rennen
+        topic: Tiere im Rampenlicht
         description: 'Schon vor hunderten von Jahren haben Beduinen bei religiösen
             Festen Kamelrennen veranstaltet. Heute ist aus der Tradition ein
             High-Tech-Sport geworden: Die Scheichs in den Vereinigten Arabischen
@@ -1911,8 +1944,9 @@ seasons:
     -   overall_no: 77
         season_no: 3
         episode_no: 1
-        title: 'Überleben in der Wüste: Timbuktu'
+        title: Timbuktu
         alias: Timbuktu
+        topic: Überleben in der Wüste
         description: 'Jahrhundertelang beflügelte der Name Timbuktu die Fantasie
             der Europäer. Legenden über unermesslichen Reichtum rankten sich
             um den Ort in der Wüste von Mali. Heute ist Timbuktu eine isolierte
@@ -1930,7 +1964,8 @@ seasons:
     -   overall_no: 78
         season_no: 3
         episode_no: 2
-        title: 'Überleben in der Wüste: Die Frucht, die aus der Dürre kam'
+        title: Die Frucht, die aus der Dürre kam
+        topic: Überleben in der Wüste
         description: 'Die Topnaar in der Wüste Namib sind eines der letzten
             Wüstenvölker der Erde. Wie bei vielen Naturvölkern ist ihre traditionelle
             Lebensweise bedroht. Die Kultivierung und der Anbau der Nara-Melone
@@ -1947,7 +1982,8 @@ seasons:
     -   overall_no: 79
         season_no: 3
         episode_no: 3
-        title: 'Überleben in der Wüste: Baumeister der Wüste'
+        title: Baumeister der Wüste
+        topic: Überleben in der Wüste
         description: 'Die Architekten David Pearlmutter und Isac Meir erforschen
             die Bauweisen antiker Wüstenstädte. Ideale Wohnbedingungen fanden
             sie in der jordanischen Wüstenstadt Petra. Vor mehr als 2000 Jahren
@@ -1965,8 +2001,9 @@ seasons:
     -   overall_no: 80
         season_no: 3
         episode_no: 4
-        title: 'Überleben in der Wüste: Wüste auf Bewährung'
+        title: Wüste auf Bewährung
         title_fr: Les Prisonniers du Désert
+        topic: Überleben in der Wüste
         description: 'Die „Anaszi-Foundation“ hat sich auf Survivalkurse für
             straffällige Jugendliche spezialisiert. Zwei Monate lang müssen
             sich die Jugendlichen in der Wüste Arizonas behaupten. Dort lernen
