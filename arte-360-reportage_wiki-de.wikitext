@@ -4882,141 +4882,158 @@
 | DREHBUCH = nein
 | Feld1 = Französischer Titel
 | INHALT =
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 578
 | NR_ST = 1
 | OT = Die Lowrider-Ladies von L.A.<ref>Internetquellen zur Episode ''„Die Lowrider-Ladies von L.A.“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/579-die-lowrider-ladies-von-la-1523102 579] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/579-die-lowrider-ladies-von-la-1523102 1523102], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8949820 S24E01] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8949820 8949820], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=3ql7jtqylzU 3ql7jtqylzU]</ref>
 | Feld1 = Los Angeles, les reines du lowriding
 | REG = Carolin Reiter
 | EA = 2022-01-08
+| ZF = Der Lowrider-Motorsport ist ein Hobby der „Chicanos“ mit mexikanischen Wurzeln. Die Autos sind extrem tief gelegt und können mithilfe von Hydraulikmotoren sogar springen. Die „First Class Ladies“ sind ein Frauenclub, der das Image der Lowrider verbessern möchte und Spenden für Obdachlose in L.A. sammelt.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 579
 | NR_ST = 2
 | OT = Tapire - Die Dschungel-Gärtner<ref>Internetquellen zur Episode ''„Tapire - Die Dschungel-Gärtner“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/580-tapire-die-dschungel-gaertner-1526120 580] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/580-tapire-die-dschungel-gaertner-1526120 1526120], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8949821 S24E02] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8949821 8949821], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=bQXxzQjmPvo bQXxzQjmPvo]</ref>
 | Feld1 = Le tapir, jardinier des forêts tropicales
 | REG = Alexander Späth
 | EA = 2022-01-15
+| ZF = Tapire, einst im gesamten amerikanischen Kontinent beheimatet, sind heute nur noch in wenigen Regionen Mittel- und Südamerikas anzutreffen. Menschliche Aktivitäten wie Abholzung, Wilderei und der Bau von Autobahnen haben zu einem drastischen Rückgang der Tiere geführt. In Costa Rica und Nicaragua versuchen Biologen das Überleben der Tapire zu sichern. Ein Zuchtprogramm im Zoo von Managua hat bereits Erfolge erzielt, sodass zwei Tiere zur Auswilderung vorbereitet werden. In Costa Rica widmet sich die Organisation Nai Conservation dem Schutz der wildlebenden Tapire. Die Wissenschaftler verwenden GPS-Halsbänder, um mehr über das Verhalten und die Gefahren für die Tiere zu erfahren.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 580
 | NR_ST = 3
 | OT = Faszination Elbrus - Der Ritt zum Gipfel<ref>Internetquellen zur Episode ''„Faszination Elbrus - Der Ritt zum Gipfel“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/581-faszination-elbrus-der-ritt-zum-gipfel-1526526 581] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/581-faszination-elbrus-der-ritt-zum-gipfel-1526526 1526526], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8949822 S24E03] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8949822 8949822], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=FgNR3JW-QbE FgNR3JW-QbE]</ref>
 | Feld1 = Caucase, chevauchèe vers le mont elbrouz
 | REG = Yuri Burak
 | EA = 2022-01-22
+| ZF = Karachai-Pferde sind legendäre Nutztiere im Süden Russlands, die fast ausgestorben waren, aber von lokalen Züchtern gerettet wurden. Sie sind ein wichtiger Teil der kaukasischen Kultur und wurden einst für die Eroberung des Kaukasus genutzt. Der Pferdezüchter Hassan Salpagarow plant nun, den Elbrus mit diesen Pferden zu besteigen. Die Karachai-Pferde finden ausreichend Nahrung auf den saftigen Hochweiden im Nordkaukasus. Die Pferderasse war in den 30er Jahren von Stalins Säuberungspolitik betroffen, doch durch die Rückbesinnung auf die kaukasische Identität erleben sie ein Comeback. Trotz der extremen Bedingungen am Elbrus hofft man, dass der Gipfel des Elbrus erneut mit Pferden erklommen werden kann.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 581
 | NR_ST = 4
 | OT = Namibias Geparden - Hoffnung für die Raubkatzen<ref>Internetquellen zur Episode ''„Namibias Geparden - Hoffnung für die Raubkatzen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/582-namibias-geparden-hoffnung-fuer-die-raubkatzen-1528457 582] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/582-namibias-geparden-hoffnung-fuer-die-raubkatzen-1528457 1528457], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8949823 S24E04] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8949823 8949823], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=s9UPirsiFbA s9UPirsiFbA]</ref>
 | Feld1 = Namibie, l'espoir renait pour les guépards
 | REG = Nina Schumacher
 | EA = 2022-01-29
+| ZF = Namibia hat zahlreiche Schutzgebiete und Tierreservate, die fast 40 Prozent der Landesfläche umfassen. Die Gepardenpopulation in Namibia ist auf etwa 8.000 geschätzt, wobei mehr als ein Drittel von ihnen dort lebt. Trockenheit, Wilderei und der Wettbewerb mit Leoparden haben den Gepardenbestand reduziert. Tierschützer, Veterinäre und engagierte Menschen kämpfen um das Überleben der Raubkatzen. Die Geparden leben hauptsächlich auf fruchtbarem Farmland, wo sie eine Bedrohung für das Vieh der Bauern darstellen. Tierschutzorganisationen bieten den Bauern alternative Lösungen an, um Konflikte zu vermeiden. Mobile Teams fangen Geparden ein und versehen sie mit Sendern, um ihre Positionen zu verfolgen. Fährtenleser wie Debe unterstützen bei der Suche und dem Fangen der Tiere, insbesondere des Gepardenweibchens Amber.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 582
 | NR_ST = 5
 | OT = Haute Couture - Federn, Falten, Seidenblumen<ref>Internetquellen zur Episode ''„Haute Couture - Federn, Falten, Seidenblumen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/583-haute-couture-federn-falten-seidenblumen-1531089 583] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/583-haute-couture-federn-falten-seidenblumen-1531089 1531089], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8949824 S24E05] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8949824 8949824], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt18228046 tt18228046], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=2MTSdkn22a4 2MTSdkn22a4]</ref>
 | Feld1 = -
 | REG = Maja Dielhenn
 | EA = 2022-02-05
+| ZF = Paris ist das Zentrum der Haute Couture für edlen Roben und extravaganten Designs. Séverina Lartigue und Eric Charles-Donatien sind Kunsthandwerker, die für namhafte Designer wie Jean Paul Gaultier und Christophe Josse arbeiten. Diese Künstler, darunter auch Karen Grigorian, verbindet die bedingungslose Leidenschaft für ihr Handwerk, das sie durch berühmte Lehrmeister und unzählige Stunden in einsamen Ateliers auf höchstem Niveau perfektioniert haben.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 583
 | NR_ST = 6
 | OT = Die Odyssee der Mönchsrobbe<ref>Internetquellen zur Episode ''„Die Odyssee der Mönchsrobbe“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/584-die-odyssee-der-moenchsrobbe-1531389 584] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/584-die-odyssee-der-moenchsrobbe-1531389 1531389], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8949825 S24E06] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8949825 8949825], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt18279912 tt18279912], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=IrOfUxc812k IrOfUxc812k]</ref>
 | Feld1 = L'Odyssèe du phoque moine
 | REG = Thomas Delorme
 | EA = 2022-02-19
+| ZF = Ein Forschungsteam der Octopus Foundation reist nach Griechenland, um autonome Kameras zu installieren und die Mönchsrobben im Mittelmeer zu studieren. Die scheuen Meeressäuger verstecken sich in unzugänglichen Höhlen, um sich vor Menschen zu schützen. Früher wurden sie gejagt, aber jetzt sind sie stark gefährdet. Das Team hofft, mehr über die Robben zu erfahren und ihren Lebensraum zu schützen.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 584
 | NR_ST = 7
 | OT = Elsass - Land der Orgeln<ref>Internetquellen zur Episode ''„Elsass - Land der Orgeln“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/585-elsass-land-der-orgeln-1533617 585] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/585-elsass-land-der-orgeln-1533617 1533617], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8949826 S24E07] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8949826 8949826], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt18335884 tt18335884], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=Ef81fAqnuJs Ef81fAqnuJs]</ref>
 | Feld1 = Alsace, terre d'orgues
 | REG = Vincent Froehly
 | EA = 2022-02-26
+| ZF = Patrick Armand ist ein renommierter Orgelbauer und Besitzer der ältesten Orgelbau-Manufaktur, der Firma Muhleisen, in Eschau im Elsass. Das Elsass beherbergt die meisten Orgeln in Frankreich, mit 1.250 von insgesamt 8.000 im ganzen Land. Die Manufaktur widmet sich der Wartung, Restaurierung, dem Neubau und der Ausreinigung von Orgeln. Die Orgelbauer sind sowohl musikalisch qualifiziert als auch handwerklich geschickt und arbeiten mit verschiedenen Materialien wie Holz, Eisen und Metalllegierungen. Die Projekte dauern oft mehrere Jahre. Aktuell plant die Manufaktur den Bau einer Orgel für eine Kirche in Köln, die Ausreinigung eines Instruments in Versailles und die vollständige Überholung der Orgel in der Kathedrale Notre-Dame in Amiens.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 585
 | NR_ST = 8
 | OT = Wilde Waterkant - Nordfriesland und seine Gänse<ref>Internetquellen zur Episode ''„Wilde Waterkant - Nordfriesland und seine Gänse“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/586-wilde-waterkant-nordfriesland-und-seine-gaense-1537573 586] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/586-wilde-waterkant-nordfriesland-und-seine-gaense-1537573 1537573], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8993022 S24E08] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8993022 8993022], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt18603248 tt18603248], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=p33T3S0tqBA p33T3S0tqBA]</ref>
 | Feld1 = Mer du nord, le retour des oies sauvages
 | REG = Sven Jaax
 | EA = 2022-03-12
+| ZF = Vor 50 Jahren waren Nonnengänse vom Aussterben bedroht, aber heute gibt es Hunderttausende von ihnen. Sie brüten nicht mehr nur in den Polargebieten, sondern auch an der Ostsee und an der Westküste Norddeutschlands. Während Biologen und Naturschützer sich darüber freuen, sind viele Landwirte besorgt, da die Vögel große Schäden auf ihren Feldern verursachen. Einige Gänse bleiben den ganzen Sommer in Nordfriesland und vermehren sich aufgrund von Schutzmaßnahmen stark. Bauern fordern eine Bejagung, während Naturschützer und Vogelliebhaber dies verhindern wollen. Die Suche nach einem Kompromiss für beide Seiten ist aktuell eine Herausforderung.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 586
 | NR_ST = 9
 | OT = Die Puppen tanzen! - Litauens rollendes Theater<ref>Internetquellen zur Episode ''„Die Puppen tanzen! - Litauens rollendes Theater“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/587-die-puppen-tanzen-litauens-rollendes-theater-1540410 587] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/587-die-puppen-tanzen-litauens-rollendes-theater-1540410 1540410], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9075607 S24E09] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9075607 9075607], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt22300542 tt22300542], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=axKuA1qBWGQ axKuA1qBWGQ]</ref>
 | Feld1 = Lituanie, l'art des marionnettes
 | REG = Gordian Arneth
 | EA = 2022-03-26
+| ZF = Das Marionettenkutschentheater aus Panevezys führt jedes Jahr im Sommer seine Kunst in abgelegenen litauischen Dörfern auf. Mit einem motorisierten, aber als Dampflok dekorierten Fahrzeug fährt das Ensemble in entlegene Gegenden. Die meisten Bewohner haben keinen Zugang zu modernen Einrichtungen wie Kinos oder Schwimmbädern. Der 23-jährige Puppenspieler Daniel begleitet die Gruppe zum ersten Mal auf Tour und hofft, eine größere Rolle übernehmen zu dürfen. Allerdings hat er Schwierigkeiten bei den Proben.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 587
 | NR_ST = 10
 | OT = Südkorea - die Nonne der Tempelküche<ref>Internetquellen zur Episode ''„Südkorea - die Nonne der Tempelküche“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/588-suedkorea-die-nonne-der-tempelkueche-1557485 588] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/588-suedkorea-die-nonne-der-tempelkueche-1557485 1557485], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9158123 S24E10] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9158123 9158123], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=if6OhSEjkxM if6OhSEjkxM]</ref>
 | Feld1 = Temple Food, l’âme de la cuisine coréenne
 | REG = Andrea Oster
 | EA = 2022-05-07
+| ZF = Wookwan Sunim bevorzugt natürliche Zutaten, die saisonal und regional gewachsen sind. Im Kloster werden wilde Pflanzen aus dem Gemüsegarten, Blumenbeeten, dem Wald und Schotterwegen verwendet. Die Nonnen nutzen Blüten für Tee, Blätter für Salate und trocknen und frittieren frisch ausgegrabene Wurzeln. Im Winter suchen sie nach nährstoffreichen Wurzeln im Wald. Die Äbtissin bereitet die Wurzeln mit selbst gemachten Pasten und Soßen zu, um unerwünschte Bitter- und Giftstoffe zu entfernen. Die Tempelküche basiert auf Sojasoße, Chilipaste und Sojabohnenpaste. Neben dem gesundheitlichen Aspekt werden die aromatischen Geschmackskreationen international anerkannt. Die Tempelküche und tägliche Gebete sind eine vitale Symbiose im Zen-Buddhismus Südkoreas.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 588
 | NR_ST = 11
 | OT = Schwerelos im Windkanal<ref>Internetquellen zur Episode ''„Schwerelos im Windkanal“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/589-schwerelos-im-windkanal-1551765 589] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/589-schwerelos-im-windkanal-1551765 1551765], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9158124 S24E11] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9158124 9158124], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt20231988 tt20231988], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=jp5BDv9KCzY jp5BDv9KCzY]</ref>
 | Feld1 = Portès par le vent, le vol en soufflerie
 | REG = Myriam Bou-Saha
 | EA = 2022-05-14
+| ZF = Im größten Indoor-Windtunnel Europas bei Mailand wird der Traum vom Fliegen wahr. Ursprünglich für die Luft- und Raumfahrt entwickelt, sind Freifallsimulatoren nun auch Freizeitspaß und Bühne für Leistungssportler wie Laurie Lubbe. Sie ist eine Freestylerin, die hart für die französischen Meisterschaften trainiert. Als Teil der französischen Nationalmannschaft fliegt sie im Windkanal in der künstlerischen Disziplin Freestyle. Mit einer Geschwindigkeit von 200 km/h muss sie ihren Körper kontrollieren und jede Bewegung hat große Auswirkungen. Laurie hofft, mit ihrer Anmut und Eleganz die Preisrichter in Lyon zu überzeugen.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 589
 | NR_ST = 12
 | OT = Frankreichs Gärten - Die kleinen Schätze<ref>Internetquellen zur Episode ''„Frankreichs Gärten - Die kleinen Schätze“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/590-frankreichs-gaerten-die-kleinen-schaetze-1553064 590] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/590-frankreichs-gaerten-die-kleinen-schaetze-1553064 1553064], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9158125 S24E12] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9158125 9158125], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt20190184 tt20190184], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=6eWUfGWASTA 6eWUfGWASTA]</ref>
 | Feld1 = Le trèsor du jardinier
 | REG = Cedric Nicolas-Troyan
 | EA = 2022-05-21
+| ZF = Serge Denoix und Laurence Beaufils sind leidenschaftliche Gärtner und interessieren sich auch für alte Gartenwerkzeuge. Sie sammeln Fundstücke, deren Zweck und Herkunft sie mühsam recherchieren müssen. Unterstützt werden sie dabei von Landwirten, Handwerkern und Antiquitätenhändlern. Viele der Werkzeuge sind beschädigt und abgenutzt, daher müssen sie aufwendig von Hand restauriert werden. Ein besonders wertvolles Stück, ein alter Blumenpflücker, soll von einem Goldschmied repariert werden.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 590
 | NR_ST = 13
 | OT = Europas Urwälder - Ein Schatz der Natur<ref>Internetquellen zur Episode ''„Europas Urwälder - Ein Schatz der Natur“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/591-europas-urwaelder-ein-schatz-der-natur-1556566 591] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/591-europas-urwaelder-ein-schatz-der-natur-1556566 1556566], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9158126 S24E13] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9158126 9158126], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt20854434 tt20854434], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=JXN5lNsTZCI JXN5lNsTZCI]</ref>
 | Feld1 = Forêts primaires, le poumon vert de l'europe
 | REG = Ines Possemeyer
 | EA = 2022-06-04
+| ZF = Martin Mikolas, ein slowakischer Waldökologe und Naturschützer, leitet wissenschaftliche Expeditionen in die letzten Urwälder Europas. Sein aktuelles Ziel ist ein abgelegener Buchenwald in den Albanischen Alpen. Das Team wandert stundenlang, um den Urwald zu erreichen, und sammelt Daten über Bäume und Bodenproben. Die Forschungsergebnisse werden in Prag ausgewertet und könnten wertvolle Informationen über die Anpassungsfähigkeit von Bäumen und den Klimawandel liefern. Das Urwaldarchiv enthält bereits Tausende von Bohrkernen aus Primärwäldern.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 591
 | NR_ST = 14
 | OT = Panzer, Wölfe, Rothirsche - Bayerns wilder Übungsplatz<ref>Internetquellen zur Episode ''„Panzer, Wölfe, Rothirsche - Bayerns wilder Übungsplatz“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/592-panzer-woelfe-rothirsche-bayerns-wilder-uebungsplatz-1559229 592] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/592-panzer-woelfe-rothirsche-bayerns-wilder-uebungsplatz-1559229 1559229], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9158127 S24E14] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9158127 9158127], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt21030816 tt21030816], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=kyrHUKDiyck kyrHUKDiyck]</ref>
 | Feld1 = Loups et cerfs à l'ombre des blindès
 | REG = Markus Schmidbauer
 | EA = 2022-06-11
+| ZF = Im oberpfälzischen Grafenwöhr, auf dem Truppenübungsplatz der US-Streitkräfte, hat sich ein einzigartiges Naturrefugium entwickelt. Trotz des ständigen Schießens leben dort zahlreiche Tierarten ungestört. Nun wird der Einfluss des Wolfs auf die Rotwild-Bestände untersucht. Das Wildbiologische Institut Göttingen und Dresden führt das Projekt mit einer Sondergenehmigung der US-Armee durch. Marcus Meißner und Maria Zetsche erforschen das Verhalten der Rothirsche mittels GPS-Sendern. Die Tiere werden erneut gefangen und mit Sendern ausgestattet, um den Einfluss der Wölfe zu untersuchen.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 592
 | NR_ST = 15
 | OT = Kastiliens Kämpfer - Ritterspiele an der Burg Belmonte<ref>Internetquellen zur Episode ''„Kastiliens Kämpfer - Ritterspiele an der Burg Belmonte“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/593-kastiliens-kaempfer-ritterspiele-an-der-burg-belmonte-1560073 593] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/593-kastiliens-kaempfer-ritterspiele-an-der-burg-belmonte-1560073 1560073], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9158128 S24E15] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9158128 9158128], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt21073772 tt21073772], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=wZgpqRaV7Ik wZgpqRaV7Ik]</ref>
 | Feld1 = Le béhourd, l'art du combat médiéval
 | REG = Friederike Schlumbom
 | EA = 2022-06-18
+| ZF = Der mittelalterliche Turniersport erlebt in Spanien einen Boom. Jedes Jahr findet ein großes Turnier am Fuße der Burg Belmonte in Kastilien-La Mancha statt. Die Teilnehmer treten in historischer Ritterrüstung mit Schwertern, Äxten und Hellebarden in Duellen oder als Mannschaft gegeneinander an. Die Kämpfe sind hart und anstrengend, dauern bis zu eineinhalb Minuten und erfordern physische und mentale Stärke. Die Waffen sind aus Sicherheitsgründen ohne Spitze und scharfe Klinge.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 593
 | NR_ST = 16
 | OT = Nopal, der Alleskönner aus Mexiko<ref>Internetquellen zur Episode ''„Nopal, der Alleskönner aus Mexiko“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/594-nopal-der-alleskoenner-aus-mexiko-1564718 594] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/594-nopal-der-alleskoenner-aus-mexiko-1564718 1564718], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9254698 S24E16] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9254698 9254698], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt21203634 tt21203634], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=MkXx_8rac_M MkXx_8rac_M]</ref>
 | Feld1 = Cactus, l'or vert du mexique
 | REG = Joanna Michna
 | EA = 2022-06-25
+| ZF = Der mexikanische Feigenkaktus Nopal wird als Superfood und Inspiration für Modeideen verwendet. Junge Unternehmerinnen und Unternehmer haben veganes Leder aus dieser Pflanze entwickelt. Es könnte eine Revolution in der Lederindustrie bedeuten. Consuelo Lara besitzt Kaktusfelder in Milpa Alta, Mexiko-Stadt, und hat eine Kooperative gegründet, um Frauen Arbeit zu bieten. Sie plant, ihren Bio-Nopal unter einer eigenen Marke mit regionalem Herkunftslabel zu vermarkten. Adrián López und Marte Cázarez haben eine umweltfreundliche Alternative zu tierischem und synthetischem Leder entwickelt.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 594
 | NR_ST = 17
 | OT = Tempo und Leidenschaft - Argentiniens Polo-Spielerinnen<ref>Internetquellen zur Episode ''„Tempo und Leidenschaft - Argentiniens Polo-Spielerinnen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/595-tempo-und-leidenschaft-argentiniens-polo-spielerinnen-1570263 595] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/595-tempo-und-leidenschaft-argentiniens-polo-spielerinnen-1570263 1570263], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9254699 S24E17] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9254699 9254699], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt21243244 tt21243244], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=Y-eQibAkbmo Y-eQibAkbmo]</ref>
 | Feld1 = Argentine, le polo au féminin
 | REG = German Kral
 | EA = 2022-07-02
+| ZF = Die Polosportwelt dreht sich um Pferde und engagierte Fachleute wie Tierärzte, Pferdepfleger, Trainer und Hufschmiede. In Argentinien, dem Land der Pferde, haben Frauen den männerdominierten Sport erobert und sind sehr erfolgreich. Eine herausragende Spielerin ist Clarita Cassino, die den Sport seit ihrer Kindheit betreibt. Silvina Casadedio ist eine weitere starke Frau in der Szene, die Rinder züchtet und als Pferdezähmerin arbeitet. Sie hat viel geopfert, um ihren Traum zu leben und ihre Zeit den Pferden zu widmen.
 }}
 {{Episodenlisteneintrag2
 | NR_GES = 595
