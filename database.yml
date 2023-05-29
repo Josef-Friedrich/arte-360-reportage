@@ -20698,6 +20698,7 @@ seasons:
         episode_no: 10
         title: Die Waschbären von Berlin
         title_fr: Les ratons laveurs, nos nouveaux voisins?
+        coordinates: [52.518611, 13.408333]
         continent: Europa
         description: 'Es fing alles harmlos an: Als der Berliner Tierärztin
             Mathilde Laininger zwei verwaiste Waschbären in die Praxis gebracht
@@ -20749,6 +20750,7 @@ seasons:
         episode_no: 11
         title: Rapa Nui - Gladiatoren der Südsee
         continent: Asien
+        coordinates: [-27.119444, -109.354722]
         description: 'Im Jahr 1722 wurde die Osterinsel von dem niederländischen
             Seefahrer Jakob Roggeveen entdeckt, an einem Ostersonntag, daher
             der Name. Damals lebten aber schon seit gut tausend Jahren polynesische
@@ -20795,6 +20797,7 @@ seasons:
         episode_no: 12
         title: Kambodschas schwimmende Dörfer - Umzug am Tonle Sap
         continent: Asien
+        coordinates: [12.876, 104.073]
         description: 'Um bis zu acht Meter schwankt der Wasserstand des Tonle
             Sap-Sees. Zur Trockenzeit im Februar und März sinkt der Pegel
             stark. In Ufernähe tauchen Wälder aus dem Wasser auf, durch die

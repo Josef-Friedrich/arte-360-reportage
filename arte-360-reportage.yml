@@ -20741,6 +20741,9 @@ seasons:
             Mensch und Waschbär zu ermöglichen.
         director: Maja Dielhenn
         air_date: '2023-05-20'
+        coordinates:
+        - 52.518611
+        - 13.408333
         fernsehserien_episode_no: 618
         fernsehserien_episode_slug: 618-die-waschbaeren-von-berlin-1640104
         fernsehserien_episode_id: 1640104
@@ -20787,6 +20790,9 @@ seasons:
             Tau'a-Triathlon konzentriert.
         director: J. Michael Schumacher
         air_date: '2023-06-24'
+        coordinates:
+        - -27.119444
+        - -109.354722
         fernsehserien_episode_no: 619
         fernsehserien_episode_slug: 619-rapa-nui-gladiatoren-der-suedsee-1645452
         fernsehserien_episode_id: 1645452
@@ -20826,6 +20832,9 @@ seasons:
             Landwirtschaft leben.
         director: Martin Schacht
         air_date: '2023-07-01'
+        coordinates:
+        - 12.876
+        - 104.073
         fernsehserien_episode_no: 620
         fernsehserien_episode_slug: 620-kambodschas-schwimmende-doerfer-umzug-am-tonle-sap-1646559
         fernsehserien_episode_id: 1646559

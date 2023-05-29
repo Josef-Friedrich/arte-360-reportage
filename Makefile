@@ -1,6 +1,6 @@
 SCRIPT = .venv/bin/arte-360-reportage.py
 
-all: chatgpt json readme wiki yaml
+all: chatgpt json leaflet readme wiki yaml
 
 chatgpt:
 	$(SCRIPT) --chatgpt
@@ -10,6 +10,9 @@ debug:
 
 json:
 	$(SCRIPT) --json
+
+leaflet:
+	$(SCRIPT) --leaflet
 
 readme:
 	$(SCRIPT) --readme

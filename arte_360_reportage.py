@@ -37,6 +37,11 @@ class Utils:
             readme.write(content)
 
     @staticmethod
+    def write_json_file(file_path: str, data: typing.Any) -> None:
+        with open(file_path, "w") as j:
+            json.dump(data, fp=j, indent=2, ensure_ascii=False)
+
+    @staticmethod
     def clean_title(title: str) -> str:
         title = title.replace("–", "-")
         title = re.sub(r" *\(.+\) *", " ", title)
@@ -308,6 +313,9 @@ class EpisodeData(typing.TypedDict):
     duration: int
     """for example ``52``"""
 
+    coordinates: list[float]
+    """for example: ``[12.876, 104.073]``"""
+
     fernsehserien_air_date: str
     """for example ``2020-08-09``"""
 
@@ -466,6 +474,12 @@ class Episode:
         if not d:
             return ""
         return d.strftime(format)
+
+    @property
+    def coordinates(self) -> list[float] | None:
+        if "coordinates" not in self.data:
+            return
+        return self.data["coordinates"]
 
     @property
     def thetvdb_season_episode(self) -> str | None:
@@ -687,8 +701,7 @@ class TvShow:
         Yaml.save(filepath, self.export_data())
 
     def export_to_json(self) -> None:
-        with open(EXPORT_FILENAME + ".json", "w") as j:
-            json.dump(self.data, fp=j, indent=2, ensure_ascii=False)
+        Utils.write_json_file(EXPORT_FILENAME + ".json", self.data)
 
 
 tv_show = TvShow()
@@ -1001,11 +1014,29 @@ def generate_chatgpt_texts() -> None:
     for episode in tv_show.episodes:
         if not episode.description_short and episode.description_plain:
             descriptions.append("")
-            descriptions.append(f"s{episode.season_no}e{episode.episode_no} {episode.title}")
+            descriptions.append(
+                f"s{episode.season_no}e{episode.episode_no} {episode.title}"
+            )
             descriptions.append("")
-            descriptions.append("Fasse folgenden Text auf Deutsch in 75 Wörtern zusammen: " + episode.description_plain)
+            descriptions.append(
+                "Fasse folgenden Text auf Deutsch in 75 Wörtern zusammen: "
+                + episode.description_plain
+            )
 
     Utils.write_text_file(EXPORT_FILENAME + "_chatgpt.txt", descriptions)
+
+
+def generate_leaflet() -> None:
+    marker: list[typing.Any] = []
+    for episode in tv_show.episodes:
+        if episode.coordinates:
+            marker.append(
+                {
+                    "coordinates": episode.coordinates,
+                    "popup": episode.title,
+                }
+            )
+    Utils.write_json_file(EXPORT_FILENAME + "_leaflet.json", marker)
 
 
 def generate_readme() -> None:
@@ -1111,6 +1142,7 @@ def get_argument_parser() -> argparse.ArgumentParser:
     parser.add_argument("-c", "--chatgpt", action="store_true")
     parser.add_argument("-d", "--debug", action="store_true")
     parser.add_argument("-j", "--json", action="store_true")
+    parser.add_argument("-l", "--leaflet", action="store_true")
     parser.add_argument("-r", "--readme", action="store_true")
     parser.add_argument("-s", "--scrape", action="store_true")
     parser.add_argument("-w", "--wiki", choices=("de", "fr"))
@@ -1129,6 +1161,9 @@ def main() -> None:
 
     if args.json:
         tv_show.export_to_json()
+
+    if args.leaflet:
+        generate_leaflet()
 
     if args.readme:
         generate_readme()
