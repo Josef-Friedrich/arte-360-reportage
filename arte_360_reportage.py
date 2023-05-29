@@ -988,8 +988,8 @@ def generate_readme() -> None:
             if link and link != "":
                 links.append(prefix_caption(caption, link))
 
-        if episode.youtube_video_id:
-            append("youtube", link_youtube(episode))
+        if episode.fernsehserien_episode_no:
+            append("fernsehserien", link_fernsehserien(episode))
 
         if episode.thetvdb_season_episode:
             append("thetvdb", link_thetvdb(episode))
@@ -997,8 +997,8 @@ def generate_readme() -> None:
         if episode.imdb_episode_id:
             append("imdb", link_imdb(episode))
 
-        if episode.fernsehserien_episode_no:
-            append("fernsehserien", link_fernsehserien(episode))
+        if episode.youtube_video_id:
+            append("youtube", link_youtube(episode))
 
         return "<br>".join(links)
 
