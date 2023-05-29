@@ -143,7 +143,7 @@ s2e1 Ernstfall Erdbeben
 
 Fasse folgenden Text auf Deutsch in 75 Wörtern zusammen: Die SEEBA ist eine Einheit des Technischen Hilfswerkes, die Rettungsdienst bei Katastrophen leistet. Die freiwilligen Helfer waren unter anderem nach einem schweren Erdbeben in der Türkei im Einsatz.
 
-s2e2 Tsunami - die Todeswelle
+s2e2 Tsunami - Die tödliche Welle
 
 Fasse folgenden Text auf Deutsch in 75 Wörtern zusammen: Sie erreichen Höhen von mehr als 30 Metern und rasen mit Geschwindigkeiten von bis zu 700 Stundenkilometern auf die Küsten zu: Tsunamis, alles zerstörende Riesenwellen. Wissenschaftler arbeiten an der Erforschung dieses Naturphänomens und an der Entwicklung effektiver Frühwarnsysteme.
 
@@ -219,19 +219,19 @@ s2e20 Psycho-Detektive
 
 Fasse folgenden Text auf Deutsch in 75 Wörtern zusammen: Robert Ressler ist einer der Pioniere auf dem Gebiet des „profiling“. In den 70er-Jahren konnte der FBI-Agent beweisen, dass ein psychologisches Profil helfen kann, Serienmörder zu fassen. Heute bildet die FBI-Akademie in Quantico im US-Bundesstaat Virginia landesweit Profiler aus.
 
-s2e21 Das Fenster zum Meer - Im Großaquarium von Sydney
+s2e21 Das Fenster zum Meer
 
 Fasse folgenden Text auf Deutsch in 75 Wörtern zusammen: Das Aquarium in Sydney ist eine Wunderwelt für Wasserscheue: Besucher können trockenen Fußes auf dem Meeresboden spazieren gehen und sich von der Magie der Ozeane berauschen lassen. In 50 Großbecken auf 4.000 Quadratmeter Fläche werden über 650 heimische Tier- und Pflanzenarten gehalten.
 
-s2e22 Schwarze Brandung - Nach der Ölkatastrophe an der bretonischen Küste
+s2e22 Schwarze Brandung
 
 Fasse folgenden Text auf Deutsch in 75 Wörtern zusammen: Im Dezember 1999 verunglückte der Tanker „Erika“ vor der bretonischen Küste. Bereits einige Monate später gab die französische Tourismusindustrie Entwarnung, die Strände seien wieder sauber. Umweltschützer prüfen, welche langfristigen Folgen die Tankerhavarie für Mensch und Tier haben wird.
 
-s2e23 Durst nach Meer - Neue Methoden der Trinkwassergewinnung
+s2e23 Durst nach Meer
 
 Fasse folgenden Text auf Deutsch in 75 Wörtern zusammen: Auf der Erde gibt es 1,4 Milliarden Kubikkilometer Wasser. Doch der größte Teil des Vorkommens besteht aus salzigen Meeren oder Dauereis. Wissenschaftler und Ingenieure in aller Welt arbeiten deshalb daran, die größten Wasserreservoire unseres Planeten anzuzapfen: Meere und Ozeane.
 
-s2e24 SOS auf hoher See - Moderne Rettungstechnik im Einsatz
+s2e24 SOS auf hoher See
 
 Fasse folgenden Text auf Deutsch in 75 Wörtern zusammen: Für die ersten Rettungseinsätze auf See wurden noch Ruderboote eingesetzt. Heute sind es aufwändige High-Tech Schiffe. Die „Deutsche Gesellschaft zur Rettung Schiffbrüchiger“ zählt zu den modernsten Seenotrettungsdiensten der Welt. Seit der Gründung im Jahr 1865 konnte die deutsche Flotte über 65.000 Menschen aus dem Meer retten.
 
@@ -287,7 +287,7 @@ s3e1 Timbuktu
 
 Fasse folgenden Text auf Deutsch in 75 Wörtern zusammen: Jahrhundertelang beflügelte der Name Timbuktu die Fantasie der Europäer. Legenden über unermesslichen Reichtum rankten sich um den Ort in der Wüste von Mali. Heute ist Timbuktu eine isolierte Stadt: Die Sahara rück unaufhaltsam vor, und die Bewohner leben in ständiger Angst vor politischen Unruhen.
 
-s3e2 Die Frucht, die aus der Dürre kam
+s3e2 „Die Frucht, die aus der Dürre kam“
 
 Fasse folgenden Text auf Deutsch in 75 Wörtern zusammen: Die Topnaar in der Wüste Namib sind eines der letzten Wüstenvölker der Erde. Wie bei vielen Naturvölkern ist ihre traditionelle Lebensweise bedroht. Die Kultivierung und der Anbau der Nara-Melone könnten Arbeitsplätze schaffen und die Existenz der Topnaar sichern.
 
@@ -295,7 +295,7 @@ s3e3 Baumeister der Wüste
 
 Fasse folgenden Text auf Deutsch in 75 Wörtern zusammen: Die Architekten David Pearlmutter und Isac Meir erforschen die Bauweisen antiker Wüstenstädte. Ideale Wohnbedingungen fanden sie in der jordanischen Wüstenstadt Petra. Vor mehr als 2000 Jahren haben die Nabtäer hier in Felsen gehauene Häuser mit einem angenehmen Wohnklima gebaut.
 
-s3e4 Wüste auf Bewährung
+s3e4 „Wüste auf Bewährung“
 
 Fasse folgenden Text auf Deutsch in 75 Wörtern zusammen: Die „Anaszi-Foundation“ hat sich auf Survivalkurse für straffällige Jugendliche spezialisiert. Zwei Monate lang müssen sich die Jugendlichen in der Wüste Arizonas behaupten. Dort lernen sie, mit der Natur in Einklang zu leben und die Tradition eines Indianerstammes fortzuführen.
 
@@ -323,7 +323,7 @@ s3e10 Brücke in den Orient
 
 Fasse folgenden Text auf Deutsch in 75 Wörtern zusammen: Istanbul ist eine bunte und hektische Metropole zwischen Europa und Asien. Nur im Straßenverkehr herrscht häufig absoluter Stillstand. Da lediglich zwei Brücken die Stadt über den Bosporus hinweg verbinden, stehen Pendler regelmäßig im Stau. Der Bau einer dritten Brücke soll Abhilfe schaffen.
 
-s3e11 Die letzten Nixen - die Taucherinnen von Cheju
+s3e11 Die letzten Nixen
 
 Fasse folgenden Text auf Deutsch in 75 Wörtern zusammen: Es ist ein harter Job. Die sogenannten Haenyo auf der südkoreanischen Insel Cheju sind Frauen, die bis zu drei Minuten ohne Atemgerät tauchen - oft bis zu 20 Meter tief. Dabei suchen sie nach Muscheln und anderen Meeresfrüchten. „360° - Geo Reportage“ zeigt einen aussterbenden Beruf.
 
@@ -335,7 +335,7 @@ s3e13 Anatomie einer Lawine
 
 Fasse folgenden Text auf Deutsch in 75 Wörtern zusammen: Jedes Jahr fordern Lawinen weltweit rund 200 Menschenleben. Schweizer Forscher haben es sich zur Aufgabe gemacht, die Gefahr berechenbar zu machen. Mit neuen Vorhersagemethoden und Rettungsgeräten versuchen sie, die Zahl der Opfer zu verringern und Verschüttete zu retten.
 
-s3e14 Die Erbin Gandhis - Widerstand gegen einen Staudamm
+s3e14 Die Erbin Gandhis
 
 Fasse folgenden Text auf Deutsch in 75 Wörtern zusammen: Der Sardar-Sarovar-Damm ist die größte Staumauer Indiens. Jetzt soll das Prestigeobjekt am Narmada-Fluss um 100 Meter erhöht werden, doch die Menschen im Narmadatal weigern sich, ihre Felder und Dörfer zu verlassen. Die Bauern haben sich zusammengeschlossen, um gegen das Stauprojekt zu kämpfen.
 

@@ -284,6 +284,8 @@ class EpisodeData(typing.TypedDict):
     alias: str
     """Different German title"""
 
+    subtitle: str
+
     topic: str
     """Overarching theme that summarizes four episodes, for example ``Traum-Städte``"""
 

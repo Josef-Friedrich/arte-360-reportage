@@ -1237,12 +1237,13 @@ seasons:
     -   overall_no: 41
         season_no: 2
         episode_no: 1
-        title: 'Ernstfall Erdbeben'
+        title: Ernstfall Erdbeben
         topic: Naturgewalten
         description: 'Die SEEBA ist eine Einheit des Technischen Hilfswerkes,
             die Rettungsdienst bei Katastrophen leistet. Die freiwilligen
             Helfer waren unter anderem nach einem schweren Erdbeben in der
             Türkei im Einsatz. (Text: Discovery Channel)'
+        director: Jonathan Barker
         air_date: '2000-01-10'
         duration: 26
         fernsehserien_episode_no: 41
@@ -1254,14 +1255,15 @@ seasons:
     -   overall_no: 42
         season_no: 2
         episode_no: 2
-        title: 'Tsunami - die Todeswelle'
-        alias: Tsunami - Die tödliche Welle
+        title: Tsunami - Die tödliche Welle
+        alias: Tsunami - die Todeswelle
         topic: Naturgewalten
         description: 'Sie erreichen Höhen von mehr als 30 Metern und rasen
             mit Geschwindigkeiten von bis zu 700 Stundenkilometern auf die
             Küsten zu: Tsunamis, alles zerstörende Riesenwellen. Wissenschaftler
             arbeiten an der Erforschung dieses Naturphänomens und an der Entwicklung
             effektiver Frühwarnsysteme. (Text: Discovery Channel)'
+        director: Michael Hutchinson
         air_date: '2000-01-11'
         duration: 26
         fernsehserien_episode_no: 42
@@ -1273,7 +1275,7 @@ seasons:
     -   overall_no: 43
         season_no: 2
         episode_no: 3
-        title: 'Operation Wolkenbruch'
+        title: Operation Wolkenbruch
         topic: Naturgewalten
         description: 'Gewaltige Vulkanausbrüche und verheerende Erdbeben,
             Riesenwellen und Dürrekatastrophen: Naturgewalten lassen sich
@@ -1282,6 +1284,7 @@ seasons:
             Rettungsexperten und Betroffene den Kräften der Natur und versuchen,
             die unberechenbare Gefahr in ein kalkulierbares Risiko zu verwandeln.
             (Text: Discovery Channel)'
+        director: Jonathan Barker
         air_date: '2000-01-12'
         duration: 26
         fernsehserien_episode_no: 43
@@ -1293,7 +1296,7 @@ seasons:
     -   overall_no: 44
         season_no: 2
         episode_no: 4
-        title: 'Im Schatten des Vulkans'
+        title: Im Schatten des Vulkans
         topic: Naturgewalten
         description: 'Millionen von Menschen leben im Schatten von Vulkanen.
             Jeden Tag müssen sie damit rechnen, dass die schlafenden Riesen
@@ -1301,6 +1304,7 @@ seasons:
             Montserrat wurde dieser Albtraum wahr: Im Juli 1995 brach der
             Vulkan La Soufrière aus. Ein Großteil der Insel wurde unbewohnbar.
             (Text: Discovery Channel)'
+        director: Michael Hutchinson
         air_date: '2000-01-13'
         duration: 26
         fernsehserien_episode_no: 44
@@ -1312,13 +1316,14 @@ seasons:
     -   overall_no: 45
         season_no: 2
         episode_no: 5
-        title: 'Casino der Häuptlinge'
+        title: Casino der Häuptlinge
         topic: Spiele des Lebens
         description: 'Im Foxwoods-Casino haben schon viele das schnelle finanzielle
             Glück gesucht und mussten dann doch wieder als arme Schlucker
             nach Hause fahren. Die Reportage wagt einen Blick hinter die Plastikfassaden
             der indianischen Glücksspielwelt. Hier bekommt das, was als Märchen
             begann, Züge eines Krimis. (Text: Discovery Channel)'
+        director: Carmen Butta
         air_date: '2000-02-07'
         duration: 26
         fernsehserien_episode_no: 45
@@ -1330,13 +1335,14 @@ seasons:
     -   overall_no: 46
         season_no: 2
         episode_no: 6
-        title: 'Schach - Krieg auf 64 Feldern'
+        title: Schach - Krieg auf 64 Feldern
         topic: Spiele des Lebens
         description: 'Schach ist kein reines Strategiespiel. Es reicht nicht
             aus, nur die Regeln zu kennen. Wer siegreich sein will, muss die
             Schwächen des Gegners studieren und ausnutzen. Das in Indien erfundene
             Kriegsspiel wird heute in internationalen Meisterschaften ausgetragen.
             (Text: Discovery Channel)'
+        director: Ilka Franzmann
         air_date: '2000-02-08'
         duration: 26
         fernsehserien_episode_no: 46
@@ -1348,7 +1354,7 @@ seasons:
     -   overall_no: 47
         season_no: 2
         episode_no: 7
-        title: 'Mehr als nur ein Kinderspiel'
+        title: Mehr als nur ein Kinderspiel
         topic: Spiele des Lebens
         description: 'Generation um Generation schaffen sich Kinder im Spiel
             ihre eigene Welt. Sie toben und träumen, bauen und zerstören.
@@ -1356,6 +1362,7 @@ seasons:
             ist das Spielen so wichtig? Und welche Auswirkungen haben Computerspiele
             auf die Kreativität und das Sozialverhalten? (Text: Discovery
             Channel)'
+        director: Sabine Howe
         air_date: '2000-02-09'
         duration: 26
         fernsehserien_episode_no: 47
@@ -1367,13 +1374,14 @@ seasons:
     -   overall_no: 48
         season_no: 2
         episode_no: 8
-        title: 'Spielplatz Natur'
+        title: Spielplatz Natur
         topic: Spiele des Lebens
         description: 'Raufende Hunde, tobende Katzen, neugierige Raben und
             selbst Fische zeigen: Spielen ist im Tierreich ein weit verbreitetes
             Phänomen. Tierforscher untersuchen, ob Spielen stets einen Lernzweck
             verfolgt oder manchmal einfach nur dem Zeitvertreib dient. (Text:
             Discovery Channel)'
+        director: Barbara Puskas
         air_date: '2000-02-10'
         duration: 26
         fernsehserien_episode_no: 48
@@ -1386,13 +1394,14 @@ seasons:
     -   overall_no: 49
         season_no: 2
         episode_no: 9
-        title: 'Beruf Grabräuber'
+        title: Beruf Grabräuber
         topic: Die Schatzjäger
         description: 'Sie tauchen nach versunkenen Schiffen voller Gold und
             Juwelen, durchstreifen Wüstengebiete mit Metalldetektoren oder
             plündern antike Gräber: Moderne Schatzjäger. Die italienische
             Polizei befindet sich im ständigen Kampf gegen den Schmuggel mit
             dem kulturellen Erbe. (Text: Discovery Channel)'
+        director: Mary Crisp
         air_date: '2000-03-06'
         duration: 26
         fernsehserien_episode_no: 49
@@ -1404,7 +1413,7 @@ seasons:
     -   overall_no: 50
         season_no: 2
         episode_no: 10
-        title: 'Schätze aus dem All'
+        title: Schätze aus dem All
         topic: Die Schatzjäger
         description: 'Sie tauchen nach versunkenen Schiffen, durchstreifen
             Wüstengebiete mit Metalldetektoren oder plündern antike Gräber:
@@ -1412,6 +1421,7 @@ seasons:
             sich auf die Suche nach Meteoriten aus fernen Galaxien machen.
             Für manche von ihnen sind sie wertvoller als Gold. (Text: Discovery
             Channel)'
+        director: Mary Crisp
         air_date: '2000-03-07'
         duration: 26
         fernsehserien_episode_no: 50
@@ -1423,13 +1433,14 @@ seasons:
     -   overall_no: 51
         season_no: 2
         episode_no: 11
-        title: 'Die Taucher der Goldküste'
+        title: Die Taucher der Goldküste
         topic: Die Schatzjäger
         description: 'Moderne Schatzjäger lassen nichts unversucht, mit Hilfe
             modernster Technologien Kostbarkeiten von einst zu heben. Schatzjäger
             Mo Molinar will in den Gewässern vor Florida nach der 1715 versunkenen
             spanischen Flotte suchen. Die Schiffe waren beladen mit Gold und
             Juwelen für die Braut des Königs. (Text: Discovery Channel)'
+        director: Wayne Derrick
         air_date: '2000-03-08'
         duration: 26
         fernsehserien_episode_no: 51
@@ -1441,13 +1452,14 @@ seasons:
     -   overall_no: 52
         season_no: 2
         episode_no: 12
-        title: 'Im Bann der Rubine'
+        title: Im Bann der Rubine
         topic: Die Schatzjäger
         description: 'Moderne Schatzsucher sind immer auf der Suche nach etwas
             Einzigartigem. Im Niemandsland zwischen Thailand und Kambodscha
             suchen Juwelenhändler nach Rubinen. Tag für Tag riskieren Minenarbeiter
             ihr Leben in einem Gebiet, das von Landminen verseucht ist. (Text:
             Discovery Channel)'
+        director: Wayne Derrick
         air_date: '2000-03-09'
         duration: 26
         fernsehserien_episode_no: 52
@@ -1459,13 +1471,14 @@ seasons:
     -   overall_no: 53
         season_no: 2
         episode_no: 13
-        title: 'Die Klinik der Schamanen'
+        title: Die Klinik der Schamanen
         topic: Medizin der Zukunft
         description: 'Schamanen finden die Ursachen für Krankheiten in den
             Seelen ihrer Patienten. Nikolai Orschak leitet eine Schamanenklinik
             in Sibirien. Für die Menschen in Tuwa ist er Heilpraktiker, Psychotherapeut
             und Seelsorger in einem. Die Dokumentation analysiert die Heilkünste
             des sibirischen Schamanen. (Text: Discovery Channel)'
+        director: Ute Gebhardt
         air_date: '2000-05-01'
         duration: 26
         fernsehserien_episode_no: 53
@@ -1477,14 +1490,14 @@ seasons:
     -   overall_no: 54
         season_no: 2
         episode_no: 14
-        title: 'Organe nach Maß'
+        title: Organe nach Maß
         topic: Medizin der Zukunft
-        alias: Organe nach Maß
         description: 'Die Züchtung menschlicher Haut ist in der modernen Heilkunde
             bereits möglich, Ohr- und Gelenkknorpel werden bald folgen. Selbst
             innere Organe sollen sich eines Tages züchten lassen. Viele Kranke
             hoffen, durch diese Fortschritte bald ein besseres Leben zu führen.
             (Text: Discovery Channel)'
+        director: Helge Cramer
         air_date: '2000-05-02'
         duration: 26
         fernsehserien_episode_no: 54
@@ -1496,13 +1509,14 @@ seasons:
     -   overall_no: 55
         season_no: 2
         episode_no: 15
-        title: 'Die Jäger des Lassa-Virus'
+        title: Die Jäger des Lassa-Virus
         topic: Medizin der Zukunft
         description: 'Pro Jahr sterben mehr als 22.000 Menschen am Lassa-Fieber.
             In Deutschland erlangte die Krankheit durch den Tod der Kunststudentin
             Annegret V. traurige Berühmtheit. Der Mediziner Jan ter Meulen
             vom Bernhard-Nocht-Institut in Hamburg arbeitet in Guinea an der
             Erforschung der Tropenkrankheit. (Text: Discovery Channel)'
+        director: Dietrich von Ruffer
         air_date: '2000-05-03'
         duration: 26
         fernsehserien_episode_no: 55
@@ -1514,13 +1528,14 @@ seasons:
     -   overall_no: 56
         season_no: 2
         episode_no: 16
-        title: 'Chirurgen am Joystick'
+        title: Chirurgen am Joystick
         topic: Medizin der Zukunft
         description: 'Immer mehr Ärzte setzten auf High-Tech-Medizin. Sie
             vertrauen auf Computergesteuerte Geräte, die punktgenau eingesetzt
             werden können. Die Dokumentation beobachtet einige dieser medizinischen
             Roboter bei der Arbeit und besucht die Operationssäle der Zukunft.
             (Text: Discovery Channel)'
+        director: Achim Kampmann
         air_date: '2000-05-04'
         duration: 26
         fernsehserien_episode_no: 56
@@ -1532,13 +1547,14 @@ seasons:
     -   overall_no: 57
         season_no: 2
         episode_no: 17
-        title: 'Die Hightech-Polizei'
+        title: Die Hightech-Polizei
         topic: Dem Täter auf der Spur
         description: 'Der Cop der Zukunft könnte einen möglichen Angreifer
             bereits im Voraus mit Wärmekameras entdecken und ihn per Computer-Erkennungssystemen
             identifizieren. In den USA sind solche Ermittlungsmethoden schon
             fast Realität. Bereits heute ist bei der Polizei modernste Technologie
             im Einsatz. (Text: Discovery Geschichte)'
+        director: Nicolas Brown
         air_date: '2000-06-05'
         duration: 26
         fernsehserien_episode_no: 57
@@ -1557,6 +1573,7 @@ seasons:
             sich die weltweite Kunstszene täuschen ließ. Selbst renommierte
             Auktionshändler wie „Christie’s and Sotheby’s“ glaubten an die
             Echtheit der Fälschungen. (Text: Arte)'
+        director: Michael Hutchinson
         air_date: '2000-06-06'
         duration: 26
         fernsehserien_episode_no: 58
@@ -1568,7 +1585,7 @@ seasons:
     -   overall_no: 59
         season_no: 2
         episode_no: 19
-        title: 'Geheimnisse der Toten'
+        title: Geheimnisse der Toten
         topic: Dem Täter auf der Spur
         description: 'Die Welt des Verbrechens fasziniert Menschen aller Kulturen,
             und so zählt der Krimi in Büchern, Filmen und Fernsehen zu den
@@ -1582,6 +1599,7 @@ seasons:
             „360° - Die Geo-Reportage“ begibt sich mit der Bestsellerautorin
             Patricia Cornwell in die Leichenkammern der Gerichtsmedizin. (Text:
             arte)'
+        director: Michael Hutchinson
         air_date: '2000-06-07'
         duration: 26
         fernsehserien_episode_no: 59
@@ -1593,14 +1611,14 @@ seasons:
     -   overall_no: 60
         season_no: 2
         episode_no: 20
-        title: 'Psycho-Detektive'
+        title: Psycho-Detektive
         topic: Dem Täter auf der Spur
-        alias: Psycho-Detektive
         description: 'Robert Ressler ist einer der Pioniere auf dem Gebiet
             des „profiling“. In den 70er-Jahren konnte der FBI-Agent beweisen,
             dass ein psychologisches Profil helfen kann, Serienmörder zu fassen.
             Heute bildet die FBI-Akademie in Quantico im US-Bundesstaat Virginia
             landesweit Profiler aus. (Text: Discovery Channel)'
+        director: Nicolas Brown
         air_date: '2000-06-08'
         duration: 26
         fernsehserien_episode_no: 60
@@ -1612,10 +1630,9 @@ seasons:
     -   overall_no: 61
         season_no: 2
         episode_no: 21
-        title: 'Das Fenster zum Meer - Im Großaquarium
-            von Sydney'
+        title: Das Fenster zum Meer
+        subtitle: Im Großaquarium von Sydney
         topic: Im Reich der Meere
-        alias: Das Fenster zum Meer
         description: 'Das Aquarium in Sydney ist eine Wunderwelt für Wasserscheue:
             Besucher können trockenen Fußes auf dem Meeresboden spazieren
             gehen und sich von der Magie der Ozeane berauschen lassen. In
@@ -1632,15 +1649,15 @@ seasons:
     -   overall_no: 62
         season_no: 2
         episode_no: 22
-        title: 'Schwarze Brandung - Nach der Ölkatastrophe
-            an der bretonischen Küste'
+        title: Schwarze Brandung
+        subtitle: Nach der Ölkatastrophe an der bretonischen Küste
         topic: Im Reich der Meere
-        alias: Schwarze Brandung
         description: 'Im Dezember 1999 verunglückte der Tanker „Erika“ vor
             der bretonischen Küste. Bereits einige Monate später gab die französische
             Tourismusindustrie Entwarnung, die Strände seien wieder sauber.
             Umweltschützer prüfen, welche langfristigen Folgen die Tankerhavarie
             für Mensch und Tier haben wird. (Text: Discovery Channel)'
+        director: Dirk Heinemann
         air_date: '2000-09-05'
         duration: 26
         fernsehserien_episode_no: 62
@@ -1652,14 +1669,15 @@ seasons:
     -   overall_no: 63
         season_no: 2
         episode_no: 23
-        title: 'Durst nach Meer - Neue Methoden der Trinkwassergewinnung'
+        title: Durst nach Meer
+        subtitle: Neue Methoden der Trinkwassergewinnung
         topic: Im Reich der Meere
-        alias: Durst nach Meer
         description: 'Auf der Erde gibt es 1,4 Milliarden Kubikkilometer Wasser.
             Doch der größte Teil des Vorkommens besteht aus salzigen Meeren
             oder Dauereis. Wissenschaftler und Ingenieure in aller Welt arbeiten
             deshalb daran, die größten Wasserreservoire unseres Planeten anzuzapfen:
             Meere und Ozeane. (Text: Discovery Channel)'
+        director: Dr. Heidi Mühlenberg
         air_date: '2000-09-06'
         duration: 26
         fernsehserien_episode_no: 63
@@ -1671,16 +1689,16 @@ seasons:
     -   overall_no: 64
         season_no: 2
         episode_no: 24
-        title: 'SOS auf hoher See - Moderne Rettungstechnik
-            im Einsatz'
+        title: SOS auf hoher See
+        subtitle: Moderne Rettungstechnik im Einsatz
         topic: Im Reich der Meere
-        alias: SOS auf hoher See
         description: 'Für die ersten Rettungseinsätze auf See wurden noch
             Ruderboote eingesetzt. Heute sind es aufwändige High-Tech Schiffe.
             Die „Deutsche Gesellschaft zur Rettung Schiffbrüchiger“ zählt
             zu den modernsten Seenotrettungsdiensten der Welt. Seit der Gründung
             im Jahr 1865 konnte die deutsche Flotte über 65.000 Menschen aus
             dem Meer retten. (Text: Discovery Channel)'
+        director: Achim Kampmann
         air_date: '2000-09-07'
         duration: 26
         fernsehserien_episode_no: 64
@@ -1692,13 +1710,13 @@ seasons:
     -   overall_no: 65
         season_no: 2
         episode_no: 25
-        title: 'Die Feuerpatrouille'
+        title: Die Feuerpatrouille
         topic: Die Geheimnisse des Waldes
-        alias: Die Feuerpatrouille
         description: 'Jeden Sommer brennen allein in der Provence knapp 300
             Quadratkilometer Wald ab. „360º - Geo Reportage“ begibt sich auf
             eine nervenaufreibende Feuerpatrouille durch die beliebte Urlaubsregion
             im Süden Frankreichs. (Text: Arte)'
+        director: Heidrun Noske, Eva Jobst
         air_date: '2000-10-02'
         duration: 26
         fernsehserien_episode_no: 65
@@ -1710,14 +1728,14 @@ seasons:
     -   overall_no: 66
         season_no: 2
         episode_no: 26
-        title: 'Der letzte Märchenwald'
+        title: Der letzte Märchenwald
         topic: Die Geheimnisse des Waldes
         description: 'Im Böhmerwald in Tschechien gibt es noch Urwälder, unberührte
             Hochmoore und sprudelnde Wildbäche. Doch der letzte Märchenwald
             Europas ist in Gefahr. Borkenkäfer und die touristische Erschließung
             des Parks machen der Natur gleichermaßen zu schaffen. (Text: Discovery
             Channel)'
-        director: Dr. Ute Gebhardt
+        director: Ute Gebhardt
         air_date: '2000-10-03'
         duration: 26
         fernsehserien_episode_no: 66
@@ -1729,14 +1747,15 @@ seasons:
     -   overall_no: 67
         season_no: 2
         episode_no: 27
-        title: 'Chinas grüne Mauer'
-        topic: Die Geheimnisse des Waldes
+        title: Chinas grüne Mauer
         alias: Chinas grüne Mauer
+        topic: Die Geheimnisse des Waldes
         description: 'In China weitet sich die Wüste immer weiter aus, selbst
             Städte wie Peking werden von Sandstürmen heimgesucht. Die Bevölkerung
             führt einen verzweifelten Kampf gegen die Wüste. Schutzwälder
             und Mauern sollen die Menschen vor dem Schlimmsten bewahren. (Text:
             Discovery Channel)'
+        director: Achim Kampmann
         air_date: '2000-10-04'
         duration: 26
         fernsehserien_episode_no: 67
@@ -1749,15 +1768,16 @@ seasons:
     -   overall_no: 68
         season_no: 2
         episode_no: 28
-        title: 'Die Waldfabrik'
-        topic: Die Geheimnisse des Waldes
+        title: Die Waldfabrik
         alias: Die Waldfabrik
+        topic: Die Geheimnisse des Waldes
         description: 'Der Wald ist in Finnland ein wichtiger Wirtschaftsfaktor.
             Lange Zeit versuchte man, ihn genauso zu bewirtschaften wie Felder:
             Wälder wurden komplett kahl geschlagen und wieder neu ausgesät.
             Naturschützer protestieren schon lange gegen den Kahlschlag und
             propagieren eine schonendere Art der Holzgewinnung. (Text: Discovery
             Channel)'
+        director: Michael Erler
         air_date: '2000-10-05'
         duration: 26
         fernsehserien_episode_no: 68
@@ -1769,10 +1789,8 @@ seasons:
     -   overall_no: 69
         season_no: 2
         episode_no: 29
-        title: 'Himalaja - Tödliche
-            Höhe'
+        title: Himalaja - Tödliche Höhe
         topic: Leben am Limit / Grenzen des Körpers
-        alias: Himalaja - Tödliche Höhe
         description: 'Jedes Jahr machen sich mehr und mehr Expeditionen ins
             Himalaja-Gebirge auf, um den Mount Everest oder benachbarte Gipfel
             zu besteigen. Der Kräfte zehrende Aufstieg bringt die Bergsteiger
@@ -1780,6 +1798,7 @@ seasons:
             begleitet eine deutsche Expeditionsgruppe, die den Cho Oyu bezwingen
             will, der mit über 8.000 Metern einer der Giganten des Himalaja-Gebirges
             und der sechsthöchste Berg der Erde ist. (Text: Arte)'
+        director: Marion Heinrich, Lutz Protze
         air_date: '2000-11-06'
         duration: 26
         fernsehserien_episode_no: 69
@@ -1792,13 +1811,14 @@ seasons:
     -   overall_no: 70
         season_no: 2
         episode_no: 30
-        title: 'Apnoe-Taucher - Im Tiefenrausch'
+        title: Apnoe-Taucher - Im Tiefenrausch
         topic: Leben am Limit / Grenzen des Körpers
         description: 'Bis vor 100 Jahren glaubte man, der Mensch könne nicht
             tiefer als 30 Meter ohne Atemgerät tauchen. Eine neue Generation
             von Freitauchern, die so genannten Apnoe-Taucher, haben die Grenzen
             weit nach unten verschoben. Die Extremsportler brechen immer wieder
             neue Tiefen- und Längenrekorde. (Text: Discovery Channel)'
+        director: Frank Koschewski
         air_date: '2000-11-07'
         duration: 26
         fernsehserien_episode_no: 70
@@ -1810,9 +1830,9 @@ seasons:
     -   overall_no: 71
         season_no: 2
         episode_no: 31
-        title: 'Radrennen - Ewiger Endspurt'
-        topic: Leben am Limit / Grenzen des Körpers
+        title: Radrennen - Ewiger Endspurt
         alias: Radrennen - Ewiger Endspurt
+        topic: Leben am Limit / Grenzen des Körpers
         description: 'Radrennprofis betreiben eine der härtesten Sportarten.
             Profi-Radsportler wie Andreas Klöden vom Team Telekom haben ihre
             körperlichen Grenzen nahezu ausgereizt. Umso mehr zählen jetzt
@@ -1829,15 +1849,15 @@ seasons:
     -   overall_no: 72
         season_no: 2
         episode_no: 32
-        title: 'Sadhus - Heilige Aussteiger'
+        title: Sadhus - Heilige Aussteiger
         topic: Leben am Limit / Grenzen des Körpers
-        alias: Sadhus - Heilige Aussteiger
         description: 'Die „Heiligen Aussteiger“ von Paschupathinat in Nepal
             leben in Askese und fügen sich Schmerzen zu, weil sie hoffen,
             dadurch von Gott erlöst zu werden. „360° - Die Geo-Reportage“
             wagt sich an die Grenzen der menschlichen Existenz und bietet
             atemberaubende Eindrücke in ebenso faszinierende wie befremdliche
             Welten. (Text: Arte)'
+        director: Ute Gebhardt
         air_date: '2000-11-09'
         duration: 26
         fernsehserien_episode_no: 72
@@ -1849,13 +1869,14 @@ seasons:
     -   overall_no: 73
         season_no: 2
         episode_no: 33
-        title: 'Die Elefantenschule'
+        title: Die Elefantenschule
         topic: Tiere im Rampenlicht
         description: 'Im Gegensatz zu seinem asiatischen Artverwandten galt
             der afrikanische Elefant lange Zeit als unzähmbar. Doch eine Elefantenschule
             im Busch von Botswana beweist das Gegenteil: Seit zehn Jahren
             trainiert Amerikaner Randall Moore die Dickhäuter und bildet sie
             als Arbeitstiere aus. (Text: Discovery Channel)'
+        director: Krishna Govender
         air_date: '2000-12-04'
         duration: 26
         fernsehserien_episode_no: 73
@@ -1867,15 +1888,16 @@ seasons:
     -   overall_no: 74
         season_no: 2
         episode_no: 34
-        title: 'Der Rentier-Trek'
-        topic: Tiere im Rampenlicht
+        title: Der Rentier-Trek
         alias: Der Rentier-Trek
+        topic: Tiere im Rampenlicht
         description: 'Einst folgten die Sami ihren Herden zu Fuß durch die
             Weite der westlichen Finnmark, heute hüten sie ihre Herden mit
             Hilfe von Schneemobilen. Doch trotz dieser Anpassung an die moderne
             Zeit ist die Lebensform des Nomadenvolkes bedroht: Waldbesitzer
             klagen gegen die alten Weiderechte der Sami. (Text: Discovery
             Channel)'
+        director: Michael Hutchinson
         air_date: '2000-12-05'
         duration: 26
         fernsehserien_episode_no: 74
@@ -1887,7 +1909,7 @@ seasons:
     -   overall_no: 75
         season_no: 2
         episode_no: 35
-        title: 'Nicht ohne meinen Hund'
+        title: Nicht ohne meinen Hund
         topic: Tiere im Rampenlicht
         description: 'Die Beziehung zwischen Mensch und Hund basiert vor allem
             auf Vertrautheit und Loyalität. Hunde sind heute viel mehr als
@@ -1914,6 +1936,7 @@ seasons:
             erweiterte Pupillen, ein Zucken der Finger oder andere typische
             Merkmale, die zum Beispiel einem epileptischen Anfall vorausgehen.
             (Text: Arte)'
+        director: Michael Hutchinson
         air_date: '2000-12-06'
         duration: 26
         fernsehserien_episode_no: 75
@@ -1925,14 +1948,15 @@ seasons:
     -   overall_no: 76
         season_no: 2
         episode_no: 36
-        title: 'Kamele im Rennen'
-        topic: Tiere im Rampenlicht
+        title: Kamele im Rennen
         alias: Kamele im Rennen
+        topic: Tiere im Rampenlicht
         description: 'Schon vor hunderten von Jahren haben Beduinen bei religiösen
             Festen Kamelrennen veranstaltet. Heute ist aus der Tradition ein
             High-Tech-Sport geworden: Die Scheichs in den Vereinigten Arabischen
             Emiraten zahlen bis zu einer Million Dollar für ein perfekt gezüchtetes
             Tier. (Text: Discovery Channel)'
+        director: Mary Crisp
         air_date: '2000-12-07'
         duration: 26
         fernsehserien_episode_no: 76
@@ -1947,14 +1971,15 @@ seasons:
     -   overall_no: 77
         season_no: 3
         episode_no: 1
-        title: 'Timbuktu'
-        topic: Überleben in der Wüste
+        title: Timbuktu
         alias: Timbuktu
+        topic: Überleben in der Wüste
         description: 'Jahrhundertelang beflügelte der Name Timbuktu die Fantasie
             der Europäer. Legenden über unermesslichen Reichtum rankten sich
             um den Ort in der Wüste von Mali. Heute ist Timbuktu eine isolierte
             Stadt: Die Sahara rück unaufhaltsam vor, und die Bewohner leben
             in ständiger Angst vor politischen Unruhen. (Text: Discovery Channel)'
+        director: Nicholas Brown
         air_date: '2001-01-02'
         duration: 26
         fernsehserien_air_date: '2001-01-02'
@@ -1967,13 +1992,14 @@ seasons:
     -   overall_no: 78
         season_no: 3
         episode_no: 2
-        title: 'Die Frucht, die aus der Dürre kam'
+        title: „Die Frucht, die aus der Dürre kam“
         topic: Überleben in der Wüste
         description: 'Die Topnaar in der Wüste Namib sind eines der letzten
             Wüstenvölker der Erde. Wie bei vielen Naturvölkern ist ihre traditionelle
             Lebensweise bedroht. Die Kultivierung und der Anbau der Nara-Melone
             könnten Arbeitsplätze schaffen und die Existenz der Topnaar sichern.
             (Text: Discovery Channel)'
+        director: Nicolas Brown
         air_date: '2001-01-03'
         duration: 26
         fernsehserien_episode_no: 78
@@ -1985,13 +2011,14 @@ seasons:
     -   overall_no: 79
         season_no: 3
         episode_no: 3
-        title: 'Baumeister der Wüste'
+        title: Baumeister der Wüste
         topic: Überleben in der Wüste
         description: 'Die Architekten David Pearlmutter und Isac Meir erforschen
             die Bauweisen antiker Wüstenstädte. Ideale Wohnbedingungen fanden
             sie in der jordanischen Wüstenstadt Petra. Vor mehr als 2000 Jahren
             haben die Nabtäer hier in Felsen gehauene Häuser mit einem angenehmen
             Wohnklima gebaut. (Text: Discovery Channel)'
+        director: Mary Crisp
         air_date: '2001-01-04'
         duration: 26
         fernsehserien_air_date: '2001-01-04'
@@ -2004,14 +2031,15 @@ seasons:
     -   overall_no: 80
         season_no: 3
         episode_no: 4
-        title: 'Wüste auf Bewährung'
-        topic: Überleben in der Wüste
+        title: „Wüste auf Bewährung“
         title_fr: Les Prisonniers du Désert
+        topic: Überleben in der Wüste
         description: 'Die „Anaszi-Foundation“ hat sich auf Survivalkurse für
             straffällige Jugendliche spezialisiert. Zwei Monate lang müssen
             sich die Jugendlichen in der Wüste Arizonas behaupten. Dort lernen
             sie, mit der Natur in Einklang zu leben und die Tradition eines
             Indianerstammes fortzuführen. (Text: Discovery Channel)'
+        director: Johanna Gibbon
         air_date: '2001-01-05'
         duration: 26
         fernsehserien_episode_no: 80
@@ -2029,6 +2057,7 @@ seasons:
             Madrider Vorstadt wird nicht etwa von einer Baufirma errichtet,
             sondern von dem mittlerweile 75-Jährigen selbst. (Text: Discovery
             Channel)'
+        director: Peter Moers, Jörg Daniel Hissen
         air_date: '2001-03-05'
         duration: 26
         fernsehserien_episode_no: 81
@@ -2046,6 +2075,7 @@ seasons:
             als Entwicklungshelfer nach Venezuela. Auf der Halbinsel Paria
             haben sie ihr persönliches Paradies gefunden und sich der Rettung
             des Nebelwaldes verschrieben. (Text: Discovery Geschichte)'
+        director: Thomas Hauer, René Kirschey
         air_date: '2001-03-06'
         duration: 26
         fernsehserien_episode_no: 82
@@ -2062,6 +2092,7 @@ seasons:
             inmitten der südkalifornischen Wüste. Die eigenen Süßwasserreserven
             sind längst ausgeschöpft. Die Stadt lebt von Wasserimporten aus
             der Umgebung, ein skrupelloses Geschäft. (Text: Discovery Channel)'
+        director: Heidi Mühlenberg
         air_date: '2001-03-07'
         duration: 26
         fernsehserien_episode_no: 83
@@ -2074,11 +2105,12 @@ seasons:
         season_no: 3
         episode_no: 8
         title: Die Adern von Berlin
-        alias: Die Adern von Berlin - Der Wasserkreislauf einer Metropole
+        subtitle: Der Wasserkreislauf einer Metropole
         description: 'Nach der Wende wurden die Trinkwassernetze von Ost-
             und Westberlin verbunden und auf 7.700 Kilometer erweitert. Das
             kostbare Nass kommt jedoch nie zur Ruhe. Immer wieder wird es
             gepumpt, gefiltert, geflockt und umgewälzt. (Text: Discovery Channel)'
+        director: Heidrun Noske
         air_date: '2001-03-08'
         duration: 26
         fernsehserien_episode_no: 84
@@ -2096,6 +2128,7 @@ seasons:
             Strecke durch die Alpen soll die Fahrzeit zwischen Zürich und
             Mailand erheblich verkürzen. 2012 soll der erste Hochgeschwindigkeitszug
             durch den Tunnel fahren. (Text: Discovery Channel)'
+        director: Eva Jobst
         air_date: '2001-04-09'
         duration: 26
         fernsehserien_episode_no: 85
@@ -2114,6 +2147,7 @@ seasons:
             Stillstand. Da lediglich zwei Brücken die Stadt über den Bosporus
             hinweg verbinden, stehen Pendler regelmäßig im Stau. Der Bau einer
             dritten Brücke soll Abhilfe schaffen. (Text: Discovery Geschichte)'
+        director: Achim Kampmann
         air_date: '2001-04-10'
         duration: 26
         fernsehserien_episode_no: 86
@@ -2126,12 +2160,14 @@ seasons:
     -   overall_no: 87
         season_no: 3
         episode_no: 11
-        title: Die letzten Nixen - die Taucherinnen von Cheju
+        title: Die letzten Nixen
+        subtitle: die Taucherinnen von Cheju
         description: 'Es ist ein harter Job. Die sogenannten Haenyo auf der
             südkoreanischen Insel Cheju sind Frauen, die bis zu drei Minuten
             ohne Atemgerät tauchen - oft bis zu 20 Meter tief. Dabei suchen
             sie nach Muscheln und anderen Meeresfrüchten. „360° - Geo Reportage“
             zeigt einen aussterbenden Beruf. (Text: Arte)'
+        director: Ute Gebhardt
         air_date: '2001-04-11'
         duration: 26
         fernsehserien_episode_no: 87
@@ -2150,6 +2186,7 @@ seasons:
             und Nordamerika liefern. „360° - Die Geo-Reportage“ berichtet
             von einem Fischer in Brasilien, der im Netz der Industrie gefangen
             ist. (Text: Arte)'
+        director: Carmen Butta
         air_date: '2001-04-12'
         duration: 26
         fernsehserien_episode_no: 88
@@ -2168,6 +2205,7 @@ seasons:
             berechenbar zu machen. Mit neuen Vorhersagemethoden und Rettungsgeräten
             versuchen sie, die Zahl der Opfer zu verringern und Verschüttete
             zu retten. (Text: Discovery Channel)'
+        director: Peter-Hugo Scholz
         air_date: '2001-04-30'
         duration: 26
         fernsehserien_episode_no: 89
@@ -2180,13 +2218,14 @@ seasons:
     -   overall_no: 90
         season_no: 3
         episode_no: 14
-        title: Die Erbin Gandhis - Widerstand gegen einen Staudamm
-        alias: Die Erben Gandhis
+        title: Die Erbin Gandhis
+        subtitle: Widerstand gegen einen Staudamm
         description: 'Der Sardar-Sarovar-Damm ist die größte Staumauer Indiens.
             Jetzt soll das Prestigeobjekt am Narmada-Fluss um 100 Meter erhöht
             werden, doch die Menschen im Narmadatal weigern sich, ihre Felder
             und Dörfer zu verlassen. Die Bauern haben sich zusammengeschlossen,
             um gegen das Stauprojekt zu kämpfen. (Text: Discovery Channel)'
+        director: Walter Tauber
         air_date: '2001-05-01'
         duration: 26
         fernsehserien_episode_no: 90
@@ -2205,6 +2244,7 @@ seasons:
             Wüstenkrokodile, die seit Jahrzehnten als ausgestorben galten.
             Die Tiere leben in der Nähe von kleinen Flachwasserseen, die während
             der kurzen Regenzeit entstehen. (Text: Discovery Channel)'
+        director: Stephan Schmitz-Hertzberg, Tom Synnatzschke
         air_date: '2001-05-02'
         duration: 26
         fernsehserien_episode_no: 91
@@ -2242,6 +2282,7 @@ seasons:
             in Nordindien, um im heiligen Wasser des Ganges zu baden und der
             Erlösung im Nirvana ein Stück näher zu kommen. (Text: Discovery
             Channel)'
+        director: Marc O. Eberle
         air_date: '2001-06-04'
         duration: 26
         fernsehserien_episode_no: 93
@@ -2260,6 +2301,7 @@ seasons:
             Tradition noch heute gepflegt wird. „360° - Die Geo-Reportage“
             begleitet einen der Teilnehmer zum größten Wettkampf des Jahres.
             (Text: Arte)'
+        director: Svea Andersson
         air_date: '2001-06-05'
         duration: 26
         fernsehserien_episode_no: 94
@@ -2279,6 +2321,7 @@ seasons:
             DaimlerChrysler, Honda, Ford und Volkswagen gemeinsam an einem
             erdölunabhängigen und völlig emissionsfreien Auto, das schon bald
             über die Straßen rollen könnte. (Text: Discovery Channel)'
+        director: Uwe Sauermann
         air_date: '2001-06-06'
         duration: 26
         fernsehserien_episode_no: 95
@@ -2298,6 +2341,7 @@ seasons:
             Flugverkehr verdoppelt haben. Experten sorgen sich zunehmend um
             die Sicherheit auf den verstopften Luftrouten. (Text: Discovery
             Channel)'
+        director: Dirk Heinemann
         air_date: '2001-06-07'
         duration: 26
         fernsehserien_episode_no: 96
@@ -2316,6 +2360,7 @@ seasons:
             Schimpansen, die ohne den Schutz der Insel und die Hilfe ihrer
             menschlichen Betreuer nicht überleben könnten. Alleine in der
             Wildnis wären sie verloren. (Text: Discovery Channel)'
+        director: Peter Schuchardt
         air_date: '2001-09-03'
         duration: 26
         fernsehserien_episode_no: 97
@@ -2332,6 +2377,7 @@ seasons:
         description: '„360° - Die Geo-Reportage“ begleitet einen Mann, der
             in den Wäldern des Yellowstone-Nationalparks für das Überleben
             der letzten frei lebenden Bisons kämpft. (Text: Arte)'
+        director: Peter Moers, Jörg Daniel Hissen
         air_date: '2001-09-04'
         duration: 26
         fernsehserien_episode_no: 98
@@ -2351,6 +2397,7 @@ seasons:
             zu zerstören. Dabei haben einige Bauern eine besondere neue Aufgabe
             gefunden: In Farmen züchten sie seltene Schmetterlingsarten und
             verschicken die Tiere in die ganze Welt. (Text: Discovery Channel)'
+        director: Andrea Hauner
         air_date: '2001-09-05'
         duration: 26
         fernsehserien_episode_no: 99
@@ -2370,6 +2417,7 @@ seasons:
             Wissen mit neuer Technik verbinden. Er hat einen Minicomputer
             entwickelt, in den die Ureinwohner ihre Naturbeobachtungen mit
             Hilfe von Symbolen eingeben. (Text: Discovery Channel)'
+        director: Katja von Eisenhart-Rothe, Dominik von Eisenhart-Rothe
         air_date: '2001-09-06'
         duration: 26
         fernsehserien_episode_no: 100
@@ -2390,6 +2438,7 @@ seasons:
             ist die Hilfsorganisation Maiti Nepal, Mutter Nepal, sie kämpft
             für die Befreiung der verschleppten Mädchen. (Text: Discovery
             Geschichte)'
+        director: Marc O. Eberle
         air_date: '2001-10-01'
         duration: 26
         fernsehserien_episode_no: 101
@@ -2409,6 +2458,7 @@ seasons:
             Volkssport. Die firmeneigene Stadt mit etwa 10.000 Einwohnern
             ist deshalb streng abgesichert: Ohne Kontrolle kommt hier niemand
             rein oder raus. (Text: Discovery Geschichte)'
+        director: Henning Jaeckisch
         air_date: '2001-10-03'
         duration: 26
         fernsehserien_episode_no: 102
@@ -2428,6 +2478,7 @@ seasons:
             Die Dokumentation begleitet Eleuterio Flores, einen 72 Jahre alten
             Gaucho aus Leidenschaft, bei seiner Arbeit in den nördlichen Bergen
             Argentiniens. (Text: Discovery Channel)'
+        director: Michael Hutchinson
         air_date: '2001-10-04'
         duration: 26
         fernsehserien_episode_no: 103
@@ -2447,6 +2498,7 @@ seasons:
             die Rolle der Alten beginnt sich zu wandeln: Während ihre Autorität
             langsam schwindet, besetzen jüngere Männer lokale Regierungsposten
             und kontrollieren die Weiderechte. (Text: Discovery Channel)'
+        director: Michael Hutchinson, Kerstin Meyer
         air_date: '2001-10-05'
         duration: 26
         fernsehserien_episode_no: 104

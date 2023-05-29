@@ -349,15 +349,15 @@
 | NR_ST = 1
 | OT = Ernstfall Erdbeben<ref>Internetquellen zur Episode ''„Ernstfall Erdbeben“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/41-naturgewalten-ernstfall-erdbeben-339153 41] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/41-naturgewalten-ernstfall-erdbeben-339153 339153], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641913 S02E01] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641913 4641913], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=MXBz7QnU3Po MXBz7QnU3Po]</ref>
 | Feld1 = -
-| REG = -
+| REG = Jonathan Barker
 | EA = 2000-01-10
 }}
 {{Episodenlisteneintrag
 | NR_GES = 42
 | NR_ST = 2
-| OT = Tsunami - die Todeswelle<ref>Internetquellen zur Episode ''„Tsunami - die Todeswelle“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/42-naturgewalten-tsunami-die-todeswelle-339159 42] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/42-naturgewalten-tsunami-die-todeswelle-339159 339159], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641914 S02E02] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641914 4641914], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=DUxn9Li2rcU DUxn9Li2rcU]</ref>
+| OT = Tsunami - Die tödliche Welle<ref>Internetquellen zur Episode ''„Tsunami - Die tödliche Welle“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/42-naturgewalten-tsunami-die-todeswelle-339159 42] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/42-naturgewalten-tsunami-die-todeswelle-339159 339159], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641914 S02E02] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641914 4641914], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=DUxn9Li2rcU DUxn9Li2rcU]</ref>
 | Feld1 = -
-| REG = -
+| REG = Michael Hutchinson
 | EA = 2000-01-11
 }}
 {{Episodenlisteneintrag
@@ -365,7 +365,7 @@
 | NR_ST = 3
 | OT = Operation Wolkenbruch<ref>Internetquellen zur Episode ''„Operation Wolkenbruch“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/43-naturgewalten-operation-wolkenbruch-339160 43] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/43-naturgewalten-operation-wolkenbruch-339160 339160], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641915 S02E03] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641915 4641915], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=IjEjPOMZoGk IjEjPOMZoGk]</ref>
 | Feld1 = -
-| REG = -
+| REG = Jonathan Barker
 | EA = 2000-01-12
 }}
 {{Episodenlisteneintrag
@@ -373,7 +373,7 @@
 | NR_ST = 4
 | OT = Im Schatten des Vulkans<ref>Internetquellen zur Episode ''„Im Schatten des Vulkans“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/44-naturgewalten-im-schatten-des-vulkans-339161 44] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/44-naturgewalten-im-schatten-des-vulkans-339161 339161], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641916 S02E04] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641916 4641916], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=VNj_YNRPecU VNj_YNRPecU]</ref>
 | Feld1 = -
-| REG = -
+| REG = Michael Hutchinson
 | EA = 2000-01-13
 }}
 {{Episodenlisteneintrag
@@ -381,7 +381,7 @@
 | NR_ST = 5
 | OT = Casino der Häuptlinge<ref>Internetquellen zur Episode ''„Casino der Häuptlinge“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/45-spiele-des-lebens-casino-der-haeuptlinge-339162 45] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/45-spiele-des-lebens-casino-der-haeuptlinge-339162 339162], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641917 S02E05] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641917 4641917], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=aONYl3VUqW4 aONYl3VUqW4]</ref>
 | Feld1 = -
-| REG = -
+| REG = Carmen Butta
 | EA = 2000-02-07
 }}
 {{Episodenlisteneintrag
@@ -389,7 +389,7 @@
 | NR_ST = 6
 | OT = Schach - Krieg auf 64 Feldern<ref>Internetquellen zur Episode ''„Schach - Krieg auf 64 Feldern“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/46-spiele-des-lebens-schach-krieg-auf-64-feldern-339163 46] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/46-spiele-des-lebens-schach-krieg-auf-64-feldern-339163 339163], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641918 S02E06] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641918 4641918], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=DHhe-fv1P_o DHhe-fv1P_o]</ref>
 | Feld1 = -
-| REG = -
+| REG = Ilka Franzmann
 | EA = 2000-02-08
 }}
 {{Episodenlisteneintrag
@@ -397,7 +397,7 @@
 | NR_ST = 7
 | OT = Mehr als nur ein Kinderspiel<ref>Internetquellen zur Episode ''„Mehr als nur ein Kinderspiel“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/47-spiele-des-lebens-mehr-als-nur-ein-kinderspiel-339164 47] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/47-spiele-des-lebens-mehr-als-nur-ein-kinderspiel-339164 339164], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641919 S02E07] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641919 4641919], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=KXkwwZ_o6n0 KXkwwZ_o6n0]</ref>
 | Feld1 = -
-| REG = -
+| REG = Sabine Howe
 | EA = 2000-02-09
 }}
 {{Episodenlisteneintrag
@@ -405,7 +405,7 @@
 | NR_ST = 8
 | OT = Spielplatz Natur<ref>Internetquellen zur Episode ''„Spielplatz Natur“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/48-spiele-des-lebens-spielplatz-natur-339165 48] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/48-spiele-des-lebens-spielplatz-natur-339165 339165], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641920 S02E08] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641920 4641920], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007057 tt1007057], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=6XpJnxWkHnU 6XpJnxWkHnU]</ref>
 | Feld1 = -
-| REG = -
+| REG = Barbara Puskas
 | EA = 2000-02-10
 }}
 {{Episodenlisteneintrag
@@ -413,7 +413,7 @@
 | NR_ST = 9
 | OT = Beruf Grabräuber<ref>Internetquellen zur Episode ''„Beruf Grabräuber“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/49-die-schatzjaeger-beruf-grabraeuber-339166 49] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/49-die-schatzjaeger-beruf-grabraeuber-339166 339166], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641921 S02E09] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641921 4641921], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=lpcnsH66igQ lpcnsH66igQ]</ref>
 | Feld1 = -
-| REG = -
+| REG = Mary Crisp
 | EA = 2000-03-06
 }}
 {{Episodenlisteneintrag
@@ -421,7 +421,7 @@
 | NR_ST = 10
 | OT = Schätze aus dem All<ref>Internetquellen zur Episode ''„Schätze aus dem All“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/50-die-schatzjaeger-schaetze-aus-dem-all-339167 50] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/50-die-schatzjaeger-schaetze-aus-dem-all-339167 339167], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641922 S02E10] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641922 4641922], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=W_s6Qhvwh7Q W_s6Qhvwh7Q]</ref>
 | Feld1 = -
-| REG = -
+| REG = Mary Crisp
 | EA = 2000-03-07
 }}
 {{Episodenlisteneintrag
@@ -429,7 +429,7 @@
 | NR_ST = 11
 | OT = Die Taucher der Goldküste<ref>Internetquellen zur Episode ''„Die Taucher der Goldküste“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/51-die-schatzjaeger-die-taucher-der-goldkueste-339168 51] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/51-die-schatzjaeger-die-taucher-der-goldkueste-339168 339168], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641923 S02E11] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641923 4641923], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=Jsm-8wxKxDo Jsm-8wxKxDo]</ref>
 | Feld1 = -
-| REG = -
+| REG = Wayne Derrick
 | EA = 2000-03-08
 }}
 {{Episodenlisteneintrag
@@ -437,7 +437,7 @@
 | NR_ST = 12
 | OT = Im Bann der Rubine<ref>Internetquellen zur Episode ''„Im Bann der Rubine“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/52-die-schatzjaeger-im-bann-der-rubine-339169 52] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/52-die-schatzjaeger-im-bann-der-rubine-339169 339169], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641924 S02E12] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641924 4641924], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=hYYAObzGdVs hYYAObzGdVs]</ref>
 | Feld1 = -
-| REG = -
+| REG = Wayne Derrick
 | EA = 2000-03-09
 }}
 {{Episodenlisteneintrag
@@ -445,7 +445,7 @@
 | NR_ST = 13
 | OT = Die Klinik der Schamanen<ref>Internetquellen zur Episode ''„Die Klinik der Schamanen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/53-medizin-der-zukunft-die-klinik-der-schamanen-339171 53] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/53-medizin-der-zukunft-die-klinik-der-schamanen-339171 339171], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641925 S02E13] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641925 4641925], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=BsUR1lHoDNA BsUR1lHoDNA]</ref>
 | Feld1 = -
-| REG = -
+| REG = Ute Gebhardt
 | EA = 2000-05-01
 }}
 {{Episodenlisteneintrag
@@ -453,7 +453,7 @@
 | NR_ST = 14
 | OT = Organe nach Maß<ref>Internetquellen zur Episode ''„Organe nach Maß“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/54-medizin-der-zukunft-organe-nach-mass-339172 54] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/54-medizin-der-zukunft-organe-nach-mass-339172 339172], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641926 S02E14] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641926 4641926], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=unxzp52RP0c unxzp52RP0c]</ref>
 | Feld1 = -
-| REG = -
+| REG = Helge Cramer
 | EA = 2000-05-02
 }}
 {{Episodenlisteneintrag
@@ -461,7 +461,7 @@
 | NR_ST = 15
 | OT = Die Jäger des Lassa-Virus<ref>Internetquellen zur Episode ''„Die Jäger des Lassa-Virus“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/55-medizin-der-zukunft-die-jaeger-des-lassa-virus-339173 55] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/55-medizin-der-zukunft-die-jaeger-des-lassa-virus-339173 339173], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641927 S02E15] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641927 4641927], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=8ALpHNqxoL0 8ALpHNqxoL0]</ref>
 | Feld1 = -
-| REG = -
+| REG = Dietrich von Ruffer
 | EA = 2000-05-03
 }}
 {{Episodenlisteneintrag
@@ -469,7 +469,7 @@
 | NR_ST = 16
 | OT = Chirurgen am Joystick<ref>Internetquellen zur Episode ''„Chirurgen am Joystick“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/56-medizin-der-zukunft-chirurgen-am-joystick-339174 56] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/56-medizin-der-zukunft-chirurgen-am-joystick-339174 339174], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641928 S02E16] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641928 4641928], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=GlPBNbgtNpE GlPBNbgtNpE]</ref>
 | Feld1 = -
-| REG = -
+| REG = Achim Kampmann
 | EA = 2000-05-04
 }}
 {{Episodenlisteneintrag
@@ -477,7 +477,7 @@
 | NR_ST = 17
 | OT = Die Hightech-Polizei<ref>Internetquellen zur Episode ''„Die Hightech-Polizei“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/57-dem-taeter-auf-der-spur-die-hightech-polizei-339170 57] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/57-dem-taeter-auf-der-spur-die-hightech-polizei-339170 339170], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641929 S02E17] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641929 4641929], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=OeQIgSeBN5k OeQIgSeBN5k]</ref>
 | Feld1 = -
-| REG = -
+| REG = Nicolas Brown
 | EA = 2000-06-05
 }}
 {{Episodenlisteneintrag
@@ -485,7 +485,7 @@
 | NR_ST = 18
 | OT = Die Kunst des Fälschens<ref>Internetquellen zur Episode ''„Die Kunst des Fälschens“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/58-dem-taeter-auf-der-spur-die-kunst-des-faelschens-339175 58] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/58-dem-taeter-auf-der-spur-die-kunst-des-faelschens-339175 339175], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641930 S02E18] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641930 4641930], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=CuJOick2_ZY CuJOick2_ZY]</ref>
 | Feld1 = -
-| REG = -
+| REG = Michael Hutchinson
 | EA = 2000-06-06
 }}
 {{Episodenlisteneintrag
@@ -493,7 +493,7 @@
 | NR_ST = 19
 | OT = Geheimnisse der Toten<ref>Internetquellen zur Episode ''„Geheimnisse der Toten“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/59-dem-taeter-auf-der-spur-geheimnisse-der-toten-339308 59] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/59-dem-taeter-auf-der-spur-geheimnisse-der-toten-339308 339308], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641931 S02E19] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641931 4641931], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=bA5xe1HPaLw bA5xe1HPaLw]</ref>
 | Feld1 = -
-| REG = -
+| REG = Michael Hutchinson
 | EA = 2000-06-07
 }}
 {{Episodenlisteneintrag
@@ -501,13 +501,13 @@
 | NR_ST = 20
 | OT = Psycho-Detektive<ref>Internetquellen zur Episode ''„Psycho-Detektive“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/60-dem-taeter-auf-der-spur-psycho-detektive-339309 60] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/60-dem-taeter-auf-der-spur-psycho-detektive-339309 339309], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641932 S02E20] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641932 4641932], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=8yaQbw9XjbQ 8yaQbw9XjbQ]</ref>
 | Feld1 = -
-| REG = -
+| REG = Nicolas Brown
 | EA = 2000-06-08
 }}
 {{Episodenlisteneintrag
 | NR_GES = 61
 | NR_ST = 21
-| OT = Das Fenster zum Meer - Im Großaquarium von Sydney<ref>Internetquellen zur Episode ''„Das Fenster zum Meer - Im Großaquarium von Sydney“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/61-im-reich-der-meere-das-fenster-zum-meer-im-grossaquarium-von-sydney-339341 61] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/61-im-reich-der-meere-das-fenster-zum-meer-im-grossaquarium-von-sydney-339341 339341], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824557 S02E21] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824557 4824557], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=pr77EnZFwug pr77EnZFwug]</ref>
+| OT = Das Fenster zum Meer<ref>Internetquellen zur Episode ''„Das Fenster zum Meer“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/61-im-reich-der-meere-das-fenster-zum-meer-im-grossaquarium-von-sydney-339341 61] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/61-im-reich-der-meere-das-fenster-zum-meer-im-grossaquarium-von-sydney-339341 339341], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824557 S02E21] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824557 4824557], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=pr77EnZFwug pr77EnZFwug]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2000-09-04
@@ -515,25 +515,25 @@
 {{Episodenlisteneintrag
 | NR_GES = 62
 | NR_ST = 22
-| OT = Schwarze Brandung - Nach der Ölkatastrophe an der bretonischen Küste<ref>Internetquellen zur Episode ''„Schwarze Brandung - Nach der Ölkatastrophe an der bretonischen Küste“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/62-im-reich-der-meere-schwarze-brandung-nach-der-oelkatastrophe-an-der-bretonischen-kueste-339342 62] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/62-im-reich-der-meere-schwarze-brandung-nach-der-oelkatastrophe-an-der-bretonischen-kueste-339342 339342], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824558 S02E22] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824558 4824558], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=MQNTxheCFSw MQNTxheCFSw]</ref>
+| OT = Schwarze Brandung<ref>Internetquellen zur Episode ''„Schwarze Brandung“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/62-im-reich-der-meere-schwarze-brandung-nach-der-oelkatastrophe-an-der-bretonischen-kueste-339342 62] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/62-im-reich-der-meere-schwarze-brandung-nach-der-oelkatastrophe-an-der-bretonischen-kueste-339342 339342], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824558 S02E22] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824558 4824558], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=MQNTxheCFSw MQNTxheCFSw]</ref>
 | Feld1 = -
-| REG = -
+| REG = Dirk Heinemann
 | EA = 2000-09-05
 }}
 {{Episodenlisteneintrag
 | NR_GES = 63
 | NR_ST = 23
-| OT = Durst nach Meer - Neue Methoden der Trinkwassergewinnung<ref>Internetquellen zur Episode ''„Durst nach Meer - Neue Methoden der Trinkwassergewinnung“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/63-im-reich-der-meere-durst-nach-meer-neue-methoden-der-trinkwassergewinnung-339343 63] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/63-im-reich-der-meere-durst-nach-meer-neue-methoden-der-trinkwassergewinnung-339343 339343], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824559 S02E23] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824559 4824559], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=WAjs-VrhFNs WAjs-VrhFNs]</ref>
+| OT = Durst nach Meer<ref>Internetquellen zur Episode ''„Durst nach Meer“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/63-im-reich-der-meere-durst-nach-meer-neue-methoden-der-trinkwassergewinnung-339343 63] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/63-im-reich-der-meere-durst-nach-meer-neue-methoden-der-trinkwassergewinnung-339343 339343], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824559 S02E23] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824559 4824559], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=WAjs-VrhFNs WAjs-VrhFNs]</ref>
 | Feld1 = -
-| REG = -
+| REG = Dr. Heidi Mühlenberg
 | EA = 2000-09-06
 }}
 {{Episodenlisteneintrag
 | NR_GES = 64
 | NR_ST = 24
-| OT = SOS auf hoher See - Moderne Rettungstechnik im Einsatz<ref>Internetquellen zur Episode ''„SOS auf hoher See - Moderne Rettungstechnik im Einsatz“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/64-im-reich-der-meere-sos-auf-hoher-see-moderne-rettungstechnik-im-einsatz-339344 64] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/64-im-reich-der-meere-sos-auf-hoher-see-moderne-rettungstechnik-im-einsatz-339344 339344], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824560 S02E24] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824560 4824560], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=qVKSXlGRLbU qVKSXlGRLbU]</ref>
+| OT = SOS auf hoher See<ref>Internetquellen zur Episode ''„SOS auf hoher See“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/64-im-reich-der-meere-sos-auf-hoher-see-moderne-rettungstechnik-im-einsatz-339344 64] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/64-im-reich-der-meere-sos-auf-hoher-see-moderne-rettungstechnik-im-einsatz-339344 339344], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824560 S02E24] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824560 4824560], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=qVKSXlGRLbU qVKSXlGRLbU]</ref>
 | Feld1 = -
-| REG = -
+| REG = Achim Kampmann
 | EA = 2000-09-07
 }}
 {{Episodenlisteneintrag
@@ -541,7 +541,7 @@
 | NR_ST = 25
 | OT = Die Feuerpatrouille<ref>Internetquellen zur Episode ''„Die Feuerpatrouille“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/65-die-geheimnisse-des-waldes-die-feuerpatrouille-339345 65] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/65-die-geheimnisse-des-waldes-die-feuerpatrouille-339345 339345], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824561 S02E25] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824561 4824561], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=4dlXEbKTnKA 4dlXEbKTnKA]</ref>
 | Feld1 = -
-| REG = -
+| REG = Heidrun Noske, Eva Jobst
 | EA = 2000-10-02
 }}
 {{Episodenlisteneintrag
@@ -549,7 +549,7 @@
 | NR_ST = 26
 | OT = Der letzte Märchenwald<ref>Internetquellen zur Episode ''„Der letzte Märchenwald“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/66-die-geheimnisse-des-waldes-der-letzte-maerchenwald-339339 66] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/66-die-geheimnisse-des-waldes-der-letzte-maerchenwald-339339 339339], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824562 S02E26] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824562 4824562], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=vDFuRMVhqKA vDFuRMVhqKA]</ref>
 | Feld1 = -
-| REG = Dr. Ute Gebhardt
+| REG = Ute Gebhardt
 | EA = 2000-10-03
 }}
 {{Episodenlisteneintrag
@@ -557,7 +557,7 @@
 | NR_ST = 27
 | OT = Chinas grüne Mauer<ref>Internetquellen zur Episode ''„Chinas grüne Mauer“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/67-die-geheimnisse-des-waldes-chinas-gruene-mauer-339346 67] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/67-die-geheimnisse-des-waldes-chinas-gruene-mauer-339346 339346], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824563 S02E27] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824563 4824563], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007044 tt1007044], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=hPQpzybAEIU hPQpzybAEIU]</ref>
 | Feld1 = -
-| REG = -
+| REG = Achim Kampmann
 | EA = 2000-10-04
 }}
 {{Episodenlisteneintrag
@@ -565,7 +565,7 @@
 | NR_ST = 28
 | OT = Die Waldfabrik<ref>Internetquellen zur Episode ''„Die Waldfabrik“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/68-die-geheimnisse-des-waldes-die-waldfabrik-339347 68] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/68-die-geheimnisse-des-waldes-die-waldfabrik-339347 339347], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824564 S02E28] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824564 4824564], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=i4IRpDalTSM i4IRpDalTSM]</ref>
 | Feld1 = -
-| REG = -
+| REG = Michael Erler
 | EA = 2000-10-05
 }}
 {{Episodenlisteneintrag
@@ -573,7 +573,7 @@
 | NR_ST = 29
 | OT = Himalaja - Tödliche Höhe<ref>Internetquellen zur Episode ''„Himalaja - Tödliche Höhe“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/69-leben-am-limit-grenzen-des-koerpers-himalaja-toedliche-hoehe-339348 69] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/69-leben-am-limit-grenzen-des-koerpers-himalaja-toedliche-hoehe-339348 339348], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824565 S02E29] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824565 4824565], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007053 tt1007053], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=c1KAS1kahk8 c1KAS1kahk8]</ref>
 | Feld1 = -
-| REG = -
+| REG = Marion Heinrich, Lutz Protze
 | EA = 2000-11-06
 }}
 {{Episodenlisteneintrag
@@ -581,7 +581,7 @@
 | NR_ST = 30
 | OT = Apnoe-Taucher - Im Tiefenrausch<ref>Internetquellen zur Episode ''„Apnoe-Taucher - Im Tiefenrausch“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/70-leben-am-limit-grenzen-des-koerpers-apnoe-taucher-im-tiefenrausch-339349 70] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/70-leben-am-limit-grenzen-des-koerpers-apnoe-taucher-im-tiefenrausch-339349 339349], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824566 S02E30] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824566 4824566], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=jCzsdDS3yRI jCzsdDS3yRI]</ref>
 | Feld1 = -
-| REG = -
+| REG = Frank Koschewski
 | EA = 2000-11-07
 }}
 {{Episodenlisteneintrag
@@ -597,7 +597,7 @@
 | NR_ST = 32
 | OT = Sadhus - Heilige Aussteiger<ref>Internetquellen zur Episode ''„Sadhus - Heilige Aussteiger“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/72-leben-am-limit-grenzen-des-koerpers-sadhus-heilige-aussteiger-339351 72] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/72-leben-am-limit-grenzen-des-koerpers-sadhus-heilige-aussteiger-339351 339351], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824568 S02E32] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824568 4824568], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=xI5D3TCuoYM xI5D3TCuoYM]</ref>
 | Feld1 = -
-| REG = -
+| REG = Ute Gebhardt
 | EA = 2000-11-09
 }}
 {{Episodenlisteneintrag
@@ -605,7 +605,7 @@
 | NR_ST = 33
 | OT = Die Elefantenschule<ref>Internetquellen zur Episode ''„Die Elefantenschule“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/73-tiere-im-rampenlicht-die-elefantenschule-339352 73] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/73-tiere-im-rampenlicht-die-elefantenschule-339352 339352], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824569 S02E33] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824569 4824569], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=NY6caIukEX8 NY6caIukEX8]</ref>
 | Feld1 = -
-| REG = -
+| REG = Krishna Govender
 | EA = 2000-12-04
 }}
 {{Episodenlisteneintrag
@@ -613,7 +613,7 @@
 | NR_ST = 34
 | OT = Der Rentier-Trek<ref>Internetquellen zur Episode ''„Der Rentier-Trek“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/74-tiere-im-rampenlicht-der-rentier-trek-339353 74] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/74-tiere-im-rampenlicht-der-rentier-trek-339353 339353], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824570 S02E34] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824570 4824570], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=kw2Mk9Su7zg kw2Mk9Su7zg]</ref>
 | Feld1 = -
-| REG = -
+| REG = Michael Hutchinson
 | EA = 2000-12-05
 }}
 {{Episodenlisteneintrag
@@ -621,7 +621,7 @@
 | NR_ST = 35
 | OT = Nicht ohne meinen Hund<ref>Internetquellen zur Episode ''„Nicht ohne meinen Hund“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/75-tiere-im-rampenlicht-nicht-ohne-meinen-hund-339354 75] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/75-tiere-im-rampenlicht-nicht-ohne-meinen-hund-339354 339354], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824571 S02E35] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824571 4824571], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=ybc-zfL1KkE ybc-zfL1KkE]</ref>
 | Feld1 = -
-| REG = -
+| REG = Michael Hutchinson
 | EA = 2000-12-06
 }}
 {{Episodenlisteneintrag
@@ -629,7 +629,7 @@
 | NR_ST = 36
 | OT = Kamele im Rennen<ref>Internetquellen zur Episode ''„Kamele im Rennen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/76-tiere-im-rampenlicht-kamele-im-rennen-339355 76] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/76-tiere-im-rampenlicht-kamele-im-rennen-339355 339355], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824572 S02E36] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824572 4824572], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=LgBk0kjjk0E LgBk0kjjk0E]</ref>
 | Feld1 = -
-| REG = -
+| REG = Mary Crisp
 | EA = 2000-12-07
 }}
 }}
@@ -648,15 +648,15 @@
 | NR_ST = 1
 | OT = Timbuktu<ref>Internetquellen zur Episode ''„Timbuktu“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/77-ueberleben-in-der-wueste-timbuktu-339356 77] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/77-ueberleben-in-der-wueste-timbuktu-339356 339356], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641935 S03E01] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641935 4641935], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=u1QLrA-PNrs u1QLrA-PNrs]</ref>
 | Feld1 = -
-| REG = -
+| REG = Nicholas Brown
 | EA = 2001-01-02
 }}
 {{Episodenlisteneintrag
 | NR_GES = 78
 | NR_ST = 2
-| OT = Die Frucht, die aus der Dürre kam<ref>Internetquellen zur Episode ''„Die Frucht, die aus der Dürre kam“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/78-ueberleben-in-der-wueste-die-frucht-die-aus-der-duerre-kam-339357 78] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/78-ueberleben-in-der-wueste-die-frucht-die-aus-der-duerre-kam-339357 339357], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641936 S03E02] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641936 4641936], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=L1bcEWTOHm4 L1bcEWTOHm4]</ref>
+| OT = „Die Frucht, die aus der Dürre kam“<ref>Internetquellen zur Episode ''„„Die Frucht, die aus der Dürre kam““'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/78-ueberleben-in-der-wueste-die-frucht-die-aus-der-duerre-kam-339357 78] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/78-ueberleben-in-der-wueste-die-frucht-die-aus-der-duerre-kam-339357 339357], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641936 S03E02] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641936 4641936], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=L1bcEWTOHm4 L1bcEWTOHm4]</ref>
 | Feld1 = -
-| REG = -
+| REG = Nicolas Brown
 | EA = 2001-01-03
 }}
 {{Episodenlisteneintrag
@@ -664,15 +664,15 @@
 | NR_ST = 3
 | OT = Baumeister der Wüste<ref>Internetquellen zur Episode ''„Baumeister der Wüste“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/79-ueberleben-in-der-wueste-baumeister-der-wueste-339358 79] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/79-ueberleben-in-der-wueste-baumeister-der-wueste-339358 339358], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641937 S03E03] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641937 4641937], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=r6iPQL1WZ_I r6iPQL1WZ_I]</ref>
 | Feld1 = -
-| REG = -
+| REG = Mary Crisp
 | EA = 2001-01-04
 }}
 {{Episodenlisteneintrag
 | NR_GES = 80
 | NR_ST = 4
-| OT = Wüste auf Bewährung<ref>Internetquellen zur Episode ''„Wüste auf Bewährung“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/80-ueberleben-in-der-wueste-wueste-auf-bewaehrung-339359 80] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/80-ueberleben-in-der-wueste-wueste-auf-bewaehrung-339359 339359], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641938 S03E04] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641938 4641938], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=GA9d8JNQ0aY GA9d8JNQ0aY]</ref>
+| OT = „Wüste auf Bewährung“<ref>Internetquellen zur Episode ''„„Wüste auf Bewährung““'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/80-ueberleben-in-der-wueste-wueste-auf-bewaehrung-339359 80] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/80-ueberleben-in-der-wueste-wueste-auf-bewaehrung-339359 339359], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641938 S03E04] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641938 4641938], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=GA9d8JNQ0aY GA9d8JNQ0aY]</ref>
 | Feld1 = Les Prisonniers du Désert
-| REG = -
+| REG = Johanna Gibbon
 | EA = 2001-01-05
 }}
 {{Episodenlisteneintrag
@@ -680,7 +680,7 @@
 | NR_ST = 5
 | OT = Die Baustelle des Herrn<ref>Internetquellen zur Episode ''„Die Baustelle des Herrn“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/81-die-baustelle-des-herrn-339363 81] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/81-die-baustelle-des-herrn-339363 339363], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641939 S03E05] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641939 4641939], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=_1Ka_gTLjUw _1Ka_gTLjUw]</ref>
 | Feld1 = -
-| REG = -
+| REG = Peter Moers, Jörg Daniel Hissen
 | EA = 2001-03-05
 }}
 {{Episodenlisteneintrag
@@ -688,7 +688,7 @@
 | NR_ST = 6
 | OT = Im Einsatz für den Nebelwald<ref>Internetquellen zur Episode ''„Im Einsatz für den Nebelwald“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/82-retter-des-nebelwaldes-339364 82] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/82-retter-des-nebelwaldes-339364 339364], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641940 S03E06] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641940 4641940], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=gcOIjyneLdc gcOIjyneLdc]</ref>
 | Feld1 = -
-| REG = -
+| REG = Thomas Hauer, René Kirschey
 | EA = 2001-03-06
 }}
 {{Episodenlisteneintrag
@@ -696,7 +696,7 @@
 | NR_ST = 7
 | OT = Hollywood auf dem Trockenen<ref>Internetquellen zur Episode ''„Hollywood auf dem Trockenen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/83-hollywood-auf-dem-trockenen-339361 83] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/83-hollywood-auf-dem-trockenen-339361 339361], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641941 S03E07] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641941 4641941], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=1Xs3akVZkZA 1Xs3akVZkZA]</ref>
 | Feld1 = -
-| REG = -
+| REG = Heidi Mühlenberg
 | EA = 2001-03-07
 }}
 {{Episodenlisteneintrag
@@ -704,7 +704,7 @@
 | NR_ST = 8
 | OT = Die Adern von Berlin<ref>Internetquellen zur Episode ''„Die Adern von Berlin“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/84-die-adern-von-berlin-der-wasserkreislauf-einer-metropole-339366 84] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/84-die-adern-von-berlin-der-wasserkreislauf-einer-metropole-339366 339366], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641942 S03E08] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641942 4641942], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=rh-tBQxi6Ro rh-tBQxi6Ro]</ref>
 | Feld1 = -
-| REG = -
+| REG = Heidrun Noske
 | EA = 2001-03-08
 }}
 {{Episodenlisteneintrag
@@ -712,7 +712,7 @@
 | NR_ST = 9
 | OT = Operation Alpentunnel<ref>Internetquellen zur Episode ''„Operation Alpentunnel“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/85-operation-alpentunnel-339367 85] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/85-operation-alpentunnel-339367 339367], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641943 S03E09] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641943 4641943], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007056 tt1007056], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=9DqxNEBmpd8 9DqxNEBmpd8]</ref>
 | Feld1 = -
-| REG = -
+| REG = Eva Jobst
 | EA = 2001-04-09
 }}
 {{Episodenlisteneintrag
@@ -720,15 +720,15 @@
 | NR_ST = 10
 | OT = Brücke in den Orient<ref>Internetquellen zur Episode ''„Brücke in den Orient“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/86-bruecke-in-den-orient-339368 86] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/86-bruecke-in-den-orient-339368 339368], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641944 S03E10] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641944 4641944], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007042 tt1007042], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=X_u4jC40L_Q X_u4jC40L_Q]</ref>
 | Feld1 = -
-| REG = -
+| REG = Achim Kampmann
 | EA = 2001-04-10
 }}
 {{Episodenlisteneintrag
 | NR_GES = 87
 | NR_ST = 11
-| OT = Die letzten Nixen - die Taucherinnen von Cheju<ref>Internetquellen zur Episode ''„Die letzten Nixen - die Taucherinnen von Cheju“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/87-die-letzten-nixen-die-taucherinnen-von-cheju-339401 87] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/87-die-letzten-nixen-die-taucherinnen-von-cheju-339401 339401], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641945 S03E11] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641945 4641945], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=a_MPCOQDmZE a_MPCOQDmZE]</ref>
+| OT = Die letzten Nixen<ref>Internetquellen zur Episode ''„Die letzten Nixen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/87-die-letzten-nixen-die-taucherinnen-von-cheju-339401 87] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/87-die-letzten-nixen-die-taucherinnen-von-cheju-339401 339401], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641945 S03E11] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641945 4641945], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=a_MPCOQDmZE a_MPCOQDmZE]</ref>
 | Feld1 = -
-| REG = -
+| REG = Ute Gebhardt
 | EA = 2001-04-11
 }}
 {{Episodenlisteneintrag
@@ -736,7 +736,7 @@
 | NR_ST = 12
 | OT = Die Fischer vom Rio Negro<ref>Internetquellen zur Episode ''„Die Fischer vom Rio Negro“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/88-die-fischer-vom-rio-negro-339403 88] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/88-die-fischer-vom-rio-negro-339403 339403], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641946 S03E12] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641946 4641946], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007049 tt1007049], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=WU516e1cZ2E WU516e1cZ2E]</ref>
 | Feld1 = -
-| REG = -
+| REG = Carmen Butta
 | EA = 2001-04-12
 }}
 {{Episodenlisteneintrag
@@ -744,15 +744,15 @@
 | NR_ST = 13
 | OT = Anatomie einer Lawine<ref>Internetquellen zur Episode ''„Anatomie einer Lawine“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/89-anatomie-einer-lawine-339407 89] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/89-anatomie-einer-lawine-339407 339407], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641947 S03E13] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641947 4641947], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007041 tt1007041], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=q9NdtLN4tHo q9NdtLN4tHo]</ref>
 | Feld1 = -
-| REG = -
+| REG = Peter-Hugo Scholz
 | EA = 2001-04-30
 }}
 {{Episodenlisteneintrag
 | NR_GES = 90
 | NR_ST = 14
-| OT = Die Erbin Gandhis - Widerstand gegen einen Staudamm<ref>Internetquellen zur Episode ''„Die Erbin Gandhis - Widerstand gegen einen Staudamm“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/90-die-erbin-gandhis-widerstand-gegen-einen-staudamm-339408 90] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/90-die-erbin-gandhis-widerstand-gegen-einen-staudamm-339408 339408], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641948 S03E14] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641948 4641948], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007047 tt1007047], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=qoO1ZxQk_iQ qoO1ZxQk_iQ]</ref>
+| OT = Die Erbin Gandhis<ref>Internetquellen zur Episode ''„Die Erbin Gandhis“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/90-die-erbin-gandhis-widerstand-gegen-einen-staudamm-339408 90] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/90-die-erbin-gandhis-widerstand-gegen-einen-staudamm-339408 339408], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641948 S03E14] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641948 4641948], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007047 tt1007047], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=qoO1ZxQk_iQ qoO1ZxQk_iQ]</ref>
 | Feld1 = -
-| REG = -
+| REG = Walter Tauber
 | EA = 2001-05-01
 }}
 {{Episodenlisteneintrag
@@ -760,7 +760,7 @@
 | NR_ST = 15
 | OT = Die Spur der Wüstenkrokodile<ref>Internetquellen zur Episode ''„Die Spur der Wüstenkrokodile“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/91-die-spur-der-wuestenkrokodile-339409 91] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/91-die-spur-der-wuestenkrokodile-339409 339409], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641949 S03E15] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641949 4641949], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007050 tt1007050], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=MFuattuR9DA MFuattuR9DA]</ref>
 | Feld1 = -
-| REG = -
+| REG = Stephan Schmitz-Hertzberg, Tom Synnatzschke
 | EA = 2001-05-02
 }}
 {{Episodenlisteneintrag
@@ -776,7 +776,7 @@
 | NR_ST = 17
 | OT = Kumbh Mela - Das größte Fest der Welt<ref>Internetquellen zur Episode ''„Kumbh Mela - Das größte Fest der Welt“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/93-kumbh-mela-das-groesste-fest-der-welt-339411 93] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/93-kumbh-mela-das-groesste-fest-der-welt-339411 339411], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641951 S03E17] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641951 4641951], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007055 tt1007055], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=GygKg1HaK3U GygKg1HaK3U]</ref>
 | Feld1 = -
-| REG = -
+| REG = Marc O. Eberle
 | EA = 2001-06-04
 }}
 {{Episodenlisteneintrag
@@ -784,7 +784,7 @@
 | NR_ST = 18
 | OT = Buzkashi - Spiel der Steppenreiter<ref>Internetquellen zur Episode ''„Buzkashi - Spiel der Steppenreiter“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/94-buzkashi-spiel-der-steppenreiter-339413 94] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/94-buzkashi-spiel-der-steppenreiter-339413 339413], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641952 S03E18] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641952 4641952], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007043 tt1007043], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=6PKOPZ6vHfw 6PKOPZ6vHfw]</ref>
 | Feld1 = -
-| REG = -
+| REG = Svea Andersson
 | EA = 2001-06-05
 }}
 {{Episodenlisteneintrag
@@ -792,7 +792,7 @@
 | NR_ST = 19
 | OT = Wasserstoff im Tank<ref>Internetquellen zur Episode ''„Wasserstoff im Tank“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/95-wasser-im-tank-339414 95] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/95-wasser-im-tank-339414 339414], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641953 S03E19] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641953 4641953], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007059 tt1007059], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=H-U9h4gjRpQ H-U9h4gjRpQ]</ref>
 | Feld1 = -
-| REG = -
+| REG = Uwe Sauermann
 | EA = 2001-06-06
 }}
 {{Episodenlisteneintrag
@@ -800,7 +800,7 @@
 | NR_ST = 20
 | OT = Stau am Himmel<ref>Internetquellen zur Episode ''„Stau am Himmel“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/96-stau-am-himmel-339415 96] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/96-stau-am-himmel-339415 339415], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641954 S03E20] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641954 4641954], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007058 tt1007058], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=dvHVBW4rOLY dvHVBW4rOLY]</ref>
 | Feld1 = -
-| REG = -
+| REG = Dirk Heinemann
 | EA = 2001-06-07
 }}
 {{Episodenlisteneintrag
@@ -808,7 +808,7 @@
 | NR_ST = 21
 | OT = Das Waisenhaus der Affen<ref>Internetquellen zur Episode ''„Das Waisenhaus der Affen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/97-das-waisenhaus-der-affen-339416 97] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/97-das-waisenhaus-der-affen-339416 339416], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641955 S03E21] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641955 4641955], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007045 tt1007045], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=bnV-Ze-vAZA bnV-Ze-vAZA]</ref>
 | Feld1 = -
-| REG = -
+| REG = Peter Schuchardt
 | EA = 2001-09-03
 }}
 {{Episodenlisteneintrag
@@ -816,7 +816,7 @@
 | NR_ST = 22
 | OT = Die Bisonwächter<ref>Internetquellen zur Episode ''„Die Bisonwächter“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/98-die-bisonwaechter-339418 98] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/98-die-bisonwaechter-339418 339418], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641956 S03E22] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641956 4641956], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007046 tt1007046], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=1Bf6xUJ2jJ0 1Bf6xUJ2jJ0]</ref>
 | Feld1 = -
-| REG = -
+| REG = Peter Moers, Jörg Daniel Hissen
 | EA = 2001-09-04
 }}
 {{Episodenlisteneintrag
@@ -824,7 +824,7 @@
 | NR_ST = 23
 | OT = Die Farm der Schmetterlinge<ref>Internetquellen zur Episode ''„Die Farm der Schmetterlinge“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/99-die-farm-der-schmetterlinge-339419 99] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/99-die-farm-der-schmetterlinge-339419 339419], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641957 S03E23] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641957 4641957], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007048 tt1007048], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=bxBVKiUHOpE bxBVKiUHOpE]</ref>
 | Feld1 = -
-| REG = -
+| REG = Andrea Hauner
 | EA = 2001-09-05
 }}
 {{Episodenlisteneintrag
@@ -832,7 +832,7 @@
 | NR_ST = 24
 | OT = Fährtensucher online<ref>Internetquellen zur Episode ''„Fährtensucher online“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/100-faehrtensucher-online-339420 100] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/100-faehrtensucher-online-339420 339420], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641958 S03E24] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641958 4641958], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007052 tt1007052], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=OWZJehCh4hk OWZJehCh4hk]</ref>
 | Feld1 = -
-| REG = -
+| REG = Katja von Eisenhart-Rothe, Dominik von Eisenhart-Rothe
 | EA = 2001-09-06
 }}
 {{Episodenlisteneintrag
@@ -840,7 +840,7 @@
 | NR_ST = 25
 | OT = Nepals verkaufte Töchter<ref>Internetquellen zur Episode ''„Nepals verkaufte Töchter“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/101-nepals-verkaufte-toechter-339421 101] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/101-nepals-verkaufte-toechter-339421 339421], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641959 S03E25] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641959 4641959], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042939 tt1042939], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=zvAm_rmvynU zvAm_rmvynU]</ref>
 | Feld1 = -
-| REG = -
+| REG = Marc O. Eberle
 | EA = 2001-10-01
 }}
 {{Episodenlisteneintrag
@@ -848,7 +848,7 @@
 | NR_ST = 26
 | OT = Die Stadt der Diamanten<ref>Internetquellen zur Episode ''„Die Stadt der Diamanten“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/102-die-stadt-der-diamanten-339422 102] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/102-die-stadt-der-diamanten-339422 339422], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641960 S03E26] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641960 4641960], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042933 tt1042933], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=5G9nvOInLfA 5G9nvOInLfA]</ref>
 | Feld1 = -
-| REG = -
+| REG = Henning Jaeckisch
 | EA = 2001-10-03
 }}
 {{Episodenlisteneintrag
@@ -856,7 +856,7 @@
 | NR_ST = 27
 | OT = Gaucho auf Lebenszeit<ref>Internetquellen zur Episode ''„Gaucho auf Lebenszeit“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/103-gaucho-auf-lebenszeit-339423 103] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/103-gaucho-auf-lebenszeit-339423 339423], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641961 S03E27] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641961 4641961], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042936 tt1042936], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=cJKLHLFDYXU cJKLHLFDYXU]</ref>
 | Feld1 = -
-| REG = -
+| REG = Michael Hutchinson
 | EA = 2001-10-04
 }}
 {{Episodenlisteneintrag
@@ -864,7 +864,7 @@
 | NR_ST = 28
 | OT = Der Großvater der Massai<ref>Internetquellen zur Episode ''„Der Großvater der Massai“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/104-der-grossvater-der-massai-339424 104] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/104-der-grossvater-der-massai-339424 339424], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641962 S03E28] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641962 4641962], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042926 tt1042926], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=oHFU1aOHGr0 oHFU1aOHGr0]</ref>
 | Feld1 = -
-| REG = -
+| REG = Michael Hutchinson, Kerstin Meyer
 | EA = 2001-10-05
 }}
 }}
