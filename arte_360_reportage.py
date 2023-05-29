@@ -104,7 +104,6 @@ class Markdown:
 
 
 class YouTube:
-
     YOUTUBE_API_SERVICE_NAME = "youtube"
 
     YOUTUBE_API_VERSION = "v3"
@@ -125,7 +124,6 @@ class YouTube:
         )
 
     def fetch_videos_by_playlist(self, playlist_id: str):
-
         result = (
             self.resource.playlistItems()
             .list(part="snippet", playlistId=playlist_id, maxResults=50)
@@ -423,6 +421,10 @@ class Episode:
     @description.setter
     def description(self, description: str) -> None:
         self.data["description"] = description
+
+    @property
+    def description_short(self) -> str | None:
+        return self.__get_str_key("description_short")
 
     @property
     def director(self) -> str | None:
@@ -812,22 +814,50 @@ class WikiTemplate(abc.ABC):
 
 class DeWiki(WikiTemplate):
     @staticmethod
+    def key(key: str, value: typing.Any) -> str:
+        return f"| {key} = {value}\n"
+
+    @staticmethod
     def episode(episode: Episode) -> str:
         """
         https://de.wikipedia.org/wiki/Vorlage:Episodenlisteneintrag
+
+        https://de.wikipedia.org/wiki/Vorlage:Episodenlisteneintrag2
         """
+        key = DeWiki.key
+
         title: str = episode.title
-        if episode.title_fr:
-            title += f" / {episode.title_fr}"
         title += Wiki.ref(episode.fernsehserien_url)
         title += Wiki.ref(episode.thetvdb_url)
         title += Wiki.ref(episode.imdb_url)
         title += Wiki.ref(episode.youtube_url)
+
+        template = "Episodenlisteneintrag"
+        summary = ""
+        if episode.description_short:
+            template = "Episodenlisteneintrag2"
+            summary = key("ZF", episode.description_short)
+
+        title_fr = episode.title_fr
+        if not title_fr:
+            title_fr = "-"
+
+        director = episode.director
+        if not director:
+            director = "-"
+
         return (
-            "{{Episodenlisteneintrag\n"
-            "| NR_GES = " + str(episode.overall_no) + "\n"
-            "| NR_ST = " + str(episode.episode_no) + "\n"
-            "| OT = " + title + "\n" + "| EA = " + episode.air_date + "\n" + "}}"
+            "{{"
+            + template
+            + "\n"
+            + key("NR_GES", episode.overall_no)
+            + key("NR_ST", episode.episode_no)
+            + key("OT", title)
+            + key("Feld1", title_fr)
+            + key("REG", director)
+            + key("EA", episode.air_date)
+            + summary
+            + "}}"
         )
 
     @staticmethod
@@ -836,17 +866,13 @@ class DeWiki(WikiTemplate):
         https://de.wikipedia.org/wiki/Vorlage:Episodenlistentabelle
         """
         return (
-            "\n=== Staffel "
-            + str(season.no)
-            + " ("
-            + str(season.year)
-            + ")"
-            + " ===\n\n"
+            "\n=== Staffel {season.no} ({season.year}) ===\n\n"
             + "{{Episodenlistentabelle|BREITE=100%\n"
             + "| ZUSAMMENFASSUNG = nein\n"
             + "| SORTIERBAR = nein\n"
-            + "| REGISSEUR = nein\n"
+            + "| REGISSEUR = ja\n"
             + "| DREHBUCH = nein\n"
+            + "| Feld1 = Französischer Titel\n"
             + "| INHALT =\n"
             + "\n".join(episode_entries)
             + "\n}}"
