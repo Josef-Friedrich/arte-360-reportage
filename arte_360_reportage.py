@@ -462,6 +462,15 @@ class EpisodeData(typing.TypedDict):
     youtube_video_id: str
     """for example ``wriortwg56E``"""
 
+    geo_url: str
+    """URL https://www.geo.de/geo-tv ..."""
+
+    schulfilme_url: str
+    """URL https://www.schulfilme-online.de ..."""
+
+    ard_url: str
+    """https://programm.ard.de/TV/Programm/Sender/?sendung=287246586390227"""
+
 
 class Episode:
     data: EpisodeData

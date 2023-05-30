@@ -1035,7 +1035,7 @@
 | NR_ST = 20
 | OT = Sir Peter Blake - Expedition ins ewige Eis<ref>Internetquellen zur Episode ''„Sir Peter Blake - Expedition ins ewige Eis“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/124-sir-peter-blake-expedition-ins-ewige-eis-339448 124] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/124-sir-peter-blake-expedition-ins-ewige-eis-339448 339448], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641982 S04E20] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641982 4641982], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1051734 tt1051734]</ref>
 | Feld1 = -
-| REG = -
+| REG = Dan Gold
 | EA = 2002-09-02
 }}
 {{Episodenlisteneintrag
@@ -1121,7 +1121,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 135
 | NR_ST = 31
-| OT = Die Abalone-Wilderer - Der Kampf um den Erhalt einer Seeschneckenart<ref>Internetquellen zur Episode ''„Die Abalone-Wilderer - Der Kampf um den Erhalt einer Seeschneckenart“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/135-die-abalone-wilderer-der-kampf-um-den-erhalt-einer-seeschneckenart-339460 135] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/135-die-abalone-wilderer-der-kampf-um-den-erhalt-einer-seeschneckenart-339460 339460], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641993 S04E31] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641993 4641993], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=kF1VEBBmF0A kF1VEBBmF0A]</ref>
+| OT = Die Abalone-Wilderer<ref>Internetquellen zur Episode ''„Die Abalone-Wilderer“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/135-die-abalone-wilderer-der-kampf-um-den-erhalt-einer-seeschneckenart-339460 135] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/135-die-abalone-wilderer-der-kampf-um-den-erhalt-einer-seeschneckenart-339460 339460], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641993 S04E31] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641993 4641993], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=kF1VEBBmF0A kF1VEBBmF0A]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-11-07
@@ -1156,7 +1156,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 138
 | NR_ST = 3
-| OT = Die Söldner der Perlen - Der lebensgefährliche Job<ref>Internetquellen zur Episode ''„Die Söldner der Perlen - Der lebensgefährliche Job“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/138-die-soeldner-der-perlen-der-lebensgefaehrliche-job-339463 138] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/138-die-soeldner-der-perlen-der-lebensgefaehrliche-job-339463 339463], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641996 S05E03] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641996 4641996]</ref>
+| OT = Die Söldner der Perlen<ref>Internetquellen zur Episode ''„Die Söldner der Perlen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/138-die-soeldner-der-perlen-der-lebensgefaehrliche-job-339463 138] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/138-die-soeldner-der-perlen-der-lebensgefaehrliche-job-339463 339463], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641996 S05E03] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641996 4641996]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2003-01-08
