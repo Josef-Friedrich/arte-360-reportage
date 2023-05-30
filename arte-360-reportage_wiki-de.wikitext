@@ -5060,7 +5060,7 @@
 | Feld1 = Le tribunal flottant de l'amazone
 | REG = Manuel Fenn
 | EA = 2022-08-06
-| ZF = Die Initiative „Justicia Itinerante“ wurde von der Richterin Sueli Pini ins Leben gerufen, um den Menschen im abgelegenen Amazonas-Delta Zugang zur Justiz zu ermöglichen. Mit einem Justizschiff namens "Joao Bruno II" reisen brasilianische Richter seit vielen Jahren zu den entlegenen Dörfern, in denen Menschen ohne Pass oder Geburtsurkunde leben. Durch diese Maßnahme sollen staatliche Dienstleistungen für die Bevölkerung bereitgestellt und ihre rechtlichen Bedürfnisse erfüllt werden. Der genaue Bevölkerungsstand am Amazonas ist jedoch immer noch unbekannt.
+| ZF = Die Initiative „Justicia Itinerante“ wurde von der Richterin Sueli Pini ins Leben gerufen, um den Menschen im abgelegenen Amazonas-Delta Zugang zur Justiz zu ermöglichen. Mit einem Justizschiff namens „Joao Bruno II“ reisen brasilianische Richter seit vielen Jahren zu den entlegenen Dörfern, in denen Menschen ohne Pass oder Geburtsurkunde leben. Durch diese Maßnahme sollen staatliche Dienstleistungen für die Bevölkerung bereitgestellt und ihre rechtlichen Bedürfnisse erfüllt werden. Der genaue Bevölkerungsstand am Amazonas ist jedoch immer noch unbekannt.
 }}
 {{Episodenlisteneintrag2
 | NR_GES = 597
