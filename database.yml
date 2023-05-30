@@ -2353,24 +2353,23 @@ seasons:
             unterschätzt haben. (Text: Arte)'
         description_youtube: 'Glück gehabt, sagt der Volksmund, wenn wir einem
             Unheil knapp entronnen sind. Doch das Glück, das wir uns erträumen
-            ist ein anderes, ein beständigeres. Gianni Conte fand dieses
-            Glück erst nach seinem Motorradunfall, der ihn an den Rollstuhl
-            fesselte: Ein lang anhaltendes Glücksgefühl erlangt man nur,
-            indem man Schwierigkeiten bewältigt und an ihnen wächst.
+            ist ein anderes, ein beständigeres. Gianni Conte fand dieses Glück
+            erst nach seinem Motorradunfall, der ihn an den Rollstuhl fesselte:
+            Ein lang anhaltendes Glücksgefühl erlangt man nur, indem man Schwierigkeiten
+            bewältigt und an ihnen wächst.
 
             Nicht ohne Grund ist die Anzahl der glücklichen Menschen in Deutschland
-            seit 1954 gleich geblieben, während der Lebensstandard enorm
-            stieg. Das Problem ist, mehr Geld, mehr Komfort und mehr Freizeit
-            machen uns nicht glücklicher. Mihaly Cszikszentmihalyi, Psychologe
-            an der Universität von Chicago, behauptet, dass „Flow“ der Schlüssel
-            zum Glück sei; das „Einswerden mit der Tätigkeit, neben der
-            alles andere bedeutungslos wird“. Der Glücksforscher hat über
-            6000 Menschen weltweit befragt und fand das totale Flow-Erlebnis
-            in den unterschiedlichsten Berufsgruppen und Gesellschaftsschichten
-            vom Fließbandarbeiter bis zum Fallschirmspringer.
+            seit 1954 gleich geblieben, während der Lebensstandard enorm stieg.
+            Das Problem ist, mehr Geld, mehr Komfort und mehr Freizeit machen
+            uns nicht glücklicher. Mihaly Cszikszentmihalyi, Psychologe an
+            der Universität von Chicago, behauptet, dass „Flow“ der Schlüssel
+            zum Glück sei; das „Einswerden mit der Tätigkeit, neben der alles
+            andere bedeutungslos wird“. Der Glücksforscher hat über 6000 Menschen
+            weltweit befragt und fand das totale Flow-Erlebnis in den unterschiedlichsten
+            Berufsgruppen und Gesellschaftsschichten vom Fließbandarbeiter
+            bis zum Fallschirmspringer.
 
-            „360°
-            Die GEO-Reportage“ deckt auf, warum manche Menschen scheinbar
+            „360° Die GEO-Reportage“ deckt auf, warum manche Menschen scheinbar
             das Glück für sich gepachtet haben, während andere vergeblich
             darauf warten.'
         director: Harold Woetzel
@@ -5594,6 +5593,7 @@ seasons:
         title: „Wüste auf Bewährung“
         title_fr: Les Prisonniers du Désert
         topic: Überleben in der Wüste
+        continent: Amerika
         description: 'Im Südwesten der USA gibt man kriminellen und schwererziehbaren
             Jugendlichen eine ganz besondere zweite Chance. Sie sollen sich
             in den ausgedörrten, weiten Ebenen Arizonas bewähren. Geleitet
@@ -5645,6 +5645,10 @@ seasons:
         air_date: '2001-01-05'
         duration: 26
         duration_sec: 1589
+        location_wikidata: Q49261
+        coordinates:
+        - 33.415°
+        - -111.831389°
         fernsehserien_episode_no: 80
         fernsehserien_episode_slug: 80-ueberleben-in-der-wueste-wueste-auf-bewaehrung-339359
         fernsehserien_episode_id: 339359
@@ -5655,6 +5659,7 @@ seasons:
         season_no: 3
         episode_no: 5
         title: Die Baustelle des Herrn
+        continent: Europa
         description: 'Der heute 75 jährige Spanier Justo Gallego Martinez
             baut seit mittlerweile fast 40 Jahren an seiner Kirche, meist
             ohne fremde Hilfe. Schon heute ist sie 25 Meter breit und 55 Meter
@@ -5708,6 +5713,10 @@ seasons:
         air_date: '2001-03-05'
         duration: 26
         duration_sec: 1583
+        location_wikidata: Q1984852
+        coordinates:
+        - 40.396667
+        - -3.484167
         fernsehserien_episode_no: 81
         fernsehserien_episode_slug: 81-die-baustelle-des-herrn-339363
         fernsehserien_episode_id: 339363
@@ -5719,6 +5728,7 @@ seasons:
         episode_no: 6
         title: Im Einsatz für den Nebelwald
         alias: Retter des Nebelwaldes
+        continent: Amerika
         description: 'Die Halbinsel Paria, Venezuela: traumhafte Strände,
             einzigartige Nebelwälder und eine enorme Artenvielfalt. Wilfried
             Merle und Klaus Müller gingen als Entwicklungshelfer in das Land.
@@ -5766,6 +5776,10 @@ seasons:
         air_date: '2001-03-06'
         duration: 26
         duration_sec: 1583
+        location_wikidata: Q1668558
+        coordinates:
+        - 10.7
+        - -62.5
         fernsehserien_episode_no: 82
         fernsehserien_episode_slug: 82-retter-des-nebelwaldes-339364
         fernsehserien_episode_id: 339364
@@ -5821,6 +5835,10 @@ seasons:
         air_date: '2001-03-07'
         duration: 26
         duration_sec: 1581
+        location_wikidata: Q65
+        coordinates:
+        - 34.05223
+        - -118.24368
         fernsehserien_episode_no: 83
         fernsehserien_episode_slug: 83-hollywood-auf-dem-trockenen-339361
         fernsehserien_episode_id: 339361
@@ -5883,6 +5901,10 @@ seasons:
         air_date: '2001-03-08'
         duration: 26
         duration_sec: 1559
+        location_wikidata: Q64
+        coordinates:
+        - 52.516667
+        - 13.383333
         fernsehserien_episode_no: 84
         fernsehserien_episode_slug: 84-die-adern-von-berlin-der-wasserkreislauf-einer-metropole-339366
         fernsehserien_episode_id: 339366
@@ -5938,6 +5960,10 @@ seasons:
         air_date: '2001-04-09'
         duration: 26
         duration_sec: 1583
+        location_wikidata: Q193002
+        coordinates:
+        - 46.6
+        - 8.765
         fernsehserien_episode_no: 85
         fernsehserien_episode_slug: 85-operation-alpentunnel-339367
         fernsehserien_episode_id: 339367
@@ -5995,6 +6021,10 @@ seasons:
         air_date: '2001-04-10'
         duration: 26
         duration_sec: 1613
+        location_wikidata: Q7784788
+        coordinates:
+        - 41.20323
+        - 29.11132
         fernsehserien_episode_no: 86
         fernsehserien_episode_slug: 86-bruecke-in-den-orient-339368
         fernsehserien_episode_id: 339368
@@ -6052,6 +6082,10 @@ seasons:
         air_date: '2001-04-11'
         duration: 26
         duration_sec: 1583
+        location_wikidata: Q495733
+        coordinates:
+        - 33.361389
+        - 126.5325
         fernsehserien_episode_no: 87
         fernsehserien_episode_slug: 87-die-letzten-nixen-die-taucherinnen-von-cheju-339401
         fernsehserien_episode_id: 339401
@@ -6104,6 +6138,10 @@ seasons:
         air_date: '2001-04-12'
         duration: 26
         duration_sec: 1618
+        location_wikidata: Q118771
+        coordinates:
+        - -3.124444
+        - -59.895556
         fernsehserien_episode_no: 88
         fernsehserien_episode_slug: 88-die-fischer-vom-rio-negro-339403
         fernsehserien_episode_id: 339403
@@ -6115,6 +6153,7 @@ seasons:
         season_no: 3
         episode_no: 13
         title: Anatomie einer Lawine
+        continent: Europa
         description: 'Die Alpen: ein Skiparadies für Touristen. Doch die Wintersportler
             sind auch einem großen Risiko ausgesetzt - den Schneelawinen.
             Schweizer Forscher haben es sich zur Aufgabe gemacht, die Gefahr
@@ -6160,6 +6199,10 @@ seasons:
         air_date: '2001-04-30'
         duration: 26
         duration_sec: 1583
+        location_wikidata: Q68097
+        coordinates:
+        - 46.809056
+        - 9.839833
         fernsehserien_episode_no: 89
         fernsehserien_episode_slug: 89-anatomie-einer-lawine-339407
         fernsehserien_episode_id: 339407
@@ -6172,6 +6215,7 @@ seasons:
         episode_no: 14
         title: Die Erbin Gandhis
         subtitle: Widerstand gegen einen Staudamm
+        continent: Asien
         description: 'Der Sardar Sarovar Damm - die größte Staumauer Indiens
             - soll jetzt um über hundert Meter erhöht werden. Doch mit jedem
             Meter Damm ertrinkt auch ein Stück Lebensraum entlang des 1300
@@ -6220,6 +6264,10 @@ seasons:
         air_date: '2001-05-01'
         duration: 26
         duration_sec: 1580
+        location_wikidata: Q2120392
+        coordinates:
+        - 21.830278
+        - 73.747222
         fernsehserien_episode_no: 90
         fernsehserien_episode_slug: 90-die-erbin-gandhis-widerstand-gegen-einen-staudamm-339408
         fernsehserien_episode_id: 339408
@@ -8252,9 +8300,9 @@ seasons:
             führt zu Chaos und Krankheiten. Doch er bringt auch neues Grün,
             das zwischen den Straßen sprießt.
 
-            „360° - Die GEO-Reportage“ begleitet den Hotelfeger Boleram
-            Haldar während des Monsuns durch Mumbai und beobachtet, wie der
-            Dauerregen das Leben in der Metropole verändert.'
+            „360° - Die GEO-Reportage“ begleitet den Hotelfeger Boleram Haldar
+            während des Monsuns durch Mumbai und beobachtet, wie der Dauerregen
+            das Leben in der Metropole verändert.'
         description_fernsehserien: 'Neun Monate lang fällt in der indischen
             Metropole Mumbai, dem ehemaligen Bombay, kein Tropfen Regen. Sehnlich
             warten die 15 Millionen Einwohner auf den Juni. Dann bricht der
@@ -8465,9 +8513,9 @@ seasons:
             den Polarkreis überqueren müssen. Dann sind sie am Ziel - dem
             Polarhafen von Dudinka.
 
-            „360° - Die GEO-Reportage“ begleitet einen Floßschiffer vom
-            Jenissej auf seiner Fahrt zum Polarmeer auf einem der größten
-            Flöße, das jemals durch Sibirien schwamm.'
+            „360° - Die GEO-Reportage“ begleitet einen Floßschiffer vom Jenissej
+            auf seiner Fahrt zum Polarmeer auf einem der größten Flöße, das
+            jemals durch Sibirien schwamm.'
         description_fernsehserien: 'Im Juli und August steigt der Pegel des
             Jenissej in Sibirien bis zu sieben Meter an. Dann beginnt die
             Zeit der Floßschiffer. Männer wie Alexander Otzenko transportieren
@@ -8647,9 +8695,8 @@ seasons:
             Küstengebieten auf lange Zeit unmöglich erscheinen. Frachtschiffer
             wie Donné sind ein wichtiger Pfeiler der madagassischen Infrastruktur.
 
-            „360° - Die GEO-Reportage“ beobachtet die Frachtschiffer auf
-            ihren abenteuerlichen Handelsfahrten vor der wilden Westküste
-            Madagaskars.'
+            „360° - Die GEO-Reportage“ beobachtet die Frachtschiffer auf ihren
+            abenteuerlichen Handelsfahrten vor der wilden Westküste Madagaskars.'
         description_fernsehserien: 'An den Küsten von Madagaskar sind viele
             Ortschaften auf dem Landweg nicht erreichbar, der Zustand der
             Straßen ist oft verheerend. „360º - Die Geo-Reportage“ beobachtet
@@ -9047,12 +9094,12 @@ seasons:
             Die 32.000 Kühe werden dreimal am Tag automatisch gemolken, Computer
             steuern die Futterausgabe. Damit die Tiere die Hitze ertragen,
             werden sie permanent mit Wassertropfen eingenebelt. Durch dieses
-            „saubere Doping“ gibt jede Kuh am Tag bis zu 70 Liter Milch.
-            Der technische Aufwand für diese Hochleistung ist enorm: 2.500
-            Liter Wasser werden für einen Liter Milch verbraucht. Es wird
-            aus zwei Kilometer tiefen Brunnen hochgepumpt und in riesigen
-            Türmen gekühlt. Zusätzlich werden Milliarden Liter Wasser durch
-            Meerwasserentsalzungsanlagen geschleust.
+            „saubere Doping“ gibt jede Kuh am Tag bis zu 70 Liter Milch. Der
+            technische Aufwand für diese Hochleistung ist enorm: 2.500 Liter
+            Wasser werden für einen Liter Milch verbraucht. Es wird aus zwei
+            Kilometer tiefen Brunnen hochgepumpt und in riesigen Türmen gekühlt.
+            Zusätzlich werden Milliarden Liter Wasser durch Meerwasserentsalzungsanlagen
+            geschleust.
 
             „360° - Die GEO-Reportage“ begleitet den Saudi Amer Al-Sayari
             durch seinen Arbeitsalltag auf der größten Milchfarm der Welt
@@ -9493,8 +9540,8 @@ seasons:
             Das Training dauert Monate, der Besitzer des gefiederten Siegers
             erfreut sich großen gesellschaftlichen Ansehens.
 
-            „360° - Die GEO-Reportage“ beobachtet den Vogelhändler Huang
-            auf dem Markt und bei den Vorbereitungen zu einem Gesangswettbewerb.'
+            „360° - Die GEO-Reportage“ beobachtet den Vogelhändler Huang auf
+            dem Markt und bei den Vorbereitungen zu einem Gesangswettbewerb.'
         description_fernsehserien: 'Der Vogelhandel ist seit Jahrhunderten
             chinesische Tradition, denn Vögel sind Ausdruck von Reichtum und
             Kultur. Die meisten und unterschiedlichsten Vögel findet man auf
@@ -13770,8 +13817,8 @@ seasons:
             zeigt gegen Ende des Sommers 38 Grad Celsius, bei Abschluss der
             Bauarbeiten im Winter sind es 25 Grad unter Null. Doch während
             der Aufbauarbeiten stehen sich zwei Welten gegenüber. Auf der
-            einen Seite die „Unions“, amerikanische Gewerkschaften, die
-            die Welt der Metallverarbeitung beherrschen, auf der anderen Seite
+            einen Seite die „Unions“, amerikanische Gewerkschaften, die die
+            Welt der Metallverarbeitung beherrschen, auf der anderen Seite
             die europäischen Ingenieure, die dafür sorgen müssen, dass der
             äußerst eng gesteckte Zeitplan eingehalten wird. Jeder Tag, an
             dem der Hochofen nicht in Betrieb ist, bedeutet einen Verlust
@@ -13786,8 +13833,8 @@ seasons:
             dem technischen Know-how einer belgischen Ingenieursfirma, die
             die größten Kräne der Welt einsetzt. Diese können bis zu 1.200
             Tonnen heben. (Text: arte)'
-        description_youtube: 'In Chicago, südlich des Michigansees, ragt der größte
-            Hochofen der USA auf. Offensichtlich sind seine Tage gezählt:
+        description_youtube: 'In Chicago, südlich des Michigansees, ragt der
+            größte Hochofen der USA auf. Offensichtlich sind seine Tage gezählt:
             Es wird höchste Zeit, ihn zu demontieren und neu aufzubauen. Er
             stellt inzwischen eine Gefahr dar und hat im Jahr 2005 zwei weitere
             Opfer gefordert. 1.400 amerikanische Arbeiter wollen in knapp
@@ -13812,8 +13859,8 @@ seasons:
             zeigt gegen Ende des Sommers 38 Grad Celsius, bei Abschluss der
             Bauarbeiten im Winter sind es 25 Grad unter Null. Doch während
             der Aufbauarbeiten stehen sich zwei Welten gegenüber. Auf der
-            einen Seite die „Unions“, amerikanische Gewerkschaften, die
-            die Welt der Metallverarbeitung beherrschen, auf der anderen Seite
+            einen Seite die „Unions“, amerikanische Gewerkschaften, die die
+            Welt der Metallverarbeitung beherrschen, auf der anderen Seite
             die europäischen Ingenieure, die dafür sorgen müssen, dass der
             äußerst eng gesteckte Zeitplan eingehalten wird. Jeder Tag, an
             dem der Hochofen nicht in Betrieb ist, bedeutet einen Verlust
@@ -55174,42 +55221,39 @@ seasons:
         title: Frankreichs Winzer - Tradition trifft Passion
         title_fr: Le renouveau du vignoble français
         continent: Europa
-        description: 'Frankreich - das Land des Weins. Weinberge prägen
-            die Landschaft wie in kaum einem anderen Land. Doch viele Winzer
-            haben in den letzten Jahrzehnten die traditionellen Wege verlassen.
-            Ihre Produktionspraktiken führten zur Erschöpfung der Reben,
-            massenweise müssen in Frankreich und ganz Europa Weinberge gerodet
-            werden. Immer öfter gehen Winzer nun neue Wege, sie wollen den
-            Weinanbau umkrempeln. Die jungen Rebellen stellen sich dem Niedergang
-            der Weinkultur entgegen - mit neuen Ideen, aber mit Traditionsbewusstsein
+        description: 'Frankreich - das Land des Weins. Weinberge prägen die
+            Landschaft wie in kaum einem anderen Land. Doch viele Winzer haben
+            in den letzten Jahrzehnten die traditionellen Wege verlassen.
+            Ihre Produktionspraktiken führten zur Erschöpfung der Reben, massenweise
+            müssen in Frankreich und ganz Europa Weinberge gerodet werden.
+            Immer öfter gehen Winzer nun neue Wege, sie wollen den Weinanbau
+            umkrempeln. Die jungen Rebellen stellen sich dem Niedergang der
+            Weinkultur entgegen - mit neuen Ideen, aber mit Traditionsbewusstsein
             und vor allem im Einklang mit der Natur.
 
-            Einer, der gegen
-            das Sterben der Weinberge in Frankreich ankämpft, ist der Reben-Züchter
-            Lilian Bérillon. In Villeneuve-lès-Avignon, einer kleinen Gemeinde
-            in Südfrankreich, besitzt er eine Baumschule.  Sein Metier ist
-            eher unbekannt, doch ist es das Zünglein an der Waage, wenn
-            es um den Fortbestand der Weinberge geht: Die Qualität der von
-            ihm gezüchteten Rebstöcke entscheidet über die Qualität der
-            Trauben, die später an ihnen wachsen werden.  „Die Situation
-            ist durchaus ernst. Früher pflanzte man Reben für eine Dauer
-            von 80-100 Jahren; heute haben sie nur noch eine Lebensdauer
-            von 20-30 Jahren …. der moderne Weinanbau trägt dafür einen
-            Teil der Verantwortung“, sagt Lilian. Er pflegt enge Beziehungen
-            zu den Winzern und bereist Weingüter im ganzen Land, um sich
-            ein Bild zu machen und Lösungen zu entwickeln.
+            Einer, der gegen das Sterben der Weinberge in Frankreich ankämpft,
+            ist der Reben-Züchter Lilian Bérillon. In Villeneuve-lès-Avignon,
+            einer kleinen Gemeinde in Südfrankreich, besitzt er eine Baumschule.  Sein
+            Metier ist eher unbekannt, doch ist es das Zünglein an der Waage,
+            wenn es um den Fortbestand der Weinberge geht: Die Qualität der
+            von ihm gezüchteten Rebstöcke entscheidet über die Qualität der
+            Trauben, die später an ihnen wachsen werden.  „Die Situation ist
+            durchaus ernst. Früher pflanzte man Reben für eine Dauer von 80-100
+            Jahren; heute haben sie nur noch eine Lebensdauer von 20-30 Jahren
+            …. der moderne Weinanbau trägt dafür einen Teil der Verantwortung“,
+            sagt Lilian. Er pflegt enge Beziehungen zu den Winzern und bereist
+            Weingüter im ganzen Land, um sich ein Bild zu machen und Lösungen
+            zu entwickeln.
 
-            Auch die
-            nördlich von Lyon gelegene Weinregion Beaujolais durchlebt eine
-            bewegte Zeit. Die umstrittene Qualität des Beaujolais nouveau
-            hat eine ganze Region in die Krise geführt. Hier hat Julien
-            Merle, ein junger Winzer in fünfter Generation, komplett mit
-            der bisherigen Anbaupraxis gebrochen. Zusammen mit seiner Lebensgefährtin
-            Nathalie arbeitet er in bester bäuerlicher Tradition: ökologisch,
-            auf natürlichem Boden, ohne Chemie. Das Ergebnis sind junge,
-            unverdorbene Naturweine, die nicht nur in Frankreich, sondern
-            weltweit im Trend sind. Werden sich die „jungen Wilden“ durchsetzen
-            auf dem Weinmarkt?'
+            Auch die nördlich von Lyon gelegene Weinregion Beaujolais durchlebt
+            eine bewegte Zeit. Die umstrittene Qualität des Beaujolais nouveau
+            hat eine ganze Region in die Krise geführt. Hier hat Julien Merle,
+            ein junger Winzer in fünfter Generation, komplett mit der bisherigen
+            Anbaupraxis gebrochen. Zusammen mit seiner Lebensgefährtin Nathalie
+            arbeitet er in bester bäuerlicher Tradition: ökologisch, auf natürlichem
+            Boden, ohne Chemie. Das Ergebnis sind junge, unverdorbene Naturweine,
+            die nicht nur in Frankreich, sondern weltweit im Trend sind. Werden
+            sich die „jungen Wilden“ durchsetzen auf dem Weinmarkt?'
         description_fernsehserien: 'Einer, der gegen das Sterben der Weinberge
             in Frankreich ankämpft, ist der Reben-Züchter Lilian Bérillon.
             In Villeneuve-lès-Avignon, einer kleinen Gemeinde in Südfrankreich,
@@ -55237,39 +55281,36 @@ seasons:
         description_youtube: 'Frankreich - das Land des Weins. Weinberge prägen
             die Landschaft wie in kaum einem anderen Land. Doch viele Winzer
             haben in den letzten Jahrzehnten die traditionellen Wege verlassen.
-            Ihre Produktionspraktiken führten zur Erschöpfung der Reben,
-            massenweise müssen in Frankreich und ganz Europa Weinberge gerodet
-            werden. Immer öfter gehen Winzer nun neue Wege, sie wollen den
-            Weinanbau umkrempeln. Die jungen Rebellen stellen sich dem Niedergang
-            der Weinkultur entgegen - mit neuen Ideen, aber mit Traditionsbewusstsein
+            Ihre Produktionspraktiken führten zur Erschöpfung der Reben, massenweise
+            müssen in Frankreich und ganz Europa Weinberge gerodet werden.
+            Immer öfter gehen Winzer nun neue Wege, sie wollen den Weinanbau
+            umkrempeln. Die jungen Rebellen stellen sich dem Niedergang der
+            Weinkultur entgegen - mit neuen Ideen, aber mit Traditionsbewusstsein
             und vor allem im Einklang mit der Natur.
 
-            Einer, der gegen
-            das Sterben der Weinberge in Frankreich ankämpft, ist der Reben-Züchter
-            Lilian Bérillon. In Villeneuve-lès-Avignon, einer kleinen Gemeinde
-            in Südfrankreich, besitzt er eine Baumschule.  Sein Metier ist
-            eher unbekannt, doch ist es das Zünglein an der Waage, wenn
-            es um den Fortbestand der Weinberge geht: Die Qualität der von
-            ihm gezüchteten Rebstöcke entscheidet über die Qualität der
-            Trauben, die später an ihnen wachsen werden.  „Die Situation
-            ist durchaus ernst. Früher pflanzte man Reben für eine Dauer
-            von 80-100 Jahren; heute haben sie nur noch eine Lebensdauer
-            von 20-30 Jahren …. der moderne Weinanbau trägt dafür einen
-            Teil der Verantwortung“, sagt Lilian. Er pflegt enge Beziehungen
-            zu den Winzern und bereist Weingüter im ganzen Land, um sich
-            ein Bild zu machen und Lösungen zu entwickeln.
+            Einer, der gegen das Sterben der Weinberge in Frankreich ankämpft,
+            ist der Reben-Züchter Lilian Bérillon. In Villeneuve-lès-Avignon,
+            einer kleinen Gemeinde in Südfrankreich, besitzt er eine Baumschule.  Sein
+            Metier ist eher unbekannt, doch ist es das Zünglein an der Waage,
+            wenn es um den Fortbestand der Weinberge geht: Die Qualität der
+            von ihm gezüchteten Rebstöcke entscheidet über die Qualität der
+            Trauben, die später an ihnen wachsen werden.  „Die Situation ist
+            durchaus ernst. Früher pflanzte man Reben für eine Dauer von 80-100
+            Jahren; heute haben sie nur noch eine Lebensdauer von 20-30 Jahren
+            …. der moderne Weinanbau trägt dafür einen Teil der Verantwortung“,
+            sagt Lilian. Er pflegt enge Beziehungen zu den Winzern und bereist
+            Weingüter im ganzen Land, um sich ein Bild zu machen und Lösungen
+            zu entwickeln.
 
-            Auch die
-            nördlich von Lyon gelegene Weinregion Beaujolais durchlebt eine
-            bewegte Zeit. Die umstrittene Qualität des Beaujolais nouveau
-            hat eine ganze Region in die Krise geführt. Hier hat Julien
-            Merle, ein junger Winzer in fünfter Generation, komplett mit
-            der bisherigen Anbaupraxis gebrochen. Zusammen mit seiner Lebensgefährtin
-            Nathalie arbeitet er in bester bäuerlicher Tradition: ökologisch,
-            auf natürlichem Boden, ohne Chemie. Das Ergebnis sind junge,
-            unverdorbene Naturweine, die nicht nur in Frankreich, sondern
-            weltweit im Trend sind. Werden sich die „jungen Wilden“ durchsetzen
-            auf dem Weinmarkt?'
+            Auch die nördlich von Lyon gelegene Weinregion Beaujolais durchlebt
+            eine bewegte Zeit. Die umstrittene Qualität des Beaujolais nouveau
+            hat eine ganze Region in die Krise geführt. Hier hat Julien Merle,
+            ein junger Winzer in fünfter Generation, komplett mit der bisherigen
+            Anbaupraxis gebrochen. Zusammen mit seiner Lebensgefährtin Nathalie
+            arbeitet er in bester bäuerlicher Tradition: ökologisch, auf natürlichem
+            Boden, ohne Chemie. Das Ergebnis sind junge, unverdorbene Naturweine,
+            die nicht nur in Frankreich, sondern weltweit im Trend sind. Werden
+            sich die „jungen Wilden“ durchsetzen auf dem Weinmarkt?'
         director: Myriam Bou-Saha
         air_date: '2021-04-18'
         duration: 43

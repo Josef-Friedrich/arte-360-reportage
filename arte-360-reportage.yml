@@ -5593,6 +5593,7 @@ seasons:
         title: „Wüste auf Bewährung“
         title_fr: Les Prisonniers du Désert
         topic: Überleben in der Wüste
+        continent: Amerika
         description: 'Im Südwesten der USA gibt man kriminellen und schwererziehbaren
             Jugendlichen eine ganz besondere zweite Chance. Sie sollen sich
             in den ausgedörrten, weiten Ebenen Arizonas bewähren. Geleitet
@@ -5644,6 +5645,10 @@ seasons:
         air_date: '2001-01-05'
         duration: 26
         duration_sec: 1589
+        location_wikidata: Q49261
+        coordinates:
+        - 33.415°
+        - -111.831389°
         fernsehserien_episode_no: 80
         fernsehserien_episode_slug: 80-ueberleben-in-der-wueste-wueste-auf-bewaehrung-339359
         fernsehserien_episode_id: 339359
@@ -5654,6 +5659,7 @@ seasons:
         season_no: 3
         episode_no: 5
         title: Die Baustelle des Herrn
+        continent: Europa
         description: 'Der heute 75 jährige Spanier Justo Gallego Martinez
             baut seit mittlerweile fast 40 Jahren an seiner Kirche, meist
             ohne fremde Hilfe. Schon heute ist sie 25 Meter breit und 55 Meter
@@ -5707,6 +5713,10 @@ seasons:
         air_date: '2001-03-05'
         duration: 26
         duration_sec: 1583
+        location_wikidata: Q1984852
+        coordinates:
+        - 40.396667
+        - -3.484167
         fernsehserien_episode_no: 81
         fernsehserien_episode_slug: 81-die-baustelle-des-herrn-339363
         fernsehserien_episode_id: 339363
@@ -5718,6 +5728,7 @@ seasons:
         episode_no: 6
         title: Im Einsatz für den Nebelwald
         alias: Retter des Nebelwaldes
+        continent: Amerika
         description: 'Die Halbinsel Paria, Venezuela: traumhafte Strände,
             einzigartige Nebelwälder und eine enorme Artenvielfalt. Wilfried
             Merle und Klaus Müller gingen als Entwicklungshelfer in das Land.
@@ -5765,6 +5776,10 @@ seasons:
         air_date: '2001-03-06'
         duration: 26
         duration_sec: 1583
+        location_wikidata: Q1668558
+        coordinates:
+        - 10.7
+        - -62.5
         fernsehserien_episode_no: 82
         fernsehserien_episode_slug: 82-retter-des-nebelwaldes-339364
         fernsehserien_episode_id: 339364
@@ -5820,6 +5835,10 @@ seasons:
         air_date: '2001-03-07'
         duration: 26
         duration_sec: 1581
+        location_wikidata: Q65
+        coordinates:
+        - 34.05223
+        - -118.24368
         fernsehserien_episode_no: 83
         fernsehserien_episode_slug: 83-hollywood-auf-dem-trockenen-339361
         fernsehserien_episode_id: 339361
@@ -5882,6 +5901,10 @@ seasons:
         air_date: '2001-03-08'
         duration: 26
         duration_sec: 1559
+        location_wikidata: Q64
+        coordinates:
+        - 52.516667
+        - 13.383333
         fernsehserien_episode_no: 84
         fernsehserien_episode_slug: 84-die-adern-von-berlin-der-wasserkreislauf-einer-metropole-339366
         fernsehserien_episode_id: 339366
@@ -5937,6 +5960,10 @@ seasons:
         air_date: '2001-04-09'
         duration: 26
         duration_sec: 1583
+        location_wikidata: Q193002
+        coordinates:
+        - 46.6
+        - 8.765
         fernsehserien_episode_no: 85
         fernsehserien_episode_slug: 85-operation-alpentunnel-339367
         fernsehserien_episode_id: 339367
@@ -5994,6 +6021,10 @@ seasons:
         air_date: '2001-04-10'
         duration: 26
         duration_sec: 1613
+        location_wikidata: Q7784788
+        coordinates:
+        - 41.20323
+        - 29.11132
         fernsehserien_episode_no: 86
         fernsehserien_episode_slug: 86-bruecke-in-den-orient-339368
         fernsehserien_episode_id: 339368
@@ -6051,6 +6082,10 @@ seasons:
         air_date: '2001-04-11'
         duration: 26
         duration_sec: 1583
+        location_wikidata: Q495733
+        coordinates:
+        - 33.361389
+        - 126.5325
         fernsehserien_episode_no: 87
         fernsehserien_episode_slug: 87-die-letzten-nixen-die-taucherinnen-von-cheju-339401
         fernsehserien_episode_id: 339401
@@ -6103,6 +6138,10 @@ seasons:
         air_date: '2001-04-12'
         duration: 26
         duration_sec: 1618
+        location_wikidata: Q118771
+        coordinates:
+        - -3.124444
+        - -59.895556
         fernsehserien_episode_no: 88
         fernsehserien_episode_slug: 88-die-fischer-vom-rio-negro-339403
         fernsehserien_episode_id: 339403
@@ -6114,6 +6153,7 @@ seasons:
         season_no: 3
         episode_no: 13
         title: Anatomie einer Lawine
+        continent: Europa
         description: 'Die Alpen: ein Skiparadies für Touristen. Doch die Wintersportler
             sind auch einem großen Risiko ausgesetzt - den Schneelawinen.
             Schweizer Forscher haben es sich zur Aufgabe gemacht, die Gefahr
@@ -6159,6 +6199,10 @@ seasons:
         air_date: '2001-04-30'
         duration: 26
         duration_sec: 1583
+        location_wikidata: Q68097
+        coordinates:
+        - 46.809056
+        - 9.839833
         fernsehserien_episode_no: 89
         fernsehserien_episode_slug: 89-anatomie-einer-lawine-339407
         fernsehserien_episode_id: 339407
@@ -6171,6 +6215,7 @@ seasons:
         episode_no: 14
         title: Die Erbin Gandhis
         subtitle: Widerstand gegen einen Staudamm
+        continent: Asien
         description: 'Der Sardar Sarovar Damm - die größte Staumauer Indiens
             - soll jetzt um über hundert Meter erhöht werden. Doch mit jedem
             Meter Damm ertrinkt auch ein Stück Lebensraum entlang des 1300
@@ -6219,6 +6264,10 @@ seasons:
         air_date: '2001-05-01'
         duration: 26
         duration_sec: 1580
+        location_wikidata: Q2120392
+        coordinates:
+        - 21.830278
+        - 73.747222
         fernsehserien_episode_no: 90
         fernsehserien_episode_slug: 90-die-erbin-gandhis-widerstand-gegen-einen-staudamm-339408
         fernsehserien_episode_id: 339408
