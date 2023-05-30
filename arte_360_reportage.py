@@ -1250,7 +1250,7 @@ def generate_leaflet() -> None:
     json_dump: str = Utils.dump_json(marker)
     template: str = Utils.read_text_file(".leaflet.html")
     template = template.replace("const markers = []", f"const markers = {json_dump}")
-    Utils.write_text_file(EXPORT_FILENAME + "_leaflet.html", template)
+    Utils.write_text_file("index.html", template)
 
 
 def generate_readme() -> None:
