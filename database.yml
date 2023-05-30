@@ -52758,6 +52758,8 @@ seasons:
         title: Island, die wertvollsten Daunen der Welt
         title_fr: Islande, des plumes qui valent de l'or
         continent: Europa
+        location_wikidata: Q1464174
+        coordinates: [65.184167, -13.759167]
         description: 'Der Loðmundarfjörður auf Island: Außer in den wenigen
             Sommermonaten ist dieser entlegene und unbewohnte Fjord nur per
             Boot erreichbar. Hierhin zieht es den Farmer Ólafur Aðalsteinsson,
@@ -52854,6 +52856,8 @@ seasons:
         title: Kristall - Die magische Kunst aus den Vogesen
         title_fr: Vosges, la magie du cristal
         continent: Europa
+        location_wikidata: Q22915
+        coordinates: [48.965556, 7.352222]
         description: 'Alles funkelt, alles strahlt: Die nördlichen Vogesen
             gelten als Wiege der Kristallherstellung in Europa. Vor allem
             drei französische Manufakturen haben Weltruhm erlangt: die Werkstätten
@@ -52910,6 +52914,8 @@ seasons:
         title: Montenegro - Der Eselretter
         title_fr: Monténégro, pour l'amour des ánes
         continent: Europa
+        location_wikidata: Q23564
+        coordinates: [42.439722, 19.266111]
         description: 'Inzwischen sind es 59 Stuten und ein Hengst, die auf
             Darkos Eselfarm ein Zuhause haben - hoch in den Bergen, 17 Kilometer
             von Montenegros Hauptstadt Podgorica entfernt. Sie heißen Drina,
@@ -53101,6 +53107,8 @@ seasons:
         episode_no: 5
         title: Laos - Futterblöcke und Büffel-Leasing
         title_fr: Les buffles, l’avenir pour le Laos ?
+        location_wikidata: Q819
+        coordinates: [21.754, 102.156]
         continent: Asien
         description: 'Ein junges Team von Tierspezialisten will die Büffel
             in Laos aufpäppeln - mit Futterblöcken, entwickelt von australischen
@@ -53158,6 +53166,8 @@ seasons:
         title: Freiheit auf Pferderücken - Der lange Weg der Nez Perce
         title_fr: Nez-Percés, chevauchée pour la liberté
         continent: Amerika
+        location_wikidata: Q351
+        coordinates: [44.596445, -110.547196]
         description: 'Auf diesen Moment haben Jon, Rosa und Jack Yearout,
             Häuptling Emmit Taylor, Abigail und Davie Joe Whitman sowie gut
             20 andere Mitglieder des Stammes der Nez Perce lange gewartet:
@@ -53195,6 +53205,8 @@ seasons:
     -   overall_no: 613
         season_no: 25
         episode_no: 7
+        location_wikidata: Q78967
+        coordinates: [37.349722, 22.352222]
         title: Peloponnes - Rückkehr zur Erde
         title_fr: Péloponnèse, la pasionaria de l'agroforesterie
         alias: Peloponnes - Die Pioniere des Waldgartens
@@ -53235,8 +53247,36 @@ seasons:
         episode_no: 8
         title: Handgemacht in Laos - Rares aus Rattan
         title_fr: Laos, la vannerie dans tous ses états
+        location_wikidata: Q190165
+        coordinates: [19.893056, 102.138056]
         continent: Asien
         description: 'Seit jeher wird Rattan in Asien vielseitig verwendet:
+            zur Herstellung von Möbeln, Korbwaren, Wandverkleidungen und Sportbällen.
+            Auch im Zentrum von Laos gedeiht die stachelige Rattanpalme. Wild
+            als Kletterliane in den Dschungelwäldern und auch angebaut auf
+            Feldern. Die Menschen in den Dörfern ringsum leben seit Generationen
+            von Rattan, der Pflanze mit vielfältigen Eigenschaften. Seit dem
+            19. Jahrhundert ist Rattan auch in Europa aus der Inneneinrichtung
+            kaum wegzudenken, berühmt ist etwa das gleichzeitig stabile wie
+            auch leichte sogenannte Wiener Geflecht, das für Stuhlbespannungen
+            eingesetzt wird. Von viktorianischen Kolonialmöbeln über das Bauhaus,
+            Art déco, die Swinging Sixties oder den aktuellen Boho-Trend -
+            Rattan ist immer dabei. Dabei weiß kaum jemand, woher Rattan eigentlich
+            stammt.
+
+            Was wir als Rattan kennen, sind die Triebe einer Familie von Kletterpalmen,
+            die im tiefen Dschungel Südostasiens wachsen und bis zu 200 Metern
+            lang werden können. Das Schrumpfen der Primärwälder, die den Rattanpflanzen
+            stützende Bäume bieten, ist ein wesentlicher Grund, warum Rattan
+            teuer geworden ist und jetzt zum Beispiel in Laos wieder aufgeforstet
+            wird. Die 24-jährige handwerklich talentierte Touly aus einem
+            Dorf in Zentral-Laos begibt sich auf eine Reise durch das Land,
+            um im Auftrag ihrer dörflichen Flechtgruppe Kontakte zu Produzenten
+            zu knüpfen, neue Techniken zu erlernen und eine Rattanschälmaschine
+            zu kaufen. Damit könnte das Dorf die Produktivität seiner Rattanfertigung
+            erhöhen. In der alten Königsstadt Luang Prabang soll sie eine
+            Buddha-Büste aus Rattan anfertigen.'
+        description_fernsehserien: 'Seit jeher wird Rattan in Asien vielseitig verwendet:
             zur Herstellung von Möbeln, Korbwaren, Wandverkleidungen und Sportbällen.
             Auch im Zentrum von Laos gedeiht die stachelige Rattanpalme. Wild
             als Kletterliane in den Dschungelwäldern und auch angebaut auf
@@ -53281,6 +53321,8 @@ seasons:
         title: Leben mit dem Tod - Ahnenkult auf Sulawesi
         title_fr: Toraja, le peuple qui fait vivre ses morts
         continent: Asien
+        location_wikidata: Q3812
+        coordinates: [-2, 121]
         description: 'Im Norden der Insel Sulawesi leitet Isac die Arbeiter
             an, die seit Wochen damit beschäftigt sind, ein provisorisches
             Dorf für die Bestattungsfeierlichkeiten seiner Mutter zu bauen.

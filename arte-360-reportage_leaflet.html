@@ -118,6 +118,70 @@
   },
   {
     "coordinates": [
+      65.184167,
+      -13.759167
+    ],
+    "popup": "Island, die wertvollsten Daunen der Welt",
+    "color": "#ffffff"
+  },
+  {
+    "coordinates": [
+      48.965556,
+      7.352222
+    ],
+    "popup": "Kristall - Die magische Kunst aus den Vogesen",
+    "color": "#ffffff"
+  },
+  {
+    "coordinates": [
+      42.439722,
+      19.266111
+    ],
+    "popup": "Montenegro - Der Eselretter",
+    "color": "#ffffff"
+  },
+  {
+    "coordinates": [
+      21.754,
+      102.156
+    ],
+    "popup": "Laos - Futterblöcke und Büffel-Leasing",
+    "color": "#ffff00"
+  },
+  {
+    "coordinates": [
+      44.596445,
+      -110.547196
+    ],
+    "popup": "Freiheit auf Pferderücken - Der lange Weg der Nez Perce",
+    "color": "#ff0000"
+  },
+  {
+    "coordinates": [
+      37.349722,
+      22.352222
+    ],
+    "popup": "Peloponnes - Rückkehr zur Erde",
+    "color": "#ffffff"
+  },
+  {
+    "coordinates": [
+      19.893056,
+      102.138056
+    ],
+    "popup": "Handgemacht in Laos - Rares aus Rattan",
+    "color": "#ffff00"
+  },
+  {
+    "coordinates": [
+      -2,
+      121
+    ],
+    "popup": "Leben mit dem Tod - Ahnenkult auf Sulawesi",
+    "color": "#ffff00"
+  },
+  {
+    "coordinates": [
       52.518611,
       13.408333
     ],
@@ -152,9 +216,15 @@
       ).addTo(map)
 
       for (const marker of markers) {
-        const options = { radius: 3 }
+        const options = {
+          color: '#222222',
+          fill: true,
+          fillOpacity: 1,
+          radius: 4,
+          weight: 1
+        }
         if (marker.color != null) {
-          options.color = marker.color
+          options.fillColor = marker.color
         }
         L.circleMarker(marker.coordinates, options)
           .addTo(map)
