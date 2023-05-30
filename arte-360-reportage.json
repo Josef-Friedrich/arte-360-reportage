@@ -8414,6 +8414,11 @@
           "season_no": 20,
           "episode_no": 5,
           "title": "Kanada - Mit der Hebamme durch die Badlands",
+          "location_wikidata": "Q368241",
+          "coordinates": [
+            50.033333,
+            -110.666667
+          ],
           "title_fr": "Canada — Les Aventures d’une Sage-Femme dans les Badlands",
           "description": "Die kanadischen Badlands im Südosten Albertas: Prärie, soweit das Auge reicht, staubtrockene Canyons und bizarre Felstürme, genannt „Hoodoos“. Eine faszinierende, unwirklich scheinende Landschaft. Auf fast 90.000 Quadratkilometern leben nur noch wenige, sehr bodenständige Menschen auch junge Familien. Hebamme zu sein im „schlechten Land“ ist mehr als ein Abenteuer. Inmitten dieser Landschaft lebt und arbeitet die Hebamme Terrie Shaw. 250 Kilometer zu einer Kundin zu fahren ist für sie Alltag. In Medicine Hat, einer Kleinstadt inmitten der kanadischen Badlands, wohnt die Hebamme. Terrie hat selbst fünf erwachsene Kinder und ihr Beruf ist ihre Passion. Terrie ist fast immer unterwegs, denn ihre Kundinnen wohnen oft weit im Land verteilt, Stunden entfernt. Die meisten der Frauen hier wollen ihre Kinder zu Hause entbinden und schätzen die Begleitung einer Vertrauensperson. Doch längst nicht alle kommen in diesen Genuss, denn das Budget für die selbstständige Hebamme ist begrenzt. (Text: Arte)",
           "director": "Maria-Christina Degen",
@@ -8430,6 +8435,11 @@
           "overall_no": 485,
           "season_no": 20,
           "episode_no": 6,
+          "location_wikidata": "Q185518",
+          "coordinates": [
+            21.983056,
+            96.084444
+          ],
           "title": "Myanmar - Die Marmorkünstler von Mandalay",
           "title_fr": "Birmanie, les Sculpteurs de Marbre de Mandalay",
           "description": "Myanmar das Land der goldenen Pagoden. Die Schönheit des Landes verzaubert immer wieder. Gespeist wird diese Prachtentfaltung aus der Verehrung Buddhas. Über 20 Meter misst die größte Marmor-Statue in Mandalay. Myanmars zweitgrößte Stadt ist berühmt für die Kunstfertigkeit ihrer Marmorschnitzer. Klöster und Tempel in ganz Asien verlangen nach immer neuen Bildnissen des Erhabenen. Und Mandalays Handwerker liefern Abertausende von makellosen Buddha-Statuen. Die weißen Klippen der Marmor-Steinbrüche liegen nördlich der Stadt. Hier arbeiten wahre Künstler. „360° - Geo Reportage“ hat sie bei ihrer Arbeit begleitet.Die Verehrung Buddhas ist in Myanmar nicht zwingend stille Andacht. Oft genug erinnert sie an ein buntes Volksfest. Wer eine Buddha-Figur spendet, erwirbt Verdienste für sich und seine Verwandten für dieses und alle weiteren Leben.\nUnd so spendet, wer immer es sich leisten kann, möglichst viele Buddha-Abbilder. Mandalay ist mit 1,6 Millionen Einwohnern die zweitgrößte Stadt Myanmars.Knapp 60 Kilometer nördlich, bei dem Dorf Sagyin, liegen die Marmorsteinbrüche. Sie liefern einen besonders feinen weißen Stein. Was nicht zur Herstellung von Buddha-Statuen taugt, wird zu Fliesen oder Terrazzo verarbeitet. Nahezu alles im Dorf Sagyin dreht sich um Marmor und fast jeder lebt von ihm. U Po Ther gilt als einer der besten Bildhauer von Sagyin. Per Handy verhandelt er im ehemals isolierten Myanmar mit Auftraggebern aus ganz Asien. Denn Buddha-Figuren sehen immer unterschiedlich aus. Jedes Land hat seinen eigenen Stil. Und auch jede Pose hat ihre Bedeutung. (Text: Arte)",
@@ -8448,6 +8458,11 @@
           "season_no": 20,
           "episode_no": 7,
           "title": "Der Lachszähler von Kanada",
+          "location_wikidata": "Q2920600",
+          "coordinates": [
+            53,
+            -128
+          ],
           "title_fr": "Canada, le Vieil Homme et la Rivière",
           "description": "Im Great Bear Rainforest, dem Regenwald des Großen Bären, gibt es weder Straßen noch Wege. Dafür unzählige Flüsse, die sich durch den dichten Dschungel dem Meer entgegen winden. Neben den namensgebenden Bären leben hier auch Wölfe, Weißkopfseeadler, Robben und Seevögel. Ein großes Ökosystem aus Ozean und Wald, zutiefst und untrennbar verbunden durch die Lachsschwärme, die seit Jahrhunderten ihren Weg vom Meer zu ihren Laichplätzen aufnehmen. Stan Hutchins überwacht seit fast 40 Jahren diese Wanderungen im Auftrag der Regierung.Ein Beruf, der weit einfacher aussieht, als er ist. Viele Flüsse sind so verzweigt und hindernisreich, dass Stan einen vollen Tag braucht, um sie zu bewältigen. Neben einem ausgezeichneten Orientierungsvermögen und physischer Belastbarkeit muss ein Lachszähler Einsamkeit aushalten können.\nDie Begleitung seines jungen Hundes Foch erleichtert Stan die Arbeit in der Wildnis. Obwohl die von Stan gesammelten Daten wichtig für die Fischwirtschaft und den Lachsbestand sind, möchte die Fischereibehörde seinen Arbeitsplatz gerne einsparen. Sie hofft, auch mit ein paar Stichproben genügend Daten zusammen zu bekommen, um daraus Schlüsse über die aktuelle Population gewinnen zu können.Die Zukunftsaussichten für den Beruf des „Creekwalkers“ sind entsprechend schlecht. Die Bezahlung ist so unsicher, die Verträge so vage, dass kaum junge Leute in diesen Beruf einsteigen können. Aber für Stan sind die Lachse dieser Küste von unersetzbar großem Wert. Der Flussläufer erlebt selbst, wie durch die Klimaveränderung und das schlechte Management der Fischerei ganze Lachspopulationen unbemerkt verschwinden.\nAuf der Suche nach potenziellen Nachfolgern geht er jetzt eigene Wege, denn Stan weiß nie, ob die aktuelle Saison in den Flüssen seine letzte sein wird. (Text: Arte)",
           "director": "Rosie Koch",
@@ -8464,6 +8479,12 @@
           "overall_no": 487,
           "season_no": 20,
           "episode_no": 8,
+          "location_wikidata": "Q34374",
+          "continent": "Europa",
+          "coordinates": [
+            35.309722,
+            24.893333
+          ],
           "title": "Kreta - Die süßen Früchte des Johannisbrotbaums",
           "title_fr": "Le Caroubier, l’Or Noir de la Crète",
           "description": "Auf Kreta ist der Olivenbaum allgegenwärtig. Doch es gibt einen anderen, uralten Baum auf der Insel, der zeitgleich Früchte und Blüten trägt und dessen Früchte die Karuben, einzigartige Eigenschaften besitzen: der Johannisbrotbaum. Seine rauen, braunen Schoten sind voller Geheimnisse und voller Hoffnung für diejenigen, die um seine Kräfte wissen. (Text: Arte)",

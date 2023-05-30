@@ -14951,6 +14951,10 @@ seasons:
         director: Maria-Christina Degen
         air_date: '2018-02-25'
         duration: 52
+        location_wikidata: Q368241
+        coordinates:
+        - 50.033333
+        - -110.666667
         fernsehserien_episode_no: 486
         fernsehserien_episode_slug: 486-kanada-mit-der-hebamme-durch-die-badlands-1169596
         fernsehserien_episode_id: 1169596
@@ -14991,6 +14995,10 @@ seasons:
         director: Martin Schacht
         air_date: '2018-03-04'
         duration: 52
+        location_wikidata: Q185518
+        coordinates:
+        - 21.983056
+        - 96.084444
         fernsehserien_episode_no: 487
         fernsehserien_episode_slug: 487-myanmar-die-marmorkuenstler-von-mandalay-1171202
         fernsehserien_episode_id: 1171202
@@ -15036,6 +15044,10 @@ seasons:
         director: Rosie Koch
         air_date: '2018-03-11'
         duration: 52
+        location_wikidata: Q2920600
+        coordinates:
+        - 53
+        - -128
         fernsehserien_episode_no: 488
         fernsehserien_episode_slug: 488-der-lachszaehler-von-kanada-1173798
         fernsehserien_episode_id: 1173798
@@ -15047,6 +15059,7 @@ seasons:
         episode_no: 8
         title: Kreta - Die süßen Früchte des Johannisbrotbaums
         title_fr: Le Caroubier, l’Or Noir de la Crète
+        continent: Europa
         description: 'Auf Kreta ist der Olivenbaum allgegenwärtig. Doch es
             gibt einen anderen, uralten Baum auf der Insel, der zeitgleich
             Früchte und Blüten trägt und dessen Früchte die Karuben, einzigartige
@@ -15056,6 +15069,10 @@ seasons:
         director: Vincent Froehly
         air_date: '2018-03-18'
         duration: 52
+        location_wikidata: Q34374
+        coordinates:
+        - 35.309722
+        - 24.893333
         fernsehserien_episode_no: 489
         fernsehserien_episode_slug: 489-kreta-die-suessen-fruechte-des-johannisbrotbaums-1175560
         fernsehserien_episode_id: 1175560

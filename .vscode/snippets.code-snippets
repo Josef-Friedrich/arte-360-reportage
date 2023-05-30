@@ -33,5 +33,10 @@
     "prefix": ["descriptionshort"],
     "body": ["", "        description_short: >-", "            $0"],
     "description": "description short"
+  },
+  "location": {
+    "prefix": ["location"],
+    "body": ["", "        location_wikidata: $1", "        coordinates: [$2]"],
+    "description": "location"
   }
 }

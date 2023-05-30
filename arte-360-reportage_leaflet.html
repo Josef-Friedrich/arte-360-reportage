@@ -1,0 +1,125 @@
+<!-- https://leafletjs.com/examples/quick-start/ -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <base target="_top" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Arte 360 Reportage</title>
+
+    <link
+      rel="shortcut icon"
+      type="image/x-icon"
+      href="docs/images/favicon.ico"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+
+    <style>
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+      }
+      .leaflet-container {
+        width: 100%;
+        height: 100%;
+        max-width: 100%;
+        max-height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script>
+      const markers = [
+  {
+    "coordinates": [
+      50.033333,
+      -110.666667
+    ],
+    "popup": "Kanada - Mit der Hebamme durch die Badlands",
+    "color": "#cccccc"
+  },
+  {
+    "coordinates": [
+      21.983056,
+      96.084444
+    ],
+    "popup": "Myanmar - Die Marmorkünstler von Mandalay",
+    "color": "#cccccc"
+  },
+  {
+    "coordinates": [
+      53,
+      -128
+    ],
+    "popup": "Der Lachszähler von Kanada",
+    "color": "#cccccc"
+  },
+  {
+    "coordinates": [
+      35.309722,
+      24.893333
+    ],
+    "popup": "Kreta - Die süßen Früchte des Johannisbrotbaums",
+    "color": "#ffffff"
+  },
+  {
+    "coordinates": [
+      52.518611,
+      13.408333
+    ],
+    "popup": "Die Waschbären von Berlin",
+    "color": "#ffffff"
+  },
+  {
+    "coordinates": [
+      -27.119444,
+      -109.354722
+    ],
+    "popup": "Rapa Nui - Gladiatoren der Südsee",
+    "color": "#ffff00"
+  },
+  {
+    "coordinates": [
+      12.876,
+      104.073
+    ],
+    "popup": "Kambodschas schwimmende Dörfer - Umzug am Tonle Sap",
+    "color": "#ffff00"
+  }
+]
+
+      const map = L.map('map').setView([51.505, -0.09], 1)
+
+      const tiles = L.tileLayer(
+        'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
+        {
+          maxZoom: 19
+        }
+      ).addTo(map)
+
+      for (const marker of markers) {
+        const options = { radius: 1 }
+        if (marker.color != null) {
+          options.color = marker.color
+        }
+        L.circleMarker(marker.coordinates, options)
+          .addTo(map)
+          .bindPopup(marker.popup)
+      }
+    </script>
+  </body>
+</html>

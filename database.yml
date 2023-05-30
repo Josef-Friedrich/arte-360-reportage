@@ -14931,6 +14931,8 @@ seasons:
         season_no: 20
         episode_no: 5
         title: Kanada - Mit der Hebamme durch die Badlands
+        location_wikidata: Q368241
+        coordinates: [50.033333, -110.666667]
         title_fr: Canada — Les Aventures d’une Sage-Femme dans les Badlands
         description: 'Die kanadischen Badlands im Südosten Albertas: Prärie,
             soweit das Auge reicht, staubtrockene Canyons und bizarre Felstürme,
@@ -14960,6 +14962,8 @@ seasons:
     -   overall_no: 485
         season_no: 20
         episode_no: 6
+        location_wikidata: Q185518
+        coordinates: [21.983056, 96.084444]
         title: Myanmar - Die Marmorkünstler von Mandalay
         title_fr: Birmanie, les Sculpteurs de Marbre de Mandalay
         description: 'Myanmar das Land der goldenen Pagoden. Die Schönheit
@@ -15001,6 +15005,8 @@ seasons:
         season_no: 20
         episode_no: 7
         title: Der Lachszähler von Kanada
+        location_wikidata: Q2920600
+        coordinates: [53, -128]
         title_fr: Canada, le Vieil Homme et la Rivière
         description: 'Im Great Bear Rainforest, dem Regenwald des Großen Bären,
             gibt es weder Straßen noch Wege. Dafür unzählige Flüsse, die sich
@@ -15045,6 +15051,9 @@ seasons:
     -   overall_no: 487
         season_no: 20
         episode_no: 8
+        location_wikidata: Q34374
+        continent: Europa
+        coordinates: [35.309722, 24.893333]
         title: Kreta - Die süßen Früchte des Johannisbrotbaums
         title_fr: Le Caroubier, l’Or Noir de la Crète
         description: 'Auf Kreta ist der Olivenbaum allgegenwärtig. Doch es

@@ -42,6 +42,10 @@ class Utils:
             json.dump(data, fp=j, indent=2, ensure_ascii=False)
 
     @staticmethod
+    def dump_json(data: typing.Any) -> str:
+        return json.dumps(data, indent=2, ensure_ascii=False)
+
+    @staticmethod
     def clean_title(title: str) -> str:
         title = title.replace("–", "-")
         title = re.sub(r" *\(.+\) *", " ", title)
@@ -313,6 +317,9 @@ class EpisodeData(typing.TypedDict):
     duration: int
     """for example ``52``"""
 
+    location_wikidata: str
+    """Wikidata object to the main location of the episode, for example ``Q368241``"""
+
     coordinates: list[float]
     """for example: ``[12.876, 104.073]``"""
 
@@ -429,6 +436,22 @@ class Episode:
         elif self.continent == "Ozeanien und Pole":
             return "🔵"
         return ""
+
+    @property
+    def continent_color(self) -> str:
+        if not self.continent:
+            return "#cccccc"
+        if self.continent == "Afrika":
+            return "#ffffff"
+        elif self.continent == "Amerika":
+            return "#ff0000"
+        elif self.continent == "Asien":
+            return "#ffff00"
+        elif self.continent == "Europa":
+            return "#ffffff"
+        elif self.continent == "Ozeanien und Pole":
+            return "#0000ff"
+        return "#cccccc"
 
     @property
     def description(self) -> str | None:
@@ -962,7 +985,7 @@ class FrWiki(WikiTemplate):
 ### actions ###################################################################
 
 
-def debug():
+def debug() -> None:
     """Test some code"""
 
     scrapper = FernsehserienScrapper(
@@ -971,7 +994,7 @@ def debug():
     print(scrapper.director)
 
 
-def scrape():
+def scrape() -> None:
     for episode in tv_show.episodes:
         if episode.fernsehserien_url:
             scrapper = FernsehserienScrapper(episode.fernsehserien_url)
@@ -1030,13 +1053,18 @@ def generate_leaflet() -> None:
     marker: list[typing.Any] = []
     for episode in tv_show.episodes:
         if episode.coordinates:
+            marker_data =   {
+                "coordinates": episode.coordinates,
+                "popup": episode.title,
+                "color": episode.continent_color,
+            }
             marker.append(
-                {
-                    "coordinates": episode.coordinates,
-                    "popup": episode.title,
-                }
+                marker_data
             )
-    Utils.write_json_file(EXPORT_FILENAME + "_leaflet.json", marker)
+    json_dump: str = Utils.dump_json(marker)
+    template: str = Utils.read_text_file('.leaflet.html')
+    template = template.replace('const markers = []', f"const markers = {json_dump}")
+    Utils.write_text_file(EXPORT_FILENAME + '_leaflet.html', template)
 
 
 def generate_readme() -> None:

@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Quick Start - Leaflet</title>
+    <title>Arte 360 Reportage</title>
 
     <link
       rel="shortcut icon"
@@ -43,20 +43,7 @@
   <body>
     <div id="map"></div>
     <script>
-      const markers = [
-        {
-          coordinates: [52.518611, 13.408333],
-          popup: 'Die Waschbären von Berlin'
-        },
-        {
-          coordinates: [-27.119444, -109.354722],
-          popup: 'Rapa Nui - Gladiatoren der Südsee'
-        },
-        {
-          coordinates: [12.876, 104.073],
-          popup: 'Kambodschas schwimmende Dörfer - Umzug am Tonle Sap'
-        }
-      ]
+      const markers = []
 
       const map = L.map('map').setView([51.505, -0.09], 1)
 
@@ -68,7 +55,11 @@
       ).addTo(map)
 
       for (const marker of markers) {
-        L.circleMarker(marker.coordinates, { radius: 1 })
+        const options = { radius: 1 }
+        if (marker.color != null) {
+          options.color = marker.color
+        }
+        L.circleMarker(marker.coordinates, options)
           .addTo(map)
           .bindPopup(marker.popup)
       }
