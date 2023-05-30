@@ -1281,7 +1281,7 @@
 | NR_ST = 1
 | OT = Goldrausch in Sibirien<ref>Internetquellen zur Episode ''„Goldrausch in Sibirien“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/152-goldrausch-in-sibirien-339412 152] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/152-goldrausch-in-sibirien-339412 339412], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642020 S06E01] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642020 4642020], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=orPQ74toO10 orPQ74toO10]</ref>
 | Feld1 = Tout l’or de sibèrie
-| REG = -
+| REG = Wolfgang Mertin
 | EA = 2004-01-03
 }}
 {{Episodenlisteneintrag
@@ -1297,7 +1297,7 @@
 | NR_ST = 3
 | OT = Das Vermächtnis der Marquesas-Inseln<ref>Internetquellen zur Episode ''„Das Vermächtnis der Marquesas-Inseln“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/154-das-vermaechtnis-der-marquesas-inseln-339482 154] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/154-das-vermaechtnis-der-marquesas-inseln-339482 339482], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642022 S06E03] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642022 4642022], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt5000242 tt5000242], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=7FS3M6gwn2g 7FS3M6gwn2g]</ref>
 | Feld1 = Cargo pour les marquises
-| REG = -
+| REG = Ulla Lohmann in Zusammenarbeit mit Julia Gerdes
 | EA = 2004-03-27
 }}
 {{Episodenlisteneintrag
@@ -1313,7 +1313,7 @@
 | NR_ST = 5
 | OT = Johannesburg - Eine Stadt macht dicht<ref>Internetquellen zur Episode ''„Johannesburg - Eine Stadt macht dicht“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/156-johannesburg-eine-stadt-macht-dicht-339486 156] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/156-johannesburg-eine-stadt-macht-dicht-339486 339486], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642024 S06E05] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642024 4642024], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=CyD4tnGwcxs CyD4tnGwcxs]</ref>
 | Feld1 = Johannesburg, le Repli Sur Soi
-| REG = -
+| REG = Henning Jaeckisch
 | EA = 2004-05-29
 }}
 {{Episodenlisteneintrag
@@ -1337,7 +1337,7 @@
 | NR_ST = 8
 | OT = Die Bogenschützin von Bhutan<ref>Internetquellen zur Episode ''„Die Bogenschützin von Bhutan“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/159-die-bogenschuetzin-von-bhutan-339447 159] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/159-die-bogenschuetzin-von-bhutan-339447 339447], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642027 S06E08] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642027 4642027], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=wyIXpjaP9VM wyIXpjaP9VM]</ref>
 | Feld1 = L'Himalaya — La Jeune Fille à l'Arc
-| REG = -
+| REG = Holger Riedel
 | EA = 2004-07-31
 }}
 {{Episodenlisteneintrag
@@ -1361,7 +1361,7 @@
 | NR_ST = 11
 | OT = Razzia im Regenwald<ref>Internetquellen zur Episode ''„Razzia im Regenwald“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/162-razzia-im-regenwald-339488 162] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/162-razzia-im-regenwald-339488 339488], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642031 S06E11] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642031 4642031], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=ExA03zKchVc ExA03zKchVc]</ref>
 | Feld1 = Razzia Dans la Forêt Amazonienne
-| REG = -
+| REG = Kerstin Meyer in Zusammenarbeit mit Reinhardt Beetz
 | EA = 2004-09-18
 }}
 {{Episodenlisteneintrag
@@ -1369,7 +1369,7 @@
 | NR_ST = 12
 | OT = In acht Meilen um die Welt<ref>Internetquellen zur Episode ''„In acht Meilen um die Welt“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/163-in-acht-meilen-um-die-welt-339489 163] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/163-in-acht-meilen-um-die-welt-339489 339489], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642033 S06E12] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642033 4642033], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=t59ghH7Ant8 t59ghH7Ant8]</ref>
 | Feld1 = New-York, le tour de monde en 13 kms
-| REG = -
+| REG = Carmen Butta
 | EA = 2004-10-16
 }}
 {{Episodenlisteneintrag
@@ -1393,7 +1393,7 @@
 | NR_ST = 15
 | OT = Kalifornien auf die harte Tour<ref>Internetquellen zur Episode ''„Kalifornien auf die harte Tour“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/166-kalifornien-auf-die-harte-tour-339492 166] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/166-kalifornien-auf-die-harte-tour-339492 339492], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642037 S06E15] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642037 4642037], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1029217 tt1029217], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=qIx8uIMxDIM qIx8uIMxDIM]</ref>
 | Feld1 = Tourisme de choc en californie
-| REG = -
+| REG = Ilka Franzmann
 | EA = 2004-11-13
 }}
 {{Episodenlisteneintrag
@@ -1425,7 +1425,7 @@
 | NR_ST = 19
 | OT = Ein Traum von Schokolade<ref>Internetquellen zur Episode ''„Ein Traum von Schokolade“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/170-ein-traum-von-schokolade-339496 170] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/170-ein-traum-von-schokolade-339496 339496], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642041 S06E19] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642041 4642041], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1350548 tt1350548], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=BxUtrDZX1FI BxUtrDZX1FI]</ref>
 | Feld1 = 100% chocolat
-| REG = -
+| REG = Jörg Daniel Hissen und Peter Moers
 | EA = 2004-12-30
 }}
 }}
@@ -1468,7 +1468,7 @@
 | NR_ST = 4
 | OT = Die Kichwa-Krieger und das Öl<ref>Internetquellen zur Episode ''„Die Kichwa-Krieger und das Öl“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/175-die-kichwa-krieger-und-das-oel-339502 175] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/175-die-kichwa-krieger-und-das-oel-339502 339502], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642150 S07E05] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642150 4642150], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=t3Kiy1Iz69k t3Kiy1Iz69k]</ref>
 | Feld1 = Les Indiens Contre les Rois du Pétrole
-| REG = -
+| REG = Holger Riedel
 | EA = 2005-04-09
 }}
 {{Episodenlisteneintrag
@@ -1492,7 +1492,7 @@
 | NR_ST = 7
 | OT = Das Postschiff zum Ende der Welt<ref>Internetquellen zur Episode ''„Das Postschiff zum Ende der Welt“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/178-das-postschiff-zum-ende-der-welt-339507 178] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/178-das-postschiff-zum-ende-der-welt-339507 339507], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642154 S07E09] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642154 4642154], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=hnuma6p1K08 hnuma6p1K08]</ref>
 | Feld1 = Le Bateau Postal d'Ouessant
-| REG = -
+| REG = Sven Jaax
 | EA = 2005-07-09
 }}
 {{Episodenlisteneintrag
@@ -1532,7 +1532,7 @@
 | NR_ST = 12
 | OT = Der weiße Berg von Feuerland<ref>Internetquellen zur Episode ''„Der weiße Berg von Feuerland“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/184-der-weisse-berg-von-feuerland-339658 184] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/184-der-weisse-berg-von-feuerland-339658 339658], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642161 S07E16] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642161 4642161], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=N1vjuQX9RyY N1vjuQX9RyY]</ref>
 | Feld1 = Le Géant Blanc de Patagonie
-| REG = -
+| REG = Holger Riedel
 | EA = 2005-10-22
 }}
 {{Episodenlisteneintrag
@@ -1540,7 +1540,7 @@
 | NR_ST = 13
 | OT = Mecaniqueros - Nichts ist unmöglich in Havanna<ref>Internetquellen zur Episode ''„Mecaniqueros - Nichts ist unmöglich in Havanna“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/185-mecaniqueros-nichts-ist-unmoeglich-in-havanna-339659 185] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/185-mecaniqueros-nichts-ist-unmoeglich-in-havanna-339659 339659], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642162 S07E17] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642162 4642162], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=80vkFm7tzCM 80vkFm7tzCM]</ref>
 | Feld1 = Mecaniqueros: Impossible n’Est Pas Cubain
-| REG = -
+| REG = Joanna Michna
 | EA = 2005-11-12
 }}
 {{Episodenlisteneintrag
@@ -1655,7 +1655,7 @@
 | NR_ST = 10
 | OT = Tasmanien: Wächterin im Paradies<ref>Internetquellen zur Episode ''„Tasmanien: Wächterin im Paradies“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/198-tasmanien-waechterin-im-paradies-339666 198] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/198-tasmanien-waechterin-im-paradies-339666 339666], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642176 S08E10] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642176 4642176], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=df1G1ZN2OdM df1G1ZN2OdM]</ref>
 | Feld1 = La Gardienne du Paradis de Tasmanie
-| REG = -
+| REG = Holger Riedel
 | EA = 2006-09-09
 }}
 {{Episodenlisteneintrag
@@ -1671,7 +1671,7 @@
 | NR_ST = 12
 | OT = Die Millionen-Dollar-Hirsche<ref>Internetquellen zur Episode ''„Die Millionen-Dollar-Hirsche“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/200-die-millionen-dollar-hirsche-339671 200] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/200-die-millionen-dollar-hirsche-339671 339671], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642178 S08E12] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642178 4642178], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=b96BcyI9T9M b96BcyI9T9M]</ref>
 | Feld1 = Les Cerfs aux Bois de Velours
-| REG = -
+| REG = Klaus Reisinger und Frederique Lengaigne
 | EA = 2006-10-07
 }}
 {{Episodenlisteneintrag
@@ -1703,7 +1703,7 @@
 | NR_ST = 16
 | OT = Auf den Spuren der Wikinger<ref>Internetquellen zur Episode ''„Auf den Spuren der Wikinger“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/204-auf-den-spuren-der-wikinger-339683 204] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/204-auf-den-spuren-der-wikinger-339683 339683], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642182 S08E16] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642182 4642182], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=Zsj8iSV3nQE Zsj8iSV3nQE]</ref>
 | Feld1 = Sur la Route des Vikings
-| REG = -
+| REG = Malgorzata Bucka
 | EA = 2006-11-18
 }}
 {{Episodenlisteneintrag
@@ -1719,7 +1719,7 @@
 | NR_ST = 18
 | OT = Buddhas Kinder im Goldenen Dreieck<ref>Internetquellen zur Episode ''„Buddhas Kinder im Goldenen Dreieck“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/206-buddhas-kinder-im-goldenen-dreieck-339686 206] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/206-buddhas-kinder-im-goldenen-dreieck-339686 339686], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642184 S08E18] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642184 4642184], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=5_SK0AFJqfQ 5_SK0AFJqfQ]</ref>
 | Feld1 = Le Triangle d'Or et les Enfants de Bouddha
-| REG = -
+| REG = Therese Engels
 | EA = 2006-12-16
 }}
 {{Episodenlisteneintrag
@@ -1794,7 +1794,7 @@
 | NR_ST = 7
 | OT = Die Sandmenschen von Schoina<ref>Internetquellen zur Episode ''„Die Sandmenschen von Schoina“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/214-die-sandmenschen-von-schoina-339696 214] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/214-die-sandmenschen-von-schoina-339696 339696], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642211 S09E07] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642211 4642211], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=EdPZhBjtBas EdPZhBjtBas]</ref>
 | Feld1 = Choïna, Sous le Sable
-| REG = -
+| REG = Holger Riedel
 | EA = 2007-04-21
 }}
 {{Episodenlisteneintrag
@@ -1818,7 +1818,7 @@
 | NR_ST = 10
 | OT = Der Lachszähler von Kamtschatka<ref>Internetquellen zur Episode ''„Der Lachszähler von Kamtschatka“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/217-der-lachszaehler-von-kamtschatka-339700 217] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/217-der-lachszaehler-von-kamtschatka-339700 339700], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642214 S09E10] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642214 4642214], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=_1z6gndFCQg _1z6gndFCQg]</ref>
 | Feld1 = Alexeï, les Saumons et les Ours
-| REG = -
+| REG = Wolfgang Mertin
 | EA = 2007-06-02
 }}
 {{Episodenlisteneintrag
@@ -1850,7 +1850,7 @@
 | NR_ST = 14
 | OT = Thailand: Kinder im Ring<ref>Internetquellen zur Episode ''„Thailand: Kinder im Ring“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/221-thailand-kinder-im-ring-339705 221] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/221-thailand-kinder-im-ring-339705 339705], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642245 S09E14] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642245 4642245], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=LtDq72ui27g LtDq72ui27g]</ref>
 | Feld1 = Thaïlande, les Enfants du Ring
-| REG = -
+| REG = Joanna Michna
 | EA = 2007-09-01
 }}
 {{Episodenlisteneintrag
@@ -1866,7 +1866,7 @@
 | NR_ST = 16
 | OT = Rio: Vom Strich auf den Laufsteg<ref>Internetquellen zur Episode ''„Rio: Vom Strich auf den Laufsteg“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/223-rio-vom-strich-auf-den-laufsteg-339707 223] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/223-rio-vom-strich-auf-den-laufsteg-339707 339707], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642247 S09E16] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642247 4642247], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=lONevE9h_GM lONevE9h_GM]</ref>
 | Feld1 = Rio, le Trottoir Fait Sa Mode
-| REG = -
+| REG = Carmen Butta
 | EA = 2007-09-15
 }}
 {{Episodenlisteneintrag
@@ -1890,7 +1890,7 @@
 | NR_ST = 19
 | OT = Der Ottermann von Ungarn<ref>Internetquellen zur Episode ''„Der Ottermann von Ungarn“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/226-der-ottermann-von-ungarn-339713 226] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/226-der-ottermann-von-ungarn-339713 339713], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642250 S09E19] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642250 4642250], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt6756518 tt6756518], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=7TUDH-k4qH0 7TUDH-k4qH0]</ref>
 | Feld1 = L'homme aux loutres
-| REG = -
+| REG = Zoltan Török
 | EA = 2007-11-10
 }}
 {{Episodenlisteneintrag
@@ -1914,7 +1914,7 @@
 | NR_ST = 22
 | OT = Postbote im Himalaya - Arbeit in 4000 Meter Höhe<ref>Internetquellen zur Episode ''„Postbote im Himalaya - Arbeit in 4000 Meter Höhe“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/229-postbote-im-himalaya-339716 229] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/229-postbote-im-himalaya-339716 339716], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642253 S09E22] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642253 4642253], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt6941802 tt6941802], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=VHEpd2C1GvQ VHEpd2C1GvQ]</ref>
 | Feld1 = Le Facteur de l'Himalaya
-| REG = -
+| REG = Ines Possemeyer
 | EA = 2007-12-01
 }}
 {{Episodenlisteneintrag
@@ -1922,7 +1922,7 @@
 | NR_ST = 23
 | OT = Wenzhou, die Schuh-Stadt von China<ref>Internetquellen zur Episode ''„Wenzhou, die Schuh-Stadt von China“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/230-wenzhou-die-schuh-stadt-von-china-339717 230] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/230-wenzhou-die-schuh-stadt-von-china-339717 339717], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642254 S09E23] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642254 4642254], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=BlMBuBYO0IQ BlMBuBYO0IQ]</ref>
 | Feld1 = Chaussures Made in Wenzhou
-| REG = -
+| REG = Sven Jaax
 | EA = 2007-12-08
 }}
 {{Episodenlisteneintrag
@@ -1965,7 +1965,7 @@
 | NR_ST = 1
 | OT = Hexenwahn in Tansania<ref>Internetquellen zur Episode ''„Hexenwahn in Tansania“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/234-hexenwahn-in-tansania-339722 234] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/234-hexenwahn-in-tansania-339722 339722], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642259 S10E01] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642259 4642259], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=8K_unhDEPJo 8K_unhDEPJo]</ref>
 | Feld1 = Chasse aux Sorcières en Tanzanie
-| REG = -
+| REG = Holger Riedel
 | EA = 2008-01-21
 }}
 {{Episodenlisteneintrag
@@ -2021,7 +2021,7 @@
 | NR_ST = 8
 | OT = Rom - Das Leben der Komparsen<ref>Internetquellen zur Episode ''„Rom - Das Leben der Komparsen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/241-rom-das-leben-der-komparsen-339691 241] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/241-rom-das-leben-der-komparsen-339691 339691], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642266 S10E08] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642266 4642266], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=-M2Nf4GPbHg -M2Nf4GPbHg]</ref>
 | Feld1 = Rome, les Petits Rôles de Cinecitta
-| REG = -
+| REG = Alessandro Cassigoli und Dalia Castel
 | EA = 2008-04-22
 }}
 {{Episodenlisteneintrag
@@ -2045,7 +2045,7 @@
 | NR_ST = 11
 | OT = Vom Klassenzimmer in die Kalahari<ref>Internetquellen zur Episode ''„Vom Klassenzimmer in die Kalahari“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/244-vom-klassenzimmer-in-die-kalahari-339699 244] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/244-vom-klassenzimmer-in-die-kalahari-339699 339699], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642269 S10E11] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642269 4642269], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=AB2q4v0rlYo AB2q4v0rlYo]</ref>
 | Feld1 = Namibie, Sur les Traces de Darwin
-| REG = -
+| REG = Rolf Sakulowski
 | EA = 2008-07-31
 }}
 {{Episodenlisteneintrag
@@ -2069,7 +2069,7 @@
 | NR_ST = 14
 | OT = New York - Die kleinste Oper der Welt<ref>Internetquellen zur Episode ''„New York - Die kleinste Oper der Welt“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/247-new-york-die-kleinste-oper-der-welt-339711 247] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/247-new-york-die-kleinste-oper-der-welt-339711 339711], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642272 S10E14] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642272 4642272], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=I-VACV5HkOs I-VACV5HkOs]</ref>
 | Feld1 = New York, le Plus Petit Opéra du Monde
-| REG = -
+| REG = Alessandro Cassigoli
 | EA = 2008-09-18
 }}
 {{Episodenlisteneintrag

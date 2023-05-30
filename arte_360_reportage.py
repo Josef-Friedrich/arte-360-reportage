@@ -875,7 +875,7 @@ class TvShow:
         Yaml.save(filepath, self.export_data())
 
     def export_to_json(self) -> None:
-        Utils.write_json_file(EXPORT_FILENAME + ".json", self.data)
+        Utils.write_json_file(EXPORT_FILENAME + ".json", self.export_data())
 
 
 tv_show = TvShow()
@@ -1180,7 +1180,7 @@ def debug() -> None:
     for episode in tv_show.episodes:
         update(episode)
 
-    tv_show.export_to_json()
+    tv_show.export_to_yaml()
 
 
 def scrape() -> None:
