@@ -1187,7 +1187,7 @@ def tmp() -> None:
         if (
             episode.description
             and episode.description_youtube
-            and len(episode.description_youtube) + 10 > len(episode.description)
+            and len(episode.description_youtube) - 10 > len(episode.description)
         ):
             episode.description = episode.description_youtube
 
