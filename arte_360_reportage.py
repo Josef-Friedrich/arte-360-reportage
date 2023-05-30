@@ -1178,50 +1178,24 @@ class FrWiki(WikiTemplate):
 ### actions ###################################################################
 
 
-def debug() -> None:
-    """Test some code"""
-    youtube = YouTube(True)
-
-    def compare_titles(episode: Episode):
-        if episode.youtube_video_id:
-            result = youtube.get_video(episode.youtube_video_id)
-            video = YoutubeVideo(result)
-            print(f"{episode.title}\n{video.title}\n")
-
-    def warn(episode: Episode):
-        if episode.youtube_video_id:
-            result = youtube.get_video(episode.youtube_video_id)
-            video = YoutubeVideo(result)
-            if not video.duration_sec or video.duration_sec < 360:
-                print(episode.title)
-
-    def inspect(episode: Episode):
-        if episode.youtube_video_id:
-            result = youtube.get_video(episode.youtube_video_id)
-            video = YoutubeVideo(result)
-            print("----------------------------")
-            print(f"director: {video.director}")
-            print(f"duration_sec: {video.duration_sec}")
-            print(f"description: {video.description}")
-
-    def update(episode: Episode):
-        if episode.youtube_video_id:
-            result = youtube.get_video(episode.youtube_video_id)
-            video = YoutubeVideo(result)
-            if episode.description:
-                episode.description_fernsehserien = episode.description
-            if video.duration_sec:
-                episode.duration_sec = video.duration_sec
-            if video.description:
-                episode.description_youtube = video.description
-
-            if video.director and not episode.director:
-                episode.director = video.director
-
-    # inspect(tv_show.episodes[600])
+def tmp() -> None:
+    """Test some code. Do one time tasks"""
     for episode in tv_show.episodes:
-        update(episode)
+        if not episode.description_fernsehserien and episode.description:
+            episode.description_fernsehserien = episode.description
 
+        if (
+            episode.description
+            and episode.description_youtube
+            and len(episode.description_youtube) + 10 > len(episode.description)
+        ):
+            episode.description = episode.description_youtube
+
+        if episode.description:
+            desc = episode.description
+            desc = re.sub(r" \(Text:.*\)", "", desc)
+            desc = desc.strip()
+            episode.description = desc
     tv_show.export_to_yaml()
 
 
@@ -1380,11 +1354,11 @@ def generate_readme() -> None:
 def get_argument_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog=EXPORT_FILENAME)
     parser.add_argument("-c", "--chatgpt", action="store_true")
-    parser.add_argument("-d", "--debug", action="store_true")
     parser.add_argument("-j", "--json", action="store_true")
     parser.add_argument("-l", "--leaflet", action="store_true")
     parser.add_argument("-r", "--readme", action="store_true")
     parser.add_argument("-s", "--scrape", action="store_true")
+    parser.add_argument("-t", "--tmp", action="store_true")
     parser.add_argument("-w", "--wiki", choices=("de", "fr"))
     parser.add_argument("-y", "--yaml", action="store_true")
     return parser
@@ -1395,9 +1369,6 @@ def main() -> None:
 
     if args.chatgpt:
         tv_show.generate_chatgpt_texts()
-
-    if args.debug:
-        debug()
 
     if args.json:
         tv_show.export_to_json()
@@ -1410,6 +1381,9 @@ def main() -> None:
 
     if args.scrape:
         scrape()
+
+    if args.tmp:
+        tmp()
 
     if args.wiki:
         generate_wikitext(args.wiki)

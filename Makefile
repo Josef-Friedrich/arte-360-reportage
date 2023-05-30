@@ -5,8 +5,8 @@ all: chatgpt json leaflet readme wiki yaml
 chatgpt:
 	$(SCRIPT) --chatgpt
 
-debug:
-	$(SCRIPT) --debug
+tmp:
+	$(SCRIPT) --tmp
 
 json:
 	$(SCRIPT) --json
@@ -16,6 +16,9 @@ leaflet:
 
 readme:
 	$(SCRIPT) --readme
+
+tmp:
+	$(SCRIPT) --tmp
 
 wiki:
 	$(SCRIPT) --wiki de
