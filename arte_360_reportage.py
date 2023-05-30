@@ -427,7 +427,10 @@ class EpisodeData(typing.TypedDict):
     """for example ``2020-08-16``"""
 
     duration: int
-    """for example ``52``"""
+    """The duration in minutes, for example ``52``"""
+
+    duration_sec: int
+    """The duration in seconds, for example ``5243``"""
 
     location_wikidata: str
     """Wikidata object to the main location of the episode, for example ``Q368241``"""
@@ -481,6 +484,10 @@ class Episode:
     def __get_str_key(self, key: str) -> str | None:
         if key in self.data and self.data[key] != "":
             return typing.cast(str, self.data[key])
+
+    def __get_int_key(self, key: str) -> int | None:
+        if key in self.data and self.data[key] != "":
+            return typing.cast(int, self.data[key])
 
     def __get_int_key_safe(self, key: str) -> int:
         if key in self.data and self.data[key] != "":
@@ -625,6 +632,22 @@ class Episode:
         if not d:
             return ""
         return d.strftime(format)
+
+    @property
+    def duration(self) -> int | None:
+        return self.__get_int_key("director")
+
+    @duration.setter
+    def duration(self, duration: int) -> None:
+        self.data["duration"] = duration
+
+    @property
+    def duration_sec(self) -> int | None:
+        return self.__get_int_key("duration_sec")
+
+    @duration_sec.setter
+    def duration_sec(self, duration_sec: int) -> None:
+        self.data["duration_sec"] = duration_sec
 
     @property
     def coordinates(self) -> list[float] | None:
@@ -1115,7 +1138,7 @@ class FrWiki(WikiTemplate):
 
 def debug() -> None:
     """Test some code"""
-    youtube = YouTube(False)
+    youtube = YouTube(True)
 
     def compare_titles(episode: Episode):
         if episode.youtube_video_id:
@@ -1139,9 +1162,25 @@ def debug() -> None:
             print(f"duration_sec: {video.duration_sec}")
             print(f"description: {video.description}")
 
+    def update(episode: Episode):
+        if episode.youtube_video_id:
+            result = youtube.get_video(episode.youtube_video_id)
+            video = YoutubeVideo(result)
+            if episode.description:
+                episode.description_fernsehserien = episode.description
+            if video.duration_sec:
+                episode.duration_sec = video.duration_sec
+            if video.description:
+                episode.description_youtube = video.description
+
+            if video.director and not episode.director:
+                episode.director = video.director
+
     # inspect(tv_show.episodes[600])
     for episode in tv_show.episodes:
-        compare_titles(episode)
+        update(episode)
+
+    tv_show.export_to_json()
 
 
 def scrape() -> None:
