@@ -246,9 +246,57 @@ class YoutubeVideo:
             return self.video["contentDetails"]
 
     @property
-    def description(self):
+    def duration(self) -> str | None:
+        if self.content_details and "duration" in self.content_details:
+            return self.content_details["duration"]
+
+    @property
+    def duration_sec(self) -> int | None:
+        """string
+        The length of the video. The property value is an ISO 8601 duration. For example, for a video that is at least one minute long and less than one hour long, the duration is in the format PT#M#S, in which the letters PT indicate that the value specifies a period of time, and the letters M and S refer to length in minutes and seconds, respectively. The # characters preceding the M and S letters are both integers that specify the number of minutes (or seconds) of the video. For example, a value of PT15M33S indicates that the video is 15 minutes and 33 seconds long.
+
+        If the video is at least one hour long, the duration is in the format PT#H#M#S
+        """
+        if self.duration:
+            match = re.match(r"PT(\d+)M(\d+)S", self.duration)
+            if match:
+                return int(match[1]) * 60 + int(match[2])
+
+    @property
+    def title(self):
+        if self.snippet and "title" in self.snippet:
+            return self.snippet["title"]
+
+    @property
+    def description_raw(self):
         if self.snippet and "description" in self.snippet:
             return self.snippet["description"]
+
+    @property
+    def description(self):
+        description = self.description_raw
+
+        if description:
+            result: str = re.sub(r"Ein Film von (.*) *\n", "", description)
+            result = re.sub(r"©.*\n", "", result)
+            result = re.sub("Abonniere wocomoTRAVEL.*\n", "", result)
+            result = re.sub(r"Folge uns auf Facebook.*\n", "", result)
+            result = re.sub(r"Staffel.*Folge.*\n", "", result)
+            result = re.sub(r"Klicke hier für.*\n", "", result)
+            result = re.sub(r"Pressetext:*\n", "", result)
+            result = re.sub(r"\s+\n", "\n", result)
+            result = re.sub("\n", "\n\n", result)
+            result = re.sub("\n\n+", "\n\n", result)
+            result = result.strip()
+            return result
+
+    @property
+    def director(self):
+        description = self.description_raw
+        if description:
+            match = re.findall(r"Ein Film von (.*)\n", description)
+            if match:
+                return match[0]
 
 
 class Scrapper:
@@ -361,7 +409,13 @@ class EpisodeData(typing.TypedDict):
     ]
 
     description: str
-    """Longest description that can be found"""
+    """Longest and best description that can be found"""
+
+    description_fernsehserien: str
+    """A description scraped from fernsehserien.de"""
+
+    description_youtube: str
+    """A description that comes from a Youtube video"""
 
     description_short: str
     """Auto-generated with chatgpt: ``Fasse folgenden Text auf Deutsch in 75 Wörtern zusammen: ``"""
@@ -518,6 +572,22 @@ class Episode:
     @description.setter
     def description(self, description: str) -> None:
         self.data["description"] = description
+
+    @property
+    def description_fernsehserien(self) -> str | None:
+        return self.__get_str_key("description_fernsehserien")
+
+    @description_fernsehserien.setter
+    def description_fernsehserien(self, description: str) -> None:
+        self.data["description_fernsehserien"] = description
+
+    @property
+    def description_youtube(self) -> str | None:
+        return self.__get_str_key("description_youtube")
+
+    @description_youtube.setter
+    def description_youtube(self, description: str) -> None:
+        self.data["description_youtube"] = description
 
     @property
     def description_plain(self) -> str | None:
@@ -1046,12 +1116,32 @@ class FrWiki(WikiTemplate):
 def debug() -> None:
     """Test some code"""
     youtube = YouTube(False)
-    for episode in tv_show.episodes:
+
+    def compare_titles(episode: Episode):
+        if episode.youtube_video_id:
+            result = youtube.get_video(episode.youtube_video_id)
+            video = YoutubeVideo(result)
+            print(f"{episode.title}\n{video.title}\n")
+
+    def warn(episode: Episode):
+        if episode.youtube_video_id:
+            result = youtube.get_video(episode.youtube_video_id)
+            video = YoutubeVideo(result)
+            if not video.duration_sec or video.duration_sec < 360:
+                print(episode.title)
+
+    def inspect(episode: Episode):
         if episode.youtube_video_id:
             result = youtube.get_video(episode.youtube_video_id)
             video = YoutubeVideo(result)
             print("----------------------------")
-            print(video.description)
+            print(f"director: {video.director}")
+            print(f"duration_sec: {video.duration_sec}")
+            print(f"description: {video.description}")
+
+    # inspect(tv_show.episodes[600])
+    for episode in tv_show.episodes:
+        compare_titles(episode)
 
 
 def scrape() -> None:

@@ -295,7 +295,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 36
 | NR_ST = 36
-| OT = Lichtkunst - Kunstlicht<ref>Internetquellen zur Episode ''„Lichtkunst - Kunstlicht“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/36-universum-des-lichts-lichtkunst-kunstlicht-339148 36] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/36-universum-des-lichts-lichtkunst-kunstlicht-339148 339148], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824544 S01E36] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824544 4824544], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=bTTuATcO2Wg bTTuATcO2Wg]</ref>
+| OT = Lichtkunst - Kunstlicht<ref>Internetquellen zur Episode ''„Lichtkunst - Kunstlicht“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/36-universum-des-lichts-lichtkunst-kunstlicht-339148 36] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/36-universum-des-lichts-lichtkunst-kunstlicht-339148 339148], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824544 S01E36] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824544 4824544], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=FU3uG3sr75w FU3uG3sr75w]</ref>
 | Feld1 = -
 | REG = Elke Werry
 | EA = 1999-11-04
@@ -371,7 +371,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 44
 | NR_ST = 4
-| OT = Im Schatten des Vulkans<ref>Internetquellen zur Episode ''„Im Schatten des Vulkans“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/44-naturgewalten-im-schatten-des-vulkans-339161 44] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/44-naturgewalten-im-schatten-des-vulkans-339161 339161], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641916 S02E04] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641916 4641916], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=VNj_YNRPecU VNj_YNRPecU]</ref>
+| OT = Im Schatten des Vulkans<ref>Internetquellen zur Episode ''„Im Schatten des Vulkans“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/44-naturgewalten-im-schatten-des-vulkans-339161 44] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/44-naturgewalten-im-schatten-des-vulkans-339161 339161], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641916 S02E04] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641916 4641916], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=VGLT3ZeQwR0 VGLT3ZeQwR0]</ref>
 | Feld1 = -
 | REG = Michael Hutchinson
 | EA = 2000-01-13
@@ -419,7 +419,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 50
 | NR_ST = 10
-| OT = Schätze aus dem All<ref>Internetquellen zur Episode ''„Schätze aus dem All“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/50-die-schatzjaeger-schaetze-aus-dem-all-339167 50] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/50-die-schatzjaeger-schaetze-aus-dem-all-339167 339167], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641922 S02E10] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641922 4641922], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=W_s6Qhvwh7Q W_s6Qhvwh7Q]</ref>
+| OT = Schätze aus dem All<ref>Internetquellen zur Episode ''„Schätze aus dem All“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/50-die-schatzjaeger-schaetze-aus-dem-all-339167 50] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/50-die-schatzjaeger-schaetze-aus-dem-all-339167 339167], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641922 S02E10] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641922 4641922], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=auISYpA2psM auISYpA2psM]</ref>
 | Feld1 = -
 | REG = Mary Crisp
 | EA = 2000-03-07
@@ -603,7 +603,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 73
 | NR_ST = 33
-| OT = Die Elefantenschule<ref>Internetquellen zur Episode ''„Die Elefantenschule“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/73-tiere-im-rampenlicht-die-elefantenschule-339352 73] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/73-tiere-im-rampenlicht-die-elefantenschule-339352 339352], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824569 S02E33] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824569 4824569], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=NY6caIukEX8 NY6caIukEX8]</ref>
+| OT = Die Elefantenschule<ref>Internetquellen zur Episode ''„Die Elefantenschule“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/73-tiere-im-rampenlicht-die-elefantenschule-339352 73] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/73-tiere-im-rampenlicht-die-elefantenschule-339352 339352], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824569 S02E33] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824569 4824569], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=l6ciOHdMwlI l6ciOHdMwlI]</ref>
 | Feld1 = -
 | REG = Krishna Govender
 | EA = 2000-12-04
@@ -619,7 +619,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 75
 | NR_ST = 35
-| OT = Nicht ohne meinen Hund<ref>Internetquellen zur Episode ''„Nicht ohne meinen Hund“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/75-tiere-im-rampenlicht-nicht-ohne-meinen-hund-339354 75] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/75-tiere-im-rampenlicht-nicht-ohne-meinen-hund-339354 339354], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824571 S02E35] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824571 4824571], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=ybc-zfL1KkE ybc-zfL1KkE]</ref>
+| OT = Nicht ohne meinen Hund<ref>Internetquellen zur Episode ''„Nicht ohne meinen Hund“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/75-tiere-im-rampenlicht-nicht-ohne-meinen-hund-339354 75] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/75-tiere-im-rampenlicht-nicht-ohne-meinen-hund-339354 339354], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824571 S02E35] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824571 4824571], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=UOgEuKov234 UOgEuKov234]</ref>
 | Feld1 = -
 | REG = Michael Hutchinson
 | EA = 2000-12-06
@@ -1017,7 +1017,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 122
 | NR_ST = 18
-| OT = Die Schule der Inuit<ref>Internetquellen zur Episode ''„Die Schule der Inuit“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/122-die-schule-der-inuit-339445 122] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/122-die-schule-der-inuit-339445 339445], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641980 S04E18] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641980 4641980], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042932 tt1042932], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=DniKsVQuah0 DniKsVQuah0]</ref>
+| OT = Die Schule der Inuit<ref>Internetquellen zur Episode ''„Die Schule der Inuit“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/122-die-schule-der-inuit-339445 122] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/122-die-schule-der-inuit-339445 339445], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641980 S04E18] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641980 4641980], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042932 tt1042932], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=DvR4hXuzv1M DvR4hXuzv1M]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-06-05
@@ -1244,7 +1244,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 149
 | NR_ST = 14
-| OT = Einsatz für den Amur-Tiger<ref>Internetquellen zur Episode ''„Einsatz für den Amur-Tiger“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/149-einsatz-fuer-den-amur-tiger-339477 149] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/149-einsatz-fuer-den-amur-tiger-339477 339477], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642007 S05E14] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642007 4642007], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=Z6SauPIzWEw Z6SauPIzWEw]</ref>
+| OT = Einsatz für den Amur-Tiger<ref>Internetquellen zur Episode ''„Einsatz für den Amur-Tiger“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/149-einsatz-fuer-den-amur-tiger-339477 149] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/149-einsatz-fuer-den-amur-tiger-339477 339477], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642007 S05E14] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642007 4642007], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=xdyhywULKUU xdyhywULKUU]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2003-04-08
@@ -4396,7 +4396,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 521
 | NR_ST = 12
-| OT = Tibetische Medizin - Heilkraft für die Seele<ref>Internetquellen zur Episode ''„Tibetische Medizin - Heilkraft für die Seele“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/523-tibetische-medizin-heilkraft-fuer-die-seele-1319247 523] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/523-tibetische-medizin-heilkraft-fuer-die-seele-1319247 1319247], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7378725 S21E12] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7378725 7378725], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt18938838 tt18938838], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=sXYVFfjiOw8 sXYVFfjiOw8]</ref>
+| OT = Tibetische Medizin - Heilkraft für die Seele<ref>Internetquellen zur Episode ''„Tibetische Medizin - Heilkraft für die Seele“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/523-tibetische-medizin-heilkraft-fuer-die-seele-1319247 523] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/523-tibetische-medizin-heilkraft-fuer-die-seele-1319247 1319247], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7378725 S21E12] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7378725 7378725], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt18938838 tt18938838], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=kMxhTVEXK5M kMxhTVEXK5M]</ref>
 | Feld1 = La Médecine Tibétaine, l'Art de Guérir
 | REG = Holger Riedel
 | EA = 2019-09-29
