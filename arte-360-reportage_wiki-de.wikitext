@@ -1305,7 +1305,7 @@
 | NR_ST = 3
 | OT = Das Vermächtnis der Marquesas-Inseln<ref>Internetquellen zur Episode ''„Das Vermächtnis der Marquesas-Inseln“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/154-das-vermaechtnis-der-marquesas-inseln-339482 154] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/154-das-vermaechtnis-der-marquesas-inseln-339482 339482], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642022 S06E03] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642022 4642022], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt5000242 tt5000242], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=7FS3M6gwn2g 7FS3M6gwn2g]</ref>
 | Feld1 = Cargo pour les marquises
-| REG = Ulla Lohmann in Zusammenarbeit mit Julia Gerdes
+| REG = Ulla Lohmann, Julia Gerdes
 | EA = 2004-03-27
 }}
 {{Episodenlisteneintrag
@@ -1369,7 +1369,7 @@
 | NR_ST = 11
 | OT = Razzia im Regenwald<ref>Internetquellen zur Episode ''„Razzia im Regenwald“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/162-razzia-im-regenwald-339488 162] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/162-razzia-im-regenwald-339488 339488], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642031 S06E11] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642031 4642031], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=ExA03zKchVc ExA03zKchVc]</ref>
 | Feld1 = Razzia Dans la Forêt Amazonienne
-| REG = Kerstin Meyer in Zusammenarbeit mit Reinhardt Beetz
+| REG = Kerstin Meyer, Reinhardt Beetz
 | EA = 2004-09-18
 }}
 {{Episodenlisteneintrag
@@ -1433,7 +1433,7 @@
 | NR_ST = 19
 | OT = Ein Traum von Schokolade<ref>Internetquellen zur Episode ''„Ein Traum von Schokolade“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/170-ein-traum-von-schokolade-339496 170] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/170-ein-traum-von-schokolade-339496 339496], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642041 S06E19] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642041 4642041], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1350548 tt1350548], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=BxUtrDZX1FI BxUtrDZX1FI]</ref>
 | Feld1 = 100% chocolat
-| REG = Jörg Daniel Hissen und Peter Moers
+| REG = Jörg Daniel Hissen, Peter Moers
 | EA = 2004-12-30
 }}
 }}
@@ -1679,7 +1679,7 @@
 | NR_ST = 12
 | OT = Die Millionen-Dollar-Hirsche<ref>Internetquellen zur Episode ''„Die Millionen-Dollar-Hirsche“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/200-die-millionen-dollar-hirsche-339671 200] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/200-die-millionen-dollar-hirsche-339671 339671], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642178 S08E12] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642178 4642178], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=b96BcyI9T9M b96BcyI9T9M]</ref>
 | Feld1 = Les Cerfs aux Bois de Velours
-| REG = Klaus Reisinger und Frederique Lengaigne
+| REG = Klaus Reisinger, Frederique Lengaigne
 | EA = 2006-10-07
 }}
 {{Episodenlisteneintrag
@@ -2029,7 +2029,7 @@
 | NR_ST = 8
 | OT = Rom - Das Leben der Komparsen<ref>Internetquellen zur Episode ''„Rom - Das Leben der Komparsen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/241-rom-das-leben-der-komparsen-339691 241] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/241-rom-das-leben-der-komparsen-339691 339691], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642266 S10E08] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642266 4642266], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=-M2Nf4GPbHg -M2Nf4GPbHg]</ref>
 | Feld1 = Rome, les Petits Rôles de Cinecitta
-| REG = Alessandro Cassigoli und Dalia Castel
+| REG = Alessandro Cassigoli, Dalia Castel
 | EA = 2008-04-22
 }}
 {{Episodenlisteneintrag

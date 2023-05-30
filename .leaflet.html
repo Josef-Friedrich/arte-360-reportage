@@ -55,9 +55,15 @@
       ).addTo(map)
 
       for (const marker of markers) {
-        const options = { radius: 3 }
+        const options = {
+          color: '#222222',
+          fill: true,
+          fillOpacity: 1,
+          radius: 4,
+          weight: 1
+        }
         if (marker.color != null) {
-          options.color = marker.color
+          options.fillColor = marker.color
         }
         L.circleMarker(marker.coordinates, options)
           .addTo(map)

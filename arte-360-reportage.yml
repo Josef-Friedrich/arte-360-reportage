@@ -9758,7 +9758,7 @@ seasons:
             in die Erde gegrabene Opferstätten und steinerne Göttergestalten
             - so genannte Tiki. Kein leichtes Unterfangen, denn viele dieser
             Stellen liegen im dichten Dschungel oder an unzugänglichen Buchten.'
-        director: Ulla Lohmann in Zusammenarbeit mit Julia Gerdes
+        director: Ulla Lohmann, Julia Gerdes
         air_date: '2004-03-27'
         duration: 52
         duration_sec: 3121
@@ -10527,7 +10527,7 @@ seasons:
             in den Knochen hätten, würden sie vor unserem Haus stehen“. Das
             hat bis heute zum Glück noch keiner getan. Doch die Ibama plant
             bereits die nächsten Aktionen.'
-        director: Kerstin Meyer in Zusammenarbeit mit Reinhardt Beetz
+        director: Kerstin Meyer, Reinhardt Beetz
         air_date: '2004-09-18'
         duration: 52
         duration_sec: 3130
@@ -11201,7 +11201,7 @@ seasons:
             bringen: „Hacienda San José“ - eine Hommage an die drei venezolanischen
             Franceschi-Brüder und ein selbstbewusster Versuch, die Kakao-Kultur
             in Europa zu bereichern.'
-        director: Jörg Daniel Hissen und Peter Moers
+        director: Jörg Daniel Hissen, Peter Moers
         air_date: '2004-12-30'
         duration: 52
         duration_sec: 3129
@@ -13235,7 +13235,7 @@ seasons:
             stehen unter Zeitdruck. Über 400 Marale haben sie zusammen gepfercht,
             als die Herde plötzlich ausbricht. Auf den Zäunen suchen die Männer
             Zuflucht, um den Hufen der Hirsche zu entkommen.'
-        director: Klaus Reisinger und Frederique Lengaigne
+        director: Klaus Reisinger, Frederique Lengaigne
         air_date: '2006-10-07'
         duration: 52
         duration_sec: 3104
@@ -16329,7 +16329,7 @@ seasons:
             allzu häufig erlebt hat. Doch er gibt nicht auf - jeder Anruf
             seiner Agentin, Daniela De Angelis, bringt wieder neue Hoffnung.
             Wie wird das nächste Casting ausgehen?'
-        director: Alessandro Cassigoli und Dalia Castel
+        director: Alessandro Cassigoli, Dalia Castel
         air_date: '2008-04-22'
         duration: 52
         duration_sec: 3109
@@ -52783,6 +52783,10 @@ seasons:
         director: Marc Mühldorfer
         air_date: '2022-12-10'
         duration: 32
+        location_wikidata: Q1464174
+        coordinates:
+        - 65.184167
+        - -13.759167
         fernsehserien_air_date: '2022-12-03'
         fernsehserien_episode_no: 606
         fernsehserien_episode_slug: 606-island-die-wertvollsten-daunen-der-welt-1602943
@@ -52882,6 +52886,10 @@ seasons:
         director: Jean-Baptiste Mathieu
         air_date: '2022-12-24'
         duration: 32
+        location_wikidata: Q22915
+        coordinates:
+        - 48.965556
+        - 7.352222
         fernsehserien_air_date: '2022-12-17'
         fernsehserien_episode_no: 608
         fernsehserien_episode_slug: 608-kristall-die-magische-kunst-aus-den-vogesen-1607754
@@ -52937,6 +52945,10 @@ seasons:
         director: Galina Breitkreuz
         air_date: '2023-01-07'
         duration: 32
+        location_wikidata: Q23564
+        coordinates:
+        - 42.439722
+        - 19.266111
         fernsehserien_air_date: '2022-12-31'
         fernsehserien_episode_no: 609
         fernsehserien_episode_slug: 609-montenegro-der-eselretter-1609765
@@ -53136,6 +53148,10 @@ seasons:
             und irreversible Schäden durch Mangelernährung abzuwenden.
         director: Joanna Michna
         air_date: '2023-03-04'
+        location_wikidata: Q819
+        coordinates:
+        - 21.754
+        - 102.156
         fernsehserien_episode_no: 613
         fernsehserien_episode_slug: 613-laos-futterbloecke-und-bueffel-leasing-1620347
         fernsehserien_episode_id: 1620347
@@ -53176,6 +53192,10 @@ seasons:
             Ahnen tragen.
         director: Michael Schumacher
         air_date: '2023-03-11'
+        location_wikidata: Q351
+        coordinates:
+        - 44.596445
+        - -110.547196
         fernsehserien_episode_no: 614
         fernsehserien_episode_slug: 614-freiheit-auf-pferderuecken-der-lange-weg-der-nez-perce-1621705
         fernsehserien_episode_id: 1621705
@@ -53214,6 +53234,10 @@ seasons:
             die Landwirtschaft zu schaffen.
         director: Marie-Laure Daguenel
         air_date: '2023-03-18'
+        location_wikidata: Q78967
+        coordinates:
+        - 37.349722
+        - 22.352222
         fernsehserien_episode_no: 615
         fernsehserien_episode_slug: 615-peloponnes-rueckkehr-zur-erde-1623768
         fernsehserien_episode_id: 1623768
@@ -53249,6 +53273,32 @@ seasons:
             zu knüpfen, neue Techniken zu erlernen und eine Rattanschälmaschine
             zu kaufen. Damit könnte das Dorf die Produktivität seiner Rattanfertigung
             erhöhen. In der alten Königsstadt Luang Prabang soll sie eine
+            Buddha-Büste aus Rattan anfertigen.'
+        description_fernsehserien: 'Seit jeher wird Rattan in Asien vielseitig
+            verwendet: zur Herstellung von Möbeln, Korbwaren, Wandverkleidungen
+            und Sportbällen. Auch im Zentrum von Laos gedeiht die stachelige
+            Rattanpalme. Wild als Kletterliane in den Dschungelwäldern und
+            auch angebaut auf Feldern. Die Menschen in den Dörfern ringsum
+            leben seit Generationen von Rattan, der Pflanze mit vielfältigen
+            Eigenschaften. Seit dem 19. Jahrhundert ist Rattan auch in Europa
+            aus der Inneneinrichtung kaum wegzudenken, berühmt ist etwa das
+            gleichzeitig stabile wie auch leichte sogenannte Wiener Geflecht,
+            das für Stuhlbespannungen eingesetzt wird. Von viktorianischen
+            Kolonialmöbeln über das Bauhaus, Art déco, die Swinging Sixties
+            oder den aktuellen Boho-Trend - Rattan ist immer dabei. Dabei
+            weiß kaum jemand, woher Rattan eigentlich stammt.
+
+            Was wir als Rattan kennen, sind die Triebe einer Familie von Kletterpalmen,
+            die im tiefen Dschungel Südostasiens wachsen und bis zu 200 Metern
+            lang werden können. Das Schrumpfen der Primärwälder, die den Rattanpflanzen
+            stützende Bäume bieten, ist ein wesentlicher Grund, warum Rattan
+            teuer geworden ist und jetzt zum Beispiel in Laos wieder aufgeforstet
+            wird. Die 24-jährige handwerklich talentierte Touly aus einem
+            Dorf in Zentral-Laos begibt sich auf eine Reise durch das Land,
+            um im Auftrag ihrer dörflichen Flechtgruppe Kontakte zu Produzenten
+            zu knüpfen, neue Techniken zu erlernen und eine Rattanschälmaschine
+            zu kaufen. Damit könnte das Dorf die Produktivität seiner Rattanfertigung
+            erhöhen. In der alten Königsstadt Luang Prabang soll sie eine
             Buddha-Büste aus Rattan anfertigen. (Text: Arte)'
         summary: Rattan wird in Asien vielseitig verwendet und ist seit dem
             19. Jahrhundert auch in Europa beliebt. Das Schrumpfen der Wälder
@@ -53259,6 +53309,10 @@ seasons:
             um die Produktivität der Rattanfertigung ihres Dorfes zu erhöhen.
         director: Martin Schacht
         air_date: '2023-03-25'
+        location_wikidata: Q190165
+        coordinates:
+        - 19.893056
+        - 102.138056
         fernsehserien_episode_no: 616
         fernsehserien_episode_slug: 616-handgemacht-in-laos-rares-aus-rattan-1625195
         fernsehserien_episode_id: 1625195
@@ -53302,6 +53356,10 @@ seasons:
             Zeremonie ins Jenseits geleitet.
         director: Myriam Bou-Saha
         air_date: '2023-05-06'
+        location_wikidata: Q3812
+        coordinates:
+        - -2
+        - 121
         fernsehserien_episode_no: 617
         fernsehserien_episode_slug: 617-leben-mit-dem-tod-ahnenkult-auf-sulawesi-1634635
         fernsehserien_episode_id: 1634635
