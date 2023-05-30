@@ -22,7 +22,7 @@
 | Titre inconnu
 |-
 |5
-|
+|🔴
 | Titre inconnu
 |-
 |6
@@ -38,11 +38,11 @@
 | Titre inconnu
 |-
 |9
-|
+|🔴
 | Titre inconnu
 |-
 |10
-|
+|⚫️
 | Titre inconnu
 |-
 |11
@@ -50,7 +50,7 @@
 | Titre inconnu
 |-
 |12
-|
+|🟡
 | Titre inconnu
 |-
 |13

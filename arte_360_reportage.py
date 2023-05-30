@@ -590,6 +590,22 @@ class Episode:
         self.data["description"] = description
 
     @property
+    def description_plain(self) -> str | None:
+        """Description text without line breaks and the suffix (Text: )"""
+        if self.description:
+            description: str = re.sub(r" \(Text: .*\)", "", self.description)
+            description = re.sub(r"\s+", " ", description, flags=re.DOTALL)
+            return description.strip()
+
+    @property
+    def description_breaks(self) -> str | None:
+        """Description text with line breaks (2 + \\n) and the suffix (Text: )"""
+        if self.description:
+            description: str = self.description.replace("\n", "\n\n")
+            description = re.sub(r" \(Text: .*\)", "", description)
+            return description.strip()
+
+    @property
     def description_fernsehserien(self) -> str | None:
         return self.__get_str_key("description_fernsehserien")
 
@@ -604,14 +620,6 @@ class Episode:
     @description_youtube.setter
     def description_youtube(self, description: str) -> None:
         self.data["description_youtube"] = description
-
-    @property
-    def description_plain(self) -> str | None:
-        """Description text without line breaks and the suffix (Text: )"""
-        if self.description:
-            description: str = re.sub(r" \(Text: .*\)", "", self.description)
-            description = re.sub(r"\s+", " ", description, flags=re.DOTALL)
-            return description.strip()
 
     @property
     def summary(self) -> str | None:
@@ -871,6 +879,27 @@ class TvShow:
                 )
 
         return episode
+
+    def generate_chatgpt_texts(self, inline: bool = False) -> None:
+        descriptions: list[str] = []
+
+        task_text = "Fasse folgenden Text auf Deutsch in 75 Wörtern zusammen"
+
+        def add_line(line: str) -> None:
+            descriptions.append(line)
+            descriptions.append("")
+
+        for episode in self.episodes:
+            if not episode.summary and episode.description_plain:
+                add_line("-" * 72)
+                add_line(f"s{episode.season_no}e{episode.episode_no} {episode.title}")
+                if inline:
+                    add_line(f"{task_text}: {episode.description_plain}")
+                else:
+                    add_line(f"{task_text}:")
+                    add_line(f"{episode.description_breaks}")
+
+        Utils.write_text_file(EXPORT_FILENAME + "_chatgpt.txt", descriptions)
 
     def export_data(self) -> TvShowData:
         data: TvShowData = self.__load()
@@ -1234,23 +1263,6 @@ def generate_wikitext(language: typing.Literal["de", "fr"] = "de") -> None:
     Utils.write_text_file(f"{EXPORT_FILENAME}_wiki-{language}.wikitext", season_entries)
 
 
-def generate_chatgpt_texts() -> None:
-    descriptions: list[str] = []
-    for episode in tv_show.episodes:
-        if not episode.summary and episode.description_plain:
-            descriptions.append("")
-            descriptions.append(
-                f"s{episode.season_no}e{episode.episode_no} {episode.title}"
-            )
-            descriptions.append("")
-            descriptions.append(
-                "Fasse folgenden Text auf Deutsch in 75 Wörtern zusammen: "
-                + episode.description_plain
-            )
-
-    Utils.write_text_file(EXPORT_FILENAME + "_chatgpt.txt", descriptions)
-
-
 def generate_leaflet() -> None:
     marker: list[typing.Any] = []
     for episode in tv_show.episodes:
@@ -1382,7 +1394,7 @@ def main() -> None:
     args = get_argument_parser().parse_args()
 
     if args.chatgpt:
-        generate_chatgpt_texts()
+        tv_show.generate_chatgpt_texts()
 
     if args.debug:
         debug()

@@ -44,69 +44,77 @@
 | EA = 1999-01-07
 | ZF = Celebration ist eine von Disney geschaffene Stadt, die den modernen Städtebau verkörpern soll. Das Konzept des „New Urbanism“ zielt darauf ab, Vororte neues Leben einzuhauchen und amerikanische Tugenden wie Gemeinschaftssinn wiederzubeleben. Autos sind in den Hinterhöfen verbannt, während nostalgische Einfamilienhäuser mit offenen Veranden eine ruhige und harmonische Atmosphäre schaffen. Die Familie steht im Mittelpunkt, vernetzt mit der Nachbarschaft. Einwohner wie Pat und Ken Liles genießen die Gemeinschaft und akzeptieren die Führung eines Disney-Managers als Bürgermeister-Ersatz.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 5
 | NR_ST = 5
 | OT = Die mächtigen Frauen von Juchitán<ref>Internetquellen zur Episode ''„Die mächtigen Frauen von Juchitán“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/5-weibs-bilder-die-maechtigen-frauen-von-juchitan-339120 5] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/5-weibs-bilder-die-maechtigen-frauen-von-juchitan-339120 339120], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641897 S01E05] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641897 4641897], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt3369154 tt3369154], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=1mSDukDzpDM 1mSDukDzpDM]</ref>
 | Feld1 = -
 | REG = Carmen Butta
 | EA = 1999-02-01
+| ZF = Der Film zeigt die Stadt Juchitán in Mexiko, in der Frauen die Macht haben. Sie sind die Stammhalterinnen, erben den Besitz und kontrollieren den Handel. Ab ihrem fünfzehnten Geburtstag werden alle Frauen „Königinnen“ und feiern pompöse Feste. Männer sind eher Beobachter. Eine junge Frau in Juchitán ist unsicher über ihre Zukunft. Die Gesellschaft in Juchitán, in der Frauen im Mittelpunkt stehen, ist anders, aber ist sie auch besser?
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 6
 | NR_ST = 6
 | OT = Hazeras Geschäfte<ref>Internetquellen zur Episode ''„Hazeras Geschäfte“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/6-weibs-bilder-hazeras-geschaefte-339123 6] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/6-weibs-bilder-hazeras-geschaefte-339123 339123], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641898 S01E06] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641898 4641898], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=R5rvxs4hX20 R5rvxs4hX20]</ref>
 | Feld1 = -
 | REG = Sigrun Matthiesen
 | EA = 1999-02-02
+| ZF = „Women first“ ist ein Trend in der internationalen Entwicklungspolitik, bei dem Frauen als Zielgruppe von Hilfsorganisationen entdeckt werden. Aufgrund ihrer traditionellen Rollenverteilung sind Frauen leichter zu erreichen, da sie sich hauptsächlich im häuslichen Umfeld aufhalten. Sie haben auch subtile und weitreichende Einflussmöglichkeiten innerhalb der Familie in Bezug auf Hygiene, Gesundheit und Bildung. Die Grameen-Bank vergibt Kredite an Frauen in Bangladesh, die keine andere Sicherheit haben als vier andere Frauen, die für sie bürgen. Eine junge Frau nutzt einen solchen Kredit, um ein Handy zu kaufen und verdient nun als „Telefonzentrale“ ihres Dorfes den Familienunterhalt. Das Handy ist in ländlichen Gebieten eine bedeutende Einnahmequelle. Das Handy ist in Bangladesh kein Statussymbol, sondern ein Ausweg aus der Armutsspirale.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 7
 | NR_ST = 7
 | OT = Die neue Kunst des Kinderkriegens<ref>Internetquellen zur Episode ''„Die neue Kunst des Kinderkriegens“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/7-weibs-bilder-die-neue-kunst-des-kinderkriegens-339122 7] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/7-weibs-bilder-die-neue-kunst-des-kinderkriegens-339122 339122], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641899 S01E07] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641899 4641899], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=LrC1AVBi3c4 LrC1AVBi3c4]</ref>
 | Feld1 = -
 | REG = Maren Niemeyer
 | EA = 1999-02-03
+| ZF = Die Pille brachte Frauen eine sexuelle Revolution. Eine neue Revolution steht bevor: Könnte die Reproduktionsmedizin Frauen in Zukunft für die Geburt überflüssig machen? Heute können Eizellen und Spermien nach dem Tod zur Kinderzeugung verwendet werden. Die Wissenschaft überwindet biologische Grenzen, wie z.B. durch künstliche Gebärmütter für Tierfeten. In der Humanmedizin gibt es noch viele Möglichkeiten, aber nationale Gesetze setzen Grenzen. Frauen in verschiedenen Stadien ihres Lebenszyklus sehen ihre Rolle unterschiedlich. In den USA gründeten Homosexuelle und ältere Frauen eine Initiative für das Klonen, um ihren Kinderwunsch zu erfüllen.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 8
 | NR_ST = 8
 | OT = Der kleine Unterschied im Kopf<ref>Internetquellen zur Episode ''„Der kleine Unterschied im Kopf“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/8-weibs-bilder-der-kleine-unterschied-im-kopf-339124 8] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/8-weibs-bilder-der-kleine-unterschied-im-kopf-339124 339124], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641900 S01E08] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641900 4641900], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=cwkotpcPnSw cwkotpcPnSw]</ref>
 | Feld1 = -
 | REG = Elke Werry
 | EA = 1999-02-04
+| ZF = Der Film diskutiert den Geschlechterunterschied in Bezug auf Aggressivität und räumliches Orientierungsvermögen bei Frauen und Männern. Früher wurden diese Unterschiede auf geschlechtsspezifische Erziehung zurückgeführt, aber heute forschen Wissenschaftler nach biologischen Ursachen wie der embryonalen Prägung des Gehirns und hormonellen Einflüssen in der frühen Kindheit. Eine Karatemeisterin berichtet von den Herausforderungen, Aggressionen freizusetzen, da sie gelernt hat, dass Aggressivität als unweiblich gilt.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 9
 | NR_ST = 9
 | OT = Die Spurensucher<ref>Internetquellen zur Episode ''„Die Spurensucher“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/9-regenwald-die-spurensucher-339121 9] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/9-regenwald-die-spurensucher-339121 339121], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641901 S01E09] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641901 4641901], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=Lo0nKPEQ8Rw Lo0nKPEQ8Rw]</ref>
 | Feld1 = -
 | REG = Thomas Wartmann
 | EA = 1999-03-01
+| ZF = Britische Klimaforscher prognostizieren, dass die Regenwälder, die als die Lungen der Erde gelten, Mitte des nächsten Jahrhunderts riesige Wüsten zurücklassen werden. Trotz internationaler Bemühungen, den Regenwald zu schützen, bleibt die Frage, ob der Pessimismus gerechtfertigt ist. Ein Forscher namens Philipp Gauchet arbeitet im Regenwald von Französisch-Guyana und sucht nach neuen Froscharten. Dort existiert eine einzigartige Artenvielfalt, die sich auf verschiedene Ebenen des Waldes verteilt. Die Vernichtung der Regenwälder schreitet jedoch rapide voran, und es besteht die Frage, ob genügend Zeit bleibt, um den Regenwald zu erforschen, bevor er verschwindet.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 10
 | NR_ST = 10
 | OT = Auf dem Holzweg<ref>Internetquellen zur Episode ''„Auf dem Holzweg“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/10-regenwald-auf-dem-holzweg-339125 10] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/10-regenwald-auf-dem-holzweg-339125 339125], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641902 S01E10] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641902 4641902], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=XAyYoAetjuQ XAyYoAetjuQ]</ref>
 | Feld1 = -
 | REG = Thomas Wartmann
 | EA = 1999-03-02
+| ZF = Der Schweizer Fotograf Karl Amman setzt sich seit 25 Jahren für den Schutz des Regenwaldes und der Affen ein. Er möchte verhindern, dass die Primaten ausgerottet werden. Es ist jedoch schwierig, die lokale Bevölkerung davon zu überzeugen, da sie Affen traditionell als Nahrung betrachten. Internationale Holzkonzerne zerstören große Teile des Regenwaldes. Diese Zerstörung des Lebensraums gefährdet die Regenwald-Einwohner und ermöglicht Wilderern, weiterhin Tiere zu jagen und im kommerziellen Handel zu verkaufen.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 11
 | NR_ST = 11
 | OT = Der Geist des Vogels - Heilkraft aus dem Urwald<ref>Internetquellen zur Episode ''„Der Geist des Vogels - Heilkraft aus dem Urwald“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/11-regenwald-der-geist-des-vogels-heilkraft-aus-dem-urwald-339126 11] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/11-regenwald-der-geist-des-vogels-heilkraft-aus-dem-urwald-339126 339126], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641903 S01E11] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641903 4641903], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=NrEukDOS1EA NrEukDOS1EA]</ref>
 | Feld1 = -
 | REG = Walter Tauber
 | EA = 1999-03-03
+| ZF = Der 75-jährige Schamane Takuma im Xingú Nationalpark in Brasilien baut Vertrauen zum niederländischen Botaniker Marc von Roosmalen auf, der für das „Institut für Amazonenforschung“ arbeitet. Takuma teilt sein Wissen über die heilenden Eigenschaften von Pflanzen mit ihm. Die Völker des Regenwaldes nutzen seit Generationen die natürlichen Heilkräfte des Regenwaldes. Der Regenwald birgt reiche Schätze für die Pharmaindustrie.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 12
 | NR_ST = 12
 | OT = Die Pille für den Wald<ref>Internetquellen zur Episode ''„Die Pille für den Wald“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/12-regenwald-die-pille-fuer-den-wald-339127 12] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/12-regenwald-die-pille-fuer-den-wald-339127 339127], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641904 S01E12] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641904 4641904], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=dLFIQxBpprQ dLFIQxBpprQ]</ref>
 | Feld1 = -
 | REG = Jens Dücker
 | EA = 1999-03-04
+| ZF = Die Kindersterblichkeit in Bhujung, einem kleinen Himalaya-Dorf, ist hoch. Eltern bringen daher viele Kinder zur Welt, in der Hoffnung, dass zumindest einige überleben und zum Familienunterhalt beitragen können. Die Bevölkerung wächst, aber auch die Armut. Um zu überleben, nutzen die Menschen den Regenwald als Ressource, was zu dessen Zerstörung führt. Das „Annapurna Conservation Area Project“ (ACAP) bezieht die Bewohner von Bhujung in Entscheidungen ein, da der Schutz des Regenwaldes ohne ihre Unterstützung nicht funktionieren kann.
 }}
 {{Episodenlisteneintrag
 | NR_GES = 13

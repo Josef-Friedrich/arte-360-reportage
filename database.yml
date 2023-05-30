@@ -424,6 +424,18 @@ seasons:
         title: Die mächtigen Frauen von Juchitán
         alias: Leistungsstarke Frauen Juchitan
         topic: Weibs-Bilder
+        continent: Amerika
+        location_wikidata: Q4502631
+        coordinates: [16.627222, -98.636667]
+        summary: >-
+            Der Film zeigt die Stadt Juchitán in Mexiko, in der Frauen
+            die Macht haben. Sie sind die Stammhalterinnen, erben den
+            Besitz und kontrollieren den Handel. Ab ihrem fünfzehnten
+            Geburtstag werden alle Frauen „Königinnen“ und feiern
+            pompöse Feste. Männer sind eher Beobachter. Eine junge Frau
+            in Juchitán ist unsicher über ihre Zukunft. Die Gesellschaft
+            in Juchitán, in der Frauen im Mittelpunkt stehen, ist
+            anders, aber ist sie auch besser?
         description: 'Die zweite Staffel von 360° - Die GEO-Reportage widmet
             sich im Februar dem vermeintlich schwachen Geschlecht - und zeigt
             dabei, daß Frauen einfach anders stark sind als Männer.In den
@@ -441,7 +453,7 @@ seasons:
             Nicht zuletzt beherrschen die Frauen in Juchitán, der „Stadt der
             Blumen“, das gesamte wirtschaftliche Geflecht. Männer dürfen zwar
             die Felder bebauen, aber der Handel liegt ganz in Frauenhand.
-            Wie kommen ausgerechnet in Mexiko die Frauen an die Macht?Ab ihrem
+            Wie kommen ausgerechnet in Mexiko die Frauen an die Macht? Ab ihrem
             fünfzehnten Geburtstag sind in Juchitán alle Frauen „Reinas“,
             also „Königinnen“. Der Film verfolgt die Schicksale verschiedener
             Frauen einer juchitánischen Familie, die aufwendig den Geburtstag
@@ -457,7 +469,7 @@ seasons:
             will sie nicht werden. Im Moment besucht sie die technologische
             Schule - danach stehen ihr als Frau noch alle Möglichkeiten offen.
             Ist die matrilineare Gesellschaft, in der Frauen im Mittelpunkt
-            stehen, besser oder einfach nur anders? (Text: Arte)'
+            stehen, besser oder einfach nur anders?'
         description_fernsehserien: 'Die zweite Staffel von 360° - Die GEO-Reportage
             widmet sich im Februar dem vermeintlich schwachen Geschlecht -
             und zeigt dabei, daß Frauen einfach anders stark sind als Männer.In
@@ -541,6 +553,25 @@ seasons:
         episode_no: 6
         title: Hazeras Geschäfte
         topic: Weibs-Bilder
+        location_wikidata: Q902
+        coordinates: [24.016667, 89.866667]
+        summary: >-
+            „Women first“ ist ein Trend in der internationalen
+            Entwicklungspolitik, bei dem Frauen als Zielgruppe von
+            Hilfsorganisationen entdeckt werden. Aufgrund ihrer
+            traditionellen Rollenverteilung sind Frauen leichter zu
+            erreichen, da sie sich hauptsächlich im häuslichen Umfeld
+            aufhalten. Sie haben auch subtile und weitreichende
+            Einflussmöglichkeiten innerhalb der Familie in Bezug auf
+            Hygiene, Gesundheit und Bildung. Die Grameen-Bank vergibt
+            Kredite an Frauen in Bangladesh, die keine andere Sicherheit
+            haben als vier andere Frauen, die für sie bürgen. Eine junge
+            Frau nutzt einen solchen Kredit, um ein Handy zu kaufen und
+            verdient nun als „Telefonzentrale“ ihres Dorfes den
+            Familienunterhalt. Das Handy ist in ländlichen Gebieten eine
+            bedeutende Einnahmequelle. Das Handy ist
+            in Bangladesh kein Statussymbol, sondern ein Ausweg aus der
+            Armutsspirale.
         description: '„Women first“ - so nennt sich ein Trend in der internationalen
             Entwicklungspolitik. Frauen werden als Zielgruppe der Hilfsorganisationen
             entdeckt: Auf Grund der traditionellen Rollenverteilung beschränkt
@@ -631,6 +662,19 @@ seasons:
         episode_no: 7
         title: Die neue Kunst des Kinderkriegens
         topic: Weibs-Bilder
+        summary: >-
+            Die Pille brachte Frauen eine sexuelle Revolution. Eine neue
+            Revolution steht bevor: Könnte die Reproduktionsmedizin
+            Frauen in Zukunft für die Geburt überflüssig machen? Heute
+            können Eizellen und Spermien nach dem Tod zur Kinderzeugung
+            verwendet werden. Die Wissenschaft überwindet biologische
+            Grenzen, wie z.B. durch künstliche Gebärmütter für
+            Tierfeten. In der Humanmedizin gibt es noch viele
+            Möglichkeiten, aber nationale Gesetze setzen Grenzen. Frauen
+            in verschiedenen Stadien ihres Lebenszyklus sehen ihre Rolle
+            unterschiedlich. In den USA gründeten Homosexuelle und
+            ältere Frauen eine Initiative für das Klonen, um ihren
+            Kinderwunsch zu erfüllen.
         description: 'Die Pille brachte den Frauen die erste sexuelle Revolution.
             Eine zweite Revolution steht vor der Türe: Macht die Reproduktionsmedizin
             in Zukunft Frauen für die Geburt überflüssig? Haben Sexualität
@@ -723,6 +767,17 @@ seasons:
         episode_no: 8
         title: Der kleine Unterschied im Kopf
         topic: Weibs-Bilder
+
+        summary: >-
+            Der Film diskutiert den Geschlechterunterschied in Bezug auf
+            Aggressivität und räumliches Orientierungsvermögen bei
+            Frauen und Männern. Früher wurden diese Unterschiede auf
+            geschlechtsspezifische Erziehung zurückgeführt, aber heute
+            forschen Wissenschaftler nach biologischen Ursachen wie der
+            embryonalen Prägung des Gehirns und hormonellen Einflüssen
+            in der frühen Kindheit. Eine Karatemeisterin berichtet von den
+            Herausforderungen, Aggressionen freizusetzen, da sie gelernt
+            hat, dass Aggressivität als unweiblich gilt.
         description: 'Frauen sind weniger aggressiv und haben ein schlechteres
             räumliches Orientierungsvermögen als Männer. Ist das ein Vorurteil,
             allgemeine Erfahrung, oder läßt sich dieser Geschlechterunterschied
@@ -802,6 +857,23 @@ seasons:
         episode_no: 9
         title: Die Spurensucher
         topic: Regenwald
+        continent: Amerika
+        location_wikidata: Q3769
+        coordinates: [3.99886, -52.99994]
+        summary: >-
+            Britische Klimaforscher prognostizieren, dass die
+            Regenwälder, die als die Lungen der Erde gelten, Mitte des
+            nächsten Jahrhunderts riesige Wüsten
+            zurücklassen werden. Trotz internationaler Bemühungen, den
+            Regenwald zu schützen, bleibt die Frage, ob der Pessimismus
+            gerechtfertigt ist. Ein Forscher namens Philipp Gauchet
+            arbeitet im Regenwald von Französisch-Guyana und sucht nach
+            neuen Froscharten. Dort existiert eine einzigartige
+            Artenvielfalt, die sich auf verschiedene Ebenen des Waldes
+            verteilt. Die Vernichtung der Regenwälder schreitet jedoch
+            rapide voran, und es besteht die Frage, ob genügend Zeit
+            bleibt, um den Regenwald zu erforschen, bevor er
+            verschwindet.
         description: 'Die Regenwälder, die Lungen der Erde, werden Mitte des
             nächsten Jahrhunderts ersticken, zurück bleiben dann riesige Wüsten
             - so die neuesten Prognose britischen Klimaforscher. Ist der Pessimismus
@@ -835,9 +907,7 @@ seasons:
             und Gondeln erforscht.Aber Eile ist geboten: Fast 50% der ursprünglichen
             Regenwälder hat der Mensch bereits vernichtet und nahezu jede
             Sekunde wird ein weiterer Hektar zerstört. Reicht die Zeit, den
-            Regenwald zu erforschen, bevor er von der Erde verschwunden ist?
-
-            (Text: Arte)'
+            Regenwald zu erforschen, bevor er von der Erde verschwunden ist?'
         description_fernsehserien: 'Die Regenwälder, die Lungen der Erde,
             werden Mitte des nächsten Jahrhunderts ersticken, zurück bleiben
             dann riesige Wüsten - so die neuesten Prognose britischen Klimaforscher.
@@ -907,6 +977,19 @@ seasons:
         episode_no: 10
         title: Auf dem Holzweg
         topic: Regenwald
+        continent: Afrika
+        location_wikidata: Q1009
+        summary: >-
+            Der Schweizer Fotograf Karl Amman setzt sich seit 25 Jahren
+            für den Schutz des Regenwaldes und der Affen ein. Er möchte
+            verhindern, dass die Primaten ausgerottet werden. Es ist
+            jedoch schwierig, die lokale Bevölkerung davon zu
+            überzeugen, da sie Affen traditionell als Nahrung
+            betrachten. Internationale Holzkonzerne zerstören große
+            Teile des Regenwaldes.
+            Diese Zerstörung des Lebensraums gefährdet die
+            Regenwald-Einwohner und ermöglicht Wilderern, weiterhin
+            Tiere zu jagen und im kommerziellen Handel zu verkaufen.
         description: 'Der Schweizer Fotograf Karl Amman lebt seit 25 Jahren
             in Afrika. Er hat sich den Schutz des Regenwaldes sowie den Schutz
             der Affen zur Lebensaufgabe gemacht: „Die Primaten sind die nächsten
@@ -935,7 +1018,7 @@ seasons:
 
             Besonders Gorilla-Fleisch ist begehrt im kommerziellen „Bush-Meat-Handel“.
             Der Film stellt die Zusammenhänge zwischen der Bedrohung von Umwelt,
-            Mensch und Tier im Regenwald dar. (Text: Arte)'
+            Mensch und Tier im Regenwald dar.'
         description_fernsehserien: 'Der Schweizer Fotograf Karl Amman lebt
             seit 25 Jahren in Afrika. Er hat sich den Schutz des Regenwaldes
             sowie den Schutz der Affen zur Lebensaufgabe gemacht: „Die Primaten
@@ -1000,6 +1083,17 @@ seasons:
         title: Der Geist des Vogels - Heilkraft aus dem Urwald
         alias: Heilkraft aus dem Urwald
         topic: Regenwald
+        location_wikidata: Q183444
+        coordinates: [-11.232286, -53.184815]
+        summary: >-
+            Der 75-jährige Schamane Takuma im Xingú Nationalpark in
+            Brasilien baut Vertrauen zum niederländischen Botaniker Marc
+            von Roosmalen auf, der für das „Institut für
+            Amazonenforschung“ arbeitet. Takuma teilt sein Wissen über
+            die heilenden Eigenschaften von Pflanzen mit ihm. Die Völker des
+            Regenwaldes nutzen seit Generationen die natürlichen
+            Heilkräfte des Regenwaldes. Der Regenwald birgt reiche
+            Schätze für die Pharmaindustrie.
         description: 'Der 75jährige Schamane Takuma lebt im Xingú Nationalpark
             in Brasilien. Er hat sich geschworen: „Den Weißen erzähle ich
             nichts. Die haben immer nur genommen.“ Eines Tages lernt er Marc
@@ -1027,8 +1121,7 @@ seasons:
             Seither wächst die Zahl pharmazeutischer Expeditionen.
 
             Werden es die Regenwald-Länder schaffen, sich gegen die Pharmariesen
-            zu behaupten und sich die Oberhoheit in Sachen Regenwald zu erhalten?
-            (Text: Arte)'
+            zu behaupten und sich die Oberhoheit in Sachen Regenwald zu erhalten?'
         description_fernsehserien: 'Der 75jährige Schamane Takuma lebt im
             Xingú Nationalpark in Brasilien. Er hat sich geschworen: „Den
             Weißen erzähle ich nichts. Die haben immer nur genommen.“ Eines
@@ -1094,6 +1187,20 @@ seasons:
         episode_no: 12
         title: Die Pille für den Wald
         topic: Regenwald
+        continent: Asien
+        location_wikidata: Q3413208
+        coordinates: [28.31, 84.26]
+        summary: >-
+            Die Kindersterblichkeit in Bhujung, einem kleinen
+            Himalaya-Dorf, ist hoch. Eltern bringen daher viele Kinder
+            zur Welt, in der Hoffnung, dass zumindest einige überleben
+            und zum Familienunterhalt beitragen können. Die Bevölkerung
+            wächst, aber auch die Armut. Um zu überleben, nutzen die
+            Menschen den Regenwald als Ressource, was zu dessen
+            Zerstörung führt. Das „Annapurna Conservation Area Project“
+            (ACAP) bezieht die Bewohner von Bhujung in Entscheidungen
+            ein, da der Schutz des Regenwaldes ohne ihre Unterstützung
+            nicht funktionieren kann.
         description: 'Die Kindersterblichkeit ist hoch in dem kleinen Himalaya-Dorf
             Bhujung. Deshalb setzen Eltern möglichst viele Kinder in die Welt
             in der Hoffnung, daß wenigstens ein paar überleben und zum Familienunterhalt
@@ -1128,7 +1235,7 @@ seasons:
             Es reduziert den Holzverbrauch beachtlich, daß nun nicht mehr
             für jeden Tee neues Wasser aufgesetzt wird. Die Zeichen stehen
             gut in Bhujung, daß aus den Wald-Verbrauchern nun Wald-Schützer
-            werden. (Text: Arte)'
+            werden.'
         description_fernsehserien: 'Die Kindersterblichkeit ist hoch in dem
             kleinen Himalaya-Dorf Bhujung. Deshalb setzen Eltern möglichst
             viele Kinder in die Welt in der Hoffnung, daß wenigstens ein paar

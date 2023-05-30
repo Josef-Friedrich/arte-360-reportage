@@ -29,10 +29,10 @@
     "body": ["director: $0"],
     "description": "director: Regie"
   },
-  "descriptionShort": {
-    "prefix": ["descriptionshort"],
-    "body": ["", "        description_short: >-", "            $0"],
-    "description": "description short"
+  "summary": {
+    "prefix": ["summary"],
+    "body": ["", "        summary: >-", "            $0"],
+    "description": "summary"
   },
   "location": {
     "prefix": ["location"],

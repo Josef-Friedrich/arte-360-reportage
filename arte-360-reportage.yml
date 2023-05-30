@@ -424,6 +424,7 @@ seasons:
         title: Die mächtigen Frauen von Juchitán
         alias: Leistungsstarke Frauen Juchitan
         topic: Weibs-Bilder
+        continent: Amerika
         description: 'Die zweite Staffel von 360° - Die GEO-Reportage widmet
             sich im Februar dem vermeintlich schwachen Geschlecht - und zeigt
             dabei, daß Frauen einfach anders stark sind als Männer.In den
@@ -441,8 +442,8 @@ seasons:
             Nicht zuletzt beherrschen die Frauen in Juchitán, der „Stadt der
             Blumen“, das gesamte wirtschaftliche Geflecht. Männer dürfen zwar
             die Felder bebauen, aber der Handel liegt ganz in Frauenhand.
-            Wie kommen ausgerechnet in Mexiko die Frauen an die Macht?Ab ihrem
-            fünfzehnten Geburtstag sind in Juchitán alle Frauen „Reinas“,
+            Wie kommen ausgerechnet in Mexiko die Frauen an die Macht? Ab
+            ihrem fünfzehnten Geburtstag sind in Juchitán alle Frauen „Reinas“,
             also „Königinnen“. Der Film verfolgt die Schicksale verschiedener
             Frauen einer juchitánischen Familie, die aufwendig den Geburtstag
             einer „Reina“ plant. Beim Goldschmied wird edler Familienschmuck
@@ -457,7 +458,7 @@ seasons:
             will sie nicht werden. Im Moment besucht sie die technologische
             Schule - danach stehen ihr als Frau noch alle Möglichkeiten offen.
             Ist die matrilineare Gesellschaft, in der Frauen im Mittelpunkt
-            stehen, besser oder einfach nur anders? (Text: Arte)'
+            stehen, besser oder einfach nur anders?'
         description_fernsehserien: 'Die zweite Staffel von 360° - Die GEO-Reportage
             widmet sich im Februar dem vermeintlich schwachen Geschlecht -
             und zeigt dabei, daß Frauen einfach anders stark sind als Männer.In
@@ -525,10 +526,21 @@ seasons:
             Schule - danach stehen ihr als Frau noch alle Möglichkeiten offen.
             Ist die matrilineare Gesellschaft, in der Frauen im Mittelpunkt
             stehen, besser oder einfach nur anders?'
+        summary: Der Film zeigt die Stadt Juchitán in Mexiko, in der Frauen
+            die Macht haben. Sie sind die Stammhalterinnen, erben den Besitz
+            und kontrollieren den Handel. Ab ihrem fünfzehnten Geburtstag
+            werden alle Frauen „Königinnen“ und feiern pompöse Feste. Männer
+            sind eher Beobachter. Eine junge Frau in Juchitán ist unsicher
+            über ihre Zukunft. Die Gesellschaft in Juchitán, in der Frauen
+            im Mittelpunkt stehen, ist anders, aber ist sie auch besser?
         director: Carmen Butta
         air_date: '1999-02-01'
         duration: 26
         duration_sec: 1589
+        location_wikidata: Q4502631
+        coordinates:
+        - 16.627222
+        - -98.636667
         fernsehserien_episode_no: 5
         fernsehserien_episode_slug: 5-weibs-bilder-die-maechtigen-frauen-von-juchitan-339120
         fernsehserien_episode_id: 339120
@@ -616,10 +628,27 @@ seasons:
             Standards zu etablieren. Dazu gehören beispielsweise die Alphabetisierung
             und der Latrinen-Bau. Das Handy - in Bangladesh ein Ausweg aus
             dem Teufelskreis der Armut.'
+        summary: „Women first“ ist ein Trend in der internationalen Entwicklungspolitik,
+            bei dem Frauen als Zielgruppe von Hilfsorganisationen entdeckt
+            werden. Aufgrund ihrer traditionellen Rollenverteilung sind Frauen
+            leichter zu erreichen, da sie sich hauptsächlich im häuslichen
+            Umfeld aufhalten. Sie haben auch subtile und weitreichende Einflussmöglichkeiten
+            innerhalb der Familie in Bezug auf Hygiene, Gesundheit und Bildung.
+            Die Grameen-Bank vergibt Kredite an Frauen in Bangladesh, die
+            keine andere Sicherheit haben als vier andere Frauen, die für
+            sie bürgen. Eine junge Frau nutzt einen solchen Kredit, um ein
+            Handy zu kaufen und verdient nun als „Telefonzentrale“ ihres Dorfes
+            den Familienunterhalt. Das Handy ist in ländlichen Gebieten eine
+            bedeutende Einnahmequelle. Das Handy ist in Bangladesh kein Statussymbol,
+            sondern ein Ausweg aus der Armutsspirale.
         director: Sigrun Matthiesen
         air_date: '1999-02-02'
         duration: 26
         duration_sec: 1583
+        location_wikidata: Q902
+        coordinates:
+        - 24.016667
+        - 89.866667
         fernsehserien_episode_no: 6
         fernsehserien_episode_slug: 6-weibs-bilder-hazeras-geschaefte-339123
         fernsehserien_episode_id: 339123
@@ -708,6 +737,17 @@ seasons:
             inzwischen auch Zulauf von heterosexuellen Frauen jenseits der
             fünfzig hat, die auf eine späte Erfüllung des Kinderwunsches hoffen.
             Welche Gefahren und Chancen bringen die neuen medizinischen Möglichkeiten?'
+        summary: 'Die Pille brachte Frauen eine sexuelle Revolution. Eine
+            neue Revolution steht bevor: Könnte die Reproduktionsmedizin Frauen
+            in Zukunft für die Geburt überflüssig machen? Heute können Eizellen
+            und Spermien nach dem Tod zur Kinderzeugung verwendet werden.
+            Die Wissenschaft überwindet biologische Grenzen, wie z.B. durch
+            künstliche Gebärmütter für Tierfeten. In der Humanmedizin gibt
+            es noch viele Möglichkeiten, aber nationale Gesetze setzen Grenzen.
+            Frauen in verschiedenen Stadien ihres Lebenszyklus sehen ihre
+            Rolle unterschiedlich. In den USA gründeten Homosexuelle und ältere
+            Frauen eine Initiative für das Klonen, um ihren Kinderwunsch zu
+            erfüllen.'
         director: Maren Niemeyer
         air_date: '1999-02-03'
         duration: 26
@@ -787,6 +827,14 @@ seasons:
             rauszulassen. Wir haben immer gelernt, dass es unweiblich ist,
             aggressiv zu sein.“ Ist es wirklich die Erziehung, oder sind es
             nicht doch unterschiedliche biologische Grundlagen?'
+        summary: Der Film diskutiert den Geschlechterunterschied in Bezug
+            auf Aggressivität und räumliches Orientierungsvermögen bei Frauen
+            und Männern. Früher wurden diese Unterschiede auf geschlechtsspezifische
+            Erziehung zurückgeführt, aber heute forschen Wissenschaftler nach
+            biologischen Ursachen wie der embryonalen Prägung des Gehirns
+            und hormonellen Einflüssen in der frühen Kindheit. Eine Karatemeisterin
+            berichtet von den Herausforderungen, Aggressionen freizusetzen,
+            da sie gelernt hat, dass Aggressivität als unweiblich gilt.
         director: Elke Werry
         air_date: '1999-02-04'
         duration: 26
@@ -802,6 +850,7 @@ seasons:
         episode_no: 9
         title: Die Spurensucher
         topic: Regenwald
+        continent: Amerika
         description: 'Die Regenwälder, die Lungen der Erde, werden Mitte des
             nächsten Jahrhunderts ersticken, zurück bleiben dann riesige Wüsten
             - so die neuesten Prognose britischen Klimaforscher. Ist der Pessimismus
@@ -835,9 +884,7 @@ seasons:
             und Gondeln erforscht.Aber Eile ist geboten: Fast 50% der ursprünglichen
             Regenwälder hat der Mensch bereits vernichtet und nahezu jede
             Sekunde wird ein weiterer Hektar zerstört. Reicht die Zeit, den
-            Regenwald zu erforschen, bevor er von der Erde verschwunden ist?
-
-            (Text: Arte)'
+            Regenwald zu erforschen, bevor er von der Erde verschwunden ist?'
         description_fernsehserien: 'Die Regenwälder, die Lungen der Erde,
             werden Mitte des nächsten Jahrhunderts ersticken, zurück bleiben
             dann riesige Wüsten - so die neuesten Prognose britischen Klimaforscher.
@@ -892,10 +939,24 @@ seasons:
             Regenwälder wurden bereits vernichtet und nahezu jede Sekunde
             wird ein weiterer Hektar zerstört. Reicht die Zeit, den Regenwald
             zu erforschen, bevor er von der Erde verschwunden ist?'
+        summary: Britische Klimaforscher prognostizieren, dass die Regenwälder,
+            die als die Lungen der Erde gelten, Mitte des nächsten Jahrhunderts
+            riesige Wüsten zurücklassen werden. Trotz internationaler Bemühungen,
+            den Regenwald zu schützen, bleibt die Frage, ob der Pessimismus
+            gerechtfertigt ist. Ein Forscher namens Philipp Gauchet arbeitet
+            im Regenwald von Französisch-Guyana und sucht nach neuen Froscharten.
+            Dort existiert eine einzigartige Artenvielfalt, die sich auf verschiedene
+            Ebenen des Waldes verteilt. Die Vernichtung der Regenwälder schreitet
+            jedoch rapide voran, und es besteht die Frage, ob genügend Zeit
+            bleibt, um den Regenwald zu erforschen, bevor er verschwindet.
         director: Thomas Wartmann
         air_date: '1999-03-01'
         duration: 26
         duration_sec: 1583
+        location_wikidata: Q3769
+        coordinates:
+        - 3.99886
+        - -52.99994
         fernsehserien_episode_no: 9
         fernsehserien_episode_slug: 9-regenwald-die-spurensucher-339121
         fernsehserien_episode_id: 339121
@@ -907,6 +968,7 @@ seasons:
         episode_no: 10
         title: Auf dem Holzweg
         topic: Regenwald
+        continent: Afrika
         description: 'Der Schweizer Fotograf Karl Amman lebt seit 25 Jahren
             in Afrika. Er hat sich den Schutz des Regenwaldes sowie den Schutz
             der Affen zur Lebensaufgabe gemacht: „Die Primaten sind die nächsten
@@ -935,7 +997,7 @@ seasons:
 
             Besonders Gorilla-Fleisch ist begehrt im kommerziellen „Bush-Meat-Handel“.
             Der Film stellt die Zusammenhänge zwischen der Bedrohung von Umwelt,
-            Mensch und Tier im Regenwald dar. (Text: Arte)'
+            Mensch und Tier im Regenwald dar.'
         description_fernsehserien: 'Der Schweizer Fotograf Karl Amman lebt
             seit 25 Jahren in Afrika. Er hat sich den Schutz des Regenwaldes
             sowie den Schutz der Affen zur Lebensaufgabe gemacht: „Die Primaten
@@ -984,10 +1046,19 @@ seasons:
             kleine Jungen Gorilla-Fleisch essen, werden sie stark.“ Welche
             Chancen - und welches Recht - haben Regenwaldschützer wie Karl
             Amman mit ihrem Engagement?'
+        summary: Der Schweizer Fotograf Karl Amman setzt sich seit 25 Jahren
+            für den Schutz des Regenwaldes und der Affen ein. Er möchte verhindern,
+            dass die Primaten ausgerottet werden. Es ist jedoch schwierig,
+            die lokale Bevölkerung davon zu überzeugen, da sie Affen traditionell
+            als Nahrung betrachten. Internationale Holzkonzerne zerstören
+            große Teile des Regenwaldes. Diese Zerstörung des Lebensraums
+            gefährdet die Regenwald-Einwohner und ermöglicht Wilderern, weiterhin
+            Tiere zu jagen und im kommerziellen Handel zu verkaufen.
         director: Thomas Wartmann
         air_date: '1999-03-02'
         duration: 26
         duration_sec: 1652
+        location_wikidata: Q1009
         fernsehserien_episode_no: 10
         fernsehserien_episode_slug: 10-regenwald-auf-dem-holzweg-339125
         fernsehserien_episode_id: 339125
@@ -1027,8 +1098,7 @@ seasons:
             Seither wächst die Zahl pharmazeutischer Expeditionen.
 
             Werden es die Regenwald-Länder schaffen, sich gegen die Pharmariesen
-            zu behaupten und sich die Oberhoheit in Sachen Regenwald zu erhalten?
-            (Text: Arte)'
+            zu behaupten und sich die Oberhoheit in Sachen Regenwald zu erhalten?'
         description_fernsehserien: 'Der 75jährige Schamane Takuma lebt im
             Xingú Nationalpark in Brasilien. Er hat sich geschworen: „Den
             Weißen erzähle ich nichts. Die haben immer nur genommen.“ Eines
@@ -1079,10 +1149,21 @@ seasons:
             Wurzeln und Baumrinden anvertraut. Wem sonst soll Takuma sein
             Wissen weitergeben? Die jungen Leute seines Stammes zieht es längst
             hinaus in die `zivilisierte Welt´.'
+        summary: Der 75-jährige Schamane Takuma im Xingú Nationalpark in Brasilien
+            baut Vertrauen zum niederländischen Botaniker Marc von Roosmalen
+            auf, der für das „Institut für Amazonenforschung“ arbeitet. Takuma
+            teilt sein Wissen über die heilenden Eigenschaften von Pflanzen
+            mit ihm. Die Völker des Regenwaldes nutzen seit Generationen die
+            natürlichen Heilkräfte des Regenwaldes. Der Regenwald birgt reiche
+            Schätze für die Pharmaindustrie.
         director: Walter Tauber
         air_date: '1999-03-03'
         duration: 26
         duration_sec: 1583
+        location_wikidata: Q183444
+        coordinates:
+        - -11.232286
+        - -53.184815
         fernsehserien_episode_no: 11
         fernsehserien_episode_slug: 11-regenwald-der-geist-des-vogels-heilkraft-aus-dem-urwald-339126
         fernsehserien_episode_id: 339126
@@ -1094,6 +1175,7 @@ seasons:
         episode_no: 12
         title: Die Pille für den Wald
         topic: Regenwald
+        continent: Asien
         description: 'Die Kindersterblichkeit ist hoch in dem kleinen Himalaya-Dorf
             Bhujung. Deshalb setzen Eltern möglichst viele Kinder in die Welt
             in der Hoffnung, daß wenigstens ein paar überleben und zum Familienunterhalt
@@ -1128,7 +1210,7 @@ seasons:
             Es reduziert den Holzverbrauch beachtlich, daß nun nicht mehr
             für jeden Tee neues Wasser aufgesetzt wird. Die Zeichen stehen
             gut in Bhujung, daß aus den Wald-Verbrauchern nun Wald-Schützer
-            werden. (Text: Arte)'
+            werden.'
         description_fernsehserien: 'Die Kindersterblichkeit ist hoch in dem
             kleinen Himalaya-Dorf Bhujung. Deshalb setzen Eltern möglichst
             viele Kinder in die Welt in der Hoffnung, daß wenigstens ein paar
@@ -1184,10 +1266,23 @@ seasons:
             Boiler in der Feuerstelle, der Wärme speichert. Es reduziert den
             Holzverbrauch beachtlich. Die Zeichen stehen gut in Bhujung, dass
             aus den Wald-Verbrauchern nun Wald-Schützer werden.'
+        summary: Die Kindersterblichkeit in Bhujung, einem kleinen Himalaya-Dorf,
+            ist hoch. Eltern bringen daher viele Kinder zur Welt, in der Hoffnung,
+            dass zumindest einige überleben und zum Familienunterhalt beitragen
+            können. Die Bevölkerung wächst, aber auch die Armut. Um zu überleben,
+            nutzen die Menschen den Regenwald als Ressource, was zu dessen
+            Zerstörung führt. Das „Annapurna Conservation Area Project“ (ACAP)
+            bezieht die Bewohner von Bhujung in Entscheidungen ein, da der
+            Schutz des Regenwaldes ohne ihre Unterstützung nicht funktionieren
+            kann.
         director: Jens Dücker
         air_date: '1999-03-04'
         duration: 26
         duration_sec: 1587
+        location_wikidata: Q3413208
+        coordinates:
+        - 28.31
+        - 84.26
         fernsehserien_episode_no: 12
         fernsehserien_episode_slug: 12-regenwald-die-pille-fuer-den-wald-339127
         fernsehserien_episode_id: 339127
