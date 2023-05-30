@@ -12,10 +12,17 @@ import typing
 from datetime import date
 
 import bs4
-import googleapiclient
 import requests
 import termcolor
 import yaml
+from googleapiclient.discovery import build as build_google_api  # type: ignore
+
+if typing.TYPE_CHECKING:
+    from googleapiclient._apis.youtube.v3.resources import (  # type: ignore
+        PlaylistItemListResponse,
+        VideoListResponse,
+        YouTubeResource,
+    )
 
 EXPORT_FILENAME = "arte-360-reportage"
 
@@ -119,26 +126,49 @@ class Markdown:
 
 
 class YouTube:
+    """.venv/lib/python3.10/site-packages/googleapiclient/discovery_cache/documents/youtube.v3.json
+
+    .venv/lib/python3.10/site-packages/googleapiclient-stubs/_apis/youtube/v3/schemas.pyi
+    """
+
     YOUTUBE_API_SERVICE_NAME = "youtube"
 
     YOUTUBE_API_VERSION = "v3"
 
-    resource: typing.Any
+    resource: YouTubeResource
 
-    def __init__(self):
-        key = self.__load_key()
-        self.resource = self.get_youtube_resource(key)
+    debug: bool
+
+    def __init__(self, debug: bool = False) -> None:
+        self.debug = debug
+        key: str = self.__load_key()
+        self.__debug(key)
+        self.resource: YouTubeResource = self.__get_youtube_resource(key)
 
     def __load_key(self) -> str:
         keys = json.load(open(pathlib.Path.home() / ".youtube-api.json", mode="r"))
         return keys["api_key"]
 
-    def get_youtube_resource(self, key: str) -> typing.Any:
-        return googleapiclient.discovery.build(  # type: ignore
+    def __get_youtube_resource(self, key: str) -> YouTubeResource:
+        return build_google_api(
             self.YOUTUBE_API_SERVICE_NAME, self.YOUTUBE_API_VERSION, developerKey=key
         )
 
-    def fetch_videos_by_playlist(self, playlist_id: str):
+    def __debug(self, dump: typing.Any) -> None:
+        if self.debug:
+            print(json.dumps(dump, indent=2))
+
+    def get_video(self, video_id: str) -> VideoListResponse:
+        """https://developers.google.com/youtube/v3/docs/videos"""
+        result = (
+            self.resource.videos()
+            .list(id=video_id, part="contentDetails,snippet")
+            .execute()
+        )
+        self.__debug(result)
+        return result
+
+    def fetch_videos_by_playlist(self, playlist_id: str) -> PlaylistItemListResponse:
         result = (
             self.resource.playlistItems()
             .list(part="snippet", playlistId=playlist_id, maxResults=50)
@@ -186,11 +216,39 @@ class YouTube:
                         if "uploads" in related_playlists:
                             return related_playlists["uploads"]
 
-    def fetch_videos_by_channel(self, channel_id: str):
+    def fetch_videos_by_channel(self, channel_id: str) -> PlaylistItemListResponse:
         playlist_id = self.get_playlist_id_of_channel(channel_id)
         if not playlist_id:
             raise Exception(f"No upload playlist found for channel {channel_id}")
         return self.fetch_videos_by_playlist(playlist_id)
+
+
+class YoutubeVideo:
+    response: VideoListResponse
+
+    def __init__(self, response: VideoListResponse) -> None:
+        self.response = response
+
+    @property
+    def video(self):
+        if "items" in self.response:
+            if len(self.response["items"]) > 0:
+                return self.response["items"][0]
+
+    @property
+    def snippet(self):
+        if self.video and "snippet" in self.video:
+            return self.video["snippet"]
+
+    @property
+    def content_details(self):
+        if self.video and "contentDetails" in self.video:
+            return self.video["contentDetails"]
+
+    @property
+    def description(self):
+        if self.snippet and "description" in self.snippet:
+            return self.snippet["description"]
 
 
 class Scrapper:
@@ -987,11 +1045,13 @@ class FrWiki(WikiTemplate):
 
 def debug() -> None:
     """Test some code"""
-
-    scrapper = FernsehserienScrapper(
-        "https://www.fernsehserien.de/arte-360grad-reportage/folgen/606-island-die-wertvollsten-daunen-der-welt-1602943"
-    )
-    print(scrapper.director)
+    youtube = YouTube(False)
+    for episode in tv_show.episodes:
+        if episode.youtube_video_id:
+            result = youtube.get_video(episode.youtube_video_id)
+            video = YoutubeVideo(result)
+            print("----------------------------")
+            print(video.description)
 
 
 def scrape() -> None:
@@ -1053,18 +1113,16 @@ def generate_leaflet() -> None:
     marker: list[typing.Any] = []
     for episode in tv_show.episodes:
         if episode.coordinates:
-            marker_data =   {
+            marker_data = {
                 "coordinates": episode.coordinates,
                 "popup": episode.title,
                 "color": episode.continent_color,
             }
-            marker.append(
-                marker_data
-            )
+            marker.append(marker_data)
     json_dump: str = Utils.dump_json(marker)
-    template: str = Utils.read_text_file('.leaflet.html')
-    template = template.replace('const markers = []', f"const markers = {json_dump}")
-    Utils.write_text_file(EXPORT_FILENAME + '_leaflet.html', template)
+    template: str = Utils.read_text_file(".leaflet.html")
+    template = template.replace("const markers = []", f"const markers = {json_dump}")
+    Utils.write_text_file(EXPORT_FILENAME + "_leaflet.html", template)
 
 
 def generate_readme() -> None:
