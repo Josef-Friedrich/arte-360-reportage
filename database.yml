@@ -90,7 +90,7 @@ seasons:
             alten Beirut eine neue Metropole zu erschaffen, ist umstritten.
             Viele Beiruter wollen einen Neuanfang und die Stadt neu beleben.
             Doch wie hoch ist der Preis dafür - und wer muß ihn zahlen?'
-        description_short: Nach einem 15-jährigen Bürgerkrieg in Beirut entstehen
+        summary: Nach einem 15-jährigen Bürgerkrieg in Beirut entstehen
             täglich neue Marmorfassaden inmitten der Trümmerlandschaft. Die
             Baugesellschaft „Solidere“ enteignet Eigentümer und gibt ihnen
             Aktien, um der Stadt ein neues Gesicht zu geben. Die Flüchtlingsunterkünfte
@@ -193,7 +193,7 @@ seasons:
             die diese künstliche Stadt dazu genutzt haben, etwas eigenes daraus
             zu machen - etwas, das ihren Wünschen und Bedürfnissen entspricht
             und weniger den Visionen von Le Corbusier.'
-        description_short: Chandigarh, eine 1948 aus dem Nichts entstandene
+        summary: Chandigarh, eine 1948 aus dem Nichts entstandene
             Stadt, ist ein politisches Manifest für das neue Indien. Le Corbusier
             entwarf sie als neue Wohn- und Arbeitsstätte, die den Wandel zur
             modernen Industriegesellschaft symbolisiert. Der Film zeigt jedoch,
@@ -296,7 +296,7 @@ seasons:
             brutal aus ihrem Traum herausgerissen. Was ist es, dass die Pioniere
             Brasilias noch hält? Warum übt es auch weiterhin auf junge Leute
             eine unwiderstehliche Anziehungskraft aus?'
-        description_short: Die Gründung von Brasilia im Jahr 1960 zog Menschen
+        summary: Die Gründung von Brasilia im Jahr 1960 zog Menschen
             an, die alle die Vision einer Stadt ohne soziale Unterschiede
             teilten. Der Städteplaner Lucio Costa gewann einen nationalen
             Wettbewerb und entwarf einen Grundriss mit einer kreuzförmigen
@@ -399,7 +399,7 @@ seasons:
             und unternehmen viel miteinander.“ Die Menschen akzeptieren es,
             von einem Disney Manager als Bürgermeister-Ersatz regiert zu werden.
             Ist die lückenlos durchgeplante Privatstadt ein Modell der Zukunft?'
-        description_short: Celebration ist eine von Disney geschaffene Stadt,
+        summary: Celebration ist eine von Disney geschaffene Stadt,
             die den modernen Städtebau verkörpern soll. Das Konzept des „New
             Urbanism“ zielt darauf ab, Vororte neues Leben einzuhauchen und
             amerikanische Tugenden wie Gemeinschaftssinn wiederzubeleben.
@@ -3001,7 +3001,7 @@ seasons:
             unseren Körper und unsere Sinne stimulieren können, und versucht
             erotische Wunschvorstellungen und faktische Wirklichkeit voneinander
             zu trennen.'
-        description_short: Die Verbindung zwischen Essen und Lust wird seit
+        summary: Die Verbindung zwischen Essen und Lust wird seit
             langem anerkannt. Forscher untersuchen nun die Wirkung von Lebensmitteln
             auf die Libido. Studien zeigen, dass Trüffel, Schokolade und Austern
             tatsächlich die sexuelle Lust steigern können. Sogar der Duft
@@ -50174,7 +50174,7 @@ seasons:
             des Hüpfens Teile durch die Luft. Ein schräger Freizeitspaß, bei
             dem immer wieder auch mal Batterien explodieren oder Autos brennen
             können.'
-        description_short: Der Lowrider-Motorsport ist ein Hobby der „Chicanos“
+        summary: Der Lowrider-Motorsport ist ein Hobby der „Chicanos“
             mit mexikanischen Wurzeln. Die Autos sind extrem tief gelegt und
             können mithilfe von Hydraulikmotoren sogar springen. Die „First
             Class Ladies“ sind ein Frauenclub, der das Image der Lowrider
@@ -50285,7 +50285,7 @@ seasons:
             sie sich die notwendigen Ergebnisse. In Nicaragua wie in Costa
             Rica steht viel auf dem Spiel - aber die Tierschützer in beiden
             Ländern scheinen ersten Erfolgen sehr nah zu sein.'
-        description_short: Tapire, einst im gesamten amerikanischen Kontinent
+        summary: Tapire, einst im gesamten amerikanischen Kontinent
             beheimatet, sind heute nur noch in wenigen Regionen Mittel- und
             Südamerikas anzutreffen. Menschliche Aktivitäten wie Abholzung,
             Wilderei und der Bau von Autobahnen haben zu einem drastischen
@@ -50429,7 +50429,7 @@ seasons:
             Schnee- und Eisflächen unbedingt sicheren Tritt fassen können.
             Wird der Gipfel tatsächlich noch einmal mit Pferden zu bezwingen
             sein?'
-        description_short: Karachai-Pferde sind legendäre Nutztiere im Süden
+        summary: Karachai-Pferde sind legendäre Nutztiere im Süden
             Russlands, die fast ausgestorben waren, aber von lokalen Züchtern
             gerettet wurden. Sie sind ein wichtiger Teil der kaukasischen
             Kultur und wurden einst für die Eroberung des Kaukasus genutzt.
@@ -50540,7 +50540,7 @@ seasons:
             der Tiere melden. Erfahrene Fährtenleser wie Buschmann Debe helfen
             den Gepardenrettern beim Aufsuchen und Einfangen der Tiere. Das
             Gepardenweibchen Amber ist ihm besonders ans Herz gewachsen.'
-        description_short: Namibia hat zahlreiche Schutzgebiete und Tierreservate,
+        summary: Namibia hat zahlreiche Schutzgebiete und Tierreservate,
             die fast 40 Prozent der Landesfläche umfassen. Die Gepardenpopulation
             in Namibia ist auf etwa 8.000 geschätzt, wobei mehr als ein Drittel
             von ihnen dort lebt. Trockenheit, Wilderei und der Wettbewerb
@@ -50644,7 +50644,7 @@ seasons:
             Leidenschaft für das, was sie tun. Berühmte Lehrmeister und Tausende
             einsame Atelierstunden haben sie zu Künstlern gemacht, die Kreationen
             auf allerhöchstem Niveau zaubern.'
-        description_short: Paris ist das Zentrum der Haute Couture für edlen
+        summary: Paris ist das Zentrum der Haute Couture für edlen
             Roben und extravaganten Designs. Séverina Lartigue und Eric Charles-Donatien
             sind Kunsthandwerker, die für namhafte Designer wie Jean Paul
             Gaultier und Christophe Josse arbeiten. Diese Künstler, darunter
@@ -50757,7 +50757,7 @@ seasons:
             zu erspähen, die sich am Strand ausruht. Und sei es nur für einen
             kurzen Augenblick“, so Pfyffer. Bis zum Ende ihrer Reise erwartet
             sie eine ganze Reihe erstaunlicher Entdeckungen.'
-        description_short: Ein Forschungsteam der Octopus Foundation reist
+        summary: Ein Forschungsteam der Octopus Foundation reist
             nach Griechenland, um autonome Kameras zu installieren und die
             Mönchsrobben im Mittelmeer zu studieren. Die scheuen Meeressäuger
             verstecken sich in unzugänglichen Höhlen, um sich vor Menschen
@@ -50863,7 +50863,7 @@ seasons:
             der Instrumente vergangener Jahrhunderte. „Eine Orgel stirbt nicht,“,
             sagen die Orgelbauer, „sie ist für die Ewigkeit gedacht“ - und
             gerade deshalb ist sie für viele bis heute die „Königin der Instrumente“.'
-        description_short: Patrick Armand ist ein renommierter Orgelbauer
+        summary: Patrick Armand ist ein renommierter Orgelbauer
             und Besitzer der ältesten Orgelbau-Manufaktur, der Firma Muhleisen,
             in Eschau im Elsass. Das Elsass beherbergt die meisten Orgeln
             in Frankreich, mit 1.250 von insgesamt 8.000 im ganzen Land. Die
@@ -50946,7 +50946,7 @@ seasons:
             verhindern. Einer davon ist Martin Kühn, Ranger im Nationalpark
             Wattenmeer. Doch wie könnte schlussendlich ein Kompromiss für
             beide Seiten aussehen?'
-        description_short: Vor 50 Jahren waren Nonnengänse vom Aussterben
+        summary: Vor 50 Jahren waren Nonnengänse vom Aussterben
             bedroht, aber heute gibt es Hunderttausende von ihnen. Sie brüten
             nicht mehr nur in den Polargebieten, sondern auch an der Ostsee
             und an der Westküste Norddeutschlands. Während Biologen und Naturschützer
@@ -51048,7 +51048,7 @@ seasons:
             erfüllt, tut Daniel sich ausgerechnet bei den Proben schwer. Wird
             er am Ende trotzdem seine Kolleginnen und Kollegen, den Regisseur
             und vor allem sein Publikum überzeugen können?'
-        description_short: Das Marionettenkutschentheater aus Panevezys führt
+        summary: Das Marionettenkutschentheater aus Panevezys führt
             jedes Jahr im Sommer seine Kunst in abgelegenen litauischen Dörfern
             auf. Mit einem motorisierten, aber als Dampflok dekorierten Fahrzeug
             fährt das Ensemble in entlegene Gegenden. Die meisten Bewohner
@@ -51174,7 +51174,7 @@ seasons:
             Gemüse, gekochter Reis und tägliche Gebete gehen im Zenbuddhismus
             Südkoreas eine äußerst vitale Symbiose ein, von der die umsorgten
             Nonnen genauso profitieren wie ihre buddhistischen Anhänger.'
-        description_short: Wookwan Sunim bevorzugt natürliche Zutaten, die
+        summary: Wookwan Sunim bevorzugt natürliche Zutaten, die
             saisonal und regional gewachsen sind. Im Kloster werden wilde
             Pflanzen aus dem Gemüsegarten, Blumenbeeten, dem Wald und Schotterwegen
             verwendet. Die Nonnen nutzen Blüten für Tee, Blätter für Salate
@@ -51275,7 +51275,7 @@ seasons:
             - nicht nur, weil sie eine der wenigen Frauen in diesem Sport
             ist. Ihre Anmut und Eleganz beim Flug soll nun auch die Preisrichter
             der französischen Meisterschaften in Lyon überzeugen.'
-        description_short: Im größten Indoor-Windtunnel Europas bei Mailand
+        summary: Im größten Indoor-Windtunnel Europas bei Mailand
             wird der Traum vom Fliegen wahr. Ursprünglich für die Luft- und
             Raumfahrt entwickelt, sind Freifallsimulatoren nun auch Freizeitspaß
             und Bühne für Leistungssportler wie Laurie Lubbe. Sie ist eine
@@ -51367,7 +51367,7 @@ seasons:
             alter Blumenpflücker, den Serge und Laurence nun bei einem Goldschmied
             in Ordnung bringen lassen wollen. Wird es der Experte schaffen,
             das fragile Kleinod wieder funktionsfähig zu machen?'
-        description_short: Serge Denoix und Laurence Beaufils sind leidenschaftliche
+        summary: Serge Denoix und Laurence Beaufils sind leidenschaftliche
             Gärtner und interessieren sich auch für alte Gartenwerkzeuge.
             Sie sammeln Fundstücke, deren Zweck und Herkunft sie mühsam recherchieren
             müssen. Unterstützt werden sie dabei von Landwirten, Handwerkern
@@ -51468,7 +51468,7 @@ seasons:
             letzten Primärwäldern Europas - und offenbaren, wie Bäume in der
             Vergangenheit Veränderungen standhalten konnten. Ein Urwaldarchiv,
             das auch Antworten auf den Klimawandel liefern könnte.'
-        description_short: Martin Mikolas, ein slowakischer Waldökologe und
+        summary: Martin Mikolas, ein slowakischer Waldökologe und
             Naturschützer, leitet wissenschaftliche Expeditionen in die letzten
             Urwälder Europas. Sein aktuelles Ziel ist ein abgelegener Buchenwald
             in den Albanischen Alpen. Das Team wandert stundenlang, um den
@@ -51574,7 +51574,7 @@ seasons:
             Wölfe. Dazu müssen die scheuen Tiere wieder mühsam gefangen und
             mit einem Senderhalsband versehen werden. Gespannt sehen Marcus,
             Maria und ihre Kolleginnen dem Ergebnis entgegen.'
-        description_short: Im oberpfälzischen Grafenwöhr, auf dem Truppenübungsplatz
+        summary: Im oberpfälzischen Grafenwöhr, auf dem Truppenübungsplatz
             der US-Streitkräfte, hat sich ein einzigartiges Naturrefugium
             entwickelt. Trotz des ständigen Schießens leben dort zahlreiche
             Tierarten ungestört. Nun wird der Einfluss des Wolfs auf die Rotwild-Bestände
@@ -51683,7 +51683,7 @@ seasons:
             ihre Freundinnen. Wie wird es ihnen allen dieses Jahr ergehen,
             wer wird den Turniersieg davontragen? Eines steht jetzt schon
             fest: sie werden sich ritterlich schlagen…'
-        description_short: Der mittelalterliche Turniersport erlebt in Spanien
+        summary: Der mittelalterliche Turniersport erlebt in Spanien
             einen Boom. Jedes Jahr findet ein großes Turnier am Fuße der Burg
             Belmonte in Kastilien-La Mancha statt. Die Teilnehmer treten in
             historischer Ritterrüstung mit Schwertern, Äxten und Hellebarden
@@ -51801,7 +51801,7 @@ seasons:
             ist groß. Doch immer wieder stellt sich die bange Frage, ob die
             Ernte gut genug ist und ausreichend Material für kommende Aufträge
             liefert.'
-        description_short: Der mexikanische Feigenkaktus Nopal wird als Superfood
+        summary: Der mexikanische Feigenkaktus Nopal wird als Superfood
             und Inspiration für Modeideen verwendet. Junge Unternehmerinnen
             und Unternehmer haben veganes Leder aus dieser Pflanze entwickelt.
             Es könnte eine Revolution in der Lederindustrie bedeuten. Consuelo
@@ -51898,7 +51898,7 @@ seasons:
             Dafür hat sie viel aufgegeben: Im Alter von 24 Jahren entschied
             sie sich, allein zu leben, baute ein Haus und lebt seither ihren
             Traum - sie widmet ihre ganze Zeit den Pferden.'
-        description_short: Die Polosportwelt dreht sich um Pferde und engagierte
+        summary: Die Polosportwelt dreht sich um Pferde und engagierte
             Fachleute wie Tierärzte, Pferdepfleger, Trainer und Hufschmiede.
             In Argentinien, dem Land der Pferde, haben Frauen den männerdominierten
             Sport erobert und sind sehr erfolgreich. Eine herausragende Spielerin
@@ -51989,7 +51989,7 @@ seasons:
             werden. Auch jetzt wieder, und zwar für eine besonders heikle
             Mission: Das größte bisher gebaute Weltraumteleskop soll schon
             in wenigen Tagen von Kourou aus in den Orbit fliegen.'
-        description_short: Europäische Raketen und Satelliten starten regelmäßig
+        summary: Europäische Raketen und Satelliten starten regelmäßig
             vom Raumfahrtzentrum in Französisch-Guayana. Drei vorgelagerte
             Inseln, einst Gefängnisinseln, müssen vor jedem Countdown aus
             Sicherheitsgründen evakuiert werden. Die verfallenen Gebäude wurden
@@ -52095,7 +52095,7 @@ seasons:
             die vom Publikum gewählt wird, entgeht dem Verbrennen und wandert
             ins Museum. Las Fallas de Valencia - alle Jahre wieder eine spektakuläre,
             feurige Fiesta.'
-        description_short: Die Las Fallas de Valencia sind eine jährliche
+        summary: Die Las Fallas de Valencia sind eine jährliche
             Feier in der drittgrößten Stadt Spaniens. Künstler wie Mario Gual
             del Olmo schaffen beeindruckende Straßenskulpturen, die im März
             traditionell verbrannt werden. Die Feierlichkeiten dauern eine
@@ -52137,7 +52137,7 @@ seasons:
             Dampfer „Joao Bruno II“ zu entlegenen Dörfern im Amazonas-Delta.
             Dort leben Menschen, die weder einen Pass noch eine Geburtsurkunde
             haben. (Text: Arte)'
-        description_short: Die Initiative „Justicia Itinerante“ wurde von
+        summary: Die Initiative „Justicia Itinerante“ wurde von
             der Richterin Sueli Pini ins Leben gerufen, um den Menschen im
             abgelegenen Amazonas-Delta Zugang zur Justiz zu ermöglichen. Mit
             einem Justizschiff namens "Joao Bruno II" reisen brasilianische
@@ -52240,7 +52240,7 @@ seasons:
             Die „ARTE 360°“-Reporter sind mit ihnen in den Slums von Mumbai
             sowie auf dem Land unterwegs - und werden Zeugen von Erschreckendem
             wie auch Positivem.'
-        description_short: In Indien kämpfen Rationalisten gegen gefährlichen
+        summary: In Indien kämpfen Rationalisten gegen gefährlichen
             Aberglauben und Geschäftemacherei mit Spiritualität. Mit ihrem
             Science-Van reisen sie durch das Land, um aufzuklären. Rationalisten
             glauben an Vernunft und Wissenschaft statt an Götter und Geister.
@@ -52353,7 +52353,7 @@ seasons:
             Sabourin hat alle Hände voll zu tun. Mit Hilfe von Freunden und
             Familie arbeitet er Wochen lang durch, bis er am Ende der Saison
             hoffentlich ein großes traditionelles Abschlussfest feiern kann.'
-        description_short: Félix Sabourin betreibt eine Ahornsirupfarm in
+        summary: Félix Sabourin betreibt eine Ahornsirupfarm in
             Ripon, zwei Autostunden nordwestlich von Montréal. Gemeinsam mit
             Freunden und Nachbarn sammelt er im Frühjahr den Saft der Ahornbäume,
             um den weltweit beliebten Sirup herzustellen. Die Saison beginnt
@@ -52479,7 +52479,7 @@ seasons:
             werden also dringend gebraucht. Und auch die Polizei ist mit im
             Einsatz - damit Estlands Kröten und Frösche ihren Platz in der
             Natur des Landes behalten können.'
-        description_short: Die Biologin Katerina Pesocki und der Estnische
+        summary: Die Biologin Katerina Pesocki und der Estnische
             Naturfonds organisieren eine Rettungsaktion für die jährliche
             Krötenwanderung im Frühjahr. Freiwillige Helferinnen und Helfer
             transportieren Tausende von Kröten und Fröschen sicher über Straßen,
@@ -52530,7 +52530,7 @@ seasons:
             die dann mit großer Vorsicht verarbeitet werden. So auch dieses
             Jahr. Ob Assuntina und Guiseppina mit ihrer Arbeit rechtzeitig
             fertig werden? (Text: Arte)'
-        description_short: Assuntina und Guiseppina Pes bereiten sich auf
+        summary: Assuntina und Guiseppina Pes bereiten sich auf
             die große Prozession zu Ehren des heiligen Antiochus vor, dem
             Schutzpatron Sardiniens. Die jährliche Festa Manna, eine 15 Tage
             nach Ostern stattfindende Feier, bringt die Einwohner der gesamten
@@ -52637,7 +52637,7 @@ seasons:
             die Jury loszieht, muss alles perfekt sein - nur so haben sie
             eine Chance auf den ersten Preis für den schönsten Patio der ganzen
             Stadt.'
-        description_short: Die andalusischen Patios sind Ruheoasen in den
+        summary: Die andalusischen Patios sind Ruheoasen in den
             heißen Sommermonaten und eine architektonische Antwort auf die
             brütende Hitze. Ursprünglich aus der römischen Antike stammend,
             wurden sie während der muslimischen Herrschaft um Pflanzen, Brunnen
@@ -52695,7 +52695,7 @@ seasons:
             Wer wird seinem Beispiel folgen? Haben die martialisch anmutenden
             Tätowierungen eine Zukunft in der modernen Welt der Marquesas-Inseln?
             (Text: Arte)'
-        description_short: Heretu Tetahiotupa und Teiki Huukena sind Pioniere
+        summary: Heretu Tetahiotupa und Teiki Huukena sind Pioniere
             der neuen Tattoo-Bewegung auf den Marquesas-Inseln. Sie gründeten
             eine Tätowierschule, um das alte Wissen über Marquesas-Motive
             zu bewahren. Die Bedeutung der Tattoos ging verloren, aber Heretu
@@ -52743,7 +52743,7 @@ seasons:
             Was bewegt diese jungen Männer zu solch einem Schritt - diesen
             und anderen Fragen folgt die Reportage bei einem exklusiven Blick
             ins Herz des Vatikas. (Text: Arte)'
-        description_short: Die Schweizer Garde schützt seit über 700 Jahren
+        summary: Die Schweizer Garde schützt seit über 700 Jahren
             den Papst und den Vatikan. Sie sichern die Eingänge zum Vatikan
             und begleiten den Papst bei Gottesdiensten und Audienzen. Tag
             und Nacht stehen sie in Uniform und Rüstung auf ihren Posten.
@@ -52793,7 +52793,7 @@ seasons:
             ist da schon weiter: Allein in dieser Saison wird er über 300
             Kilogramm Daunen ernten. Ohne dass auch nur einer einzigen Ente
             Schaden zugefügt wird. (Text: Arte)'
-        description_short: Im Loðmundarfjörður auf Island sammeln Farmer Eiderenten-Daunen,
+        summary: Im Loðmundarfjörður auf Island sammeln Farmer Eiderenten-Daunen,
             die zu wertvollen Kissen und Decken verarbeitet werden. Óðinn
             Logi rettet gefährdete Enteneier und züchtet die Küken in seiner
             Garage. Íris Birgisdóttir hat die Farm ihres Onkels zur Eiderentenfarm
@@ -52841,7 +52841,7 @@ seasons:
             um auf sich und ihr Schicksal aufmerksam zu machen. Werden am
             Ende alle die Nerven behalten, um einen derart großen Schritt
             zu wagen? (Text: Arte)'
-        description_short: Die Emberá Chamí leben in den kolumbianischen Anden,
+        summary: Die Emberá Chamí leben in den kolumbianischen Anden,
             wo Kaffee angebaut wird. Transfrauen wie Bella Wasorna finden
             auf den Kaffeefeldern nicht nur Arbeit, sondern auch Schutz. Die
             Frauen bereiten sie sich auf einen großen Tanzauftritt in der
@@ -52894,7 +52894,7 @@ seasons:
             Schließlich sagt man, dass vor allem die romantische Landschaft
             der Vogesen die Menschen hier schon immer angetrieben haben mag,
             Märchenhaftes zu kreieren. (Text: Arte)'
-        description_short: Die nördlichen Vogesen gelten als Wiege der Kristallherstellung
+        summary: Die nördlichen Vogesen gelten als Wiege der Kristallherstellung
             in Europa, mit weltberühmten Manufakturen wie Saint-Louis, Lalique
             und dem Internationalen Zentrum für Glaskunst in Meisenthal. Die
             Region bietet eine malerische Landschaft, die die Glasmacher inspiriert,
@@ -52951,7 +52951,7 @@ seasons:
             es ihm mit seiner Eselfarm gelingt, was geschieht, wenn eines
             der Tiere erkrankt und warum Eselsmilch heilen hilft, davon erzählt
             dieser Film. (Text: Arte)'
-        description_short: Darko Saveljic betreibt eine Eselfarm in den Bergen
+        summary: Darko Saveljic betreibt eine Eselfarm in den Bergen
             Montenegros, auf der mehrere Stuten und ein Hengst ein neues Zuhause
             gefunden haben. Seine Mission ist es, die Esel vor dem Aussterben
             zu bewahren und ein Modell für artgerechten Tierschutz zu schaffen.
@@ -52994,7 +52994,7 @@ seasons:
             legt das Schmelzen der Gletscher neue Klüfte frei, andererseits
             birgt das Tauen des Eises auch eine erhebliche Gefahr für die
             Schatzsucher - Unfälle gibt es fast jedes Jahr. (Text: Arte)'
-        description_short: In den Schweizer Alpen riskieren Mineralien- und
+        summary: In den Schweizer Alpen riskieren Mineralien- und
             Kristallsucher, auch „Strahler“ genannt, ihr Leben, während sie
             mit Werkzeugen wie Spitzhacke und Meißel Bergkristalle in tiefen
             Felsspalten und Hohlräumen abbauen. Das Schmelzen der Gletscher
@@ -53045,7 +53045,7 @@ seasons:
             zu überzeugen, die ganz ohne Seile auskommt. Wird sich eine Lösung
             finden, die die Wale schützt und gleichzeitig die Hummerfischerei
             fortbestehen lässt? (Text: Arte)'
-        description_short: Die traditionelle Hummerfischerei in Maine ist
+        summary: Die traditionelle Hummerfischerei in Maine ist
             bedroht, da sich der Golf von Maine erwärmt und die Hummer weiter
             gen Norden ziehen, während Wale durch die Hummerfallen gefährdet
             werden. Fischer stehen vor der Entscheidung, aufzuhören oder alternative
@@ -53093,7 +53093,7 @@ seasons:
             eine Chance für den Schäferberuf? Und wird der Vater seinen Sohn
             überzeugen können, sein Erbe fortzuführen und so tatkräftig mitzuhelfen,
             dass die Schäfertradition nicht ausstirbt? (Text: Arte)'
-        description_short: Bastri Limoj, ein Hirte in dem südalbanischen Bergdorf
+        summary: Bastri Limoj, ein Hirte in dem südalbanischen Bergdorf
             Vranisht, hofft, dass sein Sohn Lucjano ihn beim Auftrieb der
             Herde zur Sommerweide begleitet und dadurch die Schäfertradition
             weiterführt. Die Wiederbelebung der traditionellen polyphonen
@@ -53150,7 +53150,7 @@ seasons:
             eine riesige Herausforderung für das Team. Können die Agrar-Avantgardisten
             die Dorfbewohner an den neuen Geschmack im Essen gewöhnen? (Text:
             arte)'
-        description_short: Ein junges Team von Tierspezialisten bietet den
+        summary: Ein junges Team von Tierspezialisten bietet den
             Büffeln in Laos Nahrungsergänzung durch Futterblöcke an, wodurch
             die Tiere gesünder werden und mehr Milch geben. Sie nutzen die
             Milch von Wasserbüffeln und Ziegen, um unterernährten Kindern
@@ -53189,7 +53189,7 @@ seasons:
             und sie kommen an Orte, die heute noch Namen und Spuren ihrer
             Ahnen tragen. Ein Team der „ARTE 360° Reportage“ hat die Nez Perce
             mit der Kamera begleitet. (Text: Arte)'
-        description_short: Über zwei Dutzend Mitglieder des Stammes der Nez
+        summary: Über zwei Dutzend Mitglieder des Stammes der Nez
             Perce reiten durch den Yellowstone-Nationalpark, um den langen
             Fluchtweg ihrer Vorfahren nachzuerleben und die Freiheit auf Pferderücken
             zu spüren. Sie begegnen imposanten Wildtieren wie Bisons und Grizzlybären
@@ -53227,7 +53227,7 @@ seasons:
             hochmotiviert und kämpferisch folgen ihr viele junge Landwirte,
             die nach folgenschweren Krisenjahren in Griechenland die Höfe
             ihrer Eltern übernehmen und Neues schaffen wollen. (Text: Arte)'
-        description_short: Sheila Darmos, eine junge Deutsch-Griechin, hat
+        summary: Sheila Darmos, eine junge Deutsch-Griechin, hat
             den Hof ihres Vaters übernommen und einen Waldgarten geschaffen,
             der eine hohe Biodiversität ermöglicht. Sie unterstützt einheimische
             junge Bauern mit ihrer Organisation „The Southern Lights“ dabei,
@@ -53271,7 +53271,7 @@ seasons:
             zu kaufen. Damit könnte das Dorf die Produktivität seiner Rattanfertigung
             erhöhen. In der alten Königsstadt Luang Prabang soll sie eine
             Buddha-Büste aus Rattan anfertigen. (Text: Arte)'
-        description_short: Rattan wird in Asien vielseitig verwendet und ist
+        summary: Rattan wird in Asien vielseitig verwendet und ist
             seit dem 19. Jahrhundert auch in Europa beliebt. Das Schrumpfen
             der Wälder in Südostasien hat zu steigenden Preisen geführt, weshalb
             in Laos Rattan wieder aufgeforstet wird. Eine junge Frau aus einem
@@ -53314,7 +53314,7 @@ seasons:
             Toten darf. 40 Kilometer weiter von Isacs Dorf jedoch hat eine
             andere Familie alle Hürden genommen und geleitet ihre Tote in
             einer aufwendigen Zeremonie ins Jenseits. (Text: Arte)'
-        description_short: Isac und seine Familie auf Sulawesi sind seit Wochen
+        summary: Isac und seine Familie auf Sulawesi sind seit Wochen
             damit beschäftigt, ein provisorisches Dorf für die Bestattungsfeierlichkeiten
             seiner Mutter zu bauen, doch aufgrund der immensen Kosten können
             sie erst jetzt, 21 Jahre nach ihrem Tod, die erforderliche Summe
@@ -53366,7 +53366,7 @@ seasons:
             machen, ist da schon deutlich komplexer. Dennoch ist auch Carolin
             Weh sicher: Eine friedliche Koexistenz zwischen Mensch und Waschbär
             ist möglich. (Text: Arte)'
-        description_short: Der Verein „Hauptsache Waschbär“ in Berlin setzt
+        summary: Der Verein „Hauptsache Waschbär“ in Berlin setzt
             sich für den Schutz und die Regulierung der Waschbärenpopulation
             ein, indem er wild lebende Waschbären einfängt, kastriert und
             wieder in die Natur entlässt. Ziel ist es, Schäden in menschlichen
@@ -53415,7 +53415,7 @@ seasons:
             Wie wird sie abschneiden? Ein Team der „ARTE 360° Reportage“ hat
             die ambitionierten Wettstreiterinnen und Wettstreiter samt ihrer
             Familienclans mit der Kamera begleitet. (Text: Arte)'
-        description_short: Während der Coronapandemie erlebten die Rapanui
+        summary: Während der Coronapandemie erlebten die Rapanui
             zwei Jahre der Abschottung, in denen sie sich auf alte Selbstversorgungsmethoden
             besannen und erfolgreich Obst und Gemüse anbauten. Das Tapati-Fest
             wird wieder in vollem Umfang gefeiert, inklusive der Krönung einer
@@ -53458,7 +53458,7 @@ seasons:
             auf dem See veranstaltet. Und das obwohl der Wasserstand gerade
             in dieser Jahreszeit immer stärker sinkt. Auf dem Tonle Sap wird
             jetzt jede Hand gebraucht. (Text: Arte)'
-        description_short: Der Wasserstand des Tonle Sap-Sees schwankt um
+        summary: Der Wasserstand des Tonle Sap-Sees schwankt um
             bis zu acht Meter. Während der Trockenzeit im Februar und März
             zieht sich das Wasser zurück und ermöglicht Renovierungen in den
             schwimmenden Dörfern, während die Bewohner vom Fischfang und der

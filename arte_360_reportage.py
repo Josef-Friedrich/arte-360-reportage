@@ -417,7 +417,7 @@ class EpisodeData(typing.TypedDict):
     description_youtube: str
     """A description that comes from a Youtube video"""
 
-    description_short: str
+    summary: str
     """Auto-generated with chatgpt: ``Fasse folgenden Text auf Deutsch in 75 Wörtern zusammen: ``"""
 
     director: str
@@ -614,8 +614,12 @@ class Episode:
             return description.strip()
 
     @property
-    def description_short(self) -> str | None:
-        return self.__get_str_key("description_short")
+    def summary(self) -> str | None:
+        return self.__get_str_key("summary")
+
+    @summary.setter
+    def summary(self, summary: str) -> None:
+        self.data["summary"] = summary
 
     @property
     def director(self) -> str | None:
@@ -1071,9 +1075,9 @@ class DeWiki(WikiTemplate):
 
         template = "Episodenlisteneintrag"
         summary = ""
-        if episode.description_short:
+        if episode.summary:
             template = "Episodenlisteneintrag2"
-            summary = key("ZF", episode.description_short)
+            summary = key("ZF", episode.summary)
 
         title_fr = episode.title_fr
         if not title_fr:
@@ -1233,7 +1237,7 @@ def generate_wikitext(language: typing.Literal["de", "fr"] = "de") -> None:
 def generate_chatgpt_texts() -> None:
     descriptions: list[str] = []
     for episode in tv_show.episodes:
-        if not episode.description_short and episode.description_plain:
+        if not episode.summary and episode.description_plain:
             descriptions.append("")
             descriptions.append(
                 f"s{episode.season_no}e{episode.episode_no} {episode.title}"
