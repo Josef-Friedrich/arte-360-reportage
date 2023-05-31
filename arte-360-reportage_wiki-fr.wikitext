@@ -1837,7 +1837,7 @@
 | Kenya, les Chiens au Secours des Éléphants
 |-
 |2
-|
+|🔴
 | Valparaiso, la VIlle des Ascenseurs
 |-
 |3
@@ -1845,7 +1845,7 @@
 | Au Fil de la Lena en Sibérie
 |-
 |4
-|
+|⚪️
 | La Forêt Secrète de la Spree
 |-
 |5
@@ -1853,15 +1853,15 @@
 | Cocos — L’Île des Requins
 |-
 |6
-|
+|⚪️
 | Les Insectes, la Nourriture de Demain?
 |-
 |7
-|
+|🟡
 | Myanmar, un Voyage Inoubliable en Train
 |-
 |8
-|
+|🔴
 | Les Chiens Traqueurs d’Ours du Nevada
 |-
 |9
@@ -1869,7 +1869,7 @@
 | Les Bateaux Légendaires d’Oman
 |-
 |10
-|
+|⚪️
 | Pour l’Amour des Oiseaux
 |-
 |11
@@ -1877,11 +1877,11 @@
 | Chine: Les Pêcheurs de Glace du Lac Chagan
 |-
 |12
-|
+|🔴
 | Floride, la Guerre des Pythons
 |-
 |13
-|
+|⚫️
 | Ghana — L’Avenir Est aux Femmes
 |-
 |14
@@ -1893,11 +1893,11 @@
 | Les Îles Cook — Bienvenue au Paradis
 |-
 |16
-|
+|⚪️
 | Norvège — Le Bois, une Histoire de Femmes
 |-
 |17
-|
+|🟡
 | Vietnam, Au Secours des Ours Noirs d’Asie
 |-
 |18

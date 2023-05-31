@@ -40313,6 +40313,10 @@ seasons:
         title: Die Bergführer vom Mont Blanc
         title_fr: La Compagnie des Guides de Chamonix Mont-Blanc
         alias: Die Bergführer von Chamonix
+        location_wikidata: Q583
+        coordinates:
+        - 45.83277777777778
+        - 6.865
         description: 'Majestätisch überragt Europas Gipfel die felsigen Bergspitzen
             der Savoyer Alpen. Der Mont Blanc - seit seiner Erstbesteigung
             vor 230 Jahren ein Magnet für Alpinisten. Aber der weiße Gigant
@@ -40415,6 +40419,10 @@ seasons:
         episode_no: 26
         title: Polen, Winter in den Waldkarpaten
         title_fr: Pologne, Charme Secret des Basses-Carpates
+        location_wikidata: Q54175
+        coordinates:
+        - 49.95
+        - 22.166666666667
         description: 'Die polnischen Vorkarpaten sind eine fast vergessene,
             verwunschen anmutende Region. Zwischen Bergen und Wäldern stehen
             immer wieder alte orthodoxe Holzkirchen. Die wenigen hier ansässigen
@@ -40515,6 +40523,10 @@ seasons:
         episode_no: 1
         title: Kenias Spürhunde - Rettung für die Elefanten
         title_fr: Kenya, les Chiens au Secours des Éléphants
+        location_wikidata: Q458423
+        coordinates:
+        - -2.65
+        - 37.25
         description: 'Der Amboseli Nationalpark in Kenia ist eines der letzten
             Naturparadiese der Erde. Schier endlose Savannen sind für etliche
             Wildtiere ein wichtiger Rückzugsraum. Ihrem Schutz hat sich die
@@ -40629,6 +40641,11 @@ seasons:
         episode_no: 2
         title: Valparaíso - Die Stadt der Aufzüge
         title_fr: Valparaiso, la VIlle des Ascenseurs
+        continent: Amerika
+        location_wikidata: Q33986
+        coordinates:
+        - -33.04611111111111
+        - -71.61972222222222
         description: 'Die chilenische Hafenstadt Valparaíso ist die Stadt
             der Standseilbahnen. 1883 wurde die erste Seilbahn in die hoch
             am Hang gelegenen Viertel eröffnet, in den 1920er Jahre waren
@@ -40748,6 +40765,10 @@ seasons:
         episode_no: 3
         title: Sibirien - Der Kapitän und die Lena
         title_fr: Au Fil de la Lena en Sibérie
+        location_wikidata: Q46841
+        coordinates:
+        - 53.935555555556
+        - 108.09194444444
         description: 'Seit 35 Jahren ist Kapitän Wassili Wassiljewitsch in
             den Sommermonaten auf dem mächtigsten Strom Sibiriens unterwegs,
             der Lena. Sein Schiff namens „Magdeburg“ dient als Versorgungs-
@@ -40880,6 +40901,11 @@ seasons:
         episode_no: 4
         title: Spreewald - Kähne, Köche, Klapperstörche
         title_fr: La Forêt Secrète de la Spree
+        continent: Europa
+        location_wikidata: Q148859
+        coordinates:
+        - 51.88
+        - 13.81
         description: 'Der Spreewald, nur eine knappe Autostunde von Berlin
             entfernt, ist ein Naturparadies, durchzogen von unzähligen Kanälen
             und Fließen. Manche Orte sind sogar nur auf Kähnen passierbar.
@@ -40997,6 +41023,10 @@ seasons:
         title: Cocos Island - Die Insel der Haie
         title_fr: Cocos — L’Île des Requins
         alias: Cocos Island - Paradies für Haie?!
+        location_wikidata: Q215081
+        coordinates:
+        - 5.5280555555556
+        - -87.061111111111
         description: 'Die Pazifikküste Costa Ricas gilt als Heimat vieler
             Haiarten. Doch die Jäger werden erbarmungslos gejagt. Von Fischern,
             die mit den Flossen der Tiere ein lukratives Geschäft betreiben.
@@ -41103,6 +41133,11 @@ seasons:
         episode_no: 6
         title: Insekten - Unser Speiseplan für morgen?
         title_fr: Les Insectes, la Nourriture de Demain?
+        continent: Europa
+        location_wikidata: Q846149
+        coordinates:
+        - 36.633055555556
+        - -4.6830555555556
         description: 'In der Natur gehören Insekten seit jeher auf den Speiseplan.
             Nur der Mensch machte lange einen Bogen um sie. Heute ernähren
             sich bereits zwei Milliarden Menschen von den kleinen Krabbeltieren,
@@ -41125,12 +41160,13 @@ seasons:
             Erde bei weiterem Bevölkerungswachstum drohe. Außerdem wäre die
             Zucht und Haltung vorbildlich ökologisch: Für ein Kilogramm Mehlwürmer
             etwa wären gerade mal zwei Kilogramm Futter nötig, während ein
-            Kilogramm Rindfleisch ganze 13 Kilogramm erfordere. Ein Erfolgsmodell
-            auf ganzer Linie, wäre da nicht die kulturell geprägte Abneigung
-            vieler Europäer vor den Krabbeltieren. Dabei konsumieren bereits
-            über zwei Milliarden Menschen weltweit Insekten, Tendenz steigend.
-            So betreiben Laetitia und ihr Freund und Geschäftspartner Julien
-            Foucher Pionierarbeit im doppelten Sinn. Auch die Gesetzeslage
+            Kilogramm Rindfleisch ganze 13 Kilogramm erfordere.
+
+            Ein Erfolgsmodell auf ganzer Linie, wäre da nicht die kulturell
+            geprägte Abneigung vieler Europäer vor den Krabbeltieren. Dabei
+            konsumieren bereits über zwei Milliarden Menschen weltweit Insekten,
+            Tendenz steigend. So betreiben Laetitia und ihr Freund und Geschäftspartner
+            Julien Foucher Pionierarbeit im doppelten Sinn. Auch die Gesetzeslage
             in der EU ist noch weitgehend unklar. Doch es gibt auch Erfolge.
             Junge Unternehmerinnen in Frankreich und Belgien experimentieren
             bereits mit den ungewohnten Lebensmitteln und versuchen sie für
@@ -41212,6 +41248,11 @@ seasons:
         episode_no: 7
         title: Myanmar - Per Zug durch die Zeit
         title_fr: Myanmar, un Voyage Inoubliable en Train
+        continent: Asien
+        location_wikidata: Q456847
+        coordinates:
+        - 21.5
+        - 98
         description: 'Seit über hundert Jahren durchquert eine Bahnlinie die
             Shan-Provinz Myanmars: Der Mandalay-Lashio-Express verbindet die
             heiße Tiefebene mit dem hügeligen Hochland - eine wichtige, aber
@@ -41324,6 +41365,11 @@ seasons:
         episode_no: 8
         title: Die Bärenhunde von Nevada
         title_fr: Les Chiens Traqueurs d’Ours du Nevada
+        continent: Amerika
+        location_wikidata: Q1227
+        coordinates:
+        - 39
+        - -117
         description: 'Ein Bär auf der Veranda. Er sucht Futter bei den Menschen.
             Das kann gefährlich werden, für Mensch und Tier. Damit solche
             Bären nicht abgeschossen werden müssen, hat sich Nevadas staatlicher
@@ -41432,6 +41478,10 @@ seasons:
         episode_no: 9
         title: Die Dhaus - Arabiens legendäre Schiffe
         title_fr: Les Bateaux Légendaires d’Oman
+        location_wikidata: Q170024
+        coordinates:
+        - 25.783333333333
+        - 55.95
         description: 'Lange vor den Europäern navigierten arabische Seeleute
             nach Indien, Indonesien und China. Die Küstenstädte Arabiens waren
             Handelszentren für Weihrauch, Seide, Gewürze und Porzellan. Wichtigstes
@@ -41535,6 +41585,11 @@ seasons:
         episode_no: 10
         title: Der Waldrapp - Punkvogel aus den Alpen
         title_fr: Pour l’Amour des Oiseaux
+        continent: Europa
+        location_wikidata: Q262669
+        coordinates:
+        - 48.166666666667
+        - 12.833333333333
         description: 'Der exotisch anmutende Waldrapp gehört zu den am stärksten
             bedrohten Vogelarten weltweit, nur im Zoo gibt es noch einige
             Exemplare. In freier Natur fliegen die Ibisvögel im Winter von
@@ -41655,6 +41710,10 @@ seasons:
         episode_no: 11
         title: Die Eisfischer vom Chagan-See
         title_fr: 'Chine: Les Pêcheurs de Glace du Lac Chagan'
+        location_wikidata: Q835789
+        coordinates:
+        - 45.233333333333
+        - 124.28333333333
         description: 'Seit über 1.000 Jahren leben Mongolen im Nordosten Chinas.
             Am Chagan-See in der Provinz Jilin sind sie Fischer geworden -
             Eisfischer. Von Dezember bis März, wenn es klirrend kalt ist,
@@ -41771,6 +41830,11 @@ seasons:
         title: Pythons - Invasion in Florida
         title_fr: Floride, la Guerre des Pythons
         alias: Florida, Invasion der Pythons
+        continent: Amerika
+        location_wikidata: Q274131
+        coordinates:
+        - 25.3125
+        - -80.6875
         description: 'In seiner Heimat Asien ist der Tigerpython vom Aussterben
             bedroht - im US-Bundesstaat Florida entwickeln sich die Würgeschlangen
             zu einer Plage. Inzwischen sind sie eine ernsthafte Bedrohung
@@ -41900,6 +41964,11 @@ seasons:
         episode_no: 13
         title: Amas Welt - Das neue Ghana
         title_fr: Ghana — L’Avenir Est aux Femmes
+        continent: Afrika
+        location_wikidata: Q3761
+        coordinates:
+        - 5.533333333333333
+        - -0.21666666666666667
         description: 'Eine neue Generation Frauen wächst im westafrikanischen
             Ghana heran: Stark, selbstbewusst und voller Ideen trotzen sie
             ihren Eltern, die das westliche Lebensmodel noch als Ideal verstanden.
@@ -42044,6 +42113,10 @@ seasons:
         episode_no: 14
         title: Tunesien - Die Kunst der Berbertattoos
         title_fr: Tunisie, l’Art du Tatouage Berbère
+        location_wikidata: Q3572
+        coordinates:
+        - 36.800833333333
+        - 10.18
         description: 'Eine uralte Tradition ist in die so schönen wie faltigen
             Gesichter der Großmütter gezeichnet; die letzte Generation von
             Frauen in Tunesien, die Berber-Tätowierungen auf Gesicht und Körper
@@ -42276,6 +42349,11 @@ seasons:
         episode_no: 16
         title: Norwegen - Försterinnen auf dem Vormarsch
         title_fr: Norvège — Le Bois, une Histoire de Femmes
+        continent: Europa
+        location_wikidata: Q50626
+        coordinates:
+        - 61.333333333333
+        - 5.8333333333333
         description: 'Holz ist eines der wichtigsten Naturprodukte Norwegens.
             Angesichts fallender Ölpreise und versiegender Ölquellen wird
             es immer wichtiger - als Energieressource, als Baumaterial und
@@ -42398,6 +42476,11 @@ seasons:
         episode_no: 17
         title: Vietnam - Das Schicksal der Mondbären
         title_fr: Vietnam, Au Secours des Ours Noirs d’Asie
+        continent: Asien
+        location_wikidata: Q1749057
+        coordinates:
+        - 21.5167
+        - 105.55
         description: 'Mondbär wird der bedrohte Kragenbär wegen seiner hellen
             Fellsichel mitten auf der Brust genannt. Die Galle dieser Bären
             ist in der traditionellen asiatischen Medizin ein beliebtes Heilmittel.
