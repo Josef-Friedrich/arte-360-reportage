@@ -594,7 +594,7 @@ class Episode:
         if not self.continent:
             return "#cccccc"
         if self.continent == "Afrika":
-            return "#ffffff"
+            return "#000000"
         elif self.continent == "Amerika":
             return "#ff0000"
         elif self.continent == "Asien":
@@ -1278,7 +1278,7 @@ def generate_leaflet() -> None:
     json_dump: str = Utils.dump_json(marker)
     template: str = Utils.read_text_file(".leaflet.html")
     template = template.replace("const markers = []", f"const markers = {json_dump}")
-    Utils.write_text_file("index.html", template)
+    Utils.write_text_file("karte.html", template)
 
 
 def generate_readme() -> None:

@@ -26,7 +26,7 @@
 | Titre inconnu
 |-
 |6
-|
+|🟡
 | Titre inconnu
 |-
 |7
@@ -86,7 +86,7 @@
 | Titre inconnu
 |-
 |21
-|
+|⚪️
 | Titre inconnu
 |-
 |22
@@ -217,7 +217,7 @@
 | Titre inconnu
 |-
 |12
-|
+|🟡
 | Titre inconnu
 |-
 |13
@@ -360,11 +360,11 @@
 | Titre inconnu
 |-
 |10
-|
+|⚪️
 | Titre inconnu
 |-
 |11
-|
+|🟡
 | Titre inconnu
 |-
 |12
@@ -2071,15 +2071,15 @@
 | Au Nord de l’Écosse, les Sauveteurs en Mer
 |-
 |5
-|
+|🔴
 | Canada — Les Aventures d’une Sage-Femme dans les Badlands
 |-
 |6
-|
+|🟡
 | Birmanie, les Sculpteurs de Marbre de Mandalay
 |-
 |7
-|
+|🔴
 | Canada, le Vieil Homme et la Rivière
 |-
 |8

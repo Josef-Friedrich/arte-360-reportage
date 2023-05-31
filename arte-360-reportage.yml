@@ -553,6 +553,7 @@ seasons:
         episode_no: 6
         title: Hazeras Geschäfte
         topic: Weibs-Bilder
+        continent: Asien
         location_wikidata: Q902
         coordinates:
         - 24.016667
@@ -1846,6 +1847,7 @@ seasons:
         episode_no: 21
         title: Geniale Störenfriede
         topic: Intelligenz
+        continent: Europa
         location_wikidata: Q5016352
         coordinates:
         - 55.195
@@ -3936,6 +3938,7 @@ seasons:
         episode_no: 12
         title: Im Bann der Rubine
         topic: Die Schatzjäger
+        continent: Asien
         location_wikidata: Q475281
         coordinates:
         - 12.579916666667
@@ -6137,6 +6140,7 @@ seasons:
         season_no: 3
         episode_no: 10
         title: Brücke in den Orient
+        continent: Europa
         location_wikidata: Q7784788
         coordinates:
         - 41.20323
@@ -6199,6 +6203,7 @@ seasons:
         episode_no: 11
         title: Die letzten Nixen
         subtitle: die Taucherinnen von Cheju
+        continent: Asien
         location_wikidata: Q495733
         coordinates:
         - 33.361389
@@ -46871,6 +46876,7 @@ seasons:
         episode_no: 5
         title: Kanada - Mit der Hebamme durch die Badlands
         title_fr: Canada — Les Aventures d’une Sage-Femme dans les Badlands
+        continent: Amerika
         location_wikidata: Q368241
         coordinates:
         - 50.033333
@@ -46970,6 +46976,7 @@ seasons:
         episode_no: 6
         title: Myanmar - Die Marmorkünstler von Mandalay
         title_fr: Birmanie, les Sculpteurs de Marbre de Mandalay
+        continent: Asien
         location_wikidata: Q185518
         coordinates:
         - 21.983056
@@ -47070,6 +47077,7 @@ seasons:
         episode_no: 7
         title: Der Lachszähler von Kanada
         title_fr: Canada, le Vieil Homme et la Rivière
+        continent: Amerika
         location_wikidata: Q2920600
         coordinates:
         - 53
