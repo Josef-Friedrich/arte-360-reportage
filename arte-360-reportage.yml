@@ -1075,6 +1075,7 @@ seasons:
         title: Der Geist des Vogels - Heilkraft aus dem Urwald
         alias: Heilkraft aus dem Urwald
         topic: Regenwald
+        continent: Amerika
         location_wikidata: Q183444
         coordinates:
         - -11.232286
@@ -6263,6 +6264,7 @@ seasons:
         season_no: 3
         episode_no: 12
         title: Die Fischer vom Rio Negro
+        continent: Amerika
         location_wikidata: Q118771
         coordinates:
         - -3.124444
