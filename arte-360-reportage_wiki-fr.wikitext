@@ -70,11 +70,11 @@
 | Titre inconnu
 |-
 |17
-|
+|⚫️
 | Titre inconnu
 |-
 |18
-|
+|🔴
 | Titre inconnu
 |-
 |19
@@ -94,7 +94,7 @@
 | Titre inconnu
 |-
 |23
-|
+|🔴
 | Titre inconnu
 |-
 |24
@@ -1746,11 +1746,11 @@
 | Venezuela, le Lac des Mille Éclairs
 |-
 |7
-|
+|🔵
 | Tasmanie, Pauvre Petit Diable
 |-
 |8
-|
+|⚪️
 | La Châtaigne, une Manne en Corse
 |-
 |9
@@ -1766,31 +1766,31 @@
 | Hambourg, la Ville des Cygnes
 |-
 |12
-|
+|⚪️
 | Camargue : la Guerre des Tellines
 |-
 |13
-|
+|🟡
 | La Migration des Grues au Bhoutan
 |-
 |14
-|
+|🔵
 | Bird Island — Le Paradis des Oiseaux Dans l’Antarctique
 |-
 |15
-|
+|🔴
 | Mexique, les Joueurs de Basket aux Pieds Nus
 |-
 |16
-|
+|🔴
 | Venezuela, Chasseurs de Mygales
 |-
 |17
-|
+|🔴
 | Pérou, l’Agriculture en Terrasses
 |-
 |18
-|
+|🟡
 | Cambodge, un Espoir Pour les Enfants des Rues
 |-
 |19
@@ -1802,11 +1802,11 @@
 | Mariage à la Napolitaine
 |-
 |21
-|
+|🟡
 | Yoga, Médecine Traditionnelle de l’Inde
 |-
 |22
-|
+|🟡
 | Le Dragon de Komodo
 |-
 |23

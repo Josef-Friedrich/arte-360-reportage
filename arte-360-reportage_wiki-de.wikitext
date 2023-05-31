@@ -116,133 +116,149 @@
 | EA = 1999-03-04
 | ZF = Die Kindersterblichkeit in Bhujung, einem kleinen Himalaya-Dorf, ist hoch. Eltern bringen daher viele Kinder zur Welt, in der Hoffnung, dass zumindest einige überleben und zum Familienunterhalt beitragen können. Die Bevölkerung wächst, aber auch die Armut. Um zu überleben, nutzen die Menschen den Regenwald als Ressource, was zu dessen Zerstörung führt. Das „Annapurna Conservation Area Project“ (ACAP) bezieht die Bewohner von Bhujung in Entscheidungen ein, da der Schutz des Regenwaldes ohne ihre Unterstützung nicht funktionieren kann.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 13
 | NR_ST = 13
 | OT = Copyright Natur<ref>Internetquellen zur Episode ''„Copyright Natur“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/13-vorbild-natur-copyright-natur-339129 13] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/13-vorbild-natur-copyright-natur-339129 339129], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641905 S01E13] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641905 4641905], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=tCbl1P76mxs tCbl1P76mxs]</ref>
 | Feld1 = -
 | REG = Thomas Brodbeck, Thomas Simmon
 | EA = 1999-04-05
+| ZF = Die Natur dient als Vorbild für die Konstruktion von Flugzeug-Oberflächen. Obwohl man glaubte, dass glatte Oberflächen strömungsgünstiger sind, hat der Hai eine raue Haut. Daher werden Folien mit rauer Oberfläche auf Airbusse geklebt, wodurch der Treibstoffverbrauch um drei Prozent reduziert wird. Die Bionik verbindet Biologie und Technik, um neue High-Tech-Lösungen zu entwickeln. Die Natur liefert Ideen für maximale Leistung bei minimalem Energie- und Materialverbrauch, eine Herausforderung, der sich auch die Industrie stellen muss. Millionen Tonnen Treibstoff können so auf Atlantikflügen eingespart werden.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 14
 | NR_ST = 14
 | OT = Mensch Roboter!<ref>Internetquellen zur Episode ''„Mensch Roboter!“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/14-vorbild-natur-mensch-roboter-339130 14] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/14-vorbild-natur-mensch-roboter-339130 339130], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641906 S01E14] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641906 4641906], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=vqEw-I_qCfU vqEw-I_qCfU]</ref>
 | Feld1 = -
 | REG = Thomas Brodbeck, Hartmut Vogel
 | EA = 1999-04-06
+| ZF = Roboter-Forscher nehmen sich bei der Entwicklung von Robotern oft die Natur zum Vorbild, insbesondere den Menschen. Sie studieren Lebewesen, um dieses Wissen auf ihre Roboter zu übertragen. Mikrochips, die Robotern bei der Orientierung helfen, könnten bald in die Netzhaut von Blinden implantiert werden. Die Frage bleibt, wie weit Wissenschaftler gehen werden, um Mensch und Maschine zu verschmelzen.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 15
 | NR_ST = 15
 | OT = ABC des Universums<ref>Internetquellen zur Episode ''„ABC des Universums“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/15-vorbild-natur-abc-des-universums-339131 15] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/15-vorbild-natur-abc-des-universums-339131 339131], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641907 S01E15] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641907 4641907], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=rCzm-aVuTzg rCzm-aVuTzg]</ref>
 | Feld1 = -
 | REG = Thomas Brodbeck
 | EA = 1999-04-07
+| ZF = Immer mehr Naturwissenschaftler weltweit akzeptieren die Idee, dass jedes Lebewesen den gleichen Formgebungs-Gesetzen folgt wie die gesamte Welt. Ein Beispiel dafür sind Schleimpilze, die ein Spiralmuster bilden, wenn ihnen die Nahrung knapp wird. Tausende von ihnen formen ein neues Lebewesen, das sich in Spiralen bewegt, um neue Nahrungsquellen zu erreichen. Die Spirale ist nicht nur im Mikrokosmos, sondern auch in fernen Galaxien vorhanden. Forscher hoffen, durch die Entschlüsselung dieser Muster auch die Entstehung des Lebens besser verstehen zu können. Galileo Galilei betonte bereits die Bedeutung des Verständnisses der „Sprache“ des Universums.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 16
 | NR_ST = 16
 | OT = Die Erfindung der Wirklichkeit<ref>Internetquellen zur Episode ''„Die Erfindung der Wirklichkeit“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/16-vorbild-natur-die-erfindung-der-wirklichkeit-339132 16] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/16-vorbild-natur-die-erfindung-der-wirklichkeit-339132 339132], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641908 S01E16] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641908 4641908], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=06CDuq1PtKo 06CDuq1PtKo]</ref>
 | Feld1 = -
 | REG = Thomas Brodbeck, Hartmut Vogel
 | EA = 1999-04-08
+| ZF = Ein Medizinertraum wird wahr: Vor einer Operation kann eine Computersimulation dem Arzt bereits genaue Informationen über das Organ des Patienten liefern. Durch die Kenntnis der wichtigsten Blutbahnen in der Leber kann das Programm auch kleinere Blutgefäße berechnen. Der Arzt kann die virtuelle Leber auf dem Bildschirm sehen und weiß, wo er besonders vorsichtig sein muss. Allerdings sind solche Simulationen noch selten erfolgreich. Die Realität ist oft komplexer und unberechenbar. Die Nähe zur Realität ist entscheidend für den Nutzen der Simulation.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 17
 | NR_ST = 17
 | OT = Markt der Schönheit<ref>Internetquellen zur Episode ''„Markt der Schönheit“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/17-schoenheit-markt-der-schoenheit-339310 17] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/17-schoenheit-markt-der-schoenheit-339310 339310], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641909 S01E17] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641909 4641909], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=TNonjmeywIQ TNonjmeywIQ]</ref>
 | Feld1 = -
 | REG = Juliana Ruhfus
 | EA = 1999-05-03
+| ZF = Die äthiopischen Model-Agentinnen Lina Kalifa und Natalina Pezzani kehren in ihre von Hungersnöten und Kriegen gebeutelte Heimat zurück, um neue Gesichter für die Model-Industrie zu finden. Der Markt für schwarze Models mit klassischen Gesichtszügen ist bereits übersättigt, daher suchen sie nach exotischeren Gesichtern. Obwohl einige äthiopische Schönheitsmerkmale international nicht gut ankommen, entdecken sie in Addis Abeba interessante Gesichter, die auch im Westen Erfolg haben könnten.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 18
 | NR_ST = 18
 | OT = Cuba - Von der stillen Revolte der Schönheit<ref>Internetquellen zur Episode ''„Cuba - Von der stillen Revolte der Schönheit“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/18-schoenheit-kuba-von-der-stillen-revolte-der-schoenheit-339333 18] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/18-schoenheit-kuba-von-der-stillen-revolte-der-schoenheit-339333 339333], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641910 S01E18] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641910 4641910], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=YKZbpc4kuSI YKZbpc4kuSI]</ref>
 | Feld1 = -
 | REG = Heidi E. Ewing
 | EA = 1999-05-04
+| ZF = Der Tropicana Club in Havanna war berühmt für seine schönen Tänzerinnen, aber nach der Revolution will der Club mit der Wiedereröffnung neue Schönheiten Kubas präsentieren. Der Andrang der Bewerberinnen ist groß, und ein perfekter Körper ist Voraussetzung. Früher bevorzugten die Kubaner üppige Frauen, doch jetzt sind die meisten Bewerberinnen schlanker. Die Frage ist, ob sie immer noch den gleichen Hüftschwung wie ihre Vorgängerinnen haben oder ob die Revolution das traditionelle Schönheitsideal des Landes beeinflusst hat.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 19
 | NR_ST = 19
 | OT = Das Maß der Schönheit<ref>Internetquellen zur Episode ''„Das Maß der Schönheit“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/19-schoenheit-das-mass-der-schoenheit-339334 19] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/19-schoenheit-das-mass-der-schoenheit-339334 339334], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641911 S01E19] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641911 4641911], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=LpKB8n-ejwk LpKB8n-ejwk]</ref>
 | Feld1 = -
 | REG = Tony Mason
 | EA = 1999-05-05
+| ZF = Schönheit ist subjektiv, aber weltweit gelten symmetrische Gesichtszüge als attraktiv. Säuglinge reagieren ähnlich auf schöne Gesichter. Evolutionsbiologen glauben an eine universelle Schönheit und dass wir sie instinktiv erkennen. Sie vermuten, dass Schönheit gesunde Gene signalisiert, zum Beispiel durch kräftiges Haar. Allerdings kann Schönheit nicht allein auf solche Faktoren reduziert werden. Charakter und Charme spielen eine wichtige Rolle und sollten nicht ignoriert werden.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 20
 | NR_ST = 20
 | OT = Die andere Seite der Schönheit<ref>Internetquellen zur Episode ''„Die andere Seite der Schönheit“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/20-schoenheit-die-andere-seite-der-schoenheit-339328 20] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/20-schoenheit-die-andere-seite-der-schoenheit-339328 339328], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641912 S01E20] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641912 4641912], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=tcYPNiXisX0 tcYPNiXisX0]</ref>
 | Feld1 = -
 | REG = Chris Ledger
 | EA = 1999-05-06
+| ZF = Immer mehr Menschen sind unzufrieden mit ihrem Aussehen und leiden unter Body Dysmorphic Disorder. Die Medien präsentieren unrealistische Schönheitsideale, denen kaum jemand gerecht werden kann. Einige versuchen, im Fitnessstudio jedes Gramm Fett loszuwerden, während andere sich Schönheitsoperationen unterziehen. Sogar attraktive Menschen sehen sich selbst verzerrt im Spiegel und finden sich hässlich. Diese Störung wird mit Magersucht verglichen und breitet sich aus.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 21
 | NR_ST = 21
 | OT = Geniale Störenfriede<ref>Internetquellen zur Episode ''„Geniale Störenfriede“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/21-intelligenz-geniale-stoerenfriede-339133 21] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/21-intelligenz-geniale-stoerenfriede-339133 339133], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824521 S01E21] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824521 4824521], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=9N_DwJ2fymM 9N_DwJ2fymM]</ref>
 | Feld1 = -
 | REG = Wibke Kämpfer
 | EA = 1999-07-05
+| ZF = Jessica war als Kind anders als die anderen: Sie sprach früh ganze Sätze, konnte mit zweieinhalb lesen und war intellektuell ihren Altersgenossen weit voraus. Ihre Mutter schickte sie auf das schottische Hochbegabten-Internat Cademuir, da sie von ihren Mitschülern als Streberin gemieden wurde. Etwa 2-5% der Kinder haben einen IQ über 130 und gelten als hochbegabt. Oft wird Hochbegabung nicht erkannt, was zu Unterforderung und sozialer Ausgrenzung führt. Cademuir bietet diesen Kindern eine Chance für ein neues Leben.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 22
 | NR_ST = 22
 | OT = Musik macht klug<ref>Internetquellen zur Episode ''„Musik macht klug“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/22-intelligenz-musik-macht-klug-339134 22] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/22-intelligenz-musik-macht-klug-339134 339134], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824525 S01E22] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824525 4824525], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=GdWPt-utQPM GdWPt-utQPM]</ref>
 | Feld1 = -
 | REG = Michael Richter
 | EA = 1999-07-06
+| ZF = Eine Gruppe von Kindern in einem Problem-Viertel von Los Angeles erhält Musikunterricht, der mit Meditation und Mozart beginnt. Das Experiment der Universität von Kalifornien, geleitet von Dr. Gordon Shaw, zeigt, dass Musik das räumliche Vorstellungsvermögen des Gehirns verbessert. Kinder, die Musikunterricht nehmen, schneiden auch in Mathematik-Tests besser ab. Eine Langzeitstudie in Berlin zeigt, dass Kinder, die sechs Jahre lang ein Instrument lernen, in der Schule erhebliche Leistungsverbesserungen erzielen. Musik könnte uns also tatsächlich helfen, intelligenter zu werden.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 23
 | NR_ST = 23
 | OT = „Think Tank“ - Die Schule der Affen<ref>Internetquellen zur Episode ''„„Think Tank“ - Die Schule der Affen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/23-intelligenz-think-tank-die-schule-der-affen-339157 23] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/23-intelligenz-think-tank-die-schule-der-affen-339157 339157], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824526 S01E23] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824526 4824526], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=P6QzAbgbxFg P6QzAbgbxFg]</ref>
 | Feld1 = -
 | REG = Dietrich von Ruffer
 | EA = 1999-07-07
+| ZF = Im Washingtoner Zoo gibt es den "Think Tank", eine Sprachschule für Orang-Utans. Die Forscher wollen mit den Tieren kommunizieren, um ihre Denkstrukturen zu verstehen. Rob Shumaker nutzt einen Touch-Screen-Computer, um Sprachbarrieren zu überwinden. Er zeigt Azy einen Apfel und der Orang-Utan muss das Symbol dafür auf dem Bildschirm auswählen. Shumaker glaubt, dass er den Affen keine neuen Fähigkeiten beibringt, sondern vorhandene Fähigkeiten entdeckt. Das Ziel ist es, den Orang-Utans eine Symbolsprache beizubringen, um komplexe Ausdrücke zu ermöglichen.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 24
 | NR_ST = 24
 | OT = Künstliche Intelligenz<ref>Internetquellen zur Episode ''„Künstliche Intelligenz“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/24-intelligenz-kuenstliche-intelligenz-339158 24] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/24-intelligenz-kuenstliche-intelligenz-339158 339158], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824528 S01E24] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824528 4824528], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=3rC25gW3xxk 3rC25gW3xxk]</ref>
 | Feld1 = -
 | REG = Tilman Brucker
 | EA = 1999-07-08
+| ZF = Emo ist ein von Dieter Dörner entwickeltes Computerprogramm, das Emotionen ausdrücken kann. Es gibt jedoch Skepsis darüber, ob Computer echte Gefühle haben können. Dieter Dörner ist jedoch überzeugt, dass Gefühle letztendlich nur Verknüpfungen von Informationen sind und daher auch Computer Gefühle haben können. Er hat das Programm PSI entwickelt, um das Gefühlsleben von Computern zu simulieren. Es ist eine Theorie, die besagt, dass Computer als Experten in der Informationsverarbeitung ebenfalls Gefühle haben können.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 25
 | NR_ST = 25
 | OT = Der Kaninchen-Krieg<ref>Internetquellen zur Episode ''„Der Kaninchen-Krieg“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/25-irren-ist-menschlich-der-kaninchen-krieg-339138 25] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/25-irren-ist-menschlich-der-kaninchen-krieg-339138 339138], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824530 S01E25] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824530 4824530], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=jYrt-OPNDJM jYrt-OPNDJM]</ref>
 | Feld1 = -
 | REG = Anna Cater
 | EA = 1999-09-06
+| ZF = Vor 140 Jahren wurden in Australien zwei Dutzend wilde Kaninchen eingeführt, doch nun haben sie eine überdimensionale Plage verursacht. Die Bevölkerung begann die Kaninchen zu jagen, und 1951 wurde das Myxoma-Virus eingesetzt, das 99 Prozent der Tiere tötete. Die Überlebenden entwickelten jedoch Antikörper, und die Population wuchs in den 80er Jahren auf 400 Millionen an. Ein neues Virus wurde eingesetzt, das die Kaninchen innerhalb von zwei Tagen tötet.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 26
 | NR_ST = 26
 | OT = Countdown ins Desaster<ref>Internetquellen zur Episode ''„Countdown ins Desaster“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/26-irren-ist-menschlich-countdown-ins-desaster-339139 26] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/26-irren-ist-menschlich-countdown-ins-desaster-339139 339139], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824531 S01E26] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824531 4824531], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=Re2So-kXO2E Re2So-kXO2E]</ref>
 | Feld1 = -
 | REG = Jeff Swimmer
 | EA = 1999-09-07
+| ZF = 1990 startete die NASA das Hubble-Weltraum-Teleskop, das nach 20 Jahren Forschung und 3,6 Milliarden Mark Investitionen ins All geschickt wurde. Leider waren die Aufnahmen unscharf, was das Prestige-Objekt der NASA zu einem Fiasko machte. Die beauftragten Konstruktionsfirmen hatten niedrigere Kosten berechnet, um das Projekt zu genehmigen.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 27
 | NR_ST = 27
 | OT = Liebe und andere Katastrophen<ref>Internetquellen zur Episode ''„Liebe und andere Katastrophen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/27-irren-ist-menschlich-liebe-und-andere-katastrophen-339140 27] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/27-irren-ist-menschlich-liebe-und-andere-katastrophen-339140 339140], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824532 S01E27] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824532 4824532], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=WgWcbKnYJJY WgWcbKnYJJY]</ref>
 | Feld1 = -
 | REG = Eddie Baddage
 | EA = 1999-09-08
+| ZF = Die Hochzeiten sind für viele Menschen der schönste Moment im Leben, aber fast die Hälfte der Ehen scheitert. Es ist wichtig, herauszufinden, wer zu uns passt, um Fehler in der Partnerschaft zu vermeiden. Individuelle Freiheit erschwert Kompromisse, besonders in der Ehe. Anne Foster, eine Schulrektorin, beginnt bereits im Unterricht mit der Vorbereitung auf Partnerschaften. Der Rollenwechsel der Frau und die Kindheitserfahrungen beeinflussen das Eheleben. Die Beziehungstherapeutin Janet Reibstein sieht das Hauptproblem in unserer Kommunikationskultur, da Männer weniger geübt sind, ihre eigenen Gefühle zu erkunden und auszudrücken.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 28
 | NR_ST = 28
 | OT = Verkehrte Sicherheit<ref>Internetquellen zur Episode ''„Verkehrte Sicherheit“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/28-irren-ist-menschlich-verkehrte-sicherheit-339141 28] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/28-irren-ist-menschlich-verkehrte-sicherheit-339141 339141], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824533 S01E28] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824533 4824533], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=G1M3FDyey0k G1M3FDyey0k]</ref>
 | Feld1 = -
 | REG = Steve Bowles
 | EA = 1999-09-09
+| ZF = Autos sind beliebt, aber sie fordern auch täglich 2.000 Todesopfer durch Unfälle. Psychologen sagen, dass 95 Prozent der Unfälle durch Risikobereitschaft und menschliches Versagen entstehen. Besonders junge Männer sind betroffen, da 75 Prozent der tödlichen Unfälle auf ihr Konto gehen. Tests zeigen, dass wir uns unbewusst an ein Risikolevel anpassen. Bei schlechtem Wetter oder auf engen Straßen sind wir vorsichtiger und die Unfallzahlen sinken. Psychologe Steve Stradling behauptet, dass Fehler uns helfen, unsere Grenzen zu erkennen, aber im Straßenverkehr ist es oft zu spät dafür. Wir müssen uns bewusst sein und unser Auto unter Kontrolle haben.
 }}
 {{Episodenlisteneintrag
 | NR_GES = 29
