@@ -429,6 +429,15 @@ class EpisodeData(typing.TypedDict):
         "Europa", "Amerika", "Asien", "Afrika", "Ozeanien und Pole"
     ]
 
+    location_wikidata: str
+    """Wikidata object to the main location of the episode, for example ``Q368241``"""
+
+    location_address: str
+    """for example ``HAUPTSACHE WASCHBÄR e.V. Hermannstraße 3c, 14163 Berlin``"""
+
+    coordinates: list[float]
+    """for example: ``[12.876, 104.073]``"""
+
     description: str
     """Longest and best description that can be found"""
 
@@ -452,15 +461,6 @@ class EpisodeData(typing.TypedDict):
 
     duration_sec: int
     """The duration in seconds, for example ``5243``"""
-
-    location_wikidata: str
-    """Wikidata object to the main location of the episode, for example ``Q368241``"""
-
-    location_address: str
-    """for example ``HAUPTSACHE WASCHBÄR e.V. Hermannstraße 3c, 14163 Berlin``"""
-
-    coordinates: list[float]
-    """for example: ``[12.876, 104.073]``"""
 
     fernsehserien_air_date: str
     """for example ``2020-08-09``"""

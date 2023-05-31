@@ -425,6 +425,10 @@ seasons:
         alias: Leistungsstarke Frauen Juchitan
         topic: Weibs-Bilder
         continent: Amerika
+        location_wikidata: Q4502631
+        coordinates:
+        - 16.627222
+        - -98.636667
         description: 'Die zweite Staffel von 360° - Die GEO-Reportage widmet
             sich im Februar dem vermeintlich schwachen Geschlecht - und zeigt
             dabei, daß Frauen einfach anders stark sind als Männer.In den
@@ -537,10 +541,6 @@ seasons:
         air_date: '1999-02-01'
         duration: 26
         duration_sec: 1589
-        location_wikidata: Q4502631
-        coordinates:
-        - 16.627222
-        - -98.636667
         fernsehserien_episode_no: 5
         fernsehserien_episode_slug: 5-weibs-bilder-die-maechtigen-frauen-von-juchitan-339120
         fernsehserien_episode_id: 339120
@@ -553,6 +553,10 @@ seasons:
         episode_no: 6
         title: Hazeras Geschäfte
         topic: Weibs-Bilder
+        location_wikidata: Q902
+        coordinates:
+        - 24.016667
+        - 89.866667
         description: '„Women first“ - so nennt sich ein Trend in der internationalen
             Entwicklungspolitik. Frauen werden als Zielgruppe der Hilfsorganisationen
             entdeckt: Auf Grund der traditionellen Rollenverteilung beschränkt
@@ -645,10 +649,6 @@ seasons:
         air_date: '1999-02-02'
         duration: 26
         duration_sec: 1583
-        location_wikidata: Q902
-        coordinates:
-        - 24.016667
-        - 89.866667
         fernsehserien_episode_no: 6
         fernsehserien_episode_slug: 6-weibs-bilder-hazeras-geschaefte-339123
         fernsehserien_episode_id: 339123
@@ -851,6 +851,10 @@ seasons:
         title: Die Spurensucher
         topic: Regenwald
         continent: Amerika
+        location_wikidata: Q3769
+        coordinates:
+        - 3.99886
+        - -52.99994
         description: 'Die Regenwälder, die Lungen der Erde, werden Mitte des
             nächsten Jahrhunderts ersticken, zurück bleiben dann riesige Wüsten
             - so die neuesten Prognose britischen Klimaforscher. Ist der Pessimismus
@@ -953,10 +957,6 @@ seasons:
         air_date: '1999-03-01'
         duration: 26
         duration_sec: 1583
-        location_wikidata: Q3769
-        coordinates:
-        - 3.99886
-        - -52.99994
         fernsehserien_episode_no: 9
         fernsehserien_episode_slug: 9-regenwald-die-spurensucher-339121
         fernsehserien_episode_id: 339121
@@ -969,6 +969,10 @@ seasons:
         title: Auf dem Holzweg
         topic: Regenwald
         continent: Afrika
+        location_wikidata: Q1009
+        coordinates:
+        - 7
+        - 12
         description: 'Der Schweizer Fotograf Karl Amman lebt seit 25 Jahren
             in Afrika. Er hat sich den Schutz des Regenwaldes sowie den Schutz
             der Affen zur Lebensaufgabe gemacht: „Die Primaten sind die nächsten
@@ -1058,10 +1062,6 @@ seasons:
         air_date: '1999-03-02'
         duration: 26
         duration_sec: 1652
-        location_wikidata: Q1009
-        coordinates:
-        - 7
-        - 12
         fernsehserien_episode_no: 10
         fernsehserien_episode_slug: 10-regenwald-auf-dem-holzweg-339125
         fernsehserien_episode_id: 339125
@@ -1074,6 +1074,10 @@ seasons:
         title: Der Geist des Vogels - Heilkraft aus dem Urwald
         alias: Heilkraft aus dem Urwald
         topic: Regenwald
+        location_wikidata: Q183444
+        coordinates:
+        - -11.232286
+        - -53.184815
         description: 'Der 75jährige Schamane Takuma lebt im Xingú Nationalpark
             in Brasilien. Er hat sich geschworen: „Den Weißen erzähle ich
             nichts. Die haben immer nur genommen.“ Eines Tages lernt er Marc
@@ -1163,10 +1167,6 @@ seasons:
         air_date: '1999-03-03'
         duration: 26
         duration_sec: 1583
-        location_wikidata: Q183444
-        coordinates:
-        - -11.232286
-        - -53.184815
         fernsehserien_episode_no: 11
         fernsehserien_episode_slug: 11-regenwald-der-geist-des-vogels-heilkraft-aus-dem-urwald-339126
         fernsehserien_episode_id: 339126
@@ -1179,6 +1179,10 @@ seasons:
         title: Die Pille für den Wald
         topic: Regenwald
         continent: Asien
+        location_wikidata: Q3413208
+        coordinates:
+        - 28.31
+        - 84.26
         description: 'Die Kindersterblichkeit ist hoch in dem kleinen Himalaya-Dorf
             Bhujung. Deshalb setzen Eltern möglichst viele Kinder in die Welt
             in der Hoffnung, daß wenigstens ein paar überleben und zum Familienunterhalt
@@ -1282,10 +1286,6 @@ seasons:
         air_date: '1999-03-04'
         duration: 26
         duration_sec: 1587
-        location_wikidata: Q3413208
-        coordinates:
-        - 28.31
-        - 84.26
         fernsehserien_episode_no: 12
         fernsehserien_episode_slug: 12-regenwald-die-pille-fuer-den-wald-339127
         fernsehserien_episode_id: 339127
@@ -3781,6 +3781,10 @@ seasons:
         episode_no: 12
         title: Im Bann der Rubine
         topic: Die Schatzjäger
+        location_wikidata: Q475281
+        coordinates:
+        - 12.579916666667
+        - 102.52513888889
         description: 'Die Dörfer sind verlassen, die Straßen lebensgefährlich.
             Nur Juwelen-Händler sind hier noch unterwegs. Im Niemandsland
             zwischen Thailand und Kambodscha suchen sie den Stein der Steine
@@ -3840,10 +3844,6 @@ seasons:
         air_date: '2000-03-09'
         duration: 26
         duration_sec: 1583
-        location_wikidata: Q475281
-        coordinates:
-        - 12.579916666667
-        - 102.52513888889
         fernsehserien_episode_no: 52
         fernsehserien_episode_slug: 52-die-schatzjaeger-im-bann-der-rubine-339169
         fernsehserien_episode_id: 339169
@@ -5601,6 +5601,10 @@ seasons:
         title_fr: Les Prisonniers du Désert
         topic: Überleben in der Wüste
         continent: Amerika
+        location_wikidata: Q49261
+        coordinates:
+        - 33.415
+        - -111.831389
         description: 'Im Südwesten der USA gibt man kriminellen und schwererziehbaren
             Jugendlichen eine ganz besondere zweite Chance. Sie sollen sich
             in den ausgedörrten, weiten Ebenen Arizonas bewähren. Geleitet
@@ -5652,10 +5656,6 @@ seasons:
         air_date: '2001-01-05'
         duration: 26
         duration_sec: 1589
-        location_wikidata: Q49261
-        coordinates:
-        - 33.415
-        - -111.831389
         fernsehserien_episode_no: 80
         fernsehserien_episode_slug: 80-ueberleben-in-der-wueste-wueste-auf-bewaehrung-339359
         fernsehserien_episode_id: 339359
@@ -5667,6 +5667,10 @@ seasons:
         episode_no: 5
         title: Die Baustelle des Herrn
         continent: Europa
+        location_wikidata: Q1984852
+        coordinates:
+        - 40.396667
+        - -3.484167
         description: 'Der heute 75 jährige Spanier Justo Gallego Martinez
             baut seit mittlerweile fast 40 Jahren an seiner Kirche, meist
             ohne fremde Hilfe. Schon heute ist sie 25 Meter breit und 55 Meter
@@ -5720,10 +5724,6 @@ seasons:
         air_date: '2001-03-05'
         duration: 26
         duration_sec: 1583
-        location_wikidata: Q1984852
-        coordinates:
-        - 40.396667
-        - -3.484167
         fernsehserien_episode_no: 81
         fernsehserien_episode_slug: 81-die-baustelle-des-herrn-339363
         fernsehserien_episode_id: 339363
@@ -5736,6 +5736,10 @@ seasons:
         title: Im Einsatz für den Nebelwald
         alias: Retter des Nebelwaldes
         continent: Amerika
+        location_wikidata: Q1668558
+        coordinates:
+        - 10.7
+        - -62.5
         description: 'Die Halbinsel Paria, Venezuela: traumhafte Strände,
             einzigartige Nebelwälder und eine enorme Artenvielfalt. Wilfried
             Merle und Klaus Müller gingen als Entwicklungshelfer in das Land.
@@ -5783,10 +5787,6 @@ seasons:
         air_date: '2001-03-06'
         duration: 26
         duration_sec: 1583
-        location_wikidata: Q1668558
-        coordinates:
-        - 10.7
-        - -62.5
         fernsehserien_episode_no: 82
         fernsehserien_episode_slug: 82-retter-des-nebelwaldes-339364
         fernsehserien_episode_id: 339364
@@ -5797,6 +5797,10 @@ seasons:
         season_no: 3
         episode_no: 7
         title: Hollywood auf dem Trockenen
+        location_wikidata: Q65
+        coordinates:
+        - 34.05223
+        - -118.24368
         description: 'Viele Millionenstädte leiden an akuter Wassernot. Heute
             gilt Los Angeles als Vorbild für modernes Wassermanagement.
 
@@ -5842,10 +5846,6 @@ seasons:
         air_date: '2001-03-07'
         duration: 26
         duration_sec: 1581
-        location_wikidata: Q65
-        coordinates:
-        - 34.05223
-        - -118.24368
         fernsehserien_episode_no: 83
         fernsehserien_episode_slug: 83-hollywood-auf-dem-trockenen-339361
         fernsehserien_episode_id: 339361
@@ -5857,6 +5857,10 @@ seasons:
         episode_no: 8
         title: Die Adern von Berlin
         subtitle: Der Wasserkreislauf einer Metropole
+        location_wikidata: Q64
+        coordinates:
+        - 52.516667
+        - 13.383333
         description: 'Millionen Menschen sind Tag für Tag in der Metropole
             Berlin unterwegs. Die Stadt wächst wieder zusammen und auch unterirdisch
             sind die „Mauern“ gefallen, die Absperrgitter, die einst die Kanalisation
@@ -5908,10 +5912,6 @@ seasons:
         air_date: '2001-03-08'
         duration: 26
         duration_sec: 1559
-        location_wikidata: Q64
-        coordinates:
-        - 52.516667
-        - 13.383333
         fernsehserien_episode_no: 84
         fernsehserien_episode_slug: 84-die-adern-von-berlin-der-wasserkreislauf-einer-metropole-339366
         fernsehserien_episode_id: 339366
@@ -5922,6 +5922,10 @@ seasons:
         season_no: 3
         episode_no: 9
         title: Operation Alpentunnel
+        location_wikidata: Q193002
+        coordinates:
+        - 46.6
+        - 8.765
         description: 'Am Gotthard Massiv in der Schweiz entsteht seit 1995
             der längste Eisenbahntunnel der Welt: Die 57 Kilometer lange Strecke
             durch die Alpen wird die Fahrzeit zwischen Zürich und Mailand
@@ -5967,10 +5971,6 @@ seasons:
         air_date: '2001-04-09'
         duration: 26
         duration_sec: 1583
-        location_wikidata: Q193002
-        coordinates:
-        - 46.6
-        - 8.765
         fernsehserien_episode_no: 85
         fernsehserien_episode_slug: 85-operation-alpentunnel-339367
         fernsehserien_episode_id: 339367
@@ -5982,6 +5982,10 @@ seasons:
         season_no: 3
         episode_no: 10
         title: Brücke in den Orient
+        location_wikidata: Q7784788
+        coordinates:
+        - 41.20323
+        - 29.11132
         description: 'Istanbul, eine Metropole zwischen Europa und Asien:
             Im Straßenverkehr herrscht häufig absoluter Stillstand. Denn nur
             zwei Brücken verbinden die Stadt über den Bosporus hinweg. Nun
@@ -6028,10 +6032,6 @@ seasons:
         air_date: '2001-04-10'
         duration: 26
         duration_sec: 1613
-        location_wikidata: Q7784788
-        coordinates:
-        - 41.20323
-        - 29.11132
         fernsehserien_episode_no: 86
         fernsehserien_episode_slug: 86-bruecke-in-den-orient-339368
         fernsehserien_episode_id: 339368
@@ -6044,6 +6044,10 @@ seasons:
         episode_no: 11
         title: Die letzten Nixen
         subtitle: die Taucherinnen von Cheju
+        location_wikidata: Q495733
+        coordinates:
+        - 33.361389
+        - 126.5325
         description: 'Die so genannten Haenyo - das heißt „Meerfrauen“ - auf
             der südkoreanischen Insel Jeju-do sind Frauen, die bis zu 3 Minuten
             ohne Atemgerät tauchen - oft bis zu 20 Meter tief. Sie suchen
@@ -6089,10 +6093,6 @@ seasons:
         air_date: '2001-04-11'
         duration: 26
         duration_sec: 1583
-        location_wikidata: Q495733
-        coordinates:
-        - 33.361389
-        - 126.5325
         fernsehserien_episode_no: 87
         fernsehserien_episode_slug: 87-die-letzten-nixen-die-taucherinnen-von-cheju-339401
         fernsehserien_episode_id: 339401
@@ -6103,6 +6103,10 @@ seasons:
         season_no: 3
         episode_no: 12
         title: Die Fischer vom Rio Negro
+        location_wikidata: Q118771
+        coordinates:
+        - -3.124444
+        - -59.895556
         description: 'Crispim Alves de Braga ist Fischer am Rio Negro in Amazonien.
             Er fängt Zierfische und verkauft sie zu Billigstpreisen an Händler,
             die sie weiter an Aquarienliebhaber liefern. Der 42-jährige muss,
@@ -6145,10 +6149,6 @@ seasons:
         air_date: '2001-04-12'
         duration: 26
         duration_sec: 1618
-        location_wikidata: Q118771
-        coordinates:
-        - -3.124444
-        - -59.895556
         fernsehserien_episode_no: 88
         fernsehserien_episode_slug: 88-die-fischer-vom-rio-negro-339403
         fernsehserien_episode_id: 339403
@@ -6161,6 +6161,10 @@ seasons:
         episode_no: 13
         title: Anatomie einer Lawine
         continent: Europa
+        location_wikidata: Q68097
+        coordinates:
+        - 46.809056
+        - 9.839833
         description: 'Die Alpen: ein Skiparadies für Touristen. Doch die Wintersportler
             sind auch einem großen Risiko ausgesetzt - den Schneelawinen.
             Schweizer Forscher haben es sich zur Aufgabe gemacht, die Gefahr
@@ -6206,10 +6210,6 @@ seasons:
         air_date: '2001-04-30'
         duration: 26
         duration_sec: 1583
-        location_wikidata: Q68097
-        coordinates:
-        - 46.809056
-        - 9.839833
         fernsehserien_episode_no: 89
         fernsehserien_episode_slug: 89-anatomie-einer-lawine-339407
         fernsehserien_episode_id: 339407
@@ -6223,6 +6223,10 @@ seasons:
         title: Die Erbin Gandhis
         subtitle: Widerstand gegen einen Staudamm
         continent: Asien
+        location_wikidata: Q2120392
+        coordinates:
+        - 21.830278
+        - 73.747222
         description: 'Der Sardar Sarovar Damm - die größte Staumauer Indiens
             - soll jetzt um über hundert Meter erhöht werden. Doch mit jedem
             Meter Damm ertrinkt auch ein Stück Lebensraum entlang des 1300
@@ -6271,10 +6275,6 @@ seasons:
         air_date: '2001-05-01'
         duration: 26
         duration_sec: 1580
-        location_wikidata: Q2120392
-        coordinates:
-        - 21.830278
-        - 73.747222
         fernsehserien_episode_no: 90
         fernsehserien_episode_slug: 90-die-erbin-gandhis-widerstand-gegen-einen-staudamm-339408
         fernsehserien_episode_id: 339408
@@ -46665,6 +46665,10 @@ seasons:
         episode_no: 5
         title: Kanada - Mit der Hebamme durch die Badlands
         title_fr: Canada — Les Aventures d’une Sage-Femme dans les Badlands
+        location_wikidata: Q368241
+        coordinates:
+        - 50.033333
+        - -110.666667
         description: 'Die kanadischen Badlands im Südosten Albertas - Prärie,
             soweit das Auge reicht, staubtrockene Canyons und bizarre Felstürme
             - genannt Hoodoos. Eine faszinierende, unwirklich scheinende Landschaft,
@@ -46749,10 +46753,6 @@ seasons:
         air_date: '2018-02-25'
         duration: 52
         duration_sec: 3145
-        location_wikidata: Q368241
-        coordinates:
-        - 50.033333
-        - -110.666667
         fernsehserien_episode_no: 486
         fernsehserien_episode_slug: 486-kanada-mit-der-hebamme-durch-die-badlands-1169596
         fernsehserien_episode_id: 1169596
@@ -46764,6 +46764,10 @@ seasons:
         episode_no: 6
         title: Myanmar - Die Marmorkünstler von Mandalay
         title_fr: Birmanie, les Sculpteurs de Marbre de Mandalay
+        location_wikidata: Q185518
+        coordinates:
+        - 21.983056
+        - 96.084444
         description: 'Myanmar das Land der goldenen Pagoden. Die Schönheit
             des Landes verzaubert immer wieder. Gespeist wird diese Prachtentfaltung
             aus der Verehrung Buddhas. Über 20 Meter misst die größte Marmor-Statue
@@ -46849,10 +46853,6 @@ seasons:
         air_date: '2018-03-04'
         duration: 52
         duration_sec: 3141
-        location_wikidata: Q185518
-        coordinates:
-        - 21.983056
-        - 96.084444
         fernsehserien_episode_no: 487
         fernsehserien_episode_slug: 487-myanmar-die-marmorkuenstler-von-mandalay-1171202
         fernsehserien_episode_id: 1171202
@@ -46864,6 +46864,10 @@ seasons:
         episode_no: 7
         title: Der Lachszähler von Kanada
         title_fr: Canada, le Vieil Homme et la Rivière
+        location_wikidata: Q2920600
+        coordinates:
+        - 53
+        - -128
         description: 'An der nördlichen Küste Westkanadas, wo das Meer auf
             den Regenwald des großen Bären trifft, lebt Stan Hutchings, der
             letzte „Creekwalker“ Kanadas. Seine Nachbarn sind Orcas und Buckelwale,
@@ -46978,10 +46982,6 @@ seasons:
         air_date: '2018-03-11'
         duration: 52
         duration_sec: 3125
-        location_wikidata: Q2920600
-        coordinates:
-        - 53
-        - -128
         fernsehserien_episode_no: 488
         fernsehserien_episode_slug: 488-der-lachszaehler-von-kanada-1173798
         fernsehserien_episode_id: 1173798
@@ -46994,6 +46994,10 @@ seasons:
         title: Kreta - Die süßen Früchte des Johannisbrotbaums
         title_fr: Le Caroubier, l’Or Noir de la Crète
         continent: Europa
+        location_wikidata: Q34374
+        coordinates:
+        - 35.309722
+        - 24.893333
         description: 'Auf Kreta ist der Olivenbaum allgegenwärtig. Doch es
             gibt einen anderen, uralten Baum auf der Insel, der zeitgleich
             Früchte und Blüten trägt und dessen Früchte - die Karuben, einzigartige
@@ -47068,10 +47072,6 @@ seasons:
         air_date: '2018-03-18'
         duration: 52
         duration_sec: 3145
-        location_wikidata: Q34374
-        coordinates:
-        - 35.309722
-        - 24.893333
         fernsehserien_episode_no: 489
         fernsehserien_episode_slug: 489-kreta-die-suessen-fruechte-des-johannisbrotbaums-1175560
         fernsehserien_episode_id: 1175560
@@ -59431,6 +59431,10 @@ seasons:
         title: Island, die wertvollsten Daunen der Welt
         title_fr: Islande, des plumes qui valent de l'or
         continent: Europa
+        location_wikidata: Q1464174
+        coordinates:
+        - 65.184167
+        - -13.759167
         description: 'Der Loðmundarfjörður auf Island: Außer in den wenigen
             Sommermonaten ist dieser entlegene und unbewohnte Fjord nur per
             Boot erreichbar. Hierhin zieht es den Farmer Ólafur Aðalsteinsson,
@@ -59495,10 +59499,6 @@ seasons:
         director: Marc Mühldorfer
         air_date: '2022-12-10'
         duration: 32
-        location_wikidata: Q1464174
-        coordinates:
-        - 65.184167
-        - -13.759167
         fernsehserien_air_date: '2022-12-03'
         fernsehserien_episode_no: 606
         fernsehserien_episode_slug: 606-island-die-wertvollsten-daunen-der-welt-1602943
@@ -59583,6 +59583,10 @@ seasons:
         title: Kristall - Die magische Kunst aus den Vogesen
         title_fr: Vosges, la magie du cristal
         continent: Europa
+        location_wikidata: Q22915
+        coordinates:
+        - 48.965556
+        - 7.352222
         description: 'Alles funkelt, alles strahlt: Die nördlichen Vogesen
             gelten als Wiege der Kristallherstellung in Europa. Vor allem
             drei französische Manufakturen haben Weltruhm erlangt: die Werkstätten
@@ -59654,10 +59658,6 @@ seasons:
         director: Jean-Baptiste Mathieu
         air_date: '2022-12-24'
         duration: 32
-        location_wikidata: Q22915
-        coordinates:
-        - 48.965556
-        - 7.352222
         fernsehserien_air_date: '2022-12-17'
         fernsehserien_episode_no: 608
         fernsehserien_episode_slug: 608-kristall-die-magische-kunst-aus-den-vogesen-1607754
@@ -59674,6 +59674,10 @@ seasons:
         title: Montenegro - Der Eselretter
         title_fr: Monténégro, pour l'amour des ánes
         continent: Europa
+        location_wikidata: Q23564
+        coordinates:
+        - 42.439722
+        - 19.266111
         description: 'Inzwischen sind es 59 Stuten und ein Hengst, die auf
             Darkos Eselfarm ein Zuhause haben - hoch in den Bergen, 17 Kilometer
             von Montenegros Hauptstadt Podgorica entfernt. Sie heißen Drina,
@@ -59745,10 +59749,6 @@ seasons:
         director: Galina Breitkreuz
         air_date: '2023-01-07'
         duration: 32
-        location_wikidata: Q23564
-        coordinates:
-        - 42.439722
-        - 19.266111
         fernsehserien_air_date: '2022-12-31'
         fernsehserien_episode_no: 609
         fernsehserien_episode_slug: 609-montenegro-der-eselretter-1609765
@@ -59912,6 +59912,10 @@ seasons:
         title: Albanien - Die Stimmen der Schäfer
         title_fr: Albanie, une vie de berger
         continent: Europa
+        location_wikidata: Q13047686
+        coordinates:
+        - 42.1775
+        - 20.3801
         description: 'Bastri Limoj ist Hirte im südalbanischen Bergdorf Vranisht
             und lebt mit seiner Familie, wie viele in Albanien auf dem Land,
             von dem, was er mit seinen Schafen und Ziegen erwirtschaftet.
@@ -59970,10 +59974,6 @@ seasons:
             für den Erhalt des Schäferberufs bieten.
         director: Cordula Stadter
         air_date: '2023-02-25'
-        location_wikidata: Q13047686
-        coordinates:
-        - 42.1775
-        - 20.3801
         fernsehserien_episode_no: 612
         fernsehserien_episode_slug: 612-albanien-die-stimmen-der-schaefer-1618464
         fernsehserien_episode_id: 1618464
@@ -59984,6 +59984,10 @@ seasons:
         title: Laos - Futterblöcke und Büffel-Leasing
         title_fr: Les buffles, l’avenir pour le Laos ?
         continent: Asien
+        location_wikidata: Q819
+        coordinates:
+        - 21.754
+        - 102.156
         description: 'Ein junges Team von Tierspezialisten will die Büffel
             in Laos aufpäppeln - mit Futterblöcken, entwickelt von australischen
             Wissenschaftlern. Mit ihrer Hilfe können die Büffel zum ersten
@@ -60069,10 +60073,6 @@ seasons:
             und irreversible Schäden durch Mangelernährung abzuwenden.
         director: Joanna Michna
         air_date: '2023-03-04'
-        location_wikidata: Q819
-        coordinates:
-        - 21.754
-        - 102.156
         fernsehserien_episode_no: 613
         fernsehserien_episode_slug: 613-laos-futterbloecke-und-bueffel-leasing-1620347
         fernsehserien_episode_id: 1620347
@@ -60083,6 +60083,10 @@ seasons:
         title: Freiheit auf Pferderücken - Der lange Weg der Nez Perce
         title_fr: Nez-Percés, chevauchée pour la liberté
         continent: Amerika
+        location_wikidata: Q351
+        coordinates:
+        - 44.596445
+        - -110.547196
         description: 'Auf diesen Moment haben Jon, Rosa und Jack Yearout,
             Häuptling Emmit Taylor, Abigail und Davie Joe Whitman sowie gut
             20 andere Mitglieder des Stammes der Nez Perce lange gewartet:
@@ -60136,10 +60140,6 @@ seasons:
             Ahnen tragen.
         director: Michael Schumacher
         air_date: '2023-03-11'
-        location_wikidata: Q351
-        coordinates:
-        - 44.596445
-        - -110.547196
         fernsehserien_episode_no: 614
         fernsehserien_episode_slug: 614-freiheit-auf-pferderuecken-der-lange-weg-der-nez-perce-1621705
         fernsehserien_episode_id: 1621705
@@ -60151,6 +60151,10 @@ seasons:
         title_fr: Péloponnèse, la pasionaria de l'agroforesterie
         alias: Peloponnes - Die Pioniere des Waldgartens
         continent: Europa
+        location_wikidata: Q78967
+        coordinates:
+        - 37.349722
+        - 22.352222
         description: 'Inmitten der traditionell durch Monokulturen geprägten
             Ebenen des Peloponnes gibt es eine wahre Oase der Biodiversität.
             Möglich gemacht wurde das von Sheila Darmos, einer jungen Deutsch-Griechin.
@@ -60197,10 +60201,6 @@ seasons:
             die Landwirtschaft zu schaffen.
         director: Marie-Laure Daguenel
         air_date: '2023-03-18'
-        location_wikidata: Q78967
-        coordinates:
-        - 37.349722
-        - 22.352222
         fernsehserien_episode_no: 615
         fernsehserien_episode_slug: 615-peloponnes-rueckkehr-zur-erde-1623768
         fernsehserien_episode_id: 1623768
@@ -60211,6 +60211,10 @@ seasons:
         title: Handgemacht in Laos - Rares aus Rattan
         title_fr: Laos, la vannerie dans tous ses états
         continent: Asien
+        location_wikidata: Q190165
+        coordinates:
+        - 19.893056
+        - 102.138056
         description: 'Seit jeher wird Rattan in Asien vielseitig verwendet:
             zur Herstellung von Möbeln, Korbwaren, Wandverkleidungen und Sportbällen.
             Auch im Zentrum von Laos gedeiht die stachelige Rattanpalme. Wild
@@ -60272,10 +60276,6 @@ seasons:
             um die Produktivität der Rattanfertigung ihres Dorfes zu erhöhen.
         director: Martin Schacht
         air_date: '2023-03-25'
-        location_wikidata: Q190165
-        coordinates:
-        - 19.893056
-        - 102.138056
         fernsehserien_episode_no: 616
         fernsehserien_episode_slug: 616-handgemacht-in-laos-rares-aus-rattan-1625195
         fernsehserien_episode_id: 1625195
@@ -60286,6 +60286,10 @@ seasons:
         title: Leben mit dem Tod - Ahnenkult auf Sulawesi
         title_fr: Toraja, le peuple qui fait vivre ses morts
         continent: Asien
+        location_wikidata: Q3812
+        coordinates:
+        - -2
+        - 121
         description: 'Im Norden der Insel Sulawesi leitet Isac die Arbeiter
             an, die seit Wochen damit beschäftigt sind, ein provisorisches
             Dorf für die Bestattungsfeierlichkeiten seiner Mutter zu bauen.
@@ -60343,10 +60347,6 @@ seasons:
             Zeremonie ins Jenseits geleitet.
         director: Myriam Bou-Saha
         air_date: '2023-05-06'
-        location_wikidata: Q3812
-        coordinates:
-        - -2
-        - 121
         fernsehserien_episode_no: 617
         fernsehserien_episode_slug: 617-leben-mit-dem-tod-ahnenkult-auf-sulawesi-1634635
         fernsehserien_episode_id: 1634635
@@ -60356,6 +60356,11 @@ seasons:
         title: Die Waschbären von Berlin
         title_fr: Les ratons laveurs, nos nouveaux voisins?
         continent: Europa
+        location_address: HAUPTSACHE WASCHBÄR e.V. Hermannstraße 3c, 14163
+            Berlin
+        coordinates:
+        - 52.44537
+        - 13.23854
         description: 'Es fing alles harmlos an: Als der Berliner Tierärztin
             Mathilde Laininger zwei verwaiste Waschbären in die Praxis gebracht
             wurden, nahm sie die Tiere bei sich auf. Weil Waschbären jedoch
@@ -60433,11 +60438,6 @@ seasons:
             Waschbär zu ermöglichen.
         director: Maja Dielhenn
         air_date: '2023-05-20'
-        location_address: HAUPTSACHE WASCHBÄR e.V. Hermannstraße 3c, 14163
-            Berlin
-        coordinates:
-        - 52.44537
-        - 13.23854
         fernsehserien_episode_no: 618
         fernsehserien_episode_slug: 618-die-waschbaeren-von-berlin-1640104
         fernsehserien_episode_id: 1640104
@@ -60446,6 +60446,10 @@ seasons:
         episode_no: 11
         title: Rapa Nui - Gladiatoren der Südsee
         continent: Asien
+        location_wikidata: Q14452
+        coordinates:
+        - -27.119444
+        - -109.354722
         description: 'Im Jahr 1722 wurde die Osterinsel von dem niederländischen
             Seefahrer Jakob Roggeveen entdeckt, an einem Ostersonntag, daher
             der Name. Damals lebten aber schon seit gut tausend Jahren polynesische
@@ -60515,10 +60519,6 @@ seasons:
             Tau'a-Triathlon konzentriert.
         director: J. Michael Schumacher
         air_date: '2023-06-24'
-        location_wikidata: Q14452
-        coordinates:
-        - -27.119444
-        - -109.354722
         fernsehserien_episode_no: 619
         fernsehserien_episode_slug: 619-rapa-nui-gladiatoren-der-suedsee-1645452
         fernsehserien_episode_id: 1645452
@@ -60527,6 +60527,10 @@ seasons:
         episode_no: 12
         title: Kambodschas schwimmende Dörfer - Umzug am Tonle Sap
         continent: Asien
+        location_wikidata: Q199938
+        coordinates:
+        - 12.876
+        - 104.073
         description: 'Um bis zu acht Meter schwankt der Wasserstand des Tonle
             Sap-Sees. Zur Trockenzeit im Februar und März sinkt der Pegel
             stark. In Ufernähe tauchen Wälder aus dem Wasser auf, durch die
@@ -60582,10 +60586,6 @@ seasons:
             leben.
         director: Martin Schacht
         air_date: '2023-07-01'
-        location_wikidata: Q199938
-        coordinates:
-        - 12.876
-        - 104.073
         fernsehserien_episode_no: 620
         fernsehserien_episode_slug: 620-kambodschas-schwimmende-doerfer-umzug-am-tonle-sap-1646559
         fernsehserien_episode_id: 1646559
