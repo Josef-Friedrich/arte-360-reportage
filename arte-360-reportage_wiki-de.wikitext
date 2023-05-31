@@ -69,7 +69,7 @@
 | Feld1 = -
 | REG = Maren Niemeyer
 | EA = 1999-02-03
-| ZF = Die Pille brachte Frauen eine sexuelle Revolution. Eine neue Revolution steht bevor: Könnte die Reproduktionsmedizin Frauen in Zukunft für die Geburt überflüssig machen? Heute können Eizellen und Spermien nach dem Tod zur Kinderzeugung verwendet werden. Die Wissenschaft überwindet biologische Grenzen, wie z.B. durch künstliche Gebärmütter für Tierfeten. In der Humanmedizin gibt es noch viele Möglichkeiten, aber nationale Gesetze setzen Grenzen. Frauen in verschiedenen Stadien ihres Lebenszyklus sehen ihre Rolle unterschiedlich. In den USA gründeten Homosexuelle und ältere Frauen eine Initiative für das Klonen, um ihren Kinderwunsch zu erfüllen.
+| ZF = Die Pille brachte Frauen eine sexuelle Revolution. Eine neue Revolution steht bevor: Könnte die Reproduktionsmedizin Frauen in Zukunft für die Geburt überflüssig machen? Heute können Eizellen und Spermien nach dem Tod zur Kinderzeugung verwendet werden. Die Wissenschaft überwindet biologische Grenzen, wie z. B. durch künstliche Gebärmütter für Tierfeten. In der Humanmedizin gibt es noch viele Möglichkeiten, aber nationale Gesetze setzen Grenzen. Frauen in verschiedenen Stadien ihres Lebenszyklus sehen ihre Rolle unterschiedlich. In den USA gründeten Homosexuelle und ältere Frauen eine Initiative für das Klonen, um ihren Kinderwunsch zu erfüllen.
 }}
 {{Episodenlisteneintrag2
 | NR_GES = 8
@@ -213,7 +213,7 @@
 | Feld1 = -
 | REG = Dietrich von Ruffer
 | EA = 1999-07-07
-| ZF = Im Washingtoner Zoo gibt es den "Think Tank", eine Sprachschule für Orang-Utans. Die Forscher wollen mit den Tieren kommunizieren, um ihre Denkstrukturen zu verstehen. Rob Shumaker nutzt einen Touch-Screen-Computer, um Sprachbarrieren zu überwinden. Er zeigt Azy einen Apfel und der Orang-Utan muss das Symbol dafür auf dem Bildschirm auswählen. Shumaker glaubt, dass er den Affen keine neuen Fähigkeiten beibringt, sondern vorhandene Fähigkeiten entdeckt. Das Ziel ist es, den Orang-Utans eine Symbolsprache beizubringen, um komplexe Ausdrücke zu ermöglichen.
+| ZF = Im Washingtoner Zoo gibt es den „Think Tank“, eine Sprachschule für Orang-Utans. Die Forscher wollen mit den Tieren kommunizieren, um ihre Denkstrukturen zu verstehen. Rob Shumaker nutzt einen Touch-Screen-Computer, um Sprachbarrieren zu überwinden. Er zeigt Azy einen Apfel und der Orang-Utan muss das Symbol dafür auf dem Bildschirm auswählen. Shumaker glaubt, dass er den Affen keine neuen Fähigkeiten beibringt, sondern vorhandene Fähigkeiten entdeckt. Das Ziel ist es, den Orang-Utans eine Symbolsprache beizubringen, um komplexe Ausdrücke zu ermöglichen.
 }}
 {{Episodenlisteneintrag2
 | NR_GES = 24
