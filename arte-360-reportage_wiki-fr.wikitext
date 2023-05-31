@@ -1362,27 +1362,27 @@
 | Guadeloupe, le Meilleur Rhum du Monde
 |-
 |19
-|
+|🟡
 | Les derniers orangs-outangs de Sumatra
 |-
 |20
-|
+|🟡
 | Les Moines Bouddhistes de Kalmoukie
 |-
 |21
-|
+|⚪️
 | Sur la Trace du Lynx Ibérique
 |-
 |22
-|
+|🟡
 | Palawan: L’Enfer des Prisonniers
 |-
 |23
-|
+|🔴
 | Sur les Ailes du Condor des Andes
 |-
 |24
-|
+|⚪️
 | Les Chiens Sauveteurs du Lac de Garde
 |-
 |25
@@ -1390,7 +1390,7 @@
 | Le Troubadour d’Azerbaïdjan
 |-
 |26
-|
+|⚪️
 | Florence, le Foot Dans le Sang
 |-
 |27
@@ -1512,7 +1512,7 @@
 | Les Îles Shetland, la Force du Vent
 |-
 |3
-|
+|🔴
 | Le Mezcal, Eau-de-Vie Mexicaine
 |-
 |4

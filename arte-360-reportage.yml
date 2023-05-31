@@ -27434,6 +27434,11 @@ seasons:
         episode_no: 19
         title: Sumatras letzte Orang-Utans
         title_fr: Les derniers orangs-outangs de Sumatra
+        continent: Asien
+        location_wikidata: Q3492
+        coordinates:
+        - 0
+        - 102
         description: 'Nur noch etwa 6000 Orang Utans leben heute auf Sumatra.
             Pessimistischen Schätzungen zufolge stehen die Chancen für die
             bedrohte Art, die nächsten zehn Jahre zu überleben, sehr schlecht.
@@ -27554,6 +27559,11 @@ seasons:
         episode_no: 20
         title: Kalmückien - Die Rückkehr der Mönche
         title_fr: Les Moines Bouddhistes de Kalmoukie
+        continent: Asien
+        location_wikidata: Q3977
+        coordinates:
+        - 46.316666666667
+        - 44.266666666667
         description: 'Sanan Matvenov ist erst 26 Jahre alt, doch seit seinem
             13. Lebensjahr studiert er die Lehre Buddhas. Mit sieben anderen
             Mönchen im Alter von 16 bis 26 Jahren lebt er im Goldenen Tempel
@@ -27678,6 +27688,11 @@ seasons:
         episode_no: 21
         title: Auf der Spur des spanischen Luchses
         title_fr: Sur la Trace du Lynx Ibérique
+        continent: Europa
+        location_wikidata: Q463141
+        coordinates:
+        - 37.02
+        - -6.44
         description: 'Der Iberische Pardelluchs steht kurz vor dem Aussterben.
             Es wäre die erste Raubkatzenart seit dem Säbelzahntiger vor 10.000
             Jahren, die von der Erde verschwindet - ausgerechnet in Europa,
@@ -27700,17 +27715,18 @@ seasons:
             zeigt Wirkung: Die Population des Pardelluchses konnte sich in
             den letzten Jahren fast wieder verdoppeln, auf rund 250 Tiere.
             Trotzdem ist diese Zahl noch immer zu niedrig, um den Genpool
-            der Katzenart dauerhaft als gesund zu bezeichnen. Aufklärungsarbeit,
-            Bau von Luchsbrücken und Tunneln - all dies und etliche Freilandmaßnahmen
-            kosten viel Geld, sollen aber helfen, mittelfristig neue Siedlungsgebiete
-            zu erschließen und die Abwanderung der Luchse zu ermöglichen.
-            Denn das Hauptproblem, speziell der Doñana-Luchse, ist die Inzucht.
-            Schon seit 1997 kämpft Miguel Ángel Simón als Direktor für das
-            Überleben der Iberischen Luchse. Nun will er mit seinen Mitarbeitern
-            Luchse in einem Gebiet aussetzen, in dem die Tiere heute nicht
-            mehr vorkommen. Auf einer riesigen Finca sollen sie ein eigenes,
-            intaktes Revier gründen. Glückt das Vorhaben, hätte es Beispielwirkung
-            für die Zukunft.'
+            der Katzenart dauerhaft als gesund zu bezeichnen.
+
+            Aufklärungsarbeit, Bau von Luchsbrücken und Tunneln - all dies
+            und etliche Freilandmaßnahmen kosten viel Geld, sollen aber helfen,
+            mittelfristig neue Siedlungsgebiete zu erschließen und die Abwanderung
+            der Luchse zu ermöglichen. Denn das Hauptproblem, speziell der
+            Doñana-Luchse, ist die Inzucht. Schon seit 1997 kämpft Miguel
+            Ángel Simón als Direktor für das Überleben der Iberischen Luchse.
+            Nun will er mit seinen Mitarbeitern Luchse in einem Gebiet aussetzen,
+            in dem die Tiere heute nicht mehr vorkommen. Auf einer riesigen
+            Finca sollen sie ein eigenes, intaktes Revier gründen. Glückt
+            das Vorhaben, hätte es Beispielwirkung für die Zukunft.'
         description_fernsehserien: 'Um die Jahrtausendwende wäre der Iberische
             Pardelluchs, die kleine Schwesterart des eurasischen Luchses,
             um ein Haar ausgestorben. Bevölkerten noch vor wenigen Jahrzehnten
@@ -27784,6 +27800,11 @@ seasons:
         episode_no: 22
         title: Palawan - das Dorf der Gefangenen
         title_fr: 'Palawan: L’Enfer des Prisonniers'
+        continent: Asien
+        location_wikidata: Q1061269
+        coordinates:
+        - 9.5
+        - 118.5
         description: 'Palawan - ein Inselparadies der Philippinen. Doch hinter
             weißen Stränden, Korallenriffen und Palmen verbirgt sich seit
             über hundert Jahren eine grüne Hölle: die Iwahig-Strafkolonie.
@@ -27895,6 +27916,11 @@ seasons:
         episode_no: 23
         title: Der Andenkondor - König der Lüfte
         title_fr: Sur les Ailes du Condor des Andes
+        continent: Amerika
+        location_wikidata: Q5456
+        coordinates:
+        - -32.65333333
+        - -70.01166667
         description: 'Mit drei Meter Flügelspanne ist der Anden-Kondor der
             größte flugfähige Vogel Südamerikas - und einer der elegantesten
             der Welt. Mehrere Hunderte Kilometer kann er am Tag zurücklegen,
@@ -28018,6 +28044,11 @@ seasons:
         episode_no: 24
         title: Die Rettungshunde vom Gardasee
         title_fr: Les Chiens Sauveteurs du Lac de Garde
+        continent: Europa
+        location_wikidata: Q6414
+        coordinates:
+        - 45.633333333333
+        - 10.666666666667
         description: 'Am malerischen Gardasee beginnt Ende der 1980er Jahre
             die Erfolgsgeschichte der weltweit einzigartigen Wasserrettungshunde-Staffel,
             der Cani Salvataggio. Ertrinken ist nach Verkehrsunfällen weltweit
@@ -28140,6 +28171,10 @@ seasons:
         title: Aserbaidschans fahrende Hochzeitmusikanten
         title_fr: Le Troubadour d’Azerbaïdjan
         alias: Mit dem Wanderbarden durch Aserbaidschan
+        location_wikidata: Q228811
+        coordinates:
+        - 38.753611111111
+        - 48.851111111111
         description: 'Auf den sattgrünen Hochebenen des Kleinen Kaukasus in
             Aserbaidschan ist die Moderne noch nicht angekommen. Hier liegt
             die Heimat des 40-jährigen Nemet Gasimli, der schon als kleiner
@@ -28266,6 +28301,11 @@ seasons:
         episode_no: 26
         title: Florenz - Fußball bis aufs Blut
         title_fr: Florence, le Foot Dans le Sang
+        continent: Europa
+        location_wikidata: Q2044
+        coordinates:
+        - 43.771388888889
+        - 11.254166666667
         description: 'Florenz, die Wiege der Renaissance, ist alljährlich
             Reiseziel für Millionen von Touristen aus aller Welt. Die toskanische
             Metropole läuft dadurch Gefahr, ihre Ursprünglichkeit und Identität
@@ -31429,6 +31469,11 @@ seasons:
         episode_no: 3
         title: Mezcal, Hochprozentiges aus Mexiko
         title_fr: Le Mezcal, Eau-de-Vie Mexicaine
+        continent: Amerika
+        location_wikidata: Q34110
+        coordinates:
+        - 16.898055555556
+        - -96.414166666667
         description: 'In Mexico gilt er als hochprozentiges Geschenk der Götter:
             der Mezcal. Im Rest der Welt ist das Muttergetränk des Tequila
             vor allem durch die Raupe bekannt, die der Flasche beigefügt ist.
