@@ -56389,6 +56389,10 @@ seasons:
         title: Italien - Die Igel-Retter aus dem Piemont
         title_fr: Italie, un refuge pour hérissons
         continent: Europa
+        location_wikidata: Q5968
+        coordinates:
+        - 44.383333333333
+        - 7.55
         description: 'In seinem Job hat Massimo Vacchetta schon fast alles
             an tierischen Patienten behandelt. Bis die kleine Ninna das Herz
             des Tierarztes so sehr berührte, dass er sich fortan der Rettung
@@ -56491,6 +56495,10 @@ seasons:
         title: 'Dolomiten: Die Bergführer von San Martino'
         title_fr: Dolomites, la passion de l'alpinisme
         continent: Europa
+        location_wikidata: Q381662
+        coordinates:
+        - 46.266666666667
+        - 11.866666666667
         description: 'Der Aquile di San Martino („Adler von San Martino“)
             ist der berühmteste und älteste Bergsteigerverein der Dolomiten.
             Die 1881 gegründete Truppe bekam ihren Namen einst für ihre außergewöhnliche
@@ -56574,6 +56582,10 @@ seasons:
         title: Die Lowrider-Ladies von L.A.
         title_fr: Los Angeles, les reines du lowriding
         continent: Amerika
+        location_wikidata: Q65
+        coordinates:
+        - 34.05223
+        - -118.24368
         description: 'Auf Kaliforniens Straßen sind sie ein echter Hingucker:
             Lowrider - tiefer gelegte, alte Straßenkreuzer. Sie können auf
             drei Rädern fahren und krachend abheben. Am Steuer der kultigen
@@ -56680,6 +56692,10 @@ seasons:
         title: Tapire - Die Dschungel-Gärtner
         title_fr: Le tapir, jardinier des forêts tropicales
         continent: Amerika
+        location_wikidata: Q3274
+        coordinates:
+        - 12.154372222222221
+        - -86.27376944444444
         description: 'Einst bevölkerten sie die Wälder des ganzen amerikanischen
             Kontinents, heute leben sie nur noch in wenigen Regionen Mittel-
             und Südamerikas: Tapire. Die urzeitlich anmutenden Tiere mit ihrem
@@ -56800,6 +56816,10 @@ seasons:
         title: Faszination Elbrus - Der Ritt zum Gipfel
         title_fr: Caucase, chevauchèe vers le mont elbrouz
         continent: Asien
+        location_wikidata: Q43105
+        coordinates:
+        - 43.345833333333
+        - 42.448611111111
         description: 'Karachai-Pferde sind die wohl legendärsten Nutztiere
             im Süden Russlands. Über Jahrhunderte wurde die robuste Rasse
             im Kaukasus erfolgreich gezüchtet. Trotzdem galt sie vor rund
@@ -56945,6 +56965,10 @@ seasons:
         title: Namibias Geparden - Hoffnung für die Raubkatzen
         title_fr: Namibie, l'espoir renait pour les guépards
         continent: Afrika
+        location_wikidata: Q675633
+        coordinates:
+        - -18.785278
+        - 16.263889
         description: 'Ob Kalahari, Namib oder Etosha: Namibia verfügt über
             eine Fülle von Schutzgebieten und Tierreservaten. Davon profitieren
             auch die Raubkatzen. Es gibt schätzungsweise noch 8.000 Geparden,
@@ -57065,6 +57089,10 @@ seasons:
         title: Haute Couture - Federn, Falten, Seidenblumen
         alias: Federn, Falten, Seidenblumen - Die Geheimnisse der Haute Couture
         continent: Europa
+        location_wikidata: Q90
+        coordinates:
+        - 48.85666666666667
+        - 2.352222222222222
         description: 'Paris ist die Wiege der Haute Couture, der gehobenen
             Schneiderkunst. Hier entstehen edle Roben und extravagante Designs,
             gefertigt ausschließlich in Handarbeit von den Kunsthandwerkern
@@ -57165,6 +57193,10 @@ seasons:
         title: Die Odyssee der Mönchsrobbe
         title_fr: L'Odyssèe du phoque moine
         continent: Europa
+        location_wikidata: Q178488
+        coordinates:
+        - 38.265
+        - 20.5525
         description: 'Robben gibt es auch dort, wo man sie nicht unbedingt
             vermuten würde: im Mittelmeer. Um zu überleben, verstecken sie
             sich oft in unzugänglichen Höhlen. Für einen besseren Schutz dieser
@@ -57276,6 +57308,10 @@ seasons:
         title: Elsass - Land der Orgeln
         title_fr: Alsace, terre d'orgues
         continent: Europa
+        location_wikidata: Q22891
+        coordinates:
+        - 48.488055555556
+        - 7.7158333333333
         description: 'In keiner Region Frankreichs gibt es mehr Orgeln als
             im Elsass, von fast 8000 im ganzen Land finden sich allein im
             Elsass 1250. Die „Königin der Instrumente“ scheint mit ihren mächtigen
@@ -57387,6 +57423,10 @@ seasons:
         title: Wilde Waterkant - Nordfriesland und seine Gänse
         title_fr: Mer du nord, le retour des oies sauvages
         continent: Europa
+        location_wikidata: Q1965925
+        coordinates:
+        - 54.456
+        - 8.646
         description: 'Die Gänse kommen! Für Naturschützer Martin Kühn ein
             Grund zum Jubeln. Riesige Schwärme lassen sich jeden April in
             Nordfriesland nieder, bevor es weitergeht in die arktischen Brutgebiete.
@@ -57475,6 +57515,10 @@ seasons:
         title: Die Puppen tanzen! - Litauens rollendes Theater
         title_fr: Lituanie, l'art des marionnettes
         continent: Europa
+        location_wikidata: Q1719466
+        coordinates:
+        - 55.725
+        - 24.363888888889
         description: 'Puppentheater hat in den Ländern Osteuropas eine lange
             Tradition, auch in Litauen. Die rollende Bühne aus Panevėžys tourt
             jeden Sommer durch entlegenste Dörfer. In diesem Jahr ist Daniel
@@ -57580,6 +57624,10 @@ seasons:
         title: Südkorea - die Nonne der Tempelküche
         title_fr: Temple Food, l’âme de la cuisine coréenne
         continent: Asien
+        location_wikidata: Q5520399
+        coordinates:
+        - 35.7665
+        - 129.337
         description: 'Fernab der südkoreanischen Metropole Seoul befindet
             sich der buddhistische Gameunsa-Tempel. Hier leben, beten und
             kochen drei Nonnen miteinander, die es sich zum Ziel gesetzt haben,
@@ -57713,6 +57761,11 @@ seasons:
         title: Schwerelos im Windkanal
         title_fr: Portès par le vent, le vol en soufflerie
         continent: Europa
+        location_wikidata: Q118896714
+        location_address: Via Gabriele D’Annunzio, 23, 20016 Pero MI, Italia
+        coordinates:
+        - 45.51445
+        - 9.08882
         description: 'Der Traum vom Fliegen - im größten Indoor-Windtunnel
             Europas bei Mailand wird er Realität. Freifallsimulatoren wurden
             ursprünglich für die Luft- und Raumfahrt entwickelt. Inzwischen
@@ -57814,6 +57867,10 @@ seasons:
         title_fr: Le trèsor du jardinier
         alias: Die kleinen Schätze in Frankreichs Gärten
         continent: Europa
+        location_wikidata: Q16994
+        coordinates:
+        - 47.4175
+        - -0.855
         description: 'Die Region Pays de la Loire in Westfrankreich gehört
             zu den grünsten Gegenden des Landes mit einer besonders traditionsreichen
             Gartenkultur. Serge Denoix ist Gärtner aus Leidenschaft und interessiert
@@ -57908,6 +57965,10 @@ seasons:
         title: Europas Urwälder - Ein Schatz der Natur
         title_fr: Forêts primaires, le poumon vert de l'europe
         continent: Europa
+        location_wikidata: Q615771
+        coordinates:
+        - 42.44166666666667
+        - 19.8125
         description: 'Verborgen in schwer zugänglichen Winkeln Europas konnten
             letzte Urwälder überdauern: von Menschen weitgehend unberührt
             und kaum erforscht. Auf einer abenteuerlichen Expedition in die
@@ -58017,6 +58078,10 @@ seasons:
         title_fr: Loups et cerfs à l'ombre des blindès
         alias: Zwischen Naturschutz und Panzern - Bayerns wilder Schießplatz
         continent: Europa
+        location_wikidata: Q2456565
+        coordinates:
+        - 49.7167
+        - 11.9
         description: 'Es wird fast rund um die Uhr scharf geschossen - auf
             dem Truppenübungsplatz der US-Streitkräfte im oberpfälzischen
             Grafenwöhr. Kaum vorstellbar, dass sich in diesem riesigen, scheinbar
@@ -58122,6 +58187,10 @@ seasons:
         title_fr: Le béhourd, l'art du combat médiéval
         alias: Ganz ritterlich - Kastiliens Kämpfer
         continent: Europa
+        location_wikidata: Q5748
+        coordinates:
+        - 39.500011111111
+        - -3.0000333333333
         description: 'Ein kurioses Spektakel: In historischer Ritterrüstung,
             mit Schwertern, Äxten und Hellebarden bewaffnet, treten Männer
             und Frauen in Duellen oder als Mannschaft gegeneinander an. Der
@@ -58237,6 +58306,10 @@ seasons:
         title: Nopal, der Alleskönner aus Mexiko
         title_fr: Cactus, l'or vert du mexique
         continent: Amerika
+        location_wikidata: Q936087
+        coordinates:
+        - 19.192222222222
+        - -99.023055555556
         description: 'Der Feigenkaktus Nopal ist Mexikos Wahrzeichen und in
             der mexikanischen Küche allgegenwärtig. In engen Reihen wächst
             er zum Beispiel an den Hängen von Milpa Alta, dem südlichsten
@@ -58363,6 +58436,10 @@ seasons:
         title: Tempo und Leidenschaft - Argentiniens Polo-Spielerinnen
         title_fr: Argentine, le polo au féminin
         continent: Amerika
+        location_wikidata: Q253247
+        coordinates:
+        - -34.294144444444
+        - -59.099266666667
         description: 'Argentinien, das Land des Polospiels, eines traditionell
             männlich dominierten Sports. Einmal im Jahr findet in Buenos Aires
             das weltberühmte Abierto de Palermo statt, das bedeutendste internationale
@@ -58466,6 +58543,10 @@ seasons:
         title: 'Kourou: Palmen, Raketen, Gefängnisinseln'
         title_fr: Kourou, des bagnes et des fusées
         continent: Amerika
+        location_wikidata: Q220385
+        coordinates:
+        - 5.29389
+        - -52.5833
         description: 'Mehr als hundert Jahre war das Überseegebiet Französisch-Guayana
             an der Küste Südamerikas ein Schreckensort für Gefangene. Heute
             sind von den Zuchthäusern nur noch Ruinen übrig, die aufwendig
@@ -58563,6 +58644,10 @@ seasons:
         title: Las Fallas - Valencias feurige Fiesta
         title_fr: Las fallas de Valencia, l’insolence à l’honneur
         continent: Europa
+        location_wikidata: Q8818
+        coordinates:
+        - 39.47
+        - -0.3763888888888889
         description: 'Las Fallas de Valencia sind eine Mischung aus Frühlingsfest
             und Karneval - sie verwandeln die drittgrößte Stadt Spaniens jedes
             Jahr in einen gigantischen Party-Hotspot. Künstler wie Mario Gual
@@ -58674,6 +58759,10 @@ seasons:
         title: Das Gerichtsschiff vom Amazonas
         title_fr: Le tribunal flottant de l'amazone
         continent: Amerika
+        location_wikidata: Q10264912
+        coordinates:
+        - 0.13443
+        - -50.42588
         description: 'Der brasilianische Staat weiß bis heute nicht genau,
             wie viele Menschen am Amazonas leben, denn viele haben weder Pass
             noch Geburtsurkunde. Die Menschen haben keinen Zugang zur Justiz.
@@ -58723,6 +58812,10 @@ seasons:
         title_fr: Inde, vaincre les gourous
         alias: 'Der Science-Van on Tour: Indien - Kampf den Scharlatanen'
         continent: Asien
+        location_wikidata: Q1156
+        coordinates:
+        - 19.075833333333332
+        - 72.8775
         description: 'Indien ist das Land der Spiritualität - doch es gibt
             Widerstand gegen gefährlichen Aberglauben. Gefahren reichen von
             harmlosen Trickbetrügereien bis zu schweren seelischen Misshandlungen
