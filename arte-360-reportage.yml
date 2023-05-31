@@ -54909,6 +54909,10 @@ seasons:
         title: Tradition am Steilhang - Die Schweiz und ihre Wildheuer
         title_fr: La fenaison en montagne, une tradition Suisse
         continent: Europa
+        location_wikidata: Q12404
+        coordinates:
+        - 46.783333333333
+        - 8.6166666666667
         description: 'Im Schweizer Kanton Uri pflegen die Bauern an den fast
             senkrechten Steilhängen eine gefährliche Tradition: das Wildheuen.
             Seit Jahrhunderten mähen sie hier in den Alpen das Gras für ihre
@@ -55025,6 +55029,10 @@ seasons:
         title: Biber, die Baumeister an der Elbe
         title_fr: La revanche du castor
         continent: Europa
+        location_wikidata: Q1644
+        coordinates:
+        - 53.89333333
+        - 8.70555556
         description: 'Über viele Jahrzehnte war der Biber in Deutschland beinahe
             ausgestorben. Nur knapp 200 Tiere hatten entlang der Elbe überlebt.
             Dem Einsatz engagierter Tierschützer ist es zu verdanken, dass
@@ -55119,6 +55127,10 @@ seasons:
         title: Pelikane, die Könige des Donaudeltas
         title_fr: Le delta du danube, dernier refuge des pélicans
         continent: Europa
+        location_wikidata: Q184429
+        coordinates:
+        - 45.33
+        - 29.5
         description: 'Das rumänische Donaudelta ist eines der letzten Refugien
             der Pelikane in Europa. Doch auch hier wurden sie während der
             kommunistischen Herrschaft fast ausgerottet. Galten die gefräßigen
@@ -55228,6 +55240,10 @@ seasons:
         title: Frankreichs Winzer - Tradition trifft Passion
         title_fr: Le renouveau du vignoble français
         continent: Europa
+        location_wikidata: Q269113
+        coordinates:
+        - 43.966388888889
+        - 4.7958333333333
         description: 'Frankreich - das Land des Weins. Weinberge prägen die
             Landschaft wie in kaum einem anderen Land. Doch viele Winzer haben
             in den letzten Jahrzehnten die traditionellen Wege verlassen.
@@ -55336,6 +55352,10 @@ seasons:
         title: Notruf Nordseeküste - Die Robben-Retter
         title_fr: Mer du Nord, sauvons les bébés phoques
         continent: Europa
+        location_wikidata: Q3038
+        coordinates:
+        - 54.1825
+        - 7.8852777777778
         description: 'Die Nordsee ist ihr Revier: Seehunde und Kegelrobben
             - zwei Robbenarten, die miteinander verwandt sind und zu den sogenannten
             „Hundsrobben“ gehören. Sie sind amphibisch, also perfekt an ein
@@ -55451,6 +55471,10 @@ seasons:
         title: Australien - Wenn Kunst auf Silos trifft
         title_fr: Australie, le street art s'invite sur les silos
         continent: Ozeanien und Pole
+        location_wikidata: Q14935146
+        coordinates:
+        - -36.71916667
+        - 141.47277778
         description: 'Ein Projekt der Superlative: In Australien verwandeln
             Künstlerinnen und Künstler riesige Weizensilos in gigantische
             Leinwände. Es ist die größte Freiluft-Galerie der Welt, die Leben
@@ -55575,6 +55599,10 @@ seasons:
         title: Der Wüstenzug - die Lebensader Mauretaniens
         title_fr: Mauritanie, le train du désert
         continent: Afrika
+        location_wikidata: Q802901
+        coordinates:
+        - 21.29799
+        - -13.0476
         description: 'Durch Mauretanien verläuft eine einzigartige Bahnlinie,
             quer durch ein Meer aus Sand. 700 Kilometer Gleise führen hier
             seit 1963 mitten durch die Sahara. Gebaut wurde Mauretaniens Wüstenexpress
@@ -55712,6 +55740,10 @@ seasons:
         title_fr: Les hippopotames de Pablo Escobar
         title_en: Pablo Escobar's Hippos
         continent: Amerika
+        location_wikidata: Q2788637
+        coordinates:
+        - 5.88789444
+        - -74.6418
         description: 'Flusspferde gehören zu den gefährlichsten Tieren Afrikas
             - mittlerweile sind sie aber auch in Kolumbien zum Problem geworden.
             Drogenboss Pablo Escobar ließ sich für seinen Privat-Zoo vier
@@ -55823,6 +55855,10 @@ seasons:
         title_fr: Curaçao, des dauphins thérapeutes
         alias: Curaçao - Die sanften Delfine
         continent: Amerika
+        location_wikidata: Q25279
+        coordinates:
+        - 12.166666666667
+        - -68.966666666667
         description: 'Auf der Karibikinsel Curaçao gibt es seit 2004 ein Zentrum
             für Delfintherapie. Fünf Delfine helfen den kleinen und großen
             Patienten dabei, ein Stück Lebensfreude und Hoffnung zurückzugewinnen.
@@ -56189,6 +56225,10 @@ seasons:
         title: Koh Panyee - Thailands fußballverrückte Insel
         title_fr: Thaïlande, un terrain de football insolite
         continent: Asien
+        location_wikidata: Q35666803
+        coordinates:
+        - 8.3358333333333
+        - 98.503055555556
         description: 'Eine echte Postkartenidylle: Die kleine Insel Koh Panyee
             liegt malerisch umringt von hoch aufragenden Karstfelsen inmitten
             der Phang-Nga-Bucht im Süden Thailands. Atemberaubend schön, jedoch
@@ -56278,6 +56318,10 @@ seasons:
         title: Stromboli - Zwischen Feuer und Meer
         title_fr: Stromboli, terre de feu
         continent: Europa
+        location_wikidata: Q131148
+        coordinates:
+        - 38.794166666667
+        - 15.217777777778
         description: 'Warum wohnen Menschen freiwillig am Fuße eines aktiven
             Vulkans? Auf der Insel Stromboli, dem kleinen Eiland vor der Küste
             Süditaliens, leben gerade einmal rund 300 Menschen. Es sind Künstler,
