@@ -506,7 +506,23 @@ brotli = ["brotli (>=1.0.9)", "brotlicffi (>=0.8.0)", "brotlipy (>=0.6.0)"]
 secure = ["certifi", "cryptography (>=1.3.4)", "idna (>=2.0.0)", "ipaddress", "pyOpenSSL (>=0.14)", "urllib3-secure-extra"]
 socks = ["PySocks (>=1.5.6,!=1.5.7,<2.0)"]
 
+[[package]]
+name = "wikidata"
+version = "0.7.0"
+description = "Wikidata client library"
+category = "main"
+optional = false
+python-versions = ">=3.4.0"
+files = [
+    {file = "Wikidata-0.7.0-py3-none-any.whl", hash = "sha256:601ce7b4133c42ca82e63b4653829c4f825eae63fe537b304a418af060c486ec"},
+    {file = "Wikidata-0.7.0.tar.gz", hash = "sha256:32ad4cc2c695435d411c83417b1eac210baa635abaf3ff38779666012daedd47"},
+]
+
+[package.extras]
+mypy = ["mypy (>=0.782)"]
+tests = ["flake8 (>=3.8.3)", "flake8-import-order-spoqa", "pytest (>=4.6.11,<4.7.0)", "pytest-flake8 (>=1.0.6,<1.1.0)"]
+
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "931f408c55def3fc5f9010953dda65348b094cb9182817316d0bd1c87ef41d1c"
+content-hash = "7da8982746610a346f069d5d461bfe46f205cbe929ade1cc503a3fc99007077d"

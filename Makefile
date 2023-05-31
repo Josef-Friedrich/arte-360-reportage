@@ -5,8 +5,8 @@ all: chatgpt json leaflet readme wiki yaml
 chatgpt:
 	$(SCRIPT) --chatgpt
 
-tmp:
-	$(SCRIPT) --tmp
+coordinates:
+	$(SCRIPT) --coordinates:
 
 json:
 	$(SCRIPT) --json

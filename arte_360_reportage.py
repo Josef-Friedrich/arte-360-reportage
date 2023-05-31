@@ -15,6 +15,8 @@ import bs4
 import requests
 import termcolor
 import yaml
+from wikidata.globecoordinate import GlobeCoordinate
+from wikidata.client import Client as WikidataClient
 from googleapiclient.discovery import build as build_google_api  # type: ignore
 
 if typing.TYPE_CHECKING:
@@ -298,8 +300,27 @@ class YoutubeVideo:
             if match:
                 return match[0]
 
+### wikidata ##################################################################
 
-class Scrapper:
+
+class Wikidata:
+
+    client: WikidataClient
+
+    def __init__(self) -> None:
+        self.client = WikidataClient()
+
+    def get_coordinates(self, entity_id: typing.Any):
+        entity = self.client.get(entity_id=entity_id, load=True)
+        coordinate_location = self.client.get(entity_id=typing.cast(
+            typing.Any, 'P625'))
+        coordinate = typing.cast(GlobeCoordinate, entity[coordinate_location])
+        return [coordinate.latitude, coordinate.longitude]
+
+
+### scraper ###################################################################
+
+class Scraper:
     __soup: bs4.BeautifulSoup
 
     MARKER = "-*-*-*-"
@@ -322,7 +343,7 @@ class Scrapper:
         return bs4.BeautifulSoup(element, "lxml").text
 
 
-class FernsehserienScrapper(Scrapper):
+class FernsehserienScraper(Scraper):
     @property
     def description(self) -> str | None:
         element = self.find_str("div", class_="episode-output-inhalt-inner")
@@ -671,10 +692,22 @@ class Episode:
         self.data["duration_sec"] = duration_sec
 
     @property
+    def location_wikidata(self) -> str | None:
+        return self.__get_str_key("location_wikidata")
+
+    @location_wikidata.setter
+    def location_wikidata(self, entity_id: str) -> None:
+        self.data["location_wikidata"] = entity_id
+
+    @property
     def coordinates(self) -> list[float] | None:
         if "coordinates" not in self.data:
             return
         return self.data["coordinates"]
+
+    @coordinates.setter
+    def coordinates(self, coordinates: list[float]) -> None:
+        self.data["coordinates"] = coordinates
 
     @property
     def thetvdb_season_episode(self) -> str | None:
@@ -900,6 +933,13 @@ class TvShow:
                     add_line(f"{episode.description_breaks}")
 
         Utils.write_text_file(EXPORT_FILENAME + "_chatgpt.txt", descriptions)
+
+    def add_coordinates(self) -> None:
+        wikidata = Wikidata()
+        for episode in self.episodes:
+            if episode.location_wikidata and not episode.coordinates:
+                episode.coordinates = wikidata.get_coordinates(episode.location_wikidata)
+            tv_show.export_to_yaml()
 
     def export_data(self) -> TvShowData:
         data: TvShowData = self.__load()
@@ -1180,29 +1220,12 @@ class FrWiki(WikiTemplate):
 
 def tmp() -> None:
     """Test some code. Do one time tasks"""
-    for episode in tv_show.episodes:
-        if not episode.description_fernsehserien and episode.description:
-            episode.description_fernsehserien = episode.description
-
-        if (
-            episode.description
-            and episode.description_youtube
-            and len(episode.description_youtube) - 10 > len(episode.description)
-        ):
-            episode.description = episode.description_youtube
-
-        if episode.description:
-            desc = episode.description
-            desc = re.sub(r" \(Text:.*\)", "", desc)
-            desc = desc.strip()
-            episode.description = desc
-    tv_show.export_to_yaml()
 
 
 def scrape() -> None:
     for episode in tv_show.episodes:
         if episode.fernsehserien_url:
-            scrapper = FernsehserienScrapper(episode.fernsehserien_url)
+            scrapper = FernsehserienScraper(episode.fernsehserien_url)
             print("\n\n" + episode.fernsehserien_url + "\n")
             description = scrapper.description
             if description:
@@ -1354,6 +1377,7 @@ def generate_readme() -> None:
 def get_argument_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog=EXPORT_FILENAME)
     parser.add_argument("-c", "--chatgpt", action="store_true")
+    parser.add_argument("-C", "--coordinates", action="store_true")
     parser.add_argument("-j", "--json", action="store_true")
     parser.add_argument("-l", "--leaflet", action="store_true")
     parser.add_argument("-r", "--readme", action="store_true")
@@ -1369,6 +1393,9 @@ def main() -> None:
 
     if args.chatgpt:
         tv_show.generate_chatgpt_texts()
+
+    if args.coordinates:
+        tv_show.add_coordinates()
 
     if args.json:
         tv_show.export_to_json()
