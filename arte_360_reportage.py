@@ -857,7 +857,7 @@ class TvShow:
         self.titles = self.__generate_title_list()
 
     def __load(self) -> TvShowData:
-        return Yaml.load("database.yml")
+        return Yaml.load(EXPORT_FILENAME + ".yml")
 
     def __generate_season_episodes(self) -> None:
         self.episodes: list[Episode] = []
