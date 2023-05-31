@@ -456,6 +456,9 @@ class EpisodeData(typing.TypedDict):
     location_wikidata: str
     """Wikidata object to the main location of the episode, for example ``Q368241``"""
 
+    location_address: str
+    """for example ``HAUPTSACHE WASCHBÄR e.V. Hermannstraße 3c, 14163 Berlin``"""
+
     coordinates: list[float]
     """for example: ``[12.876, 104.073]``"""
 

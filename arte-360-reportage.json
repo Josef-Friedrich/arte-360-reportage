@@ -12825,6 +12825,11 @@
           "summary": "Bastri Limoj, ein Hirte in dem südalbanischen Bergdorf Vranisht, hofft, dass sein Sohn Lucjano ihn beim Auftrieb der Herde zur Sommerweide begleitet und dadurch die Schäfertradition weiterführt. Die Wiederbelebung der traditionellen polyphonen Gesänge weckt auch bei der jüngeren Generation Interesse und könnte eine Chance für den Erhalt des Schäferberufs bieten.",
           "director": "Cordula Stadter",
           "air_date": "2023-02-25",
+          "location_wikidata": "Q13047686",
+          "coordinates": [
+            42.1775,
+            20.3801
+          ],
           "fernsehserien_episode_no": 612,
           "fernsehserien_episode_slug": "612-albanien-die-stimmen-der-schaefer-1618464",
           "fernsehserien_episode_id": 1618464,
@@ -12952,9 +12957,10 @@
           "summary": "Der Verein „Hauptsache Waschbär“ in Berlin setzt sich für den Schutz und die Regulierung der Waschbärenpopulation ein, indem er wild lebende Waschbären einfängt, kastriert und wieder in die Natur entlässt. Ziel ist es, Schäden in menschlichen Siedlungen zu reduzieren und eine friedliche Koexistenz zwischen Mensch und Waschbär zu ermöglichen.",
           "director": "Maja Dielhenn",
           "air_date": "2023-05-20",
+          "location_address": "HAUPTSACHE WASCHBÄR e.V. Hermannstraße 3c, 14163 Berlin",
           "coordinates": [
-            52.518611,
-            13.408333
+            52.44537,
+            13.23854
           ],
           "fernsehserien_episode_no": 618,
           "fernsehserien_episode_slug": "618-die-waschbaeren-von-berlin-1640104",
@@ -12971,6 +12977,7 @@
           "summary": "Während der Coronapandemie erlebten die Rapanui zwei Jahre der Abschottung, in denen sie sich auf alte Selbstversorgungsmethoden besannen und erfolgreich Obst und Gemüse anbauten. Das Tapati-Fest wird wieder in vollem Umfang gefeiert, inklusive der Krönung einer neuen Festkönigin, während die amtierende Königin sich auf den Tau'a-Triathlon konzentriert.",
           "director": "J. Michael Schumacher",
           "air_date": "2023-06-24",
+          "location_wikidata": "Q14452",
           "coordinates": [
             -27.119444,
             -109.354722
@@ -12990,6 +12997,7 @@
           "summary": "Der Wasserstand des Tonle Sap-Sees schwankt um bis zu acht Meter. Während der Trockenzeit im Februar und März zieht sich das Wasser zurück und ermöglicht Renovierungen in den schwimmenden Dörfern, während die Bewohner vom Fischfang und der Landwirtschaft leben.",
           "director": "Martin Schacht",
           "air_date": "2023-07-01",
+          "location_wikidata": "Q199938",
           "coordinates": [
             12.876,
             104.073

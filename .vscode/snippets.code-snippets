@@ -35,8 +35,13 @@
     "description": "summary"
   },
   "location": {
-    "prefix": ["location"],
+    "prefix": ["coordinates"],
     "body": ["", "        location_wikidata: $1", "        coordinates: [$2]"],
+    "description": "location"
+  },
+  "locationWikidata": {
+    "prefix": ["location"],
+    "body": ["location_wikidata: $1"],
     "description": "location"
   }
 }

@@ -59970,6 +59970,10 @@ seasons:
             für den Erhalt des Schäferberufs bieten.
         director: Cordula Stadter
         air_date: '2023-02-25'
+        location_wikidata: Q13047686
+        coordinates:
+        - 42.1775
+        - 20.3801
         fernsehserien_episode_no: 612
         fernsehserien_episode_slug: 612-albanien-die-stimmen-der-schaefer-1618464
         fernsehserien_episode_id: 1618464
@@ -60429,9 +60433,11 @@ seasons:
             Waschbär zu ermöglichen.
         director: Maja Dielhenn
         air_date: '2023-05-20'
+        location_address: HAUPTSACHE WASCHBÄR e.V. Hermannstraße 3c, 14163
+            Berlin
         coordinates:
-        - 52.518611
-        - 13.408333
+        - 52.44537
+        - 13.23854
         fernsehserien_episode_no: 618
         fernsehserien_episode_slug: 618-die-waschbaeren-von-berlin-1640104
         fernsehserien_episode_id: 1640104
@@ -60509,6 +60515,7 @@ seasons:
             Tau'a-Triathlon konzentriert.
         director: J. Michael Schumacher
         air_date: '2023-06-24'
+        location_wikidata: Q14452
         coordinates:
         - -27.119444
         - -109.354722
@@ -60575,6 +60582,7 @@ seasons:
             leben.
         director: Martin Schacht
         air_date: '2023-07-01'
+        location_wikidata: Q199938
         coordinates:
         - 12.876
         - 104.073
