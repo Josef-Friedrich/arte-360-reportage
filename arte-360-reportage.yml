@@ -44894,8 +44894,6 @@ seasons:
             im Hochland von Sri Lanka, die nur besonders erfahrenen Lokführern
             anvertraut wird. Kann Rodrigo sich hier bewähren?
 
-            Pressetext.
-
             Als die britische Kolonialmacht ab Mitte des 19. Jahrhunderts
             die Bahnstrecke durch das Hochland von Sri Lanka errichtete, diente
             diese vorrangig dem Transport von Zimt, Pfeffer, Tee und Kaffee.
@@ -44952,8 +44950,6 @@ seasons:
             auf eine Höhe von 1.900 Meter. Es ist eine der schwierigsten Etappen
             im Hochland von Sri Lanka, die nur besonders erfahrenen Lokführern
             anvertraut wird. Kann Rodrigo sich hier bewähren?
-
-            Pressetext.
 
             Als die britische Kolonialmacht ab Mitte des 19. Jahrhunderts
             die Bahnstrecke durch das Hochland von Sri Lanka errichtete, diente
@@ -51017,17 +51013,18 @@ seasons:
             von Vater Janez übernommen. Bereits in vierter Generation stellt
             Familie Luznar aus dem slowenischen Oberkrain Honig her. Doch
             nach den ersten verheißungsvollen Jahren beginnt diese Saison
-            kalt und regnerisch. Viele Bienen verhungern, und Erik muss sich
-            etwas einfallen lassen, um die Tiere und sein Geschäft zu retten.
-            So begibt er sich mit einem Teil seiner Völker auf Wanderschaft,
-            um sie an anderer Stelle Pollen sammeln zu lassen. Eine Aufgabe,
-            die durch die große Konkurrenz und den begrenzten Platz nicht
-            einfach ist. Auch gibt es weitere Probleme, mit denen sich Erik
-            herumschlagen muss: Die angestrebte Artenreinheit der Krainer
-            Biene ist durch benachbarte italienische Bienen bedroht. Und auch
-            Bären bereiten den Imkern zunehmend Sorgen. Wird es Erik schaffen,
-            trotz dieser Herausforderungen sein Geschäft auch in dieser Saison
-            am Leben zu erhalten?'
+            kalt und regnerisch.
+
+            Viele Bienen verhungern, und Erik muss sich etwas einfallen lassen,
+            um die Tiere und sein Geschäft zu retten. So begibt er sich mit
+            einem Teil seiner Völker auf Wanderschaft, um sie an anderer Stelle
+            Pollen sammeln zu lassen. Eine Aufgabe, die durch die große Konkurrenz
+            und den begrenzten Platz nicht einfach ist. Auch gibt es weitere
+            Probleme, mit denen sich Erik herumschlagen muss: Die angestrebte
+            Artenreinheit der Krainer Biene ist durch benachbarte italienische
+            Bienen bedroht. Und auch Bären bereiten den Imkern zunehmend Sorgen.
+            Wird es Erik schaffen, trotz dieser Herausforderungen sein Geschäft
+            auch in dieser Saison am Leben zu erhalten?'
         description_fernsehserien: 'Die „Krainer Biene“ ist der Stolz slowenischer
             Bienenzucht. Ihr Ursprung liegt in dem kleinen Balkanland. Vielfältige
             Landschaften sorgen für Pflanzenreichtum, ausreichend Nektar und
@@ -51100,6 +51097,11 @@ seasons:
         episode_no: 17
         title: Japan, der Meister des Zen-Gartens
         title_fr: Japon, l'Art du Jardin Zen
+        continent: Asien
+        location_wikidata: Q38283
+        coordinates:
+        - 35.45033333333333
+        - 139.63422222222223
         description: 'Japan und Zen - untrennbar, die Meditationslehre ist
             die wichtigste Strömung des Buddhismus in Japan. Ebenso für Japan
             steht die hohe Schule der Gartenkunst - berühmte Gartendesigner
@@ -51208,6 +51210,11 @@ seasons:
         episode_no: 18
         title: Finnland, die rasenden Schrottkisten
         title_fr: Fous du Volant en Laponie
+        continent: Europa
+        location_wikidata: Q31331
+        coordinates:
+        - 66.7755835
+        - 23.9634778
         description: 'Mitten im Sommer findet im nordfinnischen Örtchen Pello
             ein ganz besonderes Autorennen statt. Vier Tage lang dröhnen dann
             die Motoren in der sonst eher stillen und friedlichen Landschaft.
@@ -51310,6 +51317,11 @@ seasons:
         episode_no: 19
         title: Heilende Schwingungen der Klangschalen
         title_fr: Bols tibétains, la thérapie par les Sons
+        continent: Asien
+        location_wikidata: Q3037
+        coordinates:
+        - 27.716666666667
+        - 85.366666666667
         description: 'Aus Feuer, Metall und harter Arbeit werden sie geschmiedet
             - Schalen, von denen man sagt, sie haben wohltuende Kräfte: die
             Klangschalen. Generationen von Heilern vertrauen auf ihre Vibrationen
@@ -51330,20 +51342,21 @@ seasons:
             Santa Ratna Shakya und seine Tochter Suvechhya gründen ihre Behandlung
             auf die Lehre der sieben Chakren. Das sind Energiezentren im Körper.
             So werden in der traditionellen Klangschalen-Therapie sieben verschiedene
-            Schalen eingesetzt: sieben Töne für die sieben Chakren. Zu ihren
-            Patienten gehört die 21-jährige Sangita. Sie ist im achten Monat
-            schwanger - mit ihrem ersten Kind. Die Behandlung mit den Schalen
-            soll eine natürliche und einfache Geburt vorbereiten. Um ihr weitere
-            Erleichterungen zu verschaffen, will Santa Ratna Shakya ihr nun
-            sogar eine Mondschale schmieden lassen. Das Licht des Mondes würde
-            der Schale, so der schamanische Glaube, zusätzliche Kräfte verleihen.
-            Doch Sangita ist weder die einzige Patientin für die Therapeuten,
-            noch ist die Behandlung mit den Gefäßen der einzige Verwendungszweck.
-            So gibt es auch stets eine große Nachfrage aus dem benachbarten
-            buddhistischen Kloster, wo Klangschalen ebenfalls eine wichtige
-            Rolle einnehmen. Zudem möchte Santas Tochter Suvechhya demnächst
-            ihre Ausbildung zur Heilerin vollenden und muss sich auf die Prüfung
-            vorbereiten. Abnehmen muss sie ihr Vater.'
+            Schalen eingesetzt: sieben Töne für die sieben Chakren.
+
+            Zu ihren Patienten gehört die 21-jährige Sangita. Sie ist im achten
+            Monat schwanger - mit ihrem ersten Kind. Die Behandlung mit den
+            Schalen soll eine natürliche und einfache Geburt vorbereiten.
+            Um ihr weitere Erleichterungen zu verschaffen, will Santa Ratna
+            Shakya ihr nun sogar eine Mondschale schmieden lassen. Das Licht
+            des Mondes würde der Schale, so der schamanische Glaube, zusätzliche
+            Kräfte verleihen. Doch Sangita ist weder die einzige Patientin
+            für die Therapeuten, noch ist die Behandlung mit den Gefäßen der
+            einzige Verwendungszweck. So gibt es auch stets eine große Nachfrage
+            aus dem benachbarten buddhistischen Kloster, wo Klangschalen ebenfalls
+            eine wichtige Rolle einnehmen. Zudem möchte Santas Tochter Suvechhya
+            demnächst ihre Ausbildung zur Heilerin vollenden und muss sich
+            auf die Prüfung vorbereiten. Abnehmen muss sie ihr Vater.'
         description_fernsehserien: 'Klangschalen: Der vibrierende Klang dieser
             metallenen Gefäße hat sich längst über seine Heimat, das Himalaja-Gebirge,
             hinaus verbreitet. In der westlichen Welt vornehmlich als Therapie-Instrument
@@ -51422,6 +51435,11 @@ seasons:
         episode_no: 20
         title: Harpyien, die größten Greifvögel des Regenwaldes
         title_fr: La Harpie Féroce, le Plus Puissant Rapace du Monde
+        continent: Amerika
+        location_wikidata: Q210896
+        coordinates:
+        - -11.99
+        - -70.59
         description: 'Die Harpyie zählt zu den imposantesten und kräftigsten
             Greifvögeln der Welt. Mit einer Flügelspannweite von bis zu zwei
             Metern jagt sie im dichten Blätterdach des südamerikanischen Regenwaldes
@@ -51560,17 +51578,19 @@ seasons:
             zu tun hat. Und so verwundert es nicht, dass man in der Hauptstadt
             Reykjavík abends in den Cafés eine drollige Szenerie antrifft:
             Verheiratete Männer, Familienväter, Singles aller Berufsgruppen
-            stricken beim Bier, manche begleitet von ihren Frauen. Sie bewegen
-            sich auf den Spuren ihrer Vorfahren, denn Stricken war nicht nur
-            unter Seeleuten, sondern auch unter Männern auf dem Land weit
-            verbreitet. Die Freude, etwas Kreatives und zugleich Praktisches
-            mit den eigenen Händen zu erschaffen, einer beruhigenden Tätigkeit
-            nachzugehen und zeitgleich mit Freunden zu plaudern, sein Bier
-            zu trinken oder fernzuschauen - das macht Stricken so einzigartig.
-            Die Nachfrage nach dem Original führt das kleine Land und seine
-            strickenden Hände an seine Grenzen - woher die vielen Pullover
-            nehmen, und wie vermeiden, dass auch hier die asiatischen Kopien
-            den Markt erobern? Die Isländer hatten eine Idee…'
+            stricken beim Bier, manche begleitet von ihren Frauen.
+
+            Sie bewegen sich auf den Spuren ihrer Vorfahren, denn Stricken
+            war nicht nur unter Seeleuten, sondern auch unter Männern auf
+            dem Land weit verbreitet. Die Freude, etwas Kreatives und zugleich
+            Praktisches mit den eigenen Händen zu erschaffen, einer beruhigenden
+            Tätigkeit nachzugehen und zeitgleich mit Freunden zu plaudern,
+            sein Bier zu trinken oder fernzuschauen - das macht Stricken so
+            einzigartig. Die Nachfrage nach dem Original führt das kleine
+            Land und seine strickenden Hände an seine Grenzen - woher die
+            vielen Pullover nehmen, und wie vermeiden, dass auch hier die
+            asiatischen Kopien den Markt erobern? Die Isländer hatten eine
+            Idee…'
         description_fernsehserien: 'Musikmanager Petur Oddbergur Heimisson
             ist 35 Jahre alt und strickt seit seinem zwölften Lebensjahr.
             Mit großer Leidenschaft fertigt er den traditionellen Islandpullover
@@ -51642,6 +51662,10 @@ seasons:
         title: Kentucky - Die Schlacht von Sacramento
         title_fr: Kentucky, la Bataille de Sacramento
         continent: Amerika
+        location_wikidata: Q2185103
+        coordinates:
+        - 37.4164
+        - -87.2678
         description: 'Jedes Jahr im Mai wird aus einer beschaulichen Kleinstadt
             im Süden der USA ein kriegerischer Schauplatz, wenn seine Bewohner
             und zahlreiche Angereiste die Schlacht von Sacramento originalgetreu
@@ -51741,6 +51765,10 @@ seasons:
         title: Die letzten Walfänger der Beringsee
         title_fr: Les derniers chasseurs de baleines du détroit de Béring
         continent: Asien
+        location_wikidata: Q1002
+        coordinates:
+        - 66
+        - -174
         description: 'Tschukotka ist eine fernab gelegene Region im Nordosten
             Russlands und kaum von Menschen besiedelt. Zehntausende Grauwale
             ziehen jedes Jahr im Sommer hier vor der Küste entlang. Ein natürlicher
@@ -51840,6 +51868,10 @@ seasons:
         title: Kaviar, das schwarze Gold Italiens
         title_fr: Le Caviar, l'Or Noir de l'Italie
         continent: Europa
+        location_wikidata: Q643
+        coordinates:
+        - 44.701444444444
+        - 7.0930555555556
         description: 'Nur wenige Menschen wissen, dass Kaviar seit Jahrhunderten
             zur italienischen Küche gehört - und dafür nicht einmal importiert
             werden muss: Störe, deren Rogen die Grundlage für die Delikatesse
@@ -51957,6 +51989,10 @@ seasons:
         title: Die Vespa-Rebellen in Indonesien
         title_fr: Indonésie, la Passion des Deux-Roues Trafiqués
         continent: Asien
+        location_wikidata: Q11443
+        coordinates:
+        - -7.811111111111111
+        - 112.00472222222223
         description: 'In Indonesien schwingen sich Tausende junge Leute auf
             alte, umgebaute Vespa-Roller, um auf friedliche Art zu rebellieren.
             Gegen Langeweile und Chancenlosigkeit. Sie sind Anhänger der sogenannten
@@ -52058,6 +52094,10 @@ seasons:
         title: Costa Rica, das größte Hundeheim der Welt
         title_fr: Au Costa Rica, un Paradis Pour les Chiens Abandonnés
         continent: Amerika
+        location_wikidata: Q502192
+        coordinates:
+        - 10.416666666667
+        - -84
         description: 'In Costa Rica, in den Bergen der Provinz Heredia liegt
             ein einzigartiges Tierheim, das Territorio de Zaguates - „das
             Land der Streuner“.  Über tausend Hunde leben zeitweilig auf dem
@@ -52268,18 +52308,19 @@ seasons:
         title: Die Zedernuss, die Königin der Taiga
         title_fr: Les Pignons de Cèdre, l'Or de la Taïga
         continent: Asien
-        description: 'Werbung - Zedernüsse aus zertifizierter Wildsammlung
-            des Zedernuss-Projektes aus dem Film gibt es hier: https://www.taiga-store.de/zedern-br-produkte/4/sibirische-zedernuesse-bio-roh?c=5
-
-            Die Samen der sibirischen Zirbelkiefer gelten als uraltes Heilmittel
-            der einheimischen Volksmedizin. Gesund, cholesterinsenkend und
-            schmackhaft, werden sie inzwischen maschinell verarbeitet und
-            in die ganze Welt verschickt. Zuerst müssen sie jedoch in den
-            weiten Wäldern des Altai-Gebirges geerntet werden. Und das ist
-            immer noch mühevolle Handarbeit. Ganze Familien ziehen im Herbst
-            in die Berge zur Zedernussernte. Und erarbeiten sich damit einen
-            Verdienst, der für mehrere Monate zum Überleben reicht. GEO Reportage
-            hat eine Familie begleitet.
+        location_wikidata: Q5955
+        coordinates:
+        - 49
+        - 89
+        description: 'Die Samen der sibirischen Zirbelkiefer gelten als uraltes
+            Heilmittel der einheimischen Volksmedizin. Gesund, cholesterinsenkend
+            und schmackhaft, werden sie inzwischen maschinell verarbeitet
+            und in die ganze Welt verschickt. Zuerst müssen sie jedoch in
+            den weiten Wäldern des Altai-Gebirges geerntet werden. Und das
+            ist immer noch mühevolle Handarbeit. Ganze Familien ziehen im
+            Herbst in die Berge zur Zedernussernte. Und erarbeiten sich damit
+            einen Verdienst, der für mehrere Monate zum Überleben reicht.
+            GEO Reportage hat eine Familie begleitet.
 
             Der Altai: Gelegen im Vierländereck von Russland, Kasachstan,
             China und der Mongolei. Das Gebirge ist bis heute nur wenig erschlossen.
@@ -52330,18 +52371,15 @@ seasons:
             einen sehnlichen Wunsch erfüllen: Endlich ein eigenes Pferd kaufen.
             Doch wird er nach dem Ausflug in die moderne Stadt überhaupt in
             sein Dorf zurückkehren wollen? (Text: Arte)'
-        description_youtube: 'Werbung - Zedernüsse aus zertifizierter Wildsammlung
-            des Zedernuss-Projektes aus dem Film gibt es hier: https://www.taiga-store.de/zedern-br-produkte/4/sibirische-zedernuesse-bio-roh?c=5
-
-            Die Samen der sibirischen Zirbelkiefer gelten als uraltes Heilmittel
-            der einheimischen Volksmedizin. Gesund, cholesterinsenkend und
-            schmackhaft, werden sie inzwischen maschinell verarbeitet und
-            in die ganze Welt verschickt. Zuerst müssen sie jedoch in den
-            weiten Wäldern des Altai-Gebirges geerntet werden. Und das ist
-            immer noch mühevolle Handarbeit. Ganze Familien ziehen im Herbst
-            in die Berge zur Zedernussernte. Und erarbeiten sich damit einen
-            Verdienst, der für mehrere Monate zum Überleben reicht. GEO Reportage
-            hat eine Familie begleitet.
+        description_youtube: 'Die Samen der sibirischen Zirbelkiefer gelten
+            als uraltes Heilmittel der einheimischen Volksmedizin. Gesund,
+            cholesterinsenkend und schmackhaft, werden sie inzwischen maschinell
+            verarbeitet und in die ganze Welt verschickt. Zuerst müssen sie
+            jedoch in den weiten Wäldern des Altai-Gebirges geerntet werden.
+            Und das ist immer noch mühevolle Handarbeit. Ganze Familien ziehen
+            im Herbst in die Berge zur Zedernussernte. Und erarbeiten sich
+            damit einen Verdienst, der für mehrere Monate zum Überleben reicht.
+            GEO Reportage hat eine Familie begleitet.
 
             Der Altai: Gelegen im Vierländereck von Russland, Kasachstan,
             China und der Mongolei. Das Gebirge ist bis heute nur wenig erschlossen.
@@ -52384,6 +52422,10 @@ seasons:
         title: Die Ostsee, Sehnsuchtsort der Kraniche
         title_fr: Mer Baltique, Voyage au Pays des Grues Cendrées
         continent: Europa
+        location_wikidata: Q702188
+        coordinates:
+        - 54.4117
+        - 12.5411
         description: 'Die deutsche Ostseeküste ist von der Halbinsel Fischland-Darß-Zingst
             bis hinüber nach Rügen eine einzigartige Küstenlandschaft, mit
             verträumt-schönen Landschaften und Dörfern und einer einzigartigen
@@ -52492,6 +52534,10 @@ seasons:
         title: 'Kapverden: Zwei Hunde als Schildkrötenretter'
         title_fr: Cap-Vert, les Chiens au Secours des Tortues
         continent: Afrika
+        location_wikidata: Q31878253
+        coordinates:
+        - 16
+        - -24
         description: 'Die zweijährigen Hundegeschwister Kelo und Karetta verdanken
             ihre Namen den wissenschaftlichen Bezeichnungen zweier Schildkrötenarten.
             Marlene Zähner hat sie in der Schweiz ausgebildet - nun sollen
@@ -52551,6 +52597,10 @@ seasons:
         title: Die Schwestern der Erde
         title_fr: Grèce, les Petites Sœurs de la Terre
         continent: Europa
+        location_wikidata: Q1471677
+        coordinates:
+        - 39.8
+        - 22.7
         description: 'In 1.000 Metern Höhe, auf dem Berg Ossa in Griechenland,
             liegt ein christlich-orthodoxes Kloster, das ausschließlich von
             Nonnen bewohnt wird. Sie stammen aus vielen Ländern und haben
@@ -52773,6 +52823,10 @@ seasons:
         title: Indiens Kurkuma - Heilsam und heilig
         title_fr: Curcuma, une épice en or
         continent: Asien
+        location_wikidata: Q12996738
+        coordinates:
+        - 17.8667
+        - 82.35
         description: 'Kurkuma, von vielen als das „indische Gold“ verehrt,
             ist ein ganz besonderes Gewürz und eine Hauptzutat von Curry.
             Ob gekocht, getrocknet, als Pulver oder Öl - Kurkuma dient in
@@ -52812,7 +52866,7 @@ seasons:
             Bewohner - als Gewürz und auch als Heilmittel. Der Wurzel wird
             desinfizierende, schmerzlindernde und antibiotische Wirkung zugesprochen.
             Sie soll gut für den Magen sein und zum Beispiel bei Gelenkschmerzen
-            und Alzheimer helfen.Veni Macs betreibt in ihrem alten Dorf Chintapalle
+            und Alzheimer helfen. Veni Macs betreibt in ihrem alten Dorf Chintapalle
             im indischen Bundesstaat Andrah Pradesh gemeinsam mit ihrem Lebenspartner,
             dem Arzt Dr.
 
@@ -52985,6 +53039,10 @@ seasons:
         title: Schignano, ein uralter Karneval in Italiens Bergen
         title_fr: Le carnaval de Schignano étrange et archaïque
         continent: Europa
+        location_wikidata: Q47340
+        coordinates:
+        - 45.9262447
+        - 9.1030909
         description: 'Schignano - seit Jahrhunderten feiern die Menschen hier
             mit einem archaischen, wilden Karneval das Ende des Winters. Sie
             spielen in bunten, selbstgenähten Kostümen die „Wilden“, in einem
@@ -53087,6 +53145,10 @@ seasons:
         title: Ring frei für Sambias Boxerinnen!
         title_fr: Zambie, les championnes du ring
         continent: Afrika
+        location_wikidata: Q953
+        coordinates:
+        - -14
+        - 28
         description: 'Das Leben einer Frau in Sambia ist vorherbestimmt: Als
             Mädchen unterstützt sie ihre Mutter bei der Hausarbeit. Nach der
             Heirat übernimmt sie Haushalt und Mutterrolle. Doch immer mehr
@@ -53190,6 +53252,10 @@ seasons:
         title: Singvögel - Die goldenen Stimmen von Singapur
         title_fr: Singapour, quand les oiseaux chantent
         continent: Asien
+        location_wikidata: Q334
+        coordinates:
+        - 1.3
+        - 103.8
         description: 'Singvogel-Liebhaber scheuen in Singapur weder Kosten
             noch Mühen. Je schöner ein Vogel singt, desto teurer ist er. Singvogel-Wettbewerbe
             demonstrieren diesen Status. Doch die Liebe zu den gefiederten
@@ -53254,6 +53320,10 @@ seasons:
         title: Italiens Kapern - Der Geschmack des Südens
         title_fr: Les câpres de sicile, la saveur de la méditerranée
         continent: Europa
+        location_wikidata: Q481758
+        coordinates:
+        - 36.7875
+        - 11.9925
         description: 'In Italiens Süden gedeiht eine der ältesten Kulturpflanzen
             des Mittelmeer-Raums: der Kapernstrauch. Verspeist werden nicht
             nur seine Früchte, sondern in erster Linie auch die Blütenknospen!
@@ -53504,6 +53574,10 @@ seasons:
         title: Mit Volldampf durch Kärnten
         title_fr: En autriche avec des mordus du rail
         continent: Europa
+        location_wikidata: Q41753
+        coordinates:
+        - 46.616666666667
+        - 14.3
         description: 'Es ist immer wieder eine ganz besondere Zeitreise, wenn
             eine hundert Jahre alte Dampflok durch romantische Alpentäler
             schnauft: In Kärnten, Österreichs südlichstem Bundesland, gibt
@@ -53609,6 +53683,10 @@ seasons:
         title: Das Elsass, Heimat der Störche
         title_fr: L'Alsace, terre de cigognes
         continent: Europa
+        location_wikidata: Q3364190
+        coordinates:
+        - 48.5919
+        - 7.776
         description: 'Der Storch ist im Elsass allgegenwärtig, für viele die
             Ikone, das Wahrzeichen der Region. Ob in der Metropole Straßburg
             oder den romantischen Dörfern - überall hocken die schwarz-weiß
@@ -53725,6 +53803,10 @@ seasons:
         title: Lichterglanz im Norden - Winter in Stockholm und den Schären
         title_fr: 'Les lumières scandinaves : un hiver autour de Stockholm'
         continent: Europa
+        location_wikidata: Q1754
+        coordinates:
+        - 59.329444444444
+        - 18.068611111111
         description: 'Auf gerade einmal sechs Stunden natürliches Licht schrumpft
             der dunkelste Tag des Jahres in Stockholm zusammen. Diese lange
             Dunkelheit macht die Menschen nicht nur dort erfinderisch, sondern
@@ -53830,6 +53912,10 @@ seasons:
         title: Chartres, die Farben des Himmels
         title_fr: Chartres, l'art du vitrail
         continent: Europa
+        location_wikidata: Q180274
+        coordinates:
+        - 48.447698
+        - 1.487736
         description: 'Weniger als 100 Kilometer südwestlich von Paris, inmitten
             der großen Ebene von Beauce, bekannt als die „Kornkammer“ Frankreichs,
             ist die Kathedrale Notre-Dame de Chartres weithin sichtbar. Der
@@ -53930,6 +54016,10 @@ seasons:
         title: Bretagne, die raue Schönheit
         title_fr: La Bretagne entre terre et mer
         continent: Europa
+        location_wikidata: Q568873
+        coordinates:
+        - 47.867222222222
+        - -4.2230555555556
         description: 'Ganz an der Spitze der bretonischen Halbinsel liegt
             das Departement Finistère - übersetzt bedeutet das so viel wie
             „Das Ende der Welt“. Es ist eine urwüchsige Landschaft mit rauer
@@ -54030,6 +54120,10 @@ seasons:
         title: Pelota, die baskische Leidenschaft
         title_fr: Pays basque, l'âme en Pelote
         continent: Europa
+        location_wikidata: Q47588
+        coordinates:
+        - 42.883055555556
+        - -1.9355555555556
         description: 'Wohl kaum eine Sportart verbindet die Menschen im Baskenland
             so sehr wie Pelota. Gelegen auf der Grenze zwischen Frankreich
             und Spanien, sieht sich die Region bis heute als eigenständige
@@ -54129,6 +54223,10 @@ seasons:
         title: Estland und das kleine Königreich der Seto
         title_fr: En estonie, le petit royaume de setomaa
         continent: Europa
+        location_wikidata: Q1640083
+        coordinates:
+        - 57.81666666666667
+        - 27.6
         description: 'Es ist eines der kleinsten Völker Europas: Die ethnische
             Minderheit der Seto lebt im Süden des heutigen Estland, ihr traditionelles
             Siedlungsgebiet reicht bis über die nahe Grenze hinein ins westliche
@@ -54141,26 +54239,25 @@ seasons:
             höchstes Ansehen. Rein Järvelill ist seit einem Jahr der Vizekönig.
             Wird er die Wahl auch diesmal wieder gewinnen?
 
-            Pressetext: Heute verläuft mitten durch das Seto-Stammland die
-            EU-Außengrenze. Ein schwieriger Status - und sicher einer der
-            Gründe, warum den Seto ihre Traditionen so wichtig sind. Kulte
-            und Zeremonien werden entsprechend ernsthaft praktiziert. Zwar
-            nimmt heute nicht mehr jeder die alten Legenden für bare Münze
-            - da sie aber dem kleinen Volk ihre Identität geben, bleibt Tradiertes
-            elementar. Das ganze Jahr hindurch ist Vizekönig Rein Järvelill
-            im estnischen Siedlungsgebiet der Seto unterwegs, gerade jetzt
-            vor dem Fest. Die Dörfer und einzelnen Höfe liegen verstreut und
-            zum Teil sehr weit entfernt voneinander. Überall sind die Seto
-            mit der Vorbereitung ihres wichtigsten Rituals beschäftigt: Schmuckschmiede,
-            Seifenmacher, Köche und Sänger, sie alle wollen mithelfen, diesen
-            besonderen Tag gebührend zu begehen. Schon die Kinder werden dabei
-            mit den alten Traditionen vertraut gemacht. Der Festtag selbst
-            ist dann endlich die Gelegenheit, die Trachten anzuziehen. Frauen
-            zeigen ihren üppigsten Silberschmuck, Chöre singen alte Lieder.
-            Und schließlich der Höhepunkt, das große Finale, nämlich die Wahl
-            des Vizekönigs. Rein Järvelill gibt alles, um das Seto-Volk ein
-            weiteres Mal hinter sich zu vereinen - seine Konkurrenten nicht
-            minder.'
+            Heute verläuft mitten durch das Seto-Stammland die EU-Außengrenze.
+            Ein schwieriger Status - und sicher einer der Gründe, warum den
+            Seto ihre Traditionen so wichtig sind. Kulte und Zeremonien werden
+            entsprechend ernsthaft praktiziert. Zwar nimmt heute nicht mehr
+            jeder die alten Legenden für bare Münze - da sie aber dem kleinen
+            Volk ihre Identität geben, bleibt Tradiertes elementar. Das ganze
+            Jahr hindurch ist Vizekönig Rein Järvelill im estnischen Siedlungsgebiet
+            der Seto unterwegs, gerade jetzt vor dem Fest. Die Dörfer und
+            einzelnen Höfe liegen verstreut und zum Teil sehr weit entfernt
+            voneinander. Überall sind die Seto mit der Vorbereitung ihres
+            wichtigsten Rituals beschäftigt: Schmuckschmiede, Seifenmacher,
+            Köche und Sänger, sie alle wollen mithelfen, diesen besonderen
+            Tag gebührend zu begehen. Schon die Kinder werden dabei mit den
+            alten Traditionen vertraut gemacht. Der Festtag selbst ist dann
+            endlich die Gelegenheit, die Trachten anzuziehen. Frauen zeigen
+            ihren üppigsten Silberschmuck, Chöre singen alte Lieder. Und schließlich
+            der Höhepunkt, das große Finale, nämlich die Wahl des Vizekönigs.
+            Rein Järvelill gibt alles, um das Seto-Volk ein weiteres Mal hinter
+            sich zu vereinen - seine Konkurrenten nicht minder.'
         description_fernsehserien: 'Es ist eines der kleinsten Völker Europas:
             Die ethnische Minderheit der Seto lebt im Süden des heutigen Estland,
             ihr traditionelles Siedlungsgebiet reicht bis über die nahe Grenze
@@ -54195,26 +54292,25 @@ seasons:
             einem Jahr der Vizekönig. Wird er die Wahl auch diesmal wieder
             gewinnen?
 
-            Pressetext: Heute verläuft mitten durch das Seto-Stammland die
-            EU-Außengrenze. Ein schwieriger Status - und sicher einer der
-            Gründe, warum den Seto ihre Traditionen so wichtig sind. Kulte
-            und Zeremonien werden entsprechend ernsthaft praktiziert. Zwar
-            nimmt heute nicht mehr jeder die alten Legenden für bare Münze
-            - da sie aber dem kleinen Volk ihre Identität geben, bleibt Tradiertes
-            elementar. Das ganze Jahr hindurch ist Vizekönig Rein Järvelill
-            im estnischen Siedlungsgebiet der Seto unterwegs, gerade jetzt
-            vor dem Fest. Die Dörfer und einzelnen Höfe liegen verstreut und
-            zum Teil sehr weit entfernt voneinander. Überall sind die Seto
-            mit der Vorbereitung ihres wichtigsten Rituals beschäftigt: Schmuckschmiede,
-            Seifenmacher, Köche und Sänger, sie alle wollen mithelfen, diesen
-            besonderen Tag gebührend zu begehen. Schon die Kinder werden dabei
-            mit den alten Traditionen vertraut gemacht. Der Festtag selbst
-            ist dann endlich die Gelegenheit, die Trachten anzuziehen. Frauen
-            zeigen ihren üppigsten Silberschmuck, Chöre singen alte Lieder.
-            Und schließlich der Höhepunkt, das große Finale, nämlich die Wahl
-            des Vizekönigs. Rein Järvelill gibt alles, um das Seto-Volk ein
-            weiteres Mal hinter sich zu vereinen - seine Konkurrenten nicht
-            minder.'
+            Heute verläuft mitten durch das Seto-Stammland die EU-Außengrenze.
+            Ein schwieriger Status - und sicher einer der Gründe, warum den
+            Seto ihre Traditionen so wichtig sind. Kulte und Zeremonien werden
+            entsprechend ernsthaft praktiziert. Zwar nimmt heute nicht mehr
+            jeder die alten Legenden für bare Münze - da sie aber dem kleinen
+            Volk ihre Identität geben, bleibt Tradiertes elementar. Das ganze
+            Jahr hindurch ist Vizekönig Rein Järvelill im estnischen Siedlungsgebiet
+            der Seto unterwegs, gerade jetzt vor dem Fest. Die Dörfer und
+            einzelnen Höfe liegen verstreut und zum Teil sehr weit entfernt
+            voneinander. Überall sind die Seto mit der Vorbereitung ihres
+            wichtigsten Rituals beschäftigt: Schmuckschmiede, Seifenmacher,
+            Köche und Sänger, sie alle wollen mithelfen, diesen besonderen
+            Tag gebührend zu begehen. Schon die Kinder werden dabei mit den
+            alten Traditionen vertraut gemacht. Der Festtag selbst ist dann
+            endlich die Gelegenheit, die Trachten anzuziehen. Frauen zeigen
+            ihren üppigsten Silberschmuck, Chöre singen alte Lieder. Und schließlich
+            der Höhepunkt, das große Finale, nämlich die Wahl des Vizekönigs.
+            Rein Järvelill gibt alles, um das Seto-Volk ein weiteres Mal hinter
+            sich zu vereinen - seine Konkurrenten nicht minder.'
         director: Yuri Burak
         air_date: '2021-01-31'
         duration: 45
@@ -54232,6 +54328,10 @@ seasons:
         title: 'Puerto Rico: Ein Krankenhaus für Seekühe'
         title_fr: Porto Rico - Un hôpital pour les lamantins
         continent: Amerika
+        location_wikidata: Q739675
+        coordinates:
+        - 18.383333333333
+        - -66.15
         description: 'Sie sind der Inbegriff der Gemütlichkeit im Meer: Rundschwanzseekühe,
             auch Manatis genannt. Ruhig und behäbig lassen sie sich treiben
             und allzu gern laben sie sich genussvoll am Seegras der Karibik.
@@ -54333,10 +54433,14 @@ seasons:
         title: Dem Wolf auf der Spur - Schnüffeln für den Artenschutz
         title_fr: Des chiens sur la piste des loups
         continent: Europa
+        location_wikidata: Q32530
+        coordinates:
+        - 51.5450653
+        - 14.72614
         description: 'Die Wildbiologin Lea Wirk und ihre Labrador-Hündin Molly
             sind ein eingespieltes Team: Molly ist dazu ausgebildet, Spuren
             von Wölfen zu finden. Lea arbeitet seit mehreren Jahren für ein
-            Institut für Wolfsforschung in der Lausitz - dort leben die   meisten
+            Institut für Wolfsforschung in der Lausitz - dort leben die meisten
             Wölfe in Deutschland. Gemeinsam streifen Lea und Molly durch die
             Wälder in Sachsen und Brandenburg und suchen nach Spuren des scheuen
             Raubtiers. Ihre Arbeit ist wichtig, um einen Überblick darüber
@@ -54456,6 +54560,10 @@ seasons:
         title: Die Eifel und ihre Eulen-Hüter
         title_fr: Sauver les hiboux, c'est chouette
         continent: Europa
+        location_wikidata: Q6280
+        coordinates:
+        - 50.5
+        - 6.67
         description: 'Eulen! Im Mittelalter gefürchtet als Hexenvögel und
             Todesboten, seit jeher aber auch verehrt als Symbole der Weisheit
             und als Glücksbringer. Heute sind die nachtaktiven Vögel wieder
@@ -54596,6 +54704,10 @@ seasons:
         title: Percheron, das Kraftpaket mit einer Pferdestärke
         title_fr: Percheron, le retour du cheval de trait
         continent: Europa
+        location_wikidata: Q1095423
+        coordinates:
+        - 48.744722222222
+        - 0.14194444444444
         description: 'In der Landwirtschaft im Nordwesten Frankreichs waren
             Percheron-Pferde von jeher unverzichtbar. Diese großen und kräftigen
             Tiere pflügten die Felder, zogen Baumstämme aus den Wäldern und
@@ -54693,7 +54805,11 @@ seasons:
         title: Kalkstein - Das weiße Gold von Brač
         title_fr: Croatie, les trailleurs de pierre de Brač
         continent: Europa
-        description: 'Kalkstein von der kroatischen Insel Brac war über viele
+        location_wikidata: Q922
+        coordinates:
+        - 43.311111111111
+        - 16.665555555556
+        description: 'Kalkstein von der kroatischen Insel Brač war über viele
             Jahrhunderte einer der begehrtesten Baustoffe Europas - Paläste
             und Kathedralen entstanden aus dem edlen weißen Stein. Die Ausbildung
             der Steinmetze hat Tradition, viele von ihnen erlangen bis heute
@@ -54711,7 +54827,7 @@ seasons:
             dient als Baustoff für beeindruckende Paläste und Kirchen. Auch
             im Weißen Haus in Washington und im Berliner Reichstag ist Kalkstein
             von der Adria-Insel verbaut. Darüber hinaus experimentieren viele
-            Künstler auf Brac mit dem Rohstoff, erschaffen Plastiken und moderne
+            Künstler auf Brač mit dem Rohstoff, erschaffen Plastiken und moderne
             Skulpturen, die sie in Galerien verkaufen. Zu ihnen gehört die
             Familie Jaksić. Alle Mitglieder der Familie sind Künstler, Großmutter
             Ida entwirft und fertigt sogar Kleider aus Kalksteinplättchen
@@ -54720,10 +54836,10 @@ seasons:
             erregenden Outfit auftreten will. Auch Steinmetz-Azubi Vanessa
             arbeitet daran mit.
 
-            Für die Insel Brac ist das wiedererwachte Interesse an der altehrwürdigen
+            Für die Insel Brač ist das wiedererwachte Interesse an der altehrwürdigen
             Kalkstein-Tradition wichtig - denn nur so hat dieses stolze Export-
             und Kulturgut eine Zukunft.'
-        description_fernsehserien: 'Kalkstein von der kroatischen Insel Brac
+        description_fernsehserien: 'Kalkstein von der kroatischen Insel Brač
             war über viele Jahrhunderte einer der begehrtesten Baustoffe Europas
             - Paläste und Kathedralen entstanden aus dem edlen weißen Stein.
             Die Ausbildung der Steinmetze hat Tradition, viele von ihnen erlangen
@@ -54742,7 +54858,7 @@ seasons:
             dient als Baustoff für beeindruckende Paläste und Kirchen. Auch
             im Weißen Haus in Washington und im Berliner Reichstag ist Kalkstein
             von der Adria-Insel verbaut. Darüber hinaus experimentieren viele
-            Künstler auf Brac mit dem Rohstoff, erschaffen Plastiken und moderne
+            Künstler auf Brač mit dem Rohstoff, erschaffen Plastiken und moderne
             Skulpturen, die sie in Galerien verkaufen. Zu ihnen gehört die
             Familie Jaksić. Alle Mitglieder der Familie sind Künstler, Großmutter
             Ida entwirft und fertigt sogar Kleider aus Kalksteinplättchen
@@ -54751,7 +54867,7 @@ seasons:
             erregenden Outfit auftreten will. Auch Steinmetz-Azubi Vanessa
             arbeitet daran mit.
 
-            Für die Insel Brac ist das wiedererwachte Interesse an der altehrwürdigen
+            Für die Insel Brač ist das wiedererwachte Interesse an der altehrwürdigen
             Kalkstein-Tradition wichtig - denn nur so hat dieses stolze Export-
             und Kulturgut eine Zukunft. (Text: Arte)'
         description_youtube: 'Kalkstein von der kroatischen Insel Brač war
@@ -54800,6 +54916,10 @@ seasons:
         title: Hamburg - Welthafen mit schwimmender Kirche
         title_fr: Port d'Hambourg, un bateau-église insolite
         continent: Europa
+        location_wikidata: Q3964
+        coordinates:
+        - 53.54
+        - 9.98277778
         description: 'Mitten im Trubel des Hamburger Hafens, zwischen Containerschiffen,
             Schleppern und Schuten, gibt es ein echtes Kleinod: die Flussschifferkirche,
             eine schwimmende Kirche. Ein „Seelenhafen“ sozusagen, an dem Menschen
