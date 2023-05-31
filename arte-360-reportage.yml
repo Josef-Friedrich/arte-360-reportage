@@ -58836,6 +58836,10 @@ seasons:
         title: Ahornsirup - Kanadas süßer Schatz
         title_fr: Canada, le pays du sirop d'erable
         continent: Amerika
+        location_wikidata: Q3433048
+        coordinates:
+        - 45.7833
+        - -75.1
         description: 'In der kanadischen Provinz Quebec kündigt sich nach
             einem langen Winter der Frühling an. Nun beginnt die Zeit des
             Ahornsirups - eines der größten Exportschlager Kanadas. Für die
@@ -58960,6 +58964,10 @@ seasons:
         title: Estland - Krötenretter im Einsatz
         title_fr: Estonie, au secours des grenouilles
         continent: Europa
+        location_wikidata: Q1770
+        coordinates:
+        - 59.437222222222
+        - 24.745
         description: 'Wenn in Estland der Frühling einzieht, erwachen Tausende
             Amphibien aus der Winterstarre und machen sich auf den Weg zu
             ihren Laichgebieten. Der Instinkt zeigt ihnen den Weg. Viele Umweltaktivist:innen
@@ -59093,6 +59101,10 @@ seasons:
         title: Sardiniens wertvolle Muschelseide
         title_fr: La soie de mer, trésor de Sardaigne
         continent: Europa
+        location_wikidata: Q1462
+        coordinates:
+        - 40
+        - 9
         description: 'Die Schwestern Assuntina und Guiseppina Pes stecken
             inmitten der Vorbereitungen für die große Prozession zu Ehren
             des heiligen Antiochus. Er ist ein Schutzpatrons Sardiniens. Einmal
@@ -59164,6 +59176,10 @@ seasons:
         title: Cordoba, die Stadt der Patios
         title_fr: Cordoue et ses patios fleuris
         continent: Europa
+        location_wikidata: Q5818
+        coordinates:
+        - 37.883333333333
+        - -4.7666666666667
         description: 'Der ganze Stolz von Córdoba sind die Patios der Stadt
             - begrünte Innenhöfe, deren Wurzeln bis in die römische Antike
             und die Zeit der maurischen Herrschaft in Andalusien zurückreichen.
@@ -59277,6 +59293,10 @@ seasons:
         title: Marquesas-Inseln, das Comeback der Tattoos
         title_fr: Îles Marquises, le tatouage dans la peau
         continent: Asien
+        location_wikidata: Q172697
+        coordinates:
+        - -9
+        - -139.5
         description: 'Heretu Tetahiotupa und Teiki Huukena sind die Pioniere
             der neuen Tattoo-Bewegung auf den Marquesas-Inseln. Sie haben
             jüngst eine eigene Tätowierschule ins Leben gerufen, in der das
@@ -59364,6 +59384,10 @@ seasons:
         title: Die Schweizergarde - Ein Leben für den Papst
         title_fr: Vatican, en coulisse avec les Gardes suisses
         continent: Europa
+        location_wikidata: Q237
+        coordinates:
+        - 41.904
+        - 12.453
         description: 'Die Kaserne der Schweizer Garde befindet sich auf einer
             Fläche von 500 Quadratmetern auf dem Territorium des Vatikanstaates.
             Seit mehr als 700 Jahren wird hier eine Gruppe junger Männer rekrutiert,
@@ -60356,6 +60380,7 @@ seasons:
         title: Die Waschbären von Berlin
         title_fr: Les ratons laveurs, nos nouveaux voisins?
         continent: Europa
+        location_wikidata: Q118895916
         location_address: HAUPTSACHE WASCHBÄR e.V. Hermannstraße 3c, 14163
             Berlin
         coordinates:
