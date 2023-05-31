@@ -9,5 +9,6 @@
   "[python]": {
     "editor.defaultFormatter": "ms-python.python"
   },
-  "python.defaultInterpreterPath": ".venv/bin/python"
+  "python.defaultInterpreterPath": ".venv/bin/python",
+  "ansible.python.interpreterPath": "/home/jf/Downloads/360-geo-reportage/.venv/bin/python"
 }
