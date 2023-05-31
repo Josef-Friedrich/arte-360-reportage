@@ -936,10 +936,12 @@ class TvShow:
 
     def add_coordinates(self) -> None:
         wikidata = Wikidata()
+
         for episode in self.episodes:
             if episode.location_wikidata and not episode.coordinates:
                 episode.coordinates = wikidata.get_coordinates(episode.location_wikidata)
-            tv_show.export_to_yaml()
+
+        tv_show.export_to_yaml()
 
     def export_data(self) -> TvShowData:
         data: TvShowData = self.__load()

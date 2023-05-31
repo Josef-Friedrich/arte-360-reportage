@@ -1059,6 +1059,9 @@ seasons:
         duration: 26
         duration_sec: 1652
         location_wikidata: Q1009
+        coordinates:
+        - 7
+        - 12
         fernsehserien_episode_no: 10
         fernsehserien_episode_slug: 10-regenwald-auf-dem-holzweg-339125
         fernsehserien_episode_id: 339125
@@ -3837,6 +3840,10 @@ seasons:
         air_date: '2000-03-09'
         duration: 26
         duration_sec: 1583
+        location_wikidata: Q475281
+        coordinates:
+        - 12.579916666667
+        - 102.52513888889
         fernsehserien_episode_no: 52
         fernsehserien_episode_slug: 52-die-schatzjaeger-im-bann-der-rubine-339169
         fernsehserien_episode_id: 339169

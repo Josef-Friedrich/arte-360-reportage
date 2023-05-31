@@ -6,7 +6,7 @@ chatgpt:
 	$(SCRIPT) --chatgpt
 
 coordinates:
-	$(SCRIPT) --coordinates:
+	$(SCRIPT) --coordinates
 
 json:
 	$(SCRIPT) --json
