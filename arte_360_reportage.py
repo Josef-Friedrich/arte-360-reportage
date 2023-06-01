@@ -5,6 +5,7 @@ from __future__ import annotations
 import abc
 import argparse
 import difflib
+import operator
 import json
 import pathlib
 import re
@@ -996,6 +997,9 @@ class TvShow:
         dvds: list[DvdData] = []
         for dvd in self.dvds:
             dvds.append(dvd.export_data())
+
+        dvds.sort(key=operator.itemgetter('title'))
+        dvds.sort(key=operator.itemgetter('release_data'))
         data["dvds"] = dvds
 
         return data
