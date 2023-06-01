@@ -195,7 +195,7 @@
 | Feld1 = -
 | REG = Wibke Kämpfer
 | EA = 1999-07-05
-| ZF = Jessica war als Kind anders als die anderen: Sie sprach früh ganze Sätze, konnte mit zweieinhalb lesen und war intellektuell ihren Altersgenossen weit voraus. Ihre Mutter schickte sie auf das schottische Hochbegabten-Internat Cademuir, da sie von ihren Mitschülern als Streberin gemieden wurde. Etwa 2-5% der Kinder haben einen IQ über 130 und gelten als hochbegabt. Oft wird Hochbegabung nicht erkannt, was zu Unterforderung und sozialer Ausgrenzung führt. Cademuir bietet diesen Kindern eine Chance für ein neues Leben.
+| ZF = Jessica war als Kind anders als die anderen: Sie sprach früh ganze Sätze, konnte mit zweieinhalb lesen und war intellektuell ihren Altersgenossen weit voraus. Ihre Mutter schickte sie auf das schottische Hochbegabten-Internat Cademuir, da sie von ihren Mitschülern als Streberin gemieden wurde. Etwa 2–5% der Kinder haben einen IQ über 130 und gelten als hochbegabt. Oft wird Hochbegabung nicht erkannt, was zu Unterforderung und sozialer Ausgrenzung führt. Cademuir bietet diesen Kindern eine Chance für ein neues Leben.
 }}
 {{Episodenlisteneintrag2
 | NR_GES = 22
@@ -4839,53 +4839,59 @@
 | REG = Nazan Sahan
 | EA = 2021-09-11
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 571
 | NR_ST = 19
 | OT = Der Traum vom Gold - Tirols Überfliegerinnen<ref>Internetquellen zur Episode ''„Der Traum vom Gold - Tirols Überfliegerinnen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/573-der-traum-vom-gold-tirols-ueberfliegerinnen-1494060 573] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/573-der-traum-vom-gold-tirols-ueberfliegerinnen-1494060 1494060], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8692435 S23E19] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8692435 8692435], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt15455872 tt15455872], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=9z8Eer2KngU 9z8Eer2KngU]</ref>
 | Feld1 = Le saut à ski féminin prend son envol
 | REG = Therese Engels
 | EA = 2021-09-11
+| ZF = Frauen erobern die Skisprungschanze und kämpfen sich in diese einst männliche Domäne. Das österreichische Skigymnasium Stams ist eine renommierte Talentschmiede und bildet junge Nachwuchsspringerinnen aus, die das Ziel haben, an die Spitze der Welt zu gelangen. Paula von Lamberg war eine Pionierin des Damenskisprungs und stellte 1911 einen Weltrekord auf. Obwohl es fast hundert Jahre dauerte, bis das Skispringen der Frauen anerkannt wurde, kämpfen sie heute immer noch um mediale Aufmerksamkeit. Julia Mühlbacher und Martina Ambrosi gehören zu den vielversprechendsten Nachwuchshoffnungen und wollen das Frauen-Skispringen stärker in den Fokus rücken. Martina muss ihre persönlichen Ängste überwinden, um ihre langersehnte Chance auf eine Teilnahme an der Weltmeisterschaft zu nutzen.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 572
 | NR_ST = 20
 | OT = Schweiz: Gletscherflieger - Faszination in Weiß<ref>Internetquellen zur Episode ''„Schweiz: Gletscherflieger - Faszination in Weiß“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/574-schweiz-gletscherflieger-faszination-in-weiss-1495977 574] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/574-schweiz-gletscherflieger-faszination-in-weiss-1495977 1495977], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8692436 S23E20] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8692436 8692436], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt16590496 tt16590496], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=jEZT_6_qloo jEZT_6_qloo]</ref>
 | Feld1 = Suisse, en vol avec des pilotes des glaciers
 | REG = Frank T. Mirbach
 | EA = 2021-09-25
+| ZF = In der Schweiz rettet die Rega, die Schweizer Rettungsflugwacht, täglich Leben in den Tälern und Bergen. Die Gletscherfliegerei gilt als anspruchsvolle Königsdisziplin für Piloten und hat schon vielen Menschen geholfen. Isabel Menzi, eine Pilotin bei einer Fluggesellschaft, möchte Gletscherpilotin werden und absolviert eine intensive Ausbildung. Die Gletscherfliegerei ermöglichte den Bau von Berghütten und ist schwierig aufgrund des schwierigen Geländes. Die Ausbildung erfordert Hunderte von Flugstunden. Notarzt Joachim Koppenberg verlässt sich auf die Erfahrung seines Piloten, um schnell zu Unfallorten in den Bergen zu gelangen. Die Gletscherfliegerei entstand aus einem schweren Unglück im Jahr 1946, als ein Schweizer Pilot Kufen an zwei Flugzeugen anbrachte, um Überlebende in den eisigen Höhen zu bergen.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 573
 | NR_ST = 21
 | OT = Koh Panyee - Thailands fußballverrückte Insel<ref>Internetquellen zur Episode ''„Koh Panyee - Thailands fußballverrückte Insel“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/575-koh-panyee-thailands-fussballverrueckte-insel-1497505 575] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/575-koh-panyee-thailands-fussballverrueckte-insel-1497505 1497505], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8692437 S23E21] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8692437 8692437], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt15535426 tt15535426], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=RC_j7QQ1r5U RC_j7QQ1r5U]</ref>
 | Feld1 = Thaïlande, un terrain de football insolite
 | REG = Martin Schacht
 | EA = 2021-10-02
+| ZF = Die kleine Insel Koh Panyee in Thailand, umgeben von hohen Karstfelsen, hat ein schwimmendes Fußballstadion. Das Stadion ist jedoch in einem schlechten Zustand und muss vor einem großen Turnier renoviert werden. Die Bewohner der Insel leben auf Stelzen über dem Wasser und sind hauptsächlich Fischer. Trotzdem sind sie fußballbegeistert und wollen ihr Dorf wieder zu einer Fußballhochburg machen. Mit Spenden und harter Arbeit soll das Stadion spielbereit gemacht werden. Das Team der Insel ist hochmotiviert und trainiert sogar auf einer Sandbank, um beim Heimturnier erfolgreich zu sein.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 574
 | NR_ST = 22
 | OT = Stromboli - Zwischen Feuer und Meer<ref>Internetquellen zur Episode ''„Stromboli - Zwischen Feuer und Meer“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/576-stromboli-zwischen-feuer-und-meer-1499263 576] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/576-stromboli-zwischen-feuer-und-meer-1499263 1499263], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8692438 S23E22] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8692438 8692438], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt15610994 tt15610994], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=_z29qS0mTjY _z29qS0mTjY]</ref>
 | Feld1 = Stromboli, terre de feu
 | REG = Luigi Maria Perotti
 | EA = 2021-10-09
+| ZF = Auf der Insel Stromboli leben etwa 300 Menschen am Fuße eines aktiven Vulkans. Die Bewohner sind Künstler, Bauern, Bergführer und vor allem Fischer. Trotz geringem Profit fischen sie nachhaltig ohne moderne Technik und scheinen von der modernen Welt entrückt zu sein. Einige junge Menschen, wie der 22-jährige Andrea, kehren zurück, um die Fischerei von ihrem Vater zu erlernen. Der Vulkan bedroht die Insel regelmäßig, doch die Anziehungskraft und der Zauber der Insel halten an. Vulkanologe Giovanni besteigt den Vulkan, um neue Messgeräte zu installieren und die Gefahr einzuschätzen.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 575
 | NR_ST = 23
 | OT = Italien - Die Igel-Retter aus dem Piemont<ref>Internetquellen zur Episode ''„Italien - Die Igel-Retter aus dem Piemont“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/577-italien-die-igel-retter-aus-dem-piemont-1501091 577] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/577-italien-die-igel-retter-aus-dem-piemont-1501091 1501091], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8788087 S23E23] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8788087 8788087], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt17043702 tt17043702], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=FN8ybVCWbVw FN8ybVCWbVw]</ref>
 | Feld1 = Italie, un refuge pour hérissons
 | REG = Rosie Koch
 | EA = 2021-10-16
+| ZF = Dr. Massimo Vacchetta leitet die einzige Igelklinik Italiens. Er kümmert sich mit seinem Team um verletzte Igel, die Opfer von Unfällen mit Autos oder Gartengeräten wurden. Mit viel Feingefühl und unkonventionellen Methoden werden die stacheligen Patienten wochenlang gepflegt, um sie fit für ein Leben in der Natur zu machen. Alles begann mit einem winzigen Igelmädchen namens Ninna, das Dr. Massimo tief berührte. Gesunde Igel werden sorgfältig in die Freiheit entlassen, was für den „Igel-Doktor“ jedes Mal ein glücklicher, aber auch wehmütiger Moment ist.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 576
 | NR_ST = 24
 | OT = Dolomiten: Die Bergführer von San Martino<ref>Internetquellen zur Episode ''„Dolomiten: Die Bergführer von San Martino“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/578-dolomiten-die-bergfuehrer-von-san-martino-1508252 578] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/578-dolomiten-die-bergfuehrer-von-san-martino-1508252 1508252], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8814843 S23E24] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8814843 8814843], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt15746990 tt15746990], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=rqDUm-WpZJ0 rqDUm-WpZJ0]</ref>
 | Feld1 = Dolomites, la passion de l'alpinisme
 | REG = Alessandro Cassigoli
 | EA = 2021-10-30
+| ZF = Die Sendung erzählt von Aquile di San Martino, dem bekanntesten und ältesten Bergsteigerverein in den Dolomiten. Zwei Bergführer, Rocco und der junge Livio, stellen sich einer herausfordernden Expedition an einer Extremwand der Pale di San Martino. Rocco führt erfahrene Kletterer an der Wand entlang und beschützt sie, während Livio diese Expedition als letzten Test bestehen muss.
 }}
 }}
 

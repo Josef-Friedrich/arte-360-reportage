@@ -1920,7 +1920,7 @@ seasons:
             früh ganze Sätze, konnte mit zweieinhalb lesen und war intellektuell
             ihren Altersgenossen weit voraus. Ihre Mutter schickte sie auf
             das schottische Hochbegabten-Internat Cademuir, da sie von ihren
-            Mitschülern als Streberin gemieden wurde. Etwa 2-5% der Kinder
+            Mitschülern als Streberin gemieden wurde. Etwa 2–5% der Kinder
             haben einen IQ über 130 und gelten als hochbegabt. Oft wird Hochbegabung
             nicht erkannt, was zu Unterforderung und sozialer Ausgrenzung
             führt. Cademuir bietet diesen Kindern eine Chance für ein neues
@@ -56071,65 +56071,18 @@ seasons:
             Chance auf eine WM-Teilnahme jedenfalls will sie sich nicht nehmen
             lassen. Ein Schlüsselerlebnis für beide Athletinnen - wird ihnen
             der Sprung in die Weltspitze gelingen?'
-        description_fernsehserien: 'Die „fliegende Gräfin“ Paula von Lamberg
-            gilt als Pionierin des Damenskisprungs. 1911 stellte sie in Kitzbühel
-            mit 22 Metern einen Weltrekord auf. Trotzdem sollte es noch fast
-            hundert Jahre dauern, bis es für Damen 2009 die erste Weltmeisterschaft
-            gab - und erst 2014 wurde das Skispringen der Frauen olympisch.
-            Auch wenn sie oft noch um mediale Aufmerksamkeit kämpfen müssen,
-            stehen Frauen in dieser faszinierenden Sportart längst ihren Mann.
-
-            Zu den größten Nachwuchshoffnungen gehört die 16-jährige Julia
-            Mühlbacher, die bereits bei mehreren Wettkämpfen auf vorderen
-            Plätzen landete. Nun soll es zur Junioren-WM nach Finnland gehen.
-            Zusammen mit ihren Mitschülerinnen aus Stams will Julia hier nicht
-            nur eine neue persönliche Bestweite erzielen, sondern das Frauen-Springen
-            generell stärker in den Fokus rücken.
-
-            Zu ihren Mitstreiterinnen gehört Martina Ambrosi. Die 19 Jahre
-            alte Italienerin muss gerade eine besondere persönliche Bewährungsprobe
-            überstehen: Vor zwei Jahren stürzte sie während eines Sprungs
-            so unglücklich, dass sie mehrere Monate brauchte, bis sie sich
-            wieder auf die Schanze wagte. Die Angst vor einem erneuten Sturz
-            ist seitdem ihr ständiger Begleiter, dennoch arbeitet sie Tag
-            für Tag an sich. Martina muss nicht nur ihre Technik verbessern,
-            sondern auch die Barriere in ihrem Kopf überwinden. Die langersehnte
-            Chance auf eine WM-Teilnahme jedenfalls will sie sich nicht nehmen
-            lassen. Ein Schlüsselerlebnis für beide Athletinnen - wird ihnen
-            der Sprung in die Weltspitze gelingen? (Text: Arte)'
-        description_youtube: 'Frauenpower auf der Schanze: Skispringen ist
-            keine reine Männerdomäne mehr. Bei ihren Wettkämpfen, inzwischen
-            auch bei den Olympischen Spielen, geben die nervenstarken Athletinnen
-            alles. Die wohl renommierteste Talentschmiede in Europa ist das
-            österreichische Skigymnasium Stams. Hier werden junge Nachwuchsspringerinnen
-            ausgebildet. Ihr gemeinsames Ziel: Der Sprung in die Weltspitze!
-
-            Die „fliegende Gräfin“ Paula von Lamberg gilt als Pionierin des
-            Damenskisprungs. 1911 stellte sie in Kitzbühel mit 22 Metern einen
-            Weltrekord auf. Trotzdem sollte es noch fast hundert Jahre dauern,
-            bis es für Damen 2009 die erste Weltmeisterschaft gab - und erst
-            2014 wurde das Skispringen der Frauen olympisch. Auch wenn sie
-            oft noch um mediale Aufmerksamkeit kämpfen müssen, stehen Frauen
-            in dieser faszinierenden Sportart längst ihren Mann.
-
-            Zu den größten Nachwuchshoffnungen gehört die 16-jährige Julia
-            Mühlbacher, die bereits bei mehreren Wettkämpfen auf vorderen
-            Plätzen landete. Nun soll es zur Junioren-WM nach Finnland gehen.
-            Zusammen mit ihren Mitschülerinnen aus Stams will Julia hier nicht
-            nur eine neue persönliche Bestweite erzielen, sondern das Frauen-Springen
-            generell stärker in den Fokus rücken.
-
-            Zu ihren Mitstreiterinnen gehört Martina Ambrosi. Die 19 Jahre
-            alte Italienerin muss gerade eine besondere persönliche Bewährungsprobe
-            überstehen: Vor zwei Jahren stürzte sie während eines Sprungs
-            so unglücklich, dass sie mehrere Monate brauchte, bis sie sich
-            wieder auf die Schanze wagte. Die Angst vor einem erneuten Sturz
-            ist seitdem ihr ständiger Begleiter, dennoch arbeitet sie Tag
-            für Tag an sich. Martina muss nicht nur ihre Technik verbessern,
-            sondern auch die Barriere in ihrem Kopf überwinden. Die langersehnte
-            Chance auf eine WM-Teilnahme jedenfalls will sie sich nicht nehmen
-            lassen. Ein Schlüsselerlebnis für beide Athletinnen - wird ihnen
-            der Sprung in die Weltspitze gelingen?'
+        summary: Frauen erobern die Skisprungschanze und kämpfen sich in diese
+            einst männliche Domäne. Das österreichische Skigymnasium Stams
+            ist eine renommierte Talentschmiede und bildet junge Nachwuchsspringerinnen
+            aus, die das Ziel haben, an die Spitze der Welt zu gelangen. Paula
+            von Lamberg war eine Pionierin des Damenskisprungs und stellte
+            1911 einen Weltrekord auf. Obwohl es fast hundert Jahre dauerte,
+            bis das Skispringen der Frauen anerkannt wurde, kämpfen sie heute
+            immer noch um mediale Aufmerksamkeit. Julia Mühlbacher und Martina
+            Ambrosi gehören zu den vielversprechendsten Nachwuchshoffnungen
+            und wollen das Frauen-Skispringen stärker in den Fokus rücken.
+            Martina muss ihre persönlichen Ängste überwinden, um ihre langersehnte
+            Chance auf eine Teilnahme an der Weltmeisterschaft zu nutzen.
         director: Therese Engels
         air_date: '2021-09-11'
         duration: 32
@@ -56192,90 +56145,19 @@ seasons:
             zum Alltag der renommierten Gletscherflieger in den Schweizer
             Alpen. Und Isabel Menzi, die Gletscherflieger-Schülerin, will
             bald zu ihnen gehören. Wird ihr Ausbilder sie zur Prüfung zulassen?'
-        description_fernsehserien: 'Isabel Menzi ist im Hauptberuf Pilotin
-            bei einer Schweizer Fluggesellschaft. Doch sie liebt nicht nur
-            die großen Jumbos, sondern auch die kleinen Gletscherflugzeuge,
-            mit denen die junge Frau inzwischen regelmäßig in den Hochalpen
-            unterwegs ist. Ihr Ziel: Sie will Gletscherpilotin werden und
-            muss sich dazu ganz neu bewähren, denn die Ausbildung hat es in
-            sich.Diese fliegerische Tradition rettete in den letzten Jahrzehnten
-            schon Tausenden Menschen das Leben, obendrein machte sie Bau und
-            Versorgung zahlreicher Berghütten in den Schweizer Alpen erst
-            möglich. Das Gletscherfliegen ist besonders schwierig, da etwa
-            in der weißen, schroffen Bergwelt das Gelände für die Landung
-            oft nur schwer zu erkennen ist, hinzu kommen unberechenbare Faktoren
-            wie Wind und Schneebeschaffenheit.
-
-            Die Ausbildung zur Gletscherpilotin ist entsprechend umfangreich
-            und nimmt daher mehrere Hundert Flugstunden in Anspruch. Ohne
-            die Kunst der traditionellen Gletscherfliegerei könnte auch Notarzt
-            Joachim Koppenberg seinen Job heute kaum ausüben. Er sitzt zwar
-            im Hightech-Helikopter, muss sich aber auf die Erfahrung und das
-            Können seines Piloten verlassen. Nur so kann er in wenigen Minuten
-            von seiner Basis in Samedan zu jedem noch so entlegenen Unglücksort
-            in den Bergen gelangen. Sein Alltag ist ein ständiger Kampf gegen
-            die Uhr, um Verletzte zu bergen, noch an der Unfallstelle lebensrettend
-            zu versorgen und so schnell wie möglich in eines der Krankenhäuser
-            transportieren zu lassen.
-
-            Ein schweres Unglück war es auch, das einst die Geburtsstunde
-            der Gletscherfliegerei einläutete: Im November 1946 verloren die
-            Piloten einer Maschine der US-Luftwaffe auf dem Flug von München
-            nach Marseille die Orientierung, woraufhin das Flugzeug in über
-            3.000 Metern abstürzte. Die zwölf Insassen überlebten zwar, doch
-            es gab eigentlich kaum eine Möglichkeit, sie in den eisigen Höhen
-            zu bergen. Bis ein Schweizer Pilot kurzerhand zwei Flugzeuge mit
-            Kufen ausstattete. Das Fliegen solcher Maschinen gehört heute
-            zum Alltag der renommierten Gletscherflieger in den Schweizer
-            Alpen. Und Isabel Menzi, die Gletscherflieger-Schülerin, will
-            bald zu ihnen gehören. Wird ihr Ausbilder sie zur Prüfung zulassen?
-            (Text: Arte)'
-        description_youtube: 'In den Tälern und Bergen der Schweiz retten
-            sie jeden Tag Leben: die Piloten, Ärzte und Sanitäter der Rega,
-            der Schweizer Rettungsflugwacht. Die Männer und Frauen haben einen
-            komplexen und gefährlichen Job. Die schwierigen Manöver in der
-            dünnen Höhenluft sind extrem anspruchsvoll - die Gletscherfliegerei
-            gilt bis heute als eine der Königsdisziplinen für Pilotinnen und
-            Piloten.
-
-            Isabel Menzi ist im Hauptberuf Pilotin bei einer Schweizer Fluggesellschaft.
-            Doch sie liebt nicht nur die großen Jumbos, sondern auch die kleinen
-            Gletscherflugzeuge, mit denen die junge Frau inzwischen regelmäßig
-            in den Hochalpen unterwegs ist. Ihr Ziel: Sie will Gletscherpilotin
-            werden und muss sich dazu ganz neu bewähren, denn die Ausbildung
-            hat es in sich.
-
-            Diese fliegerische Tradition rettete in den letzten Jahrzehnten
-            schon Tausenden Menschen das Leben, obendrein machte sie Bau und
-            Versorgung zahlreicher Berghütten in den Schweizer Alpen erst
-            möglich. Das Gletscherfliegen ist besonders schwierig, da etwa
-            in der weißen, schroffen Bergwelt das Gelände für die Landung
-            oft nur schwer zu erkennen ist, hinzu kommen unberechenbare Faktoren
-            wie Wind und Schneebeschaffenheit.
-
-            Die Ausbildung zur Gletscherpilotin ist entsprechend umfangreich
-            und nimmt daher mehrere Hundert Flugstunden in Anspruch. Ohne
-            die Kunst der traditionellen Gletscherfliegerei könnte auch Notarzt
-            Joachim Koppenberg seinen Job heute kaum ausüben. Er sitzt zwar
-            im Hightech-Helikopter, muss sich aber auf die Erfahrung und das
-            Können seines Piloten verlassen. Nur so kann er in wenigen Minuten
-            von seiner Basis in Samedan zu jedem noch so entlegenen Unglücksort
-            in den Bergen gelangen. Sein Alltag ist ein ständiger Kampf gegen
-            die Uhr, um Verletzte zu bergen, noch an der Unfallstelle lebensrettend
-            zu versorgen und so schnell wie möglich in eines der Krankenhäuser
-            transportieren zu lassen.
-
-            Ein schweres Unglück war es auch, das einst die Geburtsstunde
-            der Gletscherfliegerei einläutete: Im November 1946 verloren die
-            Piloten einer Maschine der US-Luftwaffe auf dem Flug von München
-            nach Marseille die Orientierung, woraufhin das Flugzeug in über
-            3.000 Metern abstürzte. Die zwölf Insassen überlebten zwar, doch
-            es gab eigentlich kaum eine Möglichkeit, sie in den eisigen Höhen
-            zu bergen. Bis ein Schweizer Pilot kurzerhand zwei Flugzeuge mit
-            Kufen ausstattete. Das Fliegen solcher Maschinen gehört heute
-            zum Alltag der renommierten Gletscherflieger in den Schweizer
-            Alpen. Und Isabel Menzi, die Gletscherflieger-Schülerin, will
-            bald zu ihnen gehören. Wird ihr Ausbilder sie zur Prüfung zulassen?'
+        summary: In der Schweiz rettet die Rega, die Schweizer Rettungsflugwacht,
+            täglich Leben in den Tälern und Bergen. Die Gletscherfliegerei
+            gilt als anspruchsvolle Königsdisziplin für Piloten und hat schon
+            vielen Menschen geholfen. Isabel Menzi, eine Pilotin bei einer
+            Fluggesellschaft, möchte Gletscherpilotin werden und absolviert
+            eine intensive Ausbildung. Die Gletscherfliegerei ermöglichte
+            den Bau von Berghütten und ist schwierig aufgrund des schwierigen
+            Geländes. Die Ausbildung erfordert Hunderte von Flugstunden. Notarzt
+            Joachim Koppenberg verlässt sich auf die Erfahrung seines Piloten,
+            um schnell zu Unfallorten in den Bergen zu gelangen. Die Gletscherfliegerei
+            entstand aus einem schweren Unglück im Jahr 1946, als ein Schweizer
+            Pilot Kufen an zwei Flugzeugen anbrachte, um Überlebende in den
+            eisigen Höhen zu bergen.
         director: Frank T. Mirbach
         air_date: '2021-09-25'
         duration: 32
@@ -56329,45 +56211,15 @@ seasons:
             Sandbank - zusammen mit ihren enthusiastischen Fans werden sie
             nichts unversucht lassen, um beim ersten Heimturnier seit Jahren
             als Sieger vom Platz zu gehen...'
-        description_fernsehserien: '1986 sah eine Gruppe von Kindern in Thailand
-            ein Fußballspiel im Fernsehen. Sie träumten, einmal selbst an
-            einer Fussball-Weltmeisterschaft teilzunehmen. Nur wohnten sie
-            auf einer auf Stelzen gebauten Stadt. Die Kinder gingen daran
-            ein eigenes Fußballfeld auf dem Meer zu schaffen. Ihr Vertrauen
-            und Glaube es zu realisieren war größer als die Zweifel der anderen
-            Inselbewohner. (Text: Arte)'
-        description_youtube: 'Eine echte Postkartenidylle: Die kleine Insel
-            Koh Panyee liegt malerisch umringt von hoch aufragenden Karstfelsen
-            inmitten der Phang-Nga-Bucht im Süden Thailands. Atemberaubend
-            schön, jedoch im Alltag auch extrem eng. Denn die Einwohner leben
-            auf Stelzen über dem Wasser, die meisten von ihnen betreiben Fischfang
-            und Bootsbau. Und sie sind fußballbegeistert - natürlich haben
-            sie in ihrem Dorf auf dem Meer keinen normalen Fußballplatz, sondern
-            ein schwimmendes kleines Stadion. Allerdings ist die Ponton-Konstruktion
-            inzwischen kaum noch bespielbar. Das muss jetzt anders werden,
-            denn ein großes Turnier steht an, das erste seit Jahren. Ein Neustart
-            für Koh Panyees Wasserstadion - und alle packen mit an.
-
-            Die Insel Koh Panyee liegt inmitten einer endlosen, glitzernden
-            Wasserfläche. Gleißende Sonne, im Wechsel mit plötzlichen, heftigen
-            Gewittern, kündigt schon den Wechsel der Jahreszeiten an. Die
-            typischen Longtailboote der Fischer kreuzen bereits zum Sonnenaufgang
-            durch die Bucht, sie sind das Hauptverkehrsmittel zwischen den
-            Inseln. Koh Panyee war einst ein Magnet für Fußball-Begeisterte
-            aus ganz Thailand. Inzwischen verfällt der schwimmende Fußballplatz
-            immer mehr. Die ehemaligen Erfolgs-Spieler sind nicht mehr aktiv,
-            der Ruhm des Fußballvereins „Koh Panyee FC“ ist längst verblasst.
-            Aber dieses Jahr soll ein Wendepunkt sein, ein Neuanfang. Endlich
-            wird wieder ein prestigeträchtiges Turnier stattfinden, noch vor
-            Beginn der Regenzeit und dem muslimischen Fastenmonat Ramadan.
-            Dafür muss der Platz wiederhergerichtet werden. Das bedeutet viel
-            Arbeit und immense Kosten, aber viele Bewohner wollen das Projekt
-            mit ihren Spenden auf jeden Fall möglich machen. Das Team der
-            Gastgeber jedenfalls ist auch sportlich hochmotiviert, zur Steigerung
-            der Fitness gibt es sogar Trainingseinheiten auf einer nahegelegenen
-            Sandbank - zusammen mit ihren enthusiastischen Fans werden sie
-            nichts unversucht lassen, um beim ersten Heimturnier seit Jahren
-            als Sieger vom Platz zu gehen...'
+        summary: Die kleine Insel Koh Panyee in Thailand, umgeben von hohen
+            Karstfelsen, hat ein schwimmendes Fußballstadion. Das Stadion
+            ist jedoch in einem schlechten Zustand und muss vor einem großen
+            Turnier renoviert werden. Die Bewohner der Insel leben auf Stelzen
+            über dem Wasser und sind hauptsächlich Fischer. Trotzdem sind
+            sie fußballbegeistert und wollen ihr Dorf wieder zu einer Fußballhochburg
+            machen. Mit Spenden und harter Arbeit soll das Stadion spielbereit
+            gemacht werden. Das Team der Insel ist hochmotiviert und trainiert
+            sogar auf einer Sandbank, um beim Heimturnier erfolgreich zu sein.
         director: Martin Schacht
         air_date: '2021-10-02'
         duration: 32
@@ -56390,67 +56242,6 @@ seasons:
         coordinates:
         - 38.794166666667
         - 15.217777777778
-        description: 'Warum wohnen Menschen freiwillig am Fuße eines aktiven
-            Vulkans? Auf der Insel Stromboli, dem kleinen Eiland vor der Küste
-            Süditaliens, leben gerade einmal rund 300 Menschen. Es sind Künstler,
-            Bauern, Bergführer - aber vor allem Fischer. Bis heute wird auf
-            Stromboli nachhaltig gefischt, nahezu ohne technische Hilfsmittel.
-            Gewinn ist damit kaum zu machen, dafür genießen die Fischer hier
-            ihr selbstbestimmtes Leben und sind der modernen Konsum-Welt anscheinend
-            völlig entrückt.
-
-            Die meisten jungen Leute verlassen irgendwann ihre Heimat, sie
-            wollen woanders ihr Glück suchen, Karriere machen. Doch noch immer
-            gibt es auch junge Menschen, die sich von dem bescheidenen Leben
-            auf der Insel angezogen fühlen, ganz wie in dem gleichnamigen
-            Filmklassiker von Roberto Rossellini, mit Ingrid Bergman in der
-            Hauptrolle. Liegt es an einer Art Magie, die von Strombolis Vulkan
-            ausgeht?  Der 22-jährige Andrea Cusolito ist nach über zehn Jahren
-            auf seine Geburtsinsel zurückgekehrt. Nach Jahren bei seiner Mutter
-            in Deutschland will er nun von seinem fast 70-jährigen Vater die
-            Tricks und Kniffe der nachhaltigen Fischerei erlernen. Gaetano,
-            ein Stromboli-Fischer durch und durch, hofft darauf, dass sich
-            Andrea entschließt, dauerhaft auf Stromboli zu leben. Kann er
-            seinem Sohn den Zauber der Insel vermitteln? Die Arbeit der Fischer
-            ist hart, ihr Einkommen mäßig. Sie sind extrem abhängig vom Wetter,
-            zudem grollt oben der Vulkan alle paar Minuten bedrohlich. Erst
-            2019 gab es eine gewaltige Eruption, bei der sogar ein Mensch
-            ums Leben kam. Ist ein solches Dasein wirklich attraktiv? Während
-            Andrea noch mit der Entscheidung hadert, beobachten Vulkanologen
-            wie Giovanni Giuffrida die Aktivität des Feuerberges ganz genau.
-            Wieviel Gefahr geht von ihm aktuell aus? Der Wissenschaftler steht
-            vor einer gewagten Aufgabe: Er wird selbst den aktiven Vulkan
-            besteigen und neue Messgeräte installieren - eine Mission, für
-            die er nicht nur Mut, sondern das richtige Timing und viel Glück
-            braucht.'
-        description_fernsehserien: 'Wohnen am Fuße eines aktiven Vulkans -
-            Alltag für die rund 300 Bewohnerinnen und Bewohner der Insel Stromboli.
-            Die meisten von ihnen arbeiten als Künstler, Bauern, Bergführer
-            - und vor allem als Fischer. Denn bis heute wird auf Stromboli
-            nahezu ohne technische Hilfsmittel gefischt. Zwar können die Fischer
-            kaum einen Gewinn erwirtschaften, doch sie führen ein selbstbestimmtes
-            Leben - fernab der modernen Konsum-Welt.
-
-            Die meisten jungen Leute verlassen ihre Heimat, um andernorts
-            ihr Glück suchen. Doch noch immer gibt es auch junge Menschen,
-            die sich von dem bescheidenen Leben auf der Insel angezogen fühlen
-            - so auch der 22-jährige Andrea Cusolito. Nach über zehn Jahren
-            ist er nun auf seine Geburtsinsel zurückgekehrt. Aufgewachsen
-            bei seiner Mutter in Deutschland, will er nun von seinem Vater
-            Gaetano die Tricks der nachhaltigen Fischerei erlernen. Gaetano
-            ist ein Stromboli-Fischer durch und durch. Er hofft, dass sich
-            Andrea für ein dauerhaftes Leben auf Stromboli entschließt … Kann
-            er seinen Sohn vom Zauber der Insel überzeugen? Der Arbeitsalltag
-            der Fischer sieht jedoch weniger rosig aus: die Arbeit ist hart,
-            das Einkommen mäßig. Zudem stellt der Vulkan eine permanente Bedrohung
-            dar. Erst 2019 gab es eine gewaltige Eruption, bei der ein Mensch
-            ums Leben kam. Wie attraktiv ist das Leben unter solchen Bedingungen?
-
-            Der Vulkanologe Giovanni Giuffrida untersucht die Aktivität des
-            Feuerberges. Wie viel Gefahr geht von ihm aktuell aus? Giovanni
-            wird den aktiven Vulkan selbst besteigen, um neue Messgeräte zu
-            installieren - eine Herausforderung für den erfahrenen Geologen.
-            (Text: Arte)'
         description_youtube: 'Warum wohnen Menschen freiwillig am Fuße eines
             aktiven Vulkans? Auf der Insel Stromboli, dem kleinen Eiland vor
             der Küste Süditaliens, leben gerade einmal rund 300 Menschen.
@@ -56472,18 +56263,30 @@ seasons:
             Tricks und Kniffe der nachhaltigen Fischerei erlernen. Gaetano,
             ein Stromboli-Fischer durch und durch, hofft darauf, dass sich
             Andrea entschließt, dauerhaft auf Stromboli zu leben. Kann er
-            seinem Sohn den Zauber der Insel vermitteln? Die Arbeit der Fischer
-            ist hart, ihr Einkommen mäßig. Sie sind extrem abhängig vom Wetter,
-            zudem grollt oben der Vulkan alle paar Minuten bedrohlich. Erst
-            2019 gab es eine gewaltige Eruption, bei der sogar ein Mensch
-            ums Leben kam. Ist ein solches Dasein wirklich attraktiv? Während
-            Andrea noch mit der Entscheidung hadert, beobachten Vulkanologen
+            seinem Sohn den Zauber der Insel vermitteln?
+
+            Die Arbeit der Fischer ist hart, ihr Einkommen mäßig. Sie sind
+            extrem abhängig vom Wetter, zudem grollt oben der Vulkan alle
+            paar Minuten bedrohlich. Erst 2019 gab es eine gewaltige Eruption,
+            bei der sogar ein Mensch ums Leben kam. Ist ein solches Dasein
+            wirklich attraktiv?
+
+            Während Andrea noch mit der Entscheidung hadert, beobachten Vulkanologen
             wie Giovanni Giuffrida die Aktivität des Feuerberges ganz genau.
             Wieviel Gefahr geht von ihm aktuell aus? Der Wissenschaftler steht
             vor einer gewagten Aufgabe: Er wird selbst den aktiven Vulkan
             besteigen und neue Messgeräte installieren - eine Mission, für
             die er nicht nur Mut, sondern das richtige Timing und viel Glück
             braucht.'
+        summary: Auf der Insel Stromboli leben etwa 300 Menschen am Fuße eines
+            aktiven Vulkans. Die Bewohner sind Künstler, Bauern, Bergführer
+            und vor allem Fischer. Trotz geringem Profit fischen sie nachhaltig
+            ohne moderne Technik und scheinen von der modernen Welt entrückt
+            zu sein. Einige junge Menschen, wie der 22-jährige Andrea, kehren
+            zurück, um die Fischerei von ihrem Vater zu erlernen. Der Vulkan
+            bedroht die Insel regelmäßig, doch die Anziehungskraft und der
+            Zauber der Insel halten an. Vulkanologe Giovanni besteigt den
+            Vulkan, um neue Messgeräte zu installieren und die Gefahr einzuschätzen.
         director: Luigi Maria Perotti
         air_date: '2021-10-09'
         duration: 32
@@ -56535,61 +56338,15 @@ seasons:
             den „Igel-Doktor“ ist das jedes Mal aufs Neue ein Moment des Glücks,
             gemischt mit einer Prise Wehmut - wenn sich seine Igel wieder
             in ihren natürlichen Lebensraum aufmachen.'
-        description_fernsehserien: 'Orecchio, Ettore, Pino oder Onorina -
-            sie alle sind Patienten bei Dr. Massimo Vacchetta, in der einzigen
-            Igelklinik Italiens. Die nachtaktiven Tiere sind Opfer von Autos,
-            motorisierten Heckenscheren, Sensen oder Mährobotern, ihre Verletzungen
-            sind oft schwerwiegend. Dottore Massimo betreut seine Schützlinge
-            zusammen mit fünf Angestellten und vielen ehrenamtlichen Helferinnen
-            und Helfern rund um die Uhr. Mit Feingefühl und auch unkonventionellen
-            Methoden werden die stacheligen Patienten oft wochenlang aufgepäppelt.
-            Das große Ziel: Sie wieder fit zu machen für ein Leben in der
-            Natur. Angefangen hat alles mit einem winzigen Igelmädchen: „Als
-            ich das erste Mal Ninna in der Praxis eines Kollegen sah, war
-            sie noch sehr klein. Sie wog gerade mal fünfundzwanzig Gramm.
-            Ich war tief berührt - und mir wurde so einiges klar.
-
-            Zum Beispiel, dass es die kleinen Dinge sind, die einen glücklich
-            machen. Ich betrachtete den Igel, der so zufrieden und glücklich
-            war, wenn er einen Tropfen Milch zu sich nahm und dann in meiner
-            Hand einschlief. Im Grunde lehrte er mich, dass ich den Sinn des
-            Lebens woanders suchen musste.“Heute, wenn Massimos stachelige
-            Patienten gesund genug sind, werden sie mit größtmöglicher Fürsorge
-            in die Freiheit entlassen. Für den „Igel-Doktor“ ist das jedes
-            Mal aufs Neue ein Moment des Glücks, gemischt mit einer Prise
-            Wehmut - wenn sich seine Igel wieder in ihren natürlichen Lebensraum
-            aufmachen. (Text: Arte)'
-        description_youtube: 'In seinem Job hat Massimo Vacchetta schon fast
-            alles an tierischen Patienten behandelt. Bis die kleine Ninna
-            das Herz des Tierarztes so sehr berührte, dass er sich fortan
-            der Rettung einer Art verschrieb: der Igel. Die uralte Villa des
-            „Igel-Doktors“ hoch über den Weinbergen im Nordwesten Italiens
-            ist inzwischen eine Institution. Wie sieht der Alltag in der Igel-Ambulanz
-            aus?
-
-            Orecchio, Ettore, Pino oder Onorina - sie alle sind Patienten
-            bei Dr. Massimo Vacchetta, in der einzigen Igelklinik Italiens.
-            Die nachtaktiven Tiere sind Opfer von Autos, motorisierten Heckenscheren,
-            Sensen oder Mährobotern, ihre Verletzungen sind oft schwerwiegend.
-            Dottore Massimo betreut seine Schützlinge zusammen mit fünf Angestellten
-            und vielen ehrenamtlichen Helferinnen und Helfern rund um die
-            Uhr. Mit Feingefühl und auch unkonventionellen Methoden werden
-            die stacheligen Patienten oft wochenlang aufgepäppelt. Das große
-            Ziel: Sie wieder fit zu machen für ein Leben in der Natur. Angefangen
-            hat alles mit einem winzigen Igelmädchen: „Als ich das erste Mal
-            Ninna in der Praxis eines Kollegen sah, war sie noch sehr klein.
-            Sie wog gerade mal fünfundzwanzig Gramm. Ich war tief berührt
-            - und mir wurde so einiges klar. Zum Beispiel, dass es die kleinen
-            Dinge sind, die einen glücklich machen. Ich betrachtete den Igel,
-            der so zufrieden und glücklich war, wenn er einen Tropfen Milch
-            zu sich nahm und dann in meiner Hand einschlief. Im Grunde lehrte
-            er mich, dass ich den Sinn des Lebens woanders suchen musste.“
-
-            Heute, wenn Massimos stachelige Patienten gesund genug sind, werden
-            sie mit größtmöglicher Fürsorge in die Freiheit entlassen. Für
-            den „Igel-Doktor“ ist das jedes Mal aufs Neue ein Moment des Glücks,
-            gemischt mit einer Prise Wehmut - wenn sich seine Igel wieder
-            in ihren natürlichen Lebensraum aufmachen.'
+        summary: Dr. Massimo Vacchetta leitet die einzige Igelklinik Italiens.
+            Er kümmert sich mit seinem Team um verletzte Igel, die Opfer von
+            Unfällen mit Autos oder Gartengeräten wurden. Mit viel Feingefühl
+            und unkonventionellen Methoden werden die stacheligen Patienten
+            wochenlang gepflegt, um sie fit für ein Leben in der Natur zu
+            machen. Alles begann mit einem winzigen Igelmädchen namens Ninna,
+            das Dr. Massimo tief berührte. Gesunde Igel werden sorgfältig
+            in die Freiheit entlassen, was für den „Igel-Doktor“ jedes Mal
+            ein glücklicher, aber auch wehmütiger Moment ist.
         director: Rosie Koch
         air_date: '2021-10-16'
         duration: 32
@@ -56635,6 +56392,12 @@ seasons:
             Gleichzeitig muss Livio diese Expedition als letzten Test absolvieren,
             bevor er sich den Adlern von San Martino anschließt. Werden sie
             es alle schaffen?'
+        summary: Die Sendung erzählt von Aquile di San Martino, dem bekanntesten
+            und ältesten Bergsteigerverein in den Dolomiten. Zwei Bergführer,
+            Rocco und der junge Livio, stellen sich einer herausfordernden
+            Expedition an einer Extremwand der Pale di San Martino. Rocco
+            führt erfahrene Kletterer an der Wand entlang und beschützt sie,
+            während Livio diese Expedition als letzten Test bestehen muss.
         director: Alessandro Cassigoli
         air_date: '2021-10-30'
         duration: 32
