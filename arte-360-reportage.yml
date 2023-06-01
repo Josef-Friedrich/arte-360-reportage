@@ -60910,6 +60910,7 @@ dvds:
 -   title: Beirut - Die Milliarden Dollar Utopie
     release_date: '2009-09-02'
     asin: B002KQ68ZI
+    dvd_count: 1
 -   title: Eine kulinarische Reise um die Welt
     release_date: '2012-12-06'
     production_date: '2012-01-01'
@@ -60955,9 +60956,10 @@ dvds:
 -   title: Leben in Italien
     release_date: '2016-07-07'
     production_date: '2015-01-01'
+    ean: '4006680082875'
     asin: B01FL88C6E
     dvd_count: 2
-    duration: '4006680082875'
+    duration: 300
     episodes:
     - Die Rettungshunde vom Gardasee
     - Die Marmorberge von Italien
@@ -61097,6 +61099,7 @@ dvds:
     ean: '4006680079066'
     asin: B01E0NDKCW
     mediamops: M0B01E0NDKCW
+    dvd_count: 2
     duration: 416
     episodes:
     - Die Kichwa-Krieger und das Öl
@@ -61127,6 +61130,7 @@ dvds:
     release_date: '2016-10-20'
     ean: '4006680079073'
     asin: B01E0NDKDQ
+    dvd_count: 3
     duration: 628
     episodes:
     - Churubamba - Frauen am Ball
@@ -61290,6 +61294,7 @@ dvds:
     ean: '4006680063270'
     asin: B007BZ072I
     mediamops: M0B007BZ072I
+    dvd_count: 3
     duration: 388
     episodes:
     - St. Helena, vergessen im Atlantik
