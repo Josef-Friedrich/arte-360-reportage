@@ -999,7 +999,7 @@ class TvShow:
             dvds.append(dvd.export_data())
 
         dvds.sort(key=operator.itemgetter('title'))
-        dvds.sort(key=operator.itemgetter('release_data'))
+        dvds.sort(key=operator.itemgetter('release_date'))
         data["dvds"] = dvds
 
         return data
