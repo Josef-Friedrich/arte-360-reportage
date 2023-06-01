@@ -414,6 +414,9 @@ class Dvd:
         for key in DvdData.__annotations__:
             if key in self.data and self.data[key] != None:
                 result[key] = self.data[key]
+
+        if len(result) != len(self.data):
+            raise Exception(f"Export mismatch {result} <> {self.data}")
         return typing.cast(DvdData, result)
 
 
@@ -823,6 +826,9 @@ class Episode:
         for key in EpisodeData.__annotations__:
             if key in self.data and self.data[key] != None:
                 result[key] = self.data[key]
+
+        if len(result) != len(self.data):
+            raise Exception(f"Export mismatch {result} <> {self.data}")
         return typing.cast(EpisodeData, result)
 
 
