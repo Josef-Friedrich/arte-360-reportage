@@ -728,11 +728,11 @@
 !width="87%"|Titre français
 |-
 |1
-|
+|🔴
 | Les Anges Fous de la Linea 5
 |-
 |2
-|
+|🔴
 | Les Virtuoses de la Jungle
 |-
 |3
@@ -740,19 +740,19 @@
 | Le Toubib Touareg
 |-
 |4
-|
+|🔴
 | Les Indiens Contre les Rois du Pétrole
 |-
 |5
-|
+|🟡
 | Lune de Miel en Chine
 |-
 |6
-|
+|🟡
 | Cambodge, le Cri de la Soie
 |-
 |7
-|
+|⚪️
 | Le Bateau Postal d'Ouessant
 |-
 |8
@@ -772,7 +772,7 @@
 | L'Hôpital Flottant du Fleuve Amazone
 |-
 |12
-|
+|🔴
 | Le Géant Blanc de Patagonie
 |-
 |13

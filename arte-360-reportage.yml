@@ -11390,6 +11390,10 @@ seasons:
         episode_no: 17
         title: Dagestan - Land über den Wolken
         title_fr: La Montagne Sacrée du Daghestan
+        location_wikidata: Q1534369
+        coordinates:
+        - 41.328333333333
+        - 47.799166666667
         description: 'Siebenmal wurde König Salomo begraben und von Engeln
             immer wieder umgebettet. Seine letzte Ruhestätte, so die Legende,
             soll er in der südrussischen Teilrepublik Dagestan gefunden haben.
@@ -11699,6 +11703,11 @@ seasons:
         episode_no: 1
         title: Die rasenden Engel der Línea 5
         title_fr: Les Anges Fous de la Linea 5
+        continent: Amerika
+        location_wikidata: Q143982
+        coordinates:
+        - 4.85
+        - -75.8
         description: 'Ein paar Bretter und vier Räder aus Kugellagern bestimmen
             ihr Leben: Auf ihren selbstgebauten Karren stürzen sich die Balineros
             die höchste und gefährlichste Passstraße Kolumbiens hinunter,
@@ -11809,6 +11818,11 @@ seasons:
         episode_no: 2
         title: Das Dschungel-Orchester
         title_fr: Les Virtuoses de la Jungle
+        continent: Amerika
+        location_wikidata: Q1805205
+        coordinates:
+        - -15.62888889
+        - -63.08444444
         description: 'Urubichá ist ein staubiges Dorf mit 4.000 Einwohnern
             im bolivianischen Amazonasgebiet. Hier gibt es nur einfache Lehmhütten,
             giftige Schlangen, Esel, Schweine und Hühner, ein Telefon, drei
@@ -11896,6 +11910,10 @@ seasons:
         episode_no: 3
         title: Der Wüstendoktor
         title_fr: Le Toubib Touareg
+        location_wikidata: Q272521
+        coordinates:
+        - 17.583333333333
+        - 10.916666666667
         description: 'Wenn Ousmane Dodo in die Zeltlager der Tuareg-Nomaden
             kommt, wird er als Freund und Heiler willkommen geheißen. Als
             einziger ausgebildeter Krankenpfleger und Geburtshelfer in der
@@ -11989,6 +12007,11 @@ seasons:
         episode_no: 4
         title: Die Kichwa-Krieger und das Öl
         title_fr: Les Indiens Contre les Rois du Pétrole
+        continent: Amerika
+        location_wikidata: Q1016071
+        coordinates:
+        - -1.73333333
+        - -77.48333333
         description: 'Der Regenwald im Osten Ecuadors beeindruckt durch spektakuläre
             Naturschauplätze, eine große Artenvielfalt und Wasserfälle, die
             das gesamte Amazonasbecken speisen. Doch im Norden des Landes
@@ -12099,6 +12122,11 @@ seasons:
         episode_no: 5
         title: Honeymoon auf Hainan
         title_fr: Lune de Miel en Chine
+        continent: Asien
+        location_wikidata: Q1081204
+        coordinates:
+        - 19.25
+        - 109.6666667
         description: 'Die Chinesen behaupten, Hainan sei besser als Hawaii
             - obwohl kaum ein Chinese je auf Hawaii gewesen ist. Hainan dagegen
             kennen sie: Zwölf Millionen Urlauber aus dem Reich der Mitte kommen
@@ -12201,6 +12229,11 @@ seasons:
         episode_no: 6
         title: Kambodscha - Die Seele der Seide
         title_fr: Cambodge, le Cri de la Soie
+        continent: Asien
+        location_wikidata: Q11711
+        coordinates:
+        - 13.362222222222
+        - 103.85972222222
         description: '„Als ich das erste Mal kambodschanische Seide sah, musste
             ich sie sofort berühren. Es war, als würde mir die Seide zurufen:
             Fasse mich an! Viel Herz und Seele stecken darin,“ sagt Kikuo
@@ -12302,6 +12335,11 @@ seasons:
         episode_no: 7
         title: Das Postschiff zum Ende der Welt
         title_fr: Le Bateau Postal d'Ouessant
+        continent: Europa
+        location_wikidata: Q2428252
+        coordinates:
+        - 48.3972
+        - -4.9556
         description: '„Kommst du nach Ouessant, siehst du dein Blut. Kommst
             du nach Molène, siehst du dein Leid“, sagt ein bretonisches Sprichwort.
             Kapitän Michel Stephan lässt sich von dem schweren Seegang, der
@@ -12313,58 +12351,6 @@ seasons:
             das jeden Tag, denn die Inselbewohner sind auf sein Schiff angewiesen!
             360°-Die GEO-Reportage hat die Mannschaft von Kapitän Stephan
             auf ihrem alltäglichen Gefahrentrip begleitet.
-
-            Eigentlich hätte das französische Postschiff Enez Eussa längst
-            ausgemustert werden sollen. Doch es fand sich kein robuster Ersatz
-            für den harten Alltag auf dem Atlantik. Darum versorgt das Schiff
-            auch weiterhin Tag für Tag Molène und Ouessant, die kleinen Inseln
-            vor der bretonischen Küste. Wenn die Winter-Orkane über den Atlantik
-            ziehen, ist die Enez Eussa eines der wenigen Schiffe, das in See
-            stechen kann. Die Fähre bringt auch dann noch Fracht, Passagiere
-            und Post vom Festland auf die Inseln. Dabei muss sie stets die
-            berüchtigte „Passage de Fromveur“ durchfahren. Zur Sicherheit
-            stehen hier die stärksten Leuchttürme Europas. Auf halbem Weg
-            kommt die Enez Eussa am Felsen von Men Tensel mit dem berühmten
-            Leuchtturm Kéréon vorbei. Am westlichsten Punkt von Ouessant weist
-            der Leuchtturm von Créac´h den Schiffen den Weg. Insgesamt sind
-            sechs Leuchttürme nötig, um den Schiffsverkehr vor dieser gefährlichen
-            Küste zu sichern. Die kleinen Inseln, die dort im äußersten Westen
-            Frankreichs liegen, zählen zu den wildesten und ursprünglichsten
-            Orten des Landes. Auf den schroffen Felsen leben die Einwohner
-            vor allem von der Fischerei und während der Sommermonate vom Tourismus.
-            Die Bretonen nennen die Gegend „Penn Ar Bed“ - das Ende der Welt.
-            Die Gruppe der zahlreichen unbesiedelten Inselchen um Ouessant
-            und Molène wurde von der UNESCO zum besonders schützenswerten
-            Naturareal erklärt. Kapitän Michel Stephan fährt die Inselroute
-            seit Jahren. Er wurde auf Ouessant geboren und möchte eines Tages
-            wieder ein Häuschen auf einer der Inseln haben. Jedoch nicht für
-            den dauerhaften Aufenthalt. Dafür zieht er die nächste Stadt auf
-            dem französischen Festland, Brest, mit ihrem urbanen, modernen
-            Klima vor. Dort liegt auch der Heimathafen der Enez Eussa. Doch
-            immer, wenn Stephan Sehnsucht nach den rauen, zerklüfteten Klippen
-            von Molène hat, fährt er zusammen mit seiner Frau und den beiden
-            Kindern auf die Inseln.'
-        description_fernsehserien: '„Kommst du nach Ouessant, siehst du dein
-            Blut. Kommst du nach Molène, siehst du dein Leid“, sagt ein bretonisches
-            Sprichwort. Kapitän Michel Stephan lässt sich von dem schweren
-            Seegang, der rund um die beiden französischen Inseln herrscht
-            und schon manchem Schiff zum Verhängnis wurde, nicht aus der Ruhe
-            bringen. Mit seiner Mannschaft ist er auf dem Postschiff „Enez
-            Eussa“ im tückischen Atlantik unterwegs, um die abgeschiedenen
-            Felseninseln mit allem Lebensnotwendigen zu versorgen. Und das
-            jeden Tag, denn die Inselbewohner sind auf sein Schiff angewiesen.
-            „360° - Die Geo-Reportage“ hat ihn begleitet. (Text: Arte)'
-        description_youtube: '„Kommst du nach Ouessant, siehst du dein Blut.
-            Kommst du nach Molène, siehst du dein Leid“, sagt ein bretonisches
-            Sprichwort. Kapitän Michel Stephan lässt sich von dem schweren
-            Seegang, der rund um diese beiden französischen Inseln herrscht
-            und schon so manches Schiff auf den Meeresboden befördert hat,
-            nicht aus der Ruhe bringen. Mit seiner Mannschaft ist er auf dem
-            Postschiff Enez Eussa im tückischen Atlantik unterwegs, um die
-            abgeschiedenen Felseninseln mit allem zum Leben Notwendigen zu
-            versorgen. Und das jeden Tag, denn die Inselbewohner sind auf
-            sein Schiff angewiesen! 360°-Die GEO-Reportage hat die Mannschaft
-            von Kapitän Stephan auf ihrem alltäglichen Gefahrentrip begleitet.
 
             Eigentlich hätte das französische Postschiff Enez Eussa längst
             ausgemustert werden sollen. Doch es fand sich kein robuster Ersatz
@@ -12455,59 +12441,6 @@ seasons:
             sie mit dem Verkauf von Tieren und Wolle, ab und zu auch von einem
             Schlachtkamel - und manchmal gewinnen sie das Preisgeld bei einem
             Kamelrennen.'
-        description_fernsehserien: 'Die Eheleute Sarangerel und Badbold ziehen
-            mit ihren 54 Kamelen, 26 Rindern und etwa 230 Schafen und Ziegen
-            durch den Südwesten der Wüste Gobi. Die Bedürfnisse der Tiere
-            bestimmen den Tagesablauf. Der Geschmack von Kamelmilch und Ziegenblut,
-            der Geruch von Tierschweiß und Wollfett und das Gefühl von Eiswind
-            und Sonnenbrand auf der Haut bestimmen das Leben. Noch fühlen
-            sich viele Kamelzüchter eins mit der Natur, die sie umgibt. „360°
-            - Die Geo-Reportage“ zeigt das ursprüngliche Nomadenleben der
-            Kamelzüchter in der Mongolei - auch wenn sie inzwischen Fernseher
-            und Autos besitzen. (Text: Arte)'
-        description_youtube: 'Die Eheleute Sarangerel und Badbold ziehen mit
-            ihren 54 Kamelen, 26 Rindern und etwa 230 Schafen und Ziegen durch
-            den Südwesten der Wüste Gobi. Die Bedürfnisse der Tiere bestimmen
-            ihren Tagesablauf. Ihr Leben hat den Geschmack von Kamelmilch
-            und Ziegenblut, den Geruch von Tierschweiß und Wollfett, das Gefühl
-            von Eiswind und Sonnenbrand auf der Haut. Noch fühlen sich viele
-            Kamelzüchter eins mit der Natur, die sie umgibt. „360° - Die GEO-Reportage“
-            zeigt das ursprüngliche Nomadenleben der Kamelzüchter in der Mongolei
-            - auch wenn sie inzwischen einen Fernseher oder ein Auto besitzen.
-
-            Feiner, brauner Sand wirbelt durch die Luft, schemenhaft erkennt
-            man riesige braune Leiber, die sich langsam vorwärtsbewegen. Es
-            ist eine Gruppe zweihöckriger Kamele, die durch die Wüste Gobi
-            zieht. Die Nüstern sind verschlossen, Sandkörner hängen in den
-            dichten Wimpern. Die Tiere gehören den Eheleuten Sarangerel und
-            Badbold, die als Nomaden mit ihrem Vieh immer dann weiterziehen,
-            wenn das spärliche Gras der Weiden von den Tieren abgefressen
-            wurde. Das Frühjahr ist für die Nomaden besonders arbeitsreich.
-            In diesen Wochen werden Hunderte von Jungtieren geboren, bedroht
-            von der enormen Kälte in der Nacht und hungrigen Wölfen. Die genügsamen
-            und anpassungsfähigen Trampeltiere sind es vor allem, die den
-            Viehzüchtern das Überleben in dieser lebensfeindlichen Umwelt
-            ermöglichen. Immer wieder packen Sarangerel und Badbold ihren
-            gesamten Hausstand, die Dachsparren und die Filzdecken ihrer Jurte
-            auf die Rücken ihrer Kamele. Nur die 81 jungen Zicklein kommen
-            in den Kofferraum eines alten Jeeps. Auf ihrer Reise zum Frühlingsquartier
-            durchqueren die Nomaden die Südwest-Gobi - vor der Kulisse des
-            Altaigebirges mit seinen schneebedeckten Kuppen und Gletschern.
-            Nur ihr Sohn begleitet Sarangerel und Badbold, die Töchter leben
-            in der Bezirkstadt Bayantoroi. Die jüngste Tochter geht dort auf
-            ein Internat. Sie will Lehrerin werden oder Ärztin - nicht Kamelzüchterin
-            wie ihre Eltern. Viele Nomaden haben nach der Einführung von Demokratie
-            und Marktwirtschaft in der Mongolei ihre Tiere verkauft und sind
-            in die Hauptstadt Ulan-Bator gezogen. Unter anderem deswegen ist
-            das asiatische Trampeltier zunehmend vom Aussterben bedroht. Doch
-            nur wenige ehemalige Nomaden haben in der Stadt ihr Glück gefunden,
-            die meisten leben in Jurtenvierteln unterhalb der Armutsgrenze.
-            Sarangerel und Badbold hingegen können sich ein Leben in der Stadt
-            nicht vorstellen - draußen in der Natur haben sie ihr Auskommen.
-            Im Sommerhalbjahr leben sie von Milchprodukten. Geld verdienen
-            sie mit dem Verkauf von Tieren und Wolle, ab und zu auch von einem
-            Schlachtkamel - und manchmal gewinnen sie das Preisgeld bei einem
-            Kamelrennen.'
         director: Svea Andersson
         air_date: '2005-08-06'
         duration: 52
@@ -12525,6 +12458,10 @@ seasons:
         episode_no: 9
         title: Die Mutter der Bonobos
         title_fr: La Maman des Bonobos
+        location_wikidata: Q3304715
+        coordinates:
+        - -4.48694
+        - 15.2681
         description: 'Vor zwölf Jahren hat Claudine André das „Lola ya Bonobo“,
             das „Paradies der Bonobos“ gegründet. Hier kümmern sich die Belgierin
             und ihre Mitarbeiterinnen um verwaiste Bonobojunge, deren Eltern
@@ -12537,55 +12474,6 @@ seasons:
             in Lola und begleitet Claudine André bei ihrem Versuch, die gefährdeten
             Bonobos zu schützen und ihnen wieder ein Leben in freier Natur
             zu ermöglichen.
-
-            Nur in der Demokratischen Republik Kongo leben die Bonobos - eine
-            Affenart, die uns Menschen genetisch ähnlicher ist, als jedes
-            andere Tier der Erde. In dem vom Bürgerkrieg zerrütteten Land
-            sind die Bonobos jedoch eine begehrte Beute - geräuchert wird
-            ihr Fleisch auf den Märkten des Landes verkauft, während die Jungtiere
-            den Wilderern lebendig am meisten Geld einbringen. Claudine André
-            gründete 1993 ihre Schutzstation für Bonobos, 50 Kilometer von
-            Kinshasa entfernt. Hier hat auch der kleine Lomami eine neue Heimat
-            gefunden. Er ist erst vor wenigen Tagen angekommen, ist noch extrem
-            schüchtern, meidet auch den Kontakt mit seinen Artgenossen. Wilderer
-            haben ihm die Fingernägel rausgezogen und zwei Fingerkuppen kupiert.
-            „Die Leute denken“, erzählt seine Pflegerin, „man könne daraus
-            einen magischen Trank machen.“ Nun ist Lomami erst einmal in Sicherheit.
-            Doch langfristig sollen die Bonobos nicht im Schutzgehege Lola
-            bleiben: Claudine André ist auf der Suche nach einem ausreichend
-            großen und sicheren Gebiet, um die Affen später auswildern zu
-            können. Das ist ein schwieriges Unterfangen, denn selbst die abgelegensten
-            Winkel des Urwaldes werden von Menschen durchstreift oder besiedelt
-            - es gibt kaum mehr unberührte Natur. Trotzdem gibt es für Claudine
-            André auch Grund zur Freude, denn nach zwölf Jahren Arbeit kündigt
-            sich in Lola ein großes Ereignis an: Ein Bonoboweibchen ist trächtig
-            - bald wird in der Station das erste Baby geboren! Die Mutter,
-            Etumbé, stammt allerdings aus einem medizinischen Versuchslabor.
-            Niemand weiß, ob sie ihr Junges nach der Geburt annehmen wird.
-            Wenn es gelingt, dass Etumbé ihr Baby selbständig versorgt, wenn
-            in der zusammengewürfelten Gruppe von Bonobo-Waisen Verwandtschaftsbeziehungen
-            entstehen, ist Claudine André ein weiterer großer Schritt gelungen.
-            Ein Schritt auf dem Weg, ihren Bonobos wieder ein selbstständiges
-            Leben in freier Natur und ohne Menschen ermöglichen zu können.
-            Noch nicht morgen - aber irgendwann in der Zukunft!'
-        description_fernsehserien: 'Vor zwölf Jahren hat Claudine André ein
-            Schutzgehege für Bonobos in der Republik Kongo gegründet. Die
-            Reportage zeigt die erste Geburt eines Bonobo-Jungen im Reservat
-            und begleitet Claudine André bei ihrem Versuch, die gefährdeten
-            Affen zu schützen und ihnen wieder ein Leben in freier Natur zu
-            ermöglichen. (Text: arte)'
-        description_youtube: 'Vor zwölf Jahren hat Claudine André das „Lola
-            ya Bonobo“, das „Paradies der Bonobos“ gegründet. Hier kümmern
-            sich die Belgierin und ihre Mitarbeiterinnen um verwaiste Bonobojunge,
-            deren Eltern als Räucherfleisch auf den Märkten kongolesischer
-            Städte geendet sind. Claudine André erspart ihnen so ein Schicksal
-            als Haustier, allein und eingezwängt in enge Käfige. Mittlerweile
-            beheimatet das Reservat 45 Bonobos. Aber noch nie haben sich die
-            Tierschützer über Nachwuchs freuen dürfen - sie bangen deshalb
-            um die trächtige Etumbé. Die Reportage zeigt die erste Geburt
-            eines Bonobo-Jungen in Lola und begleitet Claudine André bei ihrem
-            Versuch, die gefährdeten Bonobos zu schützen und ihnen wieder
-            ein Leben in freier Natur zu ermöglichen.
 
             Nur in der Demokratischen Republik Kongo leben die Bonobos - eine
             Affenart, die uns Menschen genetisch ähnlicher ist, als jedes
@@ -12634,52 +12522,6 @@ seasons:
         title_fr: Baïkal-Amour Magistrale, l'Autre Transsibérien
         description: 'Ihr „Büro“ rollt auf Schienen zwischen Baikalsee und
             Pazifik, über Dauerfrostboden und vergletscherte Gebirgszüge,
-            durch endlose Sümpfe und Rentierweiden: Sergej Kuplenski und Gennadi
-            Laptjew sind Chefinspektoren auf der Baikal-Amur-Magistrale, deren
-            Gleise sich 4000 Kilometer quer durch Sibirien ziehen. Ganze 30
-            Jahre dauerte ihr Bau, und neben der Trasse wuchsen Städte und
-            Siedlungen, die nur durch die Bahn mit der Zivilisation verbunden
-            sind. „360° - Die GEO-Reportage“ zeigt das Leben entlang eines
-            der größten und schwierigsten Eisenbahnprojekte der letzen 100
-            Jahre.
-
-            Die „Baikal-Amur-Magistrale“, kurz BAM genannt, war das letzte
-            große Prestige- und Propaganda-Projekt der Sowjetära. Sie sollte
-            neben der Transsibirischen Eisenbahn als zweite transkontinentale
-            Trasse das östliche Europa über den Baikalsee mit dem Pazifik
-            verbinden. Parallel sollten Siedlungen entstehen, deren Bewohner
-            die gewaltigen Erz- und Kohlevorkommen Zentralsibiriens erschließen
-            würden. Im Jahr 2003, nach 30 Jahren Bauzeit, war die BAM mit
-            der Fertigstellung des letzten großen Tunnels vollendet. Doch
-            im neuen Russland fehlt es an Geld und Investoren, die sich an
-            die Rohstofflager heranwagen. Die Züge rollen dennoch: Fünf Tage
-            braucht ein Schnellzug von Moskau nach Tynda, der erst 1974 gegründeten
-            „Hauptstadt der BAM“. Hier leben Sergej Kuplenski und Gennadi
-            Laptjew. Sie sind Chefinspektoren der Russischen Eisenbahn und
-            für die Sicherheit der Züge, Gleise, Brücken, Tunnel und Bahnhöfe
-            verantwortlich. Regelmäßig koppeln sie ihren Dienstwaggon an verkehrende
-            Züge und unternehmen Inspektionsreisen entlang der BAM. Ihre nächste
-            Fahrt führt sie über 1500 Kilometer weit in Richtung Osten über
-            den Pass des Seweromuisker Gebirges und durch den längsten Tunnel
-            Russlands, der von freiwilligen Bauarbeitern unter Einsatz ihres
-            Lebens gebaut wurde. Aus den Lagern dieser Männer sind Siedlungen
-            entstanden, in denen heute hauptsächlich Mitarbeiter der russischen
-            Eisenbahn leben - aber auch viele ehemalige Arbeiter, die nach
-            der Fertigstellung der BAM keinen neuen Arbeitsplatz gefunden
-            haben und sich mühsam durchs Leben schlagen. Nach einem Zwischenstopp
-            in ihrer Heimatstadt Tynda geht es für die Inspektoren vorbei
-            an der riesigen Kohlengrube von Nerjengrü bis nach Jakutien in
-            das Land der Rentierhirten. Die bekommen nun eine Zugverbindungen
-            an die Welt - und wissen nicht recht, ob sie ihnen Segen oder
-            Fluch bringen wird.'
-        description_fernsehserien: 'Die Baikal-Amur-Magistrale, eines der
-            größten und schwierigsten Eisenbahnprojekte der letzen 100 Jahre,
-            zieht sich 4.000 Kilometer quer durch Sibirien. 30 Jahre dauerte
-            ihr Bau, und neben der Trasse wuchsen Städte und Siedlungen, die
-            nur durch die Bahn mit der Zivilisation verbunden sind. (Text:
-            Arte)'
-        description_youtube: 'Ihr „Büro“ rollt auf Schienen zwischen Baikalsee
-            und Pazifik, über Dauerfrostboden und vergletscherte Gebirgszüge,
             durch endlose Sümpfe und Rentierweiden: Sergej Kuplenski und Gennadi
             Laptjew sind Chefinspektoren auf der Baikal-Amur-Magistrale, deren
             Gleise sich 4000 Kilometer quer durch Sibirien ziehen. Ganze 30
@@ -12779,56 +12621,6 @@ seasons:
             Carolina Barbiéri träumt davon, dass es irgendwann in allen Amazonas-Dörfern
             Krankenstationen geben wird. Doch bis dahin gibt es viel zu tun
             für die Crew der „Oswaldo Cruz“.'
-        description_fernsehserien: 'ARTE begleitet die Ärzte des Krankenhausschiffes
-            „Oswaldo Cruz“ auf ihrem Einsatz am Amazonas, bei dem sie medizinische
-            Versorgung bis in die abgelegensten Dörfer der Region bringen.
-            (Text: Arte)'
-        description_youtube: 'Langsam und behäbig schiebt sich der Rumpf des
-            grauen Militärschiffes durch den Seitenarm des Amazonas-Flusses,
-            vorbei an Sandbänken und treibenden Baumstämmen. Immer wieder
-            fliegen am Ufer Vögel auf. Die Besatzung steht einsatzbereit an
-            Deck. Sie besteht nicht aus Soldaten, sondern aus Ärzten und Krankenschwestern.
-            Das brasilianische Militärschiff „Oswaldo Cruz“ ist in friedlicher
-            Mission unterwegs, transportiert medizinische Ausrüstung über
-            die Wasserstraßen des Regenwalds: Medikamente, Verbandsstoffe,
-            Zahnarztstühle und sogar einen mobilen Operationssaal. „360° -
-            Die GEO-Reportage“ begleitet die Ärzte der „Oswaldo Cruz“ bei
-            ihrem Einsatz am Amazonas, wenn sie medizinische Versorgung bis
-            in die abgelegensten Dörfer bringen.
-
-            Am frühen Morgen legt die „Oswaldo Cruz“ in Manaus ab. Auch drei
-            junge Ärzte sind bei diesem Einsatz mit an Bord des Krankenhausschiffes.
-            Sie haben sich entschlossen, ein Jahr lang dabei zu helfen, die
-            abgelegenen Dörfer im Amazonas-Gebiet medizinisch zu versorgen.
-            Carolina Barbiéri hat gerade ihr Studium an der Universität von
-            Sao Paulo beendet, es ist ihre erste Reise in den Amazonas. Sie
-            wird eingewiesen von Azael Ribeiro, dem leitenden Arzt, der bereits
-            fünf Jahre mit der „Oswaldo Cruz“ unterwegs ist. Während dieser
-            Zeit hat er die Erfahrung gemacht, dass die Ärzte auf ihren Reisen
-            nicht nur als Mediziner benötigt werden, sondern dass es in den
-            Dörfern auch an Informationen über Hygiene und Ernährung mangelt.
-            Immer wieder trifft er Patienten, die über starke Magenbeschwerden
-            klagen - meist verursacht durch einseitige Ernährung.
-
-            Insgesamt drei Krankenhausschiffe kreuzen im Amazonas, trotzdem
-            erreichen sie die meisten Dörfer nur alle ein bis zwei Jahre.
-            Vor jeder Reise wird ein detaillierter Plan erstellt: Ganze 50
-            Dörfer sollen die Ärzte der „Oswaldo Cruz“ auf dieser vierwöchigen
-            Reise aufsuchen - vorausgesetzt, dass sie sie finden... Carolina
-            Barbiéri ist nahe dran, bereits bei ihrem ersten Einsatz zu scheitern.
-            Mit einem Beiboot sucht sie einen Ort mit dem Namen „Villa Camara“,
-            doch dort, wo sich laut Karte die Häuser befinden, findet sie
-            nur Sumpfgras. Kleine Dörfer, in denen nur wenige Personen leben,
-            ändern häufig ihren Standort, wenn das Wasser des Amazonas zu
-            hoch steigt oder ein neues Feld benötigt wird. Kaum jemand besitzt
-            ein Funkgerät, mit dem er seine aktuelle Position durchgeben oder
-            im Notfall ärztliche Hilfe herbeirufen kann. Die junge Ärztin
-            ist erleichtert, als sie das Dorf schließlich doch noch findet.
-            Sie kommt gerade zur rechten Zeit, um zwei kranke Säuglinge zu
-            behandeln. Mit einem einfachen Präparat kann die Ärztin hier helfen.
-            Carolina Barbiéri träumt davon, dass es irgendwann in allen Amazonas-Dörfern
-            Krankenstationen geben wird. Doch bis dahin gibt es viel zu tun
-            für die Crew der „Oswaldo Cruz“.'
         director: Gil Rabier
         air_date: '2005-10-08'
         duration: 52
@@ -12844,6 +12636,11 @@ seasons:
         episode_no: 12
         title: Der weiße Berg von Feuerland
         title_fr: Le Géant Blanc de Patagonie
+        continent: Amerika
+        location_wikidata: Q843130
+        coordinates:
+        - -54.45
+        - -70.833333333333
         description: 'Es gibt nur wenige Orte auf dieser Welt, wo sich Meer
             und Berge auf so dramatische Weise begegnen wie am Monte Sarmiento
             im Süden Chiles. Charles Darwin nannte das Gebirge einst „das
@@ -12856,58 +12653,6 @@ seasons:
             gewagtes Unterfangen, an dem schon so manche Extremsportler gescheitert
             sind. „360° - Die GEO-Reportage“ begleitet das Paar auf seiner
             Expedition ins tiefste Herz Feuerlands.
-
-            Am südlichsten Ende Südamerikas, zwischen Atlantik und Pazifik,
-            dehnt sich Feuerland als weites Inselmeer bis in die Antarktis
-            aus. Der portugiesische Seefahrer Magellan gab der Gegend einst
-            ihren Namen - ihn hatten die zahllosen Feuer überrascht, die die
-            Ureinwohner zum Schutz gegen die ständige Kälte anzündeten. Die
-            Berggipfel sind von zahlreichen Gletscher umpanzert, die in die
-            Täler fließen und nicht selten bis ins Meer hineinragen. Nur an
-            den windabgewandten Berghängen kann üppiger, immergrüner Urwald
-            aus Buchen, Zypressen und Magnolien wachsen. Unzählige kleine
-            Inseln ragen aus dem Meer, Schlupfwinkel für Kormorane, Fischotter
-            und Seelöwen.
-
-            Zwei Chilenen, die Eheleute Patricia Soto und Rodrigo Fica, haben
-            sich vorgenommen, den Monte Sarmiento zu bezwingen. Die beiden
-            zählen zu Chiles erfahrendsten Bergsteigern. Patricia Soto war
-            bereits auf dem Mount Everest, Rodrigo Fica durchquerte mit seinem
-            Team als Erster das patagonische Inlandeis. Der Monte Sarmiento
-            ist für beide schon lange ein Traumziel. Doch bereits die Anreise
-            zum Berg stellt eine Herausforderung dar - vom feuerländischen
-            Marinestützpunkt Puerto Williams geht es per Schiff über zahllose,
-            verschlungene Wasserwege in den fast menschenleeren Südwesten.
-            Die raue Natur strapaziert die Expedition unterwegs mit Stürmen,
-            Eisschollen und kieselgroßen Hagelkörnern. Auf der letzten Etappe
-            geht es für die Bergsteiger zu Fuß weiter. Doch auch dann ist
-            das Ziel noch nicht erreicht. Der Monte Sarmiento gilt nicht umsonst
-            als einer der am schwierigsten zu erklimmenden Berge. Selbst als
-            er nur noch wenige hundert Meter entfernt ist, gilt es als keineswegs
-            sicher, dass Patricia Soto und Rodrigo Fica seinen Gipfel ereichen
-            werden.'
-        description_fernsehserien: 'Es gibt nur wenige Orte auf dieser Welt,
-            an denen sich Meer und Berge auf so dramatische Weise begegnen
-            wie am Monte Sarmiento im Süden Chiles. Charles Darwin nannte
-            das Gebirge einst „das erhabenste Schauspiel Feuerlands“. Unmittelbar
-            am Wasser gelegen und über den umliegenden Bergketten thronend,
-            ist es weithin sichtbar. Seine Höhe von 2.300 Metern mag gering
-            erscheinen, doch selbst erfahrene Alpinisten begegnen ihm mit
-            Respekt. Das Ehepaar Patricia Soto und Rodrigo Fica will diesen
-            Berg bezwingen. Ein gewagtes Unterfangen, an dem schon so mancher
-            Extremsportler gescheitert ist. (Text: Arte)'
-        description_youtube: 'Es gibt nur wenige Orte auf dieser Welt, wo
-            sich Meer und Berge auf so dramatische Weise begegnen wie am Monte
-            Sarmiento im Süden Chiles. Charles Darwin nannte das Gebirge einst
-            „das erhabenste Schauspiel Feuerlands“. Unmittelbar am Wasser
-            gelegen und über den umliegenden Bergketten thronend, ist es aus
-            hunderten Kilometern Entfernung sichtbar. Seine Höhe von 2400
-            Metern mag gering erscheinen, doch selbst welterfahrene Alpinisten
-            bekommen angesichts der steilen, vereisten Hänge feuchte Hände.
-            Das Ehepaar Patricia Soto und Rodrigo Fica will diesen Berg bezwingen.
-            Ein gewagtes Unterfangen, an dem schon so manche Extremsportler
-            gescheitert sind. „360° - Die GEO-Reportage“ begleitet das Paar
-            auf seiner Expedition ins tiefste Herz Feuerlands.
 
             Am südlichsten Ende Südamerikas, zwischen Atlantik und Pazifik,
             dehnt sich Feuerland als weites Inselmeer bis in die Antarktis
@@ -12955,53 +12700,6 @@ seasons:
         title_fr: 'Mecaniqueros: Impossible n’Est Pas Cubain'
         description: 'Havannas Mecaniqueros sind private Jungunternehmer im
             Land des real existierenden Sozialismus. Sie entwickeln skurrile,
-            aber erfolgreiche Geschäftsideen wie etwa ein Restaurant im heimischen
-            Wohnzimmer oder Lichtschalter aus Deo-Dosen. Dabei agieren sie
-            sehr geschickt im Verborgenen, wandeln immer noch gerade an der
-            Grenze der Legalität. „360° - Die GEO-Reportage“ zeigt Ariél und
-            seine Freunde, die dem strengen Castro-Regime auf Kuba mit viel
-            Witz und Organisationstalent immer wieder ein Schnippchen schlagen.
-
-            Kuba: Bröckelnde Kolonialfassaden, amerikanische Oldtimer, rauchende
-            Dandys - eine Kulisse zwischen tropischen Palmen, Sonnenuntergängen
-            und Massenaufmärschen. Doch der Alltag der Menschen wird von dem
-            Wirtschaftsembargo der USA und der Misswirtschaft der Castro-Regierung
-            erschwert. Arbeit für den Staat ist Pflicht. Ariél etwa prüft
-            offiziell als Kontrolleur der Gesundheitsbehörde private Wasserbehälter
-            auf Larven der Dengue-Mücken. Weil er, wie viele, von sozialistischer
-            Arbeit allein nicht leben kann, arbeitet er mit seinen Freunden
-            César und Tommy nebenbei als „Mecaniquero“: Mit Hilfe aller möglichen
-            „Mecánicas“ - Techniken, Tricks, Tauschgeschäften und Kontakten
-            - treiben sie Dinge auf, die in den staatlichen Geschäften nicht
-            zu bekommen sind. Dabei müssen sie flexibel sein. Was heute noch
-            erlaubt ist, kann schon morgen bei Strafe verboten sein. An Nachfrage
-            mangelt es ihnen nicht. Jeder aus der Gegend, der etwas dringend
-            braucht und nicht finden kann, wendet sich an die Mecaniqueros:
-            Gold für Zahnverblendungen, ein Kleid für eine Party, Ersatzteile
-            für einen Fernseher - die drei charmanten Kubaner beschaffen alles.
-            Einige ihrer privaten Nebenbeschäftigungen finden auch als Familienunternehmen
-            statt. Je nach Bedarf wird so etwa das Wohnzimmer in einen Beautysalon
-            oder ein Restaurant umgewandelt. Cousine Idania verschönert dann
-            stolze Kubanerinnen, oder Mutter Gina rührt in den Kochtöpfen
-            und zaubert mit wenigen, von den Mecaniqueros organisierten Zutaten
-            Köstlichkeiten. Vieles gibt es günstig nur auf dem Land. Im fruchtbaren
-            Tal von Viñales besorgen die drei Freunde ein Spanferkel. Es ist
-            für den 15. Geburtstag einer Kundin - der wichtigste Tag im Leben
-            einer kubanischen Frau. Ariél und seine Freunde haben versprochen,
-            alles Notwendige zu organisieren: Traumkleider für Fotoaufnahmen,
-            eine Kamera und Musik für ein kleines Fest - eine gewaltige Aufgabe
-            auf Kuba. Aber gewusst wie, ist nichts unmöglich in Havanna!'
-        description_fernsehserien: 'Die so genannten Mecaniqueros im kubanischen
-            Havanna sind private Jungunternehmer im sozialistischen Kuba.
-            Sie entwickeln skurrile, aber erfolgreiche Geschäftsideen wie
-            etwa ein Restaurant im heimischen Wohnzimmer oder Lichtschalter
-            aus Deo-Dosen. Dabei agieren sie sehr geschickt im Verborgenen
-            und wandeln immer auf dem schmalen Grat zwischen Legalität und
-            Verbotenem. „360° - Die Geo-Reportage“ zeigt Ariél und seine Freunde,
-            die dem strengen Castro-Regime mit viel Witz und Organisationstalent
-            immer wieder ein Schnippchen schlagen. (Text: Arte)'
-        description_youtube: 'Havannas Mecaniqueros sind private Jungunternehmer
-            im Land des real existierenden Sozialismus. Sie entwickeln skurrile,
             aber erfolgreiche Geschäftsideen wie etwa ein Restaurant im heimischen
             Wohnzimmer oder Lichtschalter aus Deo-Dosen. Dabei agieren sie
             sehr geschickt im Verborgenen, wandeln immer noch gerade an der
@@ -13093,54 +12791,6 @@ seasons:
             verlässt - wie Peter, der ein schönes Zuhause auf dem Lande gefunden
             hat. Für Kater Vasya wäre das natürlich nichts - er bleibt lieber
             eine Palastkatze.'
-        description_fernsehserien: 'Das Eremitage-Museum von Sankt Petersburg
-            beherbergt viele Kunstschätze von Weltruhm. Hunderte von Besuchern
-            stehen täglich vor dem Winterpalast an, um die Ausstellungen zu
-            besichtigen. Sie wundern sich, dass sie am Eingang auf einen Kater
-            treffen. Vasya heißt das stolze Tier und es gehört zu den über
-            50 Katzen, die in der Eremitage zu Hause sind. „360 - Geo-Reportage“
-            zeigt das Leben der Palastkatzen in der ehemaligen Zarenresidenz
-            an der Newa. (Text: Arte)'
-        description_youtube: 'Das Eremitage-Museum von St. Petersburg beherbergt
-            viele Kunstschätze von Weltruhm. Hunderte von Besuchern stehen
-            täglich auf dem Schlossplatz vor dem Winterpalast an, um die Ausstellungen
-            zu besichtigen - und wundern sich, wer sie als erster am Eingang
-            empfängt: Der Kater Vasya. Das stolze Tier ist nicht alleine,
-            über 50 Katzen sind in der Eremitage zu Hause. Eine rote Katze
-            sitzt auf dem Vorplatz und sonnt sich, eine getigerte putzt im
-            Kassenhäuschen hingebungsvoll ihre Pfote, eine bunte schaut neugierig
-            aus dem Kellerfenster. 360° - Die GEO-Reportage zeigt das Leben
-            der Palastkatzen in der ehemaligen Zarenresidenz an der Newa.
-
-            Tatiana Danilova ist die Chefin des Wachpersonals der Eremitage
-            von St. Petersburg. Über 60.000 Exponate von unschätzbarem Wert
-            müssen sie und ihre Wächterinnen beaufsichtigen. Im Juni, in der
-            Zeit der langen „Weißen Nächte,“ ist das Museum besonders gut
-            besucht. Eine wichtige ausländische Delegation hat sich angekündigt,
-            und in wenigen Tagen wird eine neue Ausstellung eröffnet. Damit
-            hätte Tatiana Danilova eigentlich genug zu tun. Doch ehrenamtlich
-            ist sie noch Hüterin der über 50 Katzen, die die Höfe und Keller
-            der Eremitage bevölkern. Wie Kater Vasya, der schon seit zehn
-            Jahren über das Gelände des Museums spaziert und sich immer neue
-            Schleichwege zwischen Statuen und anderen Ausstellungsstücken
-            sucht. Nur im Winter bleibt er lieber im Keller der Eremitage.
-            Denn auf den Heizungsrohren ist es immer schön warm. Und hier
-            kochen Tatiana und ihre Mitarbeiterin auch die riesigen Mengen
-            an Futter für die Katzen, bezahlt von Spenden der Museumsmitarbeiter.
-
-            Die Katzen der Eremitage haben eine lange Geschichte. Schon vor
-            250 Jahren ließ Zarin Elisabeth Petrovna, Tochter von Peter dem
-            Großen, Katzen in den Winterpalast bringen. Sie sollten die Mäuse-
-            und Rattenplage bekämpfen. Später verteidigten die Katzen die
-            Kunstwerke von Katharina der Großen gegen die gefräßigen Nager.
-            Die Petersburger wissen, dass die Katzen der Eremitage auch heute
-            noch liebevoll umsorgt werden. Wächter Alexander Kirov findet
-            immer wieder ausgesetzte kleine Kätzchen im Hof. Doch für mehr
-            als 50 Katzen ist in der Eremitage kein Platz. Tatiana Danilova
-            ist daher froh, wenn manch ein Kätzchen das Museum bald wieder
-            verlässt - wie Peter, der ein schönes Zuhause auf dem Lande gefunden
-            hat. Für Kater Vasya wäre das natürlich nichts - er bleibt lieber
-            eine Palastkatze.'
         director: Jan Hinrik Drevs
         air_date: '2005-12-10'
         duration: 52
@@ -13169,56 +12819,6 @@ seasons:
             Kunst des Herdenführens zu erlernen. 360° - Die GEO-Reportage  zeigt
             den 24-jährigen Yann Amouret, seinen Lehrmeister und ihre Herde
             einen Sommer lang.
-
-            Ein Schäfer hat viele Berufe: Er muss ein Regiment führen können,
-            Krankheiten und Verletzungen heilen, Kräuter und Pflanzen identifizieren
-            und das Wesen seiner Tiere verstehen. Ein halbes Jahr ist er der
-            einzige Mensch in der Nähe der Herde. Solange die Schafe über
-            die Wiesen ziehen und sich Winterspeck anfressen, ist er ihr Beschützer
-            und Führer, verantwortlich für das Wohlergehen jedes einzelnen
-            Tieres. Das sind meist weit über 1000 Stück, und kein einziges
-            sollte dem Hirten verloren gehen. Trotz dieser hohen Anforderungen
-            hat sich der 24-jährige Yann Amouret für eine Ausbildung zum Schäfer
-            entschieden. Zusammen mit dem erfahrenen Hirten Yves Renaud zieht
-            er im Frühjahr auf den fast 2000 Meter hohen Gipfel des in den
-            Zentralpyrenäen, um dort fünf Monate lang eine Herde von 1300
-            Schafen zu hüten. Yves Renaud wird in dieser Zeit ein wachsames
-            Auge auf seinen Lehrling haben müssen, denn der Beruf des Schäfers
-            ist nicht nur technisch, sondern auch körperlich anspruchsvoll.
-            Die Männer müssen täglich 15 Stunden arbeiten und ihren Tieren
-            auf steilen Hängen folgen können - in tiefster Abgeschiedenheit.
-            Weil nicht jeder für den Beruf geeignet ist, wählen die Schäfer
-            streng aus, wen sie in ihre Mitte aufnehmen. In diesem Jahr haben
-            sich 180 Kandidaten beworben. Nur zehn wurden schließlich zur
-            Ausbildung zugelassen. Yann Amouret gehört dazu, und in den nächsten
-            Monaten wird er beweisen müssen, dass er die in ihn gesetzten
-            Hoffnungen erfüllen kann. Es wird ein Sommer der Prüfung für Yann
-            und seinen Lehrer, nicht nur in Hinblick auf die Herde. Denn auch
-            Yann und Yves müssen schließlich zueinander finden.'
-        description_fernsehserien: 'Seit etwa 7.000 Jahren ziehen Schäfer
-            mit ihren Herden zu den Gipfeln der Pyrenäen hinauf. Wie sie die
-            Tiere führen müssen und wohlbehalten über den Sommer bringen,
-            lernten die meisten von ihren Vätern. Doch mit dem Niedergang
-            der traditionellen Landwirtschaft im 20. Jahrhundert drohte der
-            Beruf des Schäfers auszusterben. Seit einigen Jahren kommen wieder
-            junge Männer und Frauen in die Pyrenäen. Sie wollen - der Hektik
-            moderner Zivilisation überdrüssig - an der Seite erfahrener Schäfer
-            die Kunst des Herdenführens lernen. Die Reportage begleitet den
-            24-jährigen Yann Amouret, seinen Lehrmeister und ihre Herde einen
-            Sommer lang. (Text: Arte)'
-        description_youtube: 'Seit etwa 7000 Jahren ziehen Schäfer mit ihren
-            Herden hoch zu den Gipfeln der Pyrenäen. Wie sie die Tiere führen
-            und wohlbehalten über den Sommer bringen, bekamen die meisten
-            von ihren Vätern beigebracht, der Schäferberuf wurde von einer
-            Generation an die nächste weitergegeben. Mit dem Niedergang der
-            traditionellen Landwirtschaft im 20. Jahrhundert ist das Wissen
-            der Schäfer mehr und mehr verschwunden. Fast schien es, ihr Beruf
-            würde aussterben. Doch seit einigen Jahren kommen wieder junge
-            Männer und Frauen in die Pyrenäen, viele aus großen Städten und
-            der Hektik moderner Zivilisation überdrüssig, um an der Seite
-            erfahrener Schäfer die Kunst des Herdenführens zu erlernen. 360°
-            - Die GEO-Reportage  zeigt den 24-jährigen Yann Amouret, seinen
-            Lehrmeister und ihre Herde einen Sommer lang.
 
             Ein Schäfer hat viele Berufe: Er muss ein Regiment führen können,
             Krankheiten und Verletzungen heilen, Kräuter und Pflanzen identifizieren
