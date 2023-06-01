@@ -300,6 +300,7 @@ class YoutubeVideo:
             if match:
                 return match[0]
 
+
 ### wikidata ##################################################################
 
 
@@ -312,13 +313,13 @@ class Wikidata:
 
     def get_coordinates(self, entity_id: typing.Any):
         entity = self.client.get(entity_id=entity_id, load=True)
-        coordinate_location = self.client.get(entity_id=typing.cast(
-            typing.Any, 'P625'))
+        coordinate_location = self.client.get(entity_id=typing.cast(typing.Any, "P625"))
         coordinate = typing.cast(GlobeCoordinate, entity[coordinate_location])
         return [coordinate.latitude, coordinate.longitude]
 
 
 ### scraper ###################################################################
+
 
 class Scraper:
     __soup: bs4.BeautifulSoup
@@ -386,13 +387,30 @@ class DvdData(typing.TypedDict):
     duration: int
     """for example ``52``"""
 
-    mediamops: str
-    """for example ``M0B09SDJQGBH``"""
-
     asin: str
     """for example ```B09SDJQGBH`"""
 
+    mediamops: str
+    """for example ``M0B09SDJQGBH``"""
+
     episodes: list[str]
+
+
+class Dvd:
+    data: DvdData
+
+    def __init__(
+        self,
+        data: DvdData,
+    ) -> None:
+        self.data = data
+
+    def export_data(self) -> DvdData:
+        result: dict[str, typing.Any] = {}
+        for key in DvdData.__annotations__:
+            if key in self.data and self.data[key] != None:
+                result[key] = self.data[key]
+        return typing.cast(DvdData, result)
 
 
 ### episode ###################################################################
@@ -843,6 +861,7 @@ class Season:
 class TvShowData(typing.TypedDict):
     seasons: list[SeasonData]
     databases: dict[str, str]
+    dvds: list[DvdData]
 
 
 class TvShow:
@@ -854,10 +873,13 @@ class TvShow:
 
     seasons: list[Season]
 
+    dvds: list[Dvd]
+
     def __init__(self) -> None:
         self.data = self.__load()
         self.__generate_season_episodes()
         self.titles = self.__generate_title_list()
+        self.__generate_dvds()
 
     def __load(self) -> TvShowData:
         return Yaml.load(EXPORT_FILENAME + ".yml")
@@ -882,6 +904,11 @@ class TvShow:
                 overall_no += 1
                 episode_no += 1
             self.seasons.append(Season(season_data, episodes))
+
+    def __generate_dvds(self) -> None:
+        self.dvds: list[Dvd] = []
+        for dvd_data in self.data["dvds"]:
+            self.dvds.append(Dvd(dvd_data))
 
     def __generate_title_list(self) -> dict[str, int]:
         titles: dict[str, int] = {}
@@ -942,7 +969,9 @@ class TvShow:
 
         for episode in self.episodes:
             if episode.location_wikidata and not episode.coordinates:
-                episode.coordinates = wikidata.get_coordinates(episode.location_wikidata)
+                episode.coordinates = wikidata.get_coordinates(
+                    episode.location_wikidata
+                )
 
         tv_show.export_to_yaml()
 
@@ -953,6 +982,11 @@ class TvShow:
         for season in self.seasons:
             seasons.append(season.export_data())
         data["seasons"] = seasons
+
+        dvds: list[DvdData] = []
+        for dvd in self.dvds:
+            dvds.append(dvd.export_data())
+        data["dvds"] = dvds
 
         return data
 
