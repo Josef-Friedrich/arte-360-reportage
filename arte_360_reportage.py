@@ -394,6 +394,10 @@ class DvdData(typing.TypedDict):
     """for example ``M0B09SDJQGBH``"""
 
     episodes: list[str]
+    """Refer to Episode titles"""
+
+    collection: list[str]
+    """Refer to other DVD titles"""
 
 
 class Dvd:
