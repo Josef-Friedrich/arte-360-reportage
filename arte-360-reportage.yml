@@ -43324,6 +43324,10 @@ seasons:
         episode_no: 15
         title: Sri Lanka - Eine legendäre Eisenbahnstrecke
         title_fr: Sri Lanka, Avec Rodrigo à Bord du Train Bleu
+        location_wikidata: Q35381
+        coordinates:
+        - 6.9166666666667
+        - 79.833333333333
         description: 'Die Strecke von der Hauptstadt Colombo ins Hochland
             von Sri Lanka bietet nicht nur spektakuläre Ausblicke, sondern
             zählt auch zu den schönsten Eisenbahnlinien der Welt. Erbaut ab
@@ -43349,28 +43353,7 @@ seasons:
             doch sie boomt. Ohne die Diesellok, die sie sich über die Hänge
             windet, wäre der Transport allerdings undenkbar. Zu unwegsam das
             Gelände, zu steil und abschüssig die Strecke inmitten der bis
-            zu 1900 Meter hohen Berge. Deshalb darf auch nicht jeder Lokführer
-            die anspruchsvolle Strecke fahren. Nur erfahrene Fahrer, die sich
-            bereits auf anderen Strecken bewährt haben, kommen in die Auswahl.
-            Einer von ihnen ist Rodrigo Piyarathne, der seit 26 Jahren andere
-            Strecken befährt. Zusammen mit einem Kollegen begibt er sich nun
-            auf eine Testfahrt, die ihn bis zur Endstation hoch in den Bergen,
-            über die spektakuläre Spirale von Demodara und wieder zurück ins
-            Tal bringt. Bewältigt Rodrigo diese Route, wird er sie zukünftig
-            auch allein fahren dürfen.'
-        description_fernsehserien: 'Als die britische Kolonialmacht ab Mitte
-            des 19. Jahrhunderts die Bahnstrecke durch das Hochland von Sri
-            Lanka errichtete, diente diese vorrangig dem Transport von Zimt,
-            Pfeffer, Tee und Kaffee. Die Waren wurden von den hochgelegenen
-            Plantagen in die Hauptstadt Colombo gebracht, von wo aus sie nach
-            Europa verschifft wurden. Heute wird die Strecke hauptsächlich
-            für den Passagierverkehr innerhalb der Insel genutzt. Unter den
-            Reisenden sind auch Mitarbeiter der neu entstandenen Bio-Farmen,
-            die ihre Waren auf dem Wochenmarkt von Colombo verkaufen wollen.
-            Noch ist die Biobranche in der Testphase, doch sie boomt. Ohne
-            die Diesellok, die sie sich über die Hänge windet, wäre der Transport
-            allerdings undenkbar. Zu unwegsam das Gelände, zu steil und abschüssig
-            die Strecke inmitten der bis zu 1.900 Meter hohen Berge.
+            zu 1900 Meter hohen Berge.
 
             Deshalb darf auch nicht jeder Lokführer die anspruchsvolle Strecke
             fahren. Nur erfahrene Fahrer, die sich bereits auf anderen Strecken
@@ -43380,41 +43363,7 @@ seasons:
             ihn bis zur Endstation hoch in den Bergen, über die spektakuläre
             Spirale von Demodara und wieder zurück ins Tal bringt. Bewältigt
             Rodrigo diese Route, wird er sie zukünftig auch allein fahren
-            dürfen. (Text: Arte)'
-        description_youtube: 'Die Strecke von der Hauptstadt Colombo ins Hochland
-            von Sri Lanka bietet nicht nur spektakuläre Ausblicke, sondern
-            zählt auch zu den schönsten Eisenbahnlinien der Welt. Erbaut ab
-            Mitte des 19. Jahrhundert von englischen Ingenieuren, transportieren
-            die Loks bis heute unzählige Passagiere und Güter über die 290
-            Kilometer lange Strecke. Rodrigo Piyarathne steht vor einer besonderen
-            Herausforderung: Der Lokführer darf zum ersten Mal die anspruchsvolle
-            Strecke von Nawalapitiya ins bergige Badulla fahren. Meist eingleisig
-            geht es über viele Brücken, durch fast vierzig Tunnel und bis
-            auf eine Höhe von 1.900 Meter. Es ist eine der schwierigsten Etappen
-            im Hochland von Sri Lanka, die nur besonders erfahrenen Lokführern
-            anvertraut wird. Kann Rodrigo sich hier bewähren?
-
-            Als die britische Kolonialmacht ab Mitte des 19. Jahrhunderts
-            die Bahnstrecke durch das Hochland von Sri Lanka errichtete, diente
-            diese vorrangig dem Transport von Zimt, Pfeffer, Tee und Kaffee.
-            Die Waren wurden von den hochgelegenen Plantagen in die Hauptstadt
-            Colombo gebracht, von wo aus sie nach Europa verschifft wurden.
-            Heute wird die Strecke hauptsächlich für den Passagierverkehr
-            innerhalb der Insel genutzt. Unter den Reisenden sind auch Mitarbeiter
-            der neu entstandenen Bio-Farmen, die ihre Waren auf dem Wochenmarkt
-            von Colombo verkaufen wollen. Noch ist die Biobranche in der Testphase,
-            doch sie boomt. Ohne die Diesellok, die sie sich über die Hänge
-            windet, wäre der Transport allerdings undenkbar. Zu unwegsam das
-            Gelände, zu steil und abschüssig die Strecke inmitten der bis
-            zu 1900 Meter hohen Berge. Deshalb darf auch nicht jeder Lokführer
-            die anspruchsvolle Strecke fahren. Nur erfahrene Fahrer, die sich
-            bereits auf anderen Strecken bewährt haben, kommen in die Auswahl.
-            Einer von ihnen ist Rodrigo Piyarathne, der seit 26 Jahren andere
-            Strecken befährt. Zusammen mit einem Kollegen begibt er sich nun
-            auf eine Testfahrt, die ihn bis zur Endstation hoch in den Bergen,
-            über die spektakuläre Spirale von Demodara und wieder zurück ins
-            Tal bringt. Bewältigt Rodrigo diese Route, wird er sie zukünftig
-            auch allein fahren dürfen.'
+            dürfen.'
         director: Sabine Eckhard
         air_date: '2017-08-20'
         duration: 52
@@ -43430,6 +43379,10 @@ seasons:
         episode_no: 16
         title: Die Wassernomaden vom Sambesi
         title_fr: Zambie, les Nomades du Fleuve
+        location_wikidata: Q43106
+        coordinates:
+        - -11.3702
+        - 24.3083
         description: 'Der gewaltige Sambesi durchzieht den Süden Afrikas und
             bildet riesige Überschwemmungsgebiete: In Sambia zwingt die Flut
             jedes Jahr ein ganzes Volk zum Umzug. Die Kuomboka - ein großes,
@@ -43447,81 +43400,23 @@ seasons:
             ihre Häuser erreicht hat, ziehen sie in trockene Gebiete um. Auch
             die Königin ist vor den Fluten nicht sicher. Die 87-jährige Mulena
             Mukwae Kandundu Yeta ist die fünfte Monarchin seit der Gründung
-            des Lozi-Königreichs im achtzehnten Jahrhundert. Nach sieben Monaten
-            Trockenheit kommt im November endlich der ersehnte Regen - von
-            nun an steigt allmählich der Wassertand des Sambesi, bis in rund
-            drei Monaten, gespeist von den großen Nebenflüssen, die Plains
-            überflutet sein werden. In diesen Monaten rücken die Lozifamilien
-            noch mehr zusammen - Zusammenhalt und ein enges familiäres Geflecht
-            sind typisch für die Lozi, nur so können sie das abgeschiedene
-            Leben in den Plains meistern. Ende April ist das Wasser so hoch,
-            dass auch die letzten in den etwas höher gelegenen Häusern vor
-            dem Wasser fliehen müssen - wer kann, sichert sein Haus vor Schlangen
-            und Krokodilen. Das zum Leben Notwendigste wird auf Einbäume geladen
-            und ins mehrere Stunden entfernte Ausweichquartier, quer durch
-            die überschwemmten Auen gebracht. 360° - GEO Reportage hat die
-            steigende Flut und die Kuomboka begleitet - in atemberaubend schöner
-            Kulisse.'
-        description_fernsehserien: 'Auf 2.500 Kilometern entwässert der Sambesi
-            eine Fläche doppelt so groß wie Frankreich. Mit seinen Überschwemmungen
-            prägt er das Leben von Mensch und Tier. Üppig und fruchtbar sind
-            die Plains, in denen das Volk der Lozi seit zwei Jahrhunderten
-            lebt. Jedes Jahr im November beginnt der Sambesi über die Ufer
-            zu treten und überschwemmt in den Folgemonaten gigantische Flächen.
-            Die Lozi leben mit der Gefahr der jährlichen Überschwemmung, die
-            durch den Klimawandel jedoch immer unberechenbarer wird. Wenn
-            das Wasser ihre Häuser erreicht hat, ziehen sie in trockene Gebiete
-            um. Auch die Königin ist vor den Fluten nicht sicher. Die 87-jährige
-            Mulena Mukwae Kandundu Yeta ist die fünfte Monarchin seit der
-            Gründung des Lozi-Königreichs im achtzehnten Jahrhundert.
+            des Lozi-Königreichs im achtzehnten Jahrhundert.
 
             Nach sieben Monaten Trockenheit kommt im November endlich der
-            ersehnte Regen von nun an steigt allmählich der Wassertand des
+            ersehnte Regen - von nun an steigt allmählich der Wassertand des
             Sambesi, bis in rund drei Monaten, gespeist von den großen Nebenflüssen,
             die Plains überflutet sein werden. In diesen Monaten rücken die
-            Lozifamilien noch mehr zusammen Zusammenhalt und ein enges familiäres
+            Lozifamilien noch mehr zusammen - Zusammenhalt und ein enges familiäres
             Geflecht sind typisch für die Lozi, nur so können sie das abgeschiedene
             Leben in den Plains meistern. Ende April ist das Wasser so hoch,
             dass auch die letzten in den etwas höher gelegenen Häusern vor
-            dem Wasser fliehen müssen wer kann, sichert sein Haus vor Schlangen
+            dem Wasser fliehen müssen - wer kann, sichert sein Haus vor Schlangen
             und Krokodilen. Das zum Leben Notwendigste wird auf Einbäume geladen
             und ins mehrere Stunden entfernte Ausweichquartier, quer durch
             die überschwemmten Auen gebracht.
 
-            „360° Geo Reportage“ hat die steigende Flut und die Kuomboka begleitet
-            - in atemberaubend schöner Kulisse. (Text: Arte)'
-        description_youtube: 'Der gewaltige Sambesi durchzieht den Süden Afrikas
-            und bildet riesige Überschwemmungsgebiete: In Sambia zwingt die
-            Flut jedes Jahr ein ganzes Volk zum Umzug. Die Kuomboka - ein
-            großes, rituelles Spektakel für die Bewohner des Sambesi, einschließlich
-            ihrer Königin, die von den Untertanen in Sicherheit gebracht wird.
-
-            Auf 2500 Kilometern entwässert der Sambesi eine Fläche doppelt
-            so groß wie Frankreich. Mit seinen Überschwemmungen prägt er das
-            Leben von Mensch und Tier. Üppig und fruchtbar sind die Plains,
-            in denen das Volk der Lozi seit zwei Jahrhunderten lebt. Jedes
-            Jahr im November beginnt der Sambesi über die Ufer zu treten und
-            überschwemmt in den Folgemonaten gigantische Flächen. Die Lozi
-            leben mit der Gefahr der jährlichen Überschwemmung, die durch
-            den Klimawandel jedoch immer unberechenbarer wird. Wenn das Wasser
-            ihre Häuser erreicht hat, ziehen sie in trockene Gebiete um. Auch
-            die Königin ist vor den Fluten nicht sicher. Die 87-jährige Mulena
-            Mukwae Kandundu Yeta ist die fünfte Monarchin seit der Gründung
-            des Lozi-Königreichs im achtzehnten Jahrhundert. Nach sieben Monaten
-            Trockenheit kommt im November endlich der ersehnte Regen - von
-            nun an steigt allmählich der Wassertand des Sambesi, bis in rund
-            drei Monaten, gespeist von den großen Nebenflüssen, die Plains
-            überflutet sein werden. In diesen Monaten rücken die Lozifamilien
-            noch mehr zusammen - Zusammenhalt und ein enges familiäres Geflecht
-            sind typisch für die Lozi, nur so können sie das abgeschiedene
-            Leben in den Plains meistern. Ende April ist das Wasser so hoch,
-            dass auch die letzten in den etwas höher gelegenen Häusern vor
-            dem Wasser fliehen müssen - wer kann, sichert sein Haus vor Schlangen
-            und Krokodilen. Das zum Leben Notwendigste wird auf Einbäume geladen
-            und ins mehrere Stunden entfernte Ausweichquartier, quer durch
-            die überschwemmten Auen gebracht. 360° - GEO Reportage hat die
-            steigende Flut und die Kuomboka begleitet - in atemberaubend schöner
-            Kulisse.'
+            360° - GEO Reportage hat die steigende Flut und die Kuomboka begleitet
+            - in atemberaubend schöner Kulisse.'
         director: Holger Riedel
         air_date: '2017-09-17'
         duration: 52
@@ -43538,6 +43433,10 @@ seasons:
         title: Mate-Tee - Die Seele Argentiniens
         title_fr: Le Maté, l’Élixir des Argentins
         alias: 'Argentinien: Mate-Tee, die Seele des Landes'
+        location_wikidata: Q44798
+        coordinates:
+        - -26.92
+        - -54.52
         description: 'Mate-Tee - er ist das Nationalgetränk Argentiniens.
             Aber Mate ist nicht nur ein Getränk, es ist auch eine Pflanze,
             genauer gesagt ein Baum: Die Yerba Mate. Und mehr als das, ist
@@ -43554,76 +43453,10 @@ seasons:
             war dann so schwierig und so teuer, dass man die Yerba-Mate „das
             Grüne Gold der Indios“ nannte. Erst seit Anfang des 20. Jahrhunderts
             war es möglich, die Bäume industriell anzubauen, erst seitdem
-            ist das Geheimnis des Anbaus gelüftet. 360°-GEO Reportage hat
-            Menschen quer durch Argentinien bis nach Paraguay getroffen, deren
-            Leben vom Mate maßgeblich bestimmt wird.
+            ist das Geheimnis des Anbaus gelüftet.
 
-            Um zu erzählen, wie das Geheimnis gelüftet wurde, macht der Film
-            eine 800 Kilometer lange Reise von der Provinz Misiones im Norden
-            Argentinien bis zur Provinz San Pedro im Norden Paraguays. Hier
-            lebt der Yerba Mate - Produzent Klaus Neumann, Urenkel von Fritz
-            Neumann, einem deutschen Einwanderer, der die Geschichte der Yerba
-            Mate Anfang des 20. Jahrhunderts buchstäblich revolutionierte.
-            Dieser wanderte 1888 von Breslau nach Paraguay aus, um dort eine
-            Kolonie zu bewirtschaften. Er konnte das Geheimnis um die Keimung
-            der Yerba-Mate-Samen ergründen und begann mit der Anpflanzung
-            von Plantagen, die sich seitdem in Paraguay und Nord-Argentinien
-            ausbreiteten. Seit dieser Zeit ist der Siegeszug des bitteren
-            Getränks, dessen vitalisierende und auch gesundheitsfördernde
-            Eigenschaften nachgewiesen sind, nicht aufzuhalten. Mate ist aus
-            dem Leben der Argentinier nicht wegzudenken, und Jung und Alt
-            identifizieren sich mit der Geschichte der Mate. Wenn es um die
-            Zubereitung eines guten Mate-Tees geht, kann jeder Argentinier,
-            ähnlich wie bei der Aufstellung der Fußballnationalmannschaft,
-            endlose und sehr unterschiedliche Vorträge halten.'
-        description_fernsehserien: 'Ein Leben ohne Mate ist im Land der Gauchos
-            unvorstellbar. 250 Millionen Kilogramm Mate-Tee werden jährlich
-            allein in Argentinien hergestellt. Mate hat seine Wurzeln bei
-            den Indios, die die wild wachsenden Mate-Blätter tief im Urwald
-            Lateinamerikas suchten. Doch der Anbau des Yerba-Baums blieb lange
-            Zeit ein Geheimnis und die Herstellung von Mate-Tee war so schwierig
-            und teuer, dass man die Yerba-Mate „das Grüne Gold der Indios“
-            nannte. Erst Anfang des 20. Jahrhunderts war es möglich, die Bäume
-            auch industriell anzubauen. Um zu erzählen, wie das Geheimnis
-            des Anbaus gelüftet wurde, unternimmt „360° Geo Reportage“ eine
-            800 Kilometer lange Reise vom äußersten Norden Argentiniens bis
-            nach Paraguay.
-
-            Hier, in der Provinz San Pedro, lebt der Yerba Mate-Produzent
-            Klaus Neumann, Urenkel von Fritz Neumann, der die Geschichte der
-            Yerba Mate Anfang des 20. Jahrhunderts buchstäblich revolutionierte:
-            Neumann wanderte 1888 von Breslau nach Paraguay aus und konnte
-            das Geheimnis um die Keimung der Yerba-Mate-Samen ergründen. Er
-            begann erstmalig mit der Pflanzung von Yerba-Mate-Plantagen, die
-            sich in Windeseile über Paraguay und Nord-Argentinien ausbreiten
-            sollten. Seitdem ist der Siegeszug des bitteren Getränks, dessen
-            vitalisierende und auch gesundheitsfördernde Eigenschaften auch
-            wissenschaftlich bewiesen sind, nicht aufzuhalten. Heutzutage
-            ist Mate aus dem Leben der Argentinier nicht mehr wegzudenken,
-            Jung und Alt identifizieren sich mit dem Getränk.
-
-            Wenn es um die Zubereitung eines guten Mate-Tees geht, kann jeder
-            Argentinier, ähnlich wie bei der Aufstellung der Fußballnationalmannschaft,
-            endlose und sehr unterschiedliche Vorträge halten … (Text: Arte)'
-        description_youtube: 'Mate-Tee - er ist das Nationalgetränk Argentiniens.
-            Aber Mate ist nicht nur ein Getränk, es ist auch eine Pflanze,
-            genauer gesagt ein Baum: Die Yerba Mate. Und mehr als das, ist
-            es ein tiefes Gefühl der Zusammengehörigkeit und der Heimatliebe
-            quer durch alle Alters- und Sozialschichten.
-
-            Ein Leben ohne Mate ist im Land der Gauchos unvorstellbar. 250
-            Millionen Kilogramm Mate-Tee werden jährlich allein in Argentinien
-            hergestellt. Unter schweren Bedingungen, geerntet meist von Hand.
-            Mate hat seine Wurzeln bei den Indios, die die wild wachsenden
-            Mate-Blätter tief im Urwald Lateinamerikas suchten. Als die Jesuiten
-            1767 aus Südamerika vertrieben wurden, nahmen sie das Geheimnis
-            des Anbaus des Yerba-Mate-Baums mit. Die Herstellung von Mate-Tee
-            war dann so schwierig und so teuer, dass man die Yerba-Mate „das
-            Grüne Gold der Indios“ nannte. Erst seit Anfang des 20. Jahrhunderts
-            war es möglich, die Bäume industriell anzubauen, erst seitdem
-            ist das Geheimnis des Anbaus gelüftet. 360°-GEO Reportage hat
-            Menschen quer durch Argentinien bis nach Paraguay getroffen, deren
-            Leben vom Mate maßgeblich bestimmt wird.
+            360°-GEO Reportage hat Menschen quer durch Argentinien bis nach
+            Paraguay getroffen, deren Leben vom Mate maßgeblich bestimmt wird.
 
             Um zu erzählen, wie das Geheimnis gelüftet wurde, macht der Film
             eine 800 Kilometer lange Reise von der Provinz Misiones im Norden
@@ -43783,6 +43616,10 @@ seasons:
         episode_no: 19
         title: Svanetien - Von Lebenden und Toten
         title_fr: 'Géorgie: le Culte des Ancêtres en Svaténie'
+        location_wikidata: Q19044
+        coordinates:
+        - 42.916388888889
+        - 43.011388888889
         description: 'Im Kaukasus-Hochland von Georgien pflegt ein Volk seine
             urtümlichen Rituale aus vorchristlicher Zeit. Die Svanetier sind
             überzeugt, dass ihre Ahnen direkt neben ihnen weiter existieren.
