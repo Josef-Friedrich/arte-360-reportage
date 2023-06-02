@@ -1591,7 +1591,8 @@ def main() -> None:
         tv_show.export_to_json()
         generate_leaflet()
         generate_readme()
-        tv_show.generate_wikitext(args.wiki)
+        tv_show.generate_wikitext('de')
+        tv_show.generate_wikitext('fr')
 
     if args.chatgpt:
         tv_show.generate_chatgpt_texts()
