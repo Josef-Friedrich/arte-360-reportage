@@ -985,6 +985,40 @@ class TvShow:
 
         return episode
 
+    def generate_wikitext(self, language: typing.Literal["de", "fr"] = "de") -> None:
+        episode_entries: list[str] = []
+        season_entries: list[str] = []
+
+        Template: WikiTemplate
+        if language == "fr":
+            Template = typing.cast(WikiTemplate, FrWiki)
+        else:
+            Template = typing.cast(WikiTemplate, DeWiki)
+
+        for season in self.seasons:
+            episode_entries = []
+            for episode in season.episodes:
+                episode_entries.append(Template.episode(episode))
+            season_entries.append(
+                Template.season(season=season, episode_entries=episode_entries)
+            )
+
+        Utils.write_text_file(
+            f"{EXPORT_FILENAME}_wiki-{language}.wikitext", season_entries
+        )
+
+    def generate_wikitext_dvd(
+        self, language: typing.Literal["de", "fr"] = "de"
+    ) -> None:
+        dvd_entries: list[str] = []
+
+        for dvd in self.dvds:
+            dvd_entries = []
+
+            dvd_entries.append(DeWiki.dvd(dvd=dvd))
+
+        Utils.write_text_file(f"{EXPORT_FILENAME}_wiki_de_DVD.wikitext", dvd_entries)
+
     def generate_chatgpt_texts(self, inline: bool = False) -> None:
         descriptions: list[str] = []
 
@@ -1335,27 +1369,6 @@ def scrape() -> None:
         tv_show.export_to_yaml()
 
 
-def generate_wikitext(language: typing.Literal["de", "fr"] = "de") -> None:
-    episode_entries: list[str] = []
-    season_entries: list[str] = []
-
-    Template: WikiTemplate
-    if language == "fr":
-        Template = typing.cast(WikiTemplate, FrWiki)
-    else:
-        Template = typing.cast(WikiTemplate, DeWiki)
-
-    for season in tv_show.seasons:
-        episode_entries = []
-        for episode in season.episodes:
-            episode_entries.append(Template.episode(episode))
-        season_entries.append(
-            Template.season(season=season, episode_entries=episode_entries)
-        )
-
-    Utils.write_text_file(f"{EXPORT_FILENAME}_wiki-{language}.wikitext", season_entries)
-
-
 def generate_leaflet() -> None:
     marker: list[typing.Any] = []
     for episode in tv_show.episodes:
@@ -1474,6 +1487,7 @@ def get_argument_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog=EXPORT_FILENAME)
     parser.add_argument("-c", "--chatgpt", action="store_true")
     parser.add_argument("-C", "--coordinates", action="store_true")
+    parser.add_argument("-d", "--dvd", action="store_true")
     parser.add_argument("-j", "--json", action="store_true")
     parser.add_argument("-l", "--leaflet", action="store_true")
     parser.add_argument("-r", "--readme", action="store_true")
@@ -1493,6 +1507,9 @@ def main() -> None:
     if args.coordinates:
         tv_show.add_coordinates()
 
+    if args.dvd:
+        tv_show.generate_wikitext_dvd()
+
     if args.json:
         tv_show.export_to_json()
 
@@ -1509,7 +1526,7 @@ def main() -> None:
         tmp()
 
     if args.wiki:
-        generate_wikitext(args.wiki)
+        tv_show.generate_wikitext(args.wiki)
 
     if args.yaml:
         tv_show.export_to_yaml()
