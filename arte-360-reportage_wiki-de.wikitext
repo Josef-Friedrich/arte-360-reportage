@@ -260,93 +260,104 @@
 | EA = 1999-09-09
 | ZF = Autos sind beliebt, aber sie fordern auch täglich 2.000 Todesopfer durch Unfälle. Psychologen sagen, dass 95 Prozent der Unfälle durch Risikobereitschaft und menschliches Versagen entstehen. Besonders junge Männer sind betroffen, da 75 Prozent der tödlichen Unfälle auf ihr Konto gehen. Tests zeigen, dass wir uns unbewusst an ein Risikolevel anpassen. Bei schlechtem Wetter oder auf engen Straßen sind wir vorsichtiger und die Unfallzahlen sinken. Psychologe Steve Stradling behauptet, dass Fehler uns helfen, unsere Grenzen zu erkennen, aber im Straßenverkehr ist es oft zu spät dafür. Wir müssen uns bewusst sein und unser Auto unter Kontrolle haben.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 29
 | NR_ST = 29
 | OT = Die Meister des Glücks<ref>Internetquellen zur Episode ''„Die Meister des Glücks“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/29-die-suche-nach-dem-glueck-die-meister-des-gluecks-339142 29] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/29-die-suche-nach-dem-glueck-die-meister-des-gluecks-339142 339142], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824535 S01E29] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824535 4824535], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=1U3Bl34Iu3A 1U3Bl34Iu3A]</ref>
 | Feld1 = -
 | REG = Harold Woetzel
 | EA = 1999-10-11
+| ZF = Glück findet man, indem man Schwierigkeiten überwindet. Das Streben nach Geld, Komfort und Freizeit macht uns nicht glücklicher. Laut dem Psychologen Mihalyi Cszikszentmihalyi liegt das Glück im „Flow“, dem vollständigen Aufgehen in einer Tätigkeit. Er hat über 6.000 Menschen befragt und festgestellt, dass Menschen in verschiedenen Berufen und sozialen Schichten diese Erfahrung teilen und sich als glücklich bezeichnen. Die Anzahl der glücklichen Menschen in Deutschland ist seit 1954 konstant geblieben, trotz gestiegenem Lebensstandard.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 30
 | NR_ST = 30
 | OT = Die Macht des Lachens<ref>Internetquellen zur Episode ''„Die Macht des Lachens“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/30-die-suche-nach-dem-glueck-die-macht-des-lachens-339143 30] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/30-die-suche-nach-dem-glueck-die-macht-des-lachens-339143 339143], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824536 S01E30] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824536 4824536], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=TCOpr5a6tAY TCOpr5a6tAY]</ref>
 | Feld1 = -
 | REG = Ludo Graham
 | EA = 1999-10-12
+| ZF = Stress ist eine häufige Todesursache und ein indischer Arzt hat eine Methode entwickelt, um Stress abzubauen und möglicherweise sogar Krebs zu bekämpfen. Seiner Meinung nach ist Lachen die beste Medizin. Kinder lachen viel öfter als Erwachsene, daher gründete der Arzt in Mumbai einen Lachverein. Forscher nehmen die These mittlerweile ernst. Lachen soll die Produktion von Killerzellen fördern und das Immunsystem stärken. Versuche haben gezeigt, dass Lachen den Stresshormonspiegel im Blut deutlich senkt.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 31
 | NR_ST = 31
 | OT = Chemie der Traurigkeit<ref>Internetquellen zur Episode ''„Chemie der Traurigkeit“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/31-die-suche-nach-dem-glueck-chemie-der-traurigkeit-339144 31] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/31-die-suche-nach-dem-glueck-chemie-der-traurigkeit-339144 339144], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824537 S01E31] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824537 4824537], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=1SVM-x4U7w4 1SVM-x4U7w4]</ref>
 | Feld1 = -
 | REG = Thomas Wartmann
 | EA = 1999-10-13
+| ZF = Depression ist eine häufige Erkrankung, von der jeder fünfte Mensch betroffen ist. Allerdings bleibt sie oft unerkannt und unbehandelt. Depressionen und Angstzustände machen einen großen Teil der jährlichen Kosten für die Behandlung von Nervenkrankheiten aus. Das Max-Planck-Institut für Psychiatrie hat ein neues Antidepressivum entwickelt, das auf einer Störung des Stresshormonsystems basiert. Das Medikament soll Angst und Stress schnell und effektiv reduzieren, ohne Müdigkeit oder Abhängigkeit zu verursachen. Es befindet sich derzeit in der Testphase mit freiwilligen Probanden.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 32
 | NR_ST = 32
 | OT = Insel der Glücklichsten<ref>Internetquellen zur Episode ''„Insel der Glücklichsten“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/32-die-suche-nach-dem-glueck-insel-der-gluecklichsten-339145 32] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/32-die-suche-nach-dem-glueck-insel-der-gluecklichsten-339145 339145], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824538 S01E32] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824538 4824538], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=0ejrRWcXiro 0ejrRWcXiro]</ref>
 | Feld1 = -
 | REG = Harold Woetzel
 | EA = 1999-10-14
+| ZF = Ein niederländischer Forscher sucht nach dem glücklichsten Ort der Welt. Die World Database of Happiness hat die Top Ten der glücklichsten Länder ermittelt, basierend auf Umfragen und Lebenserwartung. Bulgarien ist am unglücklichsten, während Schweden und die Niederlande ganz oben stehen. Überraschenderweise liegen beliebte Urlaubsländer wie Italien, Spanien und Griechenland nur im Mittelfeld. Deutschland belegt Platz 19. Der Soziologe Veenhoven hat Island identifiziert, ein Land, das angeblich die glücklichsten Menschen der Welt beherbergt, obwohl er selbst noch nie dort war.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 33
 | NR_ST = 33
 | OT = Hunger nach Sonne<ref>Internetquellen zur Episode ''„Hunger nach Sonne“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/33-universum-des-lichts-hunger-nach-sonne-339137 33] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/33-universum-des-lichts-hunger-nach-sonne-339137 339137], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824539 S01E33] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824539 4824539], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=WicPXmsDRC8 WicPXmsDRC8]</ref>
 | Feld1 = -
 | REG = Walter Tauber
 | EA = 1999-11-01
+| ZF = Forscher haben einen Weg gefunden, die dunkle Jahreszeit zu überwinden: Sie entwickelten Lampen, die 20-mal heller strahlen als eine Glühbirne. Diese „Bright Lights“ sollen Depressionen lindern. Sie wurden ursprünglich für die klinische Behandlung entwickelt, sind aber mittlerweile auch im Alltag beliebt. Ein Café in Helsinki bietet seinen Besuchern die Möglichkeit, neben dem Essen auch das strahlende Licht dieser Lampen zu genießen. Die Frage bleibt, ob die Sonne in Zukunft durch solche Lampen ersetzt werden könnte.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 34
 | NR_ST = 34
 | OT = Die Leuchtkraft der Natur<ref>Internetquellen zur Episode ''„Die Leuchtkraft der Natur“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/34-universum-des-lichts-die-leuchtkraft-der-natur-339146 34] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/34-universum-des-lichts-die-leuchtkraft-der-natur-339146 339146], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824541 S01E34] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824541 4824541], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=epuV5ouQ7OA epuV5ouQ7OA]</ref>
 | Feld1 = -
 | REG = Claudia Wassmann
 | EA = 1999-11-02
+| ZF = Auf der Insel Vieque in der Karibik gibt es ein nächtliches Phänomen: Beim Baden im Meer verwandelt sich der Sprung ins Wasser in ein Lichterbad. Früher glaubte man, dass der Teufel dafür verantwortlich sei, aber die Wissenschaft hat herausgefunden, dass es von einer leuchtenden Alge stammt. Biolumineszenz ist die Fähigkeit einiger Pflanzen und Tiere, ihr eigenes Licht zu erzeugen. Es dient zur Tarnung, Abschreckung, Anlockung von Partnern oder Beute und ermöglicht ihnen das Sehen. Der Biologe Gerhard Jarms aus Hamburg und ein internationales Wissenschaftlerteam erforschen dieses Naturphänomen mit einer Unterwasserkamera im norwegischen Lurje-Fjord.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 35
 | NR_ST = 35
 | OT = Die Seele des Lichts<ref>Internetquellen zur Episode ''„Die Seele des Lichts“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/35-universum-des-lichts-die-seele-des-lichts-339147 35] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/35-universum-des-lichts-die-seele-des-lichts-339147 339147], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824542 S01E35] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824542 4824542], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=gFoyqUu_hAU gFoyqUu_hAU]</ref>
 | Feld1 = -
 | REG = Dietrich Krauß
 | EA = 1999-11-03
+| ZF = Wissenschaftler nähern sich dem Rätsel des Lichts an. Licht ist sowohl Teilchen als auch Welle und könnte als Datenträger mit hoher Kapazität dienen. Bisherige Nutzung wurde durch die hohe Geschwindigkeit von Licht behindert. Forscher in Boston haben nun erstmals Licht auf eine Geschwindigkeit von 50 km/h abgebremst. Die Entwicklung eines Photonen-Beamers eröffnet möglicherweise neue Science-Fiction-ähnliche Möglichkeiten.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 36
 | NR_ST = 36
 | OT = Lichtkunst - Kunstlicht<ref>Internetquellen zur Episode ''„Lichtkunst - Kunstlicht“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/36-universum-des-lichts-lichtkunst-kunstlicht-339148 36] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/36-universum-des-lichts-lichtkunst-kunstlicht-339148 339148], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824544 S01E36] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824544 4824544], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=FU3uG3sr75w FU3uG3sr75w]</ref>
 | Feld1 = -
 | REG = Elke Werry
 | EA = 1999-11-04
+| ZF = Als Edison die Glühbirne erfand, konnte er nicht ahnen, wie sehr künstliches Licht unser Leben verändern würde. Es hat die Nacht zum Tag gemacht. Früher bestimmte der Wechsel von Tag und Nacht unseren Rhythmus, doch jetzt beherrscht Kunstlicht unser Leben. Fortschrittliche Lichttechnologien gestalten die Warenwelt und machen sie verlockend. Bereits seit den 20er Jahren ist das Spiel mit Licht eine eigene Kunstform. Künstler wie Yann Kersalé nutzen Kunstlicht für spektakuläre Events weltweit. Der Einsatz von Kunstlicht kennt keine Grenzen mehr. Helligkeit ist allgegenwärtig, während Dunkelheit in unserer von Licht geprägten Zivilisation selten geworden ist.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 37
 | NR_ST = 37
 | OT = Eine Liebe auf Bali<ref>Internetquellen zur Episode ''„Eine Liebe auf Bali“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/37-im-namen-der-liebe-eine-liebe-auf-bali-339149 37] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/37-im-namen-der-liebe-eine-liebe-auf-bali-339149 339149], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824545 S01E37] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824545 4824545], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=kf8zhso0u4s kf8zhso0u4s]</ref>
 | Feld1 = -
 | REG = David Goodale
 | EA = 1999-12-06
+| ZF = Auf der indonesischen Insel Bali, die für ihre romantischen Strände bekannt ist, existiert bei den Einheimischen kein Verständnis für romantische Liebe. Die Gemeinschaft steht über den individuellen Wünschen, was auch im Hinblick auf Ehepartner und Traditionen gilt. Vor 21 Jahren wagte ein balinesischer Prinz namens Tjok Raka gegen den Willen seiner Familie die Heirat mit einer Australierin namens Jane Gillespie. Obwohl die Gemeinschaft entsetzt war, hält ihre Liebe bis heute an. Im Gegensatz dazu unterwarf sich Tjok Abi, der schwule Neffe des Prinzen, den Erwartungen seiner Familie und bereut dies nun zutiefst.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 38
 | NR_ST = 38
 | OT = Mythos Mutterliebe<ref>Internetquellen zur Episode ''„Mythos Mutterliebe“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/38-im-namen-der-liebe-mythos-mutterliebe-339150 38] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/38-im-namen-der-liebe-mythos-mutterliebe-339150 339150], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824549 S01E38] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824549 4824549], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=mgGI3er1qPI mgGI3er1qPI]</ref>
 | Feld1 = -
 | REG = Nadya Mahdi
 | EA = 1999-12-07
+| ZF = Eine Gruppe von Wissenschaftlern untersucht das Problem der mangelnden Liebe von Müttern zu ihren Kindern. Sally Monk konnte sich nach ihrer Scheidung aufgrund schwerer Depressionen nicht um ihre Tochter Sandy kümmern. Theresa Longman hingegen ist eine fürsorgliche Mutter, die sich trotz der Behinderung eines ihrer Kinder rund um die Uhr um sie kümmert. Die Suche nach einer „perfekten Mutter“ führte Molekularbiologen zu einem „Aufzuchts-Gen“ bei Mäusen, aber Experten bezweifeln die Übertragbarkeit auf Menschen. Die Rolle einer Mutter kann sowohl angeboren als auch erlernt sein, abhängig von stabilen gesellschaftlichen Bedingungen.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 39
 | NR_ST = 39
 | OT = Angst macht verführerisch<ref>Internetquellen zur Episode ''„Angst macht verführerisch“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/39-im-namen-der-liebe-angst-macht-verfuehrerisch-339151 39] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/39-im-namen-der-liebe-angst-macht-verfuehrerisch-339151 339151], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824550 S01E39] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824550 4824550], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=c238XngnQas c238XngnQas]</ref>
 | Feld1 = -
 | REG = Chris Ledger
 | EA = 1999-12-08
+| ZF = Psychologen und Anthropologen haben herausgefunden, dass Liebe und Furcht sich nicht ausschließen, sondern eng miteinander verbunden sein können. Bei einem Erdbeben werden nicht nur unsere Umgebung, sondern auch unsere Gefühle erschüttert. Forscher wie der Psychologe Art Aron und die Anthropologin Helen Fisher untersuchten das Phänomen der Liebe genauer und stellten fest, dass Menschen, die von einem Erdbeben stark betroffen waren, besonders häufig frisch verliebt waren. Diese Erkenntnis zeigt, dass es eine erstaunliche Verbindung zwischen Anziehung und Angst gibt.
 }}
 {{Episodenlisteneintrag2
 | NR_GES = 40
