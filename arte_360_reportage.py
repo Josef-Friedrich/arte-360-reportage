@@ -113,6 +113,20 @@ class Template(abc.ABC):
     def heading(text: str, level: int = 1) -> str:
         pass
 
+    @staticmethod
+    @abc.abstractmethod
+    def unordered_list(items: list[str]) -> str:
+        pass
+
+    @staticmethod
+    @abc.abstractmethod
+    def ordered_list(items: list[str]) -> str:
+        pass
+
+    @staticmethod
+    @abc.abstractmethod
+    def bold(text: str) -> str:
+        pass
 
 class Markdown(Template):
     @staticmethod
@@ -433,12 +447,12 @@ class DvdData(typing.TypedDict):
     """for example ``2007-01-01``"""
 
     ean: str
-    """for example ``4009496401519``"""
+    """European Article Number, for example ``4009496401519``"""
 
     asin: str
-    """for example ```B09SDJQGBH`"""
+    """Amazon Standard Identification Number, for example ```B09SDJQGBH`"""
 
-    mediamops: str
+    medimops: str
     """for example ``M0B09SDJQGBH``"""
 
     dvd_count: int
@@ -466,6 +480,39 @@ class Dvd(DataAccessor):
     @property
     def title(self) -> str:
         return self._get_str_key_safe("title")
+
+    @property
+    def release_date(self) -> str:
+        return self._get_str_key_safe("release_date")
+
+    @property
+    def release_date_date(self) -> date:
+            return date.fromisoformat(self.release_date)
+
+    @property
+    def ean(self) -> str | None:
+        return self._get_str_key("ean")
+
+    @property
+    def asin(self) -> str:
+        return self._get_str_key_safe("asin")
+
+    @property
+    def medimops(self) -> str | None:
+        return self._get_str_key("medimops")
+
+    @property
+    def dvd_count(self) -> int:
+        return self._get_int_key_safe("dvd_count")
+
+    @property
+    def duration(self) -> int:
+        return self._get_int_key_safe("duration")
+
+    @property
+    def episodes(self) -> list[str] | None:
+        if "episodes" in self.data and self.data["episodes"]:
+            return self.data["episodes"]
 
     def export_data(self) -> DvdData:
         return typing.cast(DvdData, super().export_data(DvdData.__annotations__))
@@ -1013,11 +1060,9 @@ class TvShow:
         dvd_entries: list[str] = []
 
         for dvd in self.dvds:
-            dvd_entries = []
+            dvd_entries.append(WikiDvd.dvd(dvd=dvd))
 
-            dvd_entries.append(DeWiki.dvd(dvd=dvd))
-
-        Utils.write_text_file(f"{EXPORT_FILENAME}_wiki_de_DVD.wikitext", dvd_entries)
+        Utils.write_text_file(f"{EXPORT_FILENAME}_wiki_de_DVD.wikitext", Wiki.unordered_list(dvd_entries))
 
     def generate_chatgpt_texts(self, inline: bool = False) -> None:
         descriptions: list[str] = []
@@ -1100,6 +1145,24 @@ class Wiki(Template):
         level = level + 1
         delimiter = "=" * level
         return f"\n{delimiter} {text} {delimiter}\n"
+
+    @staticmethod
+    def ordered_list(items: list[str]) -> str:
+        rendered: list[str] = []
+        for item in items:
+            rendered.append(f"# {item}")
+        return "\n".join(rendered)
+
+    @staticmethod
+    def unordered_list(items: list[str]) -> str:
+        rendered: list[str] = []
+        for item in items:
+            rendered.append(f"* {item}")
+        return "\n".join(rendered)
+
+    @staticmethod
+    def bold(text: str) -> str:
+        return f"'''{text}'''"
 
     @staticmethod
     def internetquelle(
@@ -1314,9 +1377,27 @@ class DeWiki(WikiTemplate):
             + "\n}}"
         )
 
+
+class WikiDvd:
+    @staticmethod
+    def ref(dvd: Dvd) -> str:
+        items: list[str] = []
+        items.append(f"Amazon Standard Identification Number (asin): {dvd.asin}")
+
+        if dvd.ean:
+            items.append(f"European Article Number (ean): {dvd.ean}")
+
+        if dvd.medimops:
+            items.append(f"Medimops-ID: {dvd.medimops}")
+
+        return Wiki.ref(", ".join(items))
+
     @staticmethod
     def dvd(dvd: Dvd) -> str:
-        return Wiki.heading(dvd.title, 2)
+        episodes = ""
+        if dvd.episodes:
+            episodes = Wiki.ordered_list(dvd.episodes) + "\n"
+        return Wiki.bold(dvd.title) + WikiDvd.ref(dvd) + "\n" + episodes
 
 
 class FrWiki(WikiTemplate):

@@ -13706,7 +13706,7 @@
       "production_date": "2007-01-01",
       "ean": "4009496401519",
       "asin": "B09SDJQGBH",
-      "mediamops": "M0B09SDJQGBH",
+      "medimops": "M0B09SDJQGBH",
       "dvd_count": 1,
       "duration": 52
     },
@@ -13721,7 +13721,7 @@
       "release_date": "2009-09-02",
       "ean": "0883629672168",
       "asin": "B002KQ6844",
-      "mediamops": "M0B002KQ6844",
+      "medimops": "M0B002KQ6844",
       "dvd_count": 1,
       "duration": 25
     },
@@ -13730,7 +13730,7 @@
       "release_date": "2009-09-02",
       "ean": "0883629672458",
       "asin": "B002HWRL5Q",
-      "mediamops": "M0B002HWRL5Q",
+      "medimops": "M0B002HWRL5Q",
       "dvd_count": 1,
       "duration": 25
     },
@@ -13739,7 +13739,7 @@
       "release_date": "2009-09-02",
       "ean": "0883629673196",
       "asin": "B002KQ68LW",
-      "mediamops": "M0B002KQ68LW",
+      "medimops": "M0B002KQ68LW",
       "dvd_count": 1,
       "duration": 25
     },
@@ -13748,7 +13748,7 @@
       "release_date": "2009-09-02",
       "ean": "0883629673424",
       "asin": "B002KQ68T4",
-      "mediamops": "M0B002KQ68T4",
+      "medimops": "M0B002KQ68T4",
       "dvd_count": 1,
       "duration": 25
     },
@@ -13763,7 +13763,7 @@
       "release_date": "2009-09-02",
       "ean": "0883629672953",
       "asin": "B002HWRLCE",
-      "mediamops": "M0B002HWRLCE",
+      "medimops": "M0B002HWRLCE",
       "dvd_count": 1,
       "duration": 25
     },
@@ -13772,7 +13772,7 @@
       "release_date": "2009-09-02",
       "ean": "0883629673134",
       "asin": "B002KQ68JY",
-      "mediamops": "M0B002KQ68JY",
+      "medimops": "M0B002KQ68JY",
       "dvd_count": 1,
       "duration": 25
     },
@@ -13787,7 +13787,7 @@
       "release_date": "2009-09-02",
       "ean": "0883629673622",
       "asin": "B002KQ68YY",
-      "mediamops": "M0B002KQ68YY",
+      "medimops": "M0B002KQ68YY",
       "dvd_count": 1,
       "duration": 25
     },
@@ -13796,7 +13796,7 @@
       "release_date": "2009-09-02",
       "ean": "0883629672359",
       "asin": "B002HWRL2Y",
-      "mediamops": "M0B002HWRL2Y",
+      "medimops": "M0B002HWRL2Y",
       "dvd_count": 1,
       "duration": 25
     },
@@ -13805,7 +13805,7 @@
       "release_date": "2009-09-02",
       "ean": "0883629672618",
       "asin": "B002KQ687G",
-      "mediamops": "M0B002KQ687G",
+      "medimops": "M0B002KQ687G",
       "dvd_count": 1,
       "duration": 25
     },
@@ -13827,7 +13827,7 @@
       "production_date": "2011-01-01",
       "ean": "4006680063492",
       "asin": "B005WPNWGC",
-      "mediamops": "M0B005WPNWGC",
+      "medimops": "M0B005WPNWGC",
       "dvd_count": 4,
       "duration": 517,
       "episodes": [
@@ -13851,7 +13851,7 @@
       "production_date": "2011-01-01",
       "ean": "4006680063485",
       "asin": "B005WPNWGW",
-      "mediamops": "M0B005WPNWGW",
+      "medimops": "M0B005WPNWGW",
       "dvd_count": 4,
       "duration": 517,
       "episodes": [
@@ -13875,7 +13875,7 @@
       "production_date": "2011-01-01",
       "ean": "4006680063249",
       "asin": "B007BZ06QU",
-      "mediamops": "M0B007BZ06QU",
+      "medimops": "M0B007BZ06QU",
       "dvd_count": 8,
       "duration": 1039,
       "collection": [
@@ -13889,7 +13889,7 @@
       "production_date": "2011-01-01",
       "ean": "4006680063263",
       "asin": "B007BZ06NS",
-      "mediamops": "M0B007BZ06NS",
+      "medimops": "M0B007BZ06NS",
       "dvd_count": 2,
       "duration": 260,
       "episodes": [
@@ -13907,7 +13907,7 @@
       "production_date": "2011-01-01",
       "ean": "4006680063270",
       "asin": "B007BZ072I",
-      "mediamops": "M0B007BZ072I",
+      "medimops": "M0B007BZ072I",
       "dvd_count": 3,
       "duration": 388,
       "episodes": [
@@ -13928,7 +13928,7 @@
       "production_date": "2011-01-01",
       "ean": "4006680063256",
       "asin": "B007BZ07FU",
-      "mediamops": "M0B007BZ07FU",
+      "medimops": "M0B007BZ07FU",
       "dvd_count": 3,
       "duration": 391,
       "episodes": [
@@ -13949,7 +13949,7 @@
       "production_date": "2011-01-01",
       "ean": "4006680065168",
       "asin": "B008IAQPG2",
-      "mediamops": "M0B008IAQPG2",
+      "medimops": "M0B008IAQPG2",
       "dvd_count": 4,
       "duration": 691,
       "episodes": [
@@ -13977,7 +13977,7 @@
       "production_date": "2011-01-01",
       "ean": "4006680065151",
       "asin": "B008IAQPE4",
-      "mediamops": "M0B008IAQPE4",
+      "medimops": "M0B008IAQPE4",
       "dvd_count": 4,
       "duration": 693,
       "episodes": [
@@ -14005,7 +14005,7 @@
       "production_date": "2011-01-01",
       "ean": "4006680065175",
       "asin": "B009CW2HQMB008IAQPFI",
-      "mediamops": "M0B008IAQPFI",
+      "medimops": "M0B008IAQPFI",
       "dvd_count": 4,
       "duration": 682,
       "episodes": [
@@ -14033,7 +14033,7 @@
       "production_date": "2012-01-01",
       "ean": "4006680065182",
       "asin": "B009CW2H6C",
-      "mediamops": "M0B009CW2H6C",
+      "medimops": "M0B009CW2H6C",
       "dvd_count": 4,
       "duration": 687,
       "episodes": [
@@ -14061,7 +14061,7 @@
       "production_date": "2012-01-01",
       "ean": "4006680065199",
       "asin": "B009CW2HEO",
-      "mediamops": "M0B009CW2HEO",
+      "medimops": "M0B009CW2HEO",
       "dvd_count": 3,
       "duration": 513,
       "episodes": [
@@ -14085,7 +14085,7 @@
       "production_date": "2000-01-01",
       "ean": "4006680063423",
       "asin": "B009CW2HVC",
-      "mediamops": "M0B009CW2HVC",
+      "medimops": "M0B009CW2HVC",
       "dvd_count": 2,
       "duration": 303,
       "episodes": [
@@ -14104,7 +14104,7 @@
       "production_date": "2012-01-01",
       "ean": "4006680063430",
       "asin": "B009CW2HQM",
-      "mediamops": "M0B009CW2HQM",
+      "medimops": "M0B009CW2HQM",
       "duration": 341,
       "episodes": [
         "New York - Die kleinste Oper der Welt",
@@ -14123,7 +14123,7 @@
       "production_date": "2014-01-01",
       "ean": "4006680079080",
       "asin": "B01E0NDKEA",
-      "mediamops": "M0B01E0NDKEA",
+      "medimops": "M0B01E0NDKEA",
       "dvd_count": 2,
       "duration": 310,
       "episodes": [
@@ -14141,7 +14141,7 @@
       "production_date": "2015-01-01",
       "ean": "4006680082882",
       "asin": "B01FL88CAU",
-      "mediamops": "M0B01FL88CAU",
+      "medimops": "M0B01FL88CAU",
       "dvd_count": 2,
       "duration": 350,
       "episodes": [
@@ -14177,7 +14177,7 @@
       "release_date": "2016-09-01",
       "ean": "4006680079103",
       "asin": "B01E0NDKYA",
-      "mediamops": "M0B01E0NDKYA",
+      "medimops": "M0B01E0NDKYA",
       "dvd_count": 3,
       "duration": 624,
       "episodes": [
@@ -14219,7 +14219,7 @@
       "release_date": "2016-09-01",
       "ean": "4006680079066",
       "asin": "B01E0NDKCW",
-      "mediamops": "M0B01E0NDKCW",
+      "medimops": "M0B01E0NDKCW",
       "dvd_count": 2,
       "duration": 416,
       "episodes": [
@@ -14238,7 +14238,7 @@
       "release_date": "2016-10-20",
       "ean": "4006680079097",
       "asin": "B01E0NDKB8",
-      "mediamops": "M0B01E0NDKB8",
+      "medimops": "M0B01E0NDKB8",
       "dvd_count": 2,
       "duration": 420,
       "episodes": [
@@ -14279,7 +14279,7 @@
       "release_date": "2020-04-02",
       "ean": "4006680095264",
       "asin": "B084B21LZV",
-      "mediamops": "M0B084B21LZV",
+      "medimops": "M0B084B21LZV",
       "dvd_count": 2,
       "duration": 410,
       "episodes": [
@@ -14298,7 +14298,7 @@
       "release_date": "2020-04-02",
       "ean": "4006680095257",
       "asin": "B084B34SYS",
-      "mediamops": "M0B084B34SYS",
+      "medimops": "M0B084B34SYS",
       "dvd_count": 2,
       "duration": 425,
       "episodes": [
@@ -14317,7 +14317,7 @@
       "release_date": "2020-10-22",
       "ean": "4006680096049",
       "asin": "B08F6TVTQR",
-      "mediamops": "M0B08F6TVTQR",
+      "medimops": "M0B08F6TVTQR",
       "dvd_count": 2,
       "duration": 420,
       "episodes": [
@@ -14336,7 +14336,7 @@
       "release_date": "2020-10-22",
       "ean": "4006680096018",
       "asin": "B08F6RYDPJ",
-      "mediamops": "M0B08F6RYDPJ",
+      "medimops": "M0B08F6RYDPJ",
       "dvd_count": 2,
       "duration": 410,
       "episodes": [
@@ -14355,7 +14355,7 @@
       "release_date": "2020-10-22",
       "ean": "4006680096001",
       "asin": "B08F6TVTQQ",
-      "mediamops": "M0B08F6TVTQQ",
+      "medimops": "M0B08F6TVTQQ",
       "dvd_count": 2,
       "duration": 420,
       "episodes": [
