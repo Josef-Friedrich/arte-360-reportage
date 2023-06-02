@@ -57361,7 +57361,7 @@ dvds:
     release_date: '2012-10-04'
     production_date: '2011-01-01'
     ean: '4006680065175'
-    asin: B009CW2HQMB008IAQPFI
+    asin: B008IAQPFI
     medimops: M0B008IAQPFI
     dvd_count: 4
     duration: 682
@@ -57450,6 +57450,7 @@ dvds:
     ean: '4006680063430'
     asin: B009CW2HQM
     medimops: M0B009CW2HQM
+    dvd_count: 2
     duration: 341
     episodes:
     - New York - Die kleinste Oper der Welt

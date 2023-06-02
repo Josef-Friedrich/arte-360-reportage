@@ -507,8 +507,8 @@ class Dvd(DataAccessor):
         return self._get_int_key_safe("dvd_count")
 
     @property
-    def duration(self) -> int:
-        return self._get_int_key_safe("duration")
+    def duration(self) -> int | None:
+        return self._get_int_key("duration")
 
     @property
     def episodes(self) -> list[str] | None:
@@ -1396,11 +1396,32 @@ class WikiDvd:
         return Wiki.ref(", ".join(items))
 
     @staticmethod
+    def meta(dvd: Dvd) -> str:
+        items: list[str] = []
+        items.append(f"Anzahl an DVDs: {dvd.dvd_count}")
+
+        date = dvd.release_date_date.strftime("%d.%m.%Y")
+        items.append(f"Erscheinungsdatum: {date}")
+
+
+        if dvd.duration:
+            items.append(f"Abspieldauer in Minuten: {dvd.duration}")
+
+        rendered_meta = ", ".join(items)
+        return f" ({rendered_meta})"
+
+    @staticmethod
     def dvd(dvd: Dvd) -> str:
         episodes = ""
         if dvd.episodes:
             episodes = Wiki.ordered_list(dvd.episodes) + "\n"
-        return Wiki.bold(dvd.title) + WikiDvd.ref(dvd) + "\n" + episodes
+        return (
+            Wiki.bold(dvd.title)
+            + WikiDvd.ref(dvd)
+            + WikiDvd.meta(dvd)
+            + "\n"
+            + episodes
+        )
 
 
 class FrWiki(WikiTemplate):
