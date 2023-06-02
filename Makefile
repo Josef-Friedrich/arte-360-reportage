@@ -1,6 +1,7 @@
 SCRIPT = .venv/bin/arte-360-reportage.py
 
-all: coordinates chatgpt dvd json leaflet readme wiki
+all:
+	$(SCRIPT) --all
 
 chatgpt:
 	$(SCRIPT) --chatgpt

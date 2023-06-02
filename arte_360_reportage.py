@@ -1566,6 +1566,7 @@ def generate_readme() -> None:
 
 def get_argument_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog=EXPORT_FILENAME)
+    parser.add_argument("-a", "--all", action="store_true")
     parser.add_argument("-c", "--chatgpt", action="store_true")
     parser.add_argument("-C", "--coordinates", action="store_true")
     parser.add_argument("-d", "--dvd", action="store_true")
@@ -1576,11 +1577,21 @@ def get_argument_parser() -> argparse.ArgumentParser:
     parser.add_argument("-t", "--tmp", action="store_true")
     parser.add_argument("-w", "--wiki", choices=("de", "fr"))
     parser.add_argument("-y", "--yaml", action="store_true")
+
     return parser
 
 
 def main() -> None:
     args = get_argument_parser().parse_args()
+
+    if args.all:
+        tv_show.add_coordinates()
+        tv_show.generate_chatgpt_texts()
+        tv_show.generate_wikitext_dvd()
+        tv_show.export_to_json()
+        generate_leaflet()
+        generate_readme()
+        tv_show.generate_wikitext(args.wiki)
 
     if args.chatgpt:
         tv_show.generate_chatgpt_texts()
