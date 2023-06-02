@@ -1,5 +1,8 @@
 #! /usr/bin/env python
 
+# pyright: reportIncompatibleMethodOverride=false
+
+
 from __future__ import annotations
 
 import abc
@@ -99,7 +102,19 @@ class Yaml:
 ### markdown ##################################################################
 
 
-class Markdown:
+class Template(abc.ABC):
+    @staticmethod
+    @abc.abstractmethod
+    def link(title: str, url: str) -> str:
+        pass
+
+    @staticmethod
+    @abc.abstractmethod
+    def heading(text: str, level: int = 1) -> str:
+        pass
+
+
+class Markdown(Template):
     @staticmethod
     def link(title: str | typing.Any | None, url: str | None) -> str:
         if not title or not url:
@@ -306,7 +321,6 @@ class YoutubeVideo:
 
 
 class Wikidata:
-
     client: WikidataClient
 
     def __init__(self) -> None:
@@ -366,6 +380,45 @@ class FernsehserienScraper(Scraper):
                 return dt.text
 
 
+class DataAccessor:
+    data: typing.TypedDict
+
+    def _get_str_key(self, key: str) -> str | None:
+        if key in self.data and self.data[key] != "":
+            if not isinstance(self.data[key], str):
+                raise Exception(f"{key} {self.data[key]} is not string")
+            return typing.cast(str, self.data[key])
+
+    def _get_str_key_safe(self, key: str) -> str:
+        value = self._get_str_key(key)
+        if not value:
+            raise Exception("str not found")
+        return value
+
+    def _get_int_key(self, key: str) -> int | None:
+        if key in self.data and self.data[key] != "":
+            if not isinstance(self.data[key], int):
+                raise Exception(f"{key} {self.data[key]} is not int")
+            return typing.cast(int, self.data[key])
+
+    def _get_int_key_safe(self, key: str) -> int:
+        value = self._get_int_key(key)
+        if not value:
+            raise Exception("int not found")
+        return value
+
+    def export_data(self, annotations: dict[str, typing.Any]) -> dict[str, typing.Any]:
+        result: dict[str, typing.Any] = {}
+        data = typing.cast(dict[str, typing.Any], self.data)
+        for key in annotations:
+            if key in data and data[key] != None:
+                result[key] = self.data[key]
+
+        if len(result) != len(self.data):
+            raise Exception(f"Export mismatch {result} <> {self.data}")
+        return result
+
+
 ### dvd #######################################################################
 
 
@@ -401,7 +454,7 @@ class DvdData(typing.TypedDict):
     """Refer to other DVD titles"""
 
 
-class Dvd:
+class Dvd(DataAccessor):
     data: DvdData
 
     def __init__(
@@ -410,15 +463,12 @@ class Dvd:
     ) -> None:
         self.data = data
 
-    def export_data(self) -> DvdData:
-        result: dict[str, typing.Any] = {}
-        for key in DvdData.__annotations__:
-            if key in self.data and self.data[key] != None:
-                result[key] = self.data[key]
+    @property
+    def title(self) -> str:
+        return self._get_str_key_safe("title")
 
-        if len(result) != len(self.data):
-            raise Exception(f"Export mismatch {result} <> {self.data}")
-        return typing.cast(DvdData, result)
+    def export_data(self) -> DvdData:
+        return typing.cast(DvdData, super().export_data(DvdData.__annotations__))
 
 
 ### episode ###################################################################
@@ -522,7 +572,7 @@ class EpisodeData(typing.TypedDict):
     """https://programm.ard.de/TV/Programm/Sender/?sendung=287246586390227"""
 
 
-class Episode:
+class Episode(DataAccessor):
     data: EpisodeData
     tv_show: TvShowData
 
@@ -540,23 +590,9 @@ class Episode:
         self.season_no = season_no
         self.episode_no = episode_no
 
-    def __get_str_key(self, key: str) -> str | None:
-        if key in self.data and self.data[key] != "":
-            return typing.cast(str, self.data[key])
-
-    def __get_int_key(self, key: str) -> int | None:
-        if key in self.data and self.data[key] != "":
-            return typing.cast(int, self.data[key])
-
-    def __get_int_key_safe(self, key: str) -> int:
-        if key in self.data and self.data[key] != "":
-            return typing.cast(int, self.data[key])
-        else:
-            raise Exception("int not found")
-
     @property
     def overall_no(self) -> int:
-        return self.__get_int_key_safe("overall_no")
+        return self._get_int_key_safe("overall_no")
 
     @overall_no.setter
     def overall_no(self, no: int) -> None:
@@ -564,7 +600,7 @@ class Episode:
 
     @property
     def season_no(self) -> int:
-        return self.__get_int_key_safe("season_no")
+        return self._get_int_key_safe("season_no")
 
     @season_no.setter
     def season_no(self, no: int) -> None:
@@ -572,7 +608,7 @@ class Episode:
 
     @property
     def episode_no(self) -> int:
-        return self.__get_int_key_safe("episode_no")
+        return self._get_int_key_safe("episode_no")
 
     @episode_no.setter
     def episode_no(self, no: int) -> None:
@@ -584,19 +620,19 @@ class Episode:
 
     @property
     def title_fr(self) -> str | None:
-        return self.__get_str_key("title_fr")
+        return self._get_str_key("title_fr")
 
     @property
     def title_en(self) -> str | None:
-        return self.__get_str_key("title_en")
+        return self._get_str_key("title_en")
 
     @property
     def alias(self) -> str | None:
-        return self.__get_str_key("alias")
+        return self._get_str_key("alias")
 
     @property
     def continent(self) -> str | None:
-        return self.__get_str_key("continent")
+        return self._get_str_key("continent")
 
     @property
     def continent_emoji(self) -> str:
@@ -633,7 +669,7 @@ class Episode:
 
     @property
     def description(self) -> str | None:
-        return self.__get_str_key("description")
+        return self._get_str_key("description")
 
     @description.setter
     def description(self, description: str) -> None:
@@ -657,7 +693,7 @@ class Episode:
 
     @property
     def description_fernsehserien(self) -> str | None:
-        return self.__get_str_key("description_fernsehserien")
+        return self._get_str_key("description_fernsehserien")
 
     @description_fernsehserien.setter
     def description_fernsehserien(self, description: str) -> None:
@@ -665,7 +701,7 @@ class Episode:
 
     @property
     def description_youtube(self) -> str | None:
-        return self.__get_str_key("description_youtube")
+        return self._get_str_key("description_youtube")
 
     @description_youtube.setter
     def description_youtube(self, description: str) -> None:
@@ -673,7 +709,7 @@ class Episode:
 
     @property
     def summary(self) -> str | None:
-        return self.__get_str_key("summary")
+        return self._get_str_key("summary")
 
     @summary.setter
     def summary(self, summary: str) -> None:
@@ -681,7 +717,7 @@ class Episode:
 
     @property
     def director(self) -> str | None:
-        return self.__get_str_key("director")
+        return self._get_str_key("director")
 
     @director.setter
     def director(self, director: str) -> None:
@@ -706,7 +742,7 @@ class Episode:
 
     @property
     def duration(self) -> int | None:
-        return self.__get_int_key("director")
+        return self._get_int_key("director")
 
     @duration.setter
     def duration(self, duration: int) -> None:
@@ -714,7 +750,7 @@ class Episode:
 
     @property
     def duration_sec(self) -> int | None:
-        return self.__get_int_key("duration_sec")
+        return self._get_int_key("duration_sec")
 
     @duration_sec.setter
     def duration_sec(self, duration_sec: int) -> None:
@@ -722,7 +758,7 @@ class Episode:
 
     @property
     def location_wikidata(self) -> str | None:
-        return self.__get_str_key("location_wikidata")
+        return self._get_str_key("location_wikidata")
 
     @location_wikidata.setter
     def location_wikidata(self, entity_id: str) -> None:
@@ -823,14 +859,9 @@ class Episode:
         return int(self.data["air_date"][0:4])
 
     def export_data(self) -> EpisodeData:
-        result: dict[str, typing.Any] = {}
-        for key in EpisodeData.__annotations__:
-            if key in self.data and self.data[key] != None:
-                result[key] = self.data[key]
-
-        if len(result) != len(self.data):
-            raise Exception(f"Export mismatch {result} <> {self.data}")
-        return typing.cast(EpisodeData, result)
+        return typing.cast(
+            EpisodeData, super().export_data(EpisodeData.__annotations__)
+        )
 
 
 ### season ####################################################################
@@ -998,8 +1029,8 @@ class TvShow:
         for dvd in self.dvds:
             dvds.append(dvd.export_data())
 
-        dvds.sort(key=operator.itemgetter('title'))
-        dvds.sort(key=operator.itemgetter('release_date'))
+        dvds.sort(key=operator.itemgetter("title"))
+        dvds.sort(key=operator.itemgetter("release_date"))
         data["dvds"] = dvds
 
         return data
@@ -1016,7 +1047,7 @@ class TvShow:
 tv_show = TvShow()
 
 
-class Wiki:
+class Wiki(Template):
     @staticmethod
     def ref(content: str | None) -> str:
         if not content or content == "":
@@ -1029,6 +1060,12 @@ class Wiki:
         if not title or not url:
             return ""
         return f"[{url} {title}]"
+
+    @staticmethod
+    def heading(text: str, level: int = 1) -> str:
+        level = level + 1
+        delimiter = "=" * level
+        return f"\n{delimiter} {text} {delimiter}\n"
 
     @staticmethod
     def internetquelle(
@@ -1228,8 +1265,10 @@ class DeWiki(WikiTemplate):
         """
         https://de.wikipedia.org/wiki/Vorlage:Episodenlistentabelle
         """
+
         return (
-            f"\n=== Staffel {season.no} ({season.year}) ===\n\n"
+            Wiki.heading(f"Staffel {season.no} ({season.year})", 2)
+            + "\n"
             + "{{Episodenlistentabelle|BREITE=100%\n"
             + "| ZUSAMMENFASSUNG = nein\n"
             + "| SORTIERBAR = nein\n"
@@ -1240,6 +1279,10 @@ class DeWiki(WikiTemplate):
             + "\n".join(episode_entries)
             + "\n}}"
         )
+
+    @staticmethod
+    def dvd(dvd: Dvd) -> str:
+        return Wiki.heading(dvd.title, 2)
 
 
 class FrWiki(WikiTemplate):
