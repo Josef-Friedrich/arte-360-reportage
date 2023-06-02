@@ -379,45 +379,50 @@
 | DREHBUCH = nein
 | Feld1 = Französischer Titel
 | INHALT =
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 41
 | NR_ST = 1
 | OT = Ernstfall Erdbeben<ref>Internetquellen zur Episode ''„Ernstfall Erdbeben“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/41-naturgewalten-ernstfall-erdbeben-339153 41] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/41-naturgewalten-ernstfall-erdbeben-339153 339153], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641913 S02E01] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641913 4641913], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=MXBz7QnU3Po MXBz7QnU3Po]</ref>
 | Feld1 = -
 | REG = Jonathan Barker
 | EA = 2000-01-10
+| ZF = Freiwillige Helfer des Technischen Hilfswerks in Deutschland werden nach einem starken Erdbeben in der Türkei mobilisiert. Die SEEBA-Einheit ist rund um die Uhr einsatzbereit und kann innerhalb von sechs Stunden mit großer Ausrüstung anreisen. Ihr Hauptziel ist die Rettung von Menschenleben, wobei Suchhunde eingesetzt werden, um Überlebende unter den Trümmern zu finden. Modernste Technik wird verwendet, um die Befreiung der Überlebenden schnell und sicher durchzuführen, obwohl dies im Durchschnitt 12 Personen etwa 6 Stunden pro geretteter Person dauert.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 42
 | NR_ST = 2
 | OT = Tsunami - Die tödliche Welle<ref>Internetquellen zur Episode ''„Tsunami - Die tödliche Welle“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/42-naturgewalten-tsunami-die-todeswelle-339159 42] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/42-naturgewalten-tsunami-die-todeswelle-339159 339159], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641914 S02E02] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641914 4641914], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=DUxn9Li2rcU DUxn9Li2rcU]</ref>
 | Feld1 = -
 | REG = Michael Hutchinson
 | EA = 2000-01-11
+| ZF = Tsunamis sind hohe Wellen, die mit Geschwindigkeiten von bis zu 700 km/h auf Küsten treffen. In Japan erforscht der Wissenschaftler Prof. Nobuo Shuto diese Phänomene und entwickelt effektive Frühwarnsysteme. Jedes Jahr trifft ein Tsunami auf die Region. Tsunamis entstehen durch Seebeben, Unterwasservulkane oder Erdrutsche am Meeresboden. Sie werden erst in Küstengewässern zu gefährlichen Riesenwellen. Das Frühwarnsystem von Prof. Shuto alarmiert gefährdete Küstenabschnitte bereits 5 Minuten nach einem Seebeben. Manchmal ist selbst diese schnelle Warnung jedoch nicht ausreichend.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 43
 | NR_ST = 3
 | OT = Operation Wolkenbruch<ref>Internetquellen zur Episode ''„Operation Wolkenbruch“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/43-naturgewalten-operation-wolkenbruch-339160 43] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/43-naturgewalten-operation-wolkenbruch-339160 339160], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641915 S02E03] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641915 4641915], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=IjEjPOMZoGk IjEjPOMZoGk]</ref>
 | Feld1 = -
 | REG = Jonathan Barker
 | EA = 2000-01-12
+| ZF = Seit langem träumen Menschen davon, Regen kontrollieren zu können. Weltweit versuchen Menschen mit verschiedenen Methoden, den Niederschlag zu beeinflussen. Seit den 40er Jahren experimentieren Wissenschaftler und Landwirte mit chemischen Substanzen, um Regen aus Wolken zu erzeugen. In Südafrika, wo Dürre ein ernstes Problem ist, treffen Forschung und Aberglaube aufeinander. Während ein afrikanischer Stamm seine Regenkönigin verehrt, arbeitet ein Team von Wissenschaftlern nur wenige Kilometer entfernt an hochmoderner Regenerzeugungstechnologie. In Afrika warten Wetterexperten gespannt auf Regen, während französische Winzer versuchen, durch Chemie Hagelstürme abzuwehren, die ihre Weinernte zerstören könnten. Die langfristigen Auswirkungen solcher Eingriffe in das natürliche Wettersystem sind bisher unbekannt.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 44
 | NR_ST = 4
 | OT = Im Schatten des Vulkans<ref>Internetquellen zur Episode ''„Im Schatten des Vulkans“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/44-naturgewalten-im-schatten-des-vulkans-339161 44] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/44-naturgewalten-im-schatten-des-vulkans-339161 339161], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641916 S02E04] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641916 4641916], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=VGLT3ZeQwR0 VGLT3ZeQwR0]</ref>
 | Feld1 = -
 | REG = Michael Hutchinson
 | EA = 2000-01-13
+| ZF = Vulkan „La Soufrière“ auf Montserrat brach nach fast 400 Jahren Ruhe aus. Asche, Lava und pyroklastische Ströme verursachten massive Zerstörung auf der Insel. Das Montserrat Volcano Observatory, geleitet von Simon Young, überwacht den Vulkan und arbeitet an einem Frühwarnsystem. Die Forscher mussten ihren Standort mehrmals verlegen, um der Gefahr zu entgehen.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 45
 | NR_ST = 5
 | OT = Casino der Häuptlinge<ref>Internetquellen zur Episode ''„Casino der Häuptlinge“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/45-spiele-des-lebens-casino-der-haeuptlinge-339162 45] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/45-spiele-des-lebens-casino-der-haeuptlinge-339162 339162], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641917 S02E05] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641917 4641917], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=aONYl3VUqW4 aONYl3VUqW4]</ref>
 | Feld1 = -
 | REG = Carmen Butta
 | EA = 2000-02-07
+| ZF = In Connecticut gibt es das Foxwoods Casino, das als Schloss der Illusionen bezeichnet wird. Es gehört den Mashantucket Pequot Indianern, die das größte Casino der Welt besitzen. Eine Pequot-Frau, die im Reservat lebte, bat kurz vor ihrem Tod ihren Neffen, die verstreuten Pequots zurückzubringen und den Stamm zu erhalten. Ihre ersten Versuche waren erfolglos, aber mit den Einnahmen einer Pizzeria konnten sie eine kleine Bingo-Halle finanzieren, die den Grundstein für ihr heutiges Spiel-Imperium legte. Die weißen Bewohner von Ledyards, die in der Nähe leben, fühlen sich benachteiligt, da die Pequot-Indianer heute der größte Arbeitgeber der Region sind. Außerdem konkurrieren die Pequots ständig mit den Mohikanern, die in der Nachbarschaft ein eigenes Casino betreiben.
 }}
 {{Episodenlisteneintrag
 | NR_GES = 46

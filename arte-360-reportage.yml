@@ -1952,42 +1952,6 @@ seasons:
             unseren Körper und unsere Sinne stimulieren können, und versucht
             erotische Wunschvorstellungen und faktische Wirklichkeit voneinander
             zu trennen.'
-        description_fernsehserien: 'Seit Menschengedenken ist Essen mit Liebe
-            und Lust eng verknüpft. Egal ob Austern oder Flamingozungen, Käfer
-            oder Tomaten - die Liste der Dinge, denen eine aphrodisierende
-            Wirkung nachgesagt wird, ist schier endlos. Und wer wäre nicht
-            gerne bereit, daran zu glauben? Wissenschaftler haben inzwischen
-            damit begonnen, die Wirkung von Lebensmitteln auf unsere Libido
-            zu ergründen. Forscher stellten fest: Trüffel, Schokolade und
-            Austern können tatsächlich zu mehr als nur kulinarischer Lust
-            verhelfen. Manchmal reicht schon allein der Geruch von Essen,
-            um auch den sexuellen Appetit zu steigern. Der Neurologe Alan
-            Hirsch untersucht genau diesen Einfluss auf das sexuelle Empfinden
-            von Männern und Frauen. Seiner Meinung nach könnten Männer, die
-            Parfüm auftragen, um Frauen zu verführen, es genauso gut wegwerfen
-            - sie sollten es lieber mit Lakritzen versuchen. Ein Ergebnis,
-            das insbesondere der boomenden Kosmetikbranche nicht gefallen
-            wird. (Text: schulfilme-online)'
-        description_youtube: 'Seit Menschengedenken ist Essen mit Liebe und
-            Lust eng verknüpft. Die Liste der Dinge, denen eine aphrodisierende
-            Wirkung nachgesagt wird, ist schier endlos. Wissenschaftler ergründen
-            nun die Wirkung von Lebensmitteln auf unsere Libido.
-
-            In Zeiten moderner Wissenschaft wird der traditionelle Glaube
-            an Aphrodisiaka gern in das Reich der Phantasie verbannt. Doch
-            unterschätzen wir damit nicht die stimulierende Wirkung ganz alltäglicher
-            Naturprodukte? Forscher stellten fest: Trüffel, Schokolade und
-            Austern können tatsächlich zu mehr als nur kulinarischer Lust
-            verhelfen. Der Neurologe Alan Hirsch untersucht genau diesen Einfluss
-            auf das sexuelle Empfinden von Männern und Frauen. Seiner Meinung
-            nach könnten Männer, die Parfüm auftragen, um Frauen zu verführen,
-            es genauso gut wegwerfen. Sie sollten es lieber mit Lakritzen
-            versuchen.
-
-            „360° - Die GEO-Reportage“ geht der Frage nach, wie Nahrungsmittel
-            unseren Körper und unsere Sinne stimulieren können, und versucht
-            erotische Wunschvorstellungen und faktische Wirklichkeit voneinander
-            zu trennen.'
         summary: Die Verbindung zwischen Essen und Lust wird seit langem anerkannt.
             Forscher untersuchen nun die Wirkung von Lebensmitteln auf die
             Libido. Studien zeigen, dass Trüffel, Schokolade und Austern tatsächlich
@@ -2036,32 +2000,15 @@ seasons:
             „360° - Die GEO-Reportage“ rekonstruiert den Einsatz der Katastrophenhelfer
             in der Türkei und zeigt, wie sich die Männer und Frauen der SEEBA
             im Training auf den „Ernstfall Erdbeben“ vorbereiten.'
-        description_fernsehserien: 'Die SEEBA ist eine Einheit des Technischen
-            Hilfswerkes, die Rettungsdienst bei Katastrophen leistet. Die
-            freiwilligen Helfer waren unter anderem nach einem schweren Erdbeben
-            in der Türkei im Einsatz. (Text: Discovery Channel)'
-        description_youtube: 'Ein Anruf um halb sechs Uhr morgens: „Im Westen
-            der Türkei gab es heute Nacht ein starkes Erdbeben - du musst
-            sofort kommen.“ Überall in Deutschland werden die freiwilligen
-            Helfer des Technischen Hilfswerks auf diese Weise aus dem Schlaf
-            gerissen.
-
-            Die Helfer der SEEBA (Schnelleinsatzeinheit für Bergungseinsätze
-            im Ausland) sind jederzeit einsatzbereit, denn im Katastrophenfall
-            ist jede Minute wichtig. Innerhalb von sechs Stunden können sie
-            mit bis zu 20 Tonnen Ausrüstung das Land verlassen. In der Türkei
-            angekommen, beginnt das Team sofort mit seiner Arbeit: der Rettung
-            von Menschenleben. In einer solchen Situation kommen Suchhunde
-            zum Einsatz, denn mit ihrer sensiblen Nase finden sie als erste
-            Zeichen von Leben unter den Trümmern. Ist dann ein Überlebender
-            lokalisiert worden, gilt es, ihn mit Hilfe modernster Technik
-            möglichst schnell und vorsichtig zu befreien. Trotzdem brauchen
-            12 Leute zusammen durchschnittlich 6 Stunden, um einen einzigen
-            Menschen zu bergen.
-
-            „360° - Die GEO-Reportage“ rekonstruiert den Einsatz der Katastrophenhelfer
-            in der Türkei und zeigt, wie sich die Männer und Frauen der SEEBA
-            im Training auf den „Ernstfall Erdbeben“ vorbereiten.'
+        summary: Freiwillige Helfer des Technischen Hilfswerks in Deutschland
+            werden nach einem starken Erdbeben in der Türkei mobilisiert.
+            Die SEEBA-Einheit ist rund um die Uhr einsatzbereit und kann innerhalb
+            von sechs Stunden mit großer Ausrüstung anreisen. Ihr Hauptziel
+            ist die Rettung von Menschenleben, wobei Suchhunde eingesetzt
+            werden, um Überlebende unter den Trümmern zu finden. Modernste
+            Technik wird verwendet, um die Befreiung der Überlebenden schnell
+            und sicher durchzuführen, obwohl dies im Durchschnitt 12 Personen
+            etwa 6 Stunden pro geretteter Person dauert.
         director: Jonathan Barker
         air_date: '2000-01-10'
         duration: 26
@@ -2078,6 +2025,10 @@ seasons:
         title: Tsunami - Die tödliche Welle
         alias: Tsunami - die Todeswelle
         topic: Naturgewalten
+        location_wikidata: Q17
+        coordinates:
+        - 35
+        - 136
         description: 'Sie erreichen Höhen von mehr als 30 Meter und rasen
             mit Geschwindigkeiten von bis zu  700 km/h auf die Küsten zu -
             Tsunamis. Immer wieder erreichen sie auch dicht besiedelte Küstenabschnitte
@@ -2100,33 +2051,15 @@ seasons:
             „360° - Die GEO-Reportage“ geht den Tsunamis auf den Grund und
             fragt, ob es je den perfekten Schutz vor den tödlichen Riesenwellen
             geben wird.'
-        description_fernsehserien: 'Sie erreichen Höhen von mehr als 30 Metern
-            und rasen mit Geschwindigkeiten von bis zu 700 Stundenkilometern
-            auf die Küsten zu: Tsunamis, alles zerstörende Riesenwellen. Wissenschaftler
-            arbeiten an der Erforschung dieses Naturphänomens und an der Entwicklung
-            effektiver Frühwarnsysteme. (Text: Discovery Channel)'
-        description_youtube: 'Sie erreichen Höhen von mehr als 30 Meter und
-            rasen mit Geschwindigkeiten von bis zu  700 km/h auf die Küsten
-            zu - Tsunamis. Immer wieder erreichen sie auch dicht besiedelte
-            Küstenabschnitte Japans. Wissenschaftler wie der Japaner Prof.
-            Nobuo Shuto widmen ihr Leben der Erforschung dieses Phänomens
-            und arbeiten an der Entwicklung effektiver Frühwarnsysteme.
-
-            Durchschnittlich trifft jedes Jahr ein Tsunami auf diese Region.
-            Jahrhundertelang galten Tsunamis als Flutwellen, doch ihr wahrer
-            Ursprung liegt unter der Wasseroberfläche: Seebeben, unterseeische
-            Vulkanausbrüche oder gewaltige Erdrutsche am Meeresboden lösen
-            diese Riesenwellen aus. Auf offener See nimmt man sie kaum wahr.
-            Wenn sie sich jedoch flacheren Küstengewässern nähern, wachsen
-            sie in Sekundenschnelle zu riesigen Todeswellen heran. Das von
-            Prof. Shuto mitentwickelte Frühwarnsystem zählt zu den besten
-            der Welt. Bereits 5 Minuten nach einem Seebeben werden die bedrohten
-            Küstenabschnitte alarmiert. Doch manchmal reicht selbst diese
-            extrem schnelle Warnung nicht aus.
-
-            „360° - Die GEO-Reportage“ geht den Tsunamis auf den Grund und
-            fragt, ob es je den perfekten Schutz vor den tödlichen Riesenwellen
-            geben wird.'
+        summary: Tsunamis sind hohe Wellen, die mit Geschwindigkeiten von
+            bis zu 700 km/h auf Küsten treffen. In Japan erforscht der Wissenschaftler
+            Prof. Nobuo Shuto diese Phänomene und entwickelt effektive Frühwarnsysteme.
+            Jedes Jahr trifft ein Tsunami auf die Region. Tsunamis entstehen
+            durch Seebeben, Unterwasservulkane oder Erdrutsche am Meeresboden.
+            Sie werden erst in Küstengewässern zu gefährlichen Riesenwellen.
+            Das Frühwarnsystem von Prof. Shuto alarmiert gefährdete Küstenabschnitte
+            bereits 5 Minuten nach einem Seebeben. Manchmal ist selbst diese
+            schnelle Warnung jedoch nicht ausreichend.
         director: Michael Hutchinson
         air_date: '2000-01-11'
         duration: 26
@@ -2161,33 +2094,19 @@ seasons:
 
             „360° - Die GEO-Reportage“ beobachtet die modernen Regenmacher
             bei der „Operation Wolkenbruch“.'
-        description_fernsehserien: 'Gewaltige Vulkanausbrüche und verheerende
-            Erdbeben, Riesenwellen und Dürrekatastrophen: Naturgewalten lassen
-            sich nicht kontrollieren. Doch immer wieder gibt es Menschen,
-            die sich damit nicht abfinden wollen. Weltweit stellen sich Wissenschaftler,
-            Rettungsexperten und Betroffene den Kräften der Natur und versuchen,
-            die unberechenbare Gefahr in ein kalkulierbares Risiko zu verwandeln.
-            (Text: Discovery Channel)'
-        description_youtube: 'Seit Jahrtausenden träumen die Menschen davon,
-            die den Regen kontrollieren zu können. Mit den unterschiedlichsten
-            Methoden versuchen Menschen auf der ganzen Welt, den Niederschlag
-            zu beeinflussen.
-
-            Seit den 40er Jahren experimentieren sowohl Wissenschaftler als
-            auch Landwirte mit  Chemikalien, die Wolken auf Kommando regnen
-            zu lassen. Im Süden Afrikas, wo die Dürresituation besonders kritisch
-            ist, treffen Forschung und Aberglaube aufeinander. Während die
-            Regenkönigin eines afrikanischen Stammes ihr jährliches Ritual
-            vollzieht, testet ein Team von Wissenschaftlern nur wenige Kilometer
-            entfernt High-Tech-Regenerzeugung. Während die Wettermanager in
-            Afrika gespannt auf einen Regen warten, würden die Winzer in Frankreich
-            am liebsten die dunklen Wolken vertreiben. Sie versuchen mit Chemie-Geschossen
-            Hagelstürme zu verhindern, die ihre gesamte Weinernte zerstören
-            könnten. Dabei weiß bisher niemand, welche Konsequenzen solche
-            Eingriffe in das natürliche Wettersystem haben werden.
-
-            „360° - Die GEO-Reportage“ beobachtet die modernen Regenmacher
-            bei der „Operation Wolkenbruch“.'
+        summary: Seit langem träumen Menschen davon, Regen kontrollieren zu
+            können. Weltweit versuchen Menschen mit verschiedenen Methoden,
+            den Niederschlag zu beeinflussen. Seit den 40er Jahren experimentieren
+            Wissenschaftler und Landwirte mit chemischen Substanzen, um Regen
+            aus Wolken zu erzeugen. In Südafrika, wo Dürre ein ernstes Problem
+            ist, treffen Forschung und Aberglaube aufeinander. Während ein
+            afrikanischer Stamm seine Regenkönigin verehrt, arbeitet ein Team
+            von Wissenschaftlern nur wenige Kilometer entfernt an hochmoderner
+            Regenerzeugungstechnologie. In Afrika warten Wetterexperten gespannt
+            auf Regen, während französische Winzer versuchen, durch Chemie
+            Hagelstürme abzuwehren, die ihre Weinernte zerstören könnten.
+            Die langfristigen Auswirkungen solcher Eingriffe in das natürliche
+            Wettersystem sind bisher unbekannt.
         director: Jonathan Barker
         air_date: '2000-01-12'
         duration: 26
@@ -2203,6 +2122,10 @@ seasons:
         episode_no: 4
         title: Im Schatten des Vulkans
         topic: Naturgewalten
+        location_wikidata: Q845239
+        coordinates:
+        - 16.716666666667
+        - -62.183333333333
         description: 'Millionen von Menschen leben im Schatten von Vulkanen.
             Auch die Einwohner der Karibikinsel Montserrat. Nach fast 400
             Jahren Ruhe brach der Vulkan „La Soufrière“ am 18. Juli 1995 aus
@@ -2223,32 +2146,12 @@ seasons:
 
             „360° - Die GEO-Reportage“ reist in ein zerstörtes Paradies, in
             dem der Ausnahmezustand noch immer den Alltag bestimmt.'
-        description_fernsehserien: 'Millionen von Menschen leben im Schatten
-            von Vulkanen. Jeden Tag müssen sie damit rechnen, dass die schlafenden
-            Riesen plötzlich zum Leben erwachen. Für die Menschen auf der
-            Karibikinsel Montserrat wurde dieser Albtraum wahr: Im Juli 1995
-            brach der Vulkan La Soufrière aus. Ein Großteil der Insel wurde
-            unbewohnbar. (Text: Discovery Channel)'
-        description_youtube: 'Millionen von Menschen leben im Schatten von
-            Vulkanen. Auch die Einwohner der Karibikinsel Montserrat. Nach
-            fast 400 Jahren Ruhe brach der Vulkan „La Soufrière“ am 18. Juli
-            1995 aus und speit seither Asche und Lava.
-
-            Seitdem rasen immer wieder Gemische aus Asche, Gasen und Gesteinsbrocken
-            mit bis zu 300 km/h zu Tal. Diese bis zu 600°C heißen, sogenannten
-            pyroklastischen Ströme löschen auf ihrem Weg nach unten jedes
-            Leben aus. Über die Hälfte Montserrats gleicht mittlerweile einer
-            Mondlandschaft. Mit einem internationalen Wissenschaftlerteam
-            beobachtet der Direktor des „Montserrat Volcano Observatory“,
-            Simon Young, den Vulkan seit der ersten Eruption. Ziel ist es,
-            den unberechenbaren Berg zu verstehen. Erst dann kann ein effektives
-            Frühwarnsystem entwickelt werden, das eine gewisse Sicherheit
-            verspricht. Doch selbst die Forscher mussten schon mehrfach den
-            Sitz ihres Instituts verlegen, um nicht selbst Opfer des Berges
-            zu werden.
-
-            „360° - Die GEO-Reportage“ reist in ein zerstörtes Paradies, in
-            dem der Ausnahmezustand noch immer den Alltag bestimmt.'
+        summary: Vulkan „La Soufrière“ auf Montserrat brach nach fast 400
+            Jahren Ruhe aus. Asche, Lava und pyroklastische Ströme verursachten
+            massive Zerstörung auf der Insel. Das Montserrat Volcano Observatory,
+            geleitet von Simon Young, überwacht den Vulkan und arbeitet an
+            einem Frühwarnsystem. Die Forscher mussten ihren Standort mehrmals
+            verlegen, um der Gefahr zu entgehen.
         director: Michael Hutchinson
         air_date: '2000-01-13'
         duration: 26
@@ -2264,6 +2167,10 @@ seasons:
         episode_no: 5
         title: Casino der Häuptlinge
         topic: Spiele des Lebens
+        location_wikidata: Q779
+        coordinates:
+        - 41.6
+        - -72.7
         description: 'In den Wäldern Connecticuts steht ein Schloss der Illusionen:
             das Spielcasino Foxwoods. Wer das nötige Geld investiert, wird
             in dieser künstlichen Welt hofiert und erhält die Eintrittskarte
@@ -2285,34 +2192,18 @@ seasons:
             „360° - Die GEO-Reportage“ wagt einen Blick hinter die Plastikfassaden
             der indianischen Glücksspielwelt, wo was als Märchen begann, nun
             Züge eines Krimis bekommen hat.'
-        description_fernsehserien: 'Im Foxwoods-Casino haben schon viele das
-            schnelle finanzielle Glück gesucht und mussten dann doch wieder
-            als arme Schlucker nach Hause fahren. Die Reportage wagt einen
-            Blick hinter die Plastikfassaden der indianischen Glücksspielwelt.
-            Hier bekommt das, was als Märchen begann, Züge eines Krimis. (Text:
-            Discovery Channel)'
-        description_youtube: 'In den Wäldern Connecticuts steht ein Schloss
-            der Illusionen: das Spielcasino Foxwoods. Wer das nötige Geld
-            investiert, wird in dieser künstlichen Welt hofiert und erhält
-            die Eintrittskarte ins Spieler-Schlaraffenland. Die Herren des
-            größten Casinos der Welt gehören zum Stamm der Mashantucket Pequot
-            Indianer.
-
-            Die letzte im Reservat lebende Pequot-Frau rang kurz vor dem eigenen
-            Tod ihrem Neffen das Versprechen ab, die verstreuten Pequots ins
-            Reservat zurückzuführen und den Stamm vor dem Aussterben zu bewahren.
-            Ihre ersten Projekte waren wenig erfolgreich. Eine Pizzeria erzielte
-            dann genug Einnahmen, um eine kleine Bingo-Halle zu finanzieren
-            - der Grundstein für das heutige Spiel-Imperium. Die weißen Bewohner
-            des nahe gelegenen Ledyards fühlen sich deklassiert, denn die
-            Pequot-Indianer sind heute der größte Arbeitgeber der Region.
-            Zusätzlich stehen die Pequots in ständiger Konkurrenz mit den
-            Mohikanern. Diese betreiben in unmittelbarer Nachbarschaft ihr
-            eigenes Casino.
-
-            „360° - Die GEO-Reportage“ wagt einen Blick hinter die Plastikfassaden
-            der indianischen Glücksspielwelt, wo was als Märchen begann, nun
-            Züge eines Krimis bekommen hat.'
+        summary: In Connecticut gibt es das Foxwoods Casino, das als Schloss
+            der Illusionen bezeichnet wird. Es gehört den Mashantucket Pequot
+            Indianern, die das größte Casino der Welt besitzen. Eine Pequot-Frau,
+            die im Reservat lebte, bat kurz vor ihrem Tod ihren Neffen, die
+            verstreuten Pequots zurückzubringen und den Stamm zu erhalten.
+            Ihre ersten Versuche waren erfolglos, aber mit den Einnahmen einer
+            Pizzeria konnten sie eine kleine Bingo-Halle finanzieren, die
+            den Grundstein für ihr heutiges Spiel-Imperium legte. Die weißen
+            Bewohner von Ledyards, die in der Nähe leben, fühlen sich benachteiligt,
+            da die Pequot-Indianer heute der größte Arbeitgeber der Region
+            sind. Außerdem konkurrieren die Pequots ständig mit den Mohikanern,
+            die in der Nachbarschaft ein eigenes Casino betreiben.
         director: Carmen Butta
         air_date: '2000-02-07'
         duration: 26
