@@ -128,6 +128,7 @@ class Template(abc.ABC):
     def bold(text: str) -> str:
         pass
 
+
 class Markdown(Template):
     @staticmethod
     def link(title: str | typing.Any | None, url: str | None) -> str:
@@ -487,7 +488,7 @@ class Dvd(DataAccessor):
 
     @property
     def release_date_date(self) -> date:
-            return date.fromisoformat(self.release_date)
+        return date.fromisoformat(self.release_date)
 
     @property
     def ean(self) -> str | None:
@@ -1062,7 +1063,9 @@ class TvShow:
         for dvd in self.dvds:
             dvd_entries.append(WikiDvd.dvd(dvd=dvd))
 
-        Utils.write_text_file(f"{EXPORT_FILENAME}_wiki_de_DVD.wikitext", Wiki.unordered_list(dvd_entries))
+        Utils.write_text_file(
+            f"{EXPORT_FILENAME}_wiki_de_DVD.wikitext", Wiki.unordered_list(dvd_entries)
+        )
 
     def generate_chatgpt_texts(self, inline: bool = False) -> None:
         descriptions: list[str] = []
@@ -1591,8 +1594,8 @@ def main() -> None:
         tv_show.export_to_json()
         generate_leaflet()
         generate_readme()
-        tv_show.generate_wikitext('de')
-        tv_show.generate_wikitext('fr')
+        tv_show.generate_wikitext("de")
+        tv_show.generate_wikitext("fr")
 
     if args.chatgpt:
         tv_show.generate_chatgpt_texts()
