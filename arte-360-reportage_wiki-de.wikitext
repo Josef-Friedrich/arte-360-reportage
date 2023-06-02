@@ -424,37 +424,41 @@
 | EA = 2000-02-07
 | ZF = In Connecticut gibt es das Foxwoods Casino, das als Schloss der Illusionen bezeichnet wird. Es gehört den Mashantucket Pequot Indianern, die das größte Casino der Welt besitzen. Eine Pequot-Frau, die im Reservat lebte, bat kurz vor ihrem Tod ihren Neffen, die verstreuten Pequots zurückzubringen und den Stamm zu erhalten. Ihre ersten Versuche waren erfolglos, aber mit den Einnahmen einer Pizzeria konnten sie eine kleine Bingo-Halle finanzieren, die den Grundstein für ihr heutiges Spiel-Imperium legte. Die weißen Bewohner von Ledyards, die in der Nähe leben, fühlen sich benachteiligt, da die Pequot-Indianer heute der größte Arbeitgeber der Region sind. Außerdem konkurrieren die Pequots ständig mit den Mohikanern, die in der Nachbarschaft ein eigenes Casino betreiben.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 46
 | NR_ST = 6
 | OT = Schach - Krieg auf 64 Feldern<ref>Internetquellen zur Episode ''„Schach - Krieg auf 64 Feldern“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/46-spiele-des-lebens-schach-krieg-auf-64-feldern-339163 46] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/46-spiele-des-lebens-schach-krieg-auf-64-feldern-339163 339163], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641918 S02E06] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641918 4641918], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=DHhe-fv1P_o DHhe-fv1P_o]</ref>
 | Feld1 = -
 | REG = Ilka Franzmann
 | EA = 2000-02-08
+| ZF = Schach, ein indisches Kriegsspiel namens „Tschaturanga“, hat weltweite Popularität erlangt. Es wird heute als Sport gespielt, mit immer jüngeren Meistern und stärkeren Herausforderern. Um zu gewinnen, muss man die Schwächen des Gegners studieren und nutzen. Die 14-jährige Elisabeth Pähtz, talentiert in deutschem Damenschach, analysiert Partien, um die Denkweise der Spieler zu verstehen. In einem Spiel gegen Vlastimil Hort, einen unvorbereiteten Gegner, wird Horts Zähigkeit auf Elisabeths Angriffslust treffen. Elisabeth trainiert auch mit Schachcomputern, besitzt aber eine bessere Einschätzung der wichtigsten Züge.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 47
 | NR_ST = 7
 | OT = Mehr als nur ein Kinderspiel<ref>Internetquellen zur Episode ''„Mehr als nur ein Kinderspiel“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/47-spiele-des-lebens-mehr-als-nur-ein-kinderspiel-339164 47] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/47-spiele-des-lebens-mehr-als-nur-ein-kinderspiel-339164 339164], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641919 S02E07] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641919 4641919], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=KXkwwZ_o6n0 KXkwwZ_o6n0]</ref>
 | Feld1 = -
 | REG = Sabine Howe
 | EA = 2000-02-09
+| ZF = Kinderspiele sind wichtig für die Entwicklung von Kindern. Sie ahmen Erwachsene nach, leben Phantasien aus und lernen dabei. Experten befürchten jedoch, dass Kinder heutzutage weniger Geduld und Geschicklichkeit haben, da Computer und Spiele populärer sind. Obwohl Computerspiele einige positive Aspekte haben, wie Kreativität und soziales Verhalten fördern, können sie niemals den kompletten Ersatz für andere Spielformen darstellen. Es ist wichtig, dass Kinder auch weiterhin physische Spiele spielen, um ihre Entwicklung optimal zu unterstützen.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 48
 | NR_ST = 8
 | OT = Spielplatz Natur<ref>Internetquellen zur Episode ''„Spielplatz Natur“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/48-spiele-des-lebens-spielplatz-natur-339165 48] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/48-spiele-des-lebens-spielplatz-natur-339165 339165], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641920 S02E08] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641920 4641920], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007057 tt1007057], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=6XpJnxWkHnU 6XpJnxWkHnU]</ref>
 | Feld1 = -
 | REG = Barbara Puskas
 | EA = 2000-02-10
+| ZF = Im Tierreich ist Spielen weit verbreitet und zeigt sich in verschiedenen Verhaltensweisen. Ob raufende Hunde, tobende Katzen, neugierige Raben oder sogar Fische - Spielen ist ein Phänomen, das mit dem Lernen eng verbunden ist. Obwohl dieser Zusammenhang bekannt ist, bleibt das „tierische Spiel“ weitgehend unverstanden. Eine Gruppe von Verhaltensforschern untersucht die Spielstrategien und -gewinne im Tierreich. Weltweit haben Forscher eine Vielzahl systematischer Beobachtungen des tierischen Verhaltens gesammelt und als Spiel identifiziert. Interessanterweise scheinen die Tiere dabei Spaß zu haben. Die Frage, ob Spielen manchmal nur zur Zeitvertreibung dient oder immer einen Lernzweck verfolgt, bleibt jedoch bestehen.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 49
 | NR_ST = 9
 | OT = Beruf Grabräuber<ref>Internetquellen zur Episode ''„Beruf Grabräuber“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/49-die-schatzjaeger-beruf-grabraeuber-339166 49] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/49-die-schatzjaeger-beruf-grabraeuber-339166 339166], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641921 S02E09] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641921 4641921], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=lpcnsH66igQ lpcnsH66igQ]</ref>
 | Feld1 = -
 | REG = Mary Crisp
 | EA = 2000-03-06
+| ZF = Mitten in der Nacht treiben Räuber auf dem antiken Friedhof von Morgantina in Sizilien ihr Unwesen. Mit Metalldetektoren durchsuchen sie die über 2000 Jahre alten Gräber nach wertvollen Fundstücken, um sie an ausländische Sammler zu verkaufen. Morgantina war ein kulturelles Zentrum der Griechen in der Antike und ist heute eine wichtige Ausgrabungsstätte. Obwohl eine spezielle Polizeieinheit gegen die sogenannten „Tombaroli“ vorgeht, floriert der Schmuggelhandel. Viele der antiken Artefakte gelangen über die Schweiz in Museen und Privatsammlungen in Westeuropa und den USA, was den Verlust wichtiger kultureller Zeugnisse zur Folge hat. Die Räuber zerstören dabei oft Informationen über die Vergangenheit und werfen wertlose Objekte achtlos weg.
 }}
 {{Episodenlisteneintrag
 | NR_GES = 50
