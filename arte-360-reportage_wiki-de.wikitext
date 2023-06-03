@@ -541,141 +541,158 @@
 | EA = 2000-06-06
 | ZF = Der größte Skandal in der Kunstgeschichte begann mit einer Anzeige: „Authentische Fälschungen (19. und 20. Jahrhundert) für 150 Pfund“. John Myatt, ein Kunstlehrer in finanzieller Notlage, verkaufte kopierte Kunstwerke. John Drewe, ein genialer Hochstapler, wurde auf ihn aufmerksam und sah eine Chance. Über Jahre hinweg überzeugte Drewe Myatt, berühmte Kunstwerke zu fälschen. Er verkaufte sie zu hohen Preisen an Sammler und manipulierte als Kunsthistoriker die Archive der Tate Gallery und des Victoria & Albert Museums, um Myatts Werken eine gefälschte Geschichte zu verleihen. Scotland Yard deckte den Betrug schließlich auf.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 59
 | NR_ST = 19
 | OT = Geheimnisse der Toten<ref>Internetquellen zur Episode ''„Geheimnisse der Toten“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/59-dem-taeter-auf-der-spur-geheimnisse-der-toten-339308 59] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/59-dem-taeter-auf-der-spur-geheimnisse-der-toten-339308 339308], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641931 S02E19] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641931 4641931], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=bA5xe1HPaLw bA5xe1HPaLw]</ref>
 | Feld1 = -
 | REG = Michael Hutchinson
 | EA = 2000-06-07
+| ZF = Die berühmte amerikanische Autorin Patricia Cornwell ist für ihre detaillierten Beschreibungen in Kriminalromanen bekannt. Ihre Hauptfigur, Kay Scarpetta, ist eine Gerichtsmedizinerin, die in einer männerdominierten Welt arbeitet. Cornwells Inspiration für Scarpetta, Dr. Marcella Fierro, arbeitet am forensischen Institut in Richmond, Virginia. Die forensischen Untersuchungen enthüllen mehr Informationen über die Leiche, als der Täter erwartet. Ballistikexperten bestimmen den Winkel und die verwendete Waffe beim Schuss auf das Opfer. Pathologen der „Body Farm“ rekonstruieren den genauen Zeitpunkt des Todes. Molekularbiologen extrahieren DNA aus winzigen Proben wie Blut oder Speichel und entschlüsseln den genetischen Fingerabdruck des Täters.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 60
 | NR_ST = 20
 | OT = Psycho-Detektive<ref>Internetquellen zur Episode ''„Psycho-Detektive“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/60-dem-taeter-auf-der-spur-psycho-detektive-339309 60] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/60-dem-taeter-auf-der-spur-psycho-detektive-339309 339309], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641932 S02E20] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641932 4641932], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=8yaQbw9XjbQ 8yaQbw9XjbQ]</ref>
 | Feld1 = -
 | REG = Nicolas Brown
 | EA = 2000-06-08
+| ZF = Die FBI-Agentin Clarice Starling wurde durch den Film „Das Schweigen der Lämmer“ berühmt, in dem sie die Psyche von Serienmördern erforschte. Die Methode des Profiling, die sie anwendete, wurde jedoch schon in den 70er Jahren vom FBI-Agenten Robert Ressler etabliert. In diesem Zusammenhang wurde Ressler von den Ermittlern eines grauenhaften Verbrechens um Hilfe gebeten. Er erstellte ein psychologisches Profil des Täters und half bei der Ausbildung von Profilern an der FBI-Akademie in Quantico, Virginia. Ressler warnte auch davor, selbst zum Monster zu werden, während man gegen Monster kämpft.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 61
 | NR_ST = 21
 | OT = Das Fenster zum Meer<ref>Internetquellen zur Episode ''„Das Fenster zum Meer“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/61-im-reich-der-meere-das-fenster-zum-meer-im-grossaquarium-von-sydney-339341 61] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/61-im-reich-der-meere-das-fenster-zum-meer-im-grossaquarium-von-sydney-339341 339341], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824557 S02E21] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824557 4824557], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=pr77EnZFwug pr77EnZFwug]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2000-09-04
+| ZF = Sydneys modernes Großaquarium bietet eine faszinierende Erfahrung für wasserunwillige Besucher. Es beherbergt über 650 heimische Tier- und Pflanzenarten in 50 Großbecken auf 4.000 Quadratmetern. Tierpfleger wie Adam Kassi kümmern sich um Haie, Schnabeltiere, Pinguine, Meeresschildkröten, Krokodile und den größten australischen Süßwasserfisch. Das Aquarium setzt auf ein „No Shows!“-Motto, um den Besuchern ein Verständnis für die natürliche Tierwelt zu vermitteln. Die erfolgreiche Fortpflanzung einiger Tiere wie Pinguine zeigt die artgerechte Haltung im Aquarium.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 62
 | NR_ST = 22
 | OT = Schwarze Brandung<ref>Internetquellen zur Episode ''„Schwarze Brandung“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/62-im-reich-der-meere-schwarze-brandung-nach-der-oelkatastrophe-an-der-bretonischen-kueste-339342 62] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/62-im-reich-der-meere-schwarze-brandung-nach-der-oelkatastrophe-an-der-bretonischen-kueste-339342 339342], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824558 S02E22] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824558 4824558], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=MQNTxheCFSw MQNTxheCFSw]</ref>
 | Feld1 = -
 | REG = Dirk Heinemann
 | EA = 2000-09-05
+| ZF = Im Dezember 1999 ereignete sich die Tankerhavarie der „Erika“ vor der bretonischen Küste. Trotz einer dramatischen Rettungsaktion erstickten Hunderttausende Seevögel im Öl. Die französische Tourismusindustrie gab bereits nach einigen Monaten Entwarnung, doch die langfristigen Auswirkungen auf Mensch und Tier blieben unklar. In der Vergangenheit ereigneten sich ähnliche Unglücke vor der Bretagne, wie 1978 mit der „Amoco Cadiz“. Die Erholung der Umwelt damals verlief schneller als erwartet. Meeresbiologen untersuchen nun, wie lange die natürliche Abbauzeit des Öls der „Erika“ in der Umwelt dauern wird. Sie erforschen die verantwortlichen Organismen für die Selbstreinigung des Meeres und erstellen Prognosen für die betroffenen Gebiete in der Bretagne.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 63
 | NR_ST = 23
 | OT = Durst nach Meer<ref>Internetquellen zur Episode ''„Durst nach Meer“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/63-im-reich-der-meere-durst-nach-meer-neue-methoden-der-trinkwassergewinnung-339343 63] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/63-im-reich-der-meere-durst-nach-meer-neue-methoden-der-trinkwassergewinnung-339343 339343], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824559 S02E23] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824559 4824559], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=WAjs-VrhFNs WAjs-VrhFNs]</ref>
 | Feld1 = -
 | REG = Dr. Heidi Mühlenberg
 | EA = 2000-09-06
+| ZF = Täglich sterben weltweit 13.000 Menschen an Durst oder verschmutztem Wasser. Kriege um Trinkwasser nehmen zu. Wissenschaftler und Ingenieure arbeiten daran, die riesigen Wasserreserven der Erde anzuzapfen. 1,4 Milliarden Kubikkilometer Wasser existieren, aber 99,3% sind salziges Meerwasser oder Eis. Die Lösungen zur Gewinnung von Trinkwasser aus den Ozeanen variieren. Auf der Arabischen Halbinsel versorgen Entsalzungsanlagen die Reichen mit Wasser. In Puerto Rico hat José Pichardo mit Unterstützung eines deutschen Ingenieurs solarbetriebene Wasserentsalzungsanlagen entwickelt. Er hofft, dass sie bald auch die Bewohner der Armenviertel von San Juan versorgen können.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 64
 | NR_ST = 24
 | OT = SOS auf hoher See<ref>Internetquellen zur Episode ''„SOS auf hoher See“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/64-im-reich-der-meere-sos-auf-hoher-see-moderne-rettungstechnik-im-einsatz-339344 64] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/64-im-reich-der-meere-sos-auf-hoher-see-moderne-rettungstechnik-im-einsatz-339344 339344], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824560 S02E24] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824560 4824560], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=qVKSXlGRLbU qVKSXlGRLbU]</ref>
 | Feld1 = -
 | REG = Achim Kampmann
 | EA = 2000-09-07
+| ZF = Die „Deutsche Gesellschaft zur Rettung Schiffbrüchiger“ (DGzRS) bietet seit 1865 organisierte Hilfe bei Schiffsunglücken an. Heutzutage verfügt die deutsche Flotte über eine der modernsten technischen Ausstattungen weltweit. Der Rettungskreuzer „Alfried Krupp“ unter dem Kommando von Karl-Friedrich Brückner ist nahezu unsinkbar und 27 Meter lang. Trotzdem gibt es immer noch Gefahren für die Besatzung. Die Deutsche Handelsmarine hat ein umfangreiches Trainingsprogramm entwickelt. Die Seenotleitung in Bremen empfängt Notrufe aus der ganzen Welt und kann auf Notfälle in weit entfernten Ozeanen reagieren. Ein spektakuläres Beispiel für eine ferngesteuerte Rettungsaktion war der Einsatz für die Verunglückten des Passagierschiffs „Achille Lauro“ im Jahr 1995.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 65
 | NR_ST = 25
 | OT = Die Feuerpatrouille<ref>Internetquellen zur Episode ''„Die Feuerpatrouille“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/65-die-geheimnisse-des-waldes-die-feuerpatrouille-339345 65] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/65-die-geheimnisse-des-waldes-die-feuerpatrouille-339345 339345], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824561 S02E25] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824561 4824561], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=4dlXEbKTnKA 4dlXEbKTnKA]</ref>
 | Feld1 = -
 | REG = Heidrun Noske, Eva Jobst
 | EA = 2000-10-02
+| ZF = Jeden Sommer toben verheerende Brände im Süden Frankreichs. Nur Ortskundige können rechtzeitig warnen, da das Gelände bergig und unübersichtlich ist. Serge Abbes ist seit fast zwanzig Jahren Förster bei der staatlichen Waldbehörde „ONF - Office National de Forêt“. Täglich überwacht er einen Waldabschnitt in der Nähe seines Heimatorts im Département Bouches-du-Rhône, einem beliebten Urlaubsgebiet. Er schlägt Alarm und führt im Ernstfall die Feuerwehr direkt in die Gefahrenzone. Im Département gibt es insgesamt 125 „Waldretter“, die Feuerwehrmann und Förster zugleich sind. Die Feuerwachzentrale in Avignon koordiniert die Einsätze. Serge Abbes’ Arbeit bleibt trotz aller Technik und Vorsicht gefährlich, denn nur seine Ortskenntnis, das Funkgerät und etwas Glück helfen ihm, wenn er in einen Brand gerät.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 66
 | NR_ST = 26
 | OT = Der letzte Märchenwald<ref>Internetquellen zur Episode ''„Der letzte Märchenwald“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/66-die-geheimnisse-des-waldes-der-letzte-maerchenwald-339339 66] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/66-die-geheimnisse-des-waldes-der-letzte-maerchenwald-339339 339339], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824562 S02E26] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824562 4824562], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=vDFuRMVhqKA vDFuRMVhqKA]</ref>
 | Feld1 = -
 | REG = Ute Gebhardt
 | EA = 2000-10-03
+| ZF = Der Böhmerwald in Tschechien, ein wilder Ort in Europa, ist bedroht. Borkenkäfer vernichten seit den 90er Jahren große Flächen des letzten Märchenwaldes des Kontinents. Die Nationalparkverwaltung wird von der Bevölkerung für die Käferplage verantwortlich gemacht, da die Idee, den Wald nicht wirtschaftlich zu nutzen und die Wildnis nicht zu ordnen, in Tschechien auf Unverständnis stößt. Einige Kommunen haben bereits Waldflächen zurückbekommen und dürfen dort wieder Bäume fällen. Förster Michael Valenta sieht den Böhmerwald in Gefahr, wenn Teile des Parks touristisch genutzt werden, da dies die einzigartige Natur beeinträchtigen könnte.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 67
 | NR_ST = 27
 | OT = Chinas grüne Mauer<ref>Internetquellen zur Episode ''„Chinas grüne Mauer“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/67-die-geheimnisse-des-waldes-chinas-gruene-mauer-339346 67] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/67-die-geheimnisse-des-waldes-chinas-gruene-mauer-339346 339346], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824563 S02E27] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824563 4824563], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007044 tt1007044], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=hPQpzybAEIU hPQpzybAEIU]</ref>
 | Feld1 = -
 | REG = Achim Kampmann
 | EA = 2000-10-04
+| ZF = In China kämpft die Bevölkerung verzweifelt gegen die Ausbreitung der Wüste an. Sogar Peking wird immer häufiger von Sandstürmen heimgesucht, weshalb Pläne für eine neue Hauptstadt existieren. Dennoch ist der Kampf nicht verloren. China errichtet eine etwa 700 Kilometer lange „grüne Mauer“ aus Bäumen, die die nordwestlichen Provinzen und Peking schützen soll. Bereits 22 Millionen Hektar Schutzwälder, vergleichbar mit der Fläche Großbritanniens, wurden angelegt. Die Aufforstung zeigt erste Erfolge, jedoch breitet sich die Wüste weiter aus.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 68
 | NR_ST = 28
 | OT = Die Waldfabrik<ref>Internetquellen zur Episode ''„Die Waldfabrik“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/68-die-geheimnisse-des-waldes-die-waldfabrik-339347 68] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/68-die-geheimnisse-des-waldes-die-waldfabrik-339347 339347], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824564 S02E28] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824564 4824564], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=i4IRpDalTSM i4IRpDalTSM]</ref>
 | Feld1 = -
 | REG = Michael Erler
 | EA = 2000-10-05
+| ZF = In Finnland wird intensiv Holzwirtschaft betrieben, um den Wald als wichtigen Wirtschaftsfaktor zu nutzen. Früher wurde der Wald ähnlich wie Felder bewirtschaftet, was zu einheitlichen, leblosen Baumplantagen führte, die anfällig für Brände und Schädlinge sind. Naturschützer protestieren dagegen, aber die finnische Forstindustrie ist eng mit der Forstbehörde, den Zelluloseherstellern und der Maschinenindustrie verbunden. Daher verkauft ein Waldbesitzer nicht das Holz, sondern nur das Recht zur Holzernte. Dieses System wird „Holzcluster“ genannt. Die effektive und profitorientierte Holzwirtschaft hat in Finnland eine lange Tradition, wobei ein Holzfäller etwa vier Minuten braucht, um eine Kiefer umzulegen und 90 Bäume pro Tag zu fällen, während ein Harvester die gleiche Arbeit in nur einer Minute erledigt.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 69
 | NR_ST = 29
 | OT = Himalaja - Tödliche Höhe<ref>Internetquellen zur Episode ''„Himalaja - Tödliche Höhe“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/69-leben-am-limit-grenzen-des-koerpers-himalaja-toedliche-hoehe-339348 69] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/69-leben-am-limit-grenzen-des-koerpers-himalaja-toedliche-hoehe-339348 339348], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824565 S02E29] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824565 4824565], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007053 tt1007053], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=c1KAS1kahk8 c1KAS1kahk8]</ref>
 | Feld1 = -
 | REG = Marion Heinrich, Lutz Protze
 | EA = 2000-11-06
+| ZF = Im Himalaya-Gebirge machen sich jährlich mehr Expeditionen auf, um die Gipfel zu besteigen. Eine deutsche Gruppe unter der Leitung von Olaf Rieck möchte den Cho Oyu bezwingen, einen der Giganten mit 8201 Metern. Mit zunehmender Höhe sinkt der Sauerstoffgehalt im Blut, was zu Übelkeit und Austrocknung führt. Um die Gefahren zu minimieren, nehmen die Teilnehmer an einem Experiment teil, bei dem ihre psychische und physische Verfassung durch Sensoren aufgezeichnet wird. Die Daten werden an den Psychologen Markus Stück in Deutschland übertragen, der die verbleibenden körperlichen Reserven berechnet. Die meisten Expeditionsteilnehmer geben auf, aber Olaf Rieck und Kameraassistent Thomas Türpe kämpfen weiter. Die Daten sind alarmierend, doch Rieck will den Gipfel unbedingt erreichen.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 70
 | NR_ST = 30
 | OT = Apnoe-Taucher - Im Tiefenrausch<ref>Internetquellen zur Episode ''„Apnoe-Taucher - Im Tiefenrausch“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/70-leben-am-limit-grenzen-des-koerpers-apnoe-taucher-im-tiefenrausch-339349 70] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/70-leben-am-limit-grenzen-des-koerpers-apnoe-taucher-im-tiefenrausch-339349 339349], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824566 S02E30] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824566 4824566], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=jCzsdDS3yRI jCzsdDS3yRI]</ref>
 | Feld1 = -
 | REG = Frank Koschewski
 | EA = 2000-11-07
+| ZF = Vor 100 Jahren glaubten Wissenschaftler, dass der Mensch nicht tiefer als 30 Meter ohne Atemgerät tauchen könne. Doch Apnoe-Taucher haben diese Grenze verschoben. Einer von ihnen, Sven Penszuk, möchte seinen persönlichen Rekord von 42 Metern brechen, ohne Atemgerät, nur mit Flossen. In 30 Metern Tiefe komprimiert der Wasserdruck die Lunge, sodass sie minimal wird. Der entstehende Unterdruck zieht Blut in die Lungenblässchen, was zum Überleben notwendig ist. Penszuk bewundert den Kubaner Pipin Ferreras, der mit einem bleibeschwerten Tauchschlitten in lebensgefährliche Tiefen vordringt. Ferreras plant, mit 165 Metern einen neuen Rekord aufzustellen und ist fest davon überzeugt, eines Tages die magische 200-Meter-Grenze zu überschreiten.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 71
 | NR_ST = 31
 | OT = Radrennen - Ewiger Endspurt<ref>Internetquellen zur Episode ''„Radrennen - Ewiger Endspurt“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/71-leben-am-limit-grenzen-des-koerpers-radrennen-ewiger-endspurt-339350 71] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/71-leben-am-limit-grenzen-des-koerpers-radrennen-ewiger-endspurt-339350 339350], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824567 S02E31] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824567 4824567], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=gqUU0m2KVqg gqUU0m2KVqg]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2000-11-08
+| ZF = Andreas Klöden, ein 25-jähriger Radrennprofi des Teams Telekom, hat bei verschiedenen Rennen wie Paris-Nizza und der Baskenlandrundfahrt Erfolge erzielt. Durch intensives Training und den Einsatz moderner Sportwissenschaft hat er seine körperlichen Grenzen ausgereizt. Professor Zschorlich von der Universität Rostock erforscht den optimalen Tretzyklus von Radfahrern und erstellt individuelle Trainingsprogramme, indem er die Beschleunigung während der Kurbelbewegung misst. Damit werden Leistungssteigerungen erreicht und der Einsatz neuer Ausrüstung wird immer wichtiger.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 72
 | NR_ST = 32
 | OT = Sadhus - Heilige Aussteiger<ref>Internetquellen zur Episode ''„Sadhus - Heilige Aussteiger“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/72-leben-am-limit-grenzen-des-koerpers-sadhus-heilige-aussteiger-339351 72] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/72-leben-am-limit-grenzen-des-koerpers-sadhus-heilige-aussteiger-339351 339351], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824568 S02E32] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824568 4824568], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=xI5D3TCuoYM xI5D3TCuoYM]</ref>
 | Feld1 = -
 | REG = Ute Gebhardt
 | EA = 2000-11-09
+| ZF = Die Sadhus sind heilige Männer des Hinduismus in Nepal und anderen asiatischen Ländern. Sie leben asketisch und sind ständig auf Wanderschaft. Ihre Rituale sind ungewöhnlich, von lebenslangem Stehen bis hin zur Unterdrückung der Lust mit schweren Steinen an Hoden und Penis. Hanuman Das ist mit 17 Jahren von zu Hause weggelaufen, um ein Sadhu zu werden. Jetzt ist er 70 und glaubt, sein Ziel erreicht zu haben. Er lebt von Spenden und opfert für andere Menschen. Sein Schüler Om Das war ein drogensüchtiges Straßenkind, aber Hanuman Das ist überzeugt, dass Gott auch für ihn sorgt, wenn er an seine Grenzen geht.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 73
 | NR_ST = 33
 | OT = Die Elefantenschule<ref>Internetquellen zur Episode ''„Die Elefantenschule“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/73-tiere-im-rampenlicht-die-elefantenschule-339352 73] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/73-tiere-im-rampenlicht-die-elefantenschule-339352 339352], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824569 S02E33] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824569 4824569], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=l6ciOHdMwlI l6ciOHdMwlI]</ref>
 | Feld1 = -
 | REG = Krishna Govender
 | EA = 2000-12-04
+| ZF = Im südlichen Afrika existiert eine Elefantenschule namens „Camp Abu“, die vor zehn Jahren von Randall Moore gegründet wurde. Diese Schule bildet afrikanische Elefanten aus und ermöglicht es ihnen, für Menschen zu arbeiten. Moore hat damit Erfolg gehabt, was bisher nur bei asiatischen Elefanten möglich war. Die Elefanten werden im Camp auf natürliche Weise trainiert und das erfordert viel Geduld im Umgang mit den Tieren. Neben Elefanten werden auch passende Elefantenführer, sogenannte „Mahouts“, in der Einrichtung ausgebildet. Durch diese Ausbildung wird der einheimischen Bevölkerung nahegebracht, dass Elefanten als Nutztiere dienen können, anstatt sie nur als Landplage zu betrachten.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 74
 | NR_ST = 34
 | OT = Der Rentier-Trek<ref>Internetquellen zur Episode ''„Der Rentier-Trek“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/74-tiere-im-rampenlicht-der-rentier-trek-339353 74] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/74-tiere-im-rampenlicht-der-rentier-trek-339353 339353], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824570 S02E34] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824570 4824570], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=kw2Mk9Su7zg kw2Mk9Su7zg]</ref>
 | Feld1 = -
 | REG = Michael Hutchinson
 | EA = 2000-12-05
+| ZF = Im Norden Skandinaviens haben die Sami, ein Nomadenvolk, seit Jahrtausenden eine enge Partnerschaft mit den großen Rentierherden. Früher folgten sie den Herden zu Fuß, heute nutzen sie Schneemobile. Trotz Anpassungen ist ihre Lebensweise gefährdet, da Waldbesitzer gegen ihre alten Weiderechte klagen. Nils Peter Gaup ist einer von 4000 modernen norwegischen Sami, die von der Rentierzucht leben. Durch intensive Züchtung ist die Anzahl der Tiere zu hoch, sodass die Hauptnahrung, Flechten, nicht ausreichend nachwachsen kann. Der Staat fordert die Hirten auf, ihre Herden zu verkleinern, was die Existenz der Sami bedroht.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 75
 | NR_ST = 35
 | OT = Nicht ohne meinen Hund<ref>Internetquellen zur Episode ''„Nicht ohne meinen Hund“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/75-tiere-im-rampenlicht-nicht-ohne-meinen-hund-339354 75] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/75-tiere-im-rampenlicht-nicht-ohne-meinen-hund-339354 339354], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824571 S02E35] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824571 4824571], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=UOgEuKov234 UOgEuKov234]</ref>
 | Feld1 = -
 | REG = Michael Hutchinson
 | EA = 2000-12-06
+| ZF = Hunde sind nicht nur Weggefährten des Menschen, sondern auch als Betreuer für Behinderte im Einsatz. Blindenhunde sind die bekanntesten Diensthunde, aber auch für Gehörlose, Körperbehinderte und Epileptiker werden sie erfolgreich eingesetzt. Chris Marshall, der sein Gehör verlor, hat sein Leben dank seines Begleithunds Dizzy verändert. Dizzy erkennt wichtige Geräusche und reagiert zuverlässig in Notfällen. Die Kommunikation mit Chris erfolgt über trainierte Zeichen. Die Ausbildung von Begleithunden basiert auf Wiederholung und Belohnung, und die Entscheidung über ihre Eignung wird bereits im Welpenalter getroffen.
 }}
 {{Episodenlisteneintrag
 | NR_GES = 76

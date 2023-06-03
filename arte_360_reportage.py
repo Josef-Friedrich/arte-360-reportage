@@ -1610,7 +1610,7 @@ def main() -> None:
 
     if args.all:
         tv_show.add_coordinates()
-        tv_show.generate_chatgpt_texts()
+        tv_show.generate_chatgpt_texts(True)
         tv_show.generate_wikitext_dvd()
         tv_show.export_to_json()
         generate_leaflet()
@@ -1619,7 +1619,7 @@ def main() -> None:
         tv_show.generate_wikitext("fr")
 
     if args.chatgpt:
-        tv_show.generate_chatgpt_texts()
+        tv_show.generate_chatgpt_texts(True)
 
     if args.coordinates:
         tv_show.add_coordinates()
