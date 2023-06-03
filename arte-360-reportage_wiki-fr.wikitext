@@ -213,7 +213,7 @@
 | Titre inconnu
 |-
 |11
-|
+|🔴
 | Titre inconnu
 |-
 |12
@@ -221,7 +221,7 @@
 | Titre inconnu
 |-
 |13
-|
+|🟡
 | Titre inconnu
 |-
 |14

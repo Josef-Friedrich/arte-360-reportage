@@ -460,77 +460,86 @@
 | EA = 2000-03-06
 | ZF = Mitten in der Nacht treiben Räuber auf dem antiken Friedhof von Morgantina in Sizilien ihr Unwesen. Mit Metalldetektoren durchsuchen sie die über 2000 Jahre alten Gräber nach wertvollen Fundstücken, um sie an ausländische Sammler zu verkaufen. Morgantina war ein kulturelles Zentrum der Griechen in der Antike und ist heute eine wichtige Ausgrabungsstätte. Obwohl eine spezielle Polizeieinheit gegen die sogenannten „Tombaroli“ vorgeht, floriert der Schmuggelhandel. Viele der antiken Artefakte gelangen über die Schweiz in Museen und Privatsammlungen in Westeuropa und den USA, was den Verlust wichtiger kultureller Zeugnisse zur Folge hat. Die Räuber zerstören dabei oft Informationen über die Vergangenheit und werfen wertlose Objekte achtlos weg.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 50
 | NR_ST = 10
 | OT = Schätze aus dem All<ref>Internetquellen zur Episode ''„Schätze aus dem All“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/50-die-schatzjaeger-schaetze-aus-dem-all-339167 50] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/50-die-schatzjaeger-schaetze-aus-dem-all-339167 339167], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641922 S02E10] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641922 4641922], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=auISYpA2psM auISYpA2psM]</ref>
 | Feld1 = -
 | REG = Mary Crisp
 | EA = 2000-03-07
+| ZF = Meteoritenjäger durchforsten stundenlang die Wüste Arizonas, um Meteoriten aus dem Mond, Mars oder fernen Galaxien zu finden. Bob Haag, bekannt als „Meteorite Man“, erfüllt seinen Kindheitstraum, indem er diese außerirdischen Gesteinsbrocken sammelt. Die Meteoriten können nur in trockenen Gebieten überleben, daher nutzen die Sammler Metalldetektoren, um sie aufzuspüren. Sowohl Sammler als auch Wissenschaftler sind an den Funden interessiert, da sie Informationen über fremde Planeten liefern. Die Zusammenarbeit zwischen den Sammlern und Wissenschaftlern ist wichtig, da die Funde dokumentiert und der Wissenschaft zur Untersuchung überlassen werden.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 51
 | NR_ST = 11
 | OT = Die Taucher der Goldküste<ref>Internetquellen zur Episode ''„Die Taucher der Goldküste“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/51-die-schatzjaeger-die-taucher-der-goldkueste-339168 51] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/51-die-schatzjaeger-die-taucher-der-goldkueste-339168 339168], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641923 S02E11] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641923 4641923], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=Jsm-8wxKxDo Jsm-8wxKxDo]</ref>
 | Feld1 = -
 | REG = Wayne Derrick
 | EA = 2000-03-08
+| ZF = Moderne Schatzjäger suchen mit High-Tech-Geräten nach versunkenen Schätzen. Ein Beispiel ist Mo Molinar und seine Crew, die seit über 30 Jahren als Schatzjäger arbeiten. Sie sind auf der Suche nach den Wracks spanischer Schiffe, die 1715 vor der Küste Floridas gesunken sind. Mit akribischer Recherche und hochtechnisierten Geräten wie einem Peilungsgerät, das Magnetfelder misst, suchen sie nach eisenhaltigen Gegenständen wie Schiffsankern und Kanonen, um die potenzielle Lage der Wracks zu ermitteln.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 52
 | NR_ST = 12
 | OT = Im Bann der Rubine<ref>Internetquellen zur Episode ''„Im Bann der Rubine“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/52-die-schatzjaeger-im-bann-der-rubine-339169 52] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/52-die-schatzjaeger-im-bann-der-rubine-339169 339169], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641924 S02E12] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641924 4641924], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=hYYAObzGdVs hYYAObzGdVs]</ref>
 | Feld1 = -
 | REG = Wayne Derrick
 | EA = 2000-03-09
+| ZF = Die Dörfer sind verlassen und die Straßen gefährlich. Nur Juwelenhändler suchen im Niemandsland zwischen Thailand und Kambodscha nach Rubinen. Chantaburi in Thailand war einst das Zentrum des Rubinhandels, aber die Minen sind erschöpft. Die wenigen verbliebenen Rubine sind von schlechter Qualität und müssen zu niedrigen Preisen verkauft werden. Händler wie Sanga Duangprapai müssen nun täglich nach Kambodscha reisen, um Edelsteine zu erwerben. Pailin, die Handelsstadt in Kambodscha, ist unsicher aufgrund der Roten Khmer und Landminen. Viele Händler und Minenarbeiter sterben auf der Suche nach dem perfekten Stein.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 53
 | NR_ST = 13
 | OT = Die Klinik der Schamanen<ref>Internetquellen zur Episode ''„Die Klinik der Schamanen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/53-medizin-der-zukunft-die-klinik-der-schamanen-339171 53] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/53-medizin-der-zukunft-die-klinik-der-schamanen-339171 339171], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641925 S02E13] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641925 4641925], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=BsUR1lHoDNA BsUR1lHoDNA]</ref>
 | Feld1 = -
 | REG = Ute Gebhardt
 | EA = 2000-05-01
+| ZF = In Tuwa, einer Republik im Herzen Asiens, leitet der Schamane Nikolai Orschak eine einzigartige Schamanenklinik in der Hauptstadt Kyzyl. Durch Tanz, Gesang, Trommeln und eine symbolische Mahlzeit versucht er, die Geister der sibirischen Steppe zu besänftigen und ihre spirituelle Kraft zu nutzen, um anderen zu helfen. Die Klinik behandelt die Ursachen von Krankheiten in der menschlichen Seele. Die Wirksamkeit der traditionellen Behandlungen hat auch das Interesse der westlichen Medizin geweckt, wobei Wissenschaftler der Universität Gießen veränderte Bewusstseinszustände erforschen, wie sie von Schamanen erlebt werden. In Wien praktizieren bereits seit 20 Jahren Neo-Schamanen.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 54
 | NR_ST = 14
 | OT = Organe nach Maß<ref>Internetquellen zur Episode ''„Organe nach Maß“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/54-medizin-der-zukunft-organe-nach-mass-339172 54] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/54-medizin-der-zukunft-organe-nach-mass-339172 339172], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641926 S02E14] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641926 4641926], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=unxzp52RP0c unxzp52RP0c]</ref>
 | Feld1 = -
 | REG = Helge Cramer
 | EA = 2000-05-02
+| ZF = Der 17-jährige Christoph Bast benötigt tägliche Nährstoffinfusionen ins Herz, da er seit seiner Kindheit keinen Darm hat. Er hofft darauf, dass Wissenschaftler in der Lage sein werden, körpereigene Darmzellen heranzuzüchten. Markus Klein, ein Archäologie-Student, litt seit seiner Kindheit an Diabetes. Vor einigen Jahren entwickelten sich jedoch nicht heilende Wunden an seinen Füßen. Weder konventionelle noch alternative Behandlungsmethoden halfen. Glücklicherweise konnte bei Markus die Nachzüchtung und Transplantation seiner eigenen Haut das Schlimmste verhindern. Dieses Verfahren wird als „Tissue Engineering“ bezeichnet und ermöglicht das Züchten von menschlichem Gewebe.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 55
 | NR_ST = 15
 | OT = Die Jäger des Lassa-Virus<ref>Internetquellen zur Episode ''„Die Jäger des Lassa-Virus“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/55-medizin-der-zukunft-die-jaeger-des-lassa-virus-339173 55] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/55-medizin-der-zukunft-die-jaeger-des-lassa-virus-339173 339173], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641927 S02E15] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641927 4641927], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=8ALpHNqxoL0 8ALpHNqxoL0]</ref>
 | Feld1 = -
 | REG = Dietrich von Ruffer
 | EA = 2000-05-03
+| ZF = Dr. Jan ter Meulen, ein Mediziner vom Bernhard-Nocht-Institut in Hamburg, forscht zusammen mit einheimischen Wissenschaftlern in Guinea zum Lassa-Fieber. Er betrachtet Fälle wie den von Annegret V. als tragische Einzelschicksale und glaubt, dass es keine Gefahr für Menschen in der Ersten Welt gibt. Das Lassa-Fieber wird von Mastomys natalensis, einer kleinen Rattenart, verbreitet, die das Virus im Urin und anderen Körperflüssigkeiten ausscheidet. Nur wenn diese Ratten in Europa als Erregerreservoir etabliert würden und grundlegende Hygienemaßnahmen vernachlässigt würden, gäbe es eine ernsthafte Bedrohung. Das gesteigerte Medieninteresse könnte jedoch dazu führen, dass die Erforschung von Tropenkrankheiten mehr Beachtung findet.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 56
 | NR_ST = 16
 | OT = Chirurgen am Joystick<ref>Internetquellen zur Episode ''„Chirurgen am Joystick“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/56-medizin-der-zukunft-chirurgen-am-joystick-339174 56] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/56-medizin-der-zukunft-chirurgen-am-joystick-339174 339174], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641928 S02E16] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641928 4641928], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=GlPBNbgtNpE GlPBNbgtNpE]</ref>
 | Feld1 = -
 | REG = Achim Kampmann
 | EA = 2000-05-04
+| ZF = Im OP-Saal sind Roboter auf dem Vormarsch. Sie assistieren bei Orthopädie und Herzoperationen und sollen bald auch im Gehirn eingesetzt werden. Das Virchow-Klinikum in Berlin hat den ersten Roboter für Mund-, Kiefer- und Gesichtschirurgie namens „Otto von Decke“. Otto kann Instrumente reichen und Knochenbohrungen durchführen. Er übertrifft den Chirurgen vor allem durch seine Genauigkeit. Tim Lüth, Deutschlands erster Professor für High-Tech-Medizin, hat Otto entwickelt. Bislang werden Roboter hauptsächlich in der Orthopädie eingesetzt, aber ihre Anwendung wird kontinuierlich erweitert.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 57
 | NR_ST = 17
 | OT = Die Hightech-Polizei<ref>Internetquellen zur Episode ''„Die Hightech-Polizei“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/57-dem-taeter-auf-der-spur-die-hightech-polizei-339170 57] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/57-dem-taeter-auf-der-spur-die-hightech-polizei-339170 339170], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641929 S02E17] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641929 4641929], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=OeQIgSeBN5k OeQIgSeBN5k]</ref>
 | Feld1 = -
 | REG = Nicolas Brown
 | EA = 2000-06-05
+| ZF = Der Polizist des 21. Jahrhunderts ist mit fortschrittlichen Technologien ausgestattet, um potenzielle Angreifer frühzeitig zu entdecken. Mithilfe von Wärmekameras kann er sie identifizieren und mit nicht-tödlichen Schusswaffen außer Gefecht setzen. David Boyd vom „National Institute of Justice“ entwickelt kontinuierlich neue Technologien, um die Arbeit der Polizei effektiver und sicherer zu machen. An der Grenze zu Mexiko in San Diego werden bereits viele dieser Technologien eingesetzt, darunter auch die direkte Untersuchung von DNA-Proben am Tatort. Die amerikanische Polizei forscht zudem an nicht-tödlichen Waffen.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 58
 | NR_ST = 18
 | OT = Die Kunst des Fälschens<ref>Internetquellen zur Episode ''„Die Kunst des Fälschens“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/58-dem-taeter-auf-der-spur-die-kunst-des-faelschens-339175 58] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/58-dem-taeter-auf-der-spur-die-kunst-des-faelschens-339175 339175], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641930 S02E18] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641930 4641930], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=CuJOick2_ZY CuJOick2_ZY]</ref>
 | Feld1 = -
 | REG = Michael Hutchinson
 | EA = 2000-06-06
+| ZF = Der größte Skandal in der Kunstgeschichte begann mit einer Anzeige: „Authentische Fälschungen (19. und 20. Jahrhundert) für 150 Pfund“. John Myatt, ein Kunstlehrer in finanzieller Notlage, verkaufte kopierte Kunstwerke. John Drewe, ein genialer Hochstapler, wurde auf ihn aufmerksam und sah eine Chance. Über Jahre hinweg überzeugte Drewe Myatt, berühmte Kunstwerke zu fälschen. Er verkaufte sie zu hohen Preisen an Sammler und manipulierte als Kunsthistoriker die Archive der Tate Gallery und des Victoria & Albert Museums, um Myatts Werken eine gefälschte Geschichte zu verleihen. Scotland Yard deckte den Betrug schließlich auf.
 }}
 {{Episodenlisteneintrag
 | NR_GES = 59

@@ -2404,6 +2404,10 @@ seasons:
         episode_no: 10
         title: Schätze aus dem All
         topic: Die Schatzjäger
+        location_wikidata: Q189429
+        coordinates:
+        - 32.26
+        - -112.92611111111111
         description: 'Stundenlang durchforsten Sammler die Wüste Arizonas
             auf der Suche nach Meteoriten, die die Reise von Mond, Mars oder
             fernen Galaxien überstanden haben. Sie sind Jäger eines verlorenen
@@ -2425,33 +2429,16 @@ seasons:
             „360° - Die GEO-Reportage“ beobachtet Sammler und Wissenschaftler
             auf der Suche nach einem Stück vom Weltall und beschreibt die
             Faszination, die beide Gruppen verbindet.'
-        description_fernsehserien: 'Sie tauchen nach versunkenen Schiffen,
-            durchstreifen Wüstengebiete mit Metalldetektoren oder plündern
-            antike Gräber: Moderne Schatzjäger. Die Dokumentation begleitet
-            Sammler, die sich auf die Suche nach Meteoriten aus fernen Galaxien
-            machen. Für manche von ihnen sind sie wertvoller als Gold. (Text:
-            Discovery Channel)'
-        description_youtube: 'Stundenlang durchforsten Sammler die Wüste Arizonas
-            auf der Suche nach Meteoriten, die die Reise von Mond, Mars oder
-            fernen Galaxien überstanden haben. Sie sind Jäger eines verlorenen
-            Stücks All.
-
-            Bob Haag hatte schon immer einen Wunsch: er wollte Astronaut werden.
-            Obwohl sich sein Traum nicht erfüllt hat, ist es ihm gelungen,
-            durch das Weltall zu reisen, ohne die Erde verlassen zu müssen.
-            Denn der „Meteorite Man“, wie seine Freunde ihn nennen, sammelt
-            Meteoriten aus fernen Galaxien. Das Erdklima können die Gesteinsbrocken
-            allerdings nur in Gebieten extremer Trockenheit überstehen. Sammler
-            benutzen Metalldetektoren, um die eisenhaltigen Gesteine zu finden.
-            Meteoriten sind jedoch nicht nur bei Sammlern beliebt, auch Wissenschaftler
-            sind an den Funden interessiert, denn sie geben ihnen Aufschluss
-            über fremde Planeten. Die Forscher arbeiten deshalb eng mit Meteoritensammlern
-            zusammen, die ihre Fundstücke genau dokumentieren und der Wissenschaft
-            zur Untersuchung überlassen.
-
-            „360° - Die GEO-Reportage“ beobachtet Sammler und Wissenschaftler
-            auf der Suche nach einem Stück vom Weltall und beschreibt die
-            Faszination, die beide Gruppen verbindet.'
+        summary: Meteoritenjäger durchforsten stundenlang die Wüste Arizonas,
+            um Meteoriten aus dem Mond, Mars oder fernen Galaxien zu finden.
+            Bob Haag, bekannt als „Meteorite Man“, erfüllt seinen Kindheitstraum,
+            indem er diese außerirdischen Gesteinsbrocken sammelt. Die Meteoriten
+            können nur in trockenen Gebieten überleben, daher nutzen die Sammler
+            Metalldetektoren, um sie aufzuspüren. Sowohl Sammler als auch
+            Wissenschaftler sind an den Funden interessiert, da sie Informationen
+            über fremde Planeten liefern. Die Zusammenarbeit zwischen den
+            Sammlern und Wissenschaftlern ist wichtig, da die Funde dokumentiert
+            und der Wissenschaft zur Untersuchung überlassen werden.
         director: Mary Crisp
         air_date: '2000-03-07'
         duration: 26
@@ -2467,6 +2454,11 @@ seasons:
         episode_no: 11
         title: Die Taucher der Goldküste
         topic: Die Schatzjäger
+        continent: Amerika
+        location_wikidata: Q812
+        coordinates:
+        - 28.133333333333
+        - -81.631666666667
         description: 'Versunkene Schatztruhen gefüllt mit Gold, Perlen und
             Juwelen - der klassische Piratenschatz. Auch heute noch sind Menschen
             auf der Suche nach der kostbaren Fracht von Schiffen. Ihre Suche
@@ -2487,32 +2479,14 @@ seasons:
 
             „360° - Die GEO-Reportage“ taucht ein in die Welt moderner Schatzjäger,
             die versuchen, versunkene Kostbarkeiten zu heben.'
-        description_fernsehserien: 'Moderne Schatzjäger lassen nichts unversucht,
-            mit Hilfe modernster Technologien Kostbarkeiten von einst zu heben.
-            Schatzjäger Mo Molinar will in den Gewässern vor Florida nach
-            der 1715 versunkenen spanischen Flotte suchen. Die Schiffe waren
-            beladen mit Gold und Juwelen für die Braut des Königs. (Text:
-            Discovery Channel)'
-        description_youtube: 'Versunkene Schatztruhen gefüllt mit Gold, Perlen
-            und Juwelen - der klassische Piratenschatz. Auch heute noch sind
-            Menschen auf der Suche nach der kostbaren Fracht von Schiffen.
-            Ihre Suche aber gehen die modernen Schatzjäger mit High-Tech an.
-
-            Im Jahre 1715 durchquerte eine ganze Flotte spanischer Schiffe
-            die Küstengewässer Floridas - beladen mit Gold und Juwelen für
-            die Braut des Königs. Doch die Schiffe sollten ihr Ziel niemals
-            erreichen: In einem schweren Sturm zerschellten sie an den Riffen
-            vor der Küste. Noch heute liegen einige der Wracks unentdeckt
-            auf dem Meeresgrund. Sie zu finden ist der Traum von Mo Molinar
-            und seiner Crew. Bereits seit über 30 Jahren ist Schatzjäger sein
-            Beruf. In akribischer Recherchearbeit berechnet das Team die potentielle
-            Lage des Wracks. Erst dann sticht es in See. An Bord befindet
-            sich eine ganze Reihe hochtechnisierter Gerätschaften: Ein Peilungsgerät,
-            das die Magnetfelder auf dem Meeresgrund misst und eisenhaltige
-            Gegenstände wie Schiffsanker oder Kanonen aufspüren soll.
-
-            „360° - Die GEO-Reportage“ taucht ein in die Welt moderner Schatzjäger,
-            die versuchen, versunkene Kostbarkeiten zu heben.'
+        summary: Moderne Schatzjäger suchen mit High-Tech-Geräten nach versunkenen
+            Schätzen. Ein Beispiel ist Mo Molinar und seine Crew, die seit
+            über 30 Jahren als Schatzjäger arbeiten. Sie sind auf der Suche
+            nach den Wracks spanischer Schiffe, die 1715 vor der Küste Floridas
+            gesunken sind. Mit akribischer Recherche und hochtechnisierten
+            Geräten wie einem Peilungsgerät, das Magnetfelder misst, suchen
+            sie nach eisenhaltigen Gegenständen wie Schiffsankern und Kanonen,
+            um die potenzielle Lage der Wracks zu ermitteln.
         director: Wayne Derrick
         air_date: '2000-03-08'
         duration: 26
@@ -2529,10 +2503,10 @@ seasons:
         title: Im Bann der Rubine
         topic: Die Schatzjäger
         continent: Asien
-        location_wikidata: Q475281
+        location_wikidata: Q1015899
         coordinates:
-        - 12.579916666667
-        - 102.52513888889
+        - 12.608611111111
+        - 102.10388888889
         description: 'Die Dörfer sind verlassen, die Straßen lebensgefährlich.
             Nur Juwelen-Händler sind hier noch unterwegs. Im Niemandsland
             zwischen Thailand und Kambodscha suchen sie den Stein der Steine
@@ -2558,36 +2532,16 @@ seasons:
 
             „360° - Die GEO-Reportage“ begleitet Händler und Minenarbeiter,
             die von der lebensgefährlichen Jagd nach Rubinen leben.'
-        description_fernsehserien: 'Moderne Schatzsucher sind immer auf der
-            Suche nach etwas Einzigartigem. Im Niemandsland zwischen Thailand
-            und Kambodscha suchen Juwelenhändler nach Rubinen. Tag für Tag
-            riskieren Minenarbeiter ihr Leben in einem Gebiet, das von Landminen
-            verseucht ist. (Text: Discovery Channel)'
-        description_youtube: 'Die Dörfer sind verlassen, die Straßen lebensgefährlich.
-            Nur Juwelen-Händler sind hier noch unterwegs. Im Niemandsland
-            zwischen Thailand und Kambodscha suchen sie den Stein der Steine
-            - den Rubin.
-
-            Lange Zeit galt das thailändische Chantaburi weltweit als Zentrum
-            des Rubin-Handels. Doch heute sind die traditionellen Minen Thailands
-            ausgelaugt. Die glitzernden Steine, die das Leben im nahegelegenen
-            Minen-Ort Bo Rai und Umgebung jahrhundertelang beherrschten, sind
-            nun so selten geworden, dass die Marktstraßen oft wie leergefegt
-            sind. Auch für die weiterverarbeitende Industrie der umliegenden
-            Orte, kommt diese Entwicklung einer Katastrophe gleich. Die wenigen
-            Rubine, die noch gefördert werden können, sind meist von so schlechter
-            Qualität, dass sie nur noch zu Kilopreisen verkaufen werden können.
-            Händler wie Sanga Duangprapai sehen sich dadurch inzwischen gezwungen,
-            täglich die gefährliche Reise in das 50 km entfernte Kambodscha
-            auf sich zu nehmen, um noch kostbare Edelsteine erwerben zu können.
-            Die kambodschanische Handelsstadt Pailin stand jahrelang unter
-            der Herrschaft der Roten Khmer und die Wege hierher sind extrem
-            unsicher. Das Umland ist von Landminen verseucht, und so findet
-            mancher Händler oder Minenarbeiter auf der Suche nach dem perfekten
-            Stein den Tod.
-
-            „360° - Die GEO-Reportage“ begleitet Händler und Minenarbeiter,
-            die von der lebensgefährlichen Jagd nach Rubinen leben.'
+        summary: Die Dörfer sind verlassen und die Straßen gefährlich. Nur
+            Juwelenhändler suchen im Niemandsland zwischen Thailand und Kambodscha
+            nach Rubinen. Chantaburi in Thailand war einst das Zentrum des
+            Rubinhandels, aber die Minen sind erschöpft. Die wenigen verbliebenen
+            Rubine sind von schlechter Qualität und müssen zu niedrigen Preisen
+            verkauft werden. Händler wie Sanga Duangprapai müssen nun täglich
+            nach Kambodscha reisen, um Edelsteine zu erwerben. Pailin, die
+            Handelsstadt in Kambodscha, ist unsicher aufgrund der Roten Khmer
+            und Landminen. Viele Händler und Minenarbeiter sterben auf der
+            Suche nach dem perfekten Stein.
         director: Wayne Derrick
         air_date: '2000-03-09'
         duration: 26
@@ -2603,6 +2557,11 @@ seasons:
         episode_no: 13
         title: Die Klinik der Schamanen
         topic: Medizin der Zukunft
+        continent: Asien
+        location_wikidata: Q6049
+        coordinates:
+        - 51.716666666667
+        - 94.45
         description: 'Um die Geister der sibirischen Steppe gut zu stimmen,
             bedarf es Tanz und Gesang, viel Trommeln und eine symbolische
             Mahlzeit. Der Schamane Nikolai Orschak ist auf das Wohlwollen
@@ -2625,33 +2584,17 @@ seasons:
 
             „360° - Die GEO-Reportage“ erkundet die traditionellen Heilkünste
             der sibirischen Schamanen und analysiert deren Wirkung.'
-        description_fernsehserien: 'Schamanen finden die Ursachen für Krankheiten
-            in den Seelen ihrer Patienten. Nikolai Orschak leitet eine Schamanenklinik
-            in Sibirien. Für die Menschen in Tuwa ist er Heilpraktiker, Psychotherapeut
-            und Seelsorger in einem. Die Dokumentation analysiert die Heilkünste
-            des sibirischen Schamanen. (Text: Discovery Channel)'
-        description_youtube: 'Um die Geister der sibirischen Steppe gut zu
-            stimmen, bedarf es Tanz und Gesang, viel Trommeln und eine symbolische
-            Mahlzeit. Der Schamane Nikolai Orschak ist auf das Wohlwollen
-            der Geister angewiesen. Er braucht ihre spirituelle Kraft, um
-            anderen Menschen zu helfen.
-
-            Genau am Mittelpunkt Asiens liegt die Republik Tuwa. Hier, in
-            der Hauptstadt Kyzyl, befindet sich ein Krankenhaus der besonderen
-            Art: eine Schamanenklinik. Geleitet wird sie von Nikolai Orschak.
-            Für die Menschen in Tuwa ist er Heilpraktiker, Psychotherapeut
-            und Seelsorger in einem. Die Ursache für Krankheiten findet er
-            hier: in der Seele des Menschen.
-
-            Die Wirkung der traditionellen Behandlungen hat inzwischen auch
-            das Interesse der westlichen Medizin geweckt. Die Wissenschaftler
-            an der Uni Gießen erforschen veränderte Bewusstseinszustände,
-            wie sie die Schamanen erleben. Außerhalb der Wissenschaft hat
-            der Schamanismus schon längst Einzug in die westliche Welt gehalten.
-            In Wien praktizieren Neo-Schamanen zum Teil schon seit 20 Jahren.
-
-            „360° - Die GEO-Reportage“ erkundet die traditionellen Heilkünste
-            der sibirischen Schamanen und analysiert deren Wirkung.'
+        summary: In Tuwa, einer Republik im Herzen Asiens, leitet der Schamane
+            Nikolai Orschak eine einzigartige Schamanenklinik in der Hauptstadt
+            Kyzyl. Durch Tanz, Gesang, Trommeln und eine symbolische Mahlzeit
+            versucht er, die Geister der sibirischen Steppe zu besänftigen
+            und ihre spirituelle Kraft zu nutzen, um anderen zu helfen. Die
+            Klinik behandelt die Ursachen von Krankheiten in der menschlichen
+            Seele. Die Wirksamkeit der traditionellen Behandlungen hat auch
+            das Interesse der westlichen Medizin geweckt, wobei Wissenschaftler
+            der Universität Gießen veränderte Bewusstseinszustände erforschen,
+            wie sie von Schamanen erlebt werden. In Wien praktizieren bereits
+            seit 20 Jahren Neo-Schamanen.
         director: Ute Gebhardt
         air_date: '2000-05-01'
         duration: 26
@@ -2688,32 +2631,17 @@ seasons:
             „360° - Die GEO-Reportage“ berichtet über die Erfolge der Wissenschaftler
             auf dem Gebiet der Organzüchtung und beobachtet die Transplantation
             körpereigener Hautzellen aus dem Hightech-Labor.'
-        description_fernsehserien: 'Die Züchtung menschlicher Haut ist in
-            der modernen Heilkunde bereits möglich, Ohr- und Gelenkknorpel
-            werden bald folgen. Selbst innere Organe sollen sich eines Tages
-            züchten lassen. Viele Kranke hoffen, durch diese Fortschritte
-            bald ein besseres Leben zu führen. (Text: Discovery Channel)'
-        description_youtube: 'Der 17-jährige Christoph Bast hat keinen Darm
-            - seit seiner Kindheit braucht er zum Überleben tägliche Nährstoffinfusionen
-            direkt ins Herz.
-
-            Christoph Bast hatte eine Darmverschlingung, als er zwei Jahre
-            alt war. Er lebt von täglichen Nährstoffinfusionen, die der 17-jährige
-            sich über einen Herzkatheter selbst zuführt. Christoph hofft,
-            dass es Wissenschaftlern eines Tages gelingt, körpereigene Darmzellen
-            zu züchten. Dem Archäologie-Student Markus Klein dagegen konnte
-            bereits geholfen werden. Seit seiner Kindheit leidet er an Diabetes.
-            Damit hatte er sich abgefunden, doch dann brachen vor einigen
-            Jahren Wunden an seinen Füßen auf, die nicht mehr verheilten.
-            Keines der konventionellen und alternativen Heilmittel, die er
-            benutzte, konnte ihm helfen. Dennoch konnte bei Markus Klein das
-            Schlimmste verhindert werden: durch die Nachzüchtung und Transplantation
-            seiner eigenen Haut. „Tissue Engineering“ nennt man diese Zucht
-            menschlichen Gewebes.
-
-            „360° - Die GEO-Reportage“ berichtet über die Erfolge der Wissenschaftler
-            auf dem Gebiet der Organzüchtung und beobachtet die Transplantation
-            körpereigener Hautzellen aus dem Hightech-Labor.'
+        summary: Der 17-jährige Christoph Bast benötigt tägliche Nährstoffinfusionen
+            ins Herz, da er seit seiner Kindheit keinen Darm hat. Er hofft
+            darauf, dass Wissenschaftler in der Lage sein werden, körpereigene
+            Darmzellen heranzuzüchten. Markus Klein, ein Archäologie-Student,
+            litt seit seiner Kindheit an Diabetes. Vor einigen Jahren entwickelten
+            sich jedoch nicht heilende Wunden an seinen Füßen. Weder konventionelle
+            noch alternative Behandlungsmethoden halfen. Glücklicherweise
+            konnte bei Markus die Nachzüchtung und Transplantation seiner
+            eigenen Haut das Schlimmste verhindern. Dieses Verfahren wird
+            als „Tissue Engineering“ bezeichnet und ermöglicht das Züchten
+            von menschlichem Gewebe.
         director: Helge Cramer
         air_date: '2000-05-02'
         duration: 26
@@ -2729,6 +2657,10 @@ seasons:
         episode_no: 15
         title: Die Jäger des Lassa-Virus
         topic: Medizin der Zukunft
+        location_wikidata: Q1006
+        coordinates:
+        - 10
+        - -11
         description: 'Der Mediziner Dr. Jan ter Meulen vom Bernhard-Nocht-Institut
             in Hamburg arbeitet in Guinea mit einer Gruppe einheimischer Wissenschaftler
             an der Erforschung des Lassa-Fiebers. Für ihn sind Fälle wie der
@@ -2747,30 +2679,18 @@ seasons:
             „360° - Die GEO-Reportage“ begleitet den engagierten Mediziner
             Dr. Jan ter Meulen und sein guineisches Wissenschaftlerteam bei
             ihrem Kampf gegen das Lassa-Virus.'
-        description_fernsehserien: 'Pro Jahr sterben mehr als 22.000 Menschen
-            am Lassa-Fieber. In Deutschland erlangte die Krankheit durch den
-            Tod der Kunststudentin Annegret V. traurige Berühmtheit. Der Mediziner
-            Jan ter Meulen vom Bernhard-Nocht-Institut in Hamburg arbeitet
-            in Guinea an der Erforschung der Tropenkrankheit. (Text: Discovery
-            Channel)'
-        description_youtube: 'Der Mediziner Dr. Jan ter Meulen vom Bernhard-Nocht-Institut
-            in Hamburg arbeitet in Guinea mit einer Gruppe einheimischer Wissenschaftler
-            an der Erforschung des Lassa-Fiebers. Für ihn sind Fälle wie der
-            von Annegret V. tragische Einzelschicksale. Seiner Ansicht nach
-            besteht keine Gefahr für die Menschen der ersten Welt. Lassa wird
-            von kleinen Ratten der Art Mastomys natalensis verbreitet, die
-            die Viren im Urin und anderen Körperflüssigkeiten ausscheiden.
-            Nur wenn diese Nager als Erregerreservoir in Europa heimisch würden
-            und man grundlegende Hygiene-Maßnahmen missachtete, gäbe es eine
-            ernstzunehmende Bedrohung. Das gesteigerte Medieninteresse könnte
-            jedoch einen positiven Nebeneffekt haben: die Erforschung von
-            Tropenkrankheiten wurde über Jahrzehnte vernachlässigt, erst allmählich
-            wird die Bedeutung von Forschungsprojekten wie dem von ter Meulen
-            bewusst.
-
-            „360° - Die GEO-Reportage“ begleitet den engagierten Mediziner
-            Dr. Jan ter Meulen und sein guineisches Wissenschaftlerteam bei
-            ihrem Kampf gegen das Lassa-Virus.'
+        summary: Dr. Jan ter Meulen, ein Mediziner vom Bernhard-Nocht-Institut
+            in Hamburg, forscht zusammen mit einheimischen Wissenschaftlern
+            in Guinea zum Lassa-Fieber. Er betrachtet Fälle wie den von Annegret
+            V. als tragische Einzelschicksale und glaubt, dass es keine Gefahr
+            für Menschen in der Ersten Welt gibt. Das Lassa-Fieber wird von
+            Mastomys natalensis, einer kleinen Rattenart, verbreitet, die
+            das Virus im Urin und anderen Körperflüssigkeiten ausscheidet.
+            Nur wenn diese Ratten in Europa als Erregerreservoir etabliert
+            würden und grundlegende Hygienemaßnahmen vernachlässigt würden,
+            gäbe es eine ernsthafte Bedrohung. Das gesteigerte Medieninteresse
+            könnte jedoch dazu führen, dass die Erforschung von Tropenkrankheiten
+            mehr Beachtung findet.
         director: Dietrich von Ruffer
         air_date: '2000-05-03'
         duration: 26
@@ -2786,6 +2706,10 @@ seasons:
         episode_no: 16
         title: Chirurgen am Joystick
         topic: Medizin der Zukunft
+        location_wikidata: Q2172279
+        coordinates:
+        - 52.543554
+        - 13.347971
         description: 'Im Operationssaal ist Präzision ein Muss - immer häufiger
             übernehmen daher stählerne Profis das Skalpell: Roboter im OP
             assistieren in der Orthopädie und bei Herzoperationen und sollen
@@ -2808,33 +2732,16 @@ seasons:
 
             „360° - Die GEO-Reportage“ beobachtet Roboter bei der Arbeit und
             besucht die Operationssäle der Zukunft.'
-        description_fernsehserien: 'Immer mehr Ärzte setzten auf High-Tech-Medizin.
-            Sie vertrauen auf Computergesteuerte Geräte, die punktgenau eingesetzt
-            werden können. Die Dokumentation beobachtet einige dieser medizinischen
-            Roboter bei der Arbeit und besucht die Operationssäle der Zukunft.
-            (Text: Discovery Channel)'
-        description_youtube: 'Im Operationssaal ist Präzision ein Muss - immer
-            häufiger übernehmen daher stählerne Profis das Skalpell: Roboter
-            im OP assistieren in der Orthopädie und bei Herzoperationen und
-            sollen schon bald bei komplizierten Eingriffen am Gehirn eingesetzt
-            werden. Wo können sie dem Chirurgen helfen - wo ihn möglicherweise
-            sogar verdrängen?
-
-            Das Virchow-Klinikum in Berlin hat ihn: den ersten Roboter für
-            Mund-, Kiefer- und Gesichtschirurgie, genannt „Otto von Decke“.
-            Er kann nicht nur dem Arzt Instrumente zureichen, sondern führt
-            auch Bohrungen am Knochen durch. Überlegen ist er dem Chirurg
-            vor allem durch seine Genauigkeit. Der Erfinder und Entwickler
-            von Otto ist Tim Lüth. Der 33-jährige ist Deutschlands erster
-            Professor für High-Tech-Medizin. Mit einem Team von Maschinenbauern
-            und der Beratung mit Ärzten gelang es ihm, einen Roboter zu entwickeln,
-            der sowohl Techniker als auch Mediziner zufrieden stellt. Bis
-            jetzt nutzt man Roboter in der Medizin fast ausschließlich bei
-            orthopädischen Eingriffen. Die komplexen Maschinen werden jedoch
-            stetig weiterentwickelt.
-
-            „360° - Die GEO-Reportage“ beobachtet Roboter bei der Arbeit und
-            besucht die Operationssäle der Zukunft.'
+        summary: Im OP-Saal sind Roboter auf dem Vormarsch. Sie assistieren
+            bei Orthopädie und Herzoperationen und sollen bald auch im Gehirn
+            eingesetzt werden. Das Virchow-Klinikum in Berlin hat den ersten
+            Roboter für Mund-, Kiefer- und Gesichtschirurgie namens „Otto
+            von Decke“. Otto kann Instrumente reichen und Knochenbohrungen
+            durchführen. Er übertrifft den Chirurgen vor allem durch seine
+            Genauigkeit. Tim Lüth, Deutschlands erster Professor für High-Tech-Medizin,
+            hat Otto entwickelt. Bislang werden Roboter hauptsächlich in der
+            Orthopädie eingesetzt, aber ihre Anwendung wird kontinuierlich
+            erweitert.
         director: Achim Kampmann
         air_date: '2000-05-04'
         duration: 26
@@ -2850,6 +2757,10 @@ seasons:
         episode_no: 17
         title: Die Hightech-Polizei
         topic: Dem Täter auf der Spur
+        location_wikidata: Q16552
+        coordinates:
+        - 32.715
+        - -117.1625
         description: 'Wie sieht der Polizist des 21. Jahrhunderts aus? Der
             Cop der Zukunft wird bereits im Voraus einen möglichen Angreifer
             mit Wärmekameras entdecken können, ihn dann mit ausgeklügelten
@@ -2871,33 +2782,16 @@ seasons:
             „360° - Die GEO-Reportage“ geht mit den Cops der Zukunft auf Streife
             und stellt die Frage, ob die neuen Technologien nur Segen oder
             auch Fluch sein können.'
-        description_fernsehserien: 'Der Cop der Zukunft könnte einen möglichen
-            Angreifer bereits im Voraus mit Wärmekameras entdecken und ihn
-            per Computer-Erkennungssystemen identifizieren. In den USA sind
-            solche Ermittlungsmethoden schon fast Realität. Bereits heute
-            ist bei der Polizei modernste Technologie im Einsatz. (Text: Discovery
-            Geschichte)'
-        description_youtube: 'Wie sieht der Polizist des 21. Jahrhunderts
-            aus? Der Cop der Zukunft wird bereits im Voraus einen möglichen
-            Angreifer mit Wärmekameras entdecken können, ihn dann mit ausgeklügelten
-            Computer-Erkennungssystemen identifizieren, um ihn schließlich
-            mit nicht-tödlichen Schusswaffen außer Gefecht zu setzen.
-
-            Für viele seiner Kollegen ist David Boyd vom amerikanischen „National
-            Institute of Justice“ eine jüngere Ausgabe von Q, liebenswerter
-            Erfinder aus den James Bond Filmen: Auch Boyd wird nicht müde,
-            immer neue Technologien zu entwickeln und aufzuspüren. Sein Ziel
-            ist es, die tägliche Arbeit der Polizei effektiver und sicherer
-            zu machen. Bereits heute sind an der Grenze zu Mexiko in San Diego
-            viele dieser Technologien im Einsatz. Doch auch andere Techniken
-            werden ständig weiterentwickelt. DNA-Proben sollen schon bald
-            direkt am Tatort untersucht werden können. Auf dem Gebiet der
-            Schusswaffen setzen die Konstrukteure der amerikanischen Polizei
-            auf die Entwicklung von nicht-tödlichen Waffen.
-
-            „360° - Die GEO-Reportage“ geht mit den Cops der Zukunft auf Streife
-            und stellt die Frage, ob die neuen Technologien nur Segen oder
-            auch Fluch sein können.'
+        summary: Der Polizist des 21. Jahrhunderts ist mit fortschrittlichen
+            Technologien ausgestattet, um potenzielle Angreifer frühzeitig
+            zu entdecken. Mithilfe von Wärmekameras kann er sie identifizieren
+            und mit nicht-tödlichen Schusswaffen außer Gefecht setzen. David
+            Boyd vom „National Institute of Justice“ entwickelt kontinuierlich
+            neue Technologien, um die Arbeit der Polizei effektiver und sicherer
+            zu machen. An der Grenze zu Mexiko in San Diego werden bereits
+            viele dieser Technologien eingesetzt, darunter auch die direkte
+            Untersuchung von DNA-Proben am Tatort. Die amerikanische Polizei
+            forscht zudem an nicht-tödlichen Waffen.
         director: Nicolas Brown
         air_date: '2000-06-05'
         duration: 26
@@ -2936,34 +2830,16 @@ seasons:
             „360° - Die GEO-Reportage“ ergründet die Machenschaften eines
             Fälscherpaares und zeigt, wie bereitwillig sich die weltweite
             Kunstszene täuschen lässt.'
-        description_fernsehserien: '„360° - Die Geo-Reportage“ erzählt die
-            Geschichte des Kunstfälscherpaares John Drewe und John Myatt und
-            zeigt, wie bereitwillig sich die weltweite Kunstszene täuschen
-            ließ. Selbst renommierte Auktionshändler wie „Christie’s and Sotheby’s“
-            glaubten an die Echtheit der Fälschungen. (Text: Arte)'
-        description_youtube: 'Der größte Skandal in der Geschichte des Kunstmarktes
-            begann mit einer harmlosen Anzeige in einer britischen Satire-Zeitschrift:
-            „Authentische Fälschungen (19. und 20. Jahrhundert) für 150 Pfund“.
-            Durch den Verkauf von kopierten Kunstwerken wollte der Kunstlehrer
-            John Myatt seine finanzielle Misere eindämmen. Doch wurde der
-            wohl genialste Hochstapler der Kunstszene, John Drewe, auf ihn
-            aufmerksam und witterte das große Geschäft ...
-
-            Fast ein Jahrzehnt lang konnte der so genannte „Puppetmaster“
-            John Drewe seiner Marionette John Myatt Fälschungen berühmter
-            Kunstwerke aus dem Pinsel locken, darunter Kopien von John Dubuffet
-            und Graham Sutherland. Drewe verkaufte diese an private Sammler,
-            die horrende Preise zahlten. Doch dieser Verkauf reichte dem Kenner
-            der Kunstszene bald nicht mehr aus: Als Kunsthistoriker getarnt
-            manipulierte der brillante Kopf Kataloge in den Archiven der Tate
-            Gallery und des Victoria & Albert Museums und verschaffte so Myatts
-            „Meisterwerken“ ein gefälschtes Vorleben. Erst dank eines Zufalls
-            konnte Scotland Yard den größten Betrug der britischen Kunstgeschichte
-            aufdecken.
-
-            „360° - Die GEO-Reportage“ ergründet die Machenschaften eines
-            Fälscherpaares und zeigt, wie bereitwillig sich die weltweite
-            Kunstszene täuschen lässt.'
+        summary: 'Der größte Skandal in der Kunstgeschichte begann mit einer
+            Anzeige: „Authentische Fälschungen (19. und 20. Jahrhundert) für
+            150 Pfund“. John Myatt, ein Kunstlehrer in finanzieller Notlage,
+            verkaufte kopierte Kunstwerke. John Drewe, ein genialer Hochstapler,
+            wurde auf ihn aufmerksam und sah eine Chance. Über Jahre hinweg
+            überzeugte Drewe Myatt, berühmte Kunstwerke zu fälschen. Er verkaufte
+            sie zu hohen Preisen an Sammler und manipulierte als Kunsthistoriker
+            die Archive der Tate Gallery und des Victoria & Albert Museums,
+            um Myatts Werken eine gefälschte Geschichte zu verleihen. Scotland
+            Yard deckte den Betrug schließlich auf.'
         director: Michael Hutchinson
         air_date: '2000-06-06'
         duration: 26
