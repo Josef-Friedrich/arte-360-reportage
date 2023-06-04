@@ -795,13 +795,14 @@
 | EA = 2001-04-09
 | ZF = In der Schweiz wird seit 1995 der längste Eisenbahntunnel der Welt am Gotthard-Massiv gebaut. Die 57 Kilometer lange Strecke durch die Alpen wird die Reisezeit zwischen Zürich und Mailand von fünf auf zweieinhalb Stunden verkürzen. Spezialisten aus der ganzen Welt arbeiten an diesem gigantischen Projekt, bei dem tausende Menschen Meter um Meter aus dem Berg herausholen, um den ehrgeizigen Gotthard-Basistunnel zu verwirklichen. Maschinen fressen sich an den Eingängen des Tunnels in den Fels, während 24 Millionen Tonnen Abraum anfallen. Der Urner See wird mit dem Abraum aufgefüllt, um das ökologische Gleichgewicht wiederherzustellen. Der erste Hochgeschwindigkeitszug soll 2017 durch den Tunnel fahren - eine nur 16 Minuten lange Fahrt für 57 Kilometer.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 86
 | NR_ST = 10
 | OT = Brücke in den Orient<ref>Internetquellen zur Episode ''„Brücke in den Orient“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/86-bruecke-in-den-orient-339368 86] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/86-bruecke-in-den-orient-339368 339368], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641944 S03E10] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641944 4641944], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007042 tt1007042], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=X_u4jC40L_Q X_u4jC40L_Q]</ref>
 | Feld1 = -
 | REG = Achim Kampmann
 | EA = 2001-04-10
+| ZF = Istanbul, eine Metropole zwischen Europa und Asien, plant den Bau einer dritten Brücke über den Bosporus, um den chronischen Verkehrsstau zu lindern. Die bestehenden Brücken führen täglich zu massiven Staus, aber viele Einwohner bevorzugen die höhere Lebensqualität auf der asiatischen Seite der Stadt. Die Stadtverwaltung hat versucht, flexiblere Arbeitszeiten einzuführen, um das Verkehrsproblem anzugehen, jedoch ohne Erfolg. Ein erfahrener Bauingenieur namens Celalettin Dursun, der an den bisherigen Brücken beteiligt war, arbeitet auch am Bau der geplanten dritten Brücke. Aufgrund häufiger Erdbeben ist ein Tunnelbau keine realistische Alternative.
 }}
 {{Episodenlisteneintrag2
 | NR_GES = 87
@@ -821,53 +822,59 @@
 | EA = 2001-04-12
 | ZF = Die Haenyo auf der südkoreanischen Insel Jeju-do sind Meeresfrauen, die bis zu 3 Minuten ohne Atemgerät tauchen können. Sie suchen nach Muscheln und anderen Meeresfrüchten in bis zu 20 Metern Tiefe. Dieser 1500 Jahre alte Beruf wird immer unbeliebter, besonders bei jungen Frauen. Obwohl die Haenyo traditionell die Familie ernähren, hat sich ihre Zahl seit 1950 halbiert. Die Taucherinnen verbringen täglich rund 4 Stunden im kalten Wasser mit Temperaturen um die 8 Grad. Trotz der Anstrengungen, Gefahren und Haiattacken nehmen sie gesundheitliche Risiken auf sich, da die gesammelten Meeresfrüchte einen hohen Marktpreis erzielen. Die noch aktiven Haenyo könnten die letzten ihrer Art sein.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 89
 | NR_ST = 13
 | OT = Anatomie einer Lawine<ref>Internetquellen zur Episode ''„Anatomie einer Lawine“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/89-anatomie-einer-lawine-339407 89] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/89-anatomie-einer-lawine-339407 339407], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641947 S03E13] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641947 4641947], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007041 tt1007041], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=q9NdtLN4tHo q9NdtLN4tHo]</ref>
 | Feld1 = -
 | REG = Peter-Hugo Scholz
 | EA = 2001-04-30
+| ZF = Schweizer Forscher des Eidgenössischen Instituts für Schnee- und Lawinenforschung in Davos arbeiten daran, die Gefahr von Schneelawinen in den Alpen vorherzusagen. Oftmals sind Unwissenheit und Leichtsinn Auslöser dieser Naturgefahren. Werner Munter und sein Team entwickeln Konzepte zur Lawinenprognose und testen verschiedene Rettungsgeräte wie den Lawinenairbag und den Piepser zur Ortung von Verschütteten. Nur 6 von 100 Menschen überleben Lawinenunfälle, daher sind präventive Schutzmaßnahmen von großer Bedeutung.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 90
 | NR_ST = 14
 | OT = Die Erbin Gandhis<ref>Internetquellen zur Episode ''„Die Erbin Gandhis“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/90-die-erbin-gandhis-widerstand-gegen-einen-staudamm-339408 90] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/90-die-erbin-gandhis-widerstand-gegen-einen-staudamm-339408 339408], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641948 S03E14] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641948 4641948], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007047 tt1007047], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=qoO1ZxQk_iQ qoO1ZxQk_iQ]</ref>
 | Feld1 = -
 | REG = Walter Tauber
 | EA = 2001-05-01
+| ZF = Der Sardar Sarovar Damm, Indiens größte Staumauer, wird um über hundert Meter erhöht. Dies führt jedoch zum Verlust von Lebensraum entlang des Narmada-Flusses. Die Menschen im Narmadatal weigern sich zu gehen und ziehen es vor, im Wasser des Flusses zu ertrinken. Zahlreiche Bauern haben sich der Organisation NBA angeschlossen, die gegen das Stauprojekt kämpft. Der Staudamm wächst täglich, während das Land und die Ressourcen verschwinden. Die Abholzung aller Bäume vor der Flut nimmt den Adivasi, den Ureinwohnern Indiens, ihre wichtigste Lebensgrundlage. Die Regierung bezeichnet die Umsiedlung als „Rehabilitation“, aber die Menschen betrachten sich nur als Vertriebene.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 91
 | NR_ST = 15
 | OT = Die Spur der Wüstenkrokodile<ref>Internetquellen zur Episode ''„Die Spur der Wüstenkrokodile“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/91-die-spur-der-wuestenkrokodile-339409 91] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/91-die-spur-der-wuestenkrokodile-339409 339409], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641949 S03E15] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641949 4641949], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007050 tt1007050], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=MFuattuR9DA MFuattuR9DA]</ref>
 | Feld1 = -
 | REG = Stephan Schmitz-Hertzberg, Tom Synnatzschke
 | EA = 2001-05-02
+| ZF = In der Sahara in Mauretanien wurden Wüstenkrokodile entdeckt, die seit Jahrzehnten als ausgestorben galten. Tara Shine, eine Umweltpädagogin, entdeckte sie im Winter 2000 in der mauretanischen Wüste. Sie informierte eine Gruppe von Wissenschaftlern, darunter der Biologe Hemmo Nickel vom Alexander-Koenig-Museum in Bonn. Gemeinsam erforschen sie nun das Verhalten dieser ungewöhnlichen Wüstenbewohner. Die Tiere werden mit Sendern ausgestattet, um ihren Aufenthaltsort genau zu verfolgen. Obwohl ihre Population klein ist, haben sie gute Überlebenschancen, obwohl Mensch und Reptil um begrenzte Wasserressourcen konkurrieren.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 92
 | NR_ST = 16
 | OT = Invasion der Biber<ref>Internetquellen zur Episode ''„Invasion der Biber“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/92-invasion-der-biber-339410 92] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/92-invasion-der-biber-339410 339410], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641950 S03E16] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641950 4641950], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007054 tt1007054], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=1lZYASab-T4 1lZYASab-T4]</ref>
 | Feld1 = -
 | REG = Manfred Christ
 | EA = 2001-05-03
+| ZF = In den siebziger Jahren verschwanden Biber aus großen Teilen Europas, wurden dann aber wieder eingeführt. Heute gibt es etwa 1200 Biber in der Nähe von Wien, die alle von einer ausgesetzten Population von 42 Tieren stammen. Die österreichische Zoologin Johanna Sieber begleitet die Biber wissenschaftlich und setzt sich als ihre wichtigste Fürsprecherin ein. Sie fängt und markiert die Tiere und siedelt Problemfälle um, um die Sorgen der Waldbesitzer zu lindern. Begegnungen zwischen Mensch und Tier sind selten, aber der Biberexperte Tomaš Hulik aus Bratislava hat das Vertrauen der Tiere gewonnen. Es bleibt jedoch fraglich, ob es gelingt, den Lebensraum mit den Bibern zu teilen.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 93
 | NR_ST = 17
 | OT = Kumbh Mela - Das größte Fest der Welt<ref>Internetquellen zur Episode ''„Kumbh Mela - Das größte Fest der Welt“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/93-kumbh-mela-das-groesste-fest-der-welt-339411 93] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/93-kumbh-mela-das-groesste-fest-der-welt-339411 339411], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641951 S03E17] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641951 4641951], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007055 tt1007055], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=GygKg1HaK3U GygKg1HaK3U]</ref>
 | Feld1 = -
 | REG = Marc O. Eberle
 | EA = 2001-06-04
+| ZF = Das Maha Kumbh Mela, ein religiöses Fest in Nordindien, findet alle 12 Jahre statt. Innerhalb von zwei Monaten reisen 70 Millionen Menschen zu einer Flusskreuzung, um im heiligen Wasser des Ganges zu baden. Alok Sharma, ein 35-jähriger Mann, überblickt die Menschenmenge von seinem Pferd aus und koordiniert die 20.000 Polizisten, die für Sicherheit sorgen. Die Sterne stehen seit 144 Jahren günstig, und das Flusswasser gilt drei Tage lang als besonders heilig. Am heiligsten ist der Tag des Neumonds, an dem alle zur Flusskreuzung strömen, die nur wenig größer als ein Schwimmbecken ist. Sharma entscheidet, wer wann baden darf, um Massenpaniken zu vermeiden.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 94
 | NR_ST = 18
 | OT = Buzkashi - Spiel der Steppenreiter<ref>Internetquellen zur Episode ''„Buzkashi - Spiel der Steppenreiter“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/94-buzkashi-spiel-der-steppenreiter-339413 94] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/94-buzkashi-spiel-der-steppenreiter-339413 339413], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641952 S03E18] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641952 4641952], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007043 tt1007043], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=6PKOPZ6vHfw 6PKOPZ6vHfw]</ref>
 | Feld1 = -
 | REG = Svea Andersson
 | EA = 2001-06-05
+| ZF = Die Tchovandoz sind mutige Reiter mit einer alten Erbschaft - dem Buzkashi-Spiel. Umaralli Haidarovitch, ein Lehrer und Bauer, ist der geschickteste Kämpfer in Tadschikistan. Vermummte Männer nähern sich mit nervösen Pferden und einer enthaupteten Ziege. Der Kreis schließt sich um den Kadaver, Staub wirbelt auf. Umaralli versucht im Galopp die Ziege zu ergreifen, während er von allen Seiten angegriffen wird. Seine Söhne trainieren ebenfalls, um Tchovandoz zu werden.
 }}
 {{Episodenlisteneintrag
 | NR_GES = 95
