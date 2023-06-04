@@ -3688,50 +3688,6 @@ seasons:
 
             „360° - Die GEO Reportage“ schildert die eindrucksvollen Einsatzmöglichkeiten
             unseres liebsten Haustieres.'
-        description_fernsehserien: 'Die Beziehung zwischen Mensch und Hund
-            basiert vor allem auf Vertrautheit und Loyalität. Hunde sind heute
-            viel mehr als Weggefährten des Menschen. Blindenhunde sind wahrscheinlich
-            die bekanntesten Diensthunde. Aber mittlerweile werden Hunde auch
-            als Betreuer für gehörlose Menschen, Körperbehinderte und Epileptiker
-            eingesetzt und verbessern die Lebensbedingungen der betroffenen
-            Besitzer ganz entscheidend. Chris Marshall verlor als Kind sein
-            Gehör und kann lediglich sehr tiefe oder laute Frequenzen wahrnehmen.
-            Durch den Begleithund Dizzy hat sich sein Leben verändert. Die
-            Verständigung zwischen Chris und Dizzy erfolgt über trainierte
-            Zeichen. Die Idee, dass Hunde nicht nur blinden Menschen helfen
-            können, stammt aus den USA und wurde Mitte der 80er Jahre auch
-            in Europa umgesetzt.
-
-            Die Ausbildungsmethoden ähneln sich für alle Arten von Begleithunden:
-            Wiederholung und Belohnung sind die wichtigsten Grundlagen. Trainiert
-            werden zuerst einfache Kommandos. Später werden diese zu komplexen
-            Aufgaben zusammengesetzt. Die Entscheidung, ob ein Hund für eine
-            Ausbildung als Begleittier geeignet ist, fällt bereits im Welpenalter.
-            Außer der körperlichen Verfassung spielen Charakter und Temperament
-            des Tieres entscheidende Rollen. Hunde lernen selbst kleinste
-            Veränderungen im Verhalten eines Menschen zu registrieren, wie
-            erweiterte Pupillen, ein Zucken der Finger oder andere typische
-            Merkmale, die zum Beispiel einem epileptischen Anfall vorausgehen.
-            (Text: Arte)'
-        description_youtube: 'Man sagt, der beste Freund des Menschen sei
-            der Hund. Hunde sind heute viel mehr als Weggefährten des Menschen.
-            So gibt es spezielle Ausbildungsprogramme, um die Vierbeiner als
-            Betreuer für Behinderte fit zu machen.
-
-            Blindenhunde sind wahrscheinlich die bekanntesten Diensthunde.
-            Mittlerweile wird der Vierbeiner auch als Betreuer für gehörlose
-            Menschen, Körperbehinderte und Epileptiker eingesetzt, mit unglaublichem
-            Erfolg. Chris Marshall verlor sein Gehör als Kind. Durch den Begleithund
-            Dizzy hat sich sein Leben verändert. Dizzy entscheidet selbständig,
-            welche Geräusche wichtig sind und reagiert im Notfall zuverlässig.
-            Die Verständigung mit Chris erfolgt über trainierte Zeichen. Die
-            Ausbildungsmethoden sind für alle Arten von Begleithunden sehr
-            ähnlich: Wiederholung und Belohnung sind die wichtigsten Grundlagen.
-            Die Entscheidung, ob ein Hund für eine Ausbildung als Begleittier
-            geeignet ist, fällt bereits im Welpenalter.
-
-            „360° - Die GEO Reportage“ schildert die eindrucksvollen Einsatzmöglichkeiten
-            unseres liebsten Haustieres.'
         summary: Hunde sind nicht nur Weggefährten des Menschen, sondern auch
             als Betreuer für Behinderte im Einsatz. Blindenhunde sind die
             bekanntesten Diensthunde, aber auch für Gehörlose, Körperbehinderte
@@ -3756,7 +3712,6 @@ seasons:
         season_no: 2
         episode_no: 36
         title: Kamele im Rennen
-        alias: Kamele im Rennen
         topic: Tiere im Rampenlicht
         description: '„Allah hat kein großartigeres Tier erschaffen als das
             Kamel“ - so heißt es im Koran. Heute sind die „Wüstenschiffe“
@@ -3780,33 +3735,16 @@ seasons:
             „360° - Die GEO-Reportage“ betrachtet einen Sport zwischen Tradition
             und Moderne und wirft dabei auch einen Blick hinter die Kulissen
             der Kamelrennen.'
-        description_fernsehserien: 'Schon vor hunderten von Jahren haben Beduinen
-            bei religiösen Festen Kamelrennen veranstaltet. Heute ist aus
-            der Tradition ein High-Tech-Sport geworden: Die Scheichs in den
-            Vereinigten Arabischen Emiraten zahlen bis zu einer Million Dollar
-            für ein perfekt gezüchtetes Tier. (Text: Discovery Channel)'
-        description_youtube: '„Allah hat kein großartigeres Tier erschaffen
-            als das Kamel“ - so heißt es im Koran. Heute sind die „Wüstenschiffe“
-            Sportstars. Wissenschaftler setzen modernste Techniken bei der
-            Zucht ein. Ihr Ziel: das perfekte Rennkamel!
-
-            Kamelrennen gibt es schon seit Hunderten von Jahren, doch das
-            Geld der Scheichs hat aus der beduinischen Tradition heute einen
-            Hightech-Sport gemacht. In einem eigens erbauten Forschungszentrum
-            inmitten der Wüste werden mit Hilfe der modernen Reproduktionsbiologie
-            immer schnellere Arten von Rennkamelen gezüchtet. Leiterin dieses
-            Zentrums ist die Britin Lulu Skidmore. Die ehemalige Expertin
-            für Rennpferde kam vor neun Jahren in die Emirate; fasziniert
-            von den Möglichkeiten der neuen Sportart hat sie inzwischen viele
-            der Techniken, die bereits im Pferderennsport eingesetzt werden,
-            für Rennkamele weiterentwickelt. Doch die Rennen sind heute gefährlicher
-            als je zuvor. Deshalb sind es nicht mehr die Besitzer oder deren
-            Söhne, die auf den Kamelen reiten, sondern Kinder-Jockeys aus
-            Entwicklungsländern - manchmal nur acht, neun Jahre alt.
-
-            „360° - Die GEO-Reportage“ betrachtet einen Sport zwischen Tradition
-            und Moderne und wirft dabei auch einen Blick hinter die Kulissen
-            der Kamelrennen.'
+        summary: Im Koran wird das Kamel als das großartigste Tier gepriesen.
+            Heutzutage sind Kamelrennen beliebt und Forscher verwenden moderne
+            Techniken zur Zucht des perfekten Rennkamels. Geld der Scheichs
+            hat aus der beduinischen Tradition einen Hightech-Sport gemacht.
+            In einem Wüsten-Forschungszentrum werden mit Hilfe der modernen
+            Reproduktionsbiologie immer schnellere Rennkamele gezüchtet. Die
+            Leiterin, Lulu Skidmore, eine ehemalige Expertin für Rennpferde,
+            hat Techniken aus dem Pferderennsport für Rennkamele weiterentwickelt.
+            Die Rennen sind jedoch gefährlich geworden, und daher reiten nun
+            Kinder-Jockeys aus Entwicklungsländern auf den Kamelen.
         director: Mary Crisp
         air_date: '2000-12-07'
         duration: 26
@@ -3824,8 +3762,11 @@ seasons:
         season_no: 3
         episode_no: 1
         title: Timbuktu
-        alias: Timbuktu
         topic: Überleben in der Wüste
+        location_wikidata: Q9427
+        coordinates:
+        - 16.773333055556
+        - -2.9994438888889
         description: 'Timbuktu: Hunderte von Forscher, angelockt von Legenden
             über unermesslichen Reichtum, versuchten vergeblich, diesen Ort
             in der Wüste von Mali zu erreichen. Heute leben ihre Bewohner
@@ -3848,34 +3789,14 @@ seasons:
             „360° - Die GEO-Reportage“ besucht die Bewohner Timbuktus - einer
             Stadt, die einst ein strahlender Mythos war und heute um ihr Überleben
             kämpft.'
-        description_fernsehserien: 'Jahrhundertelang beflügelte der Name Timbuktu
-            die Fantasie der Europäer. Legenden über unermesslichen Reichtum
-            rankten sich um den Ort in der Wüste von Mali. Heute ist Timbuktu
-            eine isolierte Stadt: Die Sahara rück unaufhaltsam vor, und die
-            Bewohner leben in ständiger Angst vor politischen Unruhen. (Text:
-            Discovery Channel)'
-        description_youtube: 'Timbuktu: Hunderte von Forscher, angelockt von
-            Legenden über unermesslichen Reichtum, versuchten vergeblich,
-            diesen Ort in der Wüste von Mali zu erreichen. Heute leben ihre
-            Bewohner in Angst vor politischen Unruhen und dem unaufhaltsamen
-            Vorrücken der Sahara.
-
-            Zu Beginn des 12. Jahrhunderts war Timbuktu lediglich ein Rastplatz
-            der Tuareg-Nomaden. Doch schon 100 Jahre später war aus dem Camp
-            eine Stadt geworden - ein Knotenpunkt der wichtigsten Karawanenrouten
-            des Mittelalters. Es lebten hier mehr als 120.000 Menschen, darunter
-            allein 20.000 Studenten, die sich in der Universität und den Koranschulen
-            der Lehre Allahs, den Natur- und Geisteswissenschaften widmeten.
-            Heute hat Timbuktu nicht einmal mehr 30.000 Einwohner. Jedes Jahr
-            rückt die Sahara um weitere 10 bis 20 Meter vor. Doch in einem
-            Projekt legten die Bewohner mit Mitteln der Europäischen Gemeinschaft
-            einen Schutzwall aus vier Millionen Bäumen und Sträuchern um die
-            Stadt an. Doch die größte Sorge der Menschen von Timbuktu ist,
-            dass die Regierung von Mali ihre Stadt bereits abgeschrieben hat.
-
-            „360° - Die GEO-Reportage“ besucht die Bewohner Timbuktus - einer
-            Stadt, die einst ein strahlender Mythos war und heute um ihr Überleben
-            kämpft.'
+        summary: Timbuktu war einst eine blühende Stadt mit mehr als 120.000
+            Einwohnern und 20.000 Studenten. Heute leben weniger als 30.000
+            Menschen dort. Die Bewohner fürchten politische Unruhen und das
+            Vorrücken der Sahara, die jedes Jahr 10 bis 20 Meter näher kommt.
+            Trotzdem haben sie einen Schutzwall aus Bäumen und Sträuchern
+            um die Stadt errichtet. Die Regierung von Mali hat jedoch Timbuktu
+            anscheinend aufgegeben, was die größte Sorge der Menschen dort
+            ist.
         director: Nicholas Brown
         air_date: '2001-01-02'
         duration: 26
@@ -3892,6 +3813,10 @@ seasons:
         episode_no: 2
         title: „Die Frucht, die aus der Dürre kam“
         topic: Überleben in der Wüste
+        location_wikidata: Q131377
+        coordinates:
+        - -23
+        - 15
         description: 'Die Wüste Namib, im Südwesten Afrikas, ist eines der
             wenigen Gebiete der Erde, in dem es fast nie regnet. Hier leben
             die Topnaar, eines der letzten Wüstenvölker der Erde. Wie bei
@@ -3915,34 +3840,15 @@ seasons:
 
             „360° - Die GEO Reportage“ schildert den Kampf des Wüstenvolkes
             um seine Existenz.'
-        description_fernsehserien: 'Die Topnaar in der Wüste Namib sind eines
-            der letzten Wüstenvölker der Erde. Wie bei vielen Naturvölkern
-            ist ihre traditionelle Lebensweise bedroht. Die Kultivierung und
-            der Anbau der Nara-Melone könnten Arbeitsplätze schaffen und die
-            Existenz der Topnaar sichern. (Text: Discovery Channel)'
-        description_youtube: 'Die Wüste Namib, im Südwesten Afrikas, ist eines
-            der wenigen Gebiete der Erde, in dem es fast nie regnet. Hier
-            leben die Topnaar, eines der letzten Wüstenvölker der Erde. Wie
-            bei vielen Naturvölkern ist ihre traditionelle Lebensweise bedroht,
-            doch eine Frucht, die in der Wüste wächst, weckt Hoffnung. Sie
-            könnte das Überleben der Topnaar in der Namib sichern.
-
-            Rudolf Dauseb, der Angehörige der Topnaar will die Zukunft seines
-            Volkes sichern -  mit Hilfe der Nara-Melone. Einer Frucht, die
-            seinem Volk schon seit Jahrtausenden das Überleben in der unwirtlichen
-            Umgebung der Namib ermöglicht. Die Nara-Melone soll kultiviert
-            und systematisch angebaut werden, durch die entstehende Industrie
-            könnten Arbeitsplätze geschaffen werden. Fünf Monate im Jahr kann
-            die Melone geerntet werden. Die Frucht ist vielseitig verwendbar,
-            selbst die Schalen werden nicht entsorgt, sondern als Tierfutter
-            genutzt. Das aus seinen Samenkörnern gewonnene Öl ist fünfmal
-            so nahrhaft wie normales Speiseöl. Wissenschaftler sehen auch
-            eine mögliche Verwertung der Frucht in der Kosmetikindustrie.
-            Zur Pflanzenbewässerung könnte mit Hilfe von Kollektoren der Luft
-            Feuchtigkeit entzogen werden.
-
-            „360° - Die GEO Reportage“ schildert den Kampf des Wüstenvolkes
-            um seine Existenz.'
+        summary: Die Wüste Namib im Südwesten Afrikas beherbergt die Topnaar,
+            eines der letzten Wüstenvölker der Welt. Ihre traditionelle Lebensweise
+            ist bedroht, aber die Nara-Melone, eine Frucht, die in der Wüste
+            wächst, könnte ihre Rettung sein. Rudolf Dauseb von den Topnaar
+            möchte die Melone kultivieren und eine Industrie aufbauen, um
+            Arbeitsplätze zu schaffen. Die Frucht hat vielfältige Verwendungsmöglichkeiten,
+            und ihr Samenöl hat einen hohen Nährwert. Die Melone könnte auch
+            in der Kosmetikindustrie genutzt werden, und die Bewässerung der
+            Pflanzen könnte durch Feuchtigkeitskollektoren aus der Luft erfolgen.
         director: Nicolas Brown
         air_date: '2001-01-03'
         duration: 26
@@ -3958,6 +3864,10 @@ seasons:
         episode_no: 3
         title: Baumeister der Wüste
         topic: Überleben in der Wüste
+        location_wikidata: Q5788
+        coordinates:
+        - 30.328888888889
+        - 35.440277777778
         description: 'Verborgen in der jordanischen Wüste liegen die Ruinen
             des antiken Petra. Vor mehr als zweitausend Jahren hatte sich
             hier ein Nomadenvolk aus Nordarabien mit Petra als Hauptstadt
@@ -3980,34 +3890,14 @@ seasons:
             „360° - Die GEO-Reportage“ unternimmt eine Reise in die Negev
             Wüste auf den Spuren der Nabatäer, deren uraltes Wissen den Menschen,
             die heute in der Wüste leben, helfen kann.'
-        description_fernsehserien: 'Die Architekten David Pearlmutter und
-            Isac Meir erforschen die Bauweisen antiker Wüstenstädte. Ideale
-            Wohnbedingungen fanden sie in der jordanischen Wüstenstadt Petra.
-            Vor mehr als 2000 Jahren haben die Nabtäer hier in Felsen gehauene
-            Häuser mit einem angenehmen Wohnklima gebaut. (Text: Discovery
-            Channel)'
-        description_youtube: 'Verborgen in der jordanischen Wüste liegen die
-            Ruinen des antiken Petra. Vor mehr als zweitausend Jahren hatte
-            sich hier ein Nomadenvolk aus Nordarabien mit Petra als Hauptstadt
-            eine neue Heimat erschaffen. Heute ergründen Wissenschaftler die
-            antike Wüstenarchitektur und entdeckten dabei den Nutzen der nabatäischen
-            Baukunst für das moderne Leben in der Wüste.
-
-            Wüsten sind Orte der Extreme: Heiß, trocken und sandig - aber
-            auch eisig kalt, stürmisch und von plötzlichen Wolkenbrüchen heimgesucht.
-            Auf der Suche nach Lösungen für die Zukunft stießen die Architekten
-            David Pearlmutter und Isaac Meir vom israelischen „Jacob Blaustein
-            Institut“ für Wüstenforschung auf die antike Felsen-Stadt Petra
-            in Jordanien. Hier hatten die Nabatäer bereits vor mehr als 2000
-            Jahren Wohnbedingungen geschaffen, die perfekt an das Leben in
-            der Wüste angepasst waren. Pearlmutter und Meir begannen auf dem
-            Universitätscampus architektonische Experimente durchzuführen.
-            Die beiden Forscher waren von ihren Modellhäusern derart begeistert,
-            dass sie kurzerhand selber mit ihren Familien dort einzogen.
-
-            „360° - Die GEO-Reportage“ unternimmt eine Reise in die Negev
-            Wüste auf den Spuren der Nabatäer, deren uraltes Wissen den Menschen,
-            die heute in der Wüste leben, helfen kann.'
+        summary: In der jordanischen Wüste liegt das antike Petra, die Hauptstadt
+            eines Nomadenvolks aus Nordarabien vor über 2000 Jahren. Wissenschaftler
+            erforschen die Wüstenarchitektur und nutzen die nabatäische Baukunst
+            für das moderne Leben in der Wüste. Architekten vom israelischen
+            „Jacob Blaustein Institut“ entdeckten die antike Stadt Petra und
+            begannen architektonische Experimente auf dem Campus. Sie waren
+            so begeistert von ihren Modellhäusern, dass sie und ihre Familien
+            dort einzogen.
         director: Mary Crisp
         air_date: '2001-01-04'
         duration: 26
@@ -4051,32 +3941,17 @@ seasons:
 
             „360° - Die GEO-Reportage“ zeigt ein besonderes Jugendprojekt
             in der Wüste Arizonas.'
-        description_fernsehserien: 'Die „Anaszi-Foundation“ hat sich auf Survivalkurse
-            für straffällige Jugendliche spezialisiert. Zwei Monate lang müssen
-            sich die Jugendlichen in der Wüste Arizonas behaupten. Dort lernen
-            sie, mit der Natur in Einklang zu leben und die Tradition eines
-            Indianerstammes fortzuführen. (Text: Discovery Channel)'
-        description_youtube: 'Im Südwesten der USA gibt man kriminellen und
-            schwererziehbaren Jugendlichen eine ganz besondere zweite Chance.
-            Sie sollen sich in den ausgedörrten, weiten Ebenen Arizonas bewähren.
-            Geleitet wird dieses Projekt von der „Anasazi-Foundation“, die
-            sich auf therapeutische Survivalkurse spezialisiert hat.
-
-            Die Temperaturen in der Wüste Arizonas erreichen bis zu 43 Grad.
-            Wer nicht weiß, wo und vor allem wie er in dieser Umgebung Nahrung
-            und Wasser findet, hat kaum eine Überlebenschance. Keine einfache
-            Aufgabe für straffällig gewordene Jugendliche, die sich hier im
-            Südwesten der USA zwei Monate lang behaupten müssen. Unterrichtet
-            werden sie von einem Totonac-Indianer. Ezekiel Sanchez unterweist
-            sie in den Lehren der Anasazi, eines ausgestorbenen Indianerstammes.
-            Der Kontakt zur Außenwelt ist strengstens untersagt. Täglich muss
-            die Gruppe einen Weg von etwa 15 Kilometer in der Wüste zurücklegen,
-            denn die Anasazi betrachteten das Leben als eine große Reise.
-            52% der Teilnehmer werden nicht mehr rückfällig. Eine zehnmal
-            höhere Quote als beim herkömmlichen Strafvollzug.
-
-            „360° - Die GEO-Reportage“ zeigt ein besonderes Jugendprojekt
-            in der Wüste Arizonas.'
+        summary: Im Südwesten der USA erhalten kriminelle und schwererziehbare
+            Jugendliche eine zweite Chance. Die „Anasazi Foundation“ führt
+            therapeutische Survivalkurse in der ausgedörrten Wüste Arizonas
+            durch. Die Temperaturen erreichen bis zu 43 Grad, und das Überleben
+            hängt davon ab, wie man Nahrung und Wasser findet. Zwei Monate
+            lang müssen sich straffällig gewordene Jugendliche behaupten und
+            werden von einem Totonac-Indianer namens Ezekiel Sanchez unterrichtet.
+            Der Kontakt zur Außenwelt ist verboten, und täglich legen sie
+            eine 15 Kilometer lange Strecke in der Wüste zurück. Die Rückfallquote
+            beträgt nur 52%, im Vergleich zu herkömmlichen Strafvollzugsmaßnahmen
+            ist dies zehnmal höher.
         director: Johanna Gibbon
         air_date: '2001-01-05'
         duration: 26
@@ -4118,33 +3993,17 @@ seasons:
 
             „360° - Die GEO Reportage“ berichtet über einen Mann und seinen
             Lebenstraum: Eine eigene Kathedrale.'
-        description_fernsehserien: 'Justo Gallego Martinez folgte vor 40 Jahren
-            einer Eingebung und begann, eine eigene Kathedrale zu bauen. Die
-            Kirche in einer Madrider Vorstadt wird nicht etwa von einer Baufirma
-            errichtet, sondern von dem mittlerweile 75-Jährigen selbst. (Text:
-            Discovery Channel)'
-        description_youtube: 'Der heute 75 jährige Spanier Justo Gallego Martinez
-            baut seit mittlerweile fast 40 Jahren an seiner Kirche, meist
-            ohne fremde Hilfe. Schon heute ist sie 25 Meter breit und 55 Meter
-            lang, die  Kuppel 35 Meter hoch.
-
-            Für die Bewohner von Mejorada del Campo ist der Anblick längst
-            ganz normal. In der Vorstadt Madrids, wächst zwischen modernen
-            Wohnblocks eine Kathedrale. Der ehemalige Mönch Justo Gallego
-            Martinez geht täglich mit gleich bleibender Euphorie und Motivation
-            an die Arbeit. Nur im Kopf von Martinez existiert die fertige
-            Kirche - allein aus Dingen, die die Menschen nicht mehr brauchen
-            und durch Spenden von Baufirmen. Unterstützt wird der alte Mann
-            teilweise von Jugendlichen, die ihm in ihrer Freizeit gegen geringe
-            Bezahlung behilflich sind. Doch den Hauptteil der Arbeiten erledigt
-            Martinez alleine - eben eine Lebensaufgabe, bei deren Realisierung
-            keine Zeit für eine eigene Familie bleibt. Das Bauwerk und sein
-            Erbauer ziehen die Blicke der Menschen auf die kleine unscheinbare
-            Vorstadt Madrids. Für alle Fälle hat Martinez schon ein Testament
-            geschrieben: Seine Kirche wird der Bischof erben!
-
-            „360° - Die GEO Reportage“ berichtet über einen Mann und seinen
-            Lebenstraum: Eine eigene Kathedrale.'
+        summary: Der 75-jährige Spanier Justo Gallego Martinez baut seit fast
+            40 Jahren an einer riesigen Kirche in Mejorada del Campo, einer
+            Vorstadt von Madrid. Die Kathedrale, die größtenteils ohne fremde
+            Hilfe entsteht, ist bereits 25 Meter breit, 55 Meter lang und
+            35 Meter hoch. Martinez arbeitet täglich mit Begeisterung und
+            Motivation an dem Projekt und nutzt recycelte Materialien und
+            Spenden von Baufirmen. Obwohl er gelegentlich von Jugendlichen
+            unterstützt wird, erledigt Martinez den Großteil der Arbeit alleine.
+            Das Bauwerk und sein Erbauer sind zu einer Attraktion geworden,
+            und Martinez hat bereits ein Testament verfasst, in dem er die
+            Kirche dem Bischof vermacht.
         director: Peter Moers, Jörg Daniel Hissen
         air_date: '2001-03-05'
         duration: 26
@@ -4184,30 +4043,19 @@ seasons:
 
             „360° - Die GEO-Reportage“ zeigt den Kampf zweier Männer für ein
             Naturparadies und dessen Bevölkerung.'
-        description_fernsehserien: 'Wilfried Merle und Klaus Müller gingen
-            in den 60er-Jahren als Entwicklungshelfer nach Venezuela. Auf
-            der Halbinsel Paria haben sie ihr persönliches Paradies gefunden
-            und sich der Rettung des Nebelwaldes verschrieben. (Text: Discovery
-            Geschichte)'
-        description_youtube: 'Die Halbinsel Paria, Venezuela: traumhafte Strände,
-            einzigartige Nebelwälder und eine enorme Artenvielfalt. Wilfried
-            Merle und Klaus Müller gingen als Entwicklungshelfer in das Land.
-            Sie haben dort ihr Paradies gefunden. Doch die Menschen sind so
-            arm, dass sie die intakte Umwelt zerstören, um ihre existenziellen
-            Bedürfnisse zu erfüllen.
-
-            Sie arbeiten überwiegend in der Landwirtschaft. Doch der Anbau
-            von Mais dörrt den Boden aus und macht ihn unfruchtbar. So brennen
-            die Bauern immer neue Flächen des tropischen Regenwaldes ab. Wilfried
-            Merle und Klaus Müller setzen alles daran, das Nebelwaldparadies
-            zu retten. Durch sein erstes Projekt - eine Straßenbaufirma -  konnte
-            Merle sich ein finanzielles Polster schaffen. Heute hat er ein
-            ganzes Netzwerk von Projekten aufgebaut. Klaus Müller versucht
-            mit seinen Vorhaben, die traditionellen Anbaumethoden unter ökologischen
-            Aspekten zu fördern.
-
-            „360° - Die GEO-Reportage“ zeigt den Kampf zweier Männer für ein
-            Naturparadies und dessen Bevölkerung.'
+        summary: Die Halbinsel Paria in Venezuela bietet traumhafte Strände,
+            einzigartige Nebelwälder und eine vielfältige Tier- und Pflanzenwelt.
+            Wilfried Merle und Klaus Müller, Entwicklungshelfer in dem Land,
+            haben ihr eigenes Paradies gefunden. Jedoch sind die Menschen
+            dort so arm, dass sie die intakte Umwelt für ihre grundlegenden
+            Bedürfnisse zerstören. Der Haupterwerb der Bevölkerung liegt in
+            der Landwirtschaft, aber der Anbau von Mais erschöpft den Boden
+            und macht ihn unfruchtbar. Um ihren Bedarf zu decken, brennen
+            die Bauern immer mehr Flächen des Regenwaldes ab. Merle und Müller
+            setzen sich entschlossen dafür ein, das Nebelwaldparadies zu retten.
+            Merle hat mit einer Straßenbaufirma finanzielle Mittel gesammelt
+            und ein Netzwerk von Projekten aufgebaut, während Müller ökologisch
+            nachhaltige Anbaumethoden fördert.
         director: Thomas Hauer, René Kirschey
         air_date: '2001-03-06'
         duration: 26
@@ -4222,10 +4070,10 @@ seasons:
         season_no: 3
         episode_no: 7
         title: Hollywood auf dem Trockenen
-        location_wikidata: Q65
+        location_wikidata: Q335585
         coordinates:
-        - 34.05223
-        - -118.24368
+        - 38.0165908
+        - -119.0093116
         description: 'Viele Millionenstädte leiden an akuter Wassernot. Heute
             gilt Los Angeles als Vorbild für modernes Wassermanagement.
 
@@ -4244,29 +4092,16 @@ seasons:
 
             „360° - Die GEO Reportage“ führt in eine der größten Metropolen
             der Welt und beschreibt einen innovativen Weg des Wassersparens.'
-        description_fernsehserien: 'Fast zehn Millionen Menschen leben im
-            Großraum Los Angeles, inmitten der südkalifornischen Wüste. Die
-            eigenen Süßwasserreserven sind längst ausgeschöpft. Die Stadt
-            lebt von Wasserimporten aus der Umgebung, ein skrupelloses Geschäft.
-            (Text: Discovery Channel)'
-        description_youtube: 'Viele Millionenstädte leiden an akuter Wassernot.
-            Heute gilt Los Angeles als Vorbild für modernes Wassermanagement.
-
-            Seit der Gründung von Los Angeles lebt die Stadt von Wasserimporten
-            aus umliegenden Gebieten. Das begehrte Nass wird in die Metropole
-            geleitet, gereinigt und gechlort, bevor es ins Wassernetz zu den
-            Verbrauchern gelangt. Die Stadt führte lange einen gnadenlosen
-            Wasserkrieg mit seinem Umland. Der Mono Lake, eines der interessantesten
-            Ökosysteme der Erde, wäre fast zu einer Salzwüste geworden. Heute
-            ist er Naturschutzgebiet. Einer der dazu beigetragen hat, ist
-            Ade Adeneji, Manager der Non-Profit-Organisation ADRO. Er suchte
-            nach Möglichkeiten, den unnützen Wasserverbrauch zu stoppen und
-            entwickelte eine Wasserspartoilette, die den Verbrauch von 20
-            auf 6 Liter reduzierte. Damit spart Los Angeles jährlich 36 Millionen
-            Kubikmeter Trinkwasser.
-
-            „360° - Die GEO Reportage“ führt in eine der größten Metropolen
-            der Welt und beschreibt einen innovativen Weg des Wassersparens.'
+        summary: Los Angeles hat erfolgreich sein Wassermanagement verbessert
+            und dient als Vorbild für andere Millionenstädte, die unter Wasserknappheit
+            leiden. Die Stadt importiert Wasser aus umliegenden Gebieten,
+            reinigt es und leitet es gechlort ins Wassernetz für die Verbraucher.
+            Früher führte Los Angeles einen aggressiven Wasserkrieg mit dem
+            Umland, der beinahe den Mono Lake zerstört hätte. Heute ist der
+            See ein Naturschutzgebiet. Ade Adeneji von der Non-Profit-Organisation
+            ADRO entwickelte eine Wasserspartoilette, die den Verbrauch von
+            20 auf 6 Liter reduzierte. Dadurch spart Los Angeles jährlich
+            36 Millionen Kubikmeter Trinkwasser.
         director: Heidi Mühlenberg
         air_date: '2001-03-07'
         duration: 26
@@ -4307,32 +4142,18 @@ seasons:
             „360° - Die GEO-Reportage“ unternimmt eine ungewöhnliche Reise
             in die Unterwelt Berlins und zeigt den aufwendigen Wasserkreislauf
             der zusammenwachsenden Metropole.'
-        description_fernsehserien: 'Nach der Wende wurden die Trinkwassernetze
-            von Ost- und Westberlin verbunden und auf 7.700 Kilometer erweitert.
-            Das kostbare Nass kommt jedoch nie zur Ruhe. Immer wieder wird
-            es gepumpt, gefiltert, geflockt und umgewälzt. (Text: Discovery
-            Channel)'
-        description_youtube: 'Millionen Menschen sind Tag für Tag in der Metropole
-            Berlin unterwegs. Die Stadt wächst wieder zusammen und auch unterirdisch
-            sind die „Mauern“ gefallen, die Absperrgitter, die einst die Kanalisation
-            trennten, wurden entfernt. Die Trinkwassernetze wurden verbunden
-            und auf 7700 Kilometer erweitert. Bent Regulla, von den Berliner
-            Wasserbetrieben, kennt diese unterirdischen Wege genau. Dank ihm
-            und seiner Leute bleibt alles „in Fluss“, und die Berliner können
-            ohne Bedenken zu Hause aus dem Vollen schöpfen - täglich rund
-            130 Liter pro Kopf. Täglich kontrolliert Regulla mit seiner Mannschaft
-            die Schwachstellen des Abwassersystems, bei Schäden koordiniert
-            er den Einsatz der Reparaturteams. Vom Hundekot über Motoröl bis
-            hin zu Medikamenten gelangen viele Schadstoffe in das Abwasser.
-            Die Unachtsamkeit der Menschen stellt die Arbeiter in der Kanalisation
-            immer wieder vor große Probleme. Der Abwassercocktail kann unter
-            bestimmten Bedingungen Gase freisetzen, die in ihrer Kombination
-            explosiv sind. Jeder Abstieg in die Kanalisation ist mit einem
-            Risiko verbunden ...
-
-            „360° - Die GEO-Reportage“ unternimmt eine ungewöhnliche Reise
-            in die Unterwelt Berlins und zeigt den aufwendigen Wasserkreislauf
-            der zusammenwachsenden Metropole.'
+        summary: In Berlin sind Millionen Menschen täglich in der Stadt unterwegs.
+            Die „Mauern“ in der Kanalisation wurden entfernt, und die Trinkwassernetze
+            wurden auf 7700 Kilometer erweitert. Bent Regulla und sein Team
+            von den Berliner Wasserbetrieben überwachen das Abwassersystem,
+            reparieren Schäden und kontrollieren täglich Schwachstellen. Allerdings
+            bereiten die vielen Schadstoffe im Abwasser, von Hundekot über
+            Motoröl bis hin zu Medikamenten, große Probleme. Der Abwassercocktail
+            kann gefährliche Gase freisetzen, die in Kombination explosiv
+            sind. Das Betreten der Kanalisation ist daher risikoreich. Die
+            Berliner können jedoch dank der Arbeit von Regulla und seinem
+            Team weiterhin bedenkenlos Wasser nutzen und täglich etwa 130
+            Liter pro Kopf verbrauchen.
         director: Heidrun Noske
         air_date: '2001-03-08'
         duration: 26
@@ -4369,29 +4190,18 @@ seasons:
             „360°-Die GEO-Reportage“ begleitet die gefährliche Arbeit der
             Tunnelbauer unter Tage und zeigt die Entstehung eines der wichtigsten
             Verkehrswege der Zukunft.'
-        description_fernsehserien: 'Am Gotthard-Massiv in der Schweiz wird
-            seit 1995 am längsten Eisenbahntunnel der Welt gebaut: Die 57
-            Kilometer lange Strecke durch die Alpen soll die Fahrzeit zwischen
-            Zürich und Mailand erheblich verkürzen. 2012 soll der erste Hochgeschwindigkeitszug
-            durch den Tunnel fahren. (Text: Discovery Channel)'
-        description_youtube: 'Am Gotthard Massiv in der Schweiz entsteht seit
-            1995 der längste Eisenbahntunnel der Welt: Die 57 Kilometer lange
-            Strecke durch die Alpen wird die Fahrzeit zwischen Zürich und
-            Mailand von fünf auf zweieinhalb Stunden verkürzen. Spezialisten
-            aus aller Welt arbeiten über Jahre an diesem gigantischen Projekt.
-
-            Mehrere tausend Menschen ringen dem Berg Meter für Meter ab, um
-            eines der ehrgeizigsten Verkehrsprojekte in Europa zu verwirklichen,
-            den Gotthard-Basitunnel. An den Tunneleingängen, im Tessin und
-            Uri, fressen sich riesige Maschinen durch den Fels. 24 Millionen
-            Tonnen Abraum fallen an. Damit werden am Urner See Flachwasserzonen
-            und Inseln gebaut, um das ökologische Gleichgewicht des Sees wieder
-            herzustellen. Erst 2017 soll der erste Hochgeschwindigkeitszug
-            durch den Tunnel fahren - nur 16 dunkle Minuten für 57 Kilometer.
-
-            „360°-Die GEO-Reportage“ begleitet die gefährliche Arbeit der
-            Tunnelbauer unter Tage und zeigt die Entstehung eines der wichtigsten
-            Verkehrswege der Zukunft.'
+        summary: In der Schweiz wird seit 1995 der längste Eisenbahntunnel
+            der Welt am Gotthard-Massiv gebaut. Die 57 Kilometer lange Strecke
+            durch die Alpen wird die Reisezeit zwischen Zürich und Mailand
+            von fünf auf zweieinhalb Stunden verkürzen. Spezialisten aus der
+            ganzen Welt arbeiten an diesem gigantischen Projekt, bei dem tausende
+            Menschen Meter um Meter aus dem Berg herausholen, um den ehrgeizigen
+            Gotthard-Basistunnel zu verwirklichen. Maschinen fressen sich
+            an den Eingängen des Tunnels in den Fels, während 24 Millionen
+            Tonnen Abraum anfallen. Der Urner See wird mit dem Abraum aufgefüllt,
+            um das ökologische Gleichgewicht wiederherzustellen. Der erste
+            Hochgeschwindigkeitszug soll 2017 durch den Tunnel fahren - eine
+            nur 16 Minuten lange Fahrt für 57 Kilometer.
         director: Eva Jobst
         air_date: '2001-04-09'
         duration: 26
@@ -4493,29 +4303,16 @@ seasons:
 
             „360° - Die GEO-Reportage“ zeigt einen aussterbenden Beruf in
             Südkorea - die Taucherinnen von Jeju-do'
-        description_fernsehserien: 'Es ist ein harter Job. Die sogenannten
-            Haenyo auf der südkoreanischen Insel Cheju sind Frauen, die bis
-            zu drei Minuten ohne Atemgerät tauchen - oft bis zu 20 Meter tief.
-            Dabei suchen sie nach Muscheln und anderen Meeresfrüchten. „360°
-            - Geo Reportage“ zeigt einen aussterbenden Beruf. (Text: Arte)'
-        description_youtube: 'Die so genannten Haenyo - das heißt „Meerfrauen“
-            - auf der südkoreanischen Insel Jeju-do sind Frauen, die bis zu
-            3 Minuten ohne Atemgerät tauchen - oft bis zu 20 Meter tief. Sie
-            suchen nach Muscheln und anderen Meeresfrüchten. Ein 1500 Jahre
-            alter Beruf, der heute unter jungen Frauen immer unbeliebter wird.
-
-            Die Frauen sind traditionell die Ernährerinnen der Familie - eine
-            eher außergewöhnliche Stellung der Frau im asiatischen Raum. Seit
-            1950 aber hat sich die Zahl der Haenyos halbiert. Die Anstrengungen
-            und Gefahren schrecken viele jüngere Frauen ab. Täglich rund 4
-            Stunden sind die Taucherinnen im Wasser, wobei Meerestemperaturen
-            von 8 Grad keine Seltenheit sind. Der hohe Marktpreis der gesammelten
-            Meeresfrüchte lässt die Frauen gesundheitliche Risiken und Haiattacken
-            in Kauf nehmen. Die heute noch aktiven Haenyo sind vermutlich
-            die letzten, die diesem außergewöhnlichen Beruf nachgehen.
-
-            „360° - Die GEO-Reportage“ zeigt einen aussterbenden Beruf in
-            Südkorea - die Taucherinnen von Jeju-do'
+        summary: In Istanbul, einer Metropole zwischen Europa und Asien, gibt
+            es nur zwei Brücken über den Bosporus. Täglich gibt es dort massive
+            Staus, was die höhere Lebensqualität auf der asiatischen Seite
+            der Stadt erschwert. Die Stadtverwaltung hat versucht, flexiblere
+            Arbeitszeiten einzuführen, um das Verkehrsproblem zu lösen, aber
+            ohne Erfolg. Daher soll nun der Bau einer dritten Brücke Abhilfe
+            schaffen. Celalettin Dursun, ein 67-jähriger Bauingenieur, hat
+            bereits an den bestehenden Brücken gearbeitet und ist auch am
+            Bau der geplanten dritten Brücke beteiligt. Aufgrund der Erdbebenaktivität
+            in der Region ist ein Tunnelbau keine Option.
         director: Ute Gebhardt
         air_date: '2001-04-11'
         duration: 26
@@ -4551,28 +4348,17 @@ seasons:
 
             „360° - Die GEO-Reportage“ berichtet von einem Zierfischer am
             Rio Negro in Brasilien, der im Netz der Industrie gefangen ist.'
-        description_fernsehserien: 'Manuel Cambejo ist Fischer am Rio Negro
-            in Amazonien. Er fängt Zierfische und verkauft sie zu Dumpingpreisen
-            an mächtige Händler, die sie weiter an Aquarienliebhaber in Europa,
-            Japan und Nordamerika liefern. „360° - Die Geo-Reportage“ berichtet
-            von einem Fischer in Brasilien, der im Netz der Industrie gefangen
-            ist. (Text: Arte)'
-        description_youtube: 'Crispim Alves de Braga ist Fischer am Rio Negro
-            in Amazonien. Er fängt Zierfische und verkauft sie zu Billigstpreisen
-            an Händler, die sie weiter an Aquarienliebhaber liefern. Der 42-jährige
-            muss, um genügend Geld zu verdienen, immer mehr Fische fangen.
-
-            Crispim ist selbst gefangen im Gewirr von Großhändlern und Konkurrenzdruck,
-            von Existenzangst und Überlebenswillen. Doch das Zierfischgeschäft
-            ist hart. Eine völlig willkürliche Preispolitik und ein enormer
-            Konkurrenzkampf machen den kleinen Fischern das Überleben schwer.
-            Selbst in Naturschutzgebieten werfen sie ihre Netze aus. Doch
-            die zuständigen Behörden interessiert das nicht. Der 42- jährige
-            will seinen Beruf aufgeben. Doch Crispim hat nie etwas anderes
-            gelernt. Wovon soll er mit seiner Familie dann leben?
-
-            „360° - Die GEO-Reportage“ berichtet von einem Zierfischer am
-            Rio Negro in Brasilien, der im Netz der Industrie gefangen ist.'
+        summary: Die Haenyo auf der südkoreanischen Insel Jeju-do sind Meeresfrauen,
+            die bis zu 3 Minuten ohne Atemgerät tauchen können. Sie suchen
+            nach Muscheln und anderen Meeresfrüchten in bis zu 20 Metern Tiefe.
+            Dieser 1500 Jahre alte Beruf wird immer unbeliebter, besonders
+            bei jungen Frauen. Obwohl die Haenyo traditionell die Familie
+            ernähren, hat sich ihre Zahl seit 1950 halbiert. Die Taucherinnen
+            verbringen täglich rund 4 Stunden im kalten Wasser mit Temperaturen
+            um die 8 Grad. Trotz der Anstrengungen, Gefahren und Haiattacken
+            nehmen sie gesundheitliche Risiken auf sich, da die gesammelten
+            Meeresfrüchte einen hohen Marktpreis erzielen. Die noch aktiven
+            Haenyo könnten die letzten ihrer Art sein.
         director: Carmen Butta
         air_date: '2001-04-12'
         duration: 26

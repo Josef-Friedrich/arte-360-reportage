@@ -694,13 +694,14 @@
 | EA = 2000-12-06
 | ZF = Hunde sind nicht nur Weggefährten des Menschen, sondern auch als Betreuer für Behinderte im Einsatz. Blindenhunde sind die bekanntesten Diensthunde, aber auch für Gehörlose, Körperbehinderte und Epileptiker werden sie erfolgreich eingesetzt. Chris Marshall, der sein Gehör verlor, hat sein Leben dank seines Begleithunds Dizzy verändert. Dizzy erkennt wichtige Geräusche und reagiert zuverlässig in Notfällen. Die Kommunikation mit Chris erfolgt über trainierte Zeichen. Die Ausbildung von Begleithunden basiert auf Wiederholung und Belohnung, und die Entscheidung über ihre Eignung wird bereits im Welpenalter getroffen.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 76
 | NR_ST = 36
 | OT = Kamele im Rennen<ref>Internetquellen zur Episode ''„Kamele im Rennen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/76-tiere-im-rampenlicht-kamele-im-rennen-339355 76] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/76-tiere-im-rampenlicht-kamele-im-rennen-339355 339355], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824572 S02E36] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824572 4824572], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=LgBk0kjjk0E LgBk0kjjk0E]</ref>
 | Feld1 = -
 | REG = Mary Crisp
 | EA = 2000-12-07
+| ZF = Im Koran wird das Kamel als das großartigste Tier gepriesen. Heutzutage sind Kamelrennen beliebt und Forscher verwenden moderne Techniken zur Zucht des perfekten Rennkamels. Geld der Scheichs hat aus der beduinischen Tradition einen Hightech-Sport gemacht. In einem Wüsten-Forschungszentrum werden mit Hilfe der modernen Reproduktionsbiologie immer schnellere Rennkamele gezüchtet. Die Leiterin, Lulu Skidmore, eine ehemalige Expertin für Rennpferde, hat Techniken aus dem Pferderennsport für Rennkamele weiterentwickelt. Die Rennen sind jedoch gefährlich geworden, und daher reiten nun Kinder-Jockeys aus Entwicklungsländern auf den Kamelen.
 }}
 }}
 
@@ -713,77 +714,86 @@
 | DREHBUCH = nein
 | Feld1 = Französischer Titel
 | INHALT =
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 77
 | NR_ST = 1
 | OT = Timbuktu<ref>Internetquellen zur Episode ''„Timbuktu“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/77-ueberleben-in-der-wueste-timbuktu-339356 77] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/77-ueberleben-in-der-wueste-timbuktu-339356 339356], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641935 S03E01] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641935 4641935], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=u1QLrA-PNrs u1QLrA-PNrs]</ref>
 | Feld1 = -
 | REG = Nicholas Brown
 | EA = 2001-01-02
+| ZF = Timbuktu war einst eine blühende Stadt mit mehr als 120.000 Einwohnern und 20.000 Studenten. Heute leben weniger als 30.000 Menschen dort. Die Bewohner fürchten politische Unruhen und das Vorrücken der Sahara, die jedes Jahr 10 bis 20 Meter näher kommt. Trotzdem haben sie einen Schutzwall aus Bäumen und Sträuchern um die Stadt errichtet. Die Regierung von Mali hat jedoch Timbuktu anscheinend aufgegeben, was die größte Sorge der Menschen dort ist.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 78
 | NR_ST = 2
 | OT = „Die Frucht, die aus der Dürre kam“<ref>Internetquellen zur Episode ''„„Die Frucht, die aus der Dürre kam““'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/78-ueberleben-in-der-wueste-die-frucht-die-aus-der-duerre-kam-339357 78] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/78-ueberleben-in-der-wueste-die-frucht-die-aus-der-duerre-kam-339357 339357], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641936 S03E02] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641936 4641936], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=L1bcEWTOHm4 L1bcEWTOHm4]</ref>
 | Feld1 = -
 | REG = Nicolas Brown
 | EA = 2001-01-03
+| ZF = Die Wüste Namib im Südwesten Afrikas beherbergt die Topnaar, eines der letzten Wüstenvölker der Welt. Ihre traditionelle Lebensweise ist bedroht, aber die Nara-Melone, eine Frucht, die in der Wüste wächst, könnte ihre Rettung sein. Rudolf Dauseb von den Topnaar möchte die Melone kultivieren und eine Industrie aufbauen, um Arbeitsplätze zu schaffen. Die Frucht hat vielfältige Verwendungsmöglichkeiten, und ihr Samenöl hat einen hohen Nährwert. Die Melone könnte auch in der Kosmetikindustrie genutzt werden, und die Bewässerung der Pflanzen könnte durch Feuchtigkeitskollektoren aus der Luft erfolgen.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 79
 | NR_ST = 3
 | OT = Baumeister der Wüste<ref>Internetquellen zur Episode ''„Baumeister der Wüste“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/79-ueberleben-in-der-wueste-baumeister-der-wueste-339358 79] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/79-ueberleben-in-der-wueste-baumeister-der-wueste-339358 339358], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641937 S03E03] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641937 4641937], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=r6iPQL1WZ_I r6iPQL1WZ_I]</ref>
 | Feld1 = -
 | REG = Mary Crisp
 | EA = 2001-01-04
+| ZF = In der jordanischen Wüste liegt das antike Petra, die Hauptstadt eines Nomadenvolks aus Nordarabien vor über 2000 Jahren. Wissenschaftler erforschen die Wüstenarchitektur und nutzen die nabatäische Baukunst für das moderne Leben in der Wüste. Architekten vom israelischen „Jacob Blaustein Institut“ entdeckten die antike Stadt Petra und begannen architektonische Experimente auf dem Campus. Sie waren so begeistert von ihren Modellhäusern, dass sie und ihre Familien dort einzogen.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 80
 | NR_ST = 4
 | OT = „Wüste auf Bewährung“<ref>Internetquellen zur Episode ''„„Wüste auf Bewährung““'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/80-ueberleben-in-der-wueste-wueste-auf-bewaehrung-339359 80] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/80-ueberleben-in-der-wueste-wueste-auf-bewaehrung-339359 339359], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641938 S03E04] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641938 4641938], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=GA9d8JNQ0aY GA9d8JNQ0aY]</ref>
 | Feld1 = Les Prisonniers du Désert
 | REG = Johanna Gibbon
 | EA = 2001-01-05
+| ZF = Im Südwesten der USA erhalten kriminelle und schwererziehbare Jugendliche eine zweite Chance. Die „Anasazi Foundation“ führt therapeutische Survivalkurse in der ausgedörrten Wüste Arizonas durch. Die Temperaturen erreichen bis zu 43 Grad, und das Überleben hängt davon ab, wie man Nahrung und Wasser findet. Zwei Monate lang müssen sich straffällig gewordene Jugendliche behaupten und werden von einem Totonac-Indianer namens Ezekiel Sanchez unterrichtet. Der Kontakt zur Außenwelt ist verboten, und täglich legen sie eine 15 Kilometer lange Strecke in der Wüste zurück. Die Rückfallquote beträgt nur 52%, im Vergleich zu herkömmlichen Strafvollzugsmaßnahmen ist dies zehnmal höher.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 81
 | NR_ST = 5
 | OT = Die Baustelle des Herrn<ref>Internetquellen zur Episode ''„Die Baustelle des Herrn“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/81-die-baustelle-des-herrn-339363 81] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/81-die-baustelle-des-herrn-339363 339363], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641939 S03E05] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641939 4641939], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=_1Ka_gTLjUw _1Ka_gTLjUw]</ref>
 | Feld1 = -
 | REG = Peter Moers, Jörg Daniel Hissen
 | EA = 2001-03-05
+| ZF = Der 75-jährige Spanier Justo Gallego Martinez baut seit fast 40 Jahren an einer riesigen Kirche in Mejorada del Campo, einer Vorstadt von Madrid. Die Kathedrale, die größtenteils ohne fremde Hilfe entsteht, ist bereits 25 Meter breit, 55 Meter lang und 35 Meter hoch. Martinez arbeitet täglich mit Begeisterung und Motivation an dem Projekt und nutzt recycelte Materialien und Spenden von Baufirmen. Obwohl er gelegentlich von Jugendlichen unterstützt wird, erledigt Martinez den Großteil der Arbeit alleine. Das Bauwerk und sein Erbauer sind zu einer Attraktion geworden, und Martinez hat bereits ein Testament verfasst, in dem er die Kirche dem Bischof vermacht.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 82
 | NR_ST = 6
 | OT = Im Einsatz für den Nebelwald<ref>Internetquellen zur Episode ''„Im Einsatz für den Nebelwald“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/82-retter-des-nebelwaldes-339364 82] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/82-retter-des-nebelwaldes-339364 339364], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641940 S03E06] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641940 4641940], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=gcOIjyneLdc gcOIjyneLdc]</ref>
 | Feld1 = -
 | REG = Thomas Hauer, René Kirschey
 | EA = 2001-03-06
+| ZF = Die Halbinsel Paria in Venezuela bietet traumhafte Strände, einzigartige Nebelwälder und eine vielfältige Tier- und Pflanzenwelt. Wilfried Merle und Klaus Müller, Entwicklungshelfer in dem Land, haben ihr eigenes Paradies gefunden. Jedoch sind die Menschen dort so arm, dass sie die intakte Umwelt für ihre grundlegenden Bedürfnisse zerstören. Der Haupterwerb der Bevölkerung liegt in der Landwirtschaft, aber der Anbau von Mais erschöpft den Boden und macht ihn unfruchtbar. Um ihren Bedarf zu decken, brennen die Bauern immer mehr Flächen des Regenwaldes ab. Merle und Müller setzen sich entschlossen dafür ein, das Nebelwaldparadies zu retten. Merle hat mit einer Straßenbaufirma finanzielle Mittel gesammelt und ein Netzwerk von Projekten aufgebaut, während Müller ökologisch nachhaltige Anbaumethoden fördert.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 83
 | NR_ST = 7
 | OT = Hollywood auf dem Trockenen<ref>Internetquellen zur Episode ''„Hollywood auf dem Trockenen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/83-hollywood-auf-dem-trockenen-339361 83] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/83-hollywood-auf-dem-trockenen-339361 339361], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641941 S03E07] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641941 4641941], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=1Xs3akVZkZA 1Xs3akVZkZA]</ref>
 | Feld1 = -
 | REG = Heidi Mühlenberg
 | EA = 2001-03-07
+| ZF = Los Angeles hat erfolgreich sein Wassermanagement verbessert und dient als Vorbild für andere Millionenstädte, die unter Wasserknappheit leiden. Die Stadt importiert Wasser aus umliegenden Gebieten, reinigt es und leitet es gechlort ins Wassernetz für die Verbraucher. Früher führte Los Angeles einen aggressiven Wasserkrieg mit dem Umland, der beinahe den Mono Lake zerstört hätte. Heute ist der See ein Naturschutzgebiet. Ade Adeneji von der Non-Profit-Organisation ADRO entwickelte eine Wasserspartoilette, die den Verbrauch von 20 auf 6 Liter reduzierte. Dadurch spart Los Angeles jährlich 36 Millionen Kubikmeter Trinkwasser.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 84
 | NR_ST = 8
 | OT = Die Adern von Berlin<ref>Internetquellen zur Episode ''„Die Adern von Berlin“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/84-die-adern-von-berlin-der-wasserkreislauf-einer-metropole-339366 84] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/84-die-adern-von-berlin-der-wasserkreislauf-einer-metropole-339366 339366], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641942 S03E08] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641942 4641942], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=rh-tBQxi6Ro rh-tBQxi6Ro]</ref>
 | Feld1 = -
 | REG = Heidrun Noske
 | EA = 2001-03-08
+| ZF = In Berlin sind Millionen Menschen täglich in der Stadt unterwegs. Die „Mauern“ in der Kanalisation wurden entfernt, und die Trinkwassernetze wurden auf 7700 Kilometer erweitert. Bent Regulla und sein Team von den Berliner Wasserbetrieben überwachen das Abwassersystem, reparieren Schäden und kontrollieren täglich Schwachstellen. Allerdings bereiten die vielen Schadstoffe im Abwasser, von Hundekot über Motoröl bis hin zu Medikamenten, große Probleme. Der Abwassercocktail kann gefährliche Gase freisetzen, die in Kombination explosiv sind. Das Betreten der Kanalisation ist daher risikoreich. Die Berliner können jedoch dank der Arbeit von Regulla und seinem Team weiterhin bedenkenlos Wasser nutzen und täglich etwa 130 Liter pro Kopf verbrauchen.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 85
 | NR_ST = 9
 | OT = Operation Alpentunnel<ref>Internetquellen zur Episode ''„Operation Alpentunnel“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/85-operation-alpentunnel-339367 85] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/85-operation-alpentunnel-339367 339367], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641943 S03E09] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641943 4641943], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007056 tt1007056], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=9DqxNEBmpd8 9DqxNEBmpd8]</ref>
 | Feld1 = -
 | REG = Eva Jobst
 | EA = 2001-04-09
+| ZF = In der Schweiz wird seit 1995 der längste Eisenbahntunnel der Welt am Gotthard-Massiv gebaut. Die 57 Kilometer lange Strecke durch die Alpen wird die Reisezeit zwischen Zürich und Mailand von fünf auf zweieinhalb Stunden verkürzen. Spezialisten aus der ganzen Welt arbeiten an diesem gigantischen Projekt, bei dem tausende Menschen Meter um Meter aus dem Berg herausholen, um den ehrgeizigen Gotthard-Basistunnel zu verwirklichen. Maschinen fressen sich an den Eingängen des Tunnels in den Fels, während 24 Millionen Tonnen Abraum anfallen. Der Urner See wird mit dem Abraum aufgefüllt, um das ökologische Gleichgewicht wiederherzustellen. Der erste Hochgeschwindigkeitszug soll 2017 durch den Tunnel fahren - eine nur 16 Minuten lange Fahrt für 57 Kilometer.
 }}
 {{Episodenlisteneintrag
 | NR_GES = 86
@@ -793,21 +803,23 @@
 | REG = Achim Kampmann
 | EA = 2001-04-10
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 87
 | NR_ST = 11
 | OT = Die letzten Nixen<ref>Internetquellen zur Episode ''„Die letzten Nixen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/87-die-letzten-nixen-die-taucherinnen-von-cheju-339401 87] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/87-die-letzten-nixen-die-taucherinnen-von-cheju-339401 339401], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641945 S03E11] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641945 4641945], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=a_MPCOQDmZE a_MPCOQDmZE]</ref>
 | Feld1 = -
 | REG = Ute Gebhardt
 | EA = 2001-04-11
+| ZF = In Istanbul, einer Metropole zwischen Europa und Asien, gibt es nur zwei Brücken über den Bosporus. Täglich gibt es dort massive Staus, was die höhere Lebensqualität auf der asiatischen Seite der Stadt erschwert. Die Stadtverwaltung hat versucht, flexiblere Arbeitszeiten einzuführen, um das Verkehrsproblem zu lösen, aber ohne Erfolg. Daher soll nun der Bau einer dritten Brücke Abhilfe schaffen. Celalettin Dursun, ein 67-jähriger Bauingenieur, hat bereits an den bestehenden Brücken gearbeitet und ist auch am Bau der geplanten dritten Brücke beteiligt. Aufgrund der Erdbebenaktivität in der Region ist ein Tunnelbau keine Option.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 88
 | NR_ST = 12
 | OT = Die Fischer vom Rio Negro<ref>Internetquellen zur Episode ''„Die Fischer vom Rio Negro“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/88-die-fischer-vom-rio-negro-339403 88] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/88-die-fischer-vom-rio-negro-339403 339403], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641946 S03E12] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641946 4641946], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007049 tt1007049], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=WU516e1cZ2E WU516e1cZ2E]</ref>
 | Feld1 = -
 | REG = Carmen Butta
 | EA = 2001-04-12
+| ZF = Die Haenyo auf der südkoreanischen Insel Jeju-do sind Meeresfrauen, die bis zu 3 Minuten ohne Atemgerät tauchen können. Sie suchen nach Muscheln und anderen Meeresfrüchten in bis zu 20 Metern Tiefe. Dieser 1500 Jahre alte Beruf wird immer unbeliebter, besonders bei jungen Frauen. Obwohl die Haenyo traditionell die Familie ernähren, hat sich ihre Zahl seit 1950 halbiert. Die Taucherinnen verbringen täglich rund 4 Stunden im kalten Wasser mit Temperaturen um die 8 Grad. Trotz der Anstrengungen, Gefahren und Haiattacken nehmen sie gesundheitliche Risiken auf sich, da die gesammelten Meeresfrüchte einen hohen Marktpreis erzielen. Die noch aktiven Haenyo könnten die letzten ihrer Art sein.
 }}
 {{Episodenlisteneintrag
 | NR_GES = 89
