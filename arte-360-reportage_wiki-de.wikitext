@@ -876,85 +876,95 @@
 | EA = 2001-06-05
 | ZF = Die Tchovandoz sind mutige Reiter mit einer alten Erbschaft - dem Buzkashi-Spiel. Umaralli Haidarovitch, ein Lehrer und Bauer, ist der geschickteste Kämpfer in Tadschikistan. Vermummte Männer nähern sich mit nervösen Pferden und einer enthaupteten Ziege. Der Kreis schließt sich um den Kadaver, Staub wirbelt auf. Umaralli versucht im Galopp die Ziege zu ergreifen, während er von allen Seiten angegriffen wird. Seine Söhne trainieren ebenfalls, um Tchovandoz zu werden.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 95
 | NR_ST = 19
 | OT = Wasserstoff im Tank<ref>Internetquellen zur Episode ''„Wasserstoff im Tank“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/95-wasser-im-tank-339414 95] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/95-wasser-im-tank-339414 339414], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641953 S03E19] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641953 4641953], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007059 tt1007059], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=H-U9h4gjRpQ H-U9h4gjRpQ]</ref>
 | Feld1 = -
 | REG = Uwe Sauermann
 | EA = 2001-06-06
+| ZF = Die größten Automobilkonzerne der Welt erforschen in Sacramento das zukünftige Wasserstoffauto, das nur Wasser ausstößt. Es bleibt jedoch noch viel zu tun, um sicherzustellen, dass das Auto auch auf langen Strecken funktioniert und überall auf der Welt Wasserstoff getankt werden kann. In Kalifornien wird ein marktreifes Auto entwickelt, das ausschließlich mit Wasserstoff fährt. DaimlerChrysler, Honda, Ford und Volkswagen forschen alle auf demselben Gelände in Sacramento und sind sich einig, dass Wasserstoff der Energieträger der Zukunft ist.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 96
 | NR_ST = 20
 | OT = Stau am Himmel<ref>Internetquellen zur Episode ''„Stau am Himmel“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/96-stau-am-himmel-339415 96] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/96-stau-am-himmel-339415 339415], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641954 S03E20] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641954 4641954], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007058 tt1007058], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=dvHVBW4rOLY dvHVBW4rOLY]</ref>
 | Feld1 = -
 | REG = Dirk Heinemann
 | EA = 2001-06-07
+| ZF = Etwa 10.000 Flugzeuge sind weltweit im Einsatz. Allein in Europa gibt es jährlich knapp 9 Millionen Flüge, was zu überfüllten Flughäfen führt. Der gefährlichste Moment ist der Start. Der Kapitän Günter Neppach befindet sich auf einem Flug von London-Heathrow nach Frankfurt am Main. Die Besorgnis vor Kollisionen verschwindet erst, wenn sie hoch genug sind. Die Kontrolle über Start und Landung haben jedoch die Kollegen im Tower. In Frankfurt landen stündlich über 80 Maschinen. Um die Kapazität zu erhöhen, wurde in der Flugleitzentrale in Langen ein Satelliten-Navigationssystem eingeführt, das eine um etwa 30 Prozent höhere Flugkapazität im deutschen Luftraum ermöglichen soll. Doch führt dies auch zu mehr Sicherheit?
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 97
 | NR_ST = 21
 | OT = Das Waisenhaus der Affen<ref>Internetquellen zur Episode ''„Das Waisenhaus der Affen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/97-das-waisenhaus-der-affen-339416 97] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/97-das-waisenhaus-der-affen-339416 339416], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641955 S03E21] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641955 4641955], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007045 tt1007045], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=bnV-Ze-vAZA bnV-Ze-vAZA]</ref>
 | Feld1 = -
 | REG = Peter Schuchardt
 | EA = 2001-09-03
+| ZF = Auf der Insel Ngamba im Victoriasee leben dreißig junge Schimpansen, die ohne den Schutz der Insel und die Hilfe ihrer menschlichen Betreuer sterben würden. Sie sind Waisen, da ihre Eltern von Jägern getötet wurden. Bushmeat, das Affenfleisch aus dem Dschungel, wird als Delikatesse illegal verkauft. Die Insel fungiert als Waisenhaus und wird vom Jane Goodall Institut unterstützt. Die Schimpansenkinder leiden ähnlich wie Menschenkinder unter dem Verlust ihrer Eltern und müssen nun von Menschen lernen, was ihre Eltern ihnen nicht mehr beibringen konnten.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 98
 | NR_ST = 22
 | OT = Die Bisonwächter<ref>Internetquellen zur Episode ''„Die Bisonwächter“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/98-die-bisonwaechter-339418 98] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/98-die-bisonwaechter-339418 339418], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641956 S03E22] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641956 4641956], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007046 tt1007046], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=1Bf6xUJ2jJ0 1Bf6xUJ2jJ0]</ref>
 | Feld1 = -
 | REG = Peter Moers, Jörg Daniel Hissen
 | EA = 2001-09-04
+| ZF = Bei Temperaturen von minus 40°C überwacht Mike Mease die Grenzen des Yellowstone Nationalparks, um die Bisons vor der Jagd außerhalb des Parks zu schützen. In der Nähe eines Wäldchens entdeckt er einen Bisonbullen im Schnee, der Atemwolken in den Morgen bläst. Vor drei Jahren erlebte Mike mit, wie eine der letzten Bisonherden Nordamerikas abgeschlachtet wurde, was zur Gründung der „Buffalo Field Campaign“ führte. Die Jäger argumentieren jedoch mit der Brucellose, obwohl diese Krankheit nur selten von Wildbisons auf Weidevieh übertragen wurde, und kein einziges Mal war ein Bison Überträger.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 99
 | NR_ST = 23
 | OT = Die Farm der Schmetterlinge<ref>Internetquellen zur Episode ''„Die Farm der Schmetterlinge“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/99-die-farm-der-schmetterlinge-339419 99] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/99-die-farm-der-schmetterlinge-339419 339419], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641957 S03E23] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641957 4641957], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007048 tt1007048], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=bxBVKiUHOpE bxBVKiUHOpE]</ref>
 | Feld1 = -
 | REG = Andrea Hauner
 | EA = 2001-09-05
+| ZF = Costa Rica, ein Land von der Größe Niedersachsens, beheimatet fünf Prozent der weltweiten Artenvielfalt. Über 25 Prozent des Landes sind Nationalparks und Schutzgebiete, in denen die Menschen im Einklang mit der Natur leben. In Schmetterlingsfarmen wie der von Edgar Corrales werden wertvolle Schmetterlinge gezüchtet und weltweit verschickt. Corrales kümmert sich liebevoll um die Schmetterlinge, von der Aufzucht der Raupen bis zur Versorgung der Puppen. Zoos und botanische Gärten unterstützen die Züchter, indem sie die Puppen kaufen.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 100
 | NR_ST = 24
 | OT = Fährtensucher online<ref>Internetquellen zur Episode ''„Fährtensucher online“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/100-faehrtensucher-online-339420 100] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/100-faehrtensucher-online-339420 339420], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641958 S03E24] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641958 4641958], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007052 tt1007052], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=OWZJehCh4hk OWZJehCh4hk]</ref>
 | Feld1 = -
 | REG = Katja von Eisenhart-Rothe, Dominik von Eisenhart-Rothe
 | EA = 2001-09-06
+| ZF = Die Buschmänner der Kalahari Wüste nutzen den Cybertracker, einen kleinen Computer, um Spuren aufzuzeichnen. Sie geben ihre Beobachtungen mithilfe von Symbolen ein, da sie nicht lesen können. Ihr einzigartiges Wissen und ihre Fähigkeit, die Zeichen ihrer Umgebung zu interpretieren, könnten für die Wissenschaft von großer Bedeutung sein, um frühzeitig Klimaveränderungen und Umweltbelastungen zu erkennen. Louis Liebenberg, ein Naturwissenschaftler aus Kapstadt, hat den Cybertracker entwickelt, der es den Ureinwohnern ermöglicht, ihre Beobachtungen festzuhalten.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 101
 | NR_ST = 25
 | OT = Nepals verkaufte Töchter<ref>Internetquellen zur Episode ''„Nepals verkaufte Töchter“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/101-nepals-verkaufte-toechter-339421 101] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/101-nepals-verkaufte-toechter-339421 339421], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641959 S03E25] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641959 4641959], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042939 tt1042939], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=zvAm_rmvynU zvAm_rmvynU]</ref>
 | Feld1 = -
 | REG = Marc O. Eberle
 | EA = 2001-10-01
+| ZF = In Nepal glauben jedes Jahr etwa 10.000 Mädchen an das Märchen von gut bezahlter Arbeit in den indischen Großstädten. Schlepperbanden nutzen dies vor allem in den traditionellen Bergregionen aus, und die Mädchen landen als Prostituierte in den großen Rotlichtvierteln. Die Hilfsorganisation Maiti Nepal ist ihre einzige Hoffnung. Bobita Lama, 26, wurde vor vier Jahren von Maiti Nepal gerettet und arbeitet heute selbst für die Organisation. Sie und ihre Kolleginnen befreien verschleppte Mädchen aus den Bordellen, doch die Arbeit ist Sisyphusarbeit: Für jedes gerettete Mädchen gibt es neue, die zur "Einarbeitung" bereitstehen.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 102
 | NR_ST = 26
 | OT = Die Stadt der Diamanten<ref>Internetquellen zur Episode ''„Die Stadt der Diamanten“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/102-die-stadt-der-diamanten-339422 102] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/102-die-stadt-der-diamanten-339422 339422], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641960 S03E26] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641960 4641960], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042933 tt1042933], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=5G9nvOInLfA 5G9nvOInLfA]</ref>
 | Feld1 = -
 | REG = Henning Jaeckisch
 | EA = 2001-10-03
+| ZF = Die Namdeb Diamond Corporation betreibt eine große Diamantenmine in Oranjemund, Namibia. In dieser Region ist Diamantenschmuggel weit verbreitet, wobei Brieftauben als Transportmittel verwendet werden. Die Haltung von Tauben wurde jedoch streng verboten, nachdem eine flugunfähige Taube auf dem Minengelände mit schweren Rohdiamanten entdeckt wurde. Schätzungen zufolge werden bis zu 30% der Diamantenausbeute gestohlen. Das Sperrgebiet in der Namibwüste wurde bereits 1908 von den deutschen Kolonialherren eingerichtet und ist seitdem für die Öffentlichkeit unzugänglich.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 103
 | NR_ST = 27
 | OT = Gaucho auf Lebenszeit<ref>Internetquellen zur Episode ''„Gaucho auf Lebenszeit“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/103-gaucho-auf-lebenszeit-339423 103] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/103-gaucho-auf-lebenszeit-339423 339423], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641961 S03E27] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641961 4641961], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042936 tt1042936], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=cJKLHLFDYXU cJKLHLFDYXU]</ref>
 | Feld1 = -
 | REG = Michael Hutchinson
 | EA = 2001-10-04
+| ZF = Argentinien erstreckt sich von den Eisfeldern im südlichen Patagonien über die endlosen Pampas bis hin zu den staubigen Wüsten der Anden. Gauchos haben dieses Land für die Einwanderer erschlossen und gelten als Relikte vergangener Zeiten. Eleuterio Flores, ein echter Gaucho im Alter von 72 Jahren, lebt mit seiner Frau Ana in einer einfachen Hütte ohne Strom und fließendes Wasser.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 104
 | NR_ST = 28
 | OT = Der Großvater der Massai<ref>Internetquellen zur Episode ''„Der Großvater der Massai“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/104-der-grossvater-der-massai-339424 104] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/104-der-grossvater-der-massai-339424 339424], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641962 S03E28] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641962 4641962], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042926 tt1042926], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=oHFU1aOHGr0 oHFU1aOHGr0]</ref>
 | Feld1 = -
 | REG = Michael Hutchinson, Kerstin Meyer
 | EA = 2001-10-05
+| ZF = Titi Tamporu, der älteste und mächtigste Mann der Kisongo Massai in Kenia, betet morgens um sechs inmitten seiner Kühe. Mit seiner 16-köpfigen Familie lebt er in traditionellen Hütten, geschützt vor Raubtieren. Die Existenz der Familie hängt von den Tieren ab, während die Massai-Kultur von alten Männern wie Titi Tamporu am Leben gehalten wird. Allerdings verlieren die Älteren zunehmend ihre Autorität, da jüngere Männer bereits Regierungsposten besetzen und die Weiderechte kontrollieren.
 }}
 }}
 
