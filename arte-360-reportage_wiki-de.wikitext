@@ -1011,7 +1011,7 @@
 | Feld1 = -
 | REG = -
 | EA = 2002-02-07
-| ZF = In Madagaskar findet alle sieben Jahre  das Fest der Ahnen, die Famadihana, statt. Es ermöglicht den Toten, als Vermittler zwischen der menschlichen Welt und der Götterwelt wieder zum Leben erweckt zu werden. Rakoto freut sich auf das Fest, denn sein Vater kehrt an diesem Tag aus dem Reich der Toten zurück. Die dreitägige Leichenwendfeier beginnt früh am Morgen, wenn Rakoto das Grab seines Vaters ausgräbt. Danach wäscht er die Leiche und kleidet sie in kostbare Seidentücher. In einem feierlichen Umzug wird die Leiche zurück ins Dorf gebracht. Die Grabstätte wird gereinigt und neu gestrichen. Der Höhepunkt des Festes ist am Abend, wo Lieder den Ahnen gewidmet sind und der erste Schluck aus einer neuen Flasche für sie auf den Boden gegossen wird.
+| ZF = In Madagaskar findet alle sieben Jahre das Fest der Ahnen, die Famadihana, statt. Zum Leben erweckte Tote dienen als Vermittler zwischen der menschlichen Welt und der Götterwelt. Rakoto freut sich auf das Fest, denn sein Vater kehrt an diesem Tag aus dem Reich der Toten zurück. Die dreitägige Leichenwendfeier beginnt früh am Morgen, wenn Rakoto das Grab seines Vaters ausgräbt. Danach wäscht er die Leiche und kleidet sie in kostbare Seidentücher. In einem feierlichen Umzug wird die Leiche zurück ins Dorf gebracht. Die Grabstätte wird gereinigt und neu gestrichen. Der Höhepunkt des Festes ist am Abend, wo Lieder den Ahnen gewidmet sind und der erste Schluck aus einer neuen Flasche für sie auf den Boden gegossen wird.
 }}
 {{Episodenlisteneintrag2
 | NR_GES = 109
@@ -1022,85 +1022,95 @@
 | EA = 2002-03-04
 | ZF = In der Nähe von Budapest leitet Zoltán Horkai, 28 Jahre alt, ein Tierasyl, das Tiere aus ganz Osteuropa aufnimmt. Das Asyl wurde ursprünglich für Tiere aus ungarischen Tierfilmen der kommunistischen Ära gebaut. Die World Society for the Protection of Animals (WSPA) unterstützt den Bau der Gehege und einen Teil der Kosten. Horkai finanziert den Rest durch Auftritte seiner tierischen Stars in Filmen. Im Gegensatz zu Hollywood-Tiertrainern ist es ihm wichtig, dass die Tiere in ihrer natürlichen Umgebung zu sehen sind und sich natürlich verhalten.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 110
 | NR_ST = 6
 | OT = Hongkongs fliegende Küchen<ref>Internetquellen zur Episode ''„Hongkongs fliegende Küchen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/110-hongkongs-fliegende-kuechen-339431 110] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/110-hongkongs-fliegende-kuechen-339431 339431], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641968 S04E06] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641968 4641968], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042937 tt1042937], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=tsr8CmfJ4cY tsr8CmfJ4cY]</ref>
 | Feld1 = -
 | REG = Stefan Pannen
 | EA = 2002-03-05
+| ZF = In Hongkong öffnen die Nachtmärkte in den beleuchteten Straßen rund um die Temple Street, begleitet von den fliegenden Küchen. Sie verwandeln das Viertel schnell in ein großes Schnellrestaurant. Kim Sing Yiung schiebt seine fahrbare Küche und verkauft duftenden Tofu, den seine Frau frisch zubereitet. Obwohl er keine Lizenz hat, ist er immer dort, wo das Geschäft boomt. Die Hygienepolizei ist gegen die mobilen Garküchen und könnte Kims Wagen jederzeit beschlagnahmen. Trotzdem spielt Kim Sing Yiung ein nervenaufreibendes Katz-und-Maus-Spiel, um seine Familie zu ernähren.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 111
 | NR_ST = 7
 | OT = Die Herren der Adler - Kasachische Jäger und ihre Greifvögel<ref>Internetquellen zur Episode ''„Die Herren der Adler - Kasachische Jäger und ihre Greifvögel“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/111-die-herren-der-adler-kasachische-jaeger-und-ihre-greifvoegel-339432 111] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/111-die-herren-der-adler-kasachische-jaeger-und-ihre-greifvoegel-339432 339432], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641969 S04E07] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641969 4641969], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=HrEYNIQ3dUo HrEYNIQ3dUo]</ref>
 | Feld1 = -
 | REG = Svea Andersson
 | EA = 2002-03-06
+| ZF = In der westlichen Mongolei beginnt die Jagdsaison im Winter. Die Berkutschi, die Adlermänner, gehen mit ihren weiblichen Steinadlern auf die Pirsch. Aralbay hat ein Adlerweibchen als Jungvogel aus dem Nest geholt und es hat Vertrauen zu ihm. Meistens jagt er mit seinem Adler Füchse, um die Felle gegen Sattelzeug einzutauschen. Das Adlerweibchen gehört bereits zur Familie von Aralbay.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 112
 | NR_ST = 8
 | OT = Safran - Ein blühendes Geschäft<ref>Internetquellen zur Episode ''„Safran - Ein blühendes Geschäft“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/112-safran-ein-bluehendes-geschaeft-339434 112] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/112-safran-ein-bluehendes-geschaeft-339434 339434], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641970 S04E08] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641970 4641970], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042942 tt1042942], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=a-LwN0C_I3U a-LwN0C_I3U]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-03-07
+| ZF = In einem kleinen Laden hinter der Pariser Oper verkauft die Familie Thiercellin Safran und andere Gewürze. Jedes Jahr werden hier 4000 Kilo des teuersten Gewürzes der Welt an die besten Restaurants und Privatpersonen verkauft. Marokko gilt neben dem Iran als bekannter Safranproduzent, und Jean-Marie Thiercellin besucht direkt die Erzeuger in der Region Talioune, die für ihren hochwertigen Safran bekannt ist. Da Safran häufig gefälscht wird, verlässt sich Thiercellin auf sein Gespür und seine Erfahrung beim Einkauf auf den Märkten. Im Labor kann er anhand der Farbkomponenten die Herkunft des Safrans bestimmen.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 113
 | NR_ST = 9
 | OT = Der Dreh mit den Havannas - Die Zigarrenfälschung<ref>Internetquellen zur Episode ''„Der Dreh mit den Havannas - Die Zigarrenfälschung“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/113-der-dreh-mit-den-havannas-die-zigarrenfaelschung-339435 113] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/113-der-dreh-mit-den-havannas-die-zigarrenfaelschung-339435 339435], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641971 S04E09] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641971 4641971], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042925 tt1042925], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=kGDRh9FmLw4 kGDRh9FmLw4]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-04-01
+| ZF = Auf Kuba gibt es viele gefälschte Luxuszigarren, die von professionellen Fälschern in Hinterzimmern hergestellt werden. In Miguels Werkstatt arbeiten geschickte Hände daran, aus Tabakblättern gefälschte Havannas herzustellen. Diese sehen und schmecken echt aus, wurden aber nicht in staatlichen Drehereien produziert. Armando Rodrigues Chil ist ein staatlicher Experte für Fälschungen und sucht nach illegalen Werkstätten. Viele der Fälscher haben ihr Handwerk in staatlichen Fabriken gelernt und nutzen nach Feierabend ihr Wissen, um illegal Zigarren herzustellen.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 114
 | NR_ST = 10
 | OT = Ein göttlicher Zug - das rollende Gotteshaus in Russland<ref>Internetquellen zur Episode ''„Ein göttlicher Zug - das rollende Gotteshaus in Russland“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/114-ein-goettlicher-zug-das-rollende-gotteshaus-in-russland-339436 114] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/114-ein-goettlicher-zug-das-rollende-gotteshaus-in-russland-339436 339436], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641972 S04E10] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641972 4641972], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=UA8kICaAY_Q UA8kICaAY_Q]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-04-02
+| ZF = In einer einsamen Gegend macht der russisch-orthodoxe Vater Sergej mit seinem Zug für einen Tag Halt. Der Zug dient als rollende Kirche und ermöglicht den Gläubigen in dieser Region, Gottesdienste zu besuchen. Während der Zug durch die verschneite Winterlandschaft rattert, warten die Priester andächtig auf den nächsten Halt, da der Zug ihr Zuhause ist. Nach der Zeit der Sowjetmacht gibt es in Russland nur noch wenige Kirchen. Die russisch-orthodoxe Kirche hat dieses rollende Gotteshaus geschaffen, um den Bedürftigen zu helfen. Die vier Priester und ein Mönchschor bieten Trost und geistlichen Beistand, obwohl ihre Aufenthalte kurz sind. Dennoch gelingt es ihnen, den wiederauflebenden Glauben zu stärken.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 115
 | NR_ST = 11
 | OT = Sinfonie der Straße<ref>Internetquellen zur Episode ''„Sinfonie der Straße“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/115-sinfonie-der-strasse-kinderorchester-in-venezuela-339437 115] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/115-sinfonie-der-strasse-kinderorchester-in-venezuela-339437 339437], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641973 S04E11] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641973 4641973], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042943 tt1042943], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=XqG2GkP4BqI XqG2GkP4BqI]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-04-03
+| ZF = In Caracas, der Hauptstadt Venezuelas, leben fast die Hälfte der Menschen in den Elendsvierteln, den „barrios“. Ein einzigartiges Musikprogramm ermöglicht einigen Kindern jedoch den Ausbruch aus dieser Situation. Gustavo, 19 Jahre alt, leitet als Dirigent das nationale Kinderorchester, nachdem er selbst jahrelang darin gespielt hat. Ohne die Aufmerksamkeit einer nationalen Organisation hätte er wie viele andere sein Leben auf der Straße verbracht. Die Stiftung wurde 1975 vom ehemaligen Kulturminister José Abreu gegründet und betreut über 110.000 Kinder in 180 Nachwuchsensembles, unterstützt von mehr als 1000 Mitarbeitern.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 116
 | NR_ST = 12
 | OT = Ticket in ein neues Leben - Der Lifeline Express in Indien<ref>Internetquellen zur Episode ''„Ticket in ein neues Leben - Der Lifeline Express in Indien“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/116-ticket-in-ein-neues-leben-der-lifeline-express-in-indien-339439 116] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/116-ticket-in-ein-neues-leben-der-lifeline-express-in-indien-339439 339439], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641974 S04E12] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641974 4641974], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=pi9fUEg6QJs pi9fUEg6QJs]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-05-06
+| ZF = Silaras Füße wurden erfolgreich operiert, aber sie leidet unter Schmerzen. Ihre Eltern waren verzweifelt, da sie keine Möglichkeit zur Operation sahen. Der Lifeline Express erreicht den kleinen Ort Jasidhi und wird von Tausenden Menschen belagert. Das Projekt bietet medizinische Hilfe in abgelegenen Gebieten, wo normalerweise keine Ärzte verfügbar sind. Tata Steel, eines der größten indischen Unternehmen, finanziert den Aufenthalt in Jasidhi. Der Zug, der einen Operationssaal enthält, reist seit zehn Jahren durch unterentwickelte Regionen und hat bereits über 300.000 Menschen, darunter viele Kinder, kostenlos behandelt.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 117
 | NR_ST = 13
 | OT = Die Bernsteintaucher<ref>Internetquellen zur Episode ''„Die Bernsteintaucher“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/117-die-bernsteintaucher-339440 117] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/117-die-bernsteintaucher-339440 339440], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641975 S04E13] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641975 4641975], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042928 tt1042928], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=fGA6Fgc5tgQ fGA6Fgc5tgQ]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-05-07
+| ZF = In der Ostsee vor Kaliningrad werden die meisten Bernsteinvorkommen weltweit gefördert. Taucher wie Pawel Fedotov suchen dort nach den begehrten Steinen. Mit einem Echolot auf seinem Boot kann er die senkenartigen Stellen im Meer finden, wo sich der Bernstein ansammelt. Obwohl die meisten Steine wertlose Krümel sind, können einige zu Schmuck verarbeitet werden. Obwohl es nur dem Staat erlaubt ist, Bernstein zu fördern und zu verkaufen, toleriert die schlecht bezahlte Polizei Bestechungsgelder. Die Ostsee ist für viele zur wichtigen Einkommensquelle geworden.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 118
 | NR_ST = 14
 | OT = Mumien im Ausverkauf<ref>Internetquellen zur Episode ''„Mumien im Ausverkauf“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/118-mumien-im-ausverkauf-339441 118] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/118-mumien-im-ausverkauf-339441 339441], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641976 S04E14] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641976 4641976], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042938 tt1042938], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=T_VG6xORqgI T_VG6xORqgI]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-05-08
+| ZF = Peruanische „Huaqueros“ sind tagsüber Bauern oder Fischer, doch nachts werden sie zu Mumienjägern, die nach vorkolumbianischen Artefakten graben. Historische Reliquien werden seit der Kolonialzeit an westliche Kunstsammler und Museen verkauft. Der Archäologe Pablo De La Vera Cruz ist besessen davon, den kulturellen Ausverkauf seines Landes zu stoppen. Er gibt sich als potenzieller Käufer aus und ermittelt auf dem Markt von Chiclayo, wo sich hinter den Ständen der Händler oft verbotene Ware verbirgt.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 119
 | NR_ST = 15
 | OT = Die Minensucher von Kabul<ref>Internetquellen zur Episode ''„Die Minensucher von Kabul“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/119-die-minensucher-von-kabul-339442 119] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/119-die-minensucher-von-kabul-339442 339442], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641977 S04E15] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641977 4641977], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042931 tt1042931], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=3wLFTh60fW8 3wLFTh60fW8]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-05-09
+| ZF = Die deutsche Schäferhündin Cora schnüffelt mit Abdul, ihrem afghanischen Halter, über einen kargen Feldboden. Plötzlich setzt sie sich hin, da sie eine vergrabene Landmine entdeckt hat. In Afghanistan liegen mehr versteckte Sprengkörper als irgendwo sonst auf der Welt. Mario Boers Kompanie hat bereits über 2000 von den Sowjets hinterlassene Landminen gefunden und entschärft, aber nach dem Angriff der USA mussten alle Gebiete erneut durchsucht werden. Die Hunde aus Deutschland werden in Afghanistan hoch geschätzt, da sie Sprengstoff aufspüren können. Das Räumungspersonal gräbt die Minen von Hand aus und entschärft sie.
 }}
 {{Episodenlisteneintrag
 | NR_GES = 120

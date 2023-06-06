@@ -5282,18 +5282,18 @@ seasons:
 
             „360° - Die GEO-Reportage“ feiert in Madagaskar mit Rakoto das
             Fest der lebenden Toten.'
-        summary: In Madagaskar findet alle sieben Jahre  das Fest der Ahnen,
-            die Famadihana, statt. Es ermöglicht den Toten, als Vermittler
-            zwischen der menschlichen Welt und der Götterwelt wieder zum Leben
-            erweckt zu werden. Rakoto freut sich auf das Fest, denn sein Vater
-            kehrt an diesem Tag aus dem Reich der Toten zurück. Die dreitägige
-            Leichenwendfeier beginnt früh am Morgen, wenn Rakoto das Grab
-            seines Vaters ausgräbt. Danach wäscht er die Leiche und kleidet
-            sie in kostbare Seidentücher. In einem feierlichen Umzug wird
-            die Leiche zurück ins Dorf gebracht. Die Grabstätte wird gereinigt
-            und neu gestrichen. Der Höhepunkt des Festes ist am Abend, wo
-            Lieder den Ahnen gewidmet sind und der erste Schluck aus einer
-            neuen Flasche für sie auf den Boden gegossen wird.
+        summary: In Madagaskar findet alle sieben Jahre das Fest der Ahnen,
+            die Famadihana, statt. Zum Leben erweckte Tote dienen als Vermittler
+            zwischen der menschlichen Welt und der Götterwelt. Rakoto freut
+            sich auf das Fest, denn sein Vater kehrt an diesem Tag aus dem
+            Reich der Toten zurück. Die dreitägige Leichenwendfeier beginnt
+            früh am Morgen, wenn Rakoto das Grab seines Vaters ausgräbt. Danach
+            wäscht er die Leiche und kleidet sie in kostbare Seidentücher.
+            In einem feierlichen Umzug wird die Leiche zurück ins Dorf gebracht.
+            Die Grabstätte wird gereinigt und neu gestrichen. Der Höhepunkt
+            des Festes ist am Abend, wo Lieder den Ahnen gewidmet sind und
+            der erste Schluck aus einer neuen Flasche für sie auf den Boden
+            gegossen wird.
         air_date: '2002-02-07'
         duration: 26
         duration_sec: 1591
@@ -5353,6 +5353,10 @@ seasons:
         season_no: 4
         episode_no: 6
         title: Hongkongs fliegende Küchen
+        location_wikidata: Q7698673
+        coordinates:
+        - 22.30589
+        - 114.16987
         description: 'Wenn es Nacht wird in Hongkong öffnen in den hell erleuchteten
             Straßen rund um die Temple Street die Nachtmärkte - und mit ihnen
             die fliegenden Küchen. In Windeseile sind sie aufgebaut und verwandeln
@@ -5372,33 +5376,15 @@ seasons:
 
             „360° - Die GEO-Reportage“ begleitet Kim Sing Yiung mit seiner
             fahrbaren Garküche durch die nächtlichen Straßen Hongkongs.'
-        description_fernsehserien: 'Mit Anbruch der Dunkelheit öffnen in den
-            belebten Straßen rund um die Temple Street in Hongkong die Nachtmärkte.
-            Dann erscheinen auch die Straßenköche mit ihren mobilen Garküchen,
-            die dem Hygieneamt der Stadt allerdings ein Dorn im Auge sind.
-            „360° - Die Geo-Reportage“ begleitet den Straßenkoch Kim Sing
-            Yiung, der seine fahrbare Küche immer dort hinlenkt, wo gerade
-            das Geschäft boomt. (Text: Arte)'
-        description_youtube: 'Wenn es Nacht wird in Hongkong öffnen in den
-            hell erleuchteten Straßen rund um die Temple Street die Nachtmärkte
-            - und mit ihnen die fliegenden Küchen. In Windeseile sind sie
-            aufgebaut und verwandeln das ganze Viertel in ein einziges großes
-            Schnellrestaurant. Dann gibt es keine Straßenecke mehr, an der
-            nicht gebrutzelt und gekocht wird. Aber so schnell wie sie auftauchen,
-            sind sie auch wieder verschwunden - ständig auf der Hut vor der
-            Hygienepolizei. Mit aufmerksamem Blick schiebt Kim Sing Yiung
-            seine fahrbare Küche vor sich her. Er verkauft duftenden Tofu,
-            den seine Frau jeden Tag frisch vorbereitet. Eine Lizenz hat er
-            nicht, aber mit seiner fahrbaren Küche ist er immer da, wo das
-            Geschäft boomt. Jederzeit könnte die Hygienepolizei auftauchen
-            und Kims Wagen beschlagnahmen. Den Beamten vom Hygieneamt sind
-            die mobilen Garküchen ein Dorn im Auge. Sie stören das makellose
-            Bild der Stadt. Um die Familie zu ernähren liefert sich Kim Sing
-            Yiung jede Nacht das nervenaufreibende aber meist erfolgreiche
-            Katz-und-Maus-Spiel mit der Hygienepolizei.
-
-            „360° - Die GEO-Reportage“ begleitet Kim Sing Yiung mit seiner
-            fahrbaren Garküche durch die nächtlichen Straßen Hongkongs.'
+        summary: In Hongkong öffnen die Nachtmärkte in den beleuchteten Straßen
+            rund um die Temple Street, begleitet von den fliegenden Küchen.
+            Sie verwandeln das Viertel schnell in ein großes Schnellrestaurant.
+            Kim Sing Yiung schiebt seine fahrbare Küche und verkauft duftenden
+            Tofu, den seine Frau frisch zubereitet. Obwohl er keine Lizenz
+            hat, ist er immer dort, wo das Geschäft boomt. Die Hygienepolizei
+            ist gegen die mobilen Garküchen und könnte Kims Wagen jederzeit
+            beschlagnahmen. Trotzdem spielt Kim Sing Yiung ein nervenaufreibendes
+            Katz-und-Maus-Spiel, um seine Familie zu ernähren.
         director: Stefan Pannen
         air_date: '2002-03-05'
         duration: 26
@@ -5431,28 +5417,12 @@ seasons:
 
             „360° - Die GEO-Reportage“ geht mit den kasachischen Adlermännern
             und ihren Greifvögeln auf die Jagd.'
-        description_fernsehserien: '„360° - Die Geo-Reportage“ geht mit den
-            Berkutschi, den kasachischen Adlermännern, und ihren Greifvögeln
-            auf die Jagd. Bevorzugte Beutetiere sind Füchse und Wölfe mit
-            ihren wertvollen Pelzen. (Text: Arte)'
-        description_youtube: 'Der Fuchs ahnt noch nichts von seinem Schicksal,
-            doch weit oben am Himmel hat der Adler seine Beute schon ins Visier
-            genommen. Zielgenau stürzt er sich von hinten auf den Fuchs und
-            wirft ihn zu Boden. Der Greifvogel wartet als gut ausgebildeter
-            Jagdadler, bis sein Besitzer erscheint und ihm den Fuchs abnimmt.
-
-            Mit Einzug des Winters beginnt in der westlichen Mongolei auch
-            die Jagdsaison. Dann gehen die Berkutschi, die Adlermänner, mit
-            ihren weiblichen Steinadlern, die weitaus größer und aggressiver
-            sind, als ihre männlichen Artgenossen, wieder auf die Pirsch.
-            Aralbay hat sein Adlerweibchen als Jungvogel aus dem Nest geholt.
-            Es hat Vertrauen zu ihm: „Wenn ich sie loslasse, kommt sie immer
-            wieder zu mir zurück.“ Meistens jagt Aralbay mit seinem Adler
-            Füchse. Er kann die Felle gegen Sattelzeug für sein Pferd eintauschen.
-            Für Aralbay gehört das Adlerweibchen schon zur Familie.
-
-            „360° - Die GEO-Reportage“ geht mit den kasachischen Adlermännern
-            und ihren Greifvögeln auf die Jagd.'
+        summary: In der westlichen Mongolei beginnt die Jagdsaison im Winter.
+            Die Berkutschi, die Adlermänner, gehen mit ihren weiblichen Steinadlern
+            auf die Pirsch. Aralbay hat ein Adlerweibchen als Jungvogel aus
+            dem Nest geholt und es hat Vertrauen zu ihm. Meistens jagt er
+            mit seinem Adler Füchse, um die Felle gegen Sattelzeug einzutauschen.
+            Das Adlerweibchen gehört bereits zur Familie von Aralbay.
         director: Svea Andersson
         air_date: '2002-03-06'
         duration: 26
@@ -5467,6 +5437,10 @@ seasons:
         season_no: 4
         episode_no: 8
         title: Safran - Ein blühendes Geschäft
+        location_wikidata: Q1001873
+        coordinates:
+        - 30.532777777778
+        - -7.9255555555556
         description: 'Noch vor Sonnenaufgang kommen die Blüten der Blume wie
             kleine Flammen aus der Erde: Safran - das teuerste Gewürz der
             Welt.
@@ -5486,31 +5460,16 @@ seasons:
 
             „360° - Die GEO-Reportage“ folgt dem Gewürzhändler Jean-Marie
             Thiercellin beim Einkauf der neuen Safranernte in Marokko.'
-        description_fernsehserien: 'Safran wird nicht von ungefähr als „rotes
-            Gold“ bezeichnet. Ein Kilo dieser blutroten, getrockneten Narben
-            wird auf den Basaren in Marokko für über 4.000 Euro gehandelt.
-            Auf den Märkten Europas wird oft ein Vielfaches dieses Preises
-            verlangt. Der Gewürzhändler Jean-Marie Thiercellin kauft seine
-            Ware nur direkt beim Erzeuger. (Text: Discovery Channel)'
-        description_youtube: 'Noch vor Sonnenaufgang kommen die Blüten der
-            Blume wie kleine Flammen aus der Erde: Safran - das teuerste Gewürz
-            der Welt.
-
-            In einer Gasse gleich hinter der Pariser Oper liegt ein kleiner
-            Laden. Hier verkauft die Familie Thiercellin Safran und andere
-            Gewürze. Allein 4000 Kilo des roten Goldes werden hier jedes Jahr
-            an die besten Restaurants der Stadt und Privatleute verkauft.
-            Nach dem Iran ist vor allem Marokko als Safranproduzent bekannt.
-            Meist fährt Jean-Marie Thiercellin direkt zu den Erzeugern in
-            der Region Talioune jenseits des hohen Atlas. Hier wächst der
-            beste Safran. Kein Gewürz der Welt wird so oft gefälscht wie Safran.
-            Auf den Märkten muss sich Thiercellin auf sein Gespür und seine
-            Erfahrung verlassen. Daheim im modernen Labor kann er sogar anhand
-            der Zusammenstellung einzelner Farbkomponenten bestimmen, aus
-            welcher Region der Safran kommt.
-
-            „360° - Die GEO-Reportage“ folgt dem Gewürzhändler Jean-Marie
-            Thiercellin beim Einkauf der neuen Safranernte in Marokko.'
+        summary: In einem kleinen Laden hinter der Pariser Oper verkauft die
+            Familie Thiercellin Safran und andere Gewürze. Jedes Jahr werden
+            hier 4000 Kilo des teuersten Gewürzes der Welt an die besten Restaurants
+            und Privatpersonen verkauft. Marokko gilt neben dem Iran als bekannter
+            Safranproduzent, und Jean-Marie Thiercellin besucht direkt die
+            Erzeuger in der Region Talioune, die für ihren hochwertigen Safran
+            bekannt ist. Da Safran häufig gefälscht wird, verlässt sich Thiercellin
+            auf sein Gespür und seine Erfahrung beim Einkauf auf den Märkten.
+            Im Labor kann er anhand der Farbkomponenten die Herkunft des Safrans
+            bestimmen.
         air_date: '2002-03-07'
         duration: 26
         duration_sec: 1583
@@ -5525,6 +5484,10 @@ seasons:
         season_no: 4
         episode_no: 9
         title: Der Dreh mit den Havannas - Die Zigarrenfälschung
+        location_wikidata: Q241
+        coordinates:
+        - 22
+        - -79.5
         description: 'Kuba - das ist auch das Land der Luxuszigarren. Kaum
             ein Tourist, der ohne eine Havanna, Cohiba oder Monte Christo
             nach Hause fliegt. Doch viele der Zigarren sind Fälschungen. In
@@ -5545,31 +5508,15 @@ seasons:
             „360° - Die GEO-Reportage“ beobachtet einen professionellen Zigarrenfälscher
             bei seiner Arbeit in den Hinterzimmern Havannas und besucht den
             Mann, der ihm das Handwerk legen will.'
-        description_fernsehserien: 'Kuba - das ist auch das Land der Luxuszigarren.
-            Kaum ein Tourist, der ohne eine Havanna, Cohiba oder Montechristo
-            nach Hause fliegt. Doch viele der Zigarren sind Fälschungen. In
-            kubanischen Hinterzimmern arbeiten ganze Clans von professionellen
-            Zigarrenfälschern. (Text: Arte)'
-        description_youtube: 'Kuba - das ist auch das Land der Luxuszigarren.
-            Kaum ein Tourist, der ohne eine Havanna, Cohiba oder Monte Christo
-            nach Hause fliegt. Doch viele der Zigarren sind Fälschungen. In
-            kubanischen Hinterzimmern arbeiten ganze Clans von professionellen
-            Zigarrenfälschern. In Miguels Werkstatt herrscht reger Betrieb.
-            Flinke Finger drehen aus wenigen Tabakblättern eine Füllung, pressen
-            diese zusammen und versehen sie mit einem Deckblatt. Fertig ist
-            eine „echte“ Havanna - zumindest, was Geschmack und Aussehen betrifft.
-            Der einzige Unterschied zur offiziellen Zigarre: Sie wurde nicht
-            in einer der staatlichen und damit autorisierten Drehereien gefertigt.
-            Armando Rodrigues Chil ist staatlicher Fälschungsexperte und fahndet
-            nach den illegalen Werkstätten. So wie Miguel haben viele der
-            Fälscher ihr Handwerk in den staatlichen Fabriken gelernt, sind
-            dort tagsüber auch weiterhin beschäftigt - und zweigen einen Großteil
-            des benötigten Werkzeugs von dort ab. Der gleiche Tabak, dieselben
-            Hände - aber nach Feierabend im eigenen Wohnzimmer und somit illegal.
-
-            „360° - Die GEO-Reportage“ beobachtet einen professionellen Zigarrenfälscher
-            bei seiner Arbeit in den Hinterzimmern Havannas und besucht den
-            Mann, der ihm das Handwerk legen will.'
+        summary: Auf Kuba gibt es viele gefälschte Luxuszigarren, die von
+            professionellen Fälschern in Hinterzimmern hergestellt werden.
+            In Miguels Werkstatt arbeiten geschickte Hände daran, aus Tabakblättern
+            gefälschte Havannas herzustellen. Diese sehen und schmecken echt
+            aus, wurden aber nicht in staatlichen Drehereien produziert. Armando
+            Rodrigues Chil ist ein staatlicher Experte für Fälschungen und
+            sucht nach illegalen Werkstätten. Viele der Fälscher haben ihr
+            Handwerk in staatlichen Fabriken gelernt und nutzen nach Feierabend
+            ihr Wissen, um illegal Zigarren herzustellen.
         air_date: '2002-04-01'
         duration: 26
         duration_sec: 1592
@@ -5602,31 +5549,17 @@ seasons:
             „360° - Die GEO-Reportage“  begleitet die Priester auf ihrer Zugfahrt
             quer durch Sibirien und zeigt sie bei ihrer täglichen, aber keineswegs
             alltäglichen Arbeit.'
-        description_fernsehserien: 'Um auch in den entlegensten Ortschaften
-            Sibiriens Gottesdienste abhalten zu können, hat die russisch-orthodoxe
-            Kirche ein rollendes Gotteshaus eingeweiht. Vier Priester und
-            ein Mönchschor reisen quer durch das Land. Sie besuchen die Orte,
-            in denen es keine Kirche oder keine Geistlichen gibt, halten Messen
-            ab und spenden Trost und geistlichen Beistand. (Text: Discovery
-            Channel)'
-        description_youtube: 'An der Wand des Zugabteils prangt der goldene
-            Jesus. Für einen Tag macht der Zug des russisch-orthodoxen Vaters
-            Sergej in ihrer einsamen Gegend Rast. Die rollende Kirche ist
-            für sie die einzige Möglichkeit, einen Gottesdienst abzuhalten.
-
-            Monoton rattert der Zug durch die verschneite Winterlandschaft.
-            Drinnen sitzen Priester, andächtig auf den nächsten Halt wartend
-            - der Zug ist ihr Daheim. Nach den Jahren der Sowjetmacht gibt
-            es in Russland kaum noch Kirchen. Um jenen Hilfesuchenden entgegen
-            zu kommen, hat die russisch-orthodoxe Kirche dieses rollende Gotteshaus
-            eingeweiht. Die vier Priester und ein Mönchschor spenden Trost
-            und leisten geistlichen Beistand. Mehr können sie während ihrer
-            kurzen Aufenthalte nicht tun. Und doch schaffen sie es zumindest,
-            den wieder erstarkenden Glauben zu nähren.
-
-            „360° - Die GEO-Reportage“  begleitet die Priester auf ihrer Zugfahrt
-            quer durch Sibirien und zeigt sie bei ihrer täglichen, aber keineswegs
-            alltäglichen Arbeit.'
+        summary: In einer einsamen Gegend macht der russisch-orthodoxe Vater
+            Sergej mit seinem Zug für einen Tag Halt. Der Zug dient als rollende
+            Kirche und ermöglicht den Gläubigen in dieser Region, Gottesdienste
+            zu besuchen. Während der Zug durch die verschneite Winterlandschaft
+            rattert, warten die Priester andächtig auf den nächsten Halt,
+            da der Zug ihr Zuhause ist. Nach der Zeit der Sowjetmacht gibt
+            es in Russland nur noch wenige Kirchen. Die russisch-orthodoxe
+            Kirche hat dieses rollende Gotteshaus geschaffen, um den Bedürftigen
+            zu helfen. Die vier Priester und ein Mönchschor bieten Trost und
+            geistlichen Beistand, obwohl ihre Aufenthalte kurz sind. Dennoch
+            gelingt es ihnen, den wiederauflebenden Glauben zu stärken.
         air_date: '2002-04-02'
         duration: 26
         duration_sec: 1595
@@ -5640,7 +5573,11 @@ seasons:
         season_no: 4
         episode_no: 11
         title: Sinfonie der Straße
-        alias: Sinfonie der Straße - Kinderorchester in Venezuela
+        subtitle: Kinderorchester in Venezuela
+        location_wikidata: Q1533
+        coordinates:
+        - 10.5
+        - -66.933333333333
         description: 'In Venezuelas Hauptstadt Caracas hausen knapp die Hälfte
             der Menschen in Elendsvierteln, den sogenannten „barrios“. Einigen
             Kindern jedoch gelingt der Absprung. Ein weltweit einmaliges Musikprogramm
@@ -5659,30 +5596,16 @@ seasons:
             José Abreu bei der Arbeit mit jungen Musiktalenten, die durch
             die Aufnahme ins nationale Kinderorchester von der Straße geholt
             werden konnten.'
-        description_fernsehserien: 'Knapp die Hälfte der Bevölkerung Venezuelas
-            haust in den sogenannten „barrios“, den Elendsvierteln der Stadt.
-            Seit 1975 hilft eine Stiftung, Kinder von der Straße zu holen.
-            Über 110.000 Kinder spielen in einem der inzwischen 180 Nachwuchsensembles.
-            Auch die Dirigenten Gustavo und José Abreu arbeiten für das einzigartige
-            Musikprogramm. (Text: Discovery Channel)'
-        description_youtube: 'In Venezuelas Hauptstadt Caracas hausen knapp
-            die Hälfte der Menschen in Elendsvierteln, den sogenannten „barrios“.
-            Einigen Kindern jedoch gelingt der Absprung. Ein weltweit einmaliges
-            Musikprogramm hilft ihnen, sich ein neues Leben aufzubauen.
-
-            Gustavo atmet tief ein, erhebt den Taktstock, und das Ensemble
-            beginnt zu spielen. Er ist gerade 19 Jahre alt und dirigiert das
-            „nationale Kinderorchester“. Jahrelang hat er selber darin gespielt.
-            Wäre nicht eine nationale Organisation auf ihn aufmerksam geworden,
-            hätte Gustavo sein Leben wie viele auf der Straße verbracht. Der
-            ehemalige Kulturminister José Abreu rief die Stiftung 1975 ins
-            Leben. Über 110.000 Kinder spielen in einem der 180 Nachwuchsensembles,
-            betreut von über 1000 Mitarbeitern.
-
-            „360° - Die GEO-Reportage“ beobachtet den Dirigenten Gustavo und
-            José Abreu bei der Arbeit mit jungen Musiktalenten, die durch
-            die Aufnahme ins nationale Kinderorchester von der Straße geholt
-            werden konnten.'
+        summary: In Caracas, der Hauptstadt Venezuelas, leben fast die Hälfte
+            der Menschen in den Elendsvierteln, den „barrios“. Ein einzigartiges
+            Musikprogramm ermöglicht einigen Kindern jedoch den Ausbruch aus
+            dieser Situation. Gustavo, 19 Jahre alt, leitet als Dirigent das
+            nationale Kinderorchester, nachdem er selbst jahrelang darin gespielt
+            hat. Ohne die Aufmerksamkeit einer nationalen Organisation hätte
+            er wie viele andere sein Leben auf der Straße verbracht. Die Stiftung
+            wurde 1975 vom ehemaligen Kulturminister José Abreu gegründet
+            und betreut über 110.000 Kinder in 180 Nachwuchsensembles, unterstützt
+            von mehr als 1000 Mitarbeitern.
         air_date: '2002-04-03'
         duration: 26
         duration_sec: 1581
@@ -5697,6 +5620,10 @@ seasons:
         season_no: 4
         episode_no: 12
         title: Ticket in ein neues Leben - Der Lifeline Express in Indien
+        location_wikidata: Q2558207
+        coordinates:
+        - 24.52
+        - 86.65
         description: 'Die frisch operierten Füße der kleinen Silara schmerzen
             unter dem Gipsverband. Bis vor wenigen Wochen waren ihre Eltern
             noch ohne jede Hoffnung, die Verwachsungen an den Füßen jemals
@@ -5717,31 +5644,16 @@ seasons:
             Express bei seiner Station in Jasidhi und beobachtet den Organisator
             Arvind bei der Koordination dieses gewaltigen Unternehmens. Mit
             50 000 Menschen hatte Arvind gerechnet - aber es wurden mehr.'
-        description_fernsehserien: 'Seit zehn Jahren reist der Lifeline Express
-            durch die schwach entwickelten Regionen Indiens. Der Zug wird
-            von der Hilfsorganisation des Tata Steel Konzerns finanziert und
-            enthält einen kompletten Operationssaal. Über 300.000 Menschen
-            wurden bisher kostenlos behandelt. (Text: Discovery Channel)'
-        description_youtube: 'Die frisch operierten Füße der kleinen Silara
-            schmerzen unter dem Gipsverband. Bis vor wenigen Wochen waren
-            ihre Eltern noch ohne jede Hoffnung, die Verwachsungen an den
-            Füßen jemals operieren lassen zu können.
-
-            Als der Lifeline Express im kleinen Ort Jasidhi eintrifft, belagern
-            Tausende Menschen den Zug. Das Projekt bietet medizinische Hilfe
-            dort, wo normalerweise kein Arzt hinkommt.
-
-            Die Hilfsorganisation des Tata Steel Konzerns, eines der größten
-            indischen Unternehmen finanziert den vierwöchigen Aufenthalt in
-            Jasidhi. Der Zug, der einen kompletten Operationssaal enthält,
-            reist seit zehn Jahren durch die schwach entwickelten Regionen
-            des Subkontinents. Über 300.000 Menschen, unter ihnen viele Kinder,
-            wurden bisher kostenlos behandelt.
-
-            „360° - Die GEO-Reportage“  begleitet die Arbeit des Lifeline
-            Express bei seiner Station in Jasidhi und beobachtet den Organisator
-            Arvind bei der Koordination dieses gewaltigen Unternehmens. Mit
-            50 000 Menschen hatte Arvind gerechnet - aber es wurden mehr.'
+        summary: Silaras Füße wurden erfolgreich operiert, aber sie leidet
+            unter Schmerzen. Ihre Eltern waren verzweifelt, da sie keine Möglichkeit
+            zur Operation sahen. Der Lifeline Express erreicht den kleinen
+            Ort Jasidhi und wird von Tausenden Menschen belagert. Das Projekt
+            bietet medizinische Hilfe in abgelegenen Gebieten, wo normalerweise
+            keine Ärzte verfügbar sind. Tata Steel, eines der größten indischen
+            Unternehmen, finanziert den Aufenthalt in Jasidhi. Der Zug, der
+            einen Operationssaal enthält, reist seit zehn Jahren durch unterentwickelte
+            Regionen und hat bereits über 300.000 Menschen, darunter viele
+            Kinder, kostenlos behandelt.
         air_date: '2002-05-06'
         duration: 26
         duration_sec: 1583
@@ -5755,6 +5667,10 @@ seasons:
         season_no: 4
         episode_no: 13
         title: Die Bernsteintaucher
+        location_wikidata: Q1829
+        coordinates:
+        - 54.716666666667
+        - 20.5
         description: 'Von morgens bis abends gleiten die Taucher in das eiskalte
             Wasser der Ostsee. Im Gebiet vor Kaliningrad, dem ehemaligen Königsberg,
             werden 90 Prozent der weltweiten Bernsteinvorkommen gefördert.
@@ -5773,31 +5689,15 @@ seasons:
             „360° - Die GEO-Reportage“ begleitet den Bernsteintaucher Pawel
             Fedotov beim Tauchgang in der eisigen Ostsee und dem Versuch,
             die illegale Ware auf den Markt zu bringen.'
-        description_fernsehserien: '90 Prozent der weltweiten Bernsteinvorkommen
-            werden in Kaliningrad gefördert. Besonders begehrt ist der See-Bernstein.
-            Obwohl die Förderung nur dem Staat erlaubt ist, tauchen immer
-            mehr Menschen nach den Steinen, die Küstenregion zwischen Polen
-            und Litauen ist zu einem Schmugglerparadies geworden. (Text: Discovery
-            Channel)'
-        description_youtube: 'Von morgens bis abends gleiten die Taucher in
-            das eiskalte Wasser der Ostsee. Im Gebiet vor Kaliningrad, dem
-            ehemaligen Königsberg, werden 90 Prozent der weltweiten Bernsteinvorkommen
-            gefördert.
-
-            Pawel Fedotov ist besser ausgestattet als die meisten anderen
-            der 40 Taucher: Er besitzt auf seinem Boot sogar ein Echolot,
-            damit kann er die Senken im Meer finden, wo sich die Steine ansammeln.
-            See-Bernstein ist zwar meist kleiner, aber auch begehrter als
-            jener aus der Erde. Aber weit über 90 Prozent der gefundenen Steine
-            sind nur wertlose Krümel. Der Rest aber kann zu Schmuck verarbeitet
-            werden. Offiziell darf nur der Staat Bernstein fördern und verkaufen.
-            Doch die schlecht bezahlte Polizei drückt für ein paar hundert
-            Rubel gern ein Auge zu. Das Gold der Ostsee ist für viele zu einer
-            wichtigen Einkommensquelle geworden.
-
-            „360° - Die GEO-Reportage“ begleitet den Bernsteintaucher Pawel
-            Fedotov beim Tauchgang in der eisigen Ostsee und dem Versuch,
-            die illegale Ware auf den Markt zu bringen.'
+        summary: In der Ostsee vor Kaliningrad werden die meisten Bernsteinvorkommen
+            weltweit gefördert. Taucher wie Pawel Fedotov suchen dort nach
+            den begehrten Steinen. Mit einem Echolot auf seinem Boot kann
+            er die senkenartigen Stellen im Meer finden, wo sich der Bernstein
+            ansammelt. Obwohl die meisten Steine wertlose Krümel sind, können
+            einige zu Schmuck verarbeitet werden. Obwohl es nur dem Staat
+            erlaubt ist, Bernstein zu fördern und zu verkaufen, toleriert
+            die schlecht bezahlte Polizei Bestechungsgelder. Die Ostsee ist
+            für viele zur wichtigen Einkommensquelle geworden.
         air_date: '2002-05-07'
         duration: 26
         duration_sec: 1613
@@ -5812,6 +5712,10 @@ seasons:
         season_no: 4
         episode_no: 14
         title: Mumien im Ausverkauf
+        location_wikidata: Q260911
+        coordinates:
+        - -6.7629611111111
+        - -79.836613888889
         description: 'Sobald Dunkelheit die Steinwüste einhüllt, huschen sie
             aus ihren Dörfern und fangen an zu graben. Sie sind peruanische
             „Huaqueros“, Räuber von vorkolumbianischen Artefakten.
@@ -5829,28 +5733,14 @@ seasons:
             „360° - Die GEO-Reportage“ begleitet den Archäologen Pablo De
             La Vera Cruz bei seiner Jagd nach verschwundenen Schätzen, die
             Grabräuber den Mumien ihrer Vorfahren abgenommen haben.'
-        description_fernsehserien: 'Tagsüber sind sie Bauern, Fischer, Handwerker
-            oder Tagelöhner. Nachts werden sie zu Mumienjägern. In den letzen
-            Jahren hat die Anzahl der „Huaqueros“, der Grabräuber, die sich
-            durch den Diebstahl und Verkauf alter Artefakte über Wasser halten,
-            in Peru stark zugenommen. (Text: Discovery Channel)'
-        description_youtube: 'Sobald Dunkelheit die Steinwüste einhüllt, huschen
-            sie aus ihren Dörfern und fangen an zu graben. Sie sind peruanische
-            „Huaqueros“, Räuber von vorkolumbianischen Artefakten.
-
-            Tagsüber sind sie Bauern, Fischer oder Tagelöhner. Nachts werden
-            sie zu Mumienjägern, suchen nach frühgeschichtlichen Schätzen.
-            Seit der Kolonialzeit läuft der Ausverkauf der historischen Reliquien
-            - vornehmlich an westliche Kunstsammler und Museen. Der Archäologe
-            Pablo De La Vera Cruz will den endgültigen kulturellen Ausverkauf
-            seines Landes verhindern. Das Aufspüren der Räuber ist für den
-            Archäologen zur Obsession geworden. Er ermittelt auf dem Markt
-            von Chiclayo, wo er sich als potentieller Käufer ausgibt. Hinter
-            den Ständen der Händler verbirgt sich oft die verbotene Ware.
-
-            „360° - Die GEO-Reportage“ begleitet den Archäologen Pablo De
-            La Vera Cruz bei seiner Jagd nach verschwundenen Schätzen, die
-            Grabräuber den Mumien ihrer Vorfahren abgenommen haben.'
+        summary: Peruanische „Huaqueros“ sind tagsüber Bauern oder Fischer,
+            doch nachts werden sie zu Mumienjägern, die nach vorkolumbianischen
+            Artefakten graben. Historische Reliquien werden seit der Kolonialzeit
+            an westliche Kunstsammler und Museen verkauft. Der Archäologe
+            Pablo De La Vera Cruz ist besessen davon, den kulturellen Ausverkauf
+            seines Landes zu stoppen. Er gibt sich als potenzieller Käufer
+            aus und ermittelt auf dem Markt von Chiclayo, wo sich hinter den
+            Ständen der Händler oft verbotene Ware verbirgt.
         air_date: '2002-05-08'
         duration: 26
         duration_sec: 1607
@@ -5865,6 +5755,10 @@ seasons:
         season_no: 4
         episode_no: 15
         title: Die Minensucher von Kabul
+        location_wikidata: Q889
+        coordinates:
+        - 33
+        - 66
         description: 'Mit der Nase tief über dem Boden schnüffelt die deutsche
             Schäferhündin Cora über den kargen Feldboden. Abdul, der afghanische
             Halter, folgt ihr auf dem Fuß. Plötzlich setzt Cora sich hin,
@@ -5884,32 +5778,16 @@ seasons:
             von Mario Boer bei seiner gefährlichen Arbeit in den Minenfeldern
             Afghanistans und beobachtet das Training und die Ausbildung der
             Suchhunde.'
-        description_fernsehserien: 'Der Berliner Minenexperte Mario Boer hat
-            mit seiner Truppe bereits über 2.000 von den Sowjets hinterlassene
-            Landminen in Afghanistan aufgespürt und entschärft. Ohne seine
-            Minensuchhunde wäre dies nicht möglich gewesen. Boer bildet Hunderte
-            Afghanen zu Hundeführern aus und lehrt sie, Welpen zu Minenspürhunden
-            abzurichten. (Text: Discovery Geschichte)'
-        description_youtube: 'Mit der Nase tief über dem Boden schnüffelt
-            die deutsche Schäferhündin Cora über den kargen Feldboden. Abdul,
-            der afghanische Halter, folgt ihr auf dem Fuß. Plötzlich setzt
-            Cora sich hin, jeder weitere Schritt wäre lebensgefährlich. Denn
-            in der Erde vergraben liegt eine vergessene Landmine. Nirgendwo
-            sonst auf der Welt liegen derzeit mehr versteckte Sprengkörper
-            als in Afghanistan.
-
-            Über 2000 von den Sowjets hinterlassene Landminen hatte die Kompanie
-            von Mario Boer bereits aufgespürt und entschärft, als die USA
-            Afghanistan angriffen. Danach mussten alle Gebiete neu abgesucht
-            werden. In Afghanistan setzt man große Hoffnung auf die Hunde
-            aus Deutschland. Haben sie Sprengstoff gerochen, setzten sie sich
-            hin. Das nachfolgende Räumungspersonal gräbt die Minen mit der
-            Hand aus und entschärft sie.
-
-            „360° - Die GEO-Reportage“  begleitet die Minenhundsuchtruppe
-            von Mario Boer bei seiner gefährlichen Arbeit in den Minenfeldern
-            Afghanistans und beobachtet das Training und die Ausbildung der
-            Suchhunde.'
+        summary: Die deutsche Schäferhündin Cora schnüffelt mit Abdul, ihrem
+            afghanischen Halter, über einen kargen Feldboden. Plötzlich setzt
+            sie sich hin, da sie eine vergrabene Landmine entdeckt hat. In
+            Afghanistan liegen mehr versteckte Sprengkörper als irgendwo sonst
+            auf der Welt. Mario Boers Kompanie hat bereits über 2000 von den
+            Sowjets hinterlassene Landminen gefunden und entschärft, aber
+            nach dem Angriff der USA mussten alle Gebiete erneut durchsucht
+            werden. Die Hunde aus Deutschland werden in Afghanistan hoch geschätzt,
+            da sie Sprengstoff aufspüren können. Das Räumungspersonal gräbt
+            die Minen von Hand aus und entschärft sie.
         air_date: '2002-05-09'
         duration: 26
         duration_sec: 1591
