@@ -977,45 +977,50 @@
 | DREHBUCH = nein
 | Feld1 = Französischer Titel
 | INHALT =
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 105
 | NR_ST = 1
 | OT = Cunahá - Tod im Regenwald<ref>Internetquellen zur Episode ''„Cunahá - Tod im Regenwald“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/105-cunaha-tod-im-regenwald-339426 105] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/105-cunaha-tod-im-regenwald-339426 339426], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641963 S04E01] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641963 4641963], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042924 tt1042924], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=yzGLrkcry6c yzGLrkcry6c]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-02-04
+| ZF = Die Suruahà-Indianer im Urwald Amazoniens sind ein Volk von Witwen, Witwern und Waisen. Selbstmord ist Teil ihrer Kultur, und sie machen sich auf die Reise zu ihren Vorfahren. Ein deutscher Zahnarzt und ein brasilianischer Psychologe erreichen ihr Gebiet und behandeln die Suruahà auf improvisierten Zahnarztstühlen. Die Indianer sind schmerzunempfindlich aufgrund der Droge Kumady, die sie schnupfen. Cunahá, eine weitere Substanz, wird von allen über 12 Jahren ausprobiert, oft mit tödlichen Folgen. Für die Suruahà ist der Tod jedoch ein willkommenes Mittel, um ins Jenseits zu gelangen.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 106
 | NR_ST = 2
 | OT = Walverwandtschaften<ref>Internetquellen zur Episode ''„Walverwandtschaften“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/106-walverwandtschaften-339427 106] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/106-walverwandtschaften-339427 339427], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641964 S04E02] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641964 4641964], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042945 tt1042945], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=h5_HKyfGWqk h5_HKyfGWqk]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-02-05
+| ZF = William und Susanne Megill haben das Forschungsschiff „Stardust“ zu einem Labor umgebaut, um das Verhalten der faszinierenden Grauwale vor der kanadischen Westküste zu erforschen. Sie gründeten die „Coastal Ecosystems Research Foundation“ und bieten Naturliebhabern und Walfreunden die Möglichkeit, eine Woche lang als Hobby-Biologen mitzuhelfen. Eine Gruppe sucht vom Strand aus mit Ferngläsern nach den Walen, während eine andere Gruppe in Kajaks näher heranpaddelt, um sie zu fotografieren. William erwähnt, dass es manchmal scheint, als ob die Wale sie erforschen. Das Projekt vereint ökologisches Interesse, Abenteuerlust und die Begeisterung für die Meeresriesen.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 107
 | NR_ST = 3
 | OT = Wildreis - Der grüne Schatz der kanadischen Ojibwa-Indianer<ref>Internetquellen zur Episode ''„Wildreis - Der grüne Schatz der kanadischen Ojibwa-Indianer“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/107-wildreis-der-gruene-schatz-der-kanadischen-ojibwa-indianer-339428 107] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/107-wildreis-der-gruene-schatz-der-kanadischen-ojibwa-indianer-339428 339428], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641965 S04E03] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641965 4641965], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042927 tt1042927], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=JZX6YmRRFkE JZX6YmRRFkE]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-02-06
+| ZF = Ontario ist das Land der tausend Seen und der kanadische Wildreis ist der wertvolle Schatz der Ojibwa-Indianer. Seit Jahrtausenden sichert dieser Samen namens Manomin ihr Überleben. Joe Pitchenese, der Sohn des Häuptlings, gleitet mit seinem Kanu leise durch den Wabigoon See und erntet die grünen Reispflanzen. Seine Frau hilft ihm dabei, die reifen Körner zu ernten und die Saat zu sichern. Obwohl weiße Farmer mit Maschinen den Reis ernten wollten und dabei großen Schaden anrichteten, haben die Ojibwa-Indianer erfolgreich ihr Recht auf die Seen verteidigt.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 108
 | NR_ST = 4
 | OT = Party für eine Leiche<ref>Internetquellen zur Episode ''„Party für eine Leiche“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/108-party-fuer-eine-leiche-das-fest-der-ahnen-in-madagaskar-339429 108] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/108-party-fuer-eine-leiche-das-fest-der-ahnen-in-madagaskar-339429 339429], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641966 S04E04] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641966 4641966], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042940 tt1042940], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=rw8zynFSFJo rw8zynFSFJo]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-02-07
+| ZF = In Madagaskar findet alle sieben Jahre  das Fest der Ahnen, die Famadihana, statt. Es ermöglicht den Toten, als Vermittler zwischen der menschlichen Welt und der Götterwelt wieder zum Leben erweckt zu werden. Rakoto freut sich auf das Fest, denn sein Vater kehrt an diesem Tag aus dem Reich der Toten zurück. Die dreitägige Leichenwendfeier beginnt früh am Morgen, wenn Rakoto das Grab seines Vaters ausgräbt. Danach wäscht er die Leiche und kleidet sie in kostbare Seidentücher. In einem feierlichen Umzug wird die Leiche zurück ins Dorf gebracht. Die Grabstätte wird gereinigt und neu gestrichen. Der Höhepunkt des Festes ist am Abend, wo Lieder den Ahnen gewidmet sind und der erste Schluck aus einer neuen Flasche für sie auf den Boden gegossen wird.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 109
 | NR_ST = 5
 | OT = Filmstars im Pelz<ref>Internetquellen zur Episode ''„Filmstars im Pelz“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/109-filmstars-im-pelz-339430 109] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/109-filmstars-im-pelz-339430 339430], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641967 S04E05] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641967 4641967], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042935 tt1042935], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=gMcu-RgppR8 gMcu-RgppR8]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-03-04
+| ZF = In der Nähe von Budapest leitet Zoltán Horkai, 28 Jahre alt, ein Tierasyl, das Tiere aus ganz Osteuropa aufnimmt. Das Asyl wurde ursprünglich für Tiere aus ungarischen Tierfilmen der kommunistischen Ära gebaut. Die World Society for the Protection of Animals (WSPA) unterstützt den Bau der Gehege und einen Teil der Kosten. Horkai finanziert den Rest durch Auftritte seiner tierischen Stars in Filmen. Im Gegensatz zu Hollywood-Tiertrainern ist es ihm wichtig, dass die Tiere in ihrer natürlichen Umgebung zu sehen sind und sich natürlich verhalten.
 }}
 {{Episodenlisteneintrag
 | NR_GES = 110
