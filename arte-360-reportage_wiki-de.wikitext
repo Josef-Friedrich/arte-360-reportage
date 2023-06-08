@@ -1112,61 +1112,68 @@
 | EA = 2002-05-09
 | ZF = Die deutsche Schäferhündin Cora schnüffelt mit Abdul, ihrem afghanischen Halter, über einen kargen Feldboden. Plötzlich setzt sie sich hin, da sie eine vergrabene Landmine entdeckt hat. In Afghanistan liegen mehr versteckte Sprengkörper als irgendwo sonst auf der Welt. Mario Boers Kompanie hat bereits über 2000 von den Sowjets hinterlassene Landminen gefunden und entschärft, aber nach dem Angriff der USA mussten alle Gebiete erneut durchsucht werden. Die Hunde aus Deutschland werden in Afghanistan hoch geschätzt, da sie Sprengstoff aufspüren können. Das Räumungspersonal gräbt die Minen von Hand aus und entschärft sie.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 120
 | NR_ST = 16
 | OT = Bermuda: Schatzsuche in der Tiefsee<ref>Internetquellen zur Episode ''„Bermuda: Schatzsuche in der Tiefsee“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/120-bermuda-schatzsuche-in-der-tiefsee-339443 120] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/120-bermuda-schatzsuche-in-der-tiefsee-339443 339443], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641978 S04E16] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641978 4641978], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042923 tt1042923]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-06-03
+| ZF = Das russische Forschungsschiff „Akademik Keldysh“ hat modernste Technologie an Bord, darunter die Tiefseeboote MIR1 und MIR2 mit High-Tech-Kameras, Lampen und Roboterarmen. Anstatt nur Wissenschaftler, begleitet der australische Abenteurer Mike McDowell die Mannschaft. Sie planen, zur Sargassosee zu fahren, wo das Wrack einer spanischen Gold-Galeone vermutet wird. Dies könnte einen unermesslichen Reichtum bedeuten.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 121
 | NR_ST = 17
 | OT = Die Legende von den Killerbienen<ref>Internetquellen zur Episode ''„Die Legende von den Killerbienen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/121-die-legende-von-den-killerbienen-339405 121] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/121-die-legende-von-den-killerbienen-339405 339405], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641979 S04E17] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641979 4641979], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042930 tt1042930], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=rw9kCLRBqS4 rw9kCLRBqS4]</ref>
 | Feld1 = Les Abeilles Tueuses
 | REG = Manfred Christ
 | EA = 2002-06-04
+| ZF = Im Jahr 1956 brachte der Genetiker Warwick Estavam Kerr im Auftrag der brasilianischen Regierung afrikanische Bienenköniginnen nach Brasilien, um die Honigproduktion zu steigern. Durch die Kreuzung mit europäischen Honigbienen entstanden aggressive und vitale „afrikanisierte Bienen“. Ein Jahr später entkamen 26 dieser Hybridvölker und breiteten sich rasant aus, bis nach Nordamerika. Dort wurden sie als „Killerbienen“ bekannt, griffen Menschen und Tiere an und verdrängten einheimische Bienenarten. Gerald Kastberger, ein österreichischer Bienenforscher, erforscht diese Insekten in den USA und Brasilien, um ihre Angriffsbereitschaft zu verstehen und zu entmystifizieren.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 122
 | NR_ST = 18
 | OT = Die Schule der Inuit<ref>Internetquellen zur Episode ''„Die Schule der Inuit“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/122-die-schule-der-inuit-339445 122] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/122-die-schule-der-inuit-339445 339445], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641980 S04E18] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641980 4641980], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042932 tt1042932], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=DvR4hXuzv1M DvR4hXuzv1M]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-06-05
+| ZF = In Nordgrönland, einem Fjord nördlich des Polarkreises, bereiten sich Jugendliche aus dem Heim „Bornehjemmet“ auf eine zweimonatige Expedition vor. Bei eisigen Temperaturen von minus 30 Grad spielen drei Kinder vor einer improvisierten Hütte Karten, während zwei andere Kordeln und Haken zusammenknüpfen. Ihr Ziel ist es, im ewigen Eis zu überleben und dadurch mehr Selbstvertrauen zu gewinnen. Vor sieben Jahren gründete der Grönländer Ole Jorgen das Projekt, um Kindern aus schwierigen Verhältnissen neue Perspektiven zu bieten.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 123
 | NR_ST = 19
 | OT = Peones - Verkannte Helden<ref>Internetquellen zur Episode ''„Peones - Verkannte Helden“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/123-peones-verkannte-helden-339446 123] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/123-peones-verkannte-helden-339446 339446], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641981 S04E19] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641981 4641981], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042941 tt1042941], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=MXtyKNBctjU MXtyKNBctjU]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-06-06
+| ZF = Im Herbstwind der Ebenen kämpfen uruguayische Peones de Estancia, Nachfahren der einst legendären Gauchos, mit widrigen Bedingungen. Starke Regenfälle verwandeln das Land in einen Morast. Néstor Travieso und seine Söhne sind Peones, Viehhirten, auf der Estancia El Guayabo. Sie kümmern sich um 600 Rinder, 800 Schafe und 40 Wildpferde. Néstor fängt und zähmt Tiere, hilft bei Geburten und schlachtet. Die Arbeit ist schlecht bezahlt und viele Peones finden keine Anstellung. Die jährlichen Domas, Gaucho-Rodeos, sind von großer Bedeutung für sie, um Geld und Ehre zu gewinnen. Der gefährliche Ritt auf den wilden Pferden ist lebensgefährlich, aber das Preisgeld ist es wert.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 124
 | NR_ST = 20
 | OT = Sir Peter Blake - Expedition ins ewige Eis<ref>Internetquellen zur Episode ''„Sir Peter Blake - Expedition ins ewige Eis“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/124-sir-peter-blake-expedition-ins-ewige-eis-339448 124] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/124-sir-peter-blake-expedition-ins-ewige-eis-339448 339448], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641982 S04E20] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641982 4641982], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1051734 tt1051734]</ref>
 | Feld1 = -
 | REG = Dan Gold
 | EA = 2002-09-02
+| ZF = Der neuseeländische Weltumsegler Sir Peter Blake unternimmt eine Expedition in die Antarktis, um im Auftrag der UNESCO den Zustand der Natur zu erforschen. Sein Schiff, die „Seamaster“, kämpft sich durch brüchiges Eis und erreicht das Ziel im Nordwesten des Kontinents. Die Crew beobachtet die Eisschmelze und entdeckt neue Verhaltensweisen bei Seeleoparden, Pinguinen und anderen Tieren. Die Reise dauert drei Monate und führt die Forscher 20 Meilen weiter südlich als je zuvor.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 125
 | NR_ST = 21
 | OT = Im Wald der Vampire<ref>Internetquellen zur Episode ''„Im Wald der Vampire“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/125-im-wald-der-vampire-339449 125] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/125-im-wald-der-vampire-339449 339449], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641983 S04E21] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641983 4641983], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1051731 tt1051731], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=e1ufsFFCyzQ e1ufsFFCyzQ]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-09-03
+| ZF = Ein deutscher Biologe namens Detlef Kelm erforscht tropische Fledermäuse in Costa Rica. Er möchte mithilfe dieser Tiere den Regenwald wieder aufforsten. Kelm hat bereits Erfahrungen mit Vampirfledermäusen gemacht, aber er konzentriert sich nun auf harmlose Fruchtfresser und Nektarsüffler. Er baut kleine Betonhäuser an den Waldrändern, in denen die Fledermäuse leben können. Indem die Tiere dort Blüten und Samen verbreiten, helfen sie dabei, einen neuen Tropenwald zu schaffen. Immer mehr Bauern unterstützen das Projekt, nachdem sie verstanden haben, dass es keine Vampire anlockt. Diese Idee könnte den Regenwald vor weiterer Abholzung bewahren.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 126
 | NR_ST = 22
 | OT = Nashörner unter dem Hammer<ref>Internetquellen zur Episode ''„Nashörner unter dem Hammer“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/126-nashoerner-unter-dem-hammer-339450 126] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/126-nashoerner-unter-dem-hammer-339450 339450], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641984 S04E22] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641984 4641984], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1051732 tt1051732], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=NcnIjv7NEEg NcnIjv7NEEg]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-09-04
+| ZF = Bei einer Tierauktion im Hluhluwe-Umfolozi-Nationalpark in Südafrika wurde ein Breitmaulnashorn für 320.000 Rand verkauft. Das Wettbieten um überzählige Tiere, die das Gleichgewicht im Park gefährden, war ein Höhepunkt der Veranstaltung. Parkmitarbeiter fangen die Tiere mit Helikoptern und Jeeps ein, Tierarzt Dave Cooper untersucht und betreut sie. Durch die Auktion und jährliche Inventur sollen Platz für die verbleibenden Tiere geschaffen und der Fortbestand einiger Arten nicht allein vom Park abhängig gemacht werden.
 }}
 {{Episodenlisteneintrag
 | NR_GES = 127

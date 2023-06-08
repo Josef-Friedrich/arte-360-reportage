@@ -5802,6 +5802,10 @@ seasons:
         season_no: 4
         episode_no: 16
         title: 'Bermuda: Schatzsuche in der Tiefsee'
+        location_wikidata: Q169274
+        coordinates:
+        - 28.335555555556
+        - -66.175
         description: 'Das russische Forschungsschiff „Akademik Keldysh“ ist
             technologisch auf dem neuestem Stand: Die gewaltigen Tiefseeboote
             MIR1 und MIR2 sind gespickt mit High-Tech Kameras, Lampen und
@@ -5811,11 +5815,13 @@ seasons:
             McDowell wird die Mannschaft zu einer Stelle in der Sargassosee
             führen, an der das Wrack einer spanischen Gold-Galeone liegen
             soll. Aussicht auf unermesslichen Reichtum?'
-        description_fernsehserien: 'Der Australier Mike McDowell bricht mit
-            einer Gruppe von Forschern und Abenteurern auf, in der Saragossasee
-            einen Schatz zu bergen. In 5.000 Metern Tiefe soll das Wrack einer
-            spanischen Galeone liegen - schwer beladen mit Gold. (Text: Discovery
-            Channel)'
+        summary: Das russische Forschungsschiff „Akademik Keldysh“ hat modernste
+            Technologie an Bord, darunter die Tiefseeboote MIR1 und MIR2 mit
+            High-Tech-Kameras, Lampen und Roboterarmen. Anstatt nur Wissenschaftler,
+            begleitet der australische Abenteurer Mike McDowell die Mannschaft.
+            Sie planen, zur Sargassosee zu fahren, wo das Wrack einer spanischen
+            Gold-Galeone vermutet wird. Dies könnte einen unermesslichen Reichtum
+            bedeuten.
         air_date: '2002-06-03'
         duration: 26
         fernsehserien_episode_no: 120
@@ -5829,6 +5835,10 @@ seasons:
         episode_no: 17
         title: Die Legende von den Killerbienen
         title_fr: Les Abeilles Tueuses
+        location_wikidata: Q953901
+        coordinates:
+        - -22.722777777778
+        - -44.135833333333
         description: '1956 hatte der Genetiker Warwick Estavam Kerr im Auftrag
             der brasilianischen Regierung einige Bienenköniginnen aus Afrika
             nach Brasilien gebracht. Um die Honigproduktion zu steigern, kreuzte
@@ -5849,34 +5859,17 @@ seasons:
             „360° - Die GEO-Reportage“ begleitet Gerald Kastberger auf den
             Spuren der Killerbienen und beobachtet, wie er sie gezielt zu
             Angriffen provoziert.'
-        description_fernsehserien: 'Die Kinder dachten sich nichts dabei,
-            als sie das Bienennest in der verfallenen Hütte mit Steinen bewarfen.
-            Doch Sekunden später brach in dem ärmlichen Viertel am Stadtrand
-            von Tucson, Arizona, die Hölle aus: Ein Schwarm von vielen Tausend
-            Bienen fiel über die Störenfriede her. Die Kinder konnten flüchten,
-            doch ein Nachbarhund wurde Opfer der Killerbienen. Es dauerte
-            Stunden, bis Spezialisten die Bienen unter Kontrolle brachten
-            und das Nest vernichteten. (Text: Discovery Channel)'
-        description_youtube: '1956 hatte der Genetiker Warwick Estavam Kerr
-            im Auftrag der brasilianischen Regierung einige Bienenköniginnen
-            aus Afrika nach Brasilien gebracht. Um die Honigproduktion zu
-            steigern, kreuzte er die sehr produktive, jedoch angriffslustige
-            afrikanische Art mit der in Südamerika bereits vor Jahrhunderten
-            eingeführten Europäischen Honigbiene. Die so entstandenen „afrikanisierten
-            Bienen“ waren vitaler, aber auch aggressiver als andere Honigbienen.
-            Ein Jahr später geriet das Experiment außer Kontrolle: 26 der
-            neu geschaffenen Hybridvölker entkamen in die Wildnis. Mit rasanter
-            Geschwindigkeit vermehrten und verbreiteten sich - bis nach Nordamerika.
-            Dort gerieten sie als „Killerbienen“ in Verruf - sie griffen Mensch
-            und Tier an und verdrängten einheimische Bienenarten. Gerald Kastberger,
-            ein engagierter Bienenforscher aus Österreich, ist in den USA
-            und Brasilien unterwegs, um diese Insekten zu erforschen, sie
-            zu entmystifizieren und die Gründe ihrer Angriffsbereitschaft
-            zu klären.
-
-            „360° - Die GEO-Reportage“ begleitet Gerald Kastberger auf den
-            Spuren der Killerbienen und beobachtet, wie er sie gezielt zu
-            Angriffen provoziert.'
+        summary: Im Jahr 1956 brachte der Genetiker Warwick Estavam Kerr im
+            Auftrag der brasilianischen Regierung afrikanische Bienenköniginnen
+            nach Brasilien, um die Honigproduktion zu steigern. Durch die
+            Kreuzung mit europäischen Honigbienen entstanden aggressive und
+            vitale „afrikanisierte Bienen“. Ein Jahr später entkamen 26 dieser
+            Hybridvölker und breiteten sich rasant aus, bis nach Nordamerika.
+            Dort wurden sie als „Killerbienen“ bekannt, griffen Menschen und
+            Tiere an und verdrängten einheimische Bienenarten. Gerald Kastberger,
+            ein österreichischer Bienenforscher, erforscht diese Insekten
+            in den USA und Brasilien, um ihre Angriffsbereitschaft zu verstehen
+            und zu entmystifizieren.
         director: Manfred Christ
         air_date: '2002-06-04'
         duration: 26
@@ -5907,17 +5900,15 @@ seasons:
 
             „360° - Die GEO-Reportage“ begleitet eine Gruppe Inuit-Kinder
             beim Überlebenstraining im ewigen Eis.'
-        description_fernsehserien: 'Das Kinderheim „Bornehjemmet“ in Grönland
-            veranstaltet mit Kindern aus Problemfamilien eine Art Therapie-Expedition:
-            Zwei Monate lang fahren die Inuit-Jugendlichen mit Hundeschlitten
-            1.500 Kilometer in Richtung Nordpol. Hier sollen sie lernen, im
-            Eis zu überleben, zu fischen, zu jagen und dem Frost zu trotzen.
-            (Text: Discovery Channel)'
-        description_youtube: 'Das Kinderheim „Bornehjemmet“ in Grönland veranstaltet
-            mit Kindern aus Problemfamilien eine Art Therapie-Expedition:
-            Zwei Monate lang fahren die Inuit-Jugendlichen mit Hundeschlitten
-            1.500 Kilometer in Richtung Nordpol. Hier sollen sie lernen, im
-            Eis zu überleben, zu fischen, zu jagen und dem Frost zu trotzen.'
+        summary: In Nordgrönland, einem Fjord nördlich des Polarkreises, bereiten
+            sich Jugendliche aus dem Heim „Bornehjemmet“ auf eine zweimonatige
+            Expedition vor. Bei eisigen Temperaturen von minus 30 Grad spielen
+            drei Kinder vor einer improvisierten Hütte Karten, während zwei
+            andere Kordeln und Haken zusammenknüpfen. Ihr Ziel ist es, im
+            ewigen Eis zu überleben und dadurch mehr Selbstvertrauen zu gewinnen.
+            Vor sieben Jahren gründete der Grönländer Ole Jorgen das Projekt,
+            um Kindern aus schwierigen Verhältnissen neue Perspektiven zu
+            bieten.
         air_date: '2002-06-05'
         duration: 26
         duration_sec: 1610
@@ -5949,18 +5940,17 @@ seasons:
             „360° - Die GEO-Reportage“ begleitet den Peón Néstor Travieso
             zu einer Doma, der uruguayischen Variante des Rodeos, wo Viehhirten
             wie er für ein geringes Preisgeld alles riskieren.'
-        description_fernsehserien: 'Néstor ist Viehhierte in Uruguay. Da die
-            Arbeit schlecht bezahlt ist, möchte er an einer Doma teilnehmen,
-            der südamerikanischen Variante des Rodeos. Die 200 Dollar Preisgeld
-            sind mehr als das Doppelte seines Monatslohns. Néstor trainiert
-            hart für den Wettkampf, schließlich will er seiner Frau von dem
-            Geld ein neues Kleid kaufen. (Text: Arte)'
-        description_youtube: Néstor ist Viehhierte in Uruguay. Da die Arbeit
-            schlecht bezahlt ist, möchte er an einer Doma teilnehmen, der
-            südamerikanischen Variante des Rodeos. Die 200 Dollar Preisgeld
-            sind mehr als das Doppelte seines Monatslohns. Néstor trainiert
-            hart für den Wettkampf, schließlich will er seiner Frau von dem
-            Geld ein neues Kleid kaufen.
+        summary: Im Herbstwind der Ebenen kämpfen uruguayische Peones de Estancia,
+            Nachfahren der einst legendären Gauchos, mit widrigen Bedingungen.
+            Starke Regenfälle verwandeln das Land in einen Morast. Néstor
+            Travieso und seine Söhne sind Peones, Viehhirten, auf der Estancia
+            El Guayabo. Sie kümmern sich um 600 Rinder, 800 Schafe und 40
+            Wildpferde. Néstor fängt und zähmt Tiere, hilft bei Geburten und
+            schlachtet. Die Arbeit ist schlecht bezahlt und viele Peones finden
+            keine Anstellung. Die jährlichen Domas, Gaucho-Rodeos, sind von
+            großer Bedeutung für sie, um Geld und Ehre zu gewinnen. Der gefährliche
+            Ritt auf den wilden Pferden ist lebensgefährlich, aber das Preisgeld
+            ist es wert.
         air_date: '2002-06-06'
         duration: 26
         duration_sec: 1590
@@ -5975,31 +5965,13 @@ seasons:
         season_no: 4
         episode_no: 20
         title: Sir Peter Blake - Expedition ins ewige Eis
-        description: „360° - Die Geo-Reportage“ begleitet den Forscher Sir
-            Peter Blake auf seiner letzten Mission in die Weiten des antarktischen
-            Kontinents, in das Herz des ewigen Eises.
-        description_fernsehserien: '„360° - Die Geo-Reportage“ begleitet den
-            Forscher Sir Peter Blake auf seiner letzten Mission in die Weiten
-            des antarktischen Kontinents, in das Herz des ewigen Eises. (Text:
-            Arte)'
-        director: Dan Gold
-        air_date: '2002-09-02'
-        duration: 26
-        fernsehserien_episode_no: 124
-        fernsehserien_episode_slug: 124-sir-peter-blake-expedition-ins-ewige-eis-339448
-        fernsehserien_episode_id: 339448
-        imdb_episode_id: tt1051734
-        thetvdb_season_episode: S04E20
-        thetvdb_episode_id: 4641982
-        geo_url: 'Kurz bevor er ermordet wurde, unternahm der neuseeländische
+        description: 'Kurz bevor er ermordet wurde, unternahm der neuseeländische
             Weltumsegler Sir Peter Blake eine Expedition ins ewige Eis der
             Antarktis. Dort erforschte er im Auftrag der UNESCO den Zustand
             der Natur
 
-            Ein Film von
-
             Das Ziel der Forschungsexpedition von Sir Peter Blake und seiner
-            Crew war der Nordwesten des antarktischen Kontinents ? die Meerenge
+            Crew war der Nordwesten des antarktischen Kontinents die Meerenge
             George VI. Sein Schiff, die „Seamaster“, sollte sich so weit vorwagen,
             bis das Eis ihr den Weg versperrt.
 
@@ -6010,7 +5982,7 @@ seasons:
 
             Sie trotzte eisigen Winden und wich blau-kristallenen Eisbergen
             aus, bis sie schließlich ihr Ziel erreichte: Tatsächlich gelang
-            es der ?Seamaster? 20 Meilen weiter südlich vorzudringen als jedes
+            es der „Seamaster“ 20 Meilen weiter südlich vorzudringen als jedes
             andere Expeditionsschiff zuvor.
 
             Vor Ort tauchte die Crew unter dem Packeis entlang, um das Stadium
@@ -6022,6 +5994,24 @@ seasons:
             „360°-Die Geo-Reportage“ begleitet Sir Peter Blake auf seiner
             letzten Mission in die Weiten des antarktischen Kontinents, in
             das Herz des Ewigen Eises.'
+        summary: Der neuseeländische Weltumsegler Sir Peter Blake unternimmt
+            eine Expedition in die Antarktis, um im Auftrag der UNESCO den
+            Zustand der Natur zu erforschen. Sein Schiff, die „Seamaster“,
+            kämpft sich durch brüchiges Eis und erreicht das Ziel im Nordwesten
+            des Kontinents. Die Crew beobachtet die Eisschmelze und entdeckt
+            neue Verhaltensweisen bei Seeleoparden, Pinguinen und anderen
+            Tieren. Die Reise dauert drei Monate und führt die Forscher 20
+            Meilen weiter südlich als je zuvor.
+        director: Dan Gold
+        air_date: '2002-09-02'
+        duration: 26
+        fernsehserien_episode_no: 124
+        fernsehserien_episode_slug: 124-sir-peter-blake-expedition-ins-ewige-eis-339448
+        fernsehserien_episode_id: 339448
+        imdb_episode_id: tt1051734
+        thetvdb_season_episode: S04E20
+        thetvdb_episode_id: 4641982
+        geo_url: https://www.geo.de/geo-tv/10688-rtkl-360deg-die-geo-reportage-sir-peter-blake-expedition-ins-ewige-eis
     -   overall_no: 125
         season_no: 4
         episode_no: 21
@@ -6057,16 +6047,17 @@ seasons:
 
             „360° - Die GEO-Reportage“ folgt dem Fledermaus-Forscher Detlev
             Kelm in den nächtlichen Regenwald, zu Vampiren und anderen Flattertieren.'
-        description_fernsehserien: 'Fledermaus-Forscher Detlev Kelm erforscht
-            im Regenwald von Costa Rica nicht nur das Verhalten von Fledermäusen,
-            er will sie auch einsetzen, um den Regenwald wieder aufzuforsten.
-            Die Flattertiere sollen in der Nähe von gerodeten Gebieten angesiedelt
-            werden, um Blüten und Samen zu verbreiten. (Text: Discovery Channel)'
-        description_youtube: Fledermaus-Forscher Detlev Kelm erforscht im
-            Regenwald von Costa Rica nicht nur das Verhalten von Fledermäusen,
-            er will sie auch einsetzen, um den Regenwald wieder aufzuforsten.
-            Die Flattertiere sollen in der Nähe von gerodeten Gebieten angesiedelt
-            werden, um Blüten und Samen zu verbreiten.
+        summary: Ein deutscher Biologe namens Detlef Kelm erforscht tropische
+            Fledermäuse in Costa Rica. Er möchte mithilfe dieser Tiere den
+            Regenwald wieder aufforsten. Kelm hat bereits Erfahrungen mit
+            Vampirfledermäusen gemacht, aber er konzentriert sich nun auf
+            harmlose Fruchtfresser und Nektarsüffler. Er baut kleine Betonhäuser
+            an den Waldrändern, in denen die Fledermäuse leben können. Indem
+            die Tiere dort Blüten und Samen verbreiten, helfen sie dabei,
+            einen neuen Tropenwald zu schaffen. Immer mehr Bauern unterstützen
+            das Projekt, nachdem sie verstanden haben, dass es keine Vampire
+            anlockt. Diese Idee könnte den Regenwald vor weiterer Abholzung
+            bewahren.
         air_date: '2002-09-03'
         duration: 26
         duration_sec: 1589
@@ -6082,6 +6073,10 @@ seasons:
         season_no: 4
         episode_no: 22
         title: Nashörner unter dem Hammer
+        location_wikidata: Q129867
+        coordinates:
+        - -28.2486136
+        - 31.9892588
         description: '„Zum Ersten, zum Zweiten, und... verkauft!“ Der Hammer
             saust herab und das Breitmaulnashorn wechselt für spektakuläre
             320.000 Rand, etwa 32.320 Euro, den Besitzer. Das Wettbieten um
@@ -6101,20 +6096,15 @@ seasons:
             „360° - Die GEO-Reportage“ beobachtet die Tierauktion im südafrikanischen
             Hluhluwe-Umfolozi-Regionalpark, wo überzählige Tiere per Höchstgebot
             in die ganze Welt verkauft werden.'
-        description_fernsehserien: 'Jedes Jahr im Sommer streichen sich die
-            Tierparks in aller Welt einen Termin im Kalender rot an. Es ist
-            der Tag, an dem der Hluhluwe-Umfolozi-Park in Südafrika wilde
-            Tiere versteigert. Verkauft werden diejenigen Arten, deren Bestand
-            so groß ist, dass sie das Gleichgewicht im Park bedrohen. 360°
-            - Die Geo-Reportage ist live dabei wenn es wieder heißt: „Zum
-            ersten, zum zweiten, und … verkauft!“ (Text: Discovery Channel)'
-        description_youtube: 'Jedes Jahr im Sommer streichen sich die Tierparks
-            in aller Welt einen Termin im Kalender rot an. Es ist der Tag,
-            an dem der Hluhluwe-Umfolozi-Park in Südafrika wilde Tiere versteigert.
-            Verkauft werden diejenigen Arten, deren Bestand so groß ist, dass
-            sie das Gleichgewicht im Park bedrohen. 360° - Die Geo-Reportage
-            ist live dabei wenn es wieder heißt: „Zum ersten, zum zweiten,
-            und … verkauft!“'
+        summary: Bei einer Tierauktion im Hluhluwe-Umfolozi-Nationalpark in
+            Südafrika wurde ein Breitmaulnashorn für 320.000 Rand verkauft.
+            Das Wettbieten um überzählige Tiere, die das Gleichgewicht im
+            Park gefährden, war ein Höhepunkt der Veranstaltung. Parkmitarbeiter
+            fangen die Tiere mit Helikoptern und Jeeps ein, Tierarzt Dave
+            Cooper untersucht und betreut sie. Durch die Auktion und jährliche
+            Inventur sollen Platz für die verbleibenden Tiere geschaffen und
+            der Fortbestand einiger Arten nicht allein vom Park abhängig gemacht
+            werden.
         air_date: '2002-09-04'
         duration: 26
         duration_sec: 1583
