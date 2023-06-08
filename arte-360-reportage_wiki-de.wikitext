@@ -1175,77 +1175,86 @@
 | EA = 2002-09-04
 | ZF = Bei einer Tierauktion im Hluhluwe-Umfolozi-Nationalpark in Südafrika wurde ein Breitmaulnashorn für 320.000 Rand verkauft. Das Wettbieten um überzählige Tiere, die das Gleichgewicht im Park gefährden, war ein Höhepunkt der Veranstaltung. Parkmitarbeiter fangen die Tiere mit Helikoptern und Jeeps ein, Tierarzt Dave Cooper untersucht und betreut sie. Durch die Auktion und jährliche Inventur sollen Platz für die verbleibenden Tiere geschaffen und der Fortbestand einiger Arten nicht allein vom Park abhängig gemacht werden.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 127
 | NR_ST = 23
 | OT = Warten auf den Monsun<ref>Internetquellen zur Episode ''„Warten auf den Monsun“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/127-warten-auf-den-monsun-339451 127] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/127-warten-auf-den-monsun-339451 339451], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641985 S04E23] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641985 4641985], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1051735 tt1051735], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=dei00bjPwvA dei00bjPwvA]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-09-05
+| ZF = In Mumbai, Indien, gibt es neun Monate lang keinen Regen und hohe Temperaturen von 40 Grad. Der lang ersehnte Monsun bricht im Juni aus und bringt Abkühlung, aber auch Überschwemmungen. Der Hotelfeger Boleram Haldar kämpft sich auf dem Weg zur Arbeit durch überflutete Straßen. Männer beseitigen den Müll aus den Abflüssen, um eine Zusammenbruch der Kanalisation und die Vermischung von Abwasser mit Trinkwasser zu verhindern. Der Regen bestimmt das Leben in der Stadt für drei Monate, bringt Chaos, Krankheiten und neues Grün zwischen den Straßen.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 128
 | NR_ST = 24
 | OT = Palmasola - Dorf hinter Gittern<ref>Internetquellen zur Episode ''„Palmasola - Dorf hinter Gittern“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/128-palmasola-dorf-hinter-gittern-339453 128] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/128-palmasola-dorf-hinter-gittern-339453 339453], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641986 S04E24] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641986 4641986], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1051733 tt1051733], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=UwCJCZPcEL0 UwCJCZPcEL0]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-10-07
+| ZF = Palmasola in Bolivien ist eine Stadt im Osten des Landes, in der 1047 Gefangene leben, darunter viele mit ihren Familien. Die Wächter bewachen nur das Tor. Geld ermöglicht es den Insassen, Zimmer oder Häuser zu mieten, Respekt und Leibwächter zu kaufen, Geschäfte zu eröffnen oder mit Kokain zu handeln. Carlos Cambia, ein Autodieb und Herausgeber der Gefängniszeitung, kennt alle Gefängnisse Boliviens, aber nur hier fühlt er sich nicht seiner Würde beraubt. Das Gefängnis ist wie sein Stadtviertel, nur brutaler.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 129
 | NR_ST = 25
 | OT = Bilder hören - Die blinden Kinder von Tibet<ref>Internetquellen zur Episode ''„Bilder hören - Die blinden Kinder von Tibet“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/129-bilder-hoeren-die-blinden-kinder-von-tibet-339454 129] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/129-bilder-hoeren-die-blinden-kinder-von-tibet-339454 339454], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641987 S04E25] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641987 4641987], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1051730 tt1051730], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=LTq7SwlTjaU LTq7SwlTjaU]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-10-08
+| ZF = Die blinde deutsche Lehrerin Sabriye Tenberken lebt in Lhasa, Tibet, und unterrichtet blinde Kinder. Das Leben der Menschen in Tibet ist hart, und Blindheit wird als Bestrafung für vergangene Sünden betrachtet. Dennoch hat Tenberken es sich zur Aufgabe gemacht, blinden Kindern zu helfen und sie zu unterrichten. In ihrer Schule lehrt sie 28 Kinder Lesen, Schreiben und die Orientierung mit dem Blindenstock.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 130
 | NR_ST = 26
 | OT = Der Blechmusik-Oscar<ref>Internetquellen zur Episode ''„Der Blechmusik-Oscar“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/130-der-blechmusik-oscar-339455 130] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/130-der-blechmusik-oscar-339455 339455], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641988 S04E26] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641988 4641988], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1051728 tt1051728], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=mw6CLMWS17k mw6CLMWS17k]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-10-09
+| ZF = Das Blechmusik-Festival in Guca verwandelt das kleine serbische Dorf in einen Ausnahmezustand. Das einzige Hotel ist schnell ausgebucht, daher schlafen die meisten Musiker und Gäste in Bussen, Zelten oder ihren Autos. Die Einheimischen vermieten ihre Zimmer und nutzen die Küche als Ersatz. Der begehrte Preis „Prva Truba“ lockt die Musiker an, darunter der dreifache Gewinner Milan Mladanovic, der nun seinen Enkel Ekrim den Sieg wünscht. Bei einem Gewinn will Milan die Leitung des Familienorchesters abgeben. Drei Tage lang wird das Festival Guca mit einer schwitzenden, brodelnden und tanzwütigen Atmosphäre erfüllen.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 131
 | NR_ST = 27
 | OT = Die Riesenflöße vom Jenissej - Ein Floßschiffer auf seiner Fahrt zum Polarmeer<ref>Internetquellen zur Episode ''„Die Riesenflöße vom Jenissej - Ein Floßschiffer auf seiner Fahrt zum Polarmeer“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/131-die-riesenfloesse-vom-jenissej-ein-flossschiffer-auf-seiner-fahrt-zum-polarmeer-339456 131] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/131-die-riesenfloesse-vom-jenissej-ein-flossschiffer-auf-seiner-fahrt-zum-polarmeer-339456 339456], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641989 S04E27] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641989 4641989], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1051729 tt1051729], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=85nISbMK9ng 85nISbMK9ng]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-10-10
+| ZF = Im Juli und August steigt das Frühlingshochwasser des Jenissej. Dann startet die abenteuerliche Reise der 700 Meter langen Holzflöße flussabwärts. Ganze Wälder werden in Bewegung gesetzt und bis zu 25.000 Baumstämme zu Paketen verschnürt. Auf den Flößen befinden sich Hütten, in denen die Flößer zwei Wochen lang leben werden. Einer von ihnen ist Alexander Otzenko, dessen Familie seit über 30 Jahren in der Forstwirtschaft tätig ist. Alexander und seine Kollegen haben noch 1200 Flusskilometer vor sich. Die Fahrt von den Holzfällerdörfern zum Polarmeer und zurück dauert über einen Monat. Sie müssen Stromschnellen passieren, das Floß vor Stürmen schützen und schließlich den Polarkreis überqueren. Dann erreichen sie ihr Ziel - den Polarhafen von Dudinka.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 132
 | NR_ST = 28
 | OT = Heiratsmarkt in Marokko<ref>Internetquellen zur Episode ''„Heiratsmarkt in Marokko“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/132-heiratsmarkt-in-marokko-339457 132] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/132-heiratsmarkt-in-marokko-339457 339457], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641990 S04E28] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641990 4641990], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=5mwI8g-fagQ 5mwI8g-fagQ]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-11-04
+| ZF = Der Markttag in Ilmichil auf einer Hochebene zwischen dem Mittleren und dem Hohen Atlas vereint das Jahresfest zu Ehren des lokalen Stammesheiligen Marabouts mit dem traditionellen Erntedankfest der Ait-Haddidou-Berber und einem Heiratsmarkt. Es gibt typische Tänze und Gesänge der verschiedenen Stammesfamilien. Frauen, geschmückt mit dicken Bernsteinketten, stehen Seite an Seite und wiegen sich zum rhythmischen Klatschen. Das Jahrestreffen bietet den nomadisierenden Stämmen die Möglichkeit, sich für den Winter zu versorgen und potenzielle Ehepartner zu finden. Henou und Hassan werden sich dieses Jahr bei den kollektiven Eheschließungen in Imilchil vermählen. Die verschleierte Henou wird auf einem Esel über den Festplatz geführt, wo Hassan sie empfängt und zum Standesbeamten führt. Anschließend wird in den Zelten bis spät in die Nacht gefeiert.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 133
 | NR_ST = 29
 | OT = Die türkischen Hochzeitsmacher<ref>Internetquellen zur Episode ''„Die türkischen Hochzeitsmacher“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/133-die-tuerkischen-hochzeitsmacher-339458 133] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/133-die-tuerkischen-hochzeitsmacher-339458 339458], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641991 S04E29] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641991 4641991], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt2069998 tt2069998], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=Nhy3yuYYp5s Nhy3yuYYp5s]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-11-05
+| ZF = In Berlin Kreuzberg findet eine Hochzeitsfeier statt, bei der 600 Gäste auf das Brautpaar warten. Die Zeremonie wird vom 37-jährigen Mehmet Gemici organisiert, einem bekannten „Hochzeitsmacher“ der türkischen Gemeinschaft in Berlin. Heute heiratet der jüngste Sohn seines Freundes Musa Coskun. Das Brautpaar betritt den Saal und die Gäste bilden einen Tunnel, durch den sie zur Tanzfläche gelangen. Die Feier wird von türkischen Dienstleistern wie Caterern, Floristen, Juwelieren, Bäckern, Musikern, Friseuren, Möbelgeschäften und Fotografen unterstützt. Die türkische Hochzeitsbranche boomt in Berlin aufgrund der jungen türkischen Bevölkerung, die früh heiratet. Mehmet Gemici hat viel Arbeit und keinen Grund zur Klage.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 134
 | NR_ST = 30
 | OT = Die Frachtensegler von Madagaskar<ref>Internetquellen zur Episode ''„Die Frachtensegler von Madagaskar“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/134-die-frachtensegler-von-madagaskar-339459 134] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/134-die-frachtensegler-von-madagaskar-339459 339459], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641992 S04E30] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641992 4641992], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=MOxGnaDNqe4 MOxGnaDNqe4]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-11-06
+| ZF = An den Küsten von Madagaskar sind die Straßen in einem verheerenden Zustand, wodurch viele Ortschaften nicht über Land erreichbar sind. Glücklicherweise spielen Frachtschiffer eine wichtige Rolle bei der Versorgung der madagassischen Bauern und der Belieferung von außen. Kapitän Donné ist ein herausragender Frachtschiffer, der ohne Seekarte, Sextanten oder Kompass navigiert. Er kennt alle Gefahren und sicheren Ankerplätze entlang der Küste. Neben alltäglichen Gebrauchsgegenständen transportiert er auch Passagiere, wenn Platz vorhanden ist. Aufgrund der schwierigen wirtschaftlichen und politischen Lage wird der Ausbau der Verkehrswege in den wenig besiedelten Küstengebieten Madagaskars auf absehbare Zeit nicht möglich sein.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 135
 | NR_ST = 31
 | OT = Die Abalone-Wilderer<ref>Internetquellen zur Episode ''„Die Abalone-Wilderer“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/135-die-abalone-wilderer-der-kampf-um-den-erhalt-einer-seeschneckenart-339460 135] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/135-die-abalone-wilderer-der-kampf-um-den-erhalt-einer-seeschneckenart-339460 339460], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641993 S04E31] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641993 4641993], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=kF1VEBBmF0A kF1VEBBmF0A]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2002-11-07
+| ZF = Abalones sind teure Meeresdelikatessen und ihre Perlmutt-Schalen werden als Schmuck begehrt. Der Bestand der Abalones ist weltweit gefährdet, auch in Südafrika. Die Polizei und Eben Groenewald, ein Officer von „Operation Neptune“, einer Spezialeinheit des südafrikanischen Umweltministeriums, Polizei und Armee, kämpfen gegen Wilderer und Schmuggler. In Hermanus kontrollieren die Polizisten Autos und finden tatsächlich eine Kiste mit Abalones. Der 45-jährige Groenewald setzt sich leidenschaftlich für den Schutz des Naturerbes seines Landes ein.
 }}
 }}
 

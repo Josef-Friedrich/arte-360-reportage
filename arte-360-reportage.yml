@@ -6119,6 +6119,10 @@ seasons:
         season_no: 4
         episode_no: 23
         title: Warten auf den Monsun
+        location_wikidata: Q1156
+        coordinates:
+        - 19.075833333333332
+        - 72.8775
         description: 'Neun Monate lang fällt in der indischen Metropole Mumbai
             kein Regen. Von Februar bis Mai herrschen Temperaturen von 40
             Grad im Schatten - bis zum ersehnten Juni. Dann bricht der Monsun
@@ -6136,16 +6140,15 @@ seasons:
             „360° - Die GEO-Reportage“ begleitet den Hotelfeger Boleram Haldar
             während des Monsuns durch Mumbai und beobachtet, wie der Dauerregen
             das Leben in der Metropole verändert.'
-        description_fernsehserien: 'Neun Monate lang fällt in der indischen
-            Metropole Mumbai, dem ehemaligen Bombay, kein Tropfen Regen. Sehnlich
-            warten die 15 Millionen Einwohner auf den Juni. Dann bricht der
-            Monsun über die Stadt herein und bringt Abkühlung - doch er verwandelt
-            ihre Straßen auch in reißende Ströme. (Text: Discovery Geschichte)'
-        description_youtube: Neun Monate lang fällt in der indischen Metropole
-            Mumbai, dem ehemaligen Bombay, kein Tropfen Regen. Sehnlich warten
-            die 15 Millionen Einwohner auf den Juni. Dann bricht der Monsun
-            über die Stadt herein und bringt Abkühlung - doch er verwandelt
-            ihre Straßen auch in reißende Ströme.
+        summary: In Mumbai, Indien, gibt es neun Monate lang keinen Regen
+            und hohe Temperaturen von 40 Grad. Der lang ersehnte Monsun bricht
+            im Juni aus und bringt Abkühlung, aber auch Überschwemmungen.
+            Der Hotelfeger Boleram Haldar kämpft sich auf dem Weg zur Arbeit
+            durch überflutete Straßen. Männer beseitigen den Müll aus den
+            Abflüssen, um eine Zusammenbruch der Kanalisation und die Vermischung
+            von Abwasser mit Trinkwasser zu verhindern. Der Regen bestimmt
+            das Leben in der Stadt für drei Monate, bringt Chaos, Krankheiten
+            und neues Grün zwischen den Straßen.
         air_date: '2002-09-05'
         duration: 26
         duration_sec: 1589
@@ -6161,6 +6164,10 @@ seasons:
         episode_no: 24
         title: Palmasola - Dorf hinter Gittern
         alias: Palma Sola - Stadt der Mörder
+        location_wikidata: Q460331
+        coordinates:
+        - -17.87389722
+        - -63.182375
         description: 'Palmasola ist eine Gefängnisstadt im Osten Boliviens:
             1047 Sträflinge leben hier, viele auch mit ihren Familien. Es
             gibt Läden und Restaurants. Eine Cola kostet einen halben, ein
@@ -6174,18 +6181,14 @@ seasons:
             wird ihm die Würde nicht genommen: Das Gefängnis ist für ihn wie
             sein Stadtviertel, nur brutaler. Doch gerade dieser Überlebenskampf
             verhindert, dass er innerlich zerbricht.'
-        description_fernsehserien: 'Im Gefängnis von Palma Sola sitzen die
-            gefährlichsten Mörder und Dealer Boliviens ein. Doch schlecht
-            geht es den Insassen des Luxusgefängnisses nicht. Es gibt Geschäfte
-            und Restaurants und für die entsprechende Summe sind sogar Bodyguards
-            oder Auftragskiller zu haben. Die Doku beobachtet den Autodieb
-            Carlos Gamibia in der Stadt der Mörder. (Text: Arte)'
-        description_youtube: Im Gefängnis von Palma Sola sitzen die gefährlichsten
-            Mörder und Dealer Boliviens ein. Doch schlecht geht es den Insassen
-            des Luxusgefängnisses nicht. Es gibt Geschäfte und Restaurants
-            und für die entsprechende Summe sind sogar Bodyguards oder Auftragskiller
-            zu haben. Die Doku beobachtet den Autodieb Carlos Gamibia in der
-            Stadt der Mörder.
+        summary: Palmasola in Bolivien ist eine Stadt im Osten des Landes,
+            in der 1047 Gefangene leben, darunter viele mit ihren Familien.
+            Die Wächter bewachen nur das Tor. Geld ermöglicht es den Insassen,
+            Zimmer oder Häuser zu mieten, Respekt und Leibwächter zu kaufen,
+            Geschäfte zu eröffnen oder mit Kokain zu handeln. Carlos Cambia,
+            ein Autodieb und Herausgeber der Gefängniszeitung, kennt alle
+            Gefängnisse Boliviens, aber nur hier fühlt er sich nicht seiner
+            Würde beraubt. Das Gefängnis ist wie sein Stadtviertel, nur brutaler.
         air_date: '2002-10-07'
         duration: 26
         duration_sec: 1609
@@ -6200,6 +6203,10 @@ seasons:
         season_no: 4
         episode_no: 25
         title: Bilder hören - Die blinden Kinder von Tibet
+        location_wikidata: Q5869
+        coordinates:
+        - 29.6457567
+        - 91.1408186
         description: 'Es ist früher Morgen in Lhasa, Tibets „heiliger Stadt“:
             Die Lehrerin Sabriye Tenberken sitzt zwischen ein paar Kindern
             auf dem Hof und füllt Reiskörner in einen großen Wasserball -
@@ -6224,53 +6231,13 @@ seasons:
             Chinesisch, Englisch. Um den Kindern wirklich zu helfen, ist Mitgefühl
             gut und wichtig - Mitleid aber schwächt sie nur, sagt Sabriye
             Tenberken.'
-        description_fernsehserien: 'Es ist früher Morgen in Lhasa, Tibets
-            „heiliger Stadt“: Die Lehrerin Sabriye Tenberken sitzt zwischen
-            ein paar Kindern auf dem Hof und füllt Reiskörner in einen großen
-            Wasserball - er rasselt laut, als die Kinder mit ihm lostollen.
-            Andere singen ein tibetanisches Morgengebet, Reisigbesen scharren
-            über den Steinboden. Kinder holen Wasser oder waschen Wäsche.
-            Es ist ein normaler Morgen für die blinden Kinder von Lhasa. „Blindsein
-            ist nicht komplette Dunkelheit. Ich hatte noch nie das Gefühl,
-            im Dunkeln zu stehen“, erklärt Sabriye Tenberken, die seit dem
-            zwölften Lebensjahr selbst blind ist. Vor fünf Jahren ist die
-            30-jährige Deutsche nach Tibet gegangen, um dort blinde Kinder
-            zu unterrichten.
-
-            Das Leben für die Menschen im Hochland von Tibet ist hart - und
-            Blindheit gilt als schlechtes Karma, als eine Strafe für Untugenden
-            im vorherigen Leben. Deshalb wird gar nicht erst versucht, den
-            Kindern zu helfen. Aber Tenberken nahm sich der Ausbildung blinder
-            Kinder an, ritt dafür zu Pferde über die Dörfer. In ihrer Schule
-            bringt sie heute 28 Kindern Lesen und Schreiben bei, das heißt,
-            den Umgang mit der Blindenschrift und der Blindenschreibmaschine.
-            Sie zeigt ihren Schülern, wie sie mit dem Stock laufen und sich
-            orientieren können. Sie unterweist sie in Mathematik, Tibetisch,
-            Chinesisch, Englisch. Um den Kindern wirklich zu helfen, ist Mitgefühl
-            gut und wichtig - Mitleid aber schwächt sie nur, sagt Sabriye
-            Tenberken. (Text: Arte)'
-        description_youtube: 'Es ist früher Morgen in Lhasa, Tibets „heiliger
-            Stadt“: Die Lehrerin Sabriye Tenberken sitzt zwischen ein paar
-            Kindern auf dem Hof und füllt Reiskörner in einen großen Wasserball
-            - er rasselt laut, als die Kinder mit ihm lostollen. Andere singen
-            ein tibetanisches Morgengebet, Reisigbesen scharren über den Steinboden.
-            Kinder holen Wasser oder waschen Wäsche. Es ist ein normaler Morgen
-            für die blinden Kinder von Lhasa. „Blindsein ist nicht komplette
-            Dunkelheit. Ich hatte noch nie das Gefühl, im Dunkeln zu stehen“,
-            erklärt Sabriye Tenberken, die seit dem zwölften Lebensjahr selbst
-            blind ist. Vor fünf Jahren ist die 30-jährige Deutsche nach Tibet
-            gegangen, um dort blinde Kinder zu unterrichten. Das Leben für
-            die Menschen im Hochland von Tibet ist hart - und Blindheit gilt
-            als schlechtes Karma, als eine Strafe für Untugenden im vorherigen
-            Leben. Deshalb wird gar nicht erst versucht, den Kindern zu helfen.
-            Aber Tenberken nahm sich der Ausbildung blinder Kinder an, ritt
-            dafür zu Pferde über die Dörfer. In ihrer Schule bringt sie heute
-            28 Kindern Lesen und Schreiben bei, das heißt, den Umgang mit
-            der Blindenschrift und der Blindenschreibmaschine. Sie zeigt ihren
-            Schülern, wie sie mit dem Stock laufen und sich orientieren können.
-            Sie unterweist sie in Mathematik, Tibetisch, Chinesisch, Englisch.
-            Um den Kindern wirklich zu helfen, ist Mitgefühl gut und wichtig
-            - Mitleid aber schwächt sie nur, sagt Sabriye Tenberken.'
+        summary: Die blinde deutsche Lehrerin Sabriye Tenberken lebt in Lhasa,
+            Tibet, und unterrichtet blinde Kinder. Das Leben der Menschen
+            in Tibet ist hart, und Blindheit wird als Bestrafung für vergangene
+            Sünden betrachtet. Dennoch hat Tenberken es sich zur Aufgabe gemacht,
+            blinden Kindern zu helfen und sie zu unterrichten. In ihrer Schule
+            lehrt sie 28 Kinder Lesen, Schreiben und die Orientierung mit
+            dem Blindenstock.
         air_date: '2002-10-08'
         duration: 26
         duration_sec: 1614
@@ -6285,6 +6252,10 @@ seasons:
         season_no: 4
         episode_no: 26
         title: Der Blechmusik-Oscar
+        location_wikidata: Q1012774
+        coordinates:
+        - 43.778055555556
+        - 20.225555555556
         description: Wenn in der Gemeinde Guca das Blechmusik-Festival stattfindet,
             herrscht Ausnahmezustand. In dem kleinen serbischen Dorf gibt
             es nur ein Hotel, das schnell belegt ist. Die meisten Musiker
@@ -6300,22 +6271,16 @@ seasons:
             blasen sie alle weg!', scherzt Milan zuversichtlich. Die schwitzende,
             brodelnde, tanzwütige Atmosphäre des Festivals wird drei Tage
             den Rhythmus von Guca bestimmen ...
-        description_fernsehserien: 'Jedes Jahr im August findet im serbischen
-            Dorf Guca das größte Brass Musik- Festival der Welt statt. Dabei
-            werden die Bands vor über 200.000 Zuschauern um die „Goldene Trompete“
-            spielen. Im Wettbewerb spielt auch Milan Mladanovic, einer der
-            bekanntesten Blech-Musiker Serbiens. Seine Karriere begann vor
-            23 Jahren auf diesem Festival. In diesem Jahr begleitet ihn sein
-            Enkel Ekrim, der zum ersten Mal auch am Wettbewerb um die legendäre
-            Trophäe teilnimmt. (Text: GEO Television)'
-        description_youtube: Jedes Jahr im August findet im serbischen Dorf
-            Guca das größte Brass Musik- Festival der Welt statt. Dabei werden
-            die Bands vor über 200.000 Zuschauern um die „Goldene Trompete“
-            spielen. Im Wettbewerb spielt auch Milan Mladanovic, einer der
-            bekanntesten Blech-Musiker Serbiens. Seine Karriere begann vor
-            23 Jahren auf diesem Festival. In diesem Jahr begleitet ihn sein
-            Enkel Ekrim, der zum ersten Mal auch am Wettbewerb um die legendäre
-            Trophäe teilnimmt.
+        summary: Das Blechmusik-Festival in Guca verwandelt das kleine serbische
+            Dorf in einen Ausnahmezustand. Das einzige Hotel ist schnell ausgebucht,
+            daher schlafen die meisten Musiker und Gäste in Bussen, Zelten
+            oder ihren Autos. Die Einheimischen vermieten ihre Zimmer und
+            nutzen die Küche als Ersatz. Der begehrte Preis „Prva Truba“ lockt
+            die Musiker an, darunter der dreifache Gewinner Milan Mladanovic,
+            der nun seinen Enkel Ekrim den Sieg wünscht. Bei einem Gewinn
+            will Milan die Leitung des Familienorchesters abgeben. Drei Tage
+            lang wird das Festival Guca mit einer schwitzenden, brodelnden
+            und tanzwütigen Atmosphäre erfüllen.
         air_date: '2002-10-09'
         duration: 26
         duration_sec: 1596
@@ -6332,6 +6297,10 @@ seasons:
         title: Die Riesenflöße vom Jenissej - Ein Floßschiffer auf seiner
             Fahrt zum Polarmeer
         alias: Die Riesenflöße vom Jenissej
+        location_wikidata: Q78707
+        coordinates:
+        - 71.8297
+        - 82.7161
         description: 'Im Juli und August lässt das Frühlingshochwasser den
             Jenissej bis zu sieben Meter ansteigen. Dann beginnt die abenteuerliche
             Reise der 700 Meter langen Holzflöße stromabwärts. Ganze Wälder
@@ -6349,16 +6318,18 @@ seasons:
             „360° - Die GEO-Reportage“ begleitet einen Floßschiffer vom Jenissej
             auf seiner Fahrt zum Polarmeer auf einem der größten Flöße, das
             jemals durch Sibirien schwamm.'
-        description_fernsehserien: 'Im Juli und August steigt der Pegel des
-            Jenissej in Sibirien bis zu sieben Meter an. Dann beginnt die
-            Zeit der Floßschiffer. Männer wie Alexander Otzenko transportieren
-            bis zu 25.000 Baumstämme auf riesigen Flößen von den Holzfällerdörfern
-            zum Polarhafen von Dudinka. (Text: Discovery Geschichte)'
-        description_youtube: Im Juli und August steigt der Pegel des Jenissej
-            in Sibirien bis zu sieben Meter an. Dann beginnt die Zeit der
-            Floßschiffer. Männer wie Alexander Otzenko transportieren bis
-            zu 25.000 Baumstämme auf riesigen Flößen von den Holzfällerdörfern
-            zum Polarhafen von Dudinka.
+        summary: Im Juli und August steigt das Frühlingshochwasser des Jenissej.
+            Dann startet die abenteuerliche Reise der 700 Meter langen Holzflöße
+            flussabwärts. Ganze Wälder werden in Bewegung gesetzt und bis
+            zu 25.000 Baumstämme zu Paketen verschnürt. Auf den Flößen befinden
+            sich Hütten, in denen die Flößer zwei Wochen lang leben werden.
+            Einer von ihnen ist Alexander Otzenko, dessen Familie seit über
+            30 Jahren in der Forstwirtschaft tätig ist. Alexander und seine
+            Kollegen haben noch 1200 Flusskilometer vor sich. Die Fahrt von
+            den Holzfällerdörfern zum Polarmeer und zurück dauert über einen
+            Monat. Sie müssen Stromschnellen passieren, das Floß vor Stürmen
+            schützen und schließlich den Polarkreis überqueren. Dann erreichen
+            sie ihr Ziel - den Polarhafen von Dudinka.
         air_date: '2002-10-10'
         duration: 26
         duration_sec: 1591
@@ -6373,6 +6344,10 @@ seasons:
         season_no: 4
         episode_no: 28
         title: Heiratsmarkt in Marokko
+        location_wikidata: Q2676569
+        coordinates:
+        - 32.155
+        - -5.6347222222222
         description: 'Markttag in Ilmichil auf einer Hochebene zwischen dem
             Mittleren und dem Hohen Atlas. Das „Moussem d’Imilchil“ verbindet
             das Jahresfest zu Ehren des Marabouts - das ist der lokale Stammesheilige
@@ -6399,14 +6374,19 @@ seasons:
             Hassan vor und während der traditionellen Hochzeitszeremonie der
             Berber und beobachtet das außergewöhnliche Marktgeschehen im nordafrikanischen
             Hochland.'
-        description_fernsehserien: 'Die Reportage begleitet das marokkanische
-            Paar Henou und Hassan vor und während der traditionellen Hochzeitszeremonie
-            der Berber und beobachtet das außergewöhnliche Marktgeschehen
-            im nordafrikanischen Hochland. (Text: Arte)'
-        description_youtube: Die Reportage begleitet das marokkanische Paar
-            Henou und Hassan vor und während der traditionellen Hochzeitszeremonie
-            der Berber und beobachtet das außergewöhnliche Marktgeschehen
-            im nordafrikanischen Hochland.
+        summary: Der Markttag in Ilmichil auf einer Hochebene zwischen dem
+            Mittleren und dem Hohen Atlas vereint das Jahresfest zu Ehren
+            des lokalen Stammesheiligen Marabouts mit dem traditionellen Erntedankfest
+            der Ait-Haddidou-Berber und einem Heiratsmarkt. Es gibt typische
+            Tänze und Gesänge der verschiedenen Stammesfamilien. Frauen, geschmückt
+            mit dicken Bernsteinketten, stehen Seite an Seite und wiegen sich
+            zum rhythmischen Klatschen. Das Jahrestreffen bietet den nomadisierenden
+            Stämmen die Möglichkeit, sich für den Winter zu versorgen und
+            potenzielle Ehepartner zu finden. Henou und Hassan werden sich
+            dieses Jahr bei den kollektiven Eheschließungen in Imilchil vermählen.
+            Die verschleierte Henou wird auf einem Esel über den Festplatz
+            geführt, wo Hassan sie empfängt und zum Standesbeamten führt.
+            Anschließend wird in den Zelten bis spät in die Nacht gefeiert.
         air_date: '2002-11-04'
         duration: 26
         duration_sec: 1607
@@ -6421,6 +6401,10 @@ seasons:
         season_no: 4
         episode_no: 29
         title: Die türkischen Hochzeitsmacher
+        location_wikidata: Q308928
+        coordinates:
+        - 52.4875
+        - 13.3833
         description: 'Samstagabend in Berlin Kreuzberg. Im vierten Stock eines
             Eckhauses sitzen 600 festlich gekleidete Gäste an langen Tischen
             und warten auf das Brautpaar. Das aber kommt - ganz nach Brauch
@@ -6447,56 +6431,17 @@ seasons:
             unüblich bleibt und die Paare weiterhin mit spätestens 25 Jahren
             heiraten, wird die Hochzeitsindustrie florieren und einer wie
             Mehmet Gemici nicht klagen können.'
-        description_fernsehserien: 'Samstagabend in Berlin Kreuzberg. Im vierten
-            Stock eines Eckhauses sitzen 600 festlich gekleidete Gäste an
-            langen Tischen und warten auf das Brautpaar. Das aber kommt -
-            ganz nach Brauch - immer zuletzt. Organisiert hat die Zeremonie
-            der 37-jährige Mehmet Gemici, einer der größten türkischen „Hochzeitsmacher“
-            in Berlin. Und heute will der jüngste Sohn seines engsten Mitarbeiters
-            und Freundes Musa Coskun heiraten. Gegen halb acht ist es endlich
-            soweit, das Brautpaar betritt den Saal. Zu den Hochzeitsklängen
-            stellen sich die Gäste in zwei Reihen auf, reichen sich die Arme
-            und bilden einen Tunnel, durch den das Brautpaar zur Tanzfläche
-            gelangt. Wie im Rausch werfen die Gäste Konfetti um sich. Das
-            Brautpaar tritt seinen ersten Tanz zu den Klängen des Dügün Alayi
-            an.
-
-            In ihrem weißen Satin-Kleid und dem mit Blumen bestickten Schleier
-            sieht die Braut wie eine orientalische Märchenprinzessin aus.
-            Jedes Jahr werden in Berlin rund 500 türkische Paare getraut.
-            Und jede Branche möchte mitverdienen. Ob der türkische Partyservice
-            für das Festbuffet, der Florist für das Blumengesteck am Auto
-            oder der Juwelier für den Brautschmuck. Reichlich Arbeit auch
-            für türkische Zuckerbäcker, Musiker, Getränkehändler, Friseure,
-            Möbelgeschäfte und Fotografen. Die Branche boomt, denn die türkische
-            Bevölkerung in Berlin ist jung. Und solange das „Miteinander gehen“
-            unüblich bleibt und die Paare weiterhin mit spätestens 25 Jahren
-            heiraten, wird die Hochzeitsindustrie florieren und einer wie
-            Mehmet Gemici nicht klagen können. (Text: Arte)'
-        description_youtube: Samstagabend in Berlin Kreuzberg. Im vierten
-            Stock eines Eckhauses sitzen 600 festlich gekleidete Gäste an
-            langen Tischen und warten auf das Brautpaar. Das aber kommt -
-            ganz nach Brauch - immer zuletzt. Organisiert hat die Zeremonie
-            der 37-jährige Mehmet Gemici, einer der größten türkischen „Hochzeitsmacher“
-            in Berlin. Und heute will der jüngste Sohn seines engsten Mitarbeiters
-            und Freundes Musa Coskun heiraten. Gegen halb acht ist es endlich
-            soweit, das Brautpaar betritt den Saal. Zu den Hochzeitsklängen
-            stellen sich die Gäste in zwei Reihen auf, reichen sich die Arme
-            und bilden einen Tunnel, durch den das Brautpaar zur Tanzfläche
-            gelangt. Wie im Rausch werfen die Gäste Konfetti um sich. Das
-            Brautpaar tritt seinen ersten Tanz zu den Klängen des Dügün Alayi
-            an. In ihrem weißen Satin-Kleid und dem mit Blumen bestickten
-            Schleier sieht die Braut wie eine orientalische Märchenprinzessin
-            aus. Jedes Jahr werden in Berlin rund 500 türkische Paare getraut.
-            Und jede Branche möchte mitverdienen. Ob der türkische Partyservice
-            für das Festbuffet, der Florist für das Blumengesteck am Auto
-            oder der Juwelier für den Brautschmuck. Reichlich Arbeit auch
-            für türkische Zuckerbäcker, Musiker, Getränkehändler, Friseure,
-            Möbelgeschäfte und Fotografen. Die Branche boomt, denn die türkische
-            Bevölkerung in Berlin ist jung. Und solange das „Miteinander gehen“
-            unüblich bleibt und die Paare weiterhin mit spätestens 25 Jahren
-            heiraten, wird die Hochzeitsindustrie florieren und einer wie
-            Mehmet Gemici nicht klagen können.
+        summary: In Berlin Kreuzberg findet eine Hochzeitsfeier statt, bei
+            der 600 Gäste auf das Brautpaar warten. Die Zeremonie wird vom
+            37-jährigen Mehmet Gemici organisiert, einem bekannten „Hochzeitsmacher“
+            der türkischen Gemeinschaft in Berlin. Heute heiratet der jüngste
+            Sohn seines Freundes Musa Coskun. Das Brautpaar betritt den Saal
+            und die Gäste bilden einen Tunnel, durch den sie zur Tanzfläche
+            gelangen. Die Feier wird von türkischen Dienstleistern wie Caterern,
+            Floristen, Juwelieren, Bäckern, Musikern, Friseuren, Möbelgeschäften
+            und Fotografen unterstützt. Die türkische Hochzeitsbranche boomt
+            in Berlin aufgrund der jungen türkischen Bevölkerung, die früh
+            heiratet. Mehmet Gemici hat viel Arbeit und keinen Grund zur Klage.
         air_date: '2002-11-05'
         duration: 26
         duration_sec: 1588
@@ -6511,6 +6456,10 @@ seasons:
         season_no: 4
         episode_no: 30
         title: Die Frachtensegler von Madagaskar
+        location_wikidata: Q1019
+        coordinates:
+        - -20
+        - 47
         description: 'An den Küsten von Madagaskar sind viele Ortschaften
             auf dem Landweg nicht erreichbar, der Zustand der Straßen ist
             oft verheerend. Glücklicherweise gibt es die Frachtschiffer -
@@ -6530,16 +6479,18 @@ seasons:
 
             „360° - Die GEO-Reportage“ beobachtet die Frachtschiffer auf ihren
             abenteuerlichen Handelsfahrten vor der wilden Westküste Madagaskars.'
-        description_fernsehserien: 'An den Küsten von Madagaskar sind viele
-            Ortschaften auf dem Landweg nicht erreichbar, der Zustand der
-            Straßen ist oft verheerend. „360º - Die Geo-Reportage“ beobachtet
-            die Frachtschiffer auf ihren abenteuerlichen Handelsfahrten vor
-            der wilden Westküste Madagaskars. (Text: Arte)'
-        description_youtube: An den Küsten von Madagaskar sind viele Ortschaften
-            auf dem Landweg nicht erreichbar, der Zustand der Straßen ist
-            oft verheerend. „360º - Die Geo-Reportage“ beobachtet die Frachtschiffer
-            auf ihren abenteuerlichen Handelsfahrten vor der wilden Westküste
-            Madagaskars.
+        summary: An den Küsten von Madagaskar sind die Straßen in einem verheerenden
+            Zustand, wodurch viele Ortschaften nicht über Land erreichbar
+            sind. Glücklicherweise spielen Frachtschiffer eine wichtige Rolle
+            bei der Versorgung der madagassischen Bauern und der Belieferung
+            von außen. Kapitän Donné ist ein herausragender Frachtschiffer,
+            der ohne Seekarte, Sextanten oder Kompass navigiert. Er kennt
+            alle Gefahren und sicheren Ankerplätze entlang der Küste. Neben
+            alltäglichen Gebrauchsgegenständen transportiert er auch Passagiere,
+            wenn Platz vorhanden ist. Aufgrund der schwierigen wirtschaftlichen
+            und politischen Lage wird der Ausbau der Verkehrswege in den wenig
+            besiedelten Küstengebieten Madagaskars auf absehbare Zeit nicht
+            möglich sein.
         air_date: '2002-11-06'
         duration: 26
         duration_sec: 1594
@@ -6554,6 +6505,10 @@ seasons:
         episode_no: 31
         title: Die Abalone-Wilderer
         subtitle: Der Kampf um den Erhalt einer Seeschneckenart
+        location_wikidata: Q1613480
+        coordinates:
+        - -34.416667
+        - 19.3
         description: 'Abalones sind gigantische Seeschnecken und zählen zu
             den teuersten Meeresdelikatessen der Welt. Auch das Perlmutt ihrer
             ohrenförmigen Schale ist als Material für Schmuckstücke sehr gefragt.
@@ -6574,18 +6529,15 @@ seasons:
             im Kampf um den Erhalt der Abalones, der immer seltener werdenden
             Seeschnecken, und die Sisyphusarbeit der südafrikanischen „Operation
             Neptune“.'
-        description_fernsehserien: 'Abalones sind gigantische Seeschnecken,
-            die zu den teuersten Meeresdelikatessen der Welt gehören. Aus
-            dem Perlmutt ihrer Schale werden beliebte Schmuckstücke hergestellt.
-            Doch der Bestand der Abalones ist stark gefährdet, der kommerzielle
-            Fang limitiert. In Südafrika macht die Polizei Jagd auf Wilderer
-            und Schmuggler. (Text: Discovery Channel)'
-        description_youtube: Abalones sind gigantische Seeschnecken, die zu
-            den teuersten Meeresdelikatessen der Welt gehören. Aus dem Perlmutt
-            ihrer Schale werden beliebte Schmuckstücke hergestellt. Doch der
-            Bestand der Abalones ist stark gefährdet, der kommerzielle Fang
-            limitiert. In Südafrika macht die Polizei Jagd auf Wilderer und
-            Schmuggler.
+        summary: Abalones sind teure Meeresdelikatessen und ihre Perlmutt-Schalen
+            werden als Schmuck begehrt. Der Bestand der Abalones ist weltweit
+            gefährdet, auch in Südafrika. Die Polizei und Eben Groenewald,
+            ein Officer von „Operation Neptune“, einer Spezialeinheit des
+            südafrikanischen Umweltministeriums, Polizei und Armee, kämpfen
+            gegen Wilderer und Schmuggler. In Hermanus kontrollieren die Polizisten
+            Autos und finden tatsächlich eine Kiste mit Abalones. Der 45-jährige
+            Groenewald setzt sich leidenschaftlich für den Schutz des Naturerbes
+            seines Landes ein.
         air_date: '2002-11-07'
         duration: 26
         duration_sec: 1593
