@@ -96,7 +96,7 @@
 # Eritrea - Ein Esel für die Zukunft
 # Der Wüstendoktor
 # Auf den Dächern von Kairo
-# Die letzten Kamelkarawannen der Sahara
+# Die letzten Kamelkarawanen der Sahara
 # Uganda - Der Weg zum Fahrradtaxi
 # Wildererjagd am Mount Kenya
 # Ruanda, Land der Frauen
@@ -108,7 +108,7 @@
 
 * '''Asien - Kontinent der Gegensätze'''<ref>Amazon Standard Identification Number (asin): B008IAQPE4, European Article Number (ean): 4006680065151, Medimops-ID: M0B008IAQPE4</ref> (Anzahl an DVDs: 4, Erscheinungsdatum: 04.10.2012, Abspieldauer in Minuten: 693)
 # Mit dem Wanderbarden durch Aserbaidschan
-# Die neuen Nomaden von Kirigistan
+# Die neuen Nomaden von Kirgistan
 # Vagabunden der Wüste Gobi
 # Nepal - Die Krieger vom Dach der Welt
 # Postbote im Himalaya
@@ -140,7 +140,7 @@
 # Paraguays neue Häuser
 # Rio de la Plata - SOS am Silberfluss
 # Die Windreiter der Anden
-# Der weisse Berg von Feuerland
+# Der weiße Berg von Feuerland
 
 * '''Die erstaunliche Welt der Tiere'''<ref>Amazon Standard Identification Number (asin): B009CW2H6C, European Article Number (ean): 4006680065182, Medimops-ID: M0B009CW2H6C</ref> (Anzahl an DVDs: 4, Erscheinungsdatum: 06.12.2012, Abspieldauer in Minuten: 687)
 # Weltmeister auf vier Pfoten
@@ -225,7 +225,7 @@
 # Tanganjikasee, vom Kanonenboot zum Passagerischiff
 # Die Eisbergjäger von Neufundland
 # Ein Dorfladen reist durch Lettland
-# Bolivien, Lebenader der Todestraße
+# Bolivien, Lebensader der Todestraße
 # Die Polarbahn
 # Nicaragua - Fluch der Langustentaucher
 # Der Polarflieger
