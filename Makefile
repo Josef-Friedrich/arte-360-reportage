@@ -3,8 +3,8 @@ SCRIPT = .venv/bin/arte-360-reportage.py
 all:
 	$(SCRIPT) --all
 
-chatgpt:
-	$(SCRIPT) --chatgpt
+summary:
+	$(SCRIPT) --summary
 
 coordinates:
 	$(SCRIPT) --coordinates

@@ -572,7 +572,7 @@ class EpisodeData(typing.TypedDict):
     """A description that comes from a Youtube video"""
 
     summary: str
-    """Auto-generated with chatgpt: ``Fasse folgenden Text auf Deutsch in 75 Wörtern zusammen: ``"""
+    """Auto-generated with summary: ``Fasse folgenden Text auf Deutsch in 75 Wörtern zusammen: ``"""
 
     director: str
     """Regie"""
@@ -1067,7 +1067,7 @@ class TvShow:
             f"{EXPORT_FILENAME}_wiki_de_DVD.wikitext", Wiki.unordered_list(dvd_entries)
         )
 
-    def generate_chatgpt_texts(self, inline: bool = False) -> None:
+    def generate_summary_texts(self, inline: bool = False) -> None:
         descriptions: list[str] = []
 
         task_text = "Fasse folgenden Text auf Deutsch in 75 Wörtern zusammen"
@@ -1086,7 +1086,7 @@ class TvShow:
                     add_line(f"{task_text}:")
                     add_line(f"{episode.description_breaks}")
 
-        Utils.write_text_file(EXPORT_FILENAME + "_chatgpt.txt", descriptions)
+        Utils.write_text_file(EXPORT_FILENAME + "_summary.txt", descriptions)
 
     def add_coordinates(self) -> None:
         wikidata = Wikidata()
@@ -1591,7 +1591,7 @@ def generate_readme() -> None:
 def get_argument_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog=EXPORT_FILENAME)
     parser.add_argument("-a", "--all", action="store_true")
-    parser.add_argument("-c", "--chatgpt", action="store_true")
+    parser.add_argument("-c", "--summary", action="store_true")
     parser.add_argument("-C", "--coordinates", action="store_true")
     parser.add_argument("-d", "--dvd", action="store_true")
     parser.add_argument("-j", "--json", action="store_true")
@@ -1610,7 +1610,7 @@ def main() -> None:
 
     if args.all:
         tv_show.add_coordinates()
-        tv_show.generate_chatgpt_texts(True)
+        tv_show.generate_summary_texts(True)
         tv_show.generate_wikitext_dvd()
         tv_show.export_to_json()
         generate_leaflet()
@@ -1618,8 +1618,8 @@ def main() -> None:
         tv_show.generate_wikitext("de")
         tv_show.generate_wikitext("fr")
 
-    if args.chatgpt:
-        tv_show.generate_chatgpt_texts(True)
+    if args.summary:
+        tv_show.generate_summary_texts(True)
 
     if args.coordinates:
         tv_show.add_coordinates()
