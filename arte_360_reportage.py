@@ -772,6 +772,12 @@ class Episode(DataAccessor):
         self.data["director"] = director
 
     @property
+    def directors(self) -> list[str]:
+        if not self.director:
+            return []
+        return self.director.split(', ')
+
+    @property
     def air_date(self) -> str:
         if "air_date" not in self.data or not self.data["air_date"]:
             return ""
@@ -1054,6 +1060,24 @@ class TvShow:
         Utils.write_text_file(
             f"{EXPORT_FILENAME}_wiki-{language}.wikitext", season_entries
         )
+
+    def list_directors(self) -> dict[str, int]:
+        result: dict[str, int] = {}
+        for episode in self.episodes:
+            episode.director
+            for director in episode.directors:
+                if director in result:
+                    result[director] += 1
+                else:
+                    result[director] = 1
+
+        directors = list(result.keys())
+        directors.sort()
+        for director in directors:
+            print(director)
+
+        return result
+
 
     def generate_wikitext_dvd(
         self, language: typing.Literal["de", "fr"] = "de"
@@ -1591,8 +1615,9 @@ def generate_readme() -> None:
 def get_argument_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog=EXPORT_FILENAME)
     parser.add_argument("-a", "--all", action="store_true")
-    parser.add_argument("-c", "--summary", action="store_true")
     parser.add_argument("-C", "--coordinates", action="store_true")
+    parser.add_argument("-c", "--summary", action="store_true")
+    parser.add_argument("-D", "--directors", action="store_true")
     parser.add_argument("-d", "--dvd", action="store_true")
     parser.add_argument("-j", "--json", action="store_true")
     parser.add_argument("-l", "--leaflet", action="store_true")
@@ -1623,6 +1648,9 @@ def main() -> None:
 
     if args.coordinates:
         tv_show.add_coordinates()
+
+    if args.directors:
+        tv_show.list_directors()
 
     if args.dvd:
         tv_show.generate_wikitext_dvd()

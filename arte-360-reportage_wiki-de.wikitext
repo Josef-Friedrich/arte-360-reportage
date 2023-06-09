@@ -564,7 +564,7 @@
 | NR_ST = 21
 | OT = Das Fenster zum Meer<ref>Internetquellen zur Episode ''„Das Fenster zum Meer“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/61-im-reich-der-meere-das-fenster-zum-meer-im-grossaquarium-von-sydney-339341 61] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/61-im-reich-der-meere-das-fenster-zum-meer-im-grossaquarium-von-sydney-339341 339341], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824557 S02E21] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824557 4824557], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=pr77EnZFwug pr77EnZFwug]</ref>
 | Feld1 = -
-| REG = -
+| REG = Marion Heinrich
 | EA = 2000-09-04
 | ZF = Sydneys modernes Großaquarium bietet eine faszinierende Erfahrung für wasserunwillige Besucher. Es beherbergt über 650 heimische Tier- und Pflanzenarten in 50 Großbecken auf 4.000 Quadratmetern. Tierpfleger wie Adam Kassi kümmern sich um Haie, Schnabeltiere, Pinguine, Meeresschildkröten, Krokodile und den größten australischen Süßwasserfisch. Das Aquarium setzt auf ein „No Shows!“-Motto, um den Besuchern ein Verständnis für die natürliche Tierwelt zu vermitteln. Die erfolgreiche Fortpflanzung einiger Tiere wie Pinguine zeigt die artgerechte Haltung im Aquarium.
 }}
@@ -582,7 +582,7 @@
 | NR_ST = 23
 | OT = Durst nach Meer<ref>Internetquellen zur Episode ''„Durst nach Meer“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/63-im-reich-der-meere-durst-nach-meer-neue-methoden-der-trinkwassergewinnung-339343 63] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/63-im-reich-der-meere-durst-nach-meer-neue-methoden-der-trinkwassergewinnung-339343 339343], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824559 S02E23] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824559 4824559], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=WAjs-VrhFNs WAjs-VrhFNs]</ref>
 | Feld1 = -
-| REG = Dr. Heidi Mühlenberg
+| REG = Heidi Mühlenberg
 | EA = 2000-09-06
 | ZF = Täglich sterben weltweit 13.000 Menschen an Durst oder verschmutztem Wasser. Kriege um Trinkwasser nehmen zu. Wissenschaftler und Ingenieure arbeiten daran, die riesigen Wasserreserven der Erde anzuzapfen. 1,4 Milliarden Kubikkilometer Wasser existieren, aber 99,3% sind salziges Meerwasser oder Eis. Die Lösungen zur Gewinnung von Trinkwasser aus den Ozeanen variieren. Auf der Arabischen Halbinsel versorgen Entsalzungsanlagen die Reichen mit Wasser. In Puerto Rico hat José Pichardo mit Unterstützung eines deutschen Ingenieurs solarbetriebene Wasserentsalzungsanlagen entwickelt. Er hofft, dass sie bald auch die Bewohner der Armenviertel von San Juan versorgen können.
 }}
@@ -654,7 +654,7 @@
 | NR_ST = 31
 | OT = Radrennen - Ewiger Endspurt<ref>Internetquellen zur Episode ''„Radrennen - Ewiger Endspurt“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/71-leben-am-limit-grenzen-des-koerpers-radrennen-ewiger-endspurt-339350 71] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/71-leben-am-limit-grenzen-des-koerpers-radrennen-ewiger-endspurt-339350 339350], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824567 S02E31] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824567 4824567], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=gqUU0m2KVqg gqUU0m2KVqg]</ref>
 | Feld1 = -
-| REG = -
+| REG = Peter Schuchard
 | EA = 2000-11-08
 | ZF = Andreas Klöden, ein 25-jähriger Radrennprofi des Teams Telekom, hat bei verschiedenen Rennen wie Paris-Nizza und der Baskenlandrundfahrt Erfolge erzielt. Durch intensives Training und den Einsatz moderner Sportwissenschaft hat er seine körperlichen Grenzen ausgereizt. Professor Zschorlich von der Universität Rostock erforscht den optimalen Tretzyklus von Radfahrern und erstellt individuelle Trainingsprogramme, indem er die Beschleunigung während der Kurbelbewegung misst. Damit werden Leistungssteigerungen erreicht und der Einsatz neuer Ausrüstung wird immer wichtiger.
 }}
@@ -982,7 +982,7 @@
 | NR_ST = 1
 | OT = Cunahá - Tod im Regenwald<ref>Internetquellen zur Episode ''„Cunahá - Tod im Regenwald“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/105-cunaha-tod-im-regenwald-339426 105] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/105-cunaha-tod-im-regenwald-339426 339426], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641963 S04E01] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641963 4641963], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042924 tt1042924], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=yzGLrkcry6c yzGLrkcry6c]</ref>
 | Feld1 = -
-| REG = -
+| REG = Roland Garve, Alex Grote
 | EA = 2002-02-04
 | ZF = Die Suruahà-Indianer im Urwald Amazoniens sind ein Volk von Witwen, Witwern und Waisen. Selbstmord ist Teil ihrer Kultur, und sie machen sich auf die Reise zu ihren Vorfahren. Ein deutscher Zahnarzt und ein brasilianischer Psychologe erreichen ihr Gebiet und behandeln die Suruahà auf improvisierten Zahnarztstühlen. Die Indianer sind schmerzunempfindlich aufgrund der Droge Kumady, die sie schnupfen. Cunahá, eine weitere Substanz, wird von allen über 12 Jahren ausprobiert, oft mit tödlichen Folgen. Für die Suruahà ist der Tod jedoch ein willkommenes Mittel, um ins Jenseits zu gelangen.
 }}
@@ -991,7 +991,7 @@
 | NR_ST = 2
 | OT = Walverwandtschaften<ref>Internetquellen zur Episode ''„Walverwandtschaften“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/106-walverwandtschaften-339427 106] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/106-walverwandtschaften-339427 339427], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641964 S04E02] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641964 4641964], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042945 tt1042945], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=h5_HKyfGWqk h5_HKyfGWqk]</ref>
 | Feld1 = -
-| REG = -
+| REG = Thomas Hauer, René Kirschey
 | EA = 2002-02-05
 | ZF = William und Susanne Megill haben das Forschungsschiff „Stardust“ zu einem Labor umgebaut, um das Verhalten der faszinierenden Grauwale vor der kanadischen Westküste zu erforschen. Sie gründeten die „Coastal Ecosystems Research Foundation“ und bieten Naturliebhabern und Walfreunden die Möglichkeit, eine Woche lang als Hobby-Biologen mitzuhelfen. Eine Gruppe sucht vom Strand aus mit Ferngläsern nach den Walen, während eine andere Gruppe in Kajaks näher heranpaddelt, um sie zu fotografieren. William erwähnt, dass es manchmal scheint, als ob die Wale sie erforschen. Das Projekt vereint ökologisches Interesse, Abenteuerlust und die Begeisterung für die Meeresriesen.
 }}
@@ -1000,7 +1000,7 @@
 | NR_ST = 3
 | OT = Wildreis - Der grüne Schatz der kanadischen Ojibwa-Indianer<ref>Internetquellen zur Episode ''„Wildreis - Der grüne Schatz der kanadischen Ojibwa-Indianer“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/107-wildreis-der-gruene-schatz-der-kanadischen-ojibwa-indianer-339428 107] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/107-wildreis-der-gruene-schatz-der-kanadischen-ojibwa-indianer-339428 339428], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641965 S04E03] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641965 4641965], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042927 tt1042927], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=JZX6YmRRFkE JZX6YmRRFkE]</ref>
 | Feld1 = -
-| REG = -
+| REG = Heidi Mühlenberg
 | EA = 2002-02-06
 | ZF = Ontario ist das Land der tausend Seen und der kanadische Wildreis ist der wertvolle Schatz der Ojibwa-Indianer. Seit Jahrtausenden sichert dieser Samen namens Manomin ihr Überleben. Joe Pitchenese, der Sohn des Häuptlings, gleitet mit seinem Kanu leise durch den Wabigoon See und erntet die grünen Reispflanzen. Seine Frau hilft ihm dabei, die reifen Körner zu ernten und die Saat zu sichern. Obwohl weiße Farmer mit Maschinen den Reis ernten wollten und dabei großen Schaden anrichteten, haben die Ojibwa-Indianer erfolgreich ihr Recht auf die Seen verteidigt.
 }}
@@ -1483,7 +1483,7 @@
 | NR_ST = 10
 | OT = Das Mysterium der sibirischen Mumie<ref>Internetquellen zur Episode ''„Das Mysterium der sibirischen Mumie“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/161-das-mysterium-der-sibirischen-mumie-339471 161] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/161-das-mysterium-der-sibirischen-mumie-339471 339471], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642029 S06E10] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642029 4642029], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=DXk26Rs6ev8 DXk26Rs6ev8]</ref>
 | Feld1 = Le Mystère de la Momie de Sibérie
-| REG = Dr. Ute Gebhardt
+| REG = Ute Gebhardt
 | EA = 2004-09-11
 }}
 {{Episodenlisteneintrag
@@ -3110,7 +3110,7 @@
 | NR_ST = 2
 | OT = Shetland, das Ende des Öls<ref>Internetquellen zur Episode ''„Shetland, das Ende des Öls“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/354-shetland-das-ende-des-oels-506713 354] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/354-shetland-das-ende-des-oels-506713 506713], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4791696 S15E02] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4791696 4791696], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=ReBwYDvW-VM ReBwYDvW-VM]</ref>
 | Feld1 = Les Îles Shetland, la Force du Vent
-| REG = Friederike Schlumborn
+| REG = Friederike Schlumbom
 | EA = 2013-02-02
 }}
 {{Episodenlisteneintrag
@@ -3532,7 +3532,7 @@
 | NR_ST = 1
 | OT = Griechenland: Aufbruch am Olymp<ref>Internetquellen zur Episode ''„Griechenland: Aufbruch am Olymp“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/404-griechenland-aufbruch-am-olymp-670158 404] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/404-griechenland-aufbruch-am-olymp-670158 670158], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/5095522 S17E01] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/5095522 5095522], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt19802432 tt19802432], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=6pWfTh6Y4-o 6pWfTh6Y4-o]</ref>
 | Feld1 = Vivre Heureux au Pied de l’Olympe
-| REG = Michael Schumacher
+| REG = J. Michael Schumacher
 | EA = 2015-01-03
 }}
 {{Episodenlisteneintrag
@@ -4066,7 +4066,7 @@
 | NR_ST = 13
 | OT = Die Minga - Umzug auf Chilenisch<ref>Internetquellen zur Episode ''„Die Minga - Umzug auf Chilenisch“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/468-die-minga-umzug-auf-chilenisch-1088464 468] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/468-die-minga-umzug-auf-chilenisch-1088464 1088464], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7219669 S19E13] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7219669 7219669], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt21916070 tt21916070], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=H8MxGlRHRHA H8MxGlRHRHA]</ref>
 | Feld1 = Chili, l'incroyable voyage d'une maison des bois
-| REG = Michael Schumacher
+| REG = J. Michael Schumacher
 | EA = 2017-05-28
 }}
 {{Episodenlisteneintrag
@@ -4707,7 +4707,7 @@
 | NR_ST = 9
 | OT = Indiens Kurkuma - Heilsam und heilig<ref>Internetquellen zur Episode ''„Indiens Kurkuma - Heilsam und heilig“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/544-indiens-kurkuma-heilsam-und-heilig-1381765 544] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/544-indiens-kurkuma-heilsam-und-heilig-1381765 1381765], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7793491 S22E09] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7793491 7793491], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=Qx7wwbJDDdE Qx7wwbJDDdE]</ref>
 | Feld1 = Curcuma, une épice en or
-| REG = Friederike Schlumborn
+| REG = Friederike Schlumbom
 | EA = 2020-06-14
 }}
 {{Episodenlisteneintrag
@@ -4715,7 +4715,7 @@
 | NR_ST = 10
 | OT = Huskys, am Start!<ref>Internetquellen zur Episode ''„Huskys, am Start!“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/545-huskys-am-start-1384225 545] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/545-huskys-am-start-1384225 1384225], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/7818444 S22E10] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/7818444 7818444], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt17077618 tt17077618], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=3XyG82_dG-0 3XyG82_dG-0]</ref>
 | Feld1 = Huskies, top départ!
-| REG = Michael Schumacher
+| REG = J. Michael Schumacher
 | EA = 2020-06-28
 }}
 {{Episodenlisteneintrag
@@ -5341,7 +5341,7 @@
 | NR_ST = 6
 | OT = Freiheit auf Pferderücken - Der lange Weg der Nez Perce<ref>Internetquellen zur Episode ''„Freiheit auf Pferderücken - Der lange Weg der Nez Perce“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/614-freiheit-auf-pferderuecken-der-lange-weg-der-nez-perce-1621705 614] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/614-freiheit-auf-pferderuecken-der-lange-weg-der-nez-perce-1621705 1621705], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt27110800 tt27110800]</ref>
 | Feld1 = Nez-Percés, chevauchée pour la liberté
-| REG = Michael Schumacher
+| REG = J. Michael Schumacher
 | EA = 2023-03-11
 | ZF = Über zwei Dutzend Mitglieder des Stammes der Nez Perce reiten durch den Yellowstone-Nationalpark, um den langen Fluchtweg ihrer Vorfahren nachzuerleben und die Freiheit auf Pferderücken zu spüren. Sie begegnen imposanten Wildtieren wie Bisons und Grizzlybären und entdecken Orte, die noch heute die Namen und Spuren ihrer Ahnen tragen.
 }}

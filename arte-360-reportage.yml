@@ -2995,6 +2995,7 @@ seasons:
             um den Besuchern ein Verständnis für die natürliche Tierwelt zu
             vermitteln. Die erfolgreiche Fortpflanzung einiger Tiere wie Pinguine
             zeigt die artgerechte Haltung im Aquarium.
+        director: Marion Heinrich
         air_date: '2000-09-04'
         duration: 26
         duration_sec: 1615
@@ -3099,7 +3100,7 @@ seasons:
             José Pichardo mit Unterstützung eines deutschen Ingenieurs solarbetriebene
             Wasserentsalzungsanlagen entwickelt. Er hofft, dass sie bald auch
             die Bewohner der Armenviertel von San Juan versorgen können.
-        director: Dr. Heidi Mühlenberg
+        director: Heidi Mühlenberg
         air_date: '2000-09-06'
         duration: 26
         duration_sec: 1599
@@ -3503,6 +3504,7 @@ seasons:
             Trainingsprogramme, indem er die Beschleunigung während der Kurbelbewegung
             misst. Damit werden Leistungssteigerungen erreicht und der Einsatz
             neuer Ausrüstung wird immer wichtiger.
+        director: Peter Schuchard
         air_date: '2000-11-08'
         duration: 26
         duration_sec: 1577
@@ -5151,6 +5153,7 @@ seasons:
             über 12 Jahren ausprobiert, oft mit tödlichen Folgen. Für die
             Suruahà ist der Tod jedoch ein willkommenes Mittel, um ins Jenseits
             zu gelangen.
+        director: Roland Garve, Alex Grote
         air_date: '2002-02-04'
         duration: 26
         duration_sec: 1586
@@ -5197,6 +5200,7 @@ seasons:
             um sie zu fotografieren. William erwähnt, dass es manchmal scheint,
             als ob die Wale sie erforschen. Das Projekt vereint ökologisches
             Interesse, Abenteuerlust und die Begeisterung für die Meeresriesen.
+        director: Thomas Hauer, René Kirschey
         air_date: '2002-02-05'
         duration: 26
         duration_sec: 1579
@@ -5244,6 +5248,7 @@ seasons:
             Obwohl weiße Farmer mit Maschinen den Reis ernten wollten und
             dabei großen Schaden anrichteten, haben die Ojibwa-Indianer erfolgreich
             ihr Recht auf die Seen verteidigt.
+        director: Heidi Mühlenberg
         air_date: '2002-02-06'
         duration: 26
         duration_sec: 1581
@@ -8314,7 +8319,7 @@ seasons:
             der Buddhisten in Sibirien sondern auch um seine eigene Zukunft.
             Denn Itigilow wurde längst zum Symbol für die Wiederauferstehung
             des Buddhismus in Sibirien.'
-        director: Dr. Ute Gebhardt
+        director: Ute Gebhardt
         air_date: '2004-09-11'
         duration: 52
         duration_sec: 3139
@@ -27995,7 +28000,7 @@ seasons:
             hat Jim die Hoffnung nicht aufgegeben, dass das Projekt überarbeitet
             wird und Shetland so bleibt wie es ist - wild, schön und nahezu
             unberührt.'
-        director: Friederike Schlumborn
+        director: Friederike Schlumbom
         air_date: '2013-02-02'
         duration: 52
         duration_sec: 3138
@@ -34134,7 +34139,7 @@ seasons:
             hat es eilig. Ob die Wirtschaft gut läuft? Wie es wohl Maria und
             seinen Enkeln geht? Seit zwei Monaten haben sie sich nicht mehr
             gesehen. Kostas hat es eilig.'
-        director: Michael Schumacher
+        director: J. Michael Schumacher
         air_date: '2015-01-03'
         duration: 52
         duration_sec: 3140
@@ -40876,7 +40881,7 @@ seasons:
             - ein Waldgeist. Sie alle, 200 Nachbarn und Freunde eingeschlossen,
             wollen Arcadio bei seiner „Minga“ helfen. Aber wird das alte Haus
             den Belastungen überhaupt standhalten?'
-        director: Michael Schumacher
+        director: J. Michael Schumacher
         air_date: '2017-05-28'
         duration: 52
         duration_sec: 3128
@@ -48805,7 +48810,7 @@ seasons:
             Anbaumethoden eine besonders reichhaltige Ernte erzielen können.
             Und sollte dies gelingen, steht einem ausgelassenen Kurkumafest
             nichts im Wege!'
-        director: Friederike Schlumborn
+        director: Friederike Schlumbom
         air_date: '2020-06-14'
         duration: 43
         duration_sec: 3161
@@ -48920,7 +48925,7 @@ seasons:
             sechs der ursprünglich 14 Hunde müssen die Musher ins Ziel kommen,
             sonst droht die Disqualifikation. Wie weit werden es Marit und
             Susana bringen?'
-        director: Michael Schumacher
+        director: J. Michael Schumacher
         air_date: '2020-06-28'
         duration: 43
         duration_sec: 3173
@@ -54434,7 +54439,7 @@ seasons:
             Sie begegnen imposanten Wildtieren wie Bisons und Grizzlybären
             und entdecken Orte, die noch heute die Namen und Spuren ihrer
             Ahnen tragen.
-        director: Michael Schumacher
+        director: J. Michael Schumacher
         air_date: '2023-03-11'
         fernsehserien_episode_no: 614
         fernsehserien_episode_slug: 614-freiheit-auf-pferderuecken-der-lange-weg-der-nez-perce-1621705
