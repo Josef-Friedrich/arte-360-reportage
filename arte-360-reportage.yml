@@ -3437,8 +3437,8 @@ seasons:
             Flossen. In dreißig Metern Tiefe wird die Lunge durch den Wasserdruck
             so komprimiert, dass ihr kleinstmögliches Volumen erreicht ist.
             Der Unterdruck, der entsteht, zieht übermäßig viel Blut in die
-            Lungenblässchen. Nur so können die Apnoetaucher überleben: Würde
-            das Blut nicht die Lungenblässchen aufblähen, könnte die Lunge
+            Lungenbläschen. Nur so können die Apnoetaucher überleben: Würde
+            das Blut nicht die Lungenbläschen aufblähen, könnte die Lunge
             dem Außendruck nicht standhalten und würde platzen. Sein großes
             Vorbild ist der Kubaner Pipin Ferreras. Der „Fish-Man“ rast einsam
             auf einem bleibeschwerten Tauchschlitten in lebensgefährliche
@@ -3454,7 +3454,7 @@ seasons:
             möchte seinen persönlichen Rekord von 42 Metern brechen, ohne
             Atemgerät, nur mit Flossen. In 30 Metern Tiefe komprimiert der
             Wasserdruck die Lunge, sodass sie minimal wird. Der entstehende
-            Unterdruck zieht Blut in die Lungenblässchen, was zum Überleben
+            Unterdruck zieht Blut in die Lungenbläschen, was zum Überleben
             notwendig ist. Penszuk bewundert den Kubaner Pipin Ferreras, der
             mit einem bleibeschwerten Tauchschlitten in lebensgefährliche
             Tiefen vordringt. Ferreras plant, mit 165 Metern einen neuen Rekord
@@ -4905,7 +4905,7 @@ seasons:
             „360° - Die GEO-Reportage“ begleitet Buschmänner in Südafrika,
             die mit Hilfe eines modernen Minicomputers ihr traditionelles
             Wissen als Fährtenleser in den Dienst der Wissenschaft stellen.'
-        summary: Die Buschmänner der Kalahari Wüste nutzen den Cybertracker,
+        summary: Die Buschmänner der Kalahari-Wüste nutzen den Cybertracker,
             einen kleinen Computer, um Spuren aufzuzeichnen. Sie geben ihre
             Beobachtungen mithilfe von Symbolen ein, da sie nicht lesen können.
             Ihr einzigartiges Wissen und ihre Fähigkeit, die Zeichen ihrer
@@ -5299,6 +5299,7 @@ seasons:
             des Festes ist am Abend, wo Lieder den Ahnen gewidmet sind und
             der erste Schluck aus einer neuen Flasche für sie auf den Boden
             gegossen wird.
+        director: Ute Gebhardt
         air_date: '2002-02-07'
         duration: 26
         duration_sec: 1591
@@ -5344,6 +5345,7 @@ seasons:
             Filmen. Im Gegensatz zu Hollywood-Tiertrainern ist es ihm wichtig,
             dass die Tiere in ihrer natürlichen Umgebung zu sehen sind und
             sich natürlich verhalten.
+        director: Harald Pokiser
         air_date: '2002-03-04'
         duration: 26
         duration_sec: 1555
@@ -5475,6 +5477,7 @@ seasons:
             auf sein Gespür und seine Erfahrung beim Einkauf auf den Märkten.
             Im Labor kann er anhand der Farbkomponenten die Herkunft des Safrans
             bestimmen.
+        director: Andrea Hauner
         air_date: '2002-03-07'
         duration: 26
         duration_sec: 1583
@@ -5522,6 +5525,7 @@ seasons:
             sucht nach illegalen Werkstätten. Viele der Fälscher haben ihr
             Handwerk in staatlichen Fabriken gelernt und nutzen nach Feierabend
             ihr Wissen, um illegal Zigarren herzustellen.
+        director: Christian Kubo
         air_date: '2002-04-01'
         duration: 26
         duration_sec: 1592
@@ -5565,6 +5569,7 @@ seasons:
             zu helfen. Die vier Priester und ein Mönchschor bieten Trost und
             geistlichen Beistand, obwohl ihre Aufenthalte kurz sind. Dennoch
             gelingt es ihnen, den wiederauflebenden Glauben zu stärken.
+        director: Wolfgang Mertin
         air_date: '2002-04-02'
         duration: 26
         duration_sec: 1595
@@ -5611,6 +5616,7 @@ seasons:
             wurde 1975 vom ehemaligen Kulturminister José Abreu gegründet
             und betreut über 110.000 Kinder in 180 Nachwuchsensembles, unterstützt
             von mehr als 1000 Mitarbeitern.
+        director: Dirk Laabs
         air_date: '2002-04-03'
         duration: 26
         duration_sec: 1581
@@ -5659,6 +5665,7 @@ seasons:
             einen Operationssaal enthält, reist seit zehn Jahren durch unterentwickelte
             Regionen und hat bereits über 300.000 Menschen, darunter viele
             Kinder, kostenlos behandelt.
+        director: Thomas Hauer, René Kirschey
         air_date: '2002-05-06'
         duration: 26
         duration_sec: 1583
@@ -5703,6 +5710,7 @@ seasons:
             erlaubt ist, Bernstein zu fördern und zu verkaufen, toleriert
             die schlecht bezahlte Polizei Bestechungsgelder. Die Ostsee ist
             für viele zur wichtigen Einkommensquelle geworden.
+        director: Harald Pokieser
         air_date: '2002-05-07'
         duration: 26
         duration_sec: 1613
@@ -6436,7 +6444,7 @@ seasons:
             unüblich bleibt und die Paare weiterhin mit spätestens 25 Jahren
             heiraten, wird die Hochzeitsindustrie florieren und einer wie
             Mehmet Gemici nicht klagen können.'
-        summary: In Berlin Kreuzberg findet eine Hochzeitsfeier statt, bei
+        summary: In Berlin-Kreuzberg findet eine Hochzeitsfeier statt, bei
             der 600 Gäste auf das Brautpaar warten. Die Zeremonie wird vom
             37-jährigen Mehmet Gemici organisiert, einem bekannten „Hochzeitsmacher“
             der türkischen Gemeinschaft in Berlin. Heute heiratet der jüngste
@@ -19016,7 +19024,7 @@ seasons:
         season_no: 11
         episode_no: 20
         title: Die neuen Nomaden von Kirgisistan
-        title_fr: Nomades du Kirghizstan
+        title_fr: Nomades du Kyrgyzstan
         description: 'Bachit ist ein cleverer Hirte. Längst hat der 40-jährige
             Kirgise begriffen, dass sich etwas Entscheidendes verändert in
             seiner Heimat, dem an der Grenze zu China gelegenen Tien Shan
@@ -36377,7 +36385,7 @@ seasons:
         season_no: 17
         episode_no: 21
         title: Yoga, Indiens erstaunliche Medizin
-        title_fr: Yoga, Médecine Traditionnelle de l’Inde
+        title_fr: Yoga, Médecine Traditionelle de l’Inde
         continent: Asien
         location_wikidata: Q1538
         coordinates:

@@ -1169,7 +1169,7 @@
 |-
 |20
 |
-| Nomades du Kirghizstan
+| Nomades du Kyrgyzstan
 |-
 |21
 |
@@ -1803,7 +1803,7 @@
 |-
 |21
 |🟡
-| Yoga, Médecine Traditionnelle de l’Inde
+| Yoga, Médecine Traditionelle de l’Inde
 |-
 |22
 |🟡
