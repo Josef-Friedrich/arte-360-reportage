@@ -1108,7 +1108,7 @@
 | NR_ST = 15
 | OT = Die Minensucher von Kabul<ref>Internetquellen zur Episode ''„Die Minensucher von Kabul“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/119-die-minensucher-von-kabul-339442 119] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/119-die-minensucher-von-kabul-339442 339442], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641977 S04E15] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641977 4641977], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042931 tt1042931], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=3wLFTh60fW8 3wLFTh60fW8]</ref>
 | Feld1 = -
-| REG = -
+| REG = Jacqueline Steigner
 | EA = 2002-05-09
 | ZF = Die deutsche Schäferhündin Cora schnüffelt mit Abdul, ihrem afghanischen Halter, über einen kargen Feldboden. Plötzlich setzt sie sich hin, da sie eine vergrabene Landmine entdeckt hat. In Afghanistan liegen mehr versteckte Sprengkörper als irgendwo sonst auf der Welt. Mario Boers Kompanie hat bereits über 2000 von den Sowjets hinterlassene Landminen gefunden und entschärft, aber nach dem Angriff der USA mussten alle Gebiete erneut durchsucht werden. Die Hunde aus Deutschland werden in Afghanistan hoch geschätzt, da sie Sprengstoff aufspüren können. Das Räumungspersonal gräbt die Minen von Hand aus und entschärft sie.
 }}
@@ -1117,7 +1117,7 @@
 | NR_ST = 16
 | OT = Bermuda: Schatzsuche in der Tiefsee<ref>Internetquellen zur Episode ''„Bermuda: Schatzsuche in der Tiefsee“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/120-bermuda-schatzsuche-in-der-tiefsee-339443 120] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/120-bermuda-schatzsuche-in-der-tiefsee-339443 339443], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641978 S04E16] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641978 4641978], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042923 tt1042923]</ref>
 | Feld1 = -
-| REG = -
+| REG = David Ash, Stefan Braun
 | EA = 2002-06-03
 | ZF = Das russische Forschungsschiff „Akademik Keldysh“ hat modernste Technologie an Bord, darunter die Tiefseeboote MIR1 und MIR2 mit High-Tech-Kameras, Lampen und Roboterarmen. Anstatt nur Wissenschaftler, begleitet der australische Abenteurer Mike McDowell die Mannschaft. Sie planen, zur Sargassosee zu fahren, wo das Wrack einer spanischen Gold-Galeone vermutet wird. Dies könnte einen unermesslichen Reichtum bedeuten.
 }}
@@ -1135,7 +1135,7 @@
 | NR_ST = 18
 | OT = Die Schule der Inuit<ref>Internetquellen zur Episode ''„Die Schule der Inuit“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/122-die-schule-der-inuit-339445 122] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/122-die-schule-der-inuit-339445 339445], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641980 S04E18] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641980 4641980], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042932 tt1042932], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=DvR4hXuzv1M DvR4hXuzv1M]</ref>
 | Feld1 = -
-| REG = -
+| REG = Ilka Franzmann
 | EA = 2002-06-05
 | ZF = In Nordgrönland, einem Fjord nördlich des Polarkreises, bereiten sich Jugendliche aus dem Heim „Bornehjemmet“ auf eine zweimonatige Expedition vor. Bei eisigen Temperaturen von minus 30 Grad spielen drei Kinder vor einer improvisierten Hütte Karten, während zwei andere Kordeln und Haken zusammenknüpfen. Ihr Ziel ist es, im ewigen Eis zu überleben und dadurch mehr Selbstvertrauen zu gewinnen. Vor sieben Jahren gründete der Grönländer Ole Jorgen das Projekt, um Kindern aus schwierigen Verhältnissen neue Perspektiven zu bieten.
 }}
@@ -1144,7 +1144,7 @@
 | NR_ST = 19
 | OT = Peones - Verkannte Helden<ref>Internetquellen zur Episode ''„Peones - Verkannte Helden“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/123-peones-verkannte-helden-339446 123] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/123-peones-verkannte-helden-339446 339446], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641981 S04E19] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641981 4641981], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042941 tt1042941], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=MXtyKNBctjU MXtyKNBctjU]</ref>
 | Feld1 = -
-| REG = -
+| REG = Gabriela Victoria Herr, Michael Joe Küspert
 | EA = 2002-06-06
 | ZF = Im Herbstwind der Ebenen kämpfen uruguayische Peones de Estancia, Nachfahren der einst legendären Gauchos, mit widrigen Bedingungen. Starke Regenfälle verwandeln das Land in einen Morast. Néstor Travieso und seine Söhne sind Peones, Viehhirten, auf der Estancia El Guayabo. Sie kümmern sich um 600 Rinder, 800 Schafe und 40 Wildpferde. Néstor fängt und zähmt Tiere, hilft bei Geburten und schlachtet. Die Arbeit ist schlecht bezahlt und viele Peones finden keine Anstellung. Die jährlichen Domas, Gaucho-Rodeos, sind von großer Bedeutung für sie, um Geld und Ehre zu gewinnen. Der gefährliche Ritt auf den wilden Pferden ist lebensgefährlich, aber das Preisgeld ist es wert.
 }}
@@ -1162,7 +1162,7 @@
 | NR_ST = 21
 | OT = Im Wald der Vampire<ref>Internetquellen zur Episode ''„Im Wald der Vampire“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/125-im-wald-der-vampire-339449 125] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/125-im-wald-der-vampire-339449 339449], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641983 S04E21] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641983 4641983], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1051731 tt1051731], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=e1ufsFFCyzQ e1ufsFFCyzQ]</ref>
 | Feld1 = -
-| REG = -
+| REG = Wolfgang Luck
 | EA = 2002-09-03
 | ZF = Ein deutscher Biologe namens Detlef Kelm erforscht tropische Fledermäuse in Costa Rica. Er möchte mithilfe dieser Tiere den Regenwald wieder aufforsten. Kelm hat bereits Erfahrungen mit Vampirfledermäusen gemacht, aber er konzentriert sich nun auf harmlose Fruchtfresser und Nektarsüffler. Er baut kleine Betonhäuser an den Waldrändern, in denen die Fledermäuse leben können. Indem die Tiere dort Blüten und Samen verbreiten, helfen sie dabei, einen neuen Tropenwald zu schaffen. Immer mehr Bauern unterstützen das Projekt, nachdem sie verstanden haben, dass es keine Vampire anlockt. Diese Idee könnte den Regenwald vor weiterer Abholzung bewahren.
 }}
@@ -1171,7 +1171,7 @@
 | NR_ST = 22
 | OT = Nashörner unter dem Hammer<ref>Internetquellen zur Episode ''„Nashörner unter dem Hammer“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/126-nashoerner-unter-dem-hammer-339450 126] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/126-nashoerner-unter-dem-hammer-339450 339450], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641984 S04E22] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641984 4641984], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1051732 tt1051732], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=NcnIjv7NEEg NcnIjv7NEEg]</ref>
 | Feld1 = -
-| REG = -
+| REG = Jörg Daniel Hissen, Peter Moers
 | EA = 2002-09-04
 | ZF = Bei einer Tierauktion im Hluhluwe-Umfolozi-Nationalpark in Südafrika wurde ein Breitmaulnashorn für 320.000 Rand verkauft. Das Wettbieten um überzählige Tiere, die das Gleichgewicht im Park gefährden, war ein Höhepunkt der Veranstaltung. Parkmitarbeiter fangen die Tiere mit Helikoptern und Jeeps ein, Tierarzt Dave Cooper untersucht und betreut sie. Durch die Auktion und jährliche Inventur sollen Platz für die verbleibenden Tiere geschaffen und der Fortbestand einiger Arten nicht allein vom Park abhängig gemacht werden.
 }}
@@ -1180,7 +1180,7 @@
 | NR_ST = 23
 | OT = Warten auf den Monsun<ref>Internetquellen zur Episode ''„Warten auf den Monsun“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/127-warten-auf-den-monsun-339451 127] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/127-warten-auf-den-monsun-339451 339451], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641985 S04E23] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641985 4641985], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1051735 tt1051735], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=dei00bjPwvA dei00bjPwvA]</ref>
 | Feld1 = -
-| REG = -
+| REG = Ranyana Kothari, Thomas Wedmann
 | EA = 2002-09-05
 | ZF = In Mumbai, Indien, gibt es neun Monate lang keinen Regen und hohe Temperaturen von 40 Grad. Der lang ersehnte Monsun bricht im Juni aus und bringt Abkühlung, aber auch Überschwemmungen. Der Hotelfeger Boleram Haldar kämpft sich auf dem Weg zur Arbeit durch überflutete Straßen. Männer beseitigen den Müll aus den Abflüssen, um eine Zusammenbruch der Kanalisation und die Vermischung von Abwasser mit Trinkwasser zu verhindern. Der Regen bestimmt das Leben in der Stadt für drei Monate, bringt Chaos, Krankheiten und neues Grün zwischen den Straßen.
 }}
@@ -1189,7 +1189,7 @@
 | NR_ST = 24
 | OT = Palmasola - Dorf hinter Gittern<ref>Internetquellen zur Episode ''„Palmasola - Dorf hinter Gittern“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/128-palmasola-dorf-hinter-gittern-339453 128] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/128-palmasola-dorf-hinter-gittern-339453 339453], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641986 S04E24] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641986 4641986], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1051733 tt1051733], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=UwCJCZPcEL0 UwCJCZPcEL0]</ref>
 | Feld1 = -
-| REG = -
+| REG = Carmen Butta
 | EA = 2002-10-07
 | ZF = Palmasola in Bolivien ist eine Stadt im Osten des Landes, in der 1047 Gefangene leben, darunter viele mit ihren Familien. Die Wächter bewachen nur das Tor. Geld ermöglicht es den Insassen, Zimmer oder Häuser zu mieten, Respekt und Leibwächter zu kaufen, Geschäfte zu eröffnen oder mit Kokain zu handeln. Carlos Cambia, ein Autodieb und Herausgeber der Gefängniszeitung, kennt alle Gefängnisse Boliviens, aber nur hier fühlt er sich nicht seiner Würde beraubt. Das Gefängnis ist wie sein Stadtviertel, nur brutaler.
 }}
@@ -1198,7 +1198,7 @@
 | NR_ST = 25
 | OT = Bilder hören - Die blinden Kinder von Tibet<ref>Internetquellen zur Episode ''„Bilder hören - Die blinden Kinder von Tibet“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/129-bilder-hoeren-die-blinden-kinder-von-tibet-339454 129] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/129-bilder-hoeren-die-blinden-kinder-von-tibet-339454 339454], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641987 S04E25] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641987 4641987], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1051730 tt1051730], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=LTq7SwlTjaU LTq7SwlTjaU]</ref>
 | Feld1 = -
-| REG = -
+| REG = Ilka Franzmann
 | EA = 2002-10-08
 | ZF = Die blinde deutsche Lehrerin Sabriye Tenberken lebt in Lhasa, Tibet, und unterrichtet blinde Kinder. Das Leben der Menschen in Tibet ist hart, und Blindheit wird als Bestrafung für vergangene Sünden betrachtet. Dennoch hat Tenberken es sich zur Aufgabe gemacht, blinden Kindern zu helfen und sie zu unterrichten. In ihrer Schule lehrt sie 28 Kinder Lesen, Schreiben und die Orientierung mit dem Blindenstock.
 }}
@@ -1207,7 +1207,7 @@
 | NR_ST = 26
 | OT = Der Blechmusik-Oscar<ref>Internetquellen zur Episode ''„Der Blechmusik-Oscar“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/130-der-blechmusik-oscar-339455 130] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/130-der-blechmusik-oscar-339455 339455], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641988 S04E26] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641988 4641988], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1051728 tt1051728], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=mw6CLMWS17k mw6CLMWS17k]</ref>
 | Feld1 = -
-| REG = -
+| REG = Matthias Heeder, Monika Hielscher
 | EA = 2002-10-09
 | ZF = Das Blechmusik-Festival in Guca verwandelt das kleine serbische Dorf in einen Ausnahmezustand. Das einzige Hotel ist schnell ausgebucht, daher schlafen die meisten Musiker und Gäste in Bussen, Zelten oder ihren Autos. Die Einheimischen vermieten ihre Zimmer und nutzen die Küche als Ersatz. Der begehrte Preis „Prva Truba“ lockt die Musiker an, darunter der dreifache Gewinner Milan Mladanovic, der nun seinen Enkel Ekrim den Sieg wünscht. Bei einem Gewinn will Milan die Leitung des Familienorchesters abgeben. Drei Tage lang wird das Festival Guca mit einer schwitzenden, brodelnden und tanzwütigen Atmosphäre erfüllen.
 }}
@@ -1216,7 +1216,7 @@
 | NR_ST = 27
 | OT = Die Riesenflöße vom Jenissej - Ein Floßschiffer auf seiner Fahrt zum Polarmeer<ref>Internetquellen zur Episode ''„Die Riesenflöße vom Jenissej - Ein Floßschiffer auf seiner Fahrt zum Polarmeer“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/131-die-riesenfloesse-vom-jenissej-ein-flossschiffer-auf-seiner-fahrt-zum-polarmeer-339456 131] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/131-die-riesenfloesse-vom-jenissej-ein-flossschiffer-auf-seiner-fahrt-zum-polarmeer-339456 339456], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641989 S04E27] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641989 4641989], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1051729 tt1051729], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=85nISbMK9ng 85nISbMK9ng]</ref>
 | Feld1 = -
-| REG = -
+| REG = Wolfgang Mertin
 | EA = 2002-10-10
 | ZF = Im Juli und August steigt das Frühlingshochwasser des Jenissej. Dann startet die abenteuerliche Reise der 700 Meter langen Holzflöße flussabwärts. Ganze Wälder werden in Bewegung gesetzt und bis zu 25.000 Baumstämme zu Paketen verschnürt. Auf den Flößen befinden sich Hütten, in denen die Flößer zwei Wochen lang leben werden. Einer von ihnen ist Alexander Otzenko, dessen Familie seit über 30 Jahren in der Forstwirtschaft tätig ist. Alexander und seine Kollegen haben noch 1200 Flusskilometer vor sich. Die Fahrt von den Holzfällerdörfern zum Polarmeer und zurück dauert über einen Monat. Sie müssen Stromschnellen passieren, das Floß vor Stürmen schützen und schließlich den Polarkreis überqueren. Dann erreichen sie ihr Ziel - den Polarhafen von Dudinka.
 }}
@@ -1225,7 +1225,7 @@
 | NR_ST = 28
 | OT = Heiratsmarkt in Marokko<ref>Internetquellen zur Episode ''„Heiratsmarkt in Marokko“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/132-heiratsmarkt-in-marokko-339457 132] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/132-heiratsmarkt-in-marokko-339457 339457], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641990 S04E28] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641990 4641990], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=5mwI8g-fagQ 5mwI8g-fagQ]</ref>
 | Feld1 = -
-| REG = -
+| REG = Andrea Morgenthaler
 | EA = 2002-11-04
 | ZF = Der Markttag in Ilmichil auf einer Hochebene zwischen dem Mittleren und dem Hohen Atlas vereint das Jahresfest zu Ehren des lokalen Stammesheiligen Marabouts mit dem traditionellen Erntedankfest der Ait-Haddidou-Berber und einem Heiratsmarkt. Es gibt typische Tänze und Gesänge der verschiedenen Stammesfamilien. Frauen, geschmückt mit dicken Bernsteinketten, stehen Seite an Seite und wiegen sich zum rhythmischen Klatschen. Das Jahrestreffen bietet den nomadisierenden Stämmen die Möglichkeit, sich für den Winter zu versorgen und potenzielle Ehepartner zu finden. Henou und Hassan werden sich dieses Jahr bei den kollektiven Eheschließungen in Imilchil vermählen. Die verschleierte Henou wird auf einem Esel über den Festplatz geführt, wo Hassan sie empfängt und zum Standesbeamten führt. Anschließend wird in den Zelten bis spät in die Nacht gefeiert.
 }}
@@ -1234,7 +1234,7 @@
 | NR_ST = 29
 | OT = Die türkischen Hochzeitsmacher<ref>Internetquellen zur Episode ''„Die türkischen Hochzeitsmacher“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/133-die-tuerkischen-hochzeitsmacher-339458 133] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/133-die-tuerkischen-hochzeitsmacher-339458 339458], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641991 S04E29] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641991 4641991], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt2069998 tt2069998], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=Nhy3yuYYp5s Nhy3yuYYp5s]</ref>
 | Feld1 = -
-| REG = -
+| REG = Christoph Weinert
 | EA = 2002-11-05
 | ZF = In Berlin-Kreuzberg findet eine Hochzeitsfeier statt, bei der 600 Gäste auf das Brautpaar warten. Die Zeremonie wird vom 37-jährigen Mehmet Gemici organisiert, einem bekannten „Hochzeitsmacher“ der türkischen Gemeinschaft in Berlin. Heute heiratet der jüngste Sohn seines Freundes Musa Coskun. Das Brautpaar betritt den Saal und die Gäste bilden einen Tunnel, durch den sie zur Tanzfläche gelangen. Die Feier wird von türkischen Dienstleistern wie Caterern, Floristen, Juwelieren, Bäckern, Musikern, Friseuren, Möbelgeschäften und Fotografen unterstützt. Die türkische Hochzeitsbranche boomt in Berlin aufgrund der jungen türkischen Bevölkerung, die früh heiratet. Mehmet Gemici hat viel Arbeit und keinen Grund zur Klage.
 }}
@@ -1243,7 +1243,7 @@
 | NR_ST = 30
 | OT = Die Frachtensegler von Madagaskar<ref>Internetquellen zur Episode ''„Die Frachtensegler von Madagaskar“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/134-die-frachtensegler-von-madagaskar-339459 134] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/134-die-frachtensegler-von-madagaskar-339459 339459], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641992 S04E30] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641992 4641992], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=MOxGnaDNqe4 MOxGnaDNqe4]</ref>
 | Feld1 = -
-| REG = -
+| REG = Bernd Gerriets
 | EA = 2002-11-06
 | ZF = An den Küsten von Madagaskar sind die Straßen in einem verheerenden Zustand, wodurch viele Ortschaften nicht über Land erreichbar sind. Glücklicherweise spielen Frachtschiffer eine wichtige Rolle bei der Versorgung der madagassischen Bauern und der Belieferung von außen. Kapitän Donné ist ein herausragender Frachtschiffer, der ohne Seekarte, Sextanten oder Kompass navigiert. Er kennt alle Gefahren und sicheren Ankerplätze entlang der Küste. Neben alltäglichen Gebrauchsgegenständen transportiert er auch Passagiere, wenn Platz vorhanden ist. Aufgrund der schwierigen wirtschaftlichen und politischen Lage wird der Ausbau der Verkehrswege in den wenig besiedelten Küstengebieten Madagaskars auf absehbare Zeit nicht möglich sein.
 }}
@@ -1252,7 +1252,7 @@
 | NR_ST = 31
 | OT = Die Abalone-Wilderer<ref>Internetquellen zur Episode ''„Die Abalone-Wilderer“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/135-die-abalone-wilderer-der-kampf-um-den-erhalt-einer-seeschneckenart-339460 135] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/135-die-abalone-wilderer-der-kampf-um-den-erhalt-einer-seeschneckenart-339460 339460], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641993 S04E31] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641993 4641993], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=kF1VEBBmF0A kF1VEBBmF0A]</ref>
 | Feld1 = -
-| REG = -
+| REG = Cornelia Deppe-Burghardt, Michael Pauli
 | EA = 2002-11-07
 | ZF = Abalones sind teure Meeresdelikatessen und ihre Perlmutt-Schalen werden als Schmuck begehrt. Der Bestand der Abalones ist weltweit gefährdet, auch in Südafrika. Die Polizei und Eben Groenewald, ein Officer von „Operation Neptune“, einer Spezialeinheit des südafrikanischen Umweltministeriums, Polizei und Armee, kämpfen gegen Wilderer und Schmuggler. In Hermanus kontrollieren die Polizisten Autos und finden tatsächlich eine Kiste mit Abalones. Der 45-jährige Groenewald setzt sich leidenschaftlich für den Schutz des Naturerbes seines Landes ein.
 }}
@@ -1272,7 +1272,7 @@
 | NR_ST = 1
 | OT = Die Mörderinnen von Targsor - Das einzige Frauengefängnis in Rumänien<ref>Internetquellen zur Episode ''„Die Mörderinnen von Targsor - Das einzige Frauengefängnis in Rumänien“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/136-die-moerderinnen-von-targsor-das-einzige-frauengefaengnis-in-rumaenien-339461 136] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/136-die-moerderinnen-von-targsor-das-einzige-frauengefaengnis-in-rumaenien-339461 339461], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641994 S05E01] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641994 4641994], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=KYbUkoxaOyo KYbUkoxaOyo]</ref>
 | Feld1 = -
-| REG = -
+| REG = Mario Damolin, Bernhard Kilian
 | EA = 2003-01-06
 }}
 {{Episodenlisteneintrag
@@ -1280,7 +1280,7 @@
 | NR_ST = 2
 | OT = Das Metall aus dem Vulkan<ref>Internetquellen zur Episode ''„Das Metall aus dem Vulkan“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/137-das-metall-aus-dem-vulkan-339462 137] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/137-das-metall-aus-dem-vulkan-339462 339462], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641995 S05E02] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641995 4641995], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt6753230 tt6753230], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=RGqCVo2c3pQ RGqCVo2c3pQ]</ref>
 | Feld1 = -
-| REG = -
+| REG = Zoltán Jász
 | EA = 2003-01-07
 }}
 {{Episodenlisteneintrag
@@ -1288,7 +1288,7 @@
 | NR_ST = 3
 | OT = Die Söldner der Perlen<ref>Internetquellen zur Episode ''„Die Söldner der Perlen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/138-die-soeldner-der-perlen-der-lebensgefaehrliche-job-339463 138] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/138-die-soeldner-der-perlen-der-lebensgefaehrliche-job-339463 339463], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641996 S05E03] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641996 4641996]</ref>
 | Feld1 = -
-| REG = -
+| REG = Alexander Lorenz
 | EA = 2003-01-08
 }}
 {{Episodenlisteneintrag
@@ -1296,7 +1296,7 @@
 | NR_ST = 4
 | OT = Hongkongs Bambusakrobaten<ref>Internetquellen zur Episode ''„Hongkongs Bambusakrobaten“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/139-hongkongs-bambusakrobaten-339464 139] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/139-hongkongs-bambusakrobaten-339464 339464], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641997 S05E04] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641997 4641997], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=BSIqpsZHcSw BSIqpsZHcSw]</ref>
 | Feld1 = -
-| REG = -
+| REG = Anja Werner
 | EA = 2003-01-09
 }}
 {{Episodenlisteneintrag
@@ -1304,7 +1304,7 @@
 | NR_ST = 5
 | OT = Mission Nordkorea<ref>Internetquellen zur Episode ''„Mission Nordkorea“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/140-mission-nordkorea-339465 140] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/140-mission-nordkorea-339465 339465], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641998 S05E05] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641998 4641998], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=PcX598GUNXw PcX598GUNXw]</ref>
 | Feld1 = -
-| REG = -
+| REG = Bernd Girrbach, Elke Werry
 | EA = 2003-02-03
 }}
 {{Episodenlisteneintrag
@@ -1312,7 +1312,7 @@
 | NR_ST = 6
 | OT = Radios gegen Kalaschnikows<ref>Internetquellen zur Episode ''„Radios gegen Kalaschnikows“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/141-radios-gegen-kalaschnikows-339466 141] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/141-radios-gegen-kalaschnikows-339466 339466], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641999 S05E06] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641999 4641999], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=fsFFXBhSG6Q fsFFXBhSG6Q]</ref>
 | Feld1 = -
-| REG = -
+| REG = Dominik Eisenhart-Rothe, Katja Eisenhart-Rothe
 | EA = 2003-02-04
 }}
 {{Episodenlisteneintrag
@@ -1320,7 +1320,7 @@
 | NR_ST = 7
 | OT = Die Hightech-Oase<ref>Internetquellen zur Episode ''„Die Hightech-Oase“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/142-die-hightech-oase-auf-der-groessten-milchfarm-der-welt-339467 142] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/142-die-hightech-oase-auf-der-groessten-milchfarm-der-welt-339467 339467], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642000 S05E07] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642000 4642000], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1623060 tt1623060], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=8gLLh2teor4 8gLLh2teor4]</ref>
 | Feld1 = -
-| REG = -
+| REG = Jacqueline Steigner
 | EA = 2003-02-05
 }}
 {{Episodenlisteneintrag
@@ -1328,7 +1328,7 @@
 | NR_ST = 8
 | OT = Videofabrik Nigeria<ref>Internetquellen zur Episode ''„Videofabrik Nigeria“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/143-videofabrik-nigeria-339468 143] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/143-videofabrik-nigeria-339468 339468], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642001 S05E08] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642001 4642001], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=Tej9cR-hQ7o Tej9cR-hQ7o]</ref>
 | Feld1 = -
-| REG = -
+| REG = Matthias Heeder, Monika Hielscher
 | EA = 2003-02-06
 }}
 {{Episodenlisteneintrag
@@ -1336,7 +1336,7 @@
 | NR_ST = 9
 | OT = Beuteltiere an der Börse<ref>Internetquellen zur Episode ''„Beuteltiere an der Börse“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/144-beuteltiere-an-der-boerse-339472 144] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/144-beuteltiere-an-der-boerse-339472 339472], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642002 S05E09] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642002 4642002], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=JTFfHASu6EI JTFfHASu6EI]</ref>
 | Feld1 = -
-| REG = -
+| REG = Peter Moers, Jörg Daniel Hissen
 | EA = 2003-03-03
 }}
 {{Episodenlisteneintrag
@@ -1344,7 +1344,7 @@
 | NR_ST = 10
 | OT = Hongkong - Pferde und Millionen<ref>Internetquellen zur Episode ''„Hongkong - Pferde und Millionen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/145-hongkong-pferde-und-millionen-339473 145] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/145-hongkong-pferde-und-millionen-339473 339473], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642003 S05E10] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642003 4642003], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=3qb2dXghgjg 3qb2dXghgjg]</ref>
 | Feld1 = -
-| REG = -
+| REG = Martin Uhrmeister
 | EA = 2003-03-04
 }}
 {{Episodenlisteneintrag
@@ -1352,7 +1352,7 @@
 | NR_ST = 11
 | OT = Wo der wilde Kaffee wächst<ref>Internetquellen zur Episode ''„Wo der wilde Kaffee wächst“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/146-wo-der-wilde-kaffee-waechst-339474 146] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/146-wo-der-wilde-kaffee-waechst-339474 339474], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642004 S05E11] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642004 4642004], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=vqk-t5ZxJTg vqk-t5ZxJTg]</ref>
 | Feld1 = -
-| REG = -
+| REG = Ines Possemeyer
 | EA = 2003-03-05
 }}
 {{Episodenlisteneintrag
@@ -1360,7 +1360,7 @@
 | NR_ST = 12
 | OT = Rückkehr der Meeresschildkröten<ref>Internetquellen zur Episode ''„Rückkehr der Meeresschildkröten“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/147-rueckkehr-der-meeresschildkroeten-339475 147] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/147-rueckkehr-der-meeresschildkroeten-339475 339475], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642005 S05E12] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642005 4642005], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=JHO9mBw2PYc JHO9mBw2PYc]</ref>
 | Feld1 = -
-| REG = -
+| REG = Julia Knobloch, Tino Schrödl
 | EA = 2003-03-06
 }}
 {{Episodenlisteneintrag
@@ -1368,7 +1368,7 @@
 | NR_ST = 13
 | OT = Samoa Queens - Männer, die als Frauen leben<ref>Internetquellen zur Episode ''„Samoa Queens - Männer, die als Frauen leben“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/148-samoa-queens-maenner-die-als-frauen-leben-339476 148] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/148-samoa-queens-maenner-die-als-frauen-leben-339476 339476], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642006 S05E13] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642006 4642006], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=2jz1Lozi4dU 2jz1Lozi4dU]</ref>
 | Feld1 = -
-| REG = -
+| REG = Ilka Franzmann
 | EA = 2003-04-07
 }}
 {{Episodenlisteneintrag
@@ -1376,7 +1376,7 @@
 | NR_ST = 14
 | OT = Einsatz für den Amur-Tiger<ref>Internetquellen zur Episode ''„Einsatz für den Amur-Tiger“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/149-einsatz-fuer-den-amur-tiger-339477 149] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/149-einsatz-fuer-den-amur-tiger-339477 339477], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642007 S05E14] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642007 4642007], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=xdyhywULKUU xdyhywULKUU]</ref>
 | Feld1 = -
-| REG = -
+| REG = Christiane von Schwind
 | EA = 2003-04-08
 }}
 {{Episodenlisteneintrag
@@ -1384,7 +1384,7 @@
 | NR_ST = 15
 | OT = Die Seelensammler von Bangkok<ref>Internetquellen zur Episode ''„Die Seelensammler von Bangkok“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/150-die-seelensammler-von-bangkok-von-freiwilligen-rettungshelfern-339478 150] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/150-die-seelensammler-von-bangkok-von-freiwilligen-rettungshelfern-339478 339478], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642008 S05E15] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642008 4642008], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=ra8dlxRJWkc ra8dlxRJWkc]</ref>
 | Feld1 = -
-| REG = -
+| REG = Carmen Butta
 | EA = 2003-04-09
 }}
 {{Episodenlisteneintrag
@@ -1392,7 +1392,7 @@
 | NR_ST = 16
 | OT = Der Vogelhändler von Guangzhou<ref>Internetquellen zur Episode ''„Der Vogelhändler von Guangzhou“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/151-der-vogelhaendler-von-guangzhou-339479 151] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/151-der-vogelhaendler-von-guangzhou-339479 339479], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642009 S05E16] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642009 4642009], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=3mrXlaxKolU 3mrXlaxKolU]</ref>
 | Feld1 = -
-| REG = -
+| REG = Hartmut Idzko
 | EA = 2003-04-10
 }}
 }}
