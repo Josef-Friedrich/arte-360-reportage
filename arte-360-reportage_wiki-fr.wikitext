@@ -1001,7 +1001,7 @@
 | Les Catcheuses de Mexico
 |-
 |3
-|
+|⚫️
 | Les Rats Démineurs de Tanzanie
 |-
 |4
@@ -1017,7 +1017,7 @@
 | Le Jardin de Java
 |-
 |7
-|
+|⚪️
 | Mon Bout de Loire
 |-
 |8

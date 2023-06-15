@@ -14270,6 +14270,10 @@ seasons:
         episode_no: 23
         title: Wenzhou, die Schuh-Stadt von China
         title_fr: Chaussures Made in Wenzhou
+        location_wikidata: Q42635
+        coordinates:
+        - 27.999128
+        - 120.656075
         description: '„Der Erfolg steckt in guten Schuhen.“ Nirgendwo scheint
             diese alte chinesische Weisheit zutreffender als in Wenzhou. In
             der Hafenstadt werden fast alle in China hergestellten Brillen,
@@ -14370,6 +14374,10 @@ seasons:
         episode_no: 24
         title: Alligatorjagd in Florida
         title_fr: Alerte aux Alligators
+        location_wikidata: Q501043
+        coordinates:
+        - 27.96
+        - -81.7
         description: 'Blauer Himmel über Florida, die Sonne scheint. Im Teich
             neben dem Haus springen die Fische. Ein Idyll - säße nicht versteckt
             im Schilf ein Alligator. Die Hausbesitzerin ist aufgebracht. Sie
@@ -14477,6 +14485,10 @@ seasons:
         episode_no: 25
         title: Russlands Zirkusschule auf Tour
         title_fr: Le Cirque de Moscou en Balade
+        location_wikidata: Q746304
+        coordinates:
+        - 57.189
+        - 33.083333333333
         description: 'Der Seligersee zwischen Moskau und St. Petersburg: Am
             sonst so stillen Ufer ist einiges los: junge Leute balancieren
             auf aufgetürmten Rollen, jonglieren mit Bällen und Ringen, machen
@@ -14801,6 +14813,10 @@ seasons:
         episode_no: 2
         title: Die Kämpferinnen von Mexiko
         title_fr: Les Catcheuses de Mexico
+        location_wikidata: Q641374
+        coordinates:
+        - 19.424722
+        - -99.151944
         description: '„Lady Warrior“ nennt sie sich, die Frau hinter der schwarz-silbernen
             Maske. Von ihren Fans wird sie verehrt als aufsteigender Stern
             des Lucha Libre, des mexikanischen Catchens. Doch kaum einer weiß,
@@ -14915,6 +14931,11 @@ seasons:
         episode_no: 3
         title: Die Minenratten von Tansania
         title_fr: Les Rats Démineurs de Tanzanie
+        continent: Afrika
+        location_wikidata: Q924
+        coordinates:
+        - -6.3069444444444445
+        - 34.85388888888889
         description: 'Tansania. Ein Mann geht langsam über ein Feld und redet
             auf ein graues Tier zu seinen Füßen ein. Was da mit Brustgurt
             und Leine vor ihm läuft, ist kein gewöhnliches Haustier, sondern
@@ -15024,6 +15045,10 @@ seasons:
         episode_no: 4
         title: 'Philippinen: Rendezvous mit einem Adler'
         title_fr: Philippines, Pour l’Amour d’un Aigle
+        location_wikidata: Q124873
+        coordinates:
+        - 7.5
+        - 125
         description: 'Es ist früh am Morgen auf der Philippineninsel Mindanao,
             als sich Eddie Juntilla auf den Weg in den Regenwald macht. Er
             beeilt sich, denn er hat ein Rendezvous mit einer Dame. Seit 14
@@ -15136,6 +15161,10 @@ seasons:
         episode_no: 5
         title: Die Köchin von Bahia
         title_fr: Les Petits Plats de Bahia
+        location_wikidata: Q36947
+        coordinates:
+        - -12.983055555555556
+        - -38.492777777777775
         description: 'Die afro-brasilianische Kultur ist nirgendwo so lebendig
             wie in Salvador de Bahia. Denn hier war bis Ende des 19. Jahrhunderts
             der Hauptumschlagplatz für Sklaven in Brasilien. Die Westafrikaner
@@ -15240,6 +15269,10 @@ seasons:
         episode_no: 6
         title: Der Kräutergarten von Java
         title_fr: Le Jardin de Java
+        location_wikidata: Q3630
+        coordinates:
+        - -6.175
+        - 106.8275
         description: 'Die hügelige Landschaft um Bogor ist der Garten Eden
             Indonesiens: Bekannt für seine artenreiche Vegetation und eine
             farbenprächtige Gärten. Hier praktizieren die Menschen eine Jahrtausende
@@ -15337,6 +15370,11 @@ seasons:
         episode_no: 7
         title: An den Ufern der Loire
         title_fr: Mon Bout de Loire
+        continent: Europa
+        location_wikidata: Q1469
+        coordinates:
+        - 44.841666666667
+        - 4.2186111111111
         description: 'Die Loire im Herzen Frankreichs ist einer der letzten
             wilden Flüsse Europas. Staudämme und Flussbegradigungen konnten
             bis heute verhindert werden, der Fluss windet sich über seine
@@ -15442,6 +15480,10 @@ seasons:
         episode_no: 8
         title: Rom - Das Leben der Komparsen
         title_fr: Rome, les Petits Rôles de Cinecitta
+        location_wikidata: Q728399
+        coordinates:
+        - 41.85
+        - 12.566667
         description: '„Drehen Sie bitte Ihren Kopf nach links, dann nach rechts.
             Einmal lachen und einmal ernst schauen. Danke, wir melden uns
             bei Ihnen“ So schnell endet ein Bewerbungsgespräch im Leben von
@@ -15543,6 +15585,10 @@ seasons:
         episode_no: 9
         title: Kanadas Buschpiloten im Einsatz
         title_fr: Pilotes du Nunavik
+        location_wikidata: Q1074865
+        coordinates:
+        - 57
+        - -69
         description: 'Wind, Schnee und Kälte bis zu minus 40 Grad Celsius
             - und das fast neun Monate im Jahr. Nunavik, im hohen Norden Kanadas,
             ist eine unwirtliche Region. Doch auch hier leben Menschen. In
@@ -15649,6 +15695,10 @@ seasons:
         episode_no: 10
         title: 'Mauretanien: Aufstand der Fischerfrauen'
         title_fr: Pêcheurs de Mauritanie
+        location_wikidata: Q539518
+        coordinates:
+        - 20.234722
+        - -16.108889
         description: 'Seit Jahrhunderten fischt das Volk der Imraguen vor
             der mauretanischen Küste. Die Rollenverteilung war bisher klar
             geregelt - die Männer brachten den Fang nach Hause, die Frauen
@@ -15750,6 +15800,10 @@ seasons:
         episode_no: 11
         title: Vom Klassenzimmer in die Kalahari
         title_fr: Namibie, Sur les Traces de Darwin
+        location_wikidata: Q3935
+        coordinates:
+        - -22.57
+        - 17.083611111111
         description: 'Zwölf namibische Schüler aus der Hauptstadt Windhoek
             treten in die Fußstapfen ihrer Vorbilder Charles Darwin oder Alexander
             von Humboldt. Auf den unwirtlichen Wüstenpfaden der Kalahari gehen
@@ -15852,6 +15906,10 @@ seasons:
         episode_no: 12
         title: 'Nicaragua: Fluch der Langustentaucher'
         title_fr: Nicaragua, la Malédiction des Pêcheurs de Langoustes
+        location_wikidata: Q811
+        coordinates:
+        - 13
+        - -85
         description: 'Miskito-Indianer sind begnadete Taucher. Doch ihr ständiger
             Begleiter ist die Angst. Denn um an die wertvollen karibischen
             Langusten zu kommen, müssen sie bis zu 40 Meter tief tauchen -
@@ -15973,6 +16031,10 @@ seasons:
         episode_no: 13
         title: 'Uganda: Der Weg zum Fahrradtaxi'
         title_fr: La Brousse en Vélo-Taxi
+        location_wikidata: Q5505
+        coordinates:
+        - -1
+        - 33
         description: 'Der Norden des Victoria-Sees in Uganda mit seinen vielen
             Hügeln und Bergen ist für Fahrräder eigentlich kein geeignetes
             Terrain. Gleichwohl wird hier auf Drahteseln fast alles transportiert:
@@ -16086,6 +16148,10 @@ seasons:
         episode_no: 14
         title: New York - Die kleinste Oper der Welt
         title_fr: New York, le Plus Petit Opéra du Monde
+        location_wikidata: Q455775
+        coordinates:
+        - 40.72867
+        - -73.99989
         description: 'New York - Sehnsuchtsort für Menschen aus der ganzen
             Welt. Wer es hier schafft, schafft es überall. Das dachte auch
             junge italienische Fleischersohn Tony Amato, als er in den 1940er
@@ -16201,7 +16267,11 @@ seasons:
         episode_no: 15
         title: 'Indien: Das Geschäft mit dem Tempelhaar'
         title_fr: Inde, les Cheveux du Temple
-        description: 'Unser Haar -Spiegel und Aushängeschild der Persönlichkeit.
+        location_wikidata: Q298706
+        coordinates:
+        - 10.450369444444
+        - 77.510427777778
+        description: 'Unser Haar - Spiegel und Aushängeschild der Persönlichkeit.
             Kräftig, voll und glänzend soll es sein. Oft fehlt es jedoch an
             der Menge oder der Länge. Deshalb helfen immer mehr Menschen nach
             - mit fremdem Haar. Die künstliche Haarpracht stammt größtenteils
@@ -16306,6 +16376,10 @@ seasons:
         episode_no: 16
         title: Kyushu - Wo Japans grüner Tee wächst
         title_fr: Japon, la Voie du Thé
+        location_wikidata: Q13987
+        coordinates:
+        - 33
+        - 131
         description: 'Grüner Tee ist in Japan viel mehr als ein Getränk. Er
             ist der Schlüssel zur japanischen Kultur - Genuss, Philosophie
             und Lebenskunst in einem. Grünen Tee zu trinken, gilt in Japan
@@ -16421,6 +16495,10 @@ seasons:
         episode_no: 17
         title: Arganöl - Marokkos weißes Gold
         title_fr: L’Huile d’Argan — L’Or Blanc du Maroc
+        location_wikidata: Q1028
+        coordinates:
+        - 32
+        - -6
         description: 'Die Arganie, ein dornenbewehrter Baum, wächst nur im
             Südwesten Marokkos. Seine Früchte liefern das begehrte Arganöl,
             welches von den Frauen der Region seit Jahrhunderten in mühevoller
@@ -16554,6 +16632,10 @@ seasons:
         episode_no: 18
         title: Das Geheimnis der Schweizer Uhren
         title_fr: Le Secret des Montres Suisses
+        location_wikidata: Q68124
+        coordinates:
+        - 47.099627777778
+        - 6.8295583333333
         description: 'Die Wiege der Uhrmacherei steht in den Bergen der Französischen
             Schweiz. La-Chaux-de-Fonds und Le Locle - mit den Namen beider
             Städtchen verbinden Kenner höchste Präzision. Denn hier entstand
@@ -16670,6 +16752,10 @@ seasons:
         episode_no: 19
         title: Johana - Make-up und Motorenöl
         title_fr: Jamais Sans Ma Jeep
+        location_wikidata: Q739
+        coordinates:
+        - 4
+        - -73.25
         description: 'Wer im Kaffeeanbaugebiet Kolumbiens etwas auf sich hält,
             fährt einen „Willys“. Der legendäre und robuste Geländewagen aus
             den USA wurde bekannt als „das Auto, das den zweiten Weltkrieg
@@ -16769,6 +16855,10 @@ seasons:
         episode_no: 20
         title: Rio de la Plata - SOS am Silberfluss
         title_fr: Le Dernier Capitaine du Rio de la Plata
+        location_wikidata: Q35827
+        coordinates:
+        - -34.883055555556
+        - -56.713611111111
         description: 'Das Parana-Delta, ein Labyrinth aus Wasserwegen an der
             Ostküste Argentiniens, rund 30 Kilometer nördlich von Buenos Aires.
             Jahrelang galt die Region als Rückzugsort für Künstler, Aussteiger
@@ -16877,6 +16967,10 @@ seasons:
         episode_no: 21
         title: Der Weinpriester von Bali
         title_fr: Bacchus à Bali
+        location_wikidata: Q4648
+        coordinates:
+        - -8.335
+        - 115.08805555556
         description: 'Bali - Tropenparadies und Insel der Götter. Dem 42-jährigen
             Hindu Rai Budarsa gelang es als Erstem, Wein auf Bali zu kultivieren.
             Dreimal im Jahr kann auf der tropischen Insel geerntet werden.
@@ -16977,6 +17071,10 @@ seasons:
         episode_no: 22
         title: Taipeh 101 - Der Himmel über Taiwan
         title_fr: Taipei 101, Sous le Ciel de Taiwan
+        location_wikidata: Q83101
+        coordinates:
+        - 25.033611111111
+        - 121.565
         description: 'Der Wolkenkratzer „Taipeh 101“ ragt 509 Meter in die
             Höhe. Wie ein gigantischer Bambus aus Glas und Stahl dominiert
             er die Skyline von Taiwans Hauptstadt Taipeh. Tag für Tag strömen
@@ -17080,6 +17178,10 @@ seasons:
         episode_no: 23
         title: Die einsamen Mönche von Oelenberg
         title_fr: Les Moines Blancs de l’Oelenberg
+        location_wikidata: Q334089
+        coordinates:
+        - 47.746027777778
+        - 7.2133694444444
         description: 'Im südlichen Elsass sind die Trappistenmönchen im Jahre
             1825 in das Kloster Oelenberg eingezogen. Seitdem verläuft das
             Leben hier nach den gleichen strengen Regeln des heiligen Benedikt.
@@ -17181,6 +17283,10 @@ seasons:
         episode_no: 1
         title: Arktis - Die Route der Atomeisbrecher
         title_fr: Brise-Glace de l’Arctique
+        location_wikidata: Q203117
+        coordinates:
+        - 85.679697
+        - 135.647892
         description: 'Russland - Land der klimatischen Extreme. An seiner
             Nordküste verläuft eine der am schwersten zu befahrenen Meeresstraßen
             der Welt: Die Nordostpassage, ein 6.000 Kilometer langer Seeweg
@@ -17282,6 +17388,10 @@ seasons:
         title: Die besten Hütehunde von Wales
         title_fr: Chiens, Graines de Champion
         alias: Weltmeister auf vier Pfoten
+        location_wikidata: Q25
+        coordinates:
+        - 52.35
+        - -3.6333333333333
         description: 'Wales, ein grüner Landzipfel weit im Westen Großbritanniens.
             Elf Millionen Schafe gibt es hier und die weltbesten Hütehunde:
             die Border Collies. Schaffarmer Nigel Watkins trainiert seine
@@ -17383,6 +17493,10 @@ seasons:
         episode_no: 3
         title: Idjwi - Afrikas vergessene Insel
         title_fr: Idjwi - l’Île Oubliée
+        location_wikidata: Q1194327
+        coordinates:
+        - -2.105
+        - 29.06
         description: 'Zwischen Ruanda und der Demokratischen Republik Kongo,
             inmitten des Kiwu-Sees, liegt die Insel Idjwi. Obwohl sie seit
             Jahren von Krieg und Leid umgeben sind, blieben die Insulaner
@@ -17472,6 +17586,10 @@ seasons:
         episode_no: 4
         title: Die Bambusbahn von Kambodscha
         title_fr: Cambodge — le Petit Train de Bambous
+        location_wikidata: Q424
+        coordinates:
+        - 11.57
+        - 104.91
         description: 'Jede Draisine ist eine Miniaturbühne des Alltags: Auf
             der dreieinhalb mal zwei Meter großen Bambusfläche drängen sich
             Bauern, Schulkinder, Mönche und stillende Mütter im Schneidersitz
@@ -17546,6 +17664,10 @@ seasons:
         episode_no: 5
         title: 'Nepal: Die Krieger vom Dach der Welt'
         title_fr: Népal, les Soldats du Toit du Monde
+        location_wikidata: Q14236154
+        coordinates:
+        - 28.3310507
+        - 84.109866
         description: 'Das Himalaja-Massiv von Nepal ist die Heimat der wohl
             gefürchtetsten Krieger der Welt: der Gurkhas. Ihr hartes Leben
             auf dem Dach der Welt macht sie zu zähen und mutigen Persönlichkeiten.
@@ -17649,6 +17771,10 @@ seasons:
         episode_no: 6
         title: Das Whisky-Geheimnis von Islay
         title_fr: Islay — Le Secret du Whisky
+        location_wikidata: Q273
+        coordinates:
+        - 55.766666666667
+        - -6.15
         description: 'Die schottische Insel Islay ist Heimat von acht traditionellen
             Whisky-Brennereien, die unter Kennern einen ausgezeichneten Ruf
             genießen. Das Wasser, der Torf und das Jod des Meeres sind die
@@ -17748,6 +17874,10 @@ seasons:
         episode_no: 7
         title: Biberkrieg in Bayern
         title_fr: Bavière — La Guerre aux Castors
+        location_wikidata: Q704124
+        coordinates:
+        - 48.966666666667
+        - 13.383333333333
         description: 'Inmitten des größten Waldgebietes in Europa liegt ein
             kleines Stück Wildnis verborgen: Der Nationalpark Bayerischer
             Wald. Dieser nicht bewirtschaftete und daher sehr artenreiche
@@ -17845,6 +17975,10 @@ seasons:
         episode_no: 8
         title: Die Feuerflieger von Valencia
         title_fr: Espagne, les Pompiers du Ciel
+        location_wikidata: Q8818
+        coordinates:
+        - 39.47
+        - -0.3763888888888889
         description: 'Jedes Jahr verliert Spanien mehrere zehntausend Hektar
             Wald durch Feuer. Besonders in den heißen Sommermonaten wüten
             unzählige Feuer das ausgetrocknete Land und vernichten ganze Regionen.
@@ -17939,6 +18073,10 @@ seasons:
         episode_no: 9
         title: Kaviar - Der Schatz aus dem Iran!
         title_fr: Le Caviar, Ce Trésor Venu d’Iran
+        location_wikidata: Q5484
+        coordinates:
+        - 42
+        - 50.5
         description: 'Echter Wildkaviar aus dem Kaspischen Meer gehört zu
             den teuersten Delikatessen überhaupt. Feinschmecker in Europa
             zahlen bis zu 1400 Euro für 100 Gramm echten „Chaviar“. Das Wort
@@ -18053,6 +18191,10 @@ seasons:
         episode_no: 10
         title: 'Georgien: Die Wiege des Weins'
         title_fr: Géorgie, Pour l’Amour du Vin
+        location_wikidata: Q230
+        coordinates:
+        - 42
+        - 44
         description: 'Georgien galt zu Sowjetzeiten als der Weinkeller der
             UdSSR. Auch nach dem Zusammenbruch des Riesenreiches blieb Wein
             eines der wichtigsten Exportgüter des Landes. Erst seit Russland

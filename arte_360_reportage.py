@@ -343,9 +343,14 @@ class Wikidata:
 
     def get_coordinates(self, entity_id: typing.Any):
         entity = self.client.get(entity_id=entity_id, load=True)
-        coordinate_location = self.client.get(entity_id=typing.cast(typing.Any, "P625"))
-        coordinate = typing.cast(GlobeCoordinate, entity[coordinate_location])
-        return [coordinate.latitude, coordinate.longitude]
+        try:
+            coordinate_location = self.client.get(entity_id=typing.cast(typing.Any, "P625"))
+            coordinate = typing.cast(GlobeCoordinate, entity[coordinate_location])
+            return [coordinate.latitude, coordinate.longitude]
+        except Exception as e:
+            print("No coordinate")
+            print(entity_id)
+            raise e
 
 
 ### scraper ###################################################################
