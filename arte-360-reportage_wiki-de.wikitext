@@ -5386,7 +5386,7 @@
 | NR_ST = 11
 | OT = Rapa Nui - Gladiatoren der Südsee<ref>Internetquellen zur Episode ''„Rapa Nui - Gladiatoren der Südsee“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/619-rapa-nui-gladiatoren-der-suedsee-1645452 619] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/619-rapa-nui-gladiatoren-der-suedsee-1645452 1645452]</ref>
 | Feld1 = -
-| REG = J. Michael Schumacher
+| REG = J. Michael Schumacher, Regina Gerhard
 | EA = 2023-06-24
 | ZF = Während der Coronapandemie erlebten die Rapanui zwei Jahre der Abschottung, in denen sie sich auf alte Selbstversorgungsmethoden besannen und erfolgreich Obst und Gemüse anbauten. Das Tapati-Fest wird wieder in vollem Umfang gefeiert, inklusive der Krönung einer neuen Festkönigin, während die amtierende Königin sich auf den Tau'a-Triathlon konzentriert.
 }}
