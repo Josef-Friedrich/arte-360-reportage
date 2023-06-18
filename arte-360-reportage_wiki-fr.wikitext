@@ -1160,7 +1160,7 @@
 | Galice, Pêcheurs en Danger
 |-
 |18
-|
+|🔴
 | Le Sel des Incas
 |-
 |19
@@ -1172,7 +1172,7 @@
 | Nomades du Kyrgyzstan
 |-
 |21
-|
+|🟡
 | Japon, les Reines de la Mer
 |-
 |22
