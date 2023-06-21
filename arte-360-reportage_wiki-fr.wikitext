@@ -1243,7 +1243,7 @@
 | Irlande, les Sauveteurs de l’Extrême
 |-
 |11
-|
+|🔵
 | Australie, les Cow-Girls Tiennent les Rênes
 |-
 |12
@@ -1255,7 +1255,7 @@
 | Les Malouines, Paradis des Manchots
 |-
 |14
-|
+|🔵
 | Taipan, le Serpent le Plus Venimeux au Monde
 |-
 |15
@@ -1263,7 +1263,7 @@
 | Les Plongeurs Fous du Lac Baïkal
 |-
 |16
-|
+|⚪️
 | Kiruna, le Train du Grand Nord
 |-
 |17
