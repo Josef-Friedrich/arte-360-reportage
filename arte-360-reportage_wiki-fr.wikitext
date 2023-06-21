@@ -2190,43 +2190,43 @@
 | Monastères, les Trésors Cachés de la Géorgie
 |-
 |3
-|
+|🔴
 | Mexique, les Cavalières de l'Escaramuza
 |-
 |4
-|
+|⚪️
 | Croatie, l'Autre Pays de la Truffe
 |-
 |5
-|
+|⚪️
 | Arnica, la Reine des Vosges
 |-
 |6
-|
+|⚫️
 | Lueurs d'Espoir au Zimbabwe
 |-
 |7
-|
+|⚫️
 | Éthiopie, le berceau du café
 |-
 |8
-|
+|🟡
 | Inde, la Magie des Cerfs-Volants
 |-
 |9
-|
+|⚪️
 | Norvège, la princess des rennes
 |-
 |10
-|
+|🟡
 | Le Massage, une Tradition Thaïlandaise
 |-
 |11
-|
+|🟡
 | Hong Kong, la magie des néons
 |-
 |12
-|
+|🟡
 | La Médecine Tibétaine, l'Art de Guérir
 |-
 |13
@@ -2234,15 +2234,15 @@
 | Sibérie, les Découpeurs de Glace
 |-
 |14
-|
+|🟡
 | Bangkok, les Chasseurs de Serpents
 |-
 |15
-|
+|🔴
 | La Grâce des Danseuses Aveugles de São Paulo
 |-
 |16
-|
+|⚪️
 | Slovénie, le royaume des abeilles
 |-
 |17
