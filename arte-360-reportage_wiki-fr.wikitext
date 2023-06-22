@@ -1294,11 +1294,11 @@
 | Guyane, l’Enfer Vert des Légionnaires
 |-
 |2
-|
+|⚪️
 | L’Homme Qui Murmurait à l’Oreille des Chimpanzés
 |-
 |3
-|
+|⚪️
 | La Sardaigne des Hommes et des Chevaux
 |-
 |4
@@ -1306,7 +1306,7 @@
 | Sibérie, les Soldats du Feu
 |-
 |5
-|
+|⚪️
 | L’Islande au Plus Près du Volcan
 |-
 |6
@@ -1330,7 +1330,7 @@
 | Vivre au Pied d’un Géant
 |-
 |11
-|
+|⚪️
 | Champagne, les Bulles du Désir
 |-
 |12
@@ -1342,11 +1342,11 @@
 | L’Authentique Panama
 |-
 |14
-|
+|⚪️
 | Entre Tempête et Grande Marée: les Halligen
 |-
 |15
-|
+|🔵
 | Jenny, Docteur Chauve-Souris
 |-
 |16
@@ -1354,7 +1354,7 @@
 | Les Purs-Sangs de Jordanie
 |-
 |17
-|
+|🔴
 | Bahia, Chasseurs d’Émeraudes
 |-
 |18
@@ -1394,7 +1394,7 @@
 | Florence, le Foot Dans le Sang
 |-
 |27
-|
+|🔴
 | Guano, sale besogne au paradis des oiseaux
 |-
 |28
@@ -1449,11 +1449,11 @@
 | Les Campeurs Sauvages de Slab City
 |-
 |10
-|
+|🔴
 | Équateur, l’Autre Pays du Chocolat
 |-
 |11
-|
+|🔵
 | Le Cuisinier du Bush Australien
 |-
 |12
