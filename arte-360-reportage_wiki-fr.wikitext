@@ -2032,7 +2032,7 @@
 | Les Vautours Sont de Retour
 |-
 |23
-|
+|🔴
 | Bolivie, un Médecin Qui a du Cœur
 |-
 |24
@@ -2055,7 +2055,7 @@
 !width="87%"|Titre français
 |-
 |1
-|
+|⚪️
 | Le Frioul, une Vallée Tout en Musique
 |-
 |2
@@ -2063,7 +2063,7 @@
 | Bisons, les Doux Géants du Montana
 |-
 |3
-|
+|🟡
 | Le Vietnam au Chevet des Pangolins
 |-
 |4
@@ -2091,11 +2091,11 @@
 | L’Anglais Qui Murmure à l'Oreille des Chiens
 |-
 |10
-|
+|⚪️
 | Les Cloches, Tout un Art en Italie
 |-
 |11
-|
+|🔴
 | Arapaïma, le Poisson Géant d’Amazonie
 |-
 |12
