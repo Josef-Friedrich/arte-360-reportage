@@ -2107,11 +2107,11 @@
 | Corse, les maquisards du feu
 |-
 |14
-|
+|🟡
 | Japon — Vivre à l'Ombre du Volcan Iodake
 |-
 |15
-|
+|⚪️
 | Roumanie, la Beauté Sacrée des Monastères Peints
 |-
 |16
@@ -2127,7 +2127,7 @@
 | Virunga, les Gorilles en Péril
 |-
 |19
-|
+|⚪️
 | L'Andalousie — Au Son des Guitares et du Flamenco
 |-
 |20
@@ -2139,7 +2139,7 @@
 | Argentine, le Retour du Jaguar
 |-
 |22
-|
+|⚫️
 | Rooibos — Le Thé Rouge d'Afrique du Sud
 |-
 |23
@@ -2182,7 +2182,7 @@
 !width="87%"|Titre français
 |-
 |1
-|
+|🟡
 | Inde, la lutte à mains nues
 |-
 |2
