@@ -5385,7 +5385,7 @@
 | NR_GES = 617
 | NR_ST = 11
 | OT = Rapa Nui - Gladiatoren der Südsee<ref>Internetquellen zur Episode ''„Rapa Nui - Gladiatoren der Südsee“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/619-rapa-nui-gladiatoren-der-suedsee-1645452 619] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/619-rapa-nui-gladiatoren-der-suedsee-1645452 1645452]</ref>
-| Feld1 = -
+| Feld1 = Île de Pâques, les olympiades de Rapa Nui
 | REG = J. Michael Schumacher, Regina Gerhard
 | EA = 2023-06-24
 | ZF = Während der Coronapandemie erlebten die Rapanui zwei Jahre der Abschottung, in denen sie sich auf alte Selbstversorgungsmethoden besannen und erfolgreich Obst und Gemüse anbauten. Das Tapati-Fest wird wieder in vollem Umfang gefeiert, inklusive der Krönung einer neuen Festkönigin, während die amtierende Königin sich auf den Tau'a-Triathlon konzentriert.
@@ -5394,7 +5394,7 @@
 | NR_GES = 618
 | NR_ST = 12
 | OT = Kambodschas schwimmende Dörfer - Umzug am Tonle Sap<ref>Internetquellen zur Episode ''„Kambodschas schwimmende Dörfer - Umzug am Tonle Sap“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/620-kambodschas-schwimmende-doerfer-umzug-am-tonle-sap-1646559 620] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/620-kambodschas-schwimmende-doerfer-umzug-am-tonle-sap-1646559 1646559]</ref>
-| Feld1 = -
+| Feld1 = Cambodge, les pêcheurs nomades du Tonlé Sap
 | REG = Martin Schacht
 | EA = 2023-07-01
 | ZF = Der Wasserstand des Tonle Sap-Sees schwankt um bis zu acht Meter. Während der Trockenzeit im Februar und März zieht sich das Wasser zurück und ermöglicht Renovierungen in den schwimmenden Dörfern, während die Bewohner vom Fischfang und der Landwirtschaft leben.
