@@ -1536,15 +1536,15 @@
 | Iquitos, une Ville Entre Deux Fleuves
 |-
 |9
-|
+|⚪️
 | Toscane, les Carrières de Marbre
 |-
 |10
-|
+|⚪️
 | Le Phare Breton et les Abeilles
 |-
 |11
-|
+|🟡
 | Thaïlande — Le Dernier Voyage d’un Éléphant
 |-
 |12
@@ -1552,7 +1552,7 @@
 | Tonga, la Fin du Paradis?
 |-
 |13
-|
+|🔴
 | Radio Patagonie
 |-
 |14
@@ -1560,15 +1560,15 @@
 | Le Grand Nord Sur les Rails
 |-
 |15
-|
+|🔵
 | L’hôpital des koalas
 |-
 |16
-|
+|🟡
 | Sulawesi, les Nomades de la Mer
 |-
 |17
-|
+|🟡
 | Taiwan, une Poubelle Nucléaire?
 |-
 |18
@@ -1576,7 +1576,7 @@
 | Atlantique Austral, Mission Dératisation!
 |-
 |19
-|
+|🔴
 | Costa Rica, le Sanctuaire des Paresseux
 |-
 |20
@@ -1584,15 +1584,15 @@
 | Roumanie, les Récits d’un Cimetière
 |-
 |21
-|
+|🟡
 | Sécheresse au Royaume du Mustang
 |-
 |22
-|
+|🔴
 | La Colombie et ses bus multicolores
 |-
 |23
-|
+|⚪️
 | Aubrac, des Bergers et des Moines
 |-
 |24
@@ -1600,11 +1600,11 @@
 | Les Samouraïs de Fukushima
 |-
 |25
-|
+|🟡
 | La Bonne Âme de Karachi
 |-
 |26
-|
+|⚪️
 | Arcachon, le Berceau des Huîtres
 |-
 |27

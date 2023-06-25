@@ -24092,6 +24092,11 @@ seasons:
         episode_no: 9
         title: Die Marmorberge von Italien
         title_fr: Toscane, les Carrières de Marbre
+        continent: Europa
+        location_wikidata: Q221193
+        coordinates:
+        - 44
+        - 10.233333333333
         description: 'Die Apuanischen Alpen im Nordwesten der Toskana beherbergen
             eines der größten Marmorvorkommen der Welt. Seit der Römerzeit
             wird hier der weltberühmte Carrara-Marmor abgebaut. Mit allen
@@ -24152,6 +24157,11 @@ seasons:
         episode_no: 10
         title: Bretagne - von Bienen und Leuchttürmen
         title_fr: Le Phare Breton et les Abeilles
+        continent: Europa
+        location_wikidata: Q202378
+        coordinates:
+        - 48.455277777778
+        - -5.0975
         description: 'Wild, schroff, wind- und meerumtost ist das Land, seine
             Bewohner stolz und eigenwillig. Die Bretagne nimmt einen Sonderstatus
             unter den französischen Regionen ein. Was bedeutet es heute, ein
@@ -24207,6 +24217,11 @@ seasons:
         episode_no: 11
         title: Thailands Elefanten, raus aus der Stadt!
         title_fr: Thaïlande — Le Dernier Voyage d’un Éléphant
+        continent: Asien
+        location_wikidata: Q1861
+        coordinates:
+        - 13.75
+        - 100.51666666667
         description: 'Über Jahrzehnte gehörten sie in Thailand zum Straßenbild:
             „Mahouts“, die Elefantenführer. Tausende zogen mit ihren Arbeitselefanten
             durch die Straßen der großen Städte, ließen sich für Futtergeld
@@ -24224,7 +24239,7 @@ seasons:
             Städte. Seit vier Jahren aber versucht die Regierung, die Elefanten
             aus den Straßen zu verbannen, da sie ein Sicherheitsrisiko für
             den Straßenverkehr darstellen. Auch Non Yamdee lebt mit seiner
-            35 Jahre alten Elefantendame Poon Thap in den  Außenbezirken von
+            35 Jahre alten Elefantendame Poon Thap in den Außenbezirken von
             Bangkok. Doch er will nicht warten, bis er von der Polizei erwischt
             und umgesiedelt wird. Er hat von einem neuen Elefantencamp im
             Süden gehört, das zwei Dutzend Mahouts und ihren Tieren eine neue
@@ -24232,7 +24247,7 @@ seasons:
             ihn und seine Elefantenlady auf ihrem abenteuerlichen Weg begleiten.
 
             Wie legt man mit einem Dickhäuter fast 300 km zurück? Und wie
-            kann Mahout Non  die viereinhalb Tonnen schwere Lady während ihrer
+            kann Mahout Non die viereinhalb Tonnen schwere Lady während ihrer
             Reise versorgen? Schließlich braucht ein Elefant rund 40 Liter
             Wasser und 200 kg Grünfutter pro Tag. Non überredet einen befreundeten
             LKW-Fahrer, ihn und Poon Thap ein gutes Stück mitzunehmen. Über
@@ -24264,13 +24279,17 @@ seasons:
         episode_no: 12
         title: Tonga - Paradies der Südsee?
         title_fr: Tonga, la Fin du Paradis?
+        location_wikidata: Q678
+        coordinates:
+        - -20.587778
+        - -174.810278
         description: 'Tonga, ein Paradies in der Südsee und auf den ersten
             Blick eine traumhafte Idylle. Mildes Klima und üppige Vegetation
             versprechen ideale Lebensbedingungen im ältesten Königreich Polynesiens.
             Doch abseits von Hofstaat und Palästen sind viele Menschen verzweifelt:
             Es herrschen Arbeitslosigkeit und Armut.
 
-            92 Prozent der  Bevölkerung Tongas leiden an Übergewicht. Mehr
+            92 Prozent der Bevölkerung Tongas leiden an Übergewicht. Mehr
             als die Hälfte stirbt an Diabetes und ihren Folgen. Armut, Hoffnungslosigkeit
             und mangelnde medizinische Versorgung veranlassen seit vielen
             Jahren immer mehr Bewohner zur Auswanderung. Sie suchen Heil in
@@ -24308,7 +24327,12 @@ seasons:
         episode_no: 13
         title: Radio Patagonia
         title_fr: Radio Patagonie
-        description: 'Für viele Einwohner der “Zona Rural”, wie die total
+        continent: Amerika
+        location_wikidata: Q47772
+        coordinates:
+        - -41.15
+        - -71.3
+        description: 'Für viele Einwohner der „Zona Rural“, wie die total
             isolierten Berggegenden Patagoniens genannt werden, gibt es nur
             eine einzige Möglichkeit, mit Verwandten, Freunden oder der so
             genannten zivilisierten Welt zu kommunizieren: Man sendet eine
@@ -24366,6 +24390,10 @@ seasons:
         episode_no: 14
         title: Die Polarbahn
         title_fr: Le Grand Nord Sur les Rails
+        location_wikidata: Q488266
+        coordinates:
+        - 70.670880555556
+        - 70.136719444444
         description: 'Die Polarbahn auf der sibirischen Halbinsel Jamal bildet
             die Lebensader für die gigantische Erdgasförderstätte Bowanenko.
             Sie startet hinter dem Polarkreis und verläuft als nördlichste
@@ -24424,6 +24452,11 @@ seasons:
         episode_no: 15
         title: Das Koala-Hospital
         title_fr: L’hôpital des koalas
+        continent: Ozeanien und Pole
+        location_wikidata: Q606153
+        coordinates:
+        - -31.43166666666667
+        - 152.9177778
         description: 'Dank ihrer Knopfaugen, ihres weichen Plüschfells und
             ihrer tapsigen Bewegungen gehören Koalas zu den beliebtesten Tieren
             Australiens. Doch obwohl die einst gejagten Beuteltiere mittlerweile
@@ -24487,6 +24520,11 @@ seasons:
         episode_no: 16
         title: Sulawesi - Die letzten Seenomaden
         title_fr: Sulawesi, les Nomades de la Mer
+        continent: Asien
+        location_wikidata: Q12488292
+        coordinates:
+        - -0.423033
+        - 122.08865
         description: 'Die Bajau sind Seenomaden. Seit mehr als drei Jahrhunderten
             durchstreift das Volk als Fischer, Jäger und Sammler die Meere
             zwischen Indonesien, Malaysia und den Philippinen, ihre Heimat
@@ -24544,6 +24582,11 @@ seasons:
         episode_no: 17
         title: Taiwan - Fliegende Fische oder Atommüll?
         title_fr: Taiwan, une Poubelle Nucléaire?
+        continent: Asien
+        location_wikidata: Q701647
+        coordinates:
+        - 22.05
+        - 121.53333333333
         description: 'Seit rund 800 Jahren lebt das Volk der Tao auf der kleinen,
             zu Taiwan gehörenden Insel Lanyu. Fliegende Fische sind seit jeher
             ihre Nahrungsgrundlage, besonders in den Sommermonaten, wenn ganze
@@ -24598,6 +24641,10 @@ seasons:
         episode_no: 18
         title: Rattenjagd im Südpolarmeer
         title_fr: Atlantique Austral, Mission Dératisation!
+        location_wikidata: Q1137202
+        coordinates:
+        - -54.316666666667
+        - -36.65
         description: '„Team Rat“ - das „Team Ratte“ - startet zu einer einzigartigen
             Rettungsaktion. Ihr Einsatzgebiet: die menschenleere Insel Südgeorgien
             im Südpolarmeer, eine der abgelegensten und stürmischsten Inseln
@@ -24649,6 +24696,11 @@ seasons:
         episode_no: 19
         title: Costa Rica - Leben wie die Faultiere
         title_fr: Costa Rica, le Sanctuaire des Paresseux
+        continent: Amerika
+        location_wikidata: Q6122901
+        coordinates:
+        - 9.641856
+        - -82.723349
         description: 'Urzeitlich anmutende Tiere, die sich unendlich langsam
             und scheinbar unbeholfen bewegen. Tagelang hängen Faultiere regungslos
             in den Wipfeln der Bäume - kaum sichtbar für den Menschen, aber
@@ -24709,6 +24761,10 @@ seasons:
         episode_no: 20
         title: Der fröhliche Friedhof von Rumänien
         title_fr: Roumanie, les Récits d’un Cimetière
+        location_wikidata: Q5053994
+        coordinates:
+        - 47.919942
+        - 23.670345
         description: 'Die Bewohner des Dorfes Sâpânta in der rumänischen Region
             Maramures sind stolz auf ihre Besonderheit: den Fröhlichen Friedhof.
             Seit einigen Jahrzehnten schmücken sie  ihre Familiengräber mit
@@ -24769,6 +24825,11 @@ seasons:
         episode_no: 21
         title: Mustang - Flucht aus den Bergen
         title_fr: Sécheresse au Royaume du Mustang
+        continent: Asien
+        location_wikidata: Q28307
+        coordinates:
+        - 29.083333333333
+        - 83.916666666667
         description: 'Im Himalaya, zwischen den höchsten Bergen der Welt,
             liegt es versteckt: Das ehemalige Königreich Mustang. Es ist berauschend
             schön, aber auch sehr trocken im Land der Lo-Pa. Viele Jahrhunderte
@@ -24827,6 +24888,11 @@ seasons:
         episode_no: 22
         title: Chivas, Kolumbiens bunte Busse
         title_fr: La Colombie et ses bus multicolores
+        continent: Amerika
+        location_wikidata: Q267585
+        coordinates:
+        - 5.6555555555556
+        - -75.880277777778
         description: 'Wunderbar bunt sind die Busse Kolumbiens - die Chivas
             - und ein Wahrzeichen des südamerikanischen Landes. Über und über
             detailreich bemalt fahren diese zum Teil Jahrzehnte alten Vehikel
@@ -24881,6 +24947,11 @@ seasons:
         episode_no: 23
         title: Aubrac - Kühe, Käse, Kerle!
         title_fr: Aubrac, des Bergers et des Moines
+        continent: Europa
+        location_wikidata: Q758500
+        coordinates:
+        - 44.56694444
+        - 3.08222222
         description: 'Das Aubrac liegt im südwestlichen Zentralmassiv und
             gehört zu den kargsten und dennoch schönsten Landstrichen Frankreichs.
             Es ist die Heimat der Aubrac-Rinder, jener besonderen Rasse, von
@@ -24938,6 +25009,10 @@ seasons:
         episode_no: 24
         title: Die Samurai von Fukushima
         title_fr: Les Samouraïs de Fukushima
+        location_wikidata: Q642094
+        coordinates:
+        - 37.64219444444444
+        - 140.95730555555556
         description: 'Die Samurai, Japans legendäre Ritter: Zu ihrem Ehrenkodex
             gehört es, jedem Gegner und dem Schicksal mit Disziplin die Stirn
             zu bieten - doch gegen die Katastrophe, die 2011 ihre Küsten verwüsteten,
@@ -24993,6 +25068,11 @@ seasons:
         episode_no: 25
         title: Der gute Mensch von Karachi
         title_fr: La Bonne Âme de Karachi
+        continent: Asien
+        location_wikidata: Q8660
+        coordinates:
+        - 24.86
+        - 67.01
         description: 'In der pakistanischen Stadt Karachi sind Gewalt und
             politische Unruhen alltäglich. Ein Mann hat eine andere Vision
             und hilft den besonders Bedürftigen, inmitten der Wirren und entgegen
@@ -25046,6 +25126,11 @@ seasons:
         episode_no: 26
         title: Die Austern von Arcachon
         title_fr: Arcachon, le Berceau des Huîtres
+        continent: Europa
+        location_wikidata: Q191460
+        coordinates:
+        - 44.658611111111
+        - -1.1688888888889
         description: 'Im Becken von Arcachon an der französischen Atlantikküste
             liegt die Wiege der französischen Austernzucht - und mittlerweile
             auch die größte Austernbrutstätte Europas. Seit einiger Zeit jedoch
