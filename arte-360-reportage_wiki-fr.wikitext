@@ -1493,7 +1493,7 @@
 | Les Pêcheurs de Crabes de la Terre de Feu
 |-
 |21
-|
+|⚪️
 | Secrets de Parfumeurs
 |}
 
@@ -1516,11 +1516,11 @@
 | Le Mezcal, Eau-de-Vie Mexicaine
 |-
 |4
-|
+|🔴
 | Désert d’Atacama — La Vie Sans Eau
 |-
 |5
-|
+|⚪️
 | Roumanie, les derniers charbonniers
 |-
 |6
@@ -1532,7 +1532,7 @@
 | Bangladesh, l’Hôpital Flottant
 |-
 |8
-|
+|🔴
 | Iquitos, une Ville Entre Deux Fleuves
 |-
 |9
