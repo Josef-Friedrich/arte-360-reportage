@@ -1079,7 +1079,7 @@ class TvShow:
         directors = list(result.keys())
         directors.sort()
         for director in directors:
-            print(director)
+            print(director, result[director])
 
         return result
 

@@ -9,6 +9,9 @@ summary:
 coordinates:
 	$(SCRIPT) --coordinates
 
+directors:
+	$(SCRIPT) --directors
+
 dvd:
 	$(SCRIPT) --dvd
 

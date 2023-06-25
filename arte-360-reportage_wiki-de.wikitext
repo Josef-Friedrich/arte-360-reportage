@@ -447,7 +447,7 @@
 | NR_ST = 8
 | OT = Spielplatz Natur<ref>Internetquellen zur Episode ''„Spielplatz Natur“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/48-spiele-des-lebens-spielplatz-natur-339165 48] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/48-spiele-des-lebens-spielplatz-natur-339165 339165], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641920 S02E08] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641920 4641920], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1007057 tt1007057], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=6XpJnxWkHnU 6XpJnxWkHnU]</ref>
 | Feld1 = -
-| REG = Barbara Puskas
+| REG = Barbara Puskás
 | EA = 2000-02-10
 | ZF = Im Tierreich ist Spielen weit verbreitet und zeigt sich in verschiedenen Verhaltensweisen. Ob raufende Hunde, tobende Katzen, neugierige Raben oder sogar Fische - Spielen ist ein Phänomen, das mit dem Lernen eng verbunden ist. Obwohl dieser Zusammenhang bekannt ist, bleibt das „tierische Spiel“ weitgehend unverstanden. Eine Gruppe von Verhaltensforschern untersucht die Spielstrategien und -gewinne im Tierreich. Weltweit haben Forscher eine Vielzahl systematischer Beobachtungen des tierischen Verhaltens gesammelt und als Spiel identifiziert. Interessanterweise scheinen die Tiere dabei Spaß zu haben. Die Frage, ob Spielen manchmal nur zur Zeitvertreibung dient oder immer einen Lernzweck verfolgt, bleibt jedoch bestehen.
 }}
@@ -654,7 +654,7 @@
 | NR_ST = 31
 | OT = Radrennen - Ewiger Endspurt<ref>Internetquellen zur Episode ''„Radrennen - Ewiger Endspurt“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/71-leben-am-limit-grenzen-des-koerpers-radrennen-ewiger-endspurt-339350 71] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/71-leben-am-limit-grenzen-des-koerpers-radrennen-ewiger-endspurt-339350 339350], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4824567 S02E31] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4824567 4824567], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=gqUU0m2KVqg gqUU0m2KVqg]</ref>
 | Feld1 = -
-| REG = Peter Schuchard
+| REG = Peter Schuchardt
 | EA = 2000-11-08
 | ZF = Andreas Klöden, ein 25-jähriger Radrennprofi des Teams Telekom, hat bei verschiedenen Rennen wie Paris-Nizza und der Baskenlandrundfahrt Erfolge erzielt. Durch intensives Training und den Einsatz moderner Sportwissenschaft hat er seine körperlichen Grenzen ausgereizt. Professor Zschorlich von der Universität Rostock erforscht den optimalen Tretzyklus von Radfahrern und erstellt individuelle Trainingsprogramme, indem er die Beschleunigung während der Kurbelbewegung misst. Damit werden Leistungssteigerungen erreicht und der Einsatz neuer Ausrüstung wird immer wichtiger.
 }}
@@ -719,7 +719,7 @@
 | NR_ST = 1
 | OT = Timbuktu<ref>Internetquellen zur Episode ''„Timbuktu“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/77-ueberleben-in-der-wueste-timbuktu-339356 77] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/77-ueberleben-in-der-wueste-timbuktu-339356 339356], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641935 S03E01] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641935 4641935], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=u1QLrA-PNrs u1QLrA-PNrs]</ref>
 | Feld1 = -
-| REG = Nicholas Brown
+| REG = Nicolas Brown
 | EA = 2001-01-02
 | ZF = Timbuktu war einst eine blühende Stadt mit mehr als 120.000 Einwohnern und 20.000 Studenten. Heute leben weniger als 30.000 Menschen dort. Die Bewohner fürchten politische Unruhen und das Vorrücken der Sahara, die jedes Jahr 10 bis 20 Meter näher kommt. Trotzdem haben sie einen Schutzwall aus Bäumen und Sträuchern um die Stadt errichtet. Die Regierung von Mali hat jedoch Timbuktu anscheinend aufgegeben, was die größte Sorge der Menschen dort ist.
 }}
@@ -1018,7 +1018,7 @@
 | NR_ST = 5
 | OT = Filmstars im Pelz<ref>Internetquellen zur Episode ''„Filmstars im Pelz“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/109-filmstars-im-pelz-339430 109] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/109-filmstars-im-pelz-339430 339430], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641967 S04E05] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641967 4641967], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1042935 tt1042935], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=gMcu-RgppR8 gMcu-RgppR8]</ref>
 | Feld1 = -
-| REG = Harald Pokiser
+| REG = Harald Pokieser
 | EA = 2002-03-04
 | ZF = In der Nähe von Budapest leitet Zoltán Horkai, 28 Jahre alt, ein Tierasyl, das Tiere aus ganz Osteuropa aufnimmt. Das Asyl wurde ursprünglich für Tiere aus ungarischen Tierfilmen der kommunistischen Ära gebaut. Die World Society for the Protection of Animals (WSPA) unterstützt den Bau der Gehege und einen Teil der Kosten. Horkai finanziert den Rest durch Auftritte seiner tierischen Stars in Filmen. Im Gegensatz zu Hollywood-Tiertrainern ist es ihm wichtig, dass die Tiere in ihrer natürlichen Umgebung zu sehen sind und sich natürlich verhalten.
 }}
@@ -1312,7 +1312,7 @@
 | NR_ST = 6
 | OT = Radios gegen Kalaschnikows<ref>Internetquellen zur Episode ''„Radios gegen Kalaschnikows“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/141-radios-gegen-kalaschnikows-339466 141] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/141-radios-gegen-kalaschnikows-339466 339466], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4641999 S05E06] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4641999 4641999], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=fsFFXBhSG6Q fsFFXBhSG6Q]</ref>
 | Feld1 = -
-| REG = Dominik Eisenhart-Rothe, Katja Eisenhart-Rothe
+| REG = Dominik von Eisenhart-Rothe, Katja von Eisenhart-Rothe
 | EA = 2003-02-04
 }}
 {{Episodenlisteneintrag
@@ -3353,7 +3353,7 @@
 | NR_ST = 4
 | OT = Azoren, das Geschäft mit den Walen<ref>Internetquellen zur Episode ''„Azoren, das Geschäft mit den Walen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/383-azoren-das-geschaeft-mit-den-walen-581362 383] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/383-azoren-das-geschaeft-mit-den-walen-581362 581362], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4812753 S16E04] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4812753 4812753], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt5225390 tt5225390], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=GUO0RvRiuQE GUO0RvRiuQE]</ref>
 | Feld1 = Les Açores, le Sort des Baleines
-| REG = Christiane von Schwindt
+| REG = Christiane von Schwind
 | EA = 2014-02-22
 }}
 {{Episodenlisteneintrag
