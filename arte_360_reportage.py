@@ -1067,7 +1067,9 @@ class TvShow:
         )
 
     def list_directors(self) -> dict[str, int]:
+
         result: dict[str, int] = {}
+        directors: list[dict[str, str | int]] = []
         for episode in self.episodes:
             episode.director
             for director in episode.directors:
@@ -1076,10 +1078,16 @@ class TvShow:
                 else:
                     result[director] = 1
 
-        directors = list(result.keys())
-        directors.sort()
-        for director in directors:
+        director_names = list(result.keys())
+        director_names.sort()
+        for director in director_names:
             print(director, result[director])
+
+        for name, count in result.items():
+            directors.append({'name': name, 'count': count})
+        directors.sort(key=operator.itemgetter('count'))
+        for director in directors:
+            print(director['name'], director['count'])
 
         return result
 
