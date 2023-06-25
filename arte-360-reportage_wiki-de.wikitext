@@ -4277,7 +4277,7 @@
 | NR_ST = 12
 | OT = Die fliegenden Wildesel von Kasachstan<ref>Internetquellen zur Episode ''„Die fliegenden Wildesel von Kasachstan“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/493-die-fliegenden-wildesel-von-kasachstan-1194430 493] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/493-die-fliegenden-wildesel-von-kasachstan-1194430 1194430], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/6707145 S20E12] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/6707145 6707145], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt21073776 tt21073776], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=ND0yEWkqnSk ND0yEWkqnSk]</ref>
 | Feld1 = SOS ânes sauvages du Kazakhstan
-| REG = Markus Schmidtbauer
+| REG = Markus Schmidbauer
 | EA = 2018-05-27
 }}
 {{Episodenlisteneintrag
@@ -4959,7 +4959,7 @@
 | NR_ST = 20
 | OT = Schweiz: Gletscherflieger - Faszination in Weiß<ref>Internetquellen zur Episode ''„Schweiz: Gletscherflieger - Faszination in Weiß“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/574-schweiz-gletscherflieger-faszination-in-weiss-1495977 574] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/574-schweiz-gletscherflieger-faszination-in-weiss-1495977 1495977], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/8692436 S23E20] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/8692436 8692436], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt16590496 tt16590496], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=jEZT_6_qloo jEZT_6_qloo]</ref>
 | Feld1 = Suisse, en vol avec des pilotes des glaciers
-| REG = Frank T. Mirbach
+| REG = Frank Mirbach
 | EA = 2021-09-25
 | ZF = In der Schweiz rettet die Rega, die Schweizer Rettungsflugwacht, täglich Leben in den Tälern und Bergen. Die Gletscherfliegerei gilt als anspruchsvolle Königsdisziplin für Piloten und hat schon vielen Menschen geholfen. Isabel Menzi, eine Pilotin bei einer Fluggesellschaft, möchte Gletscherpilotin werden und absolviert eine intensive Ausbildung. Die Gletscherfliegerei ermöglichte den Bau von Berghütten und ist schwierig aufgrund des schwierigen Geländes. Die Ausbildung erfordert Hunderte von Flugstunden. Notarzt Joachim Koppenberg verlässt sich auf die Erfahrung seines Piloten, um schnell zu Unfallorten in den Bergen zu gelangen. Die Gletscherfliegerei entstand aus einem schweren Unglück im Jahr 1946, als ein Schweizer Pilot Kufen an zwei Flugzeugen anbrachte, um Überlebende in den eisigen Höhen zu bergen.
 }}
