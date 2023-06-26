@@ -1608,7 +1608,7 @@
 | Arcachon, le Berceau des Huîtres
 |-
 |27
-|
+|🟡
 | Thaïlande: Des Fusées Pour les Dieux
 |}
 
@@ -1619,15 +1619,15 @@
 !width="87%"|Titre français
 |-
 |1
-|
+|🟡
 | Vietnam, du Cobra au Menu
 |-
 |2
-|
+|🟡
 | Inde, Policier Dès 6 Ans?
 |-
 |3
-|
+|🟡
 | Cambodge, les Chasseurs de Rats
 |-
 |4
@@ -1635,23 +1635,23 @@
 | Les Açores, le Sort des Baleines
 |-
 |5
-|
+|🔴
 | Fort McMurray, la Ruée Vers l’Or Noir
 |-
 |6
-|
+|⚪️
 | Rosa Amélia — La Passionaria des Pêcheurs Portugais
 |-
 |7
-|
+|⚪️
 | SOS, Glaciers Suisses en Danger!
 |-
 |8
-|
+|🟡
 | Chasseurs de trésors à Bangkok
 |-
 |9
-|
+|⚪️
 | Dresde, au Fil de l’Elbe
 |-
 |10
@@ -1659,39 +1659,39 @@
 | Madagascar — Le trafic des tortues angonoka
 |-
 |11
-|
+|⚪️
 | Venise en Hiver
 |-
 |12
-|
+|🟡
 | Le Hockey en Himalaya, une passion au féminin
 |-
 |13
-|
+|🔴
 | Buenos Aires, tango pour tous
 |-
 |14
-|
+|🟡
 | Le Commerce du Jade dans le Triangle d’Or
 |-
 |15
-|
+|🔴
 | Trafic d’Insectes en Bolivie
 |-
 |16
-|
+|⚪️
 | L’Archipel d’Åland et Ses Postiers
 |-
 |17
-|
+|🟡
 | Kazakhstan, les Bienfaits du Lait de Chamelle
 |-
 |18
-|
+|🔴
 | Une Femme à la Gendarmerie Royale du Canada
 |-
 |19
-|
+|🔴
 | Pérou, un Alpaga Pour Christobal
 |-
 |20

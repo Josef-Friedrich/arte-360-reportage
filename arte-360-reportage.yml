@@ -25188,6 +25188,11 @@ seasons:
         episode_no: 27
         title: Thailand, Raketen für die Götter
         title_fr: 'Thaïlande: Des Fusées Pour les Dieux'
+        continent: Asien
+        location_wikidata: Q381897
+        coordinates:
+        - 16
+        - 103
         description: 'Jedes Jahr im Mai und Juni steht Thailands Provinz Isaan
             Kopf. Dann nämlich feiern die Bewohner vieler Dörfer das Raketenfestival,
             bei dem sie unzählige Feuerwerkskörper in den Himmel schießen.
@@ -25247,6 +25252,11 @@ seasons:
         episode_no: 1
         title: Vietnam, Kobra auf dem Teller
         title_fr: Vietnam, du Cobra au Menu
+        continent: Asien
+        location_wikidata: Q10833669
+        coordinates:
+        - 14.37027778
+        - 108.6797222
         description: 'Im Norden Vietnams teilen die Einwohner des Dorfes Vinh
             Son ihr Leben mit Tausenden Schlangen. Viele der Tiere sind hochgiftig.
             Die Bewohner leben vom Geschäft mit den gefährlichen Reptilien
@@ -25297,6 +25307,11 @@ seasons:
         episode_no: 2
         title: Indiens jüngste Polizisten
         title_fr: Inde, Policier Dès 6 Ans?
+        continent: Asien
+        location_wikidata: Q1168
+        coordinates:
+        - 21.27
+        - 81.6
         description: 'Im indischen Bundestaat Chhattisgarh hat bis heute ein
             seltsames Regelwerk überdauert: Beim Tod eines Polizisten hat
             eines seiner Kinder - Junge oder Mädchen - Anspruch auf einen
@@ -25354,6 +25369,11 @@ seasons:
         episode_no: 3
         title: Kambodscha, Ratte süß-sauer
         title_fr: Cambodge, les Chasseurs de Rats
+        continent: Asien
+        location_wikidata: Q424
+        coordinates:
+        - 11.57
+        - 104.91
         description: 'Tiere, die in Europa Abscheu und Ekel verursachen, werden
             in Kambodscha gejagt, gegessen oder zum Verzehr verkauft. Zwei
             Monate im Jahr ist im Schwemmland des Tonlé Sap Sees Rattenjagd-Saison.
@@ -25410,6 +25430,10 @@ seasons:
         episode_no: 4
         title: Azoren, das Geschäft mit den Walen
         title_fr: Les Açores, le Sort des Baleines
+        location_wikidata: Q25263
+        coordinates:
+        - 38.66
+        - -28.07
         description: 'Gewaltige Urkräfte formten einst die Azoren. Vulkane
             prägen bis heute die neun Inseln mitten im Atlantik, die zum 1600
             Kilometer entfernten Portugal gehören. Das Meer ist hier sehr
@@ -25461,6 +25485,11 @@ seasons:
         episode_no: 5
         title: Fort McMurray, Kanada im Ölfieber
         title_fr: Fort McMurray, la Ruée Vers l’Or Noir
+        continent: Amerika
+        location_wikidata: Q126624
+        coordinates:
+        - 56.726388888889
+        - -111.38027777778
         description: 'Im Boden des kanadischen Bundesstaates Alberta lagert
             ein heiß begehrter Schatz: Ölsand. Die Gewinnung der teerhaltigen
             Masse ist teuer und extrem Umwelt schädigend. Doch die Welt lechzt
@@ -25518,6 +25547,11 @@ seasons:
         episode_no: 6
         title: Rosa Amélia - Fische, Freunde, Fado
         title_fr: Rosa Amélia — La Passionaria des Pêcheurs Portugais
+        continent: Europa
+        location_wikidata: Q428459
+        coordinates:
+        - 40.15085
+        - -8.86179
         description: 'Die Küstenstadt Figueira da Foz in Portugal. Das Meer
             bestimmt das Leben der Menschen hier, die ihr Geld meist mit Fischfang
             verdienen. Die Fischer praktizieren uralte Fangmethoden - doch
@@ -25573,6 +25607,11 @@ seasons:
         episode_no: 7
         title: 'Schweiz: Das Verschwinden der Gletscher'
         title_fr: SOS, Glaciers Suisses en Danger!
+        continent: Europa
+        location_wikidata: Q834
+        coordinates:
+        - 46.066666666667
+        - 7.6
         description: 'Die Schweiz - Land der Berge, der Gletscher, Bergbäche
             und Seen. Die Alpen zeigen hier ihre schönsten Seiten. Doch die
             Natur verändert sich: die Gletscher schrumpfen, Felsmassive werden
@@ -25588,7 +25627,7 @@ seasons:
             Wasserspeicher. Doch die Erderwärmung setzt ihnen zu: Pro Jahr
             verlieren die Schweizer Gletscher heute einen Kubikkilometer an
             Volumen. 360° - GEO Reportage war zu Besuch im Wallis und im Berner
-            Oberland und hat sich ein Bild  von den Veränderungen der Natur
+            Oberland und hat sich ein Bild von den Veränderungen der Natur
             gemacht.
 
             Das Berner Oberland im Herzen der Schweiz. Die Simmenfälle oberhalb
@@ -25625,6 +25664,11 @@ seasons:
         episode_no: 8
         title: Bangkoks Schatztaucher
         title_fr: Chasseurs de trésors à Bangkok
+        continent: Asien
+        location_wikidata: Q476440
+        coordinates:
+        - 13.658333
+        - 100.533889
         description: 'Wie eine riesige Schlange windet sich der Chao Phraya-Fluss
             durch Bangkok, an seinen Ufern liegen die historischen Viertel
             der Hauptstadt mit ihren Tempeln und Palästen. Die Wasserader
@@ -25634,8 +25678,8 @@ seasons:
             In Blickweite der glitzernden Bürotürme und Luxushotels der thailändischen
             Hauptstadt leben Bangkoks Flusstaucher in einer ländlichen Oase.
             Sie wohnen mit ihren Familien auf der Halbinsel Pra Pradaeng -
-            dort,  wo der mächtige Chao Phraya eine Schleife mitten durch
-            die Stadt zieht. An seinen Ufern ließen sich schon vor Jahrhunderten
+            dort, wo der mächtige Chao Phraya eine Schleife mitten durch die
+            Stadt zieht. An seinen Ufern ließen sich schon vor Jahrhunderten
             Könige, europäische Handelshäuser und asiatische Zuwanderer nieder.
             Und so ist der Fluss heute eine unergründliche Schatztruhe. Zum
             Ende der Regenzeit, im Oktober, können die Taucher es wieder wagen,
@@ -25678,6 +25722,11 @@ seasons:
         episode_no: 9
         title: Elbsandsteingebirge - Märchenwelt und Meisterwerke
         title_fr: Dresde, au Fil de l’Elbe
+        continent: Europa
+        location_wikidata: Q315298
+        coordinates:
+        - 50.79305556
+        - 14.10861111
         description: 'Eine bizarre, einzigartige Bergwelt, geformt in Millionen
             Jahren von Wind und Wasser erhebt sich dreißig Kilometer südöstlich
             von Dresden. Das Elbsandsteingebirge ist berühmt für seinen außerordentlichen
@@ -25779,6 +25828,11 @@ seasons:
         episode_no: 11
         title: Hinter den Kulissen von Venedig
         title_fr: Venise en Hiver
+        continent: Europa
+        location_wikidata: Q641
+        coordinates:
+        - 45.439722222222
+        - 12.331944444444
         description: 'Venedig ohne Touristen? Fast unvorstellbar. Elf Monate
             im Jahr, von Februar bis Dezember, bevölkern Millionen Besucher
             die Lagunenstadt auf der Suche nach dem romantischen Drei-Tage-Urlaub.
@@ -25832,6 +25886,11 @@ seasons:
         episode_no: 12
         title: Eishockey - Mädchentraum im Himalaya
         title_fr: Le Hockey en Himalaya, une passion au féminin
+        continent: Asien
+        location_wikidata: Q200667
+        coordinates:
+        - 34.166666666666664
+        - 77.58333333333333
         description: 'In der indischen Himalaja-Provinz Ladakh auf 3500 Metern
             Höhe wird seit Jahrzehnten Eishockey gespielt - vor allem von
             Männern aus der Armee, die die Grenzen zu China und Pakistan sichern.
@@ -25886,6 +25945,11 @@ seasons:
         episode_no: 13
         title: Die Tango-Spelunken von Buenos Aires
         title_fr: Buenos Aires, tango pour tous
+        continent: Amerika
+        location_wikidata: Q1486
+        coordinates:
+        - -34.599722222222
+        - -58.381944444444
         description: 'Auf der ganzen Welt, von New York bis Tokyo, von Buenos
             Aires bis Finnland wird Tango leidenschaftlich getanzt, ernsthaft
             gelehrt und gelernt und sehnsüchtig geliebt. Dabei steht der Tango
@@ -25942,6 +26006,11 @@ seasons:
         episode_no: 14
         title: Jadehandel im Goldenen Dreieck
         title_fr: Le Commerce du Jade dans le Triangle d’Or
+        continent: Asien
+        location_wikidata: Q185518
+        coordinates:
+        - 21.983055555555556
+        - 96.08444444444444
         description: 'Leuchtend schimmert sie - die Jade.  Seit Jahrtausenden
             zählt sie  vor allem in Asien zu den begehrtesten Edelsteinen.
             Ihre Fundstätten werden streng gehütet und immer wieder heiß umkämpft.
@@ -25997,6 +26066,11 @@ seasons:
         episode_no: 15
         title: 'Bolivien: Kleine Käfer, großes Geld!'
         title_fr: Trafic d’Insectes en Bolivie
+        continent: Amerika
+        location_wikidata: Q750
+        coordinates:
+        - -17.056869611111
+        - -64.991228611111
         description: 'Farbenprächtige Schmetterlinge, große Spinnen, schillernde
             Käfer - in Bolivien existiert eine einzigartige Insektenwelt.
             Doch viel zu viele dieser Tiere landen als Schauobjekt in Vitrinen
@@ -26053,6 +26127,11 @@ seasons:
         episode_no: 16
         title: 'Åland-Archipel: Warten auf das Eis'
         title_fr: L’Archipel d’Åland et Ses Postiers
+        continent: Europa
+        location_wikidata: Q176221
+        coordinates:
+        - 60.411111
+        - 21.045833
         description: 'Fast 7000 Inseln umfasst der Aland-Archipel im Westen
             Finnlands - nur wenige davon sind bewohnt. Wer hier lebt hat gelernt
             während der langen Wintermonate mit eisiger Kälte und zunehmender
@@ -26113,6 +26192,11 @@ seasons:
         episode_no: 17
         title: Kamelmilch, Kasachstans Wundermedizin
         title_fr: Kazakhstan, les Bienfaits du Lait de Chamelle
+        continent: Asien
+        location_wikidata: Q2379721
+        coordinates:
+        - 44.99305556
+        - 75.01972222
         description: 'Im zentralasiatischen Kasachstan boomt ein neuer alter
             Ernährungs-Trend: Kamelmilch. Die Hirten schwören auf ihre heilende
             Kraft. Mehr und mehr Kasachen entdecken derzeit das Potential
@@ -26171,6 +26255,11 @@ seasons:
         episode_no: 18
         title: Königliche Mounties - Kanadas berittene Polizei
         title_fr: Une Femme à la Gendarmerie Royale du Canada
+        continent: Amerika
+        location_wikidata: Q335175
+        coordinates:
+        - 45.42
+        - -75.66
         description: 'Die Royal Canadian Mounted Police war ursprünglich die
             berittene Polizei Kanadas - heute ist nur noch ein kleine Einheit
             zu Pferd übrig: der Musical Ride. Er ist das absolute Aushängeschilder
@@ -26222,6 +26311,11 @@ seasons:
         episode_no: 19
         title: 'Peru: Ein Alpaka für Christobal'
         title_fr: Pérou, un Alpaga Pour Christobal
+        continent: Amerika
+        location_wikidata: Q648502
+        coordinates:
+        - -13.766666666667
+        - -71.3
         description: 'Karges Land, dünne Luft, raues Klima - das ist die Heimat
             des neunjährigen Christobal und seines Vaters. Die Beiden leben
             hoch oben in den peruanischen Anden und gehören zum Volk der Q´eros.
