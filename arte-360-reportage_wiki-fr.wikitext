@@ -1215,31 +1215,31 @@
 | Les Beachboys de Hawaii
 |-
 |4
-|
+|🔴
 | Sauvetage Dans les Rocheuses
 |-
 |5
-|
+|⚫️
 | Les Derniers Caravaniers du Sahara
 |-
 |6
-|
+|⚫️
 | Angola — Le Bonheur Est Dans le Train
 |-
 |7
-|
+|⚪️
 | Danuble Bleu et Chevaux Sauvages
 |-
 |8
-|
+|🔴
 | Cap Cod — Le Temps des Cranberries
 |-
 |9
-|
+|🟡
 | L’Inde, la Clinique des Tigres
 |-
 |10
-|
+|⚪️
 | Irlande, les Sauveteurs de l’Extrême
 |-
 |11
