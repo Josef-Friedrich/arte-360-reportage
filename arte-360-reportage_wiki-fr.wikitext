@@ -768,7 +768,7 @@
 | Baïkal-Amour Magistrale, l'Autre Transsibérien
 |-
 |11
-|
+|🔴
 | L'Hôpital Flottant du Fleuve Amazone
 |-
 |12
@@ -776,7 +776,7 @@
 | Le Géant Blanc de Patagonie
 |-
 |13
-|
+|🔴
 | Mecaniqueros: Impossible n’Est Pas Cubain
 |-
 |14

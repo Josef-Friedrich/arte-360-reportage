@@ -1668,7 +1668,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 183
 | NR_ST = 13
-| OT = Mecaniqueros - Nichts ist unmöglich in Havanna<ref>Internetquellen zur Episode ''„Mecaniqueros - Nichts ist unmöglich in Havanna“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/185-mecaniqueros-nichts-ist-unmoeglich-in-havanna-339659 185] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/185-mecaniqueros-nichts-ist-unmoeglich-in-havanna-339659 339659], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642162 S07E17] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642162 4642162], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=80vkFm7tzCM 80vkFm7tzCM]</ref>
+| OT = Mecaniqueros - Nichts ist unmöglich in<ref>Internetquellen zur Episode ''„Mecaniqueros - Nichts ist unmöglich in“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/185-mecaniqueros-nichts-ist-unmoeglich-in-havanna-339659 185] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/185-mecaniqueros-nichts-ist-unmoeglich-in-havanna-339659 339659], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642162 S07E17] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642162 4642162], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=80vkFm7tzCM 80vkFm7tzCM]</ref>
 | Feld1 = Mecaniqueros: Impossible n’Est Pas Cubain
 | REG = Joanna Michna
 | EA = 2005-11-12

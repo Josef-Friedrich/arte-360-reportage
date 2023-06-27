@@ -8700,6 +8700,11 @@ seasons:
         episode_no: 11
         title: Das schwimmende Krankenhaus vom Amazonas
         title_fr: L'Hôpital Flottant du Fleuve Amazone
+        continent: Amerika
+        location_wikidata: Q40236
+        coordinates:
+        - -3.1
+        - -60.016666666667
         description: 'Langsam und behäbig schiebt sich der Rumpf des grauen
             Militärschiffes durch den Seitenarm des Amazonas-Flusses, vorbei
             an Sandbänken und treibenden Baumstämmen. Immer wieder fliegen
@@ -8821,8 +8826,13 @@ seasons:
     -   overall_no: 183
         season_no: 7
         episode_no: 13
-        title: Mecaniqueros - Nichts ist unmöglich in Havanna
+        title: Mecaniqueros - Nichts ist unmöglich in
         title_fr: 'Mecaniqueros: Impossible n’Est Pas Cubain'
+        continent: Amerika
+        location_wikidata: Q1563
+        coordinates:
+        - 23.136666666667
+        - -82.358888888889
         description: 'Havannas Mecaniqueros sind private Jungunternehmer im
             Land des real existierenden Sozialismus. Sie entwickeln skurrile,
             aber erfolgreiche Geschäftsideen wie etwa ein Restaurant im heimischen
@@ -8876,6 +8886,10 @@ seasons:
         episode_no: 14
         title: Eremitage - Palast der Katzen
         title_fr: Des Chats au Pays des Tsars
+        location_wikidata: Q132783
+        coordinates:
+        - 59.940555555555555
+        - 30.31361111111111
         description: 'Das Eremitage-Museum von St. Petersburg beherbergt viele
             Kunstschätze von Weltruhm. Hunderte von Besuchern stehen täglich
             auf dem Schlossplatz vor dem Winterpalast an, um die Ausstellungen
