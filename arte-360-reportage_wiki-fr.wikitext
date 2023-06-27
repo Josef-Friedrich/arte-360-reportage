@@ -649,7 +649,7 @@
 | Tout l’or de sibèrie
 |-
 |2
-|
+|⚪️
 | Le Train des Carpates
 |-
 |3
@@ -657,20 +657,20 @@
 | Cargo pour les marquises
 |-
 |4
-|
+|🔴
 | Les Petits Cavaliers de Joaquim
 |-
 |5
-|
+|⚫️
 | Johannesburg, le Repli Sur Soi
 |-
 |6
-|
+|🔴
 | Paco Pacos, Belles Bagnoles du Brésil
 |-
 |7
-|
-| Le Parlement des Enfants du Rajasthan
+|🟡
+| Le Parlement des Enfants du
 |-
 |8
 |

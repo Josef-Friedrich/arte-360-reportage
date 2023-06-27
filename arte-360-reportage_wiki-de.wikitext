@@ -1458,7 +1458,7 @@
 | NR_GES = 158
 | NR_ST = 7
 | OT = Das Parlament der Kinder<ref>Internetquellen zur Episode ''„Das Parlament der Kinder“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/158-das-parlament-der-kinder-339433 158] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/158-das-parlament-der-kinder-339433 339433], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642026 S06E07] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642026 4642026], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=1I5rUoMUmwA 1I5rUoMUmwA]</ref>
-| Feld1 = Le Parlement des Enfants du Rajasthan
+| Feld1 = Le Parlement des Enfants du
 | REG = Thomas Uhlmann
 | EA = 2004-07-10
 }}
