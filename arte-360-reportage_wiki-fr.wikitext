@@ -574,7 +574,7 @@
 !width="87%"|Titre français
 |-
 |1
-|
+|⚪️
 | Titre inconnu
 |-
 |2
@@ -784,7 +784,7 @@
 | Des Chats au Pays des Tsars
 |-
 |15
-|
+|⚪️
 | Pyrénées, à l'École des Bergers
 |-
 |16
@@ -803,19 +803,19 @@
 | Arizona, au Pays des Veuves Noires
 |-
 |2
-|
+|⚪️
 | La Pologne des Braconniers
 |-
 |3
-|
+|⚪️
 | Irlande, Célibataire Cherche Amoureuse
 |-
 |4
-|
+|🟡
 | Chine - Les Filles Aussi Font du Kung-fu
 |-
 |5
-|
+|🔴
 | Vivre au-Delà de l'Arctique
 |-
 |6
@@ -827,11 +827,11 @@
 | Les Métallos de Chicago
 |-
 |8
-|
+|🟡
 | Villages Flottants de la Baie d'Along
 |-
 |9
-|
+|🔴
 | Des Mustangs et des Hommes
 |-
 |10
@@ -839,11 +839,11 @@
 | La Gardienne du Paradis de Tasmanie
 |-
 |11
-|
+|🟡
 | Le Train du Darjeeling
 |-
 |12
-|
+|🟡
 | Les Cerfs aux Bois de Velours
 |-
 |13
@@ -851,15 +851,15 @@
 | Sur les Toits du Caire
 |-
 |14
-|
+|⚫️
 | Tambours du Burundi
 |-
 |15
-|
+|⚫️
 | Les Mines de Saphir de Madagascar
 |-
 |16
-|
+|⚪️
 | Sur la Route des Vikings
 |-
 |17
@@ -2012,7 +2012,7 @@
 | Le Maté, l’Élixir des Argentins
 |-
 |18
-|
+|🔴
 | Les Derniers Pêcheurs de Crevettes de Louisiane
 |-
 |19

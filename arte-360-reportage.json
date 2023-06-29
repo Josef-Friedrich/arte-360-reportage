@@ -3107,6 +3107,12 @@
           "season_no": 5,
           "episode_no": 1,
           "title": "Die Mörderinnen von Targsor - Das einzige Frauengefängnis in Rumänien",
+          "continent": "Europa",
+          "location_wikidata": "Q7299945",
+          "coordinates": [
+            44.889125,
+            25.926658333333336
+          ],
           "description": "Es ist das einzige Frauengefängnis in Rumänien, überbelegt mit 1.500 Gefangenen: Targsor bei Ploiesti. Bis zum Ende des Zweiten Weltkriegs gehörte das Gelände zu einem Kloster, danach wurde es ein Lager für Feinde des Ceausescu-Regimes. Erst seit der Wende ist es ein Frauenknast.\nEtwa 300 Insassinnen wurden wegen des gleichen Deliktes zu langen Haftstrafen verurteilt: Mord am Ehemann. Um sich gegen ihre häufig gewalttätigen Männer zu wehren, entledigten sich die Frauen ihres „Haus-Patriarchen“ in der Regel durch eine Verzweiflungstat. So auch Daniela Hristodor. Die 35-Jährige arbeitet heute in der Gefängnisnäherei. Sie wurde zu zehn Jahren Haft verurteilt, weil sie bei einem Streit ihren betrunkenen Ehemann erschlagen hat.\nDer Alltag im Gefängnis ist für die Gattenmörderinnen schwierig, denn sie fühlen sich nicht als Kriminelle, sondern eher als Opfer, die keinen anderen Ausweg wussten. Seit die 39-jährige Zinica Trandafirescu Leiterin der Haftanstalt ist, hat sich in Targsor einiges geändert. Es gibt eine neue Krankenversorgung, besseres Essen sowie Theater- und Musikgruppen. Auch der Kontakt mit den Familien der Inhaftierten wird gefördert. Trandafirescu möchte die Taten ihrer Gefangenen nicht bagatellisieren. Sie will mit einem humanen Strafvollzug helfen, den sozialen Hintergrund eines Gattenmordes begreifbar zu machen.",
           "director": "Mario Damolin, Bernhard Kilian",
           "air_date": "2003-01-06",
@@ -3124,6 +3130,11 @@
           "season_no": 5,
           "episode_no": 2,
           "title": "Das Metall aus dem Vulkan",
+          "location_wikidata": "Q215727",
+          "coordinates": [
+            45.033333333333,
+            147.61666666667
+          ],
           "description": "Die Insel Iturup liegt im Süden der Kurilen, östlich von Russland zwischen Kamtschatka und Japan. Der Vulkanologe Professor Genrikh Steinberg und sein Team können die Insel nur mit dem Hubschrauber erreichen. Heftige Erdbeben und Vulkanausbrüche haben die Landschaft geprägt. Der Ausbruch des Kudryavi liegt erst Jahrzehnte zurück und hinterließ ein riesiges Lavafeld. Aus zahlreichen Spalten quillt dampfendes, nach Schwefelwasserstoff riechendes Wasser. Unter diesen extremen Bedingungen entstand eine einzigartige chemische Verbindung: Rheniumsulfid. Das darin gebundene Rhenium schmilzt selbst bei einer Hitze von über 3.000 Celsius nicht. Es ist für die Raumfahrt ebenso von Interesse wie für Medizintechnik und Industrie und gilt als wichtiges Metall des 21. Jahrhunderts. Ein Kilo davon hat einen Wert von 1.500 US-Dollar.\nUm das wertvolle Element zu gewinnen, müssen die Forscher direkt in die Hölle hinuntersteigen. Die Gasmaske ist ihr einziger Schutz. Steinberg und seine Männer arbeiten auf bis zu 900 Grad Celsius heißem Untergrund und in giftigem Schwefeldampf. Zehn Jahre Forschung und harte Arbeit stecken in dem Projekt. Aufgrund der extremen Wetterbedingungen und der gelegentlichen Taifune können die Wissenschaftler dort nur von Juli bis September arbeiten, um den Rohstoff mit einer eigens entwickelten Methode zu gewinnen. Professor Steinbergs Mission ist ein Wettlauf gegen die Zeit.",
           "director": "Zoltán Jász",
           "air_date": "2003-01-07",
@@ -3143,6 +3154,11 @@
           "episode_no": 3,
           "title": "Die Söldner der Perlen",
           "subtitle": "Der lebensgefährliche Job",
+          "location_wikidata": "Q606294",
+          "coordinates": [
+            -17.961944444444,
+            122.23611111111
+          ],
           "description": "Sie können in zehn Jahren Millionäre sein oder morgen von einem Tigerhai getötet werden. Die jungen australischen Perlmuschel-Taucher haben einen gefährlichen Job: Stundenlang suchen sie auf dem zehn Meter tiefen Meeresgrund vor der Küste Westaustraliens nach Riesenmuscheln, in denen später wertvolle Perlen heranwachsen sollen. Muscheltauchen ist kein Hobby, sondern harte Arbeit: In den Gewässern zwischen Broome und Darwin treffen die Taucher auf gefährliche Seeschlangen, tödliche Steinfische und giftige Quallen. Auch die körperlichen Anforderungen sind extrem hoch: Jeden Tag sind sie bis zu zehn Stunden unter Wasser, immer in Eile, auf der Suche nach der Südseeauster Pinctada maxima. Auf Perlenfarmen werden in den riesigen Austern später wertvolle Perlen gezüchtet. Um die Akkordarbeit leisten zu können, braucht man eine gesunde Kondition und einen trainierten Körper. Sonst besteht das Risiko, nach wenigen Tagen zusammenzubrechen oder mit der Taucherkrankheit ins Krankenhaus eingeliefert zu werden.\n„360° - Die GEO-Reportage“ begleitet junge Taucher vor der australischen Westküste, die zwischen Haien und Seeschlangen nach Perlmuscheln suchen.",
           "director": "Alexander Lorenz",
           "air_date": "2003-01-08",
@@ -3158,7 +3174,12 @@
           "season_no": 5,
           "episode_no": 4,
           "title": "Hongkongs Bambusakrobaten",
-          "description": "Der Arbeitsplatz von Lo Tak Wah liegt irgendwo zwischen Himmel und Erde. Täglich balanciert er in bis zu 300 Meter Höhe auf schwankenden Gerüstkonstruktionen aus Bambus. Meister Lo ist Bambusgerüstbauer in Hongkong. Er praktiziert eine über 2.000 Jahre alte Technik, die auch im Zeitalter der Glas- und Stahlpaläste nicht aus der asiatischen Metropole wegzudenken ist.",
+          "location_wikidata": "Q8646",
+          "coordinates": [
+            22.278333333333,
+            114.15861111111
+          ],
+          "description": "Der Arbeitsplatz von Lo Tak Wah liegt zwischen Himmel und Erde. Täglich balanciert er in bis zu 300 Meter Höhe über dünne Planken auf schwankenden Gerüstkonstruktionen aus Bambus. Meister Lo ist Bambusgerüstbauer. Er praktiziert eine über 2000 Jahre alte Technik, die auch im Zeitalter der Glas– und Stahlpaläste nicht aus Hongkong wegzudenken ist. Die alte chinesische Tradition, Baugerüste aus Bambusstangen zu montieren, ist heute fast nur noch in Hongkong zu finden. Dabei ist Bambus preiswerter als Stahl, leicht zu verbauen und durch seine Flexibilität sehr erdbebensicher. Er wird für Reklameschilder verwendet, für den Bau von Kirchen, Wohnhäusern und sogar Hochhäusern. Die Arbeit hoch über den Straßenschluchten der Stadt birgt Gefahren: Regen macht die Stangen rutschig, Windböen zerren an den Netzen, die die Gerüste umgeben. Wer an einem solchen Tag nicht peinlich genau seine Sicherheitsleine befestigt, riskiert leicht einen tödlichen Unfall. 360° – Die GEO–Reportage begleitet Meister Lo bei seiner Arbeit auf den schwindelerregend hohen Bambusgerüsten der asiatischen Metropole Hongkong.",
           "director": "Anja Werner",
           "air_date": "2003-01-09",
           "duration": 26,
@@ -3175,6 +3196,11 @@
           "season_no": 5,
           "episode_no": 5,
           "title": "Mission Nordkorea",
+          "location_wikidata": "Q423",
+          "coordinates": [
+            40,
+            127
+          ],
           "description": "Mit seinen 1,90 Metern Körpergröße überragt der deutsche Nothilfespezialist Christoph Bürk die Koreaner um zwei Köpfe. Doch nicht nur deshalb fällt er auf, wenn er durch Städte und Dörfer reist, Schulen, Kooperativen und Kinderkrippen inspiziert. Denn eigentlich ist Ausländern der Kontakt zur Bevölkerung verboten, sie werden auf Schritt und Tritt kontrolliert. Gemeinsam mit acht Kollegen der Gesellschaft für Technische Zusammenarbeit (GTZ) überwacht Christoph Bürk eine gigantische Spende der Bundesrepublik Deutschland: 27.000 Tonnen Rindfleisch werden als Winterhilfe an sechs Millionen Hungernde verteilt. Bürk und seine Inspektoren-Teams kontrollieren, ob das Fleisch auch die Bedürftigen erreicht - und nicht etwa die Armee. Die Aufnahmen von der Arbeit des deutschen Hilfsteams sind die ersten Fernsehbilder von gewöhnlichen Menschen in Nordkorea, die über ihre alltäglichen Nöte sprechen.",
           "director": "Bernd Girrbach, Elke Werry",
           "air_date": "2003-02-03",
@@ -3192,6 +3218,11 @@
           "season_no": 5,
           "episode_no": 6,
           "title": "Radios gegen Kalaschnikows",
+          "location_wikidata": "Q1032",
+          "coordinates": [
+            17,
+            10
+          ],
           "description": "Es dauert nur Sekunden und ein ganzer Berg von Waffen steht in Flammen. 500 Gewehre brennen lichterloh, nachdem sie von ihren Besitzern abgegeben wurden - eingetauscht gegen Radios! Die Aktion ist Teil eines neuen von der UNO unterstützten Projektes: Mithilfe mechanischer Kurbel-Radios soll dem vom Bürgerkrieg gezeichneten Niger ein Weg in eine friedlichere Zukunft aufgezeigt werden. Eine südafrikanische Firma hat Geräte entwickelt, die statt mit Strom und Batterien von einer Kurbel angetrieben werden. 12.500 davon wurden dem Niger gespendet. Als Gegenleistung für ein Radio sollen die Familien ihre Waffen abgeben, die das Land immer tiefer in die Gewaltspirale getrieben haben. Vorangetrieben wird das Projekt von der Amerikanerin Kristi Pearson, die mit ihren Kollegen aus dem Niger durch die Wüste reist, um die Menschen von ihrer Idee zu überzeugen.",
           "director": "Dominik von Eisenhart-Rothe, Katja von Eisenhart-Rothe",
           "air_date": "2003-02-04",
@@ -3210,6 +3241,11 @@
           "episode_no": 7,
           "title": "Die Hightech-Oase",
           "alias": "Die Hightech-Oase - Auf der größten Milchfarm der Welt",
+          "location_wikidata": "Q20018610",
+          "coordinates": [
+            24.207676,
+            47.444979
+          ],
           "description": "Es ist keine Fata Morgana: Mitten in der Al-Kharj-Wüste in Saudi-Arabien ragen 15 Meter hohe Kühltürme der Molkerei Al-Safi aus dem Sand. Eine Hightech-Oase mit Kühen aus deutscher Zucht. Täglich verlassen Kühltransporter mit 550.000 Liter Milch die Al-Safi-Anlage. Der Milchbetrieb ist ein Hightech-Unternehmen: Die 32.000 Kühe werden dreimal am Tag automatisch gemolken, Computer steuern die Futterausgabe. Damit die Tiere die Hitze ertragen, werden sie permanent mit Wassertropfen eingenebelt. Durch dieses „saubere Doping“ gibt jede Kuh am Tag bis zu 70 Liter Milch. Der technische Aufwand für diese Hochleistung ist enorm: 2.500 Liter Wasser werden für einen Liter Milch verbraucht. Es wird aus zwei Kilometer tiefen Brunnen hochgepumpt und in riesigen Türmen gekühlt. Zusätzlich werden Milliarden Liter Wasser durch Meerwasserentsalzungsanlagen geschleust.\n„360° - Die GEO-Reportage“ begleitet den Saudi Amer Al-Sayari durch seinen Arbeitsalltag auf der größten Milchfarm der Welt und wirft einen Blick auf das unglaubliche Mammutunternehmen inmitten der Arabischen Wüste.",
           "director": "Jacqueline Steigner",
           "air_date": "2003-02-05",
@@ -3228,6 +3264,11 @@
           "season_no": 5,
           "episode_no": 8,
           "title": "Videofabrik Nigeria",
+          "location_wikidata": "Q1033",
+          "coordinates": [
+            9,
+            8
+          ],
           "description": "Die Schauspieler spielen dilettantisch, die Technik funktioniert miserabel, und die Kulisse besteht häufig aus Sperrmüll. Kabat Esosa Egbon reicht das. Er ist einer der jungen Filmproduzenten, die sich auf dem nigerianischen Videomarkt etablieren wollen. Große Kinos gibt es in Lagos nicht. Stattdessen versammeln sich die Menschen vor den Fernsehern, in kleinen Verschlägen in den Hinterhöfen, an Straßenecken oder in einer der zahllosen Kneipen der Armengettos. Dort laufen rund um die Uhr die in Rekordzeit produzierten Filme: Gedreht mit einfachen DV-Camcodern für ein Budget um die 10.000 US-Dollar - inklusive Gehälter und Gagen. Die Begeisterung der Nigerianer für diese einheimischen Streifen voller Mythen und Legenden, in denen sie ihre Kultur wiedererkennen, lässt dabei die importierten Kassenknüller aus den USA zu Staubfängern im Regal werden.",
           "director": "Matthias Heeder, Monika Hielscher",
           "air_date": "2003-02-06",
@@ -4102,6 +4143,12 @@
           "episode_no": 15,
           "title": "Traumberuf Schäfer",
           "title_fr": "Pyrénées, à l'École des Bergers",
+          "continent": "Europa",
+          "location_wikidata": "Q184392",
+          "coordinates": [
+            42.965277777778,
+            1.6069444444444
+          ],
           "description": "Seit etwa 7000 Jahren ziehen Schäfer mit ihren Herden hoch zu den Gipfeln der Pyrenäen. Wie sie die Tiere führen und wohlbehalten über den Sommer bringen, bekamen die meisten von ihren Vätern beigebracht, der Schäferberuf wurde von einer Generation an die nächste weitergegeben. Mit dem Niedergang der traditionellen Landwirtschaft im 20. Jahrhundert ist das Wissen der Schäfer mehr und mehr verschwunden. Fast schien es, ihr Beruf würde aussterben. Doch seit einigen Jahren kommen wieder junge Männer und Frauen in die Pyrenäen, viele aus großen Städten und der Hektik moderner Zivilisation überdrüssig, um an der Seite erfahrener Schäfer die Kunst des Herdenführens zu erlernen. 360° - Die GEO-Reportage  zeigt den 24-jährigen Yann Amouret, seinen Lehrmeister und ihre Herde einen Sommer lang.\nEin Schäfer hat viele Berufe: Er muss ein Regiment führen können, Krankheiten und Verletzungen heilen, Kräuter und Pflanzen identifizieren und das Wesen seiner Tiere verstehen. Ein halbes Jahr ist er der einzige Mensch in der Nähe der Herde. Solange die Schafe über die Wiesen ziehen und sich Winterspeck anfressen, ist er ihr Beschützer und Führer, verantwortlich für das Wohlergehen jedes einzelnen Tieres. Das sind meist weit über 1000 Stück, und kein einziges sollte dem Hirten verloren gehen. Trotz dieser hohen Anforderungen hat sich der 24-jährige Yann Amouret für eine Ausbildung zum Schäfer entschieden. Zusammen mit dem erfahrenen Hirten Yves Renaud zieht er im Frühjahr auf den fast 2000 Meter hohen Gipfel des in den Zentralpyrenäen, um dort fünf Monate lang eine Herde von 1300 Schafen zu hüten. Yves Renaud wird in dieser Zeit ein wachsames Auge auf seinen Lehrling haben müssen, denn der Beruf des Schäfers ist nicht nur technisch, sondern auch körperlich anspruchsvoll. Die Männer müssen täglich 15 Stunden arbeiten und ihren Tieren auf steilen Hängen folgen können - in tiefster Abgeschiedenheit. Weil nicht jeder für den Beruf geeignet ist, wählen die Schäfer streng aus, wen sie in ihre Mitte aufnehmen. In diesem Jahr haben sich 180 Kandidaten beworben. Nur zehn wurden schließlich zur Ausbildung zugelassen. Yann Amouret gehört dazu, und in den nächsten Monaten wird er beweisen müssen, dass er die in ihn gesetzten Hoffnungen erfüllen kann. Es wird ein Sommer der Prüfung für Yann und seinen Lehrer, nicht nur in Hinblick auf die Herde. Denn auch Yann und Yves müssen schließlich zueinander finden.",
           "director": "Myriam Tonelotto",
           "air_date": "2005-12-17",
@@ -4120,7 +4167,12 @@
           "episode_no": 16,
           "title": "Die Kinder des Vater Nikolai",
           "title_fr": "Les Petits Choristes de l'Oural",
-          "description": "Der russisch-orthodoxe Priester Nikolai Stremski und seine Frau Galina haben seit 1992 mehr als 60 Kinder adoptiert, die alle aus zerrütteten Familien stammen. Im Laufe der Zeit ist aus der Großfamilie ein Chor hervorgegangen, der auch international Gastspiele gibt. Das gemeinsame Singen, so Nikolai Stremski, stärkt das Zusammengehörigkeitsgefühl der Kinder.",
+          "location_wikidata": "Q2224562",
+          "coordinates": [
+            51.794166666667,
+            56.352222222222
+          ],
+          "description": "Der russisch-orthodoxe Priester Nikolai Stremski und seine Frau Galina haben seit 1992 mehr als 60 Kinder adoptiert, die alle aus zerrütteten Familien stammen. Im Laufe der Zeit ist aus der Großfamilie ein Chor hervorgegangen, der auch international Gastspiele gibt. Das gemeinsame Singen, so Nikolai Stremski, stärkt das Zusammengehörigkeitsgefühl der Kinder.\nAm Fuße des Südural lebt eine ungewöhnliche Familie mit 60 Kindern, einem Priester als Adoptiv-Vater und einer gemeinsamen Leidenschaft: dem Chorsingen\nIn Russland, am Fuße des Südurals, lebt die Familie des Nikolai Stremski. Zu ihr zählen 60 Kinder, die aus den unterschiedlichsten Winkeln des Landes stammen. Alle tragen einen gemeinsamen Familiennamen - Nikolai Stremski hat sie alle adoptiert! Für jedes seiner Kinder hat der Priester Vater Nikolai sich bewusst entschieden, sie aus Geburtskliniken, Krankenhäusern oder Heimen zu sich geholt. Das Zusammengehörigkeitsgefühl wird durch ein gemeinsames Hobby gestärkt - das Singen im Chor. \"360° - Die GEO-Reportage\" zeigt, wie das Zusammenleben dieser ungewöhnlichen russischen Großfamilie funktioniert.\nDie Familie Stremski lebt in dem kleinen Dorf Saraktasch bei Orenburg im Südural, an der Grenze zu Sibirien. Die Großfamilie hat eine eigene ungewöhnliche Geschichte: Der russisch-orthodoxe Priester Nikolai Stremski und seine Ehefrau Galina begannen 1992 elternlose Kinder zu adoptieren. Eigentlich sollten es nur drei oder vier sein, inzwischen ist ihre Zahl jedoch auf 60 angestiegen, \"das Leben hat es so gebracht\" sagt Galina. Die Kinder kommen aus zerbrochenen Familien, wurden direkt nach der Geburt zur Adoption freigegeben, eines gar auf einer Müllhalde abgelegt. Russische Behörden gehen davon aus, dass es im Land nach dem Zusammenbruch der Sowjetunion Anfang der 1990er Jahre derzeit über zwei Millionen obdachlose Kinder gibt. Nur wenige, knapp 100.000, haben einen Platz in den staatlichen Kinderheimen gefunden. Und diesen Einrichtungen fehlt es an Geld und ausgebildeten Erziehern. Viele sind nicht in der Lage, den Kindern ausreichend Zuneigung zu geben und ihnen einen Weg ins Leben zu ebnen. Nur zehn Prozent der Heimkinder schaffen es, sich eine Existenz aufzubauen. Viele landen letztlich in den Jugendstrafanstalten.\nVater Nikolai versucht, seinen Adoptivkindern dieses Schicksal zu ersparen - obwohl das bei der großen Kinderzahl nicht immer einfach ist. Er sucht die Zukunft Russlands in seiner vorkommunistischen Vergangenheit und glaubt, dass nur die Religion die Werte wieder zu bringen vermag, die Russland im letzten Jahrhundert verloren gingen. Damit der Haushalt der Stremskis funktioniert, kümmern sich die Großen um die Kleinen und jedes Kind übernimmt Aufgaben und Verantwortungen: Ilja repariert die Fahrräder, Lidja melkt die Kühe und Denis erntet zusammen mit seinen Brüdern die Kartoffeln. Am Abend findet die Probe des Familienchors statt, denn die Stremskis haben demnächst in einem nahe gelegenen Ort einen Auftritt. Wie jedes Jahr zu Schulbeginn gibt der Chor ein Konzert in einer Jugendhaftanstalt.",
           "director": "Wolfgang Mertin",
           "air_date": "2005-12-24",
           "duration": 52,
@@ -4128,7 +4180,8 @@
           "fernsehserien_episode_slug": "188-die-kinder-des-vater-nikolai-339662",
           "fernsehserien_episode_id": 339662,
           "thetvdb_season_episode": "S07E20",
-          "thetvdb_episode_id": 4642165
+          "thetvdb_episode_id": 4642165,
+          "geo_url": "https://www.geo.de/geo-tv/9347-rtkl-die-kinder-des-vater-nikolai"
         }
       ]
     },
@@ -4160,6 +4213,12 @@
           "episode_no": 2,
           "title": "Polen - Ärger im Revier",
           "title_fr": "La Pologne des Braconniers",
+          "continent": "Europa",
+          "location_wikidata": "Q236083",
+          "coordinates": [
+            54.1,
+            22.933333333333334
+          ],
           "description": "Die Region von Suwalki, nordöstlich der polnischen Masuren, ist eine der wenigen Gegenden Europas mit noch intakter Natur: In den Wäldern leben Biber, Hirsche und Wildschweine, in den Seen tummeln sich Hechte und Aale. Die Menschen leben seit Generationen von Jagd und Fischfang. Manche legal, viele illegal. Um die Fischzucht professionell zu betreiben, hat der ehemalige Förster Andrzej Falkowski vom Staat einige Seen gepachtet. Dies hindert seine Nachbarn jedoch nicht, weiter in den Seen fischen. Der Streit zwischen Pächter und Bauern tobt seit Jahren. 360°-die Geo-Reportage hat die Region besucht und beobachtet, wie die Bewohner versuchen, den alten Konflikt zu lösen.\nLange Zeit waren die Wälder und Seen Polens Eigentum von König und Adel. Im 19. Jahrhundert fielen sie unter die Herrschaft des russischen Zaren Alexander II. Um die polnischen Adeligen für ihre Freiheitskämpfe zu bestrafen, erweiterte er das Fischereirecht auf den Seen auf die Bauern, die ihm gegenüber loyal geblieben waren. Dieses besondere Fangrecht wurde bis heute nicht offiziell aufgehoben, weshalb die heimischen Familien weiter darauf bestehen - auch wenn der Staat die Seen und Wälder inzwischen privat verpachtet hat. Pächter und Anlieger sehen sich beide im Recht, und das polnische Gesetz bietet keine klare Lösung. So müssen Jung-Unternehmer wie Andrzej Falkowski allein sehen, wie sie mit dem Problem fertig werden.\nEine Strategie besteht darin, potenzielle Fischdiebe und Wilderer zu beschäftigen, ihnen Arbeit und damit Brot zu verschaffen. Leszek Michalkiewicz, Bauer und Vater von fünf Kindern, ist einer davon. Er hat gelernt, sich im Leben durchzuschlagen. Sein brüchiges Haus hat er zu sozialistischen Zeiten selbst gebaut, die Mangelwaren Zement und Holz gegen illegal geschossenes Wild oder heimlich gefangenen Fisch getauscht. Seine sieben Hektar Getreideacker bringen nur kümmerlichen Ertrag. Der Boden der Region ist sandig, Industrie hat sich in dem Grenzdreieck zwischen Polen, Litauen und Weißrussland nie entwickelt. Die Fische seines Chefs lässt Michalkiewicz inzwischen zwar in Ruhe, die anderen Bauern bedienen sich aber weiterhin: Am Morgen finden Andrzej Falkowski und sein Sohn immer wieder leere, mit dem Messer zerschnittene Netze in ihren Seen. Um endlich eine Lösung für den schwelenden Konflikt zu finden, ist nun mit den Nachbarn ein Treffen angesetzt. Erstmals sollen sich die verfeindeten Parteien gegenüber treten.",
           "director": "Malgorzata Bucka",
           "air_date": "2006-02-04",
@@ -4178,6 +4237,12 @@
           "episode_no": 3,
           "title": "Lust auf Liebe in Lisdoonvarna",
           "title_fr": "Irlande, Célibataire Cherche Amoureuse",
+          "continent": "Europa",
+          "location_wikidata": "Q1005113",
+          "coordinates": [
+            53.0303,
+            -9.2894
+          ],
           "description": "An der Westküste Irlands, im County Clare, liegt der Ort Lisdoonvarna. Er ist berühmt für seine heilenden Quellen und seine urigen Kneipen - vor allem aber als Treffpunkt einsamer Herzen. Hier werden seit über 150 Jahren Paare verkuppelt, eine Tradition, die Willie Daly, der bekannteste irische Heiratsvermittler noch heute mit Begeisterung praktiziert. Besonders viel zu tun hat der so genannte „Matchmaker“ jedes Jahr im September. Denn dann findet in Lisdoonvarna das Matchmaking-Festival statt, inzwischen Europas größtes Single-Treffen. 360° - Die GEO-Reportage zeigt wie man in Lisdoonvarna auf Brautschau geht.\nOhne Zweifel sind die Pubs in dem 800-Seelen-Dorf Lisdoonvarna seit jeher die wichtigsten Orte, um Kontakte zu knüpfen - hier wird in bester irischer Tradition getanzt, gesungen, gewettet und vor allem getrunken. Doch nicht nur Guinness und Whisky sprudeln hier, Heilquellen haben Lisdoonvarna vor über 150 Jahren zum einzigen Kurbad Irlands gemacht. Das brachte damals viele Kurgäste, und zog die Farmer der entlegenen Höfe an. Im Herbst nach der Ernte, kamen sie in den Ort auf der Suche nach einer Frau. Unterstützung bekamen sie dabei von Heiratsvermittlern. Schon der Vater von Willie Daly, sein Großvater und sein Urgroßvater waren solche „Matchmaker“, wie die Iren hier sagen. Die Tradition wird auch heute noch weitergeführt. In diesem Jahr übergibt Willie Daly die Aufgabe an eines seiner sieben Kinder: die Tochter Marie. Wie ihr Vater setzt auch Kneipenbesitzerin Marie auf die alten Matchmaker-Fähigkeiten: Menschenkenntnis, Intuition und den sanften Schubs im richtigen Moment. „Paare zusammenbringen ist hier leicht“, sagt Willie Daly, „wo ist es denn romantischer als bei uns!“ Die berauschend schöne Landschaft der Westküste Irlands mit der bergigen Karstlandschaft, den sanften Hügeln in ihrem satten Grün, mit den weiten Stränden und wilden Klippen ist in der Tat bestens geeignet, um Herzen zu öffnen. Traditionell wird in Lisdoonvarna jedes Jahr im September das „Matchmaking-Festival“ veranstaltet. In den Pubs und Tanzsälen treffen sich heute nicht mehr nur Singles aus Irland, sondern aus aller Welt.\nAuch Sean Flaherty aus dem irischen Westport möchte nicht mehr allein sein, wünscht sich Frau und Kinder. Marie Daly hat für ihn eine Verabredung auf dem „Matchmaking-Festival“ getroffen - mit Azahara Sanchez, einer temperamentvollen Spanierin. „Vielleicht passt es“, hofft Sean Flaherty und macht sich ziemlich aufgeregt auf den Weg nach Lisdoonvarna, um sein Glück zu suchen.",
           "director": "Gesine Enwaldt",
           "air_date": "2006-03-25",
@@ -4197,6 +4262,12 @@
           "episode_no": 4,
           "title": "Kung-Fu - Chinas neue Kämpferinnen",
           "title_fr": "Chine - Les Filles Aussi Font du Kung-fu",
+          "continent": "Asien",
+          "location_wikidata": "Q877609",
+          "coordinates": [
+            34.46031,
+            113.02803
+          ],
           "description": "Seit vier Jahren besucht die 18-jährige Guo Jia die einzige reine Mädchenschule für Kung Fu in China: ein Internat für 70 Schülerinnen, einsam gelegen in einem zerklüfteten Tal des heiligen Shongshan-Gebirges. Mit der Yongtai-Schule lebt eine lang vergessene Tradition wieder auf: Schon vor 1500 Jahren haben an diesem Ort Frauen Kung Fu gelernt, Nonnen des ersten buddhistischen Frauenklosters in China, dem heute die Schule angeschlossen ist. Schon als Kind träumte Guo Jia davon, Kung-Fu-Kämpferin zu werden - über Mauern und Dächer zu springen, ganz so, wie ihre Heldinnen im Kino. 360° - Die GEO-Reportage zeigt wie Guo Jias Traum jetzt in Erfüllung geht.\nIn der Yongtai-Mädchen-Schule für Kampfkunst beginnt Guo Jias Tag um 5:30 Uhr mit Konditionstraining. Nach dem Frühstück folgen Dehnübungen und Kung-Fu-Kämpfe mit verschiedenen Waffen wie Säbeln, Speeren und Schwertern - und auch ganz normaler Schulunterricht. Nur am Sonntag hat Guo Jia frei - und in den einwöchigen Frühjahrsferien. Die harte Ausbildung empfindet Guo Jia als Privileg. Außerdem lebt sie gerne mit so vielen Mädchen zusammen. Das Zimmer teilt sie sich mit zehn anderen; warmes Wasser oder gar Badezimmer gibt es nicht. Zum Duschen fahren die Mädchen sonntags mit dem Bus zu einem Badehaus in die nächste Stadt, nach Dengfeng. Diese Stadt trägt den Namen „Kung-Fu-City”, denn hier gibt es über 80 Kampfsport-Schulen, mit mehr als 60.000 Schülern aus ganz China. Der Schulabschluss an einer Kung-Fu-Schule ist hoch angesehen. Doch nur sehr wenige Mädchen trainieren in diesen gemischten Schulen. Umso spannender ist für Guo Jia und ihre Mitschülerinnen das bevorstehende Sportfest, bei dem sie auch gegen Schüler einer anderen Schule antreten werden. Als besondere Vorbereitung und Ehre dürfen die Mädchen mit einem Mönch aus dem nahe gelegenen Shaolin-Tempel trainieren - jenem weltberühmten Kloster, in dem einst Zen-Buddhismus und Kung Fu entstanden sind. Nach der Kulturrevolution waren viele der Mönche verfolgt worden, die Lehre des Kung Fu war verboten. Inzwischen aber unterstützt der Staat den Wiederaufbau des Klosters, das, bekannt durch viele Filme, zu einer Touristen-Attraktion geworden ist. Der Shaolin-Mönch gehört zu den wenigen, der den Schülerinnen noch den Unterschied zwischen moderner, am Leistungssport orientierter Kampfkunst und traditionellem, mehr auf Spiritualität zielendem Kung Fu erklären kann. Gut vorbereitet wollen die Kung-Fu-Kämpferinnen nun auf ihrem Sportfest zeigen, was sie können.",
           "director": "Ines Possemeyer",
           "air_date": "2006-04-08",
@@ -4215,6 +4286,12 @@
           "episode_no": 5,
           "title": "Highway durch die Arktis",
           "title_fr": "Vivre au-Delà de l'Arctique",
+          "continent": "Amerika",
+          "location_wikidata": "Q719547",
+          "coordinates": [
+            69.4428,
+            -133.031
+          ],
           "description": "Wer unbedingt mit dem Auto nach Tuktoyaktuk will, muss Geduld haben - falls er Pech hat, neun Monate lang. Das Inuit-Dorf an der Küste von Kanadas Beaufort Sea ist nur wenige Winterwochen lang über eine Straße zu erreichen - sonst gibt es nur eine sehr teure Flugverbindung. Wenn das Eis auf dem Mackenzie River mehr als einen Meter dick ist, beginnt die Straßenwacht mit einem spektakulären Projekt - dem Bau einer knapp 200 Kilometer langen Eisstraße. 360° - GEO Reportage hat die Bauarbeiten zu diesem Projekt beobachtet und dabei die Einwohner von Tuktoyaktuk ein Stück weit durch ihren Alltag begleitet.\nMerven Gruben leitet den Bau der Eisstraße. Der Unternehmer aus Tuktoyaktuk - kurz Tuk genannt - und seine Crews sorgen im ganzen Nordwesten Kanadas für freie Eispisten. Die knapp 200 Kilometer lange Winterpiste zwischen dem Dorf Inuvik und Grubens Heimatort ist eine der nördlichsten und gefährlichsten Straßen der Welt: Sie ist äußerst glatt und im Dunkel der Polarnacht nur schwer erkennbar. Immer wieder kommt es zu Unfällen. Dennoch fiebert das ganze Dorf ihrer Eröffnung entgegen. Die vergängliche Straße ermöglicht den knapp 1000 Einwohnern endlich, einmal rauszukommen. Und das mit dem Auto, nicht mit dem teuren Flugzeug, wie im Rest des Jahres. Dann werden Lebensmittel eingekauft, die auf dem Festland billiger sind - in Tukcs Supermarkt kostet eine Packung Müsli knapp 16 Dollar. Es sollen Geschäfte getätigt, Freunde und Verwandte besucht werden. Die örtliche Eishockeymannschaft wartet auf das erste Auswärtsspiel seit neun Monaten. Und nicht zuletzt müssen Weihnachtsgeschenke eingekauft werden. Es sind nur noch wenige Wochen bis Heiligabend.\nDoch in diesem Jahr scheint sich der Bau erstmals zu verzögern. Wegen Schneefall und zu hoher Temperaturen ist das Eis noch nicht dick genug, um schwere Fahrzeuge zu tragen. Jeden Tag wird die Eisschicht neu vermessen - die Zeit läuft davon. Merven Gruben und seine Männer stehen mit Schneeschiebern bereit. Bisher konnten sie die Straße immer rechtzeitig zu Weihnachten fertig stellen - sollten sie in diesem Jahr erstmals scheitern?",
           "director": "Sven Jaax",
           "air_date": "2006-04-22",
@@ -4234,6 +4311,11 @@
           "episode_no": 6,
           "title": "Churubamba - Frauen am Ball",
           "title_fr": "Footballeuses des Andes",
+          "location_wikidata": "Q432238",
+          "coordinates": [
+            -9.82578,
+            -76.13401
+          ],
           "description": "Peru - eine stille Bergregion fernab der großen Städte. Sanft schmiegen sich die Wolken an die malerischen Felsen, ein Lama kaut träge vor sich hin bis ein Aufschrei jäh die Stille unterbricht: „Tooor!“ Eine Gruppe Frauen reißt jubelnd die Arme in die Luft. „Bei jedem Tor würden wir am liebsten erst mal zehn Minuten lang lachen“, sagt Juana Estrada Huamán. Sie ist Verteidigerin im Fußballteam von Churubamba, einem kleinen Andendorf. Jeden Tag spielt sie auf 3.850 Meter Höhe gemeinsam mit zwei Dutzend weiterer Bäuerinnen Fußball. Kicken ist für sie Spaß, Spannung und auch Flucht vor ihrem Alltag aus Feldarbeit, Viehzucht, Haushalt und Kinderversorgung. 360° - GEO Reportage begleitet Juana Estrada Huamán und ihre Mannschaft während einer Reihe turbulenter Spiele.\nIn Churubamba gibt es keinen Strom, kaum fließendes Wasser. Nicht einmal eine Busverbindung führt in das kleine Dorf. Der nächste Ort ist eine Stunde Fußmarsch entfernt. Dorthin laufen die Frauen nur, um hin und wieder ihre Produkte auf dem Markt zu verkaufen - oder um Fußball zu spielen! Sie kennen weder Beckham noch Ballack oder Zidane. Auch, dass im Jahr 2006 eine Fußball-Weltmeisterschaft ausgetragen wird, weiß in Churubamba niemand. Wichtig ist für die Frauen vor allem, wie es ihren Tieren, ihrem Land und ihrer Familie geht. Und es ist wichtig, wie das nächste Spiel ausgeht.\nDiesen Sonntag trifft das Frauenteam aus Churubamba auf Manco, ein Dorf auf der anderen Seite des Berges, gegen das sie noch nie gespielt haben. Die Stimmung an und auf dem Spielfeld brodelt, als ginge es um den Weltmeistertitel. Am Ende geht Churubamba als Sieger vom Platz. Die Prämie: ein Dutzend Meerschweinchen - Cuy, wie sie hier genannt werden. Kross gebraten sind sie eines der Nationalgerichte Perus.\nIm Spiel darauf gibt es keinen Grund zum Jubeln: Churubamba verliert gegen Huilloc, und damit auch den Siegpreis - diesmal sind es Hühner. Damit wird das nächste Spiel für Churubamba umso wichtiger. Ausgerechnet diese Partie gegen das Dorf Andahuaylillas wird nicht, wie sonst üblich, auf einem einfachen Feld ausgetragen, sondern im Stadion der Kreisstadt Urcos. Churubambas Verteidigerin Juana ist nervös - auch wenn ihre Mannschaft heute nicht zum ersten Mal in einem richtigen Stadion spielt. Schließlich sind sie im Jahr zuvor sogar Meister des Fulbito Andino geworden. Der Bürgermeister von Andahuaylillas und seine Frau hatten Mitte der 1990er Jahre diese Meisterschaft ins Leben gerufen und richten auch die aktuellen Spiele aus. Juana und ihr Team haben Andahuaylillas also viel zu verdanken - schenken werden sie ihnen auf dem Rasen trotzdem nichts.",
           "director": "Carmen Butta",
           "air_date": "2006-05-27",
@@ -4252,6 +4334,11 @@
           "episode_no": 7,
           "title": "Chicagos Stahlmänner - Abriss und Wiederaufbau eines Hochofens",
           "title_fr": "Les Métallos de Chicago",
+          "location_wikidata": "Q1297",
+          "coordinates": [
+            41.85003,
+            -87.65005
+          ],
           "description": "In Chicago, südlich des Michigansees, ragt der größte Hochofen der USA auf. Offensichtlich sind seine Tage gezählt: Es wird höchste Zeit, ihn zu demontieren und neu aufzubauen. Er stellt inzwischen eine Gefahr dar und hat im Jahr 2005 zwei weitere Opfer gefordert. 1.400 amerikanische Arbeiter wollen in knapp fünf Monaten - in einer absoluten Rekordzeit - den Wiederaufbau des Ofens bewältigen. Dies soll unter der Führung und mit dem technischen Know-how einer belgischen Ingenieursfirma geschehen, die die größten Kräne der Welt einsetzt. Diese können bis zu 1.200 Tonnen heben.\nEisen und Stahl stellen den wirtschaftlichen Motor der gesamten Region der Großen Seen entlang der Grenze zwischen den USA und Kanada dar. Gigantische Hochöfen bilden das erste Glied in der Kette der Stahlherstellung. In ihnen werden Eisenerz aus der Region und Kohle verarbeitet. Jeder Hochofen hat eine Lebensdauer von 20 bis 30 Jahren und muss dann vollständig erneuert werden. Die Reportage verfolgt die Arbeiten vom Abbau des alten Riesen bis zum Wiederaufbau des komplett am Boden vormontierten neuen Hochofens. Dieser wird millimetergenau wie ein Riesenpuzzle zusammengesetzt.\nDie Arbeitsbedingungen gleichen einem Inferno. Überall herrschen Lärm und Staub sowie unerträgliche Temperaturen. Das Thermometer zeigt gegen Ende des Sommers 38 Grad Celsius, bei Abschluss der Bauarbeiten im Winter sind es 25 Grad unter Null. Doch während der Aufbauarbeiten stehen sich zwei Welten gegenüber. Auf der einen Seite die „Unions“, amerikanische Gewerkschaften, die die Welt der Metallverarbeitung beherrschen, auf der anderen Seite die europäischen Ingenieure, die dafür sorgen müssen, dass der äußerst eng gesteckte Zeitplan eingehalten wird. Jeder Tag, an dem der Hochofen nicht in Betrieb ist, bedeutet einen Verlust von 1,5 Millionen Euro.",
           "director": "Gerd Herren",
           "air_date": "2006-07-29",
@@ -4271,6 +4358,12 @@
           "episode_no": 8,
           "title": "Die schwimmenden Dörfer der Ha Long Bucht",
           "title_fr": "Villages Flottants de la Baie d'Along",
+          "continent": "Asien",
+          "location_wikidata": "Q190128",
+          "coordinates": [
+            20.9,
+            107.2
+          ],
           "description": "Die Ha Long Bucht im Norden Vietnams wirkt im Februar besonders mystisch. Zwischen Nebelschwaden ragen große, bizarr geformte Felsen aus dem Wasser. Einer Legende nach hat hier einst ein riesiger Drache die Menschen gegen Eindringlinge verteidigt. Im Kampf zerteilte er mit seinem Schwanz das Land, das dann vom Wasser umspült wurde. Es entstanden etwa 2000 kleine Inseln - fast alle unbewohnt und unbewohnbar. Trotzdem haben sich hier rund 1600 Menschen angesiedelt. Sie leben in kleinen schwimmenden Dörfern auf und von dem Wasser des Meeres. 360° - Die GEO-Reportage begleitet ein junges Paar, das sich in der Bucht ein eigenes Heim und eine Existenz aufbauen möchte.\nWenn drei Stunden vom Festland entfernt, mitten in der Ha Long Bucht abends die Lichter angehen, dröhnt ein ohrenbetäubendes Knattern über das Wasser - Strom gibt es hier nur über Diesel-Generatoren. Bei Einbruch der Dunkelheit schalten viele Menschen des schwimmenden Dorfes Vong Vieng den Fernseher an. Dann sehen sie Dinge, die aus einer für sie fremden Welt stammen: Städte mit Straßen und Autos oder Tiere wie Schweine und Kühe. Ein kurzer, abendlicher Ausflug in ungewohnte Welten. Dann gewinnt das vertraute Plätschern der Wellen, die gegen Häuser und Boote schlagen, wieder die Oberhand. Die Generatoren werden abgeschaltet, denn Diesel ist teuer - wie alles, was nicht aus dem Wasser kommt. Das bedeutet oft Entbehrungen. Aber die Menschen hängen an ihrer Art zu leben: „Wenn ich auf dem Festland wohnen würde, dann würde ich das Fischen sehr vermissen. Ich könnte ohne das nicht leben.“ sagt Khuyen Van Vu. Den Beruf des Fischers hat er von seinem Vater gelernt und auch sein einundzwanzigjähriger Sohn Luu lebt vom Fischfang. Gerade hat Luu für sich, seine Frau Mai und seinen kleinen Sohn ein eigenes Haus gekauft. Doch die Freude ist getrübt: der Fang war in letzter Zeit schlecht und die letzte Rate ist noch nicht bezahlt. Wenn die kleine Familie nicht schnell zu mehr Geld kommt, werden sie das neue Heim wieder verlieren. Mai hat bereits einen Plan, sie will mit einem Bambusboot auf dem Wasser Waren verkaufen und so zusätzliches Geld verdienen. Das wird allerdings nicht leicht: Sie hat noch kein Startkapital und ein stabiles Boot und Waren gibt es nur auf dem für sie fremden und weit entfernten Festland.",
           "director": "Joanna Michna",
           "air_date": "2006-07-29",
@@ -4289,6 +4382,12 @@
           "episode_no": 9,
           "title": "Von Männern und Mustangs",
           "title_fr": "Des Mustangs et des Hommes",
+          "continent": "Amerika",
+          "location_wikidata": "Q8040325",
+          "coordinates": [
+            41.111453818098795,
+            -104.83151081527686
+          ],
           "description": "Mustang-Pferde stehen in den USA für Freiheit und Abenteuer. Mit wehenden Mähnen und fliegenden Hufen galoppieren sie über die Prärien des amerikanischen Westen. Werden die Herden zu groß, müssen einige der Wildpferde eingefangen, zugeritten und verkauft werden. Keine leichte Aufgabe! Mike Buchanan ist Mitarbeiter der Vollzugsanstalt „Honor Farm“ in Wyoming. Bereits vor über 30 Jahren erkannte er Parallelen im Freiheitsdrang seiner Häftlinge und der Mustangs. Er brachte die Pferde in das Gefängnis, damit sich Mensch und Tier gegenseitig zähmen. 360° - Die GEO-Reportage begleitet wilde Pferde und wilde Kerle auf ihrem gemeinsamen Weg aus dem Gefängnis.\nDas amerikanische Gefängnis „Honor Farm“ liegt abgeschieden in den Weiten Wyomings. Auf einem farmartigen Gelände verbringen etwa 220 männliche Gefangene den Rest ihrer oft langjährigen Haftstrafen. Mike Buchanan ist mit Pferden aufgewachsen, konnte ihr Verhalten studieren - ebenso wie das der Häftlinge in seiner Zeit als Gefängniswärter. Er erkannte, dass Wildpferde sehr hilfreich sein können bei der Rehabilitierung und Resozialisierung von Häftlingen. Während die Rangordnung der Häftlinge oft durch Gewalt bestimmt wird, verlangen Wildpferde Ehrlichkeit, Souveränität und Geduld. Für Mustangs und Häftlinge entwickelte er ein Vier-Stufen-Ausbildungsprogramm. Schritt für Schritt werden die Pferde allmählich an den Kontakt zu Menschen gewöhnt. Dabei entstehen zwischen den misstrauischen, harten Männer und ihren eigenwilligen Schützlingen oft innige Beziehungen. Umso schwerer fällt dann der Abschied. Zwei Mal im Jahr führen die Häftlinge ihre Pferde auf einer großen Auktion zum Verkauf vor. Der 26-jährige Travis Wagner wird das erste Mal dabei sein. Er war alkoholkrank und sitzt wegen Scheckbetrugs. Seit Monaten übt er mit einem schönen braunen Mustang, den er Chaos nennt. Der Name ist Programm, erst nach und nach finden Mann und Pferd zusammen. Travis hat seine Mutter zur Auktion eingeladen, damit sie wieder stolz auf ihn sein kann - und vielleicht ersteigert sie ja seinen Chaos. Mithäftling Steve Jordan hat das Wildpferdprogramm bereits erfolgreich absolviert. Zehn Jahre war Steve wegen eines Sexualdeliktes hinter Gittern. Als so genannter „Leadman“ ist er mittlerweile Bindeglied zwischen den 22 freiwilligen Teilnehmern des Programms und dessen Leiter Mike Buchanan. Es sind seine letzten Tage im Gefängnis, er will das letzte Mal seine Mithäftlinge zu einer erfolgreichen Auktion führen. Nach der Wildpferdeauktion wird Steve Jordan das Gefängnis verlassen - er hofft zusammen mit seinem Lieblingspferd Choco.",
           "director": "Jörg Daniel Hissen",
           "air_date": "2006-08-26",
@@ -4307,6 +4406,11 @@
           "episode_no": 10,
           "title": "Tasmanien: Wächterin im Paradies",
           "title_fr": "La Gardienne du Paradis de Tasmanie",
+          "location_wikidata": "Q2364946",
+          "coordinates": [
+            -41.2,
+            145.28
+          ],
           "description": "Tasmanien ist ein einzigartiges Naturparadies: Wilde Strände, dichter Regenwald, zerklüftete Bergketten mit leuchtend blauen Seen und alpine Moorlandschaften vereinen sich auf engstem Raum. Auf der Insel leben Wombats, Schnabeligel und Tasmanische Teufel. Ein Drittel der gesamten Fläche steht unter Naturschutz. Die Rangerin Lalani Hyatt patrouilliert täglich in ihrem Jeep durch das Arthur-Pieman-Schutzgebiet, bekämpft Waldbrände, stellt Umweltsünder oder rettet verwaiste Jungtiere. Für die Vierzigjährige ein Traumjob in einer Traumlandschaft - der allerdings in Gefahr ist. Denn die Provinzregierung plant eine Neubesetzung ihrer Stelle. 360° - die GEO-Reportage begleitet die Rangerin beim täglichen Einsatz für die Natur und bei ihrem Kampf gegen Buschfeuer und Behördenwillkür.\nTarkine, eine wilde, ursprüngliche Gegend im Nordwesten Tasmaniens, ist das Einsatzgebiet der Rangerin Lalani Hyatt. Hinter der zerklüfteten Küste erstreckt sich ein Meer aus Sanddünen, in deren Schutz Süßwasserlagunen liegen. Im Landesinneren wechseln sich weite Heidenlandschaften mit dichtem Wald ab, der von 90 Meter hohen Eukalyptusriesen dominiert wird. Lalani Hyatt ist täglich im Arthur-Piemann-Schutzgebiet unterwegs - im Jeep, zu Fuß, per Flugzeug und Boot. Nicht immer kann sie die Naturschönheiten nur genießen. Hin und wieder muss sie sich mit wilden Motorrad-Rockern auseinandersetzen, die das Gebiet zu ihrem Cross-Gelände auserkoren haben. Außerdem fühlen sich einheimische Fischer und Landwirte von der umtriebigen Beamtin in ihrer täglichen Arbeit gegängelt. Hyatts größte Herausforderung sind jedoch die Waldbrände, die jeden Sommer ganze Landstriche in Tarkine vernichten. Um ihr Aufflackern von vornherein zu verhindern, muss Lalani Hyatt oft weit draußen im Wald oder am Strand in einer Hütte übernachten. Zeiten, in denen der Job recht einsam sein kann. Viel Zeit für eine Familie bleibt da nicht. Von Freunden wird Lalani Hyatt daher auch die „einsame Rangerin“ genannt. Sie selbst kann sich hingegen nicht vorstellen, jemals etwas anderes zu machen.\nDoch ihr Traumjob ist bedroht: Die Provinzregierung von Tasmanien plant eine Neustrukturierung der Umweltbehörde. Im schlimmsten Falle würde das bedeuten, dass Lalani Hyatts ihren Posten an einen Nachfolger verliert. Die Entscheidung, ob sie auch in Zukunft die Wächterin in diesem Paradies sein darf, soll in wenigen Tagen gefällt werden.",
           "director": "Holger Riedel",
           "air_date": "2006-09-09",
@@ -4326,6 +4430,12 @@
           "title": "Die Teebahn von Darjeeling",
           "title_fr": "Le Train du Darjeeling",
           "alias": "Darjeeling-Bahn",
+          "continent": "Asien",
+          "location_wikidata": "Q1134759",
+          "coordinates": [
+            27.03,
+            88.16
+          ],
           "description": "Seit über hundert Jahren kämpft sich eine Dampflok unermüdlich die steilen Berge des Himalaja hinauf. Ihr ist es zu verdanken, dass der berühmte Darjeeling-Tee einst seinen Weg aus den Bergen ins Tal und damit in die ganze Welt fand. Die Engländer bauten die technisch einmalige Himalaja-Bahn im Jahre 1881 - damals war sie die erste und einzige Verbindung zu der abgelegenen Bergregion Darjeeling. Seit einigen Jahren gibt es jedoch eine Straße, die für die Dampflok große Konkurrenz bedeutet. 360° - Die GEO-Reportage begleitet den Heizer Chandra Mangar Bamadur und zeigt, was für eine große Rolle eine kleine Bahn im Leben der Menschen spielen kann.\n„Wenn die Familie sich nicht um mich kümmert, kann ich meine Arbeit nicht machen. Sie gibt mir Kraft. Und genauso muss ich die Lok behandeln - ihr Wasser geben und Kohle schaufeln. Wir sind die Familie für die Lok.“ Wie schon sein Vater und Großvater arbeitet Chandra Mangar Bamadur auf der ältesten Lok Darjeelings, der „Himalayan Bird“. Er hat sich vom einfachen Laufburschen zum Heizer hochgearbeitet und ist heute als Assistenzfahrer einer der wichtigsten Männer auf der Lok. Den Fahrplan nicht einhalten zu können, ist Chandra Mangars größte Sorge. Das würde das Argument verstärken, dass seine Dampflok, die „Himalayan Bird“ unzuverlässig und veraltet ist. Und genau das ist es, was er und seine Kollegen verhindern möchten. In der letzten Zeit scheint die „Himalayan Bird“ jedoch erhebliche Probleme beim Aufstieg zu haben. Sie verliert ständig Kühlwasser und verspätet sich durch die vielen Nachfüll-Stationen. Chandra Mangar und seine Kollegen müssen nun beweisen, dass sie in der Lage sind, die Lok zu reparieren. Andernfalls könnte das das endgültige Aus für die alte Lok bedeuten.\nDenn nicht nur die neue Straße zwischen der Bergstadt Darjeeling und dem Tal machen den Dampfloks Konkurrenz, sondern auch Dieselloks, die heute schon einen großen Teil der Züge schneller und billiger ziehen. Aber das, was die Einwohner mit dem „Toy Train“, ihrer Spielzeugbahn verbinden, ist mit wirtschaftlichen Rechnungen nicht aufzuwiegen. Die Bahn ist aus dem täglichen Leben nicht wegzudenken: Sie bringt die Kinder zur Schule und ist in vielen Familien seit Generationen Hauptarbeitsplatz. Außerdem finanziert die Bahngesellschaft Schulen und die medizinische Versorgung. Seit mehr als einem Jahrhundert bestimmt die Dampflok das Leben der Menschen.\nDer Bau der Bahnlinie im Jahr 1881 war eine technische Höchstleistung: ein fast 90 Kilometer langes Schienennetz, das sich in über 900 Kurven nach oben windet. Nur diesem wagemutigen Bau ist es zu verdanken, dass Darjeeling heute eines der berühmtesten Teeanbaugebieten der Welt ist: Die alte Bahnstrecke gehört heute zum UNESCO Weltkulturerbe.",
           "director": "Tilo Hoffmann",
           "air_date": "2006-09-16",
@@ -4345,6 +4455,12 @@
           "episode_no": 12,
           "title": "Die Millionen-Dollar-Hirsche",
           "title_fr": "Les Cerfs aux Bois de Velours",
+          "continent": "Asien",
+          "location_wikidata": "Q5955",
+          "coordinates": [
+            49,
+            89
+          ],
           "description": "Am Fuße des Altai-Gebirge, im Grenzgebiet zwischen Russland, China und der Mongolei, leben die Maral-Hirsche. Einmalig macht sie neben der Größe ihr majestätisches Geweih, das in der fernöstlichen Medizin ein beliebtes Heilmittel ist. Sibirische Wildhüter treiben die Tiere deshalb in den Sommermonaten zusammen und lotsen sie in einen Pferch, um ihnen ihren Kopfschmuck abzusägen. Die Treibjagd erfordert von den Männern einen enormen Kraftaufwand, denn Marale sind sehr widerspenstig. Trotz ihrer Erfahrung und Geübtheit gelingt eine reibungslose Geweihernte den Wildhütern nicht immer. Blitzschnell kann aus der Jagd eine blutige Angelegenheit werden. 360° - Die GEO-Reportage begleitet den Wildhüter Sasha Tcherepanov und seine Brüder bei dem Spektakel.\n„Das letzte Mal haben wir ungefähr 500 Marale inspiziert. Davon hab ich 60 ausgewählt, die wir dann beschnitten haben“, sagt Sasha Tcherepanov, der gemeinsam mit seinen Brüdern je Saison 2500 Hirsche unter die Lupe nehmen muss. Es ist Juni im Hirschrevier Sauzar, und den Wildhütern bleibt für die Geweihernte nicht mehr viel Zeit. Denn jetzt ist der Kopfschmuck der Marale zwar ausgewachsen, jedoch noch mit Basthaaren überzogen und durchblutet - ein Zustand, in dem die Geweihe am wertvollsten sind. Mehrere Hundert Dollar kostet ein Geweih. Für die Abnehmer, die hauptsächlich aus Südkorea anreisen, ist der Preis kein Problem. Schließlich finden russische Bastgeweihe in ihrem Heimatland einen reißenden Absatz: In hauchdünne Scheiben geschnitten, verwenden sie Ärzte und Krankhäuser häufig als Teebeimischung.\nEine schmerzlindernde Wirkung versprechen sich Sasha und seine Brüder außerdem von dem Blutsud, der nach dem Kochen der Maral-Geweihe übrig bleibt. Seit kurzem bieten sie Hirschblut-Bäder auf ihrer Farm an, an denen vor allem Geschäftsmänner aus Russland großen Gefallen finden. Sie schwören auf die aphrodisierende Wirkung, die der Saft der Edelgeweihe in sich birgt.\nNur noch wenige Wochen trennen die Wildhüter vom ersten Kälteeinbruch und ihrer Rückkehr ins Dorf. An manchen Wintertagen kann die Temperatur im sibirischen Dreiländereck auf bis zu minus 55 Grad sinken. Bis dahin müssen alle Geweihe geerntet sein. Die Tcherepanov-Brüder stehen unter Zeitdruck. Über 400 Marale haben sie zusammen gepfercht, als die Herde plötzlich ausbricht. Auf den Zäunen suchen die Männer Zuflucht, um den Hufen der Hirsche zu entkommen.",
           "director": "Klaus Reisinger, Frederique Lengaigne",
           "air_date": "2006-10-07",
@@ -4363,6 +4479,11 @@
           "episode_no": 13,
           "title": "Die Dächer von Kairo",
           "title_fr": "Sur les Toits du Caire",
+          "location_wikidata": "Q85",
+          "coordinates": [
+            30.044444444444444,
+            31.235833333333332
+          ],
           "description": "Wer durch die Straßen von Kairo läuft, sieht nur die Hälfte der Stadt. Auf den Dächern der Metropole existiert eine Parallelwelt, die so bunt und vielschichtig ist, wie die Stadt am Boden. Kairos ältere Hochhäuser sind nämlich so konzipiert, dass deren Bewohner ihren Bediensteten kleine Hütten auf dem Dach errichten lassen können. Wo immer das geschah, holten die Hausangestellten ihre Familien und Bekannten nach, und es entstand eine Stadt über der Stadt. Mit Menschen, die dort oben kochen, essen und schlafen. Einige halten sogar Ziegen oder Kaninchen. 360° - Die GEO-Reportage begleitet die Siedler auf dem Dach und zeigt das Leben in luftiger Höhe.\nKinder treiben lachend eine Ziege vor sich her, vorbei an kleinen Wellblechhütten und frisch gewaschener Wäsche. Was aussieht, wie eine Szene aus dem Alltag eines Dorfes, spielt sich in, oder besser gesagt über der Millionenmetropole Kairo ab. In einer Dachsiedlung, wie es sie auf fast jedem der alten Wohnhäuser der Innenstadt gibt. Die Mutter der spielenden Kinder ist die energische Rabab. Sie ist froh, dass ihre Kinder so frei aufwachsen können, wie sie es selbst in ihrer Kindheit auf dem Land erlebt hat. Auch sonst liebt sie ihr Leben auf dem Dach: Die Ruhe und der weit reichende Blick aus der Höhe lassen die Hektik und die Gefahren des lauten, überfüllten Kairo fast vergessen. Besonders die enge Gemeinschaft der Dachbewohner will Rabab nicht missen. In der Großfamilie wird zusammen gekocht und gegessen. Die Menschen teilen ihre Sorgen, und wenn jemand Hilfe braucht, sind die anderen für ihn da. Hier findet die kinderlose Witwe genauso Halt, wie der Steuerberater. Doch wie alles, hat auch dieses Leben zwei Seiten: Die Siedlungen auf den Dächern sind nur geduldet - Mietverträge gibt es kaum. Und so schwingt ständig die Angst mit, dass das Dach von einen auf den anderen Tag geräumt wird, denn kleinere oder größere Konflikte gibt es immer. Mal beschweren sich die Hausbewohner über die schreienden Kinder auf dem Dach, mal verlangt der Hausbesitzer den teuren Kauf neuer Wassertanks. Aber da gibt es zum Glück noch Saleh: Er ist der „Bawaab“, der Hauswart und damit die Seele des Hauses. Er bewacht nicht nur den Eingang, sondern ist für alle kleineren und größeren Probleme der Hausbewohner zuständig und hat immer ein offenes Ohr für seine Dachgemeinschaft. Für viele Probleme findet er eine einfache Formel: „Keine Sorge - es wird sich schon legen. So Allah will!“ Und immerhin: Die älteste Dachbewohnerin lebt jetzt seit 41 Jahren auf den gleichen 400 Quadtratmetern über Kairo. Grund genug für Rabab, Saleh und die anderen zu hoffen, dass sich immer wieder alles zum Guten wenden wird.",
           "director": "Carmen Butta",
           "air_date": "2006-10-14",
@@ -4381,6 +4502,12 @@
           "episode_no": 14,
           "title": "Die Trommler von Burundi",
           "title_fr": "Tambours du Burundi",
+          "continent": "Afrika",
+          "location_wikidata": "Q3854",
+          "coordinates": [
+            -3.3825,
+            29.361111111111
+          ],
           "description": "Viele junge Männer haben sich in Burundi eine uralte Tradition zum Beruf gemacht: Sie sind „Batimbos“, Trommler. Ihre riesigen Trommeln tragen sie traditionell auf dem Kopf. Getrommelt wird im Halbkreis, dazu tanzen auch schon die Jüngsten in akrobatischen Choreographien. Ihre Körper sind so gelenkig, dass sie ihre Instrumente sogar während des Laufens mit dem Fuß schlagen können. In dem kleinen afrikanischen Land, das jahrelang von Bürgerkriegen und Hungersnöten heimgesucht wurde, gelten die Trommler als Botschafter des Friedens und der Hoffnung. Die Belohung für ihre Kunst ist nicht das Geld, mit dem sie kaum Miete und Essen zahlen können, sondern die Anerkennung der Bevölkerung. 360° - GEO-Reportage begleitet den Trommler Célestin Nzeyimana und seine Freunde aus der Gruppe Ruciteme zu einem großen Auftritt.\n„Es ist kein wirklich schönes Leben hier, denn es fehlt uns an allem, und es ist schwer, sich und seine Familie durchzubringen“, erzählt Célestin Nzeyimana. Zusammen mit seiner Frau lebt er in Bujumbura, der Hauptstadt Burundis, auf einer winzigen Parzelle. Mit Gelegenheitsjobs verdient er kaum einen Euro pro Tag. Doch sein richtiger Beruf ist Trommler. Dreimal pro Woche trifft er sich mit den anderen Mitgliedern seines Vereins Ruciteme zum Proben. Die junge Truppe - darunter auch der fünfjährige Reagan - verbringt viele Stunden mit dem Einstudieren ihrer Choreographien sowie Kraft- und Dehnungsübungen, um die akrobatischen Kunststücke fehlerfrei über die Bühne zu bringen. Ihre Vorstellungen sind immer ein besonderes Spektakel. Selbst bei spontanen Auftritten auf den Straßen Bujumburas versammeln sich Hunderte Menschen um die Künstler.\nNun freuen sich die Trommler von Ruciteme auf ein großes Ereignis: Am Tag der Unabhängigkeit werden sie im Flüchtlingsort Gatumba ein Konzert geben. Für diesen speziellen Anlass müssen die jungen Männer allerdings eine neue Leit-Trommel besorgen. Diese wird traditionell aus dem Holz des Umuvugangoma-Baumes hergestellt, der nur im Landesinneren wächst. Gemeinsam mit seinen Freunden macht sich Célestin auf den Weg zum Hügel der heiligen Trommeln. Hier wird der Baum frisch gefällt, sein Holz nach einem uralten Brauch ausgehöhlt und von der Rinde befreit - 100 Kilo wiegt die neue Trommel dann. Und auch sie muss auf dem Kopf transportiert werden - so befiehlt es die Tradition. Gewissenhaft halten sich die jungen Männer an die Rituale; schon in wenigen Tagen stellt sich heraus, ob sich ihre Mühen gelohnt haben. Beim Konzert in Gatumba wird sich die Leit-Trommel bewähren müssen.",
           "director": "Vincent Munié",
           "air_date": "2006-10-21",
@@ -4400,6 +4527,12 @@
           "episode_no": 15,
           "title": "Saphir-Fieber auf Madagaskar",
           "title_fr": "Les Mines de Saphir de Madagascar",
+          "continent": "Afrika",
+          "location_wikidata": "Q3108180",
+          "coordinates": [
+            -22.68,
+            45.21
+          ],
           "description": "Noch vor zehn Jahren war Ilakaka ein unbedeutendes Dorf, so wie es viele in Madagaskar gibt. An der einzigen, unbefestigten Straße reihten sich die Lehmhütten der Rinderzüchter, Fremde kamen nur selten vorbei. Heute dreht sich in Ilakaka alles um Edelsteine, die Stadt hat schätzungsweise 30.000 Einwohner und täglich werden es mehr. Seit vor acht Jahren ein Hirte im Staub einen glitzernden Saphir fand und über Nacht ein reicher Mann wurde, kommen täglich Busladungen neuer Glücksritter, in der Hoffnung, ein Stück vom Reichtum abzubekommen. 360° - GEO Reportage begleitet einen von ihnen bei seiner Suche nach dem großen Glück.\nBleiben wolle er nicht in dieser Stadt, sagt Nava Razafimaneky, und es ist ihm nicht zu verübeln: Ilakaka ist kein Ort, den sich ein Familienvater aussucht, um mit seiner schwangeren Frau und zwei Kindern ein neues Leben zu beginnen. Seit im roten Staub der Savanne vor acht Jahren Saphire gefunden wurden, erlebt das Dorf einen riesigen Boom. Anfangs kamen die Schürfer, dann Saphirhändler und Lebensmittelverkäufer, schließlich folgten Barbesitzer und Prostituierte. Zwischenzeitlich galt Ilakaka als eines der gefährlichsten Pflaster Madagaskars - bis die Regierung einen Polizeiposten eröffnete. Bis heute strömen die Glücksritter zahlreich nach Ilakaka - angezogen von den bis zu dreißig Meter tiefen Steinbrüchen, in denen jeder hofft, auf Saphire zu stoßen. Auch Nava Razafimaneky ist in der Hoffnung auf einen großen Fund gekommen. In seinem Heimatdorf lebte er als Bauer, konnte seine Familie kaum ernähren. Sein Ziel ist es, in zwei Jahren so reich zu sein, dass er sich eine Herde von fünfzig Rindern kaufen und als reicher Mann in sein Dorf zurückkehren kann. Mit der Hilfe seines Onkels Rengase findet die junge Familie eine Hütte, in der sie anfangs leben kann. Nava darf in einem alten Steinbruch sein Glück zu versuchen, nur mit einer Schaufel und seiner Muskelkraft. Doch spätestens als fremde Arbeiter ihm sein Schürfrecht streitig machen, begreift er, dass auch sein neues Leben nicht einfach wird. Nava lässt sich nicht entmutigen. Wie die meisten Männer schaufelt er Tag für Tag tonnenweise Erde um und wäscht sie im Fluss aus. Meist kommen im Sieb nur Kieselsteine zum Vorschein. Aber hin und wieder ist das ersehnte blaue Funkeln zu sehen - und dann scheint es gar nicht mehr so unwirklich, dass auch Nava seinem Traum von einer gesicherten Zukunft ein Stück näher kommt.",
           "director": "Alix François Meier",
           "air_date": "2006-11-04",
@@ -4418,6 +4551,12 @@
           "episode_no": 16,
           "title": "Auf den Spuren der Wikinger",
           "title_fr": "Sur la Route des Vikings",
+          "continent": "Europa",
+          "location_wikidata": "Q1792",
+          "coordinates": [
+            54.35,
+            18.666666666666668
+          ],
           "description": "Henryk Wolski ist begeisterter Seefahrer. Schon neun Mal ist er um den Erdball gesegelt. Zusammen mit einer siebenköpfigen Mannschaft möchte er nun in die Vergangenheit reisen und eine alte Wikingerroute neu erkunden. Ausgangspunkt der Expedition ist Polens Hafenstadt Danzig. Dort wird die „Welet“, der originalgetreue Nachbau eines Wikingerschiffs, ablegen und Kurs auf Odessa nehmen. Insgesamt beträgt die Strecke zwischen Ostsee und Schwarzem Meer 2.500 Kilometer - eine Strecke, für die die gefürchteten Seemänner aus dem Norden einst fast zwei Jahre brauchten. Wolski hingegen will sein Ziel schon in drei Monaten erreichen. 360° - Die GEO-Reportage begleitet den polnischen Kapitän und seine Mannschaft bei dem Abenteuer.\n„Dass die Wikinger durch die Ozeane der Welt gesegelt sind, verdient Respekt.“ sagt Wolski. Aber auch wie sie die Flüsse bezwangen, fasziniert ihn. Ihre Route zwischen Danzig und Odessa möchte er unter möglichst ursprünglichen Bedingungen erkunden. Immer wieder muss die Mannschaft der „Welet“ ihre Muskelkraft einsetzen - jeden Tag wird mindestens fünf Stunden gerudert, allen Schwielen und Blasen an den Händen zum Trotz. Beinahe täglich stößt die Mannschaft an ihre körperlichen Grenzen - und auf Hindernisse. So setzt das Boot immer wieder auf flachem Grund auf. Gesprungene Planken und gefährlich tief hängende Fährseile sind nur kleinere Probleme. Die erste große Herausforderung wartet bereits an der Landesgrenze zur Ukraine: In Przemysl muss das Boot über Land auf den Fluss Dnjestr übergesetzt werden. Statt nach Wikingerart Holzrollen und Zugvieh zu gebrauchen wird hierfür allerdings ein Kran eingesetzt, der es vorsichtig aus dem Wasser hebt. Eine schwierige Operation, da sich das Boot mit Wasser vollgesogen und enorm an Gewicht zugelegt hat. Doch damit nicht genug - am Grenzübergang soll Wolski auch noch eine Kaution von mehreren tausend Dollar hinterlegen, um einreisen zu dürfen. Kann er nicht zahlen, ist seine Reise hier zu Ende.",
           "director": "Malgorzata Bucka",
           "air_date": "2006-11-18",
@@ -4454,6 +4593,11 @@
           "episode_no": 18,
           "title": "Buddhas Kinder im Goldenen Dreieck",
           "title_fr": "Le Triangle d'Or et les Enfants de Bouddha",
+          "location_wikidata": "Q815470",
+          "coordinates": [
+            20.354283,
+            100.083047
+          ],
           "description": "Im wilden Norden Thailands, versteckt im dichten Dschungel, liegt das Kloster „Zum Goldenen Pferd“. Abt Phra Khru Ba Neau Chai lebt dort mit 15 Novizen, die er nach den Lehren Buddhas erzieht und in der Kampfkunst Muay Thai ausbildet. Die Heimat der Mönche ist seit Jahren Schauplatz für Drogenhandel und Kriminalität. Während früher Opium angebaut wurde, wird heute im so genannten „Goldenen Dreieck“ mit chemischen Pillen, sogenannten Yabaa-Pillen, gedealt. Der Handel mit den Drogen bringt gerade für die Bewohner der Grenzregion viele Probleme mit sich. Abt Phra Khru Ba Neau Chai bietet den jungen Mönchen und Bewohnern der umliegenden Bergdörfer eine Perspektive fernab von Drogen und Missbrauch. 360° - Die GEO-Reportage begleitet den Abt bei dieser schwierigen Mission.\nIn Windeseile galoppieren die jungen Mönche durch das Bergland im Norden von Thailand, dicht an der Grenze zu Burma und Laos. Ihre orangefarbenen Kutten leuchten im Dickicht des Dschungels. Gemeinsam mit Abt Phra Khru Ba Neau Chai reiten sie in das Dorf Hua Mae Kham. Hier wie in der gesamten Grenzregion beherrschen Sucht und Kriminalität das Leben vieler Menschen. In Hua Mae Kham treffen die Mönche auf den verwahrlosten Pumbui, einen Siebenjährigen, der im Dorf als Dieb und Lügner bekannt ist. Pumbuis Eltern können sich als Tagelöhner nicht um das Kind kümmern - der Junge gilt deshalb als leichtes Opfer für eine Karriere im Drogengeschäft. Deshalb möchte der Abt Phra Khru Ba Neau Chai den Jungen mit ins Kloster nehmen, um ihn zu einem Novizen auszubilden und damit eine Chance auf eine bessere Zukunft geben zu können. Im Kloster soll Pumbui wie alle jungen Mönche lernen, Disziplin und Verantwortung zu übernehmen. Nicht nur durch die Betreuung seines eigenen Pferdes, sondern auch durch tägliche Kraftübungen in der Kampfkunst Muay Thai. Phra Khru Ba Neau Chai war selber Nordthailands Meister in Muay Thai, bevor er sich zum Mönch weihen ließ. Ein Titel, der ihm bis in die heutige Zeit Achtung und Respekt einbringt, von seinen Novizen ebenso wie von den Dorfbewohnern der Umgebung. Neuling Pumbui fällt es zunächst schwer, sich an die strengen Rituale im Kloster zu gewöhnen. Wie viele andere Kinder plagt ihn das Heimweih. An die eiserne Disziplin und die strikte Hygiene, die der Abt seinen Novizen abverlangt, ist er nicht gewohnt. Doch dann kommt sein großer Tag, und er soll zu einem Nag, zum Anwärter auf den Novizen, geweiht werden. Dafür muss Pumbui aber bereit sein, sich dem Klosterleben unterordnen und acht Gebote befolgen, die sein Leben fortan bestimmen werden.",
           "director": "Therese Engels",
           "air_date": "2006-12-16",
@@ -10746,6 +10890,12 @@
           "episode_no": 18,
           "title": "Louisiana - Land unter bei den Shrimpfischern",
           "title_fr": "Les Derniers Pêcheurs de Crevettes de Louisiane",
+          "continent": "Amerika",
+          "location_wikidata": "Q2453647",
+          "coordinates": [
+            29.3847,
+            -90.6969
+          ],
           "description": "Es sind hartgesottene Männer - die Shrimps-Fischer aus der Sumpflandschaft am Südrand des Mississippi: Kauzige Charaktere, die mit der Wasserwelt der verwunschenen, moosbewachsenen Bayous in fast symbiotischer Gemeinschaft leben. Ihre Häuser bauen sie wegen der Überflutungen auf Stelzen und nebenbei fangen sie Nutria und Alligatoren. Heute steht der Aufwand ihres harten Jobs in keinem Verhältnis mehr zum Ertrag. Viele von ihnen haben in den letzten Jahren aufgegeben und arbeiten jetzt in der Ölindustrie. Doch eine Minderheit der kleinen Shrimper will und kann sich kein anderes Leben als auf dem Wasser vorstellen und steht jede Saison aufs Neue vor der Herausforderung des Überlebens.\nJake Billiot lebt, wo das Land im Meer versickert. Es ist die verwunschene Welt der Bayous von Südlouisiana. Welt der Indianer. Und heute eine versinkende Welt. Noch erstreckt sich das Marschland weit bis zum Golf von Mexiko - ein Wasserlabyrinth, das Tag für Tag schwindet, denn jede Stunde schlucken die Fluten eine Fläche so groß wie ein Fußballfeld. Denn das Jahrzehnte lange Bohren nach Öl und Gas sowie das Ausheben von Kanälen für den Bohrinsel-Verkehr haben das Land abgesenkt und damit immer mehr Salzwasser in die Bayous fließen lassen - die Entwässerungsadern des Marschlands. Dies führte zu einem Rückgang der Shrimpserträge. Noch bis in die 1980er Jahre belieferten die Fischer mit den Meeresfrüchten ganz USA und verdienten gutes Geld. Heute sind ihre Fangreviere durch die territorialen Streitigkeiten mit den Öl-Konzernen eingeschränkt, Billig-Importe aus Fernost sorgen für weitere Konkurrenz. Das Leben der insgesamt 45 Großfamilien, die seit Generationen von den Shrimps leben, ist massiv bedroht. Wollen sie überleben, müssen sie sich neu orientieren. So wie die Familie Chauvin, die nicht nur fischt, sondern ihre Erträge selber verarbeitet und an Restaurants verkauft. Heute steht „David Chauvin’s Seafood Company“ für die Zukunft der Shrimper Louisianas. Viele Familien sehen dies als Verrat an der Tradition. Sie versuchen lieber den Zusammenhalt untereinander zu stärken und zu unterstützen. Welcher Weg der richtige ist, wird sich erst bei den kommenden Generationen zeigen. Jake Billiot ficht das nicht mehr an. Mit seinen 72 Jahren will er zwar weiterhin auf Shrimps-Fang gehen. Was die Zukunft bringt, überlässt er aber lieber seinen Kindern. Und sie haben sich längst gegen einen Job als Shrimper zugunsten einer Arbeit in der Ölindustrie entschieden.",
           "director": "Carmen Butta",
           "air_date": "2017-10-22",

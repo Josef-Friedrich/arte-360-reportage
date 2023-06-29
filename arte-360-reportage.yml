@@ -6583,6 +6583,11 @@ seasons:
         episode_no: 1
         title: Die Mörderinnen von Targsor - Das einzige Frauengefängnis in
             Rumänien
+        continent: Europa
+        location_wikidata: Q7299945
+        coordinates:
+        - 44.889125
+        - 25.926658333333336
         description: 'Es ist das einzige Frauengefängnis in Rumänien, überbelegt
             mit 1.500 Gefangenen: Targsor bei Ploiesti. Bis zum Ende des Zweiten
             Weltkriegs gehörte das Gelände zu einem Kloster, danach wurde
@@ -6621,6 +6626,10 @@ seasons:
         season_no: 5
         episode_no: 2
         title: Das Metall aus dem Vulkan
+        location_wikidata: Q215727
+        coordinates:
+        - 45.033333333333
+        - 147.61666666667
         description: 'Die Insel Iturup liegt im Süden der Kurilen, östlich
             von Russland zwischen Kamtschatka und Japan. Der Vulkanologe Professor
             Genrikh Steinberg und sein Team können die Insel nur mit dem Hubschrauber
@@ -6660,6 +6669,10 @@ seasons:
         episode_no: 3
         title: Die Söldner der Perlen
         subtitle: Der lebensgefährliche Job
+        location_wikidata: Q606294
+        coordinates:
+        - -17.961944444444
+        - 122.23611111111
         description: 'Sie können in zehn Jahren Millionäre sein oder morgen
             von einem Tigerhai getötet werden. Die jungen australischen Perlmuschel-Taucher
             haben einen gefährlichen Job: Stundenlang suchen sie auf dem zehn
@@ -6692,12 +6705,27 @@ seasons:
         season_no: 5
         episode_no: 4
         title: Hongkongs Bambusakrobaten
-        description: Der Arbeitsplatz von Lo Tak Wah liegt irgendwo zwischen
-            Himmel und Erde. Täglich balanciert er in bis zu 300 Meter Höhe
-            auf schwankenden Gerüstkonstruktionen aus Bambus. Meister Lo ist
-            Bambusgerüstbauer in Hongkong. Er praktiziert eine über 2.000
-            Jahre alte Technik, die auch im Zeitalter der Glas- und Stahlpaläste
-            nicht aus der asiatischen Metropole wegzudenken ist.
+        location_wikidata: Q8646
+        coordinates:
+        - 22.278333333333
+        - 114.15861111111
+        description: 'Der Arbeitsplatz von Lo Tak Wah liegt zwischen Himmel
+            und Erde. Täglich balanciert er in bis zu 300 Meter Höhe über
+            dünne Planken auf schwankenden Gerüstkonstruktionen aus Bambus.
+            Meister Lo ist Bambusgerüstbauer. Er praktiziert eine über 2000
+            Jahre alte Technik, die auch im Zeitalter der Glas– und Stahlpaläste
+            nicht aus Hongkong wegzudenken ist. Die alte chinesische Tradition,
+            Baugerüste aus Bambusstangen zu montieren, ist heute fast nur
+            noch in Hongkong zu finden. Dabei ist Bambus preiswerter als Stahl,
+            leicht zu verbauen und durch seine Flexibilität sehr erdbebensicher.
+            Er wird für Reklameschilder verwendet, für den Bau von Kirchen,
+            Wohnhäusern und sogar Hochhäusern. Die Arbeit hoch über den Straßenschluchten
+            der Stadt birgt Gefahren: Regen macht die Stangen rutschig, Windböen
+            zerren an den Netzen, die die Gerüste umgeben. Wer an einem solchen
+            Tag nicht peinlich genau seine Sicherheitsleine befestigt, riskiert
+            leicht einen tödlichen Unfall. 360° – Die GEO–Reportage begleitet
+            Meister Lo bei seiner Arbeit auf den schwindelerregend hohen Bambusgerüsten
+            der asiatischen Metropole Hongkong.'
         director: Anja Werner
         air_date: '2003-01-09'
         duration: 26
@@ -6712,6 +6740,10 @@ seasons:
         season_no: 5
         episode_no: 5
         title: Mission Nordkorea
+        location_wikidata: Q423
+        coordinates:
+        - 40
+        - 127
         description: 'Mit seinen 1,90 Metern Körpergröße überragt der deutsche
             Nothilfespezialist Christoph Bürk die Koreaner um zwei Köpfe.
             Doch nicht nur deshalb fällt er auf, wenn er durch Städte und
@@ -6740,6 +6772,10 @@ seasons:
         season_no: 5
         episode_no: 6
         title: Radios gegen Kalaschnikows
+        location_wikidata: Q1032
+        coordinates:
+        - 17
+        - 10
         description: 'Es dauert nur Sekunden und ein ganzer Berg von Waffen
             steht in Flammen. 500 Gewehre brennen lichterloh, nachdem sie
             von ihren Besitzern abgegeben wurden - eingetauscht gegen Radios!
@@ -6769,6 +6805,10 @@ seasons:
         episode_no: 7
         title: Die Hightech-Oase
         alias: Die Hightech-Oase - Auf der größten Milchfarm der Welt
+        location_wikidata: Q20018610
+        coordinates:
+        - 24.207676
+        - 47.444979
         description: 'Es ist keine Fata Morgana: Mitten in der Al-Kharj-Wüste
             in Saudi-Arabien ragen 15 Meter hohe Kühltürme der Molkerei Al-Safi
             aus dem Sand. Eine Hightech-Oase mit Kühen aus deutscher Zucht.
@@ -6803,6 +6843,10 @@ seasons:
         season_no: 5
         episode_no: 8
         title: Videofabrik Nigeria
+        location_wikidata: Q1033
+        coordinates:
+        - 9
+        - 8
         description: 'Die Schauspieler spielen dilettantisch, die Technik
             funktioniert miserabel, und die Kulisse besteht häufig aus Sperrmüll.
             Kabat Esosa Egbon reicht das. Er ist einer der jungen Filmproduzenten,
@@ -8945,6 +8989,11 @@ seasons:
         episode_no: 15
         title: Traumberuf Schäfer
         title_fr: Pyrénées, à l'École des Bergers
+        continent: Europa
+        location_wikidata: Q184392
+        coordinates:
+        - 42.965277777778
+        - 1.6069444444444
         description: 'Seit etwa 7000 Jahren ziehen Schäfer mit ihren Herden
             hoch zu den Gipfeln der Pyrenäen. Wie sie die Tiere führen und
             wohlbehalten über den Sommer bringen, bekamen die meisten von
@@ -8999,12 +9048,62 @@ seasons:
         episode_no: 16
         title: Die Kinder des Vater Nikolai
         title_fr: Les Petits Choristes de l'Oural
-        description: Der russisch-orthodoxe Priester Nikolai Stremski und
+        location_wikidata: Q2224562
+        coordinates:
+        - 51.794166666667
+        - 56.352222222222
+        description: 'Der russisch-orthodoxe Priester Nikolai Stremski und
             seine Frau Galina haben seit 1992 mehr als 60 Kinder adoptiert,
             die alle aus zerrütteten Familien stammen. Im Laufe der Zeit ist
             aus der Großfamilie ein Chor hervorgegangen, der auch international
             Gastspiele gibt. Das gemeinsame Singen, so Nikolai Stremski, stärkt
             das Zusammengehörigkeitsgefühl der Kinder.
+
+            Am Fuße des Südural lebt eine ungewöhnliche Familie mit 60 Kindern,
+            einem Priester als Adoptiv-Vater und einer gemeinsamen Leidenschaft:
+            dem Chorsingen
+
+            In Russland, am Fuße des Südurals, lebt die Familie des Nikolai
+            Stremski. Zu ihr zählen 60 Kinder, die aus den unterschiedlichsten
+            Winkeln des Landes stammen. Alle tragen einen gemeinsamen Familiennamen
+            - Nikolai Stremski hat sie alle adoptiert! Für jedes seiner Kinder
+            hat der Priester Vater Nikolai sich bewusst entschieden, sie aus
+            Geburtskliniken, Krankenhäusern oder Heimen zu sich geholt. Das
+            Zusammengehörigkeitsgefühl wird durch ein gemeinsames Hobby gestärkt
+            - das Singen im Chor. "360° - Die GEO-Reportage" zeigt, wie das
+            Zusammenleben dieser ungewöhnlichen russischen Großfamilie funktioniert.
+
+            Die Familie Stremski lebt in dem kleinen Dorf Saraktasch bei Orenburg
+            im Südural, an der Grenze zu Sibirien. Die Großfamilie hat eine
+            eigene ungewöhnliche Geschichte: Der russisch-orthodoxe Priester
+            Nikolai Stremski und seine Ehefrau Galina begannen 1992 elternlose
+            Kinder zu adoptieren. Eigentlich sollten es nur drei oder vier
+            sein, inzwischen ist ihre Zahl jedoch auf 60 angestiegen, "das
+            Leben hat es so gebracht" sagt Galina. Die Kinder kommen aus zerbrochenen
+            Familien, wurden direkt nach der Geburt zur Adoption freigegeben,
+            eines gar auf einer Müllhalde abgelegt. Russische Behörden gehen
+            davon aus, dass es im Land nach dem Zusammenbruch der Sowjetunion
+            Anfang der 1990er Jahre derzeit über zwei Millionen obdachlose
+            Kinder gibt. Nur wenige, knapp 100.000, haben einen Platz in den
+            staatlichen Kinderheimen gefunden. Und diesen Einrichtungen fehlt
+            es an Geld und ausgebildeten Erziehern. Viele sind nicht in der
+            Lage, den Kindern ausreichend Zuneigung zu geben und ihnen einen
+            Weg ins Leben zu ebnen. Nur zehn Prozent der Heimkinder schaffen
+            es, sich eine Existenz aufzubauen. Viele landen letztlich in den
+            Jugendstrafanstalten.
+
+            Vater Nikolai versucht, seinen Adoptivkindern dieses Schicksal
+            zu ersparen - obwohl das bei der großen Kinderzahl nicht immer
+            einfach ist. Er sucht die Zukunft Russlands in seiner vorkommunistischen
+            Vergangenheit und glaubt, dass nur die Religion die Werte wieder
+            zu bringen vermag, die Russland im letzten Jahrhundert verloren
+            gingen. Damit der Haushalt der Stremskis funktioniert, kümmern
+            sich die Großen um die Kleinen und jedes Kind übernimmt Aufgaben
+            und Verantwortungen: Ilja repariert die Fahrräder, Lidja melkt
+            die Kühe und Denis erntet zusammen mit seinen Brüdern die Kartoffeln.
+            Am Abend findet die Probe des Familienchors statt, denn die Stremskis
+            haben demnächst in einem nahe gelegenen Ort einen Auftritt. Wie
+            jedes Jahr zu Schulbeginn gibt der Chor ein Konzert in einer Jugendhaftanstalt.'
         director: Wolfgang Mertin
         air_date: '2005-12-24'
         duration: 52
@@ -9013,6 +9112,7 @@ seasons:
         fernsehserien_episode_id: 339662
         thetvdb_season_episode: S07E20
         thetvdb_episode_id: 4642165
+        geo_url: https://www.geo.de/geo-tv/9347-rtkl-die-kinder-des-vater-nikolai
 -   'no': 8
     year: 2006
     episodes:
@@ -9081,6 +9181,11 @@ seasons:
         episode_no: 2
         title: Polen - Ärger im Revier
         title_fr: La Pologne des Braconniers
+        continent: Europa
+        location_wikidata: Q236083
+        coordinates:
+        - 54.1
+        - 22.933333333333334
         description: 'Die Region von Suwalki, nordöstlich der polnischen Masuren,
             ist eine der wenigen Gegenden Europas mit noch intakter Natur:
             In den Wäldern leben Biber, Hirsche und Wildschweine, in den Seen
@@ -9137,6 +9242,11 @@ seasons:
         episode_no: 3
         title: Lust auf Liebe in Lisdoonvarna
         title_fr: Irlande, Célibataire Cherche Amoureuse
+        continent: Europa
+        location_wikidata: Q1005113
+        coordinates:
+        - 53.0303
+        - -9.2894
         description: 'An der Westküste Irlands, im County Clare, liegt der
             Ort Lisdoonvarna. Er ist berühmt für seine heilenden Quellen und
             seine urigen Kneipen - vor allem aber als Treffpunkt einsamer
@@ -9195,6 +9305,11 @@ seasons:
         episode_no: 4
         title: Kung-Fu - Chinas neue Kämpferinnen
         title_fr: Chine - Les Filles Aussi Font du Kung-fu
+        continent: Asien
+        location_wikidata: Q877609
+        coordinates:
+        - 34.46031
+        - 113.02803
         description: 'Seit vier Jahren besucht die 18-jährige Guo Jia die
             einzige reine Mädchenschule für Kung Fu in China: ein Internat
             für 70 Schülerinnen, einsam gelegen in einem zerklüfteten Tal
@@ -9250,6 +9365,11 @@ seasons:
         episode_no: 5
         title: Highway durch die Arktis
         title_fr: Vivre au-Delà de l'Arctique
+        continent: Amerika
+        location_wikidata: Q719547
+        coordinates:
+        - 69.4428
+        - -133.031
         description: 'Wer unbedingt mit dem Auto nach Tuktoyaktuk will, muss
             Geduld haben - falls er Pech hat, neun Monate lang. Das Inuit-Dorf
             an der Küste von Kanadas Beaufort Sea ist nur wenige Winterwochen
@@ -9302,6 +9422,10 @@ seasons:
         episode_no: 6
         title: Churubamba - Frauen am Ball
         title_fr: Footballeuses des Andes
+        location_wikidata: Q432238
+        coordinates:
+        - -9.82578
+        - -76.13401
         description: 'Peru - eine stille Bergregion fernab der großen Städte.
             Sanft schmiegen sich die Wolken an die malerischen Felsen, ein
             Lama kaut träge vor sich hin bis ein Aufschrei jäh die Stille
@@ -9362,6 +9486,10 @@ seasons:
         episode_no: 7
         title: Chicagos Stahlmänner - Abriss und Wiederaufbau eines Hochofens
         title_fr: Les Métallos de Chicago
+        location_wikidata: Q1297
+        coordinates:
+        - 41.85003
+        - -87.65005
         description: 'In Chicago, südlich des Michigansees, ragt der größte
             Hochofen der USA auf. Offensichtlich sind seine Tage gezählt:
             Es wird höchste Zeit, ihn zu demontieren und neu aufzubauen. Er
@@ -9410,6 +9538,11 @@ seasons:
         episode_no: 8
         title: Die schwimmenden Dörfer der Ha Long Bucht
         title_fr: Villages Flottants de la Baie d'Along
+        continent: Asien
+        location_wikidata: Q190128
+        coordinates:
+        - 20.9
+        - 107.2
         description: 'Die Ha Long Bucht im Norden Vietnams wirkt im Februar
             besonders mystisch. Zwischen Nebelschwaden ragen große, bizarr
             geformte Felsen aus dem Wasser. Einer Legende nach hat hier einst
@@ -9462,6 +9595,11 @@ seasons:
         episode_no: 9
         title: Von Männern und Mustangs
         title_fr: Des Mustangs et des Hommes
+        continent: Amerika
+        location_wikidata: Q8040325
+        coordinates:
+        - 41.111453818098795
+        - -104.83151081527686
         description: 'Mustang-Pferde stehen in den USA für Freiheit und Abenteuer.
             Mit wehenden Mähnen und fliegenden Hufen galoppieren sie über
             die Prärien des amerikanischen Westen. Werden die Herden zu groß,
@@ -9519,6 +9657,10 @@ seasons:
         episode_no: 10
         title: 'Tasmanien: Wächterin im Paradies'
         title_fr: La Gardienne du Paradis de Tasmanie
+        location_wikidata: Q2364946
+        coordinates:
+        - -41.2
+        - 145.28
         description: 'Tasmanien ist ein einzigartiges Naturparadies: Wilde
             Strände, dichter Regenwald, zerklüftete Bergketten mit leuchtend
             blauen Seen und alpine Moorlandschaften vereinen sich auf engstem
@@ -9576,6 +9718,11 @@ seasons:
         title: Die Teebahn von Darjeeling
         title_fr: Le Train du Darjeeling
         alias: Darjeeling-Bahn
+        continent: Asien
+        location_wikidata: Q1134759
+        coordinates:
+        - 27.03
+        - 88.16
         description: 'Seit über hundert Jahren kämpft sich eine Dampflok unermüdlich
             die steilen Berge des Himalaja hinauf. Ihr ist es zu verdanken,
             dass der berühmte Darjeeling-Tee einst seinen Weg aus den Bergen
@@ -9638,6 +9785,11 @@ seasons:
         episode_no: 12
         title: Die Millionen-Dollar-Hirsche
         title_fr: Les Cerfs aux Bois de Velours
+        continent: Asien
+        location_wikidata: Q5955
+        coordinates:
+        - 49
+        - 89
         description: 'Am Fuße des Altai-Gebirge, im Grenzgebiet zwischen Russland,
             China und der Mongolei, leben die Maral-Hirsche. Einmalig macht
             sie neben der Größe ihr majestätisches Geweih, das in der fernöstlichen
@@ -9694,6 +9846,10 @@ seasons:
         episode_no: 13
         title: Die Dächer von Kairo
         title_fr: Sur les Toits du Caire
+        location_wikidata: Q85
+        coordinates:
+        - 30.044444444444444
+        - 31.235833333333332
         description: 'Wer durch die Straßen von Kairo läuft, sieht nur die
             Hälfte der Stadt. Auf den Dächern der Metropole existiert eine
             Parallelwelt, die so bunt und vielschichtig ist, wie die Stadt
@@ -9753,6 +9909,11 @@ seasons:
         episode_no: 14
         title: Die Trommler von Burundi
         title_fr: Tambours du Burundi
+        continent: Afrika
+        location_wikidata: Q3854
+        coordinates:
+        - -3.3825
+        - 29.361111111111
         description: 'Viele junge Männer haben sich in Burundi eine uralte
             Tradition zum Beruf gemacht: Sie sind „Batimbos“, Trommler. Ihre
             riesigen Trommeln tragen sie traditionell auf dem Kopf. Getrommelt
@@ -9811,6 +9972,11 @@ seasons:
         episode_no: 15
         title: Saphir-Fieber auf Madagaskar
         title_fr: Les Mines de Saphir de Madagascar
+        continent: Afrika
+        location_wikidata: Q3108180
+        coordinates:
+        - -22.68
+        - 45.21
         description: 'Noch vor zehn Jahren war Ilakaka ein unbedeutendes Dorf,
             so wie es viele in Madagaskar gibt. An der einzigen, unbefestigten
             Straße reihten sich die Lehmhütten der Rinderzüchter, Fremde kamen
@@ -9865,6 +10031,11 @@ seasons:
         episode_no: 16
         title: Auf den Spuren der Wikinger
         title_fr: Sur la Route des Vikings
+        continent: Europa
+        location_wikidata: Q1792
+        coordinates:
+        - 54.35
+        - 18.666666666666668
         description: 'Henryk Wolski ist begeisterter Seefahrer. Schon neun
             Mal ist er um den Erdball gesegelt. Zusammen mit einer siebenköpfigen
             Mannschaft möchte er nun in die Vergangenheit reisen und eine
@@ -9968,6 +10139,10 @@ seasons:
         episode_no: 18
         title: Buddhas Kinder im Goldenen Dreieck
         title_fr: Le Triangle d'Or et les Enfants de Bouddha
+        location_wikidata: Q815470
+        coordinates:
+        - 20.354283
+        - 100.083047
         description: 'Im wilden Norden Thailands, versteckt im dichten Dschungel,
             liegt das Kloster „Zum Goldenen Pferd“. Abt Phra Khru Ba Neau
             Chai lebt dort mit 15 Novizen, die er nach den Lehren Buddhas
@@ -25350,6 +25525,11 @@ seasons:
         episode_no: 18
         title: Louisiana - Land unter bei den Shrimpfischern
         title_fr: Les Derniers Pêcheurs de Crevettes de Louisiane
+        continent: Amerika
+        location_wikidata: Q2453647
+        coordinates:
+        - 29.3847
+        - -90.6969
         description: 'Es sind hartgesottene Männer - die Shrimps-Fischer aus
             der Sumpflandschaft am Südrand des Mississippi: Kauzige Charaktere,
             die mit der Wasserwelt der verwunschenen, moosbewachsenen Bayous
