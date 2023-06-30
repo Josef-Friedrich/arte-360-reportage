@@ -25694,6 +25694,11 @@ seasons:
         episode_no: 20
         title: Java - Zauberhaftes Schattentheater
         title_fr: Java, la Magie du Théâtre d’Ombres
+        continent: Asien
+        location_wikidata: Q3757
+        coordinates:
+        - -7.4916666666667
+        - 110.00444444444
         description: 'Bis heute wird auf der Insel Java Wayang Kulit, indonesisches
             Schattentheater, aufgeführt. Nach wie vor erfreuen sich die Jahrhunderte
             alten Geschichten von Göttern, Kriegern und Prinzessinnen großer
@@ -25740,6 +25745,10 @@ seasons:
         episode_no: 21
         title: Frisch vermählt in Estland
         title_fr: Estonie, les Secrets d’un Mariage Réussi
+        location_wikidata: Q3457185
+        coordinates:
+        - 59.121666666667
+        - 25.238055555556
         description: 'Wenn in Estland der Sommer einzieht, beginnt auch die
             Hochzeitssaison, denn kaum jemand will im Winter heiraten. Und
             die Esten lassen sich so einiges einfallen, um eine Hochzeit zu
@@ -25787,6 +25796,11 @@ seasons:
         episode_no: 22
         title: Die Geier sind zurück
         title_fr: Les Vautours Sont de Retour
+        continent: Europa
+        location_wikidata: Q687057
+        coordinates:
+        - 43.737777777778
+        - 6.3638888888889
         description: 'Über den Schluchten und Gebirgszügen Südfrankreichs
             ziehen seit einigen Jahren wieder Geier ihre Runden: Gänsegeier,
             Mönchsgeier, Bartgeier. Und das nur dank des unermüdlichen Engagements
@@ -26218,6 +26232,11 @@ seasons:
         episode_no: 4
         title: 'Schottland: Die Seenotretter der Orkney Islands'
         title_fr: Au Nord de l’Écosse, les Sauveteurs en Mer
+        continent: Europa
+        location_wikidata: Q100166
+        coordinates:
+        - 59
+        - -3
         description: 'Die Inselgruppe der Orkneys liegt nördlich des schottischen
             Festlands. Das Meer mit seinem Fischreichtum ist nicht nur wichtige
             wirtschaftliche Ressource. Es kann bei stürmischem Wetter auch
@@ -26474,6 +26493,11 @@ seasons:
         episode_no: 9
         title: Der Hundeflüsterer der Queen
         title_fr: L’Anglais Qui Murmure à l'Oreille des Chiens
+        continent: Europa
+        location_wikidata: Q42646
+        coordinates:
+        - 51.4838
+        - -0.60483
         description: 'Windsor, Ascot, London - Das royale Dreieck Großbritanniens
             ist das Revier von Tiertherapeut Roger Mugford. Seine Spezialität
             sind Hunde. Er kann denken wie ein Vierbeiner und so ist es kein
@@ -28697,6 +28721,11 @@ seasons:
         episode_no: 21
         title: 'Island: Von strickenden Männern und Pullovern'
         title_fr: Islande — Le Tricot, une Affaire d'Hommes
+        continent: Europa
+        location_wikidata: Q1764
+        coordinates:
+        - 64.1475
+        - -21.935
         description: 'Das karge Land am Polarkreis, wo Menschen und Tiere
             ganz und gar ungerührt den Elementen wie Wind und Kälte trotzen
             - das ist Island. In den langen und kalten Wintern ziehen sich
@@ -29012,6 +29041,10 @@ seasons:
         title: Die Herren des Lavendels
         title_fr: Les Seigneurs de le Lavande
         continent: Europa
+        location_wikidata: Q1009417
+        coordinates:
+        - 44.135555555556
+        - 5.4783333333333
         description: 'Es sind diese Landschaften, die Besucher seit jeher
             in ihren Bann ziehen. Postkarten-Motive, fast zu schön um wahr
             zu sein. Frankreichs berühmte Lavendel-Felder. Jahr für Jahr strömen
@@ -29265,6 +29298,10 @@ seasons:
         title: Argentinien, von wilden Pferden und sanfter Hand
         title_fr: Oscar ou l'Art d'Apprivoiser les Chevaux
         continent: Amerika
+        location_wikidata: Q414
+        coordinates:
+        - -34
+        - -64
         description: 'Für seine ungewöhnlichen Methoden der Pferdezähmung
             ist der argentinische Pferdeflüsterer Oscar Scarpati in seinem
             Land und der ganzen Welt bekannt. Regelmäßig ist er mit seinen
@@ -29362,6 +29399,10 @@ seasons:
         title: Huskys, am Start!
         title_fr: Huskies, top départ!
         continent: Europa
+        location_wikidata: Q50632
+        coordinates:
+        - 70.11907
+        - 27.58779
         description: '1.200 km durch Eis und Schnee - mit einem Schlitten
             und 14 Huskies. Zum sechsten Mal nimmt Marit Beate Kasin am nördlichsten
             Hundeschlittenrennen der Welt teil. Unterstützt wird die Hundeschlittenführerin
@@ -29628,6 +29669,10 @@ seasons:
         title: Der letzte Rheinfischer
         title_fr: Le dernier pêcheur du rhin
         continent: Europa
+        location_wikidata: Q1142
+        coordinates:
+        - 48.5
+        - 7.5
         description: 'Der Rhein im Herzen Europas ist von jeher eine Lebensader
             für die Menschen in den durch ihn geprägten Landschaften. Im Elsass,
             zwischen Frankreich und Deutschland, fließt der alte Rhein. Einst
@@ -30869,6 +30914,10 @@ seasons:
         title: Der Traum vom Gold - Tirols Überfliegerinnen
         title_fr: Le saut à ski féminin prend son envol
         continent: Europa
+        location_wikidata: Q687219
+        coordinates:
+        - 47.276388888889
+        - 10.983333333333
         description: 'Frauenpower auf der Schanze: Skispringen ist keine reine
             Männerdomäne mehr. Bei ihren Wettkämpfen, inzwischen auch bei
             den Olympischen Spielen, geben die nervenstarken Athletinnen alles.
@@ -30931,6 +30980,10 @@ seasons:
         title: 'Schweiz: Gletscherflieger - Faszination in Weiß'
         title_fr: Suisse, en vol avec des pilotes des glaciers
         continent: Europa
+        location_wikidata: Q676064
+        coordinates:
+        - 46.611388888889
+        - 8.1863888888889
         description: 'In den Tälern und Bergen der Schweiz retten sie jeden
             Tag Leben: die Piloten, Ärzte und Sanitäter der Rega, der Schweizer
             Rettungsflugwacht. Die Männer und Frauen haben einen komplexen
@@ -33078,6 +33131,10 @@ seasons:
         episode_no: 2
         title: Der Bergkristall - Schatz in den Schweizer Alpen
         continent: Europa
+        location_wikidata: Q65681
+        coordinates:
+        - 46.620555555556
+        - 8.57
         description: 'Mit Spitzhacke, Hammer und Meißel bewaffnet, geht es
             bei „ARTE 360° Reportage“ hoch in die Berge auf Schatzsuche. Das
             Objekt der Begierde: der Bergkristall. Es handelt sich hierbei
@@ -33124,6 +33181,10 @@ seasons:
         title: Maine - Hummer oder Wale?
         title_fr: Pêcher le homard ou protéger les baleines?
         continent: Amerika
+        location_wikidata: Q724
+        coordinates:
+        - 45.5
+        - -69
         description: 'Der Hummer - hier in Maine etablierte er sich über Jahrzehnte
             hinweg als populäre Delikatesse und Markenzeichen des US-Bundesstaates.
             Doch die Tage der traditionellen Hummerfischerei könnten bald

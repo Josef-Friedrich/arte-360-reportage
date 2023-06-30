@@ -2020,7 +2020,7 @@
 | Géorgie: le Culte des Ancêtres en Svaténie
 |-
 |20
-|
+|🟡
 | Java, la Magie du Théâtre d’Ombres
 |-
 |21
@@ -2028,7 +2028,7 @@
 | Estonie, les Secrets d’un Mariage Réussi
 |-
 |22
-|
+|⚪️
 | Les Vautours Sont de Retour
 |-
 |23
@@ -2067,7 +2067,7 @@
 | Le Vietnam au Chevet des Pangolins
 |-
 |4
-|
+|⚪️
 | Au Nord de l’Écosse, les Sauveteurs en Mer
 |-
 |5
@@ -2087,7 +2087,7 @@
 | Le Caroubier, l’Or Noir de la Crète
 |-
 |9
-|
+|⚪️
 | L’Anglais Qui Murmure à l'Oreille des Chiens
 |-
 |10
@@ -2262,7 +2262,7 @@
 | La Harpie Féroce, le Plus Puissant Rapace du Monde
 |-
 |21
-|
+|⚪️
 | Islande — Le Tricot, une Affaire d'Hommes
 |-
 |22
