@@ -7478,6 +7478,11 @@ seasons:
         episode_no: 8
         title: Die Bogenschützin von Bhutan
         title_fr: L'Himalaya — La Jeune Fille à l'Arc
+        continent: Asien
+        location_wikidata: Q7280250
+        coordinates:
+        - 27.366666666667
+        - 91.683333333333
         description: 'Im Königreich Bhutan ist Bogenschießen eine traditionelle
             Männerdomäne. Umso erstaunlicher, dass es ausgerechnet eine junge
             Frau bis an die Weltspitze schaffen könnte: Tshering Choden gilt
@@ -7541,6 +7546,11 @@ seasons:
         episode_no: 9
         title: Überleben am Manila Express
         title_fr: Manille, la Vie le Long du Train
+        continent: Asien
+        location_wikidata: Q1461
+        coordinates:
+        - 14.595833333333333
+        - 120.97722222222222
         description: 'Der „Manila Express“ hat seine Gleise nicht für sich
             allein. Menschen wie die Fischverkäuferin Editha Jayko leben,
             wohnen und arbeiten hier. Direkt auf und an den Gleisen haben
@@ -7595,6 +7605,11 @@ seasons:
         episode_no: 10
         title: Das Mysterium der sibirischen Mumie
         title_fr: Le Mystère de la Momie de Sibérie
+        continent: Asien
+        location_wikidata: Q1676082
+        coordinates:
+        - 51.7591014
+        - 107.203238
         description: 'Es begann 1927 in einem buddhistischen Kloster in Sibirien:
             Kurz vor seinem Tod schrieb der Chambo Lama Itigilow sein Vermächtnis.
             Er befahl den Mönchen, ihn in 30 Jahren wieder aus seinem Grab
@@ -7646,6 +7661,11 @@ seasons:
         episode_no: 11
         title: Razzia im Regenwald
         title_fr: Razzia Dans la Forêt Amazonienne
+        continent: Amerika
+        location_wikidata: Q40236
+        coordinates:
+        - -3.1
+        - -60.016666666667
         description: 'José de Souza schlendert über einen Straßenmarkt in
             Rio de Janeiro. Vor ihm preisen die Händler ihre Waren an - exotische
             Früchte, Haushaltsgegenstände oder Geflügel. Doch Souza hat etwas
@@ -7697,6 +7717,11 @@ seasons:
         episode_no: 12
         title: In acht Meilen um die Welt
         title_fr: New-York, le tour de monde en 13 kms
+        continent: Amerika
+        location_wikidata: Q7366413
+        coordinates:
+        - 40.7499
+        - -73.8625
         description: 'Die Roosevelt Avenue führt mitten durch das New Yorker
             Einwandererviertel Queens. Menschen aus etwa 130 verschiedenen
             Nationen leben hier offiziell - doch keine Behörde kann sagen,
@@ -7756,6 +7781,11 @@ seasons:
         title: Alphadi und die Farben der Wüste
         title_fr: Alphadi, le prince de la haute couture
         alias: Alphadi - Modedesigner aus der Wüste
+        continent: Afrika
+        location_wikidata: Q3659
+        coordinates:
+        - 12.11
+        - 15.05
         description: 'Er wurde als Sohn eines Tuareg-Prinzenpaares in Timbuktu
             geboren, wuchs mit acht Brüdern und Schwestern im Niger auf -
             und ist heute einer der erfolgreichsten Modeschöpfer Afrikas:
@@ -7811,6 +7841,11 @@ seasons:
         episode_no: 14
         title: Die Verwandlungskünstler von Dakar
         title_fr: Dakar, les Rois de la Récup
+        continent: Afrika
+        location_wikidata: Q3718
+        coordinates:
+        - 14.731944444444
+        - -17.457222222222
         description: 'Dakar, die Hauptstadt Senegals: In der westafrikanischen
             Millionen-Metropole zu überleben, ist für viele Menschen eine
             Frage der Improvisation und der Kreativität. In vielen Vierteln
@@ -7865,6 +7900,11 @@ seasons:
         episode_no: 15
         title: Kalifornien auf die harte Tour
         title_fr: Tourisme de choc en californie
+        continent: Amerika
+        location_wikidata: Q488125
+        coordinates:
+        - 36.677777777778
+        - -121.65555555556
         description: 'Kalifornien, Anfang August: Wo andere in der Sonne braten,
             suchen 15 Urlauber das wahre Leben - die Realität hinter dem kalifornischen
             Traum von Sonne, Sand und Meer. In einer Reality Tour entdecken
@@ -7921,6 +7961,10 @@ seasons:
         title: Der Polarflieger - Ein Pilot in Sibirien
         title_fr: Le Cercle Polaire en Hélico
         alias: Der Polarflieger
+        location_wikidata: Q1191358
+        coordinates:
+        - 55.2
+        - 81.6
         description: 'Sibirien - Land der Einsamkeit und Trennungen. Neun
             lange Monate hat der Winter das Land im Griff, unterbrochen nur
             von einem kurzen heißen Sommer. Eis und Schnee und die im Frühjahr
@@ -8046,6 +8090,11 @@ seasons:
         episode_no: 18
         title: Die versunkenen Flugzeuge
         title_fr: avions portès disparus
+        continent: Europa
+        location_wikidata: Q2003469
+        coordinates:
+        - 53.80027778
+        - 17.25305556
         description: 'Holger Steinle ist ein Sammler: Im Auftrag des Deutschen
             Technikmuseums Berlin reist er um die Welt, um historische Flugzeuge
             aufzuspüren, zu bergen und zu restaurieren. Besonders interessiert
@@ -8097,6 +8146,11 @@ seasons:
         episode_no: 19
         title: Ein Traum von Schokolade
         title_fr: 100% chocolat
+        continent: Amerika
+        location_wikidata: Q153511
+        coordinates:
+        - 10.672222222222
+        - -63.240277777778
         description: 'Unter den Indianern Südamerikas war Kakao schon lange
             vor der Eroberung durch die Europäer ein beliebtes Nahrungs- und
             Genussmittel. Den Mayas galt er sogar als Trank der Götter. Sie

@@ -673,35 +673,35 @@
 | Le Parlement des Enfants du
 |-
 |8
-|
+|🟡
 | L'Himalaya — La Jeune Fille à l'Arc
 |-
 |9
-|
+|🟡
 | Manille, la Vie le Long du Train
 |-
 |10
-|
+|🟡
 | Le Mystère de la Momie de Sibérie
 |-
 |11
-|
+|🔴
 | Razzia Dans la Forêt Amazonienne
 |-
 |12
-|
+|🔴
 | New-York, le tour de monde en 13 kms
 |-
 |13
-|
+|⚫️
 | Alphadi, le prince de la haute couture
 |-
 |14
-|
+|⚫️
 | Dakar, les Rois de la Récup
 |-
 |15
-|
+|🔴
 | Tourisme de choc en californie
 |-
 |16
@@ -713,11 +713,11 @@
 | La Montagne Sacrée du Daghestan
 |-
 |18
-|
+|⚪️
 | avions portès disparus
 |-
 |19
-|
+|🔴
 | 100% chocolat
 |}
 
