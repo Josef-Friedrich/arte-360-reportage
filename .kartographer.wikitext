@@ -1,0 +1,6 @@
+<mapframe latitude="48.856667" longitude="2.351667" lang="de" zoom="1" width="full" height="400">
+{
+  "type": "FeatureCollection",
+  "features": []
+}
+</mapframe>

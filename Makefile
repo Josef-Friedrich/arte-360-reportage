@@ -18,6 +18,9 @@ dvd:
 json:
 	$(SCRIPT) --json
 
+kartographer:
+	$(SCRIPT) --kartographer
+
 leaflet:
 	$(SCRIPT) --leaflet
 

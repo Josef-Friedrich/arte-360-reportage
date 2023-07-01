@@ -1104,6 +1104,69 @@ class TvShow:
             f"{EXPORT_FILENAME}_wiki_de_DVD.wikitext", Wiki.unordered_list(dvd_entries)
         )
 
+
+
+    def generate_kartographer(self) -> None:
+        """
+        https://www.mediawiki.org/wiki/Help:Extension:Kartographer
+
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-symbol": "-number",
+                "marker-color": "302060",
+                "title": "A Title",
+                "description": "A description"
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.41816520690917,
+                    37.79097260220947
+                ]
+            }
+        }
+        """
+        features: list[typing.Any] = []
+        for episode in self.episodes:
+            if episode.coordinates:
+                feature: dict[str, typing.Any] = {
+                    "type": "Feature",
+                    "properties": {
+                        # "marker-symbol": "circle", # https://www.mediawiki.org/wiki/Help:Extension:Kartographer/Icons
+                        "marker-color": episode.continent_color,
+                        "marker-size": "small",
+                        "title": episode.title,
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [episode.coordinates[1], episode.coordinates[0]],
+                    },
+                }
+                if episode.youtube_url:
+                    feature["properties"]["description"] = episode.youtube_url
+                features.append(feature)
+        json_dump: str = Utils.dump_json(features)
+        template: str = Utils.read_text_file(".kartographer.wikitext")
+        template = template.replace("\"features\": []", f"\"features\": {json_dump}" )
+        Utils.write_text_file(f"{EXPORT_FILENAME}_wiki_kartographer.wikitext", template)
+
+    def generate_leaflet(self) -> None:
+        marker: list[typing.Any] = []
+        for episode in self.episodes:
+            if episode.coordinates:
+                marker_data = {
+                    "coordinates": episode.coordinates,
+                    "popup": episode.title,
+                    "color": episode.continent_color,
+                }
+                marker.append(marker_data)
+        json_dump: str = Utils.dump_json(marker)
+        template: str = Utils.read_text_file(".leaflet.html")
+        template = template.replace("const markers = []", f"const markers = {json_dump}")
+        Utils.write_text_file("karte.html", template)
+
     def generate_summary_texts(self, inline: bool = False) -> None:
         descriptions: list[str] = []
 
@@ -1511,20 +1574,7 @@ def scrape() -> None:
         tv_show.export_to_yaml()
 
 
-def generate_leaflet() -> None:
-    marker: list[typing.Any] = []
-    for episode in tv_show.episodes:
-        if episode.coordinates:
-            marker_data = {
-                "coordinates": episode.coordinates,
-                "popup": episode.title,
-                "color": episode.continent_color,
-            }
-            marker.append(marker_data)
-    json_dump: str = Utils.dump_json(marker)
-    template: str = Utils.read_text_file(".leaflet.html")
-    template = template.replace("const markers = []", f"const markers = {json_dump}")
-    Utils.write_text_file("karte.html", template)
+
 
 
 def generate_readme() -> None:
@@ -1633,6 +1683,7 @@ def get_argument_parser() -> argparse.ArgumentParser:
     parser.add_argument("-D", "--directors", action="store_true")
     parser.add_argument("-d", "--dvd", action="store_true")
     parser.add_argument("-j", "--json", action="store_true")
+    parser.add_argument("-k", "--kartographer", action="store_true")
     parser.add_argument("-l", "--leaflet", action="store_true")
     parser.add_argument("-r", "--readme", action="store_true")
     parser.add_argument("-s", "--scrape", action="store_true")
@@ -1651,7 +1702,8 @@ def main() -> None:
         tv_show.generate_summary_texts(True)
         tv_show.generate_wikitext_dvd()
         tv_show.export_to_json()
-        generate_leaflet()
+        tv_show.generate_kartographer()
+        tv_show.generate_leaflet()
         generate_readme()
         tv_show.generate_wikitext("de")
         tv_show.generate_wikitext("fr")
@@ -1671,8 +1723,11 @@ def main() -> None:
     if args.json:
         tv_show.export_to_json()
 
+    if args.kartographer:
+        tv_show.generate_kartographer()
+
     if args.leaflet:
-        generate_leaflet()
+        tv_show.generate_leaflet()
 
     if args.readme:
         generate_readme()
