@@ -14,11 +14,11 @@
 | Titre inconnu
 |-
 |3
-|
+|🔴
 | Titre inconnu
 |-
 |4
-|
+|🔴
 | Titre inconnu
 |-
 |5
@@ -102,7 +102,7 @@
 | Titre inconnu
 |-
 |25
-|
+|🔵
 | Titre inconnu
 |-
 |26
@@ -173,7 +173,7 @@
 !width="87%"|Titre français
 |-
 |1
-|
+|⚪️
 | Titre inconnu
 |-
 |2
@@ -241,7 +241,7 @@
 | Titre inconnu
 |-
 |18
-|
+|⚪️
 | Titre inconnu
 |-
 |19
@@ -293,7 +293,7 @@
 | Titre inconnu
 |-
 |31
-|
+|⚪️
 | Titre inconnu
 |-
 |32
@@ -447,7 +447,7 @@
 | Titre inconnu
 |-
 |2
-|
+|🔴
 | Titre inconnu
 |-
 |3
@@ -479,7 +479,7 @@
 | Titre inconnu
 |-
 |10
-|
+|🟡
 | Titre inconnu
 |-
 |11

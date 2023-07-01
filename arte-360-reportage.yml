@@ -23,6 +23,10 @@ seasons:
         episode_no: 1
         title: Beirut - die Milliarden-Dollar-Utopie
         topic: Traum-Städte
+        location_wikidata: Q3820
+        coordinates:
+        - 33.886944444444
+        - 35.513055555556
         description: '15 Jahre Bürgerkrieg hatten von Beirut, dem „Paris des
             Orients“, nur noch Trümmer übrig gelassen. Aber seit einigen Jahren
             entstehen in der Ruinenlandschaft täglich neue Marmorfassaden.
@@ -71,6 +75,10 @@ seasons:
         episode_no: 2
         title: Chandigarh - Leben im Beton
         topic: Traum-Städte
+        location_wikidata: Q43433
+        coordinates:
+        - 30.735277777778
+        - 76.791111111111
         description: 'Chandigarh - die Stadt, die 1948 aus dem Nichts erbaut
             wurde. Ein politisches Manifest für das neue, unabhängige Indien,
             dessen Strukturen sich von der Agrargesellschaft zur modernen,
@@ -126,6 +134,11 @@ seasons:
         episode_no: 3
         title: Brasilia - Metropole vom Reißbrett
         topic: Traum-Städte
+        continent: Amerika
+        location_wikidata: Q2844
+        coordinates:
+        - -15.793888888889
+        - -47.882777777778
         description: 'Wie ein Magnet zog die Stadt bei ihrer Gründung 1960
             die verschiedenartigsten Menschen an, die alle mit der gleichen
             Erwartung kamen: Sie wollten in einer Stadt leben, in der es keine
@@ -182,6 +195,11 @@ seasons:
         episode_no: 4
         title: Celebration - Leben in Harmonie
         topic: Traum-Städte
+        continent: Amerika
+        location_wikidata: Q1001696
+        coordinates:
+        - 28.32
+        - -81.540277777778
         description: 'Das Leben ist ein „Jubelfest“: Celebration - der Name
             der Stadt ist Programm. Hier schafft der Unterhaltungskonzern
             Disney seit 1995 Realität nach eigenem Drehbuch. Zwei Meister
@@ -359,6 +377,7 @@ seasons:
         episode_no: 7
         title: Die neue Kunst des Kinderkriegens
         topic: Weibs-Bilder
+        location_wikidata: xxx
         description: 'Die Pille brachte den Frauen die erste sexuelle Revolution.
             Eine zweite Revolution steht vor der Türe: Macht die Reproduktionsmedizin
             in Zukunft Frauen für die Geburt überflüssig? Haben Sexualität
@@ -415,6 +434,7 @@ seasons:
         episode_no: 8
         title: Der kleine Unterschied im Kopf
         topic: Weibs-Bilder
+        location_wikidata: xxx
         description: 'Frauen sind weniger aggressiv und haben ein schlechteres
             räumliches Orientierungsvermögen als Männer. Ist das ein Vorurteil,
             allgemeine Erfahrung, oder läßt sich dieser Geschlechterunterschied
@@ -701,6 +721,7 @@ seasons:
         episode_no: 13
         title: Copyright Natur
         topic: Vorbild Natur
+        location_wikidata: xxx
         description: 'Was hat ein Haifisch mit einem Airbus zu tun? Auf den
             ersten Blick nicht allzu viel - aber der Haifisch steht Modell
             bei der Konstruktion von Flugzeug-Oberflächen: Lange hatte man
@@ -743,6 +764,7 @@ seasons:
         episode_no: 14
         title: Mensch Roboter!
         topic: Vorbild Natur
+        location_wikidata: xxx
         description: 'Wenn Roboter-Forscher ans Werk gehen, bedienen sie sich
             bei den Vorbildern aus der Natur - vor allem beim Menschen. Die
             Wissenschaftler wollen genau wissen, wie Lebewesen hören, fühlen
@@ -783,6 +805,7 @@ seasons:
         episode_no: 15
         title: ABC des Universums
         topic: Vorbild Natur
+        location_wikidata: xxx
         description: 'Jedes Lebewesen ist ein Universum en miniature, das
             den gleichen Formgebungs-Gesetzen gehorcht wie die gesamte Welt
             - diese Idee wird unter Naturwissenschaftlern weltweit immer populärer.
@@ -825,6 +848,7 @@ seasons:
         episode_no: 16
         title: Die Erfindung der Wirklichkeit
         topic: Vorbild Natur
+        location_wikidata: xxx
         description: 'Ein Wunschtraum für so manchen Mediziner ist wahr geworden:
             Bevor das Skalpell den Patienten berührt, weiß der Arzt bereits
             en detail, wie das Organ des Patienten aussieht - die Computersimulation
@@ -963,6 +987,7 @@ seasons:
         episode_no: 19
         title: Das Maß der Schönheit
         topic: Schönheit
+        location_wikidata: xxx
         description: 'Schönheit entsteht im Auge des Betrachters - so das
             Sprichwort. Danach müsste Schönheit für jeden Menschen etwas anderes
             bedeuten. Dennoch gelten weltweit beispielsweise symmetrische
@@ -1004,6 +1029,7 @@ seasons:
         episode_no: 20
         title: Die andere Seite der Schönheit
         topic: Schönheit
+        location_wikidata: xxx
         description: 'Viele Menschen finden sich zu groß oder zu klein, sind
             mit ihrer Haarfarbe nicht zufrieden oder finden ihre Nase zu groß.
             Neidvoll betrachten sie die unerreichbar perfekten Models, die
@@ -1099,6 +1125,7 @@ seasons:
         episode_no: 22
         title: Musik macht klug
         topic: Intelligenz
+        location_wikidata: xxx
         description: 'Meditation mit Mozart - so beginnt mitten in einem der
             ärmsten und gefährlichsten Viertel von Los Angeles für die Kinder
             der zweiten Klasse der Musikunterricht: „Es fühlt sich an, als
@@ -1193,6 +1220,7 @@ seasons:
         episode_no: 24
         title: Künstliche Intelligenz
         topic: Intelligenz
+        location_wikidata: xxx
         description: 'Wenn Emo traurig oder aufgeregt ist, sieht man ihm das
             an - an den Kurven auf seinem Bildschirm: Emo ist ein Computerprogramm,
             die Schöpfung des Bamberger Psychologen Dieter Dörner. Der Computer
@@ -1236,6 +1264,11 @@ seasons:
         episode_no: 25
         title: Der Kaninchen-Krieg
         topic: Irren ist menschlich
+        continent: Ozeanien und Pole
+        location_wikidata: Q3114
+        coordinates:
+        - -35.293055555556
+        - 149.12694444444
         description: 'Hierzulande bekannt als flauschiges Haustier, werden
             Kaninchen in Australien gefürchtet. Ein historischer Irrtum bescherte
             dem 5. Kontinent eine Kaninchenplage mit überdimensionalen Ausmaßen.
@@ -1278,6 +1311,10 @@ seasons:
         episode_no: 26
         title: Countdown ins Desaster
         topic: Irren ist menschlich
+        location_wikidata: Q23548
+        coordinates:
+        - 38.883079
+        - -77.01628
         description: '1990 war ein bedeutendes Jahr für die NASA. Nach 20
             Jahren Forschung und Investitionen von  3,6 Milliarden Mark wurde
             das Hubble-Weltraum-Teleskop ins All befördert. Das Teleskop sollte
@@ -1321,6 +1358,7 @@ seasons:
         episode_no: 27
         title: Liebe und andere Katastrophen
         topic: Irren ist menschlich
+        location_wikidata: xxx
         description: 'Die Hochzeitsglocken läuten. Für viele Menschen ist
             das auch heute noch der schönste Augenblick ihres Lebens. Doch
             fast die Hälfte aller Ehen hält nicht, was sie verspricht. Manchmal
@@ -1366,6 +1404,7 @@ seasons:
         episode_no: 28
         title: Verkehrte Sicherheit
         topic: Irren ist menschlich
+        location_wikidata: xxx
         description: 'Das Auto - unser liebstes Kind. Nicht zufällig hat diese
             technische Erfindung im Zeitalter der Individualisten einen enormen
             Siegeszug erlebt. Doch jeden Tag fordert unser Bedürfnis mobil
@@ -1411,6 +1450,7 @@ seasons:
         episode_no: 29
         title: Die Meister des Glücks
         topic: Die Suche nach dem Glück
+        location_wikidata: xxx
         description: 'Glück gehabt, sagt der Volksmund, wenn wir einem Unheil
             knapp entronnen sind. Doch das Glück, das wir uns erträumen ist
             ein anderes, ein beständigeres. Gianni Conte fand dieses Glück
@@ -1462,6 +1502,7 @@ seasons:
         episode_no: 30
         title: Die Macht des Lachens
         topic: Die Suche nach dem Glück
+        location_wikidata: xxx
         description: 'In unserer Zeit gehört Stress zu den häufigsten Todesursachen.
             Ein indischer Arzt hat eine Methode gefunden, mit der man Stress
             abbauen und angeblich sogar Krebs bekämpfen kann. Für ihn ist
@@ -1505,6 +1546,7 @@ seasons:
         episode_no: 31
         title: Chemie der Traurigkeit
         topic: Die Suche nach dem Glück
+        location_wikidata: xxx
         description: 'Depression ist eine Volkskrankheit: jeder fünfte Mensch
             erleidet einmal in seinem Leben eine schwere und länger anhaltende
             Depression. Aber nur bei jedem zweiten Depressiven wird die Krankheit
@@ -1549,6 +1591,7 @@ seasons:
         episode_no: 32
         title: Insel der Glücklichsten
         topic: Die Suche nach dem Glück
+        location_wikidata: xxx
         description: 'Gibt es ein Paradies auf Erden? Diese Frage beschäftigt
             die Wissenschaft seit geraumer Zeit. Ein niederländischer Forscher
             hat sich auf die Suche nach dem Ort mit den glücklichsten Menschen
@@ -1745,6 +1788,7 @@ seasons:
         episode_no: 36
         title: Lichtkunst - Kunstlicht
         topic: Universum des Lichts
+        location_wikidata: xxx
         description: 'Als Edison im vorigen Jahrhundert die Glühbirne marktreif
             machte, ahnte er nicht, welche Veränderungen das künstliche Licht
             bewirken würde. Es machte die Nacht zum Tag.
@@ -1841,6 +1885,7 @@ seasons:
         episode_no: 38
         title: Mythos Mutterliebe
         topic: Im Namen der Liebe
+        location_wikidata: xxx
         description: 'Immer wieder gibt es Mütter, die ein Problem haben,
             ihre Kinder zu lieben. Eine Gruppe von Wissenschaftlern ist diesem
             Rätsel auf der Spur.
@@ -1888,6 +1933,7 @@ seasons:
         episode_no: 39
         title: Angst macht verführerisch
         topic: Im Namen der Liebe
+        location_wikidata: xxx
         description: 'Liebe und Furcht - zwei Emotionen, die sich gegenseitig
             ausschließen - so sollte man meinen. Doch Psychologen und Anthropologen
             fanden heraus, dass ein Erdbeben nicht nur unsere Umwelt, sondern
@@ -1932,6 +1978,7 @@ seasons:
         episode_no: 40
         title: Menü der Zärtlichkeit
         topic: Im Namen der Liebe
+        location_wikidata: xxx
         description: 'Seit Menschengedenken ist Essen mit Liebe und Lust eng
             verknüpft. Die Liste der Dinge, denen eine aphrodisierende Wirkung
             nachgesagt wird, ist schier endlos. Wissenschaftler ergründen
@@ -1979,6 +2026,11 @@ seasons:
         episode_no: 1
         title: Ernstfall Erdbeben
         topic: Naturgewalten
+        continent: Europa
+        location_wikidata: Q586
+        coordinates:
+        - 50.733888888889
+        - 7.0997222222222
         description: 'Ein Anruf um halb sechs Uhr morgens: „Im Westen der
             Türkei gab es heute Nacht ein starkes Erdbeben - du musst sofort
             kommen.“ Überall in Deutschland werden die freiwilligen Helfer
@@ -2075,6 +2127,7 @@ seasons:
         episode_no: 3
         title: Operation Wolkenbruch
         topic: Naturgewalten
+        location_wikidata: xxx
         description: 'Seit Jahrtausenden träumen die Menschen davon, die den
             Regen kontrollieren zu können. Mit den unterschiedlichsten Methoden
             versuchen Menschen auf der ganzen Welt, den Niederschlag zu beeinflussen.
@@ -2219,6 +2272,7 @@ seasons:
         episode_no: 6
         title: Schach - Krieg auf 64 Feldern
         topic: Spiele des Lebens
+        location_wikidata: xxx
         description: 'Das ursprünglich in Indien erfundene Kriegsspiel „Tschaturanga“
             hat unter dem Namen „Schach“ nicht nur ganz Deutschland erobert,
             sondern ist beliebt in aller Welt. Heute wird Schach auch als
@@ -2265,6 +2319,7 @@ seasons:
         episode_no: 7
         title: Mehr als nur ein Kinderspiel
         topic: Spiele des Lebens
+        location_wikidata: xxx
         description: 'Eine Welt in der Drachen, Prinzessinnen und Zauberer
             zum Alltag gehören? Vielen Kindern ist sie ganz vertraut. Kinderspiele
             sind hochkomplex und dienen der körperlichen und seelischen Entwicklung.
@@ -2310,6 +2365,7 @@ seasons:
         episode_no: 8
         title: Spielplatz Natur
         topic: Spiele des Lebens
+        location_wikidata: xxx
         description: 'Raufende Hunde, tobende Katzen, neugierige Raben und
             selbst Fische zeigen: Spielen ist im Tierreich ein weitverbreitetes
             Phänomen. Der enge Zusammenhang zwischen Spielen und Lernen ist
@@ -2610,6 +2666,7 @@ seasons:
         episode_no: 14
         title: Organe nach Maß
         topic: Medizin der Zukunft
+        location_wikidata: xxx
         description: 'Der 17-jährige Christoph Bast hat keinen Darm - seit
             seiner Kindheit braucht er zum Überleben tägliche Nährstoffinfusionen
             direkt ins Herz.
@@ -2807,6 +2864,11 @@ seasons:
         episode_no: 18
         title: Die Kunst des Fälschens
         topic: Dem Täter auf der Spur
+        continent: Europa
+        location_wikidata: Q654762
+        coordinates:
+        - 40.76638888888889
+        - -73.95361111111112
         description: 'Der größte Skandal in der Geschichte des Kunstmarktes
             begann mit einer harmlosen Anzeige in einer britischen Satire-Zeitschrift:
             „Authentische Fälschungen (19. und 20. Jahrhundert) für 150 Pfund“.
@@ -3426,6 +3488,7 @@ seasons:
         episode_no: 30
         title: Apnoe-Taucher - Im Tiefenrausch
         topic: Leben am Limit / Grenzen des Körpers
+        location_wikidata: xxx
         description: 'Bis vor 100 Jahren glaubten Wissenschaftler, der Mensch
             könne nicht tiefer als 30 Meter ohne Atemgerät tauchen. Eine neue
             Generation von Freitauchern hat die Grenzen weit nach unten verschoben.
@@ -3475,6 +3538,11 @@ seasons:
         episode_no: 31
         title: Radrennen - Ewiger Endspurt
         topic: Leben am Limit / Grenzen des Körpers
+        continent: Europa
+        location_wikidata: Q2861
+        coordinates:
+        - 54.083333333333
+        - 12.133333333333
         description: 'Tretgeschwindigkeit: 120 Umdrehungen pro Minute. Puls:
             150. Atemfrequenz: 35. Wenn Radrennprofis über den Asphalt rasen,
             gehen sie bis an die Grenzen ihres körperlichen Leistungsvermögens.
@@ -3671,6 +3739,7 @@ seasons:
         episode_no: 35
         title: Nicht ohne meinen Hund
         topic: Tiere im Rampenlicht
+        location_wikidata: xxx
         description: 'Man sagt, der beste Freund des Menschen sei der Hund.
             Hunde sind heute viel mehr als Weggefährten des Menschen. So gibt
             es spezielle Ausbildungsprogramme, um die Vierbeiner als Betreuer
@@ -5168,6 +5237,11 @@ seasons:
         season_no: 4
         episode_no: 2
         title: Walverwandtschaften
+        continent: Amerika
+        location_wikidata: Q61279885
+        coordinates:
+        - 51.58
+        - -127.58
         description: 'Was veranlasst Menschen dazu, ihren lang ersehnten Urlaub
             hart arbeitend bei strömenden Regen auf einem Forschungsschiff
             vor der kanadischen Westküste zu verbringen? Es sind die Grauwale,
@@ -5540,6 +5614,11 @@ seasons:
         season_no: 4
         episode_no: 10
         title: Ein göttlicher Zug - das rollende Gotteshaus in Russland
+        continent: Asien
+        location_wikidata: Q5428
+        coordinates:
+        - 60
+        - 105
         description: 'An der Wand des Zugabteils prangt der goldene Jesus.
             Für einen Tag macht der Zug des russisch-orthodoxen Vaters Sergej
             in ihrer einsamen Gegend Rast. Die rollende Kirche ist für sie

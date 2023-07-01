@@ -1129,7 +1129,7 @@ class TvShow:
         wikidata = Wikidata()
 
         for episode in self.episodes:
-            if episode.location_wikidata and not episode.coordinates:
+            if episode.location_wikidata and episode.location_wikidata != "xxx" and not episode.coordinates:
                 episode.coordinates = wikidata.get_coordinates(
                     episode.location_wikidata
                 )
