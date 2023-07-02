@@ -1167,6 +1167,11 @@ class TvShow:
         template = template.replace("const markers = []", f"const markers = {json_dump}")
         Utils.write_text_file("karte.html", template)
 
+    def show_missing_value(self, key: str) -> None:
+        for episode in self.episodes:
+            if not getattr(episode, key):
+                print(episode.title)
+
     def generate_summary_texts(self, inline: bool = False) -> None:
         descriptions: list[str] = []
 
@@ -1685,6 +1690,7 @@ def get_argument_parser() -> argparse.ArgumentParser:
     parser.add_argument("-j", "--json", action="store_true")
     parser.add_argument("-k", "--kartographer", action="store_true")
     parser.add_argument("-l", "--leaflet", action="store_true")
+    parser.add_argument("-m", "--show-missing-value", metavar='KEY')
     parser.add_argument("-r", "--readme", action="store_true")
     parser.add_argument("-s", "--scrape", action="store_true")
     parser.add_argument("-t", "--tmp", action="store_true")
@@ -1728,6 +1734,9 @@ def main() -> None:
 
     if args.leaflet:
         tv_show.generate_leaflet()
+
+    if args.show_missing_value:
+        tv_show.show_missing_value(args.show_missing_value)
 
     if args.readme:
         generate_readme()

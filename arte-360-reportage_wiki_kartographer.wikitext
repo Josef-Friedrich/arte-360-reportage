@@ -1,4 +1,4 @@
-<mapframe latitude="48.856667" longitude="2.351667" lang="de" zoom="1" width="full" height="500">
+<mapframe latitude="48.856667" longitude="2.351667" lang="de" zoom="1" width="full" height="400">
 {
   "type": "FeatureCollection",
   "features": [
@@ -6194,6 +6194,22 @@
   {
     "type": "Feature",
     "properties": {
+      "marker-color": "#ffffff",
+      "marker-size": "small",
+      "title": "Pyrenäen - Ein Hirte zwischen Himmel und Erde",
+      "description": "https://www.youtube.com/watch?v=hxPBgj2j_eg"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        0.84916666666667,
+        43.333611111111
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
       "marker-color": "#cccccc",
       "marker-size": "small",
       "title": "Zauberhafte Mosel",
@@ -8465,7 +8481,8 @@
     "properties": {
       "marker-color": "#ffffff",
       "marker-size": "small",
-      "title": "Sardiniens wertvolle Muschelseide"
+      "title": "Sardiniens wertvolle Muschelseide",
+      "description": "https://www.youtube.com/watch?v=xUcNlVSeby4"
     },
     "geometry": {
       "type": "Point",
@@ -8496,7 +8513,8 @@
     "properties": {
       "marker-color": "#ffff00",
       "marker-size": "small",
-      "title": "Marquesas-Inseln, das Comeback der Tattoos"
+      "title": "Marquesas-Inseln, das Comeback der Tattoos",
+      "description": "https://www.youtube.com/watch?v=TNPWHJBDCCM"
     },
     "geometry": {
       "type": "Point",
@@ -8511,7 +8529,8 @@
     "properties": {
       "marker-color": "#ffffff",
       "marker-size": "small",
-      "title": "Die Schweizergarde - Ein Leben für den Papst"
+      "title": "Die Schweizergarde - Ein Leben für den Papst",
+      "description": "https://www.youtube.com/watch?v=P_FnkF7s1aA"
     },
     "geometry": {
       "type": "Point",
@@ -8526,7 +8545,8 @@
     "properties": {
       "marker-color": "#ffffff",
       "marker-size": "small",
-      "title": "Island, die wertvollsten Daunen der Welt"
+      "title": "Island, die wertvollsten Daunen der Welt",
+      "description": "https://www.youtube.com/watch?v=FZutRZN50LQ"
     },
     "geometry": {
       "type": "Point",
@@ -8539,9 +8559,26 @@
   {
     "type": "Feature",
     "properties": {
+      "marker-color": "#ff0000",
+      "marker-size": "small",
+      "title": "Zuflucht in den Anden - Kolumbiens indigene Transfrauen",
+      "description": "https://www.youtube.com/watch?v=IUfHYdLf9ik"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -75.263888888889,
+        6.1375
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
       "marker-color": "#ffffff",
       "marker-size": "small",
-      "title": "Kristall - Die magische Kunst aus den Vogesen"
+      "title": "Kristall - Die magische Kunst aus den Vogesen",
+      "description": "https://www.youtube.com/watch?v=lcmXLHs5OhE"
     },
     "geometry": {
       "type": "Point",
@@ -8556,7 +8593,8 @@
     "properties": {
       "marker-color": "#ffffff",
       "marker-size": "small",
-      "title": "Montenegro - Der Eselretter"
+      "title": "Montenegro - Der Eselretter",
+      "description": "https://www.youtube.com/watch?v=-T-jOraqZ9U"
     },
     "geometry": {
       "type": "Point",

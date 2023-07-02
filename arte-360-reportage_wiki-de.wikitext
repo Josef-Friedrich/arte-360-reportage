@@ -5220,7 +5220,7 @@
 {{Episodenlisteneintrag2
 | NR_GES = 600
 | NR_ST = 24
-| OT = Sardiniens wertvolle Muschelseide<ref>Internetquellen zur Episode ''„Sardiniens wertvolle Muschelseide“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/602-sardiniens-wertvolle-muschelseide-1590045 602] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/602-sardiniens-wertvolle-muschelseide-1590045 1590045], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9352691 S24E24] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9352691 9352691], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt23159150 tt23159150]</ref>
+| OT = Sardiniens wertvolle Muschelseide<ref>Internetquellen zur Episode ''„Sardiniens wertvolle Muschelseide“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/602-sardiniens-wertvolle-muschelseide-1590045 602] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/602-sardiniens-wertvolle-muschelseide-1590045 1590045], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9352691 S24E24] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9352691 9352691], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt23159150 tt23159150], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=xUcNlVSeby4 xUcNlVSeby4]</ref>
 | Feld1 = La soie de mer, trésor de Sardaigne
 | REG = Therese Engels
 | EA = 2022-10-29
@@ -5238,7 +5238,7 @@
 {{Episodenlisteneintrag2
 | NR_GES = 602
 | NR_ST = 26
-| OT = Marquesas-Inseln, das Comeback der Tattoos<ref>Internetquellen zur Episode ''„Marquesas-Inseln, das Comeback der Tattoos“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/604-marquesas-inseln-das-comeback-der-tattoos-1596812 604] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/604-marquesas-inseln-das-comeback-der-tattoos-1596812 1596812], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9524023 S24E26] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9524023 9524023], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt23747588 tt23747588]</ref>
+| OT = Marquesas-Inseln, das Comeback der Tattoos<ref>Internetquellen zur Episode ''„Marquesas-Inseln, das Comeback der Tattoos“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/604-marquesas-inseln-das-comeback-der-tattoos-1596812 604] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/604-marquesas-inseln-das-comeback-der-tattoos-1596812 1596812], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9524023 S24E26] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9524023 9524023], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt23747588 tt23747588], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=TNPWHJBDCCM TNPWHJBDCCM]</ref>
 | Feld1 = Îles Marquises, le tatouage dans la peau
 | REG = Luigi Maria Perotti
 | EA = 2022-11-19
@@ -5247,7 +5247,7 @@
 {{Episodenlisteneintrag2
 | NR_GES = 603
 | NR_ST = 27
-| OT = Die Schweizergarde - Ein Leben für den Papst<ref>Internetquellen zur Episode ''„Die Schweizergarde - Ein Leben für den Papst“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/605-die-schweizergarde-ein-leben-fuer-den-papst-1602010 605] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/605-die-schweizergarde-ein-leben-fuer-den-papst-1602010 1602010], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9524024 S24E27] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9524024 9524024], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt23985080 tt23985080]</ref>
+| OT = Die Schweizergarde - Ein Leben für den Papst<ref>Internetquellen zur Episode ''„Die Schweizergarde - Ein Leben für den Papst“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/605-die-schweizergarde-ein-leben-fuer-den-papst-1602010 605] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/605-die-schweizergarde-ein-leben-fuer-den-papst-1602010 1602010], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9524024 S24E27] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9524024 9524024], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt23985080 tt23985080], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=P_FnkF7s1aA P_FnkF7s1aA]</ref>
 | Feld1 = Vatican, en coulisse avec les Gardes suisses
 | REG = Alessandro Cassigoli
 | EA = 2022-12-03
@@ -5256,7 +5256,7 @@
 {{Episodenlisteneintrag2
 | NR_GES = 604
 | NR_ST = 28
-| OT = Island, die wertvollsten Daunen der Welt<ref>Internetquellen zur Episode ''„Island, die wertvollsten Daunen der Welt“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/606-island-die-wertvollsten-daunen-der-welt-1602943 606] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/606-island-die-wertvollsten-daunen-der-welt-1602943 1602943], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9524025 S24E28] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9524025 9524025], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt24220972 tt24220972]</ref>
+| OT = Island, die wertvollsten Daunen der Welt<ref>Internetquellen zur Episode ''„Island, die wertvollsten Daunen der Welt“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/606-island-die-wertvollsten-daunen-der-welt-1602943 606] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/606-island-die-wertvollsten-daunen-der-welt-1602943 1602943], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9524025 S24E28] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9524025 9524025], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt24220972 tt24220972], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=FZutRZN50LQ FZutRZN50LQ]</ref>
 | Feld1 = Islande, des plumes qui valent de l'or
 | REG = Marc Mühldorfer
 | EA = 2022-12-10
@@ -5265,7 +5265,7 @@
 {{Episodenlisteneintrag2
 | NR_GES = 605
 | NR_ST = 29
-| OT = Zuflucht in den Anden - Kolumbiens indigene Transfrauen<ref>Internetquellen zur Episode ''„Zuflucht in den Anden - Kolumbiens indigene Transfrauen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/607-zuflucht-in-den-anden-kolumbiens-indigene-transfrauen-1605209 607] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/607-zuflucht-in-den-anden-kolumbiens-indigene-transfrauen-1605209 1605209], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9524026 S24E29] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9524026 9524026], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt24636850 tt24636850]</ref>
+| OT = Zuflucht in den Anden - Kolumbiens indigene Transfrauen<ref>Internetquellen zur Episode ''„Zuflucht in den Anden - Kolumbiens indigene Transfrauen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/607-zuflucht-in-den-anden-kolumbiens-indigene-transfrauen-1605209 607] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/607-zuflucht-in-den-anden-kolumbiens-indigene-transfrauen-1605209 1605209], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9524026 S24E29] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9524026 9524026], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt24636850 tt24636850], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=IUfHYdLf9ik IUfHYdLf9ik]</ref>
 | Feld1 = Colombie, le refuge des cueilleuses de café trans
 | REG = Carmen Butta
 | EA = 2022-12-17
@@ -5274,7 +5274,7 @@
 {{Episodenlisteneintrag2
 | NR_GES = 606
 | NR_ST = 30
-| OT = Kristall - Die magische Kunst aus den Vogesen<ref>Internetquellen zur Episode ''„Kristall - Die magische Kunst aus den Vogesen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/608-kristall-die-magische-kunst-aus-den-vogesen-1607754 608] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/608-kristall-die-magische-kunst-aus-den-vogesen-1607754 1607754], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9524027 S24E30] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9524027 9524027], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt25051572 tt25051572]</ref>
+| OT = Kristall - Die magische Kunst aus den Vogesen<ref>Internetquellen zur Episode ''„Kristall - Die magische Kunst aus den Vogesen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/608-kristall-die-magische-kunst-aus-den-vogesen-1607754 608] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/608-kristall-die-magische-kunst-aus-den-vogesen-1607754 1607754], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9524027 S24E30] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9524027 9524027], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt25051572 tt25051572], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=lcmXLHs5OhE lcmXLHs5OhE]</ref>
 | Feld1 = Vosges, la magie du cristal
 | REG = Jean-Baptiste Mathieu
 | EA = 2022-12-24
@@ -5294,7 +5294,7 @@
 {{Episodenlisteneintrag2
 | NR_GES = 607
 | NR_ST = 1
-| OT = Montenegro - Der Eselretter<ref>Internetquellen zur Episode ''„Montenegro - Der Eselretter“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/609-montenegro-der-eselretter-1609765 609] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/609-montenegro-der-eselretter-1609765 1609765], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9524036 S25E01] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9524036 9524036], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt25786568 tt25786568]</ref>
+| OT = Montenegro - Der Eselretter<ref>Internetquellen zur Episode ''„Montenegro - Der Eselretter“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/609-montenegro-der-eselretter-1609765 609] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/609-montenegro-der-eselretter-1609765 1609765], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9524036 S25E01] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9524036 9524036], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt25786568 tt25786568], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=-T-jOraqZ9U -T-jOraqZ9U]</ref>
 | Feld1 = Monténégro, pour l'amour des ánes
 | REG = Galina Breitkreuz
 | EA = 2023-01-07
