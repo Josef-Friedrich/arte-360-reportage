@@ -4658,6 +4658,22 @@
   {
     "type": "Feature",
     "properties": {
+      "marker-color": "#ffff00",
+      "marker-size": "small",
+      "title": "Bangladesch - Schiff der Hoffnung",
+      "description": "https://www.youtube.com/watch?v=4H01x3_OEaY"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        89.866667,
+        24.016667
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
       "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Iquitos - Regenwaldmetropole am Amazonas",
@@ -5116,6 +5132,22 @@
       "coordinates": [
         14.10861111,
         50.79305556
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "marker-color": "#000000",
+      "marker-size": "small",
+      "title": "Die Goldenen Schildkröten von Madagaskar",
+      "description": "https://www.youtube.com/watch?v=Do-ZlyolY9I"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        45.2289,
+        -16.0837
       ]
     }
   },
@@ -6140,6 +6172,38 @@
       "coordinates": [
         7.081944,
         46.583611
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "marker-color": "#ffffff",
+      "marker-size": "small",
+      "title": "St. Bernhard - Von Menschen und Hunden",
+      "description": "https://www.youtube.com/watch?v=UBQ1XhTzHic"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.1705555555556,
+        45.868888888889
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "marker-color": "#cccccc",
+      "marker-size": "small",
+      "title": "Rumänien - Eine Weihnachtsreise ins Donaudelta",
+      "description": "https://www.youtube.com/watch?v=pcjXQq5fnx4"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        28.333333333333,
+        44.45
       ]
     }
   },

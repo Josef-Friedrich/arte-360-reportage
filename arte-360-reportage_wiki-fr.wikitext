@@ -1528,7 +1528,7 @@
 | Islande — Des Montagnes et des Moutons
 |-
 |7
-|
+|🟡
 | Bangladesh, l’Hôpital Flottant
 |-
 |8
@@ -1655,7 +1655,7 @@
 | Dresde, au Fil de l’Elbe
 |-
 |10
-|
+|⚫️
 | Madagascar — Le trafic des tortues angonoka
 |-
 |11
@@ -1929,7 +1929,7 @@
 | Suisse, les Lutteurs Portent la Culotte
 |-
 |25
-|
+|⚪️
 | Saint-Bernard et Ses Chiens
 |-
 |26

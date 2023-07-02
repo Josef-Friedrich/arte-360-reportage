@@ -19098,6 +19098,11 @@ seasons:
         episode_no: 7
         title: Bangladesch - Schiff der Hoffnung
         title_fr: Bangladesh, l’Hôpital Flottant
+        continent: Asien
+        location_wikidata: Q902
+        coordinates:
+        - 24.016667
+        - 89.866667
         description: 'Seit jeher leben die Bengalen mit und auf dem Wasser.
             Jährliche Überschwemmungen bestimmen ihren Lebensrhythmus. Besonders
             betroffen sind die Bewohner im Norden Bangladeschs. Um auch ihnen
@@ -20904,6 +20909,11 @@ seasons:
         episode_no: 10
         title: Die Goldenen Schildkröten von Madagaskar
         title_fr: Madagascar — Le trafic des tortues angonoka
+        continent: Afrika
+        location_wikidata: Q1968753
+        coordinates:
+        - -16.0837
+        - 45.2289
         description: 'Die Angonoka, so nennen die Madagassen die Goldene Schnabelbrust-Schildkröte,
             ist eine besonders edle Landschildkröte mit einem golden glänzenden
             Panzer. Sie ist nicht nur schön, sondern auch selten - und deshalb
@@ -24621,6 +24631,11 @@ seasons:
         episode_no: 25
         title: St. Bernhard - Von Menschen und Hunden
         title_fr: Saint-Bernard et Ses Chiens
+        continent: Europa
+        location_wikidata: Q623424
+        coordinates:
+        - 45.868888888889
+        - 7.1705555555556
         description: 'Der große Sankt Bernhard Pass ist berühmt und berüchtigt.
             Berühmt für das Hospiz, das seit tausend Jahren jedem Schutzsuchenden
             auf dem Weg über den Pass Gastfreundschaft bietet. Und berüchtigt
@@ -24672,6 +24687,10 @@ seasons:
         episode_no: 26
         title: Rumänien - Eine Weihnachtsreise ins Donaudelta
         title_fr: Delta du Danube, un Noël Pas Comme les Autres
+        location_wikidata: Q182660
+        coordinates:
+        - 44.45
+        - 28.333333333333
         description: 'Weihnachten in Rumäniens Osten - mitten im Donaudelta,
             Europas größtem Sumpf- und Schilfgebiet. Hierher flohen vor Jahrhunderten
             Altgläubige vor den Repressalien des Patriarchen Nikon und des
