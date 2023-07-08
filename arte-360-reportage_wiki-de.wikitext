@@ -5303,11 +5303,11 @@
 {{Episodenlisteneintrag2
 | NR_GES = 608
 | NR_ST = 2
-| OT = Der Bergkristall - Schatz in den Schweizer Alpen<ref>Internetquellen zur Episode ''„Der Bergkristall - Schatz in den Schweizer Alpen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/610-der-bergkristall-schatz-in-den-schweizer-alpen-1612863 610] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/610-der-bergkristall-schatz-in-den-schweizer-alpen-1612863 1612863], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9524038 S25E03] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9524038 9524038], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt26422175 tt26422175]</ref>
+| OT = Der Bergkristall - Schatz in den Schweizer Alpen<ref>Internetquellen zur Episode ''„Der Bergkristall - Schatz in den Schweizer Alpen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/610-der-bergkristall-schatz-in-den-schweizer-alpen-1612863 610] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/610-der-bergkristall-schatz-in-den-schweizer-alpen-1612863 1612863], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9524038 S25E03] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9524038 9524038], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt26422175 tt26422175], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=kwjMzSWd5Qo kwjMzSWd5Qo]</ref>
 | Feld1 = -
 | REG = Anja Reiß
 | EA = 2023-01-21
-| ZF = In den Schweizer Alpen riskieren Mineralien- und Kristallsucher, auch „Strahler“ genannt, ihr Leben, während sie mit Werkzeugen wie Spitzhacke und Meißel Bergkristalle in tiefen Felsspalten und Hohlräumen abbauen. Das Schmelzen der Gletscher aufgrund des Klimawandels eröffnet neue Möglichkeiten, birgt jedoch auch Gefahren für die Schatzsucher.
+| ZF = In den Schweizer Alpen riskieren Mineralien- und Kristallsucher, auch „Strahler“ genannt, ihr LebHexenwahn in Tansaniaen, während sie mit Werkzeugen wie Spitzhacke und Meißel Bergkristalle in tiefen Felsspalten und Hohlräumen abbauen. Das Schmelzen der Gletscher aufgrund des Klimawandels eröffnet neue Möglichkeiten, birgt jedoch auch Gefahren für die Schatzsucher.
 }}
 {{Episodenlisteneintrag2
 | NR_GES = 609

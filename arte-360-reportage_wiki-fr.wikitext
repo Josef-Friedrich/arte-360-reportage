@@ -610,7 +610,7 @@
 | Titre inconnu
 |-
 |10
-|
+|🟡
 | Titre inconnu
 |-
 |11
@@ -938,11 +938,11 @@
 | Thaïlande, les Enfants du Ring
 |-
 |15
-|
+|🔴
 | Colombie, le Manège Enchanté
 |-
 |16
-|
+|🔴
 | Rio, le Trottoir Fait Sa Mode
 |-
 |17
@@ -993,7 +993,7 @@
 !width="87%"|Titre français
 |-
 |1
-|
+|⚫️
 | Chasse aux Sorcières en Tanzanie
 |-
 |2

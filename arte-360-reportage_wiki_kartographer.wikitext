@@ -1763,6 +1763,38 @@
   {
     "type": "Feature",
     "properties": {
+      "marker-color": "#ffff00",
+      "marker-size": "small",
+      "title": "Hongkong - Pferde und Millionen",
+      "description": "https://www.youtube.com/watch?v=3qb2dXghgjg"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        114.183,
+        22.2667
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "marker-color": "#cccccc",
+      "marker-size": "small",
+      "title": "Samoa Queens - Männer, die als Frauen leben",
+      "description": "https://www.youtube.com/watch?v=2jz1Lozi4dU"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -172.2175,
+        -13.745
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
       "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Die Waldbahn der Karpaten",
@@ -2738,6 +2770,54 @@
   {
     "type": "Feature",
     "properties": {
+      "marker-color": "#ff0000",
+      "marker-size": "small",
+      "title": "Kolumbien: Ein Riesenrad auf Reisen",
+      "description": "https://www.youtube.com/watch?v=l0tgOGBbI7M"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -75.456388888889,
+        5.6091666666667
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "marker-color": "#ff0000",
+      "marker-size": "small",
+      "title": "Rio: Vom Strich auf den Laufsteg",
+      "description": "https://www.youtube.com/watch?v=lONevE9h_GM"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -43.205555555555556,
+        -22.91111111111111
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "marker-color": "#cccccc",
+      "marker-size": "small",
+      "title": "Oman: Die Rosen der Wüste",
+      "description": "https://www.youtube.com/watch?v=LwijL77IF3c"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        57,
+        21
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
       "marker-color": "#cccccc",
       "marker-size": "small",
       "title": "Wenzhou, die Schuh-Stadt von China",
@@ -2780,6 +2860,22 @@
       "coordinates": [
         33.083333333333,
         57.189
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "marker-color": "#000000",
+      "marker-size": "small",
+      "title": "Hexenwahn in Tansania",
+      "description": "https://www.youtube.com/watch?v=8K_unhDEPJo"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        33.423055555556,
+        -3.6619444444444
       ]
     }
   },
@@ -8673,7 +8769,8 @@
     "properties": {
       "marker-color": "#ffffff",
       "marker-size": "small",
-      "title": "Der Bergkristall - Schatz in den Schweizer Alpen"
+      "title": "Der Bergkristall - Schatz in den Schweizer Alpen",
+      "description": "https://www.youtube.com/watch?v=kwjMzSWd5Qo"
     },
     "geometry": {
       "type": "Point",

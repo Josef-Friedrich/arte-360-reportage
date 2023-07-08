@@ -6987,12 +6987,37 @@ seasons:
         season_no: 5
         episode_no: 10
         title: Hongkong - Pferde und Millionen
-        description: Pferdewetten sind in Hongkong das einzige legale Glücksspiel.
+        continent: Asien
+        location_wikidata: Q312436
+        coordinates:
+        - 22.2667
+        - 114.183
+        description: 'Pferdewetten sind in Hongkong das einzige legale Glücksspiel.
             Die Wettumsätze sind an einem Tag höher als die aller deutschen
             Rennbahnen zusammen in einem Jahr. Die Rennställe in Happy Valley
             ähneln einem Hochsicherheitstrakt, das Trainingsgelände verfügt
             über riesige Schwimmbecken, eine eingene Pferdeklinik sowie ein
             Dopingkontrolllabor.
+
+            Unter gleißendem Flutlicht strömen Zehntausende Zuschauer nach
+            Happy Valley - auf eine der zwei Pferderennbahnen Hongkongs. Der
+            beste deutsche Jockey der Saison, Andreas Suborics, bereitet sich
+            vor. Es geht um Ruhm und Geld: Er will seinen 1000. Sieg nach
+            Hause reiten, bei den International Races des Hongkong Jockey
+            Clubs, den höchstdotierten Pferderennen der Welt. In Hongkong
+            drängt sich Hochhaus an Hochhaus, Platz ist Mangelware. Doch im
+            Stadtteil Happy Valley findet sich inmitten der Wolkenkratzer
+            eine Art grüne Oase: die Pferderennbahn. Alles dreht sich hier
+            ums Geld - und um die Pferde. Die Ställe der millionenschweren
+            vierbeinigen Stars ähneln einem Hochsicherheitstrakt. Für jedes
+            Pferd gibt es eine eigene Überwachungskamera. Das Trainingsgelände
+            verfügt über riesige Schwimmbecken, eine eigene Pferdeklinik sowie
+            ein Doping-Kontrolllabor. 55.000 Zuschauer werden den krönenden
+            Abschluss der Galopper-Saison von der Tribüne aus verfolgen.
+
+            360° - Die GEO-Reportage begleitet den Jockey Andreas Suborics
+            und seine Pferde zu dem Rennen nach Hongkong und fiebert mit ihnen
+            dem Sieg entgegen.'
         director: Martin Uhrmeister
         air_date: '2003-03-04'
         duration: 26
@@ -7072,6 +7097,10 @@ seasons:
         episode_no: 13
         title: Samoa Queens - Männer, die als Frauen leben
         alias: Samoa Queens
+        location_wikidata: Q683
+        coordinates:
+        - -13.745
+        - -172.2175
         description: 'Auf den ersten und sogar den zweiten Blick wirkt Tara,
             die junge Hausdame des Hotels, wie eine elegante samoanische Lady.
             Dabei ist sie nur äußerlich eine Frau - biologisch ist sie ein
@@ -11259,6 +11288,11 @@ seasons:
         episode_no: 15
         title: 'Kolumbien: Ein Riesenrad auf Reisen'
         title_fr: Colombie, le Manège Enchanté
+        continent: Amerika
+        location_wikidata: Q1442012
+        coordinates:
+        - 5.6091666666667
+        - -75.456388888889
         description: 'Lautes Kinderlachen hallt von jedem Platz, auf dem César
             Romoleroux mit seiner Kirmes Station macht. Zu seinem fahrbaren
             Vergnügungspark gehören unter anderem ein Riesenrad, ein Autoscooter
@@ -11314,6 +11348,11 @@ seasons:
         episode_no: 16
         title: 'Rio: Vom Strich auf den Laufsteg'
         title_fr: Rio, le Trottoir Fait Sa Mode
+        continent: Amerika
+        location_wikidata: Q8678
+        coordinates:
+        - -22.91111111111111
+        - -43.205555555555556
         description: 'Imperatriz Leopoldina, eine Gasse der Huren in Rio de
             Janeiro. Schon ab dem frühen Nachmittag warten Frauen an Straßenecken
             und auf Plastikstühlen vor dem Stundenhotel auf Kundschaft. Ein
@@ -11371,6 +11410,10 @@ seasons:
         episode_no: 17
         title: 'Oman: Die Rosen der Wüste'
         title_fr: Oman, les Roses du Désert
+        location_wikidata: Q842
+        coordinates:
+        - 21
+        - 57
         description: 'Vierzig Grad im Schatten sind im Sommer die Regel. Im
             Winter wird es nur wenig kühler. Im Wüstensaat Oman ist Regen
             die Ausnahme, natürliche Flüsse oder Seen existieren nicht. Und
@@ -11935,6 +11978,11 @@ seasons:
         episode_no: 1
         title: Hexenwahn in Tansania
         title_fr: Chasse aux Sorcières en Tanzanie
+        continent: Afrika
+        location_wikidata: Q818765
+        coordinates:
+        - -3.6619444444444
+        - 33.423055555556
         description: 'Allein in Tansania fallen jährlich Hunderte von Menschen,
             meist Frauen, dem Hexenwahn zum Opfer. Juristisch gesehen geschieht
             dies aus Habgier - die Motive sind Erbschaftsstreitigkeiten, Unterhaltskosten
@@ -33274,11 +33322,11 @@ seasons:
             birgt das Tauen des Eises auch eine erhebliche Gefahr für die
             Schatzsucher - Unfälle gibt es fast jedes Jahr.'
         summary: In den Schweizer Alpen riskieren Mineralien- und Kristallsucher,
-            auch „Strahler“ genannt, ihr Leben, während sie mit Werkzeugen
-            wie Spitzhacke und Meißel Bergkristalle in tiefen Felsspalten
-            und Hohlräumen abbauen. Das Schmelzen der Gletscher aufgrund des
-            Klimawandels eröffnet neue Möglichkeiten, birgt jedoch auch Gefahren
-            für die Schatzsucher.
+            auch „Strahler“ genannt, ihr LebHexenwahn in Tansaniaen, während
+            sie mit Werkzeugen wie Spitzhacke und Meißel Bergkristalle in
+            tiefen Felsspalten und Hohlräumen abbauen. Das Schmelzen der Gletscher
+            aufgrund des Klimawandels eröffnet neue Möglichkeiten, birgt jedoch
+            auch Gefahren für die Schatzsucher.
         director: Anja Reiß
         air_date: '2023-01-21'
         duration: 32
@@ -33289,6 +33337,7 @@ seasons:
         imdb_episode_id: tt26422175
         thetvdb_season_episode: S25E03
         thetvdb_episode_id: 9524038
+        youtube_video_id: kwjMzSWd5Qo
     -   overall_no: 609
         season_no: 25
         episode_no: 3
