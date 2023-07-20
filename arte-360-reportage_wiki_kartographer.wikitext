@@ -8578,7 +8578,8 @@
     "properties": {
       "marker-color": "#ff0000",
       "marker-size": "small",
-      "title": "Das Gerichtsschiff vom Amazonas"
+      "title": "Das Gerichtsschiff vom Amazonas",
+      "description": "https://www.youtube.com/watch?v=XodDaAUnwqY"
     },
     "geometry": {
       "type": "Point",
@@ -8800,7 +8801,8 @@
     "properties": {
       "marker-color": "#ffffff",
       "marker-size": "small",
-      "title": "Albanien - Die Stimmen der Schäfer"
+      "title": "Albanien - Die Stimmen der Schäfer",
+      "description": "https://www.youtube.com/watch?v=_5HmdkyxmnE"
     },
     "geometry": {
       "type": "Point",
@@ -8927,6 +8929,21 @@
       "coordinates": [
         104.073,
         12.876
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "marker-color": "#cccccc",
+      "marker-size": "small",
+      "title": "Istanbul - Stadt der Katzen"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        28.960277777778,
+        41.01
       ]
     }
   }

@@ -5184,7 +5184,7 @@
 {{Episodenlisteneintrag2
 | NR_GES = 596
 | NR_ST = 20
-| OT = Das Gerichtsschiff vom Amazonas<ref>Internetquellen zur Episode ''„Das Gerichtsschiff vom Amazonas“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/598-das-gerichtsschiff-vom-amazonas-1579010 598] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/598-das-gerichtsschiff-vom-amazonas-1579010 1579010], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9254702 S24E20] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9254702 9254702], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt22023194 tt22023194]</ref>
+| OT = Das Gerichtsschiff vom Amazonas<ref>Internetquellen zur Episode ''„Das Gerichtsschiff vom Amazonas“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/598-das-gerichtsschiff-vom-amazonas-1579010 598] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/598-das-gerichtsschiff-vom-amazonas-1579010 1579010], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9254702 S24E20] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9254702 9254702], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt22023194 tt22023194], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=XodDaAUnwqY XodDaAUnwqY]</ref>
 | Feld1 = Le tribunal flottant de l'amazone
 | REG = Manuel Fenn
 | EA = 2022-08-06
@@ -5307,7 +5307,7 @@
 | Feld1 = -
 | REG = Anja Reiß
 | EA = 2023-01-21
-| ZF = In den Schweizer Alpen riskieren Mineralien- und Kristallsucher, auch „Strahler“ genannt, ihr LebHexenwahn in Tansaniaen, während sie mit Werkzeugen wie Spitzhacke und Meißel Bergkristalle in tiefen Felsspalten und Hohlräumen abbauen. Das Schmelzen der Gletscher aufgrund des Klimawandels eröffnet neue Möglichkeiten, birgt jedoch auch Gefahren für die Schatzsucher.
+| ZF = In den Schweizer Alpen riskieren Mineralien- und Kristallsucher, auch „Strahler“ genannt, ihr Leben, während sie mit Werkzeugen wie Spitzhacke und Meißel Bergkristalle in tiefen Felsspalten und Hohlräumen abbauen. Das Schmelzen der Gletscher aufgrund des Klimawandels eröffnet neue Möglichkeiten, birgt jedoch auch Gefahren für die Schatzsucher.
 }}
 {{Episodenlisteneintrag2
 | NR_GES = 609
@@ -5321,7 +5321,7 @@
 {{Episodenlisteneintrag2
 | NR_GES = 610
 | NR_ST = 4
-| OT = Albanien - Die Stimmen der Schäfer<ref>Internetquellen zur Episode ''„Albanien - Die Stimmen der Schäfer“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/612-albanien-die-stimmen-der-schaefer-1618464 612] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/612-albanien-die-stimmen-der-schaefer-1618464 1618464], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt26898737 tt26898737]</ref>
+| OT = Albanien - Die Stimmen der Schäfer<ref>Internetquellen zur Episode ''„Albanien - Die Stimmen der Schäfer“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/612-albanien-die-stimmen-der-schaefer-1618464 612] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/612-albanien-die-stimmen-der-schaefer-1618464 1618464], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt26898737 tt26898737], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=_5HmdkyxmnE _5HmdkyxmnE]</ref>
 | Feld1 = Albanie, une vie de berger
 | REG = Cordula Stadter
 | EA = 2023-02-25
@@ -5398,5 +5398,14 @@
 | REG = Martin Schacht
 | EA = 2023-07-01
 | ZF = Der Wasserstand des Tonle Sap-Sees schwankt um bis zu acht Meter. Während der Trockenzeit im Februar und März zieht sich das Wasser zurück und ermöglicht Renovierungen in den schwimmenden Dörfern, während die Bewohner vom Fischfang und der Landwirtschaft leben.
+}}
+{{Episodenlisteneintrag2
+| NR_GES = 619
+| NR_ST = 13
+| OT = Istanbul - Stadt der Katzen<ref>Internetquellen zur Episode ''„Istanbul - Stadt der Katzen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/621-istanbul-stadt-der-katzen-1658784 621] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/621-istanbul-stadt-der-katzen-1658784 1658784]</ref>
+| Feld1 = -
+| REG = Jeanne Nouchi
+| EA = 2023-06-28
+| ZF = Ayten verlässt täglich ihr Zuhause, um rund 100 Streunerkatzen in ihrer Nachbarschaft zu füttern. Gemeinsam mit vielen anderen engagierten Bürgern in Istanbul pflegt sie eine außergewöhnliche Liebe und Fürsorge für diese Tiere, indem sie ihnen Unterkünfte, Futter und Wasser zur Verfügung stellen, obwohl es in der Kultur nicht üblich ist, Tiere in den eigenen Wohnungen zu halten.
 }}
 }}

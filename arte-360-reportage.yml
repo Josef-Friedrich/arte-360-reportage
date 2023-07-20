@@ -32640,6 +32640,7 @@ seasons:
         imdb_episode_id: tt22023194
         thetvdb_season_episode: S24E20
         thetvdb_episode_id: 9254702
+        youtube_video_id: XodDaAUnwqY
     -   overall_no: 597
         season_no: 24
         episode_no: 21
@@ -33322,11 +33323,11 @@ seasons:
             birgt das Tauen des Eises auch eine erhebliche Gefahr für die
             Schatzsucher - Unfälle gibt es fast jedes Jahr.'
         summary: In den Schweizer Alpen riskieren Mineralien- und Kristallsucher,
-            auch „Strahler“ genannt, ihr LebHexenwahn in Tansaniaen, während
-            sie mit Werkzeugen wie Spitzhacke und Meißel Bergkristalle in
-            tiefen Felsspalten und Hohlräumen abbauen. Das Schmelzen der Gletscher
-            aufgrund des Klimawandels eröffnet neue Möglichkeiten, birgt jedoch
-            auch Gefahren für die Schatzsucher.
+            auch „Strahler“ genannt, ihr Leben, während sie mit Werkzeugen
+            wie Spitzhacke und Meißel Bergkristalle in tiefen Felsspalten
+            und Hohlräumen abbauen. Das Schmelzen der Gletscher aufgrund des
+            Klimawandels eröffnet neue Möglichkeiten, birgt jedoch auch Gefahren
+            für die Schatzsucher.
         director: Anja Reiß
         air_date: '2023-01-21'
         duration: 32
@@ -33407,6 +33408,7 @@ seasons:
         description: 'Bastri Limoj ist Hirte im südalbanischen Bergdorf Vranisht
             und lebt mit seiner Familie, wie viele in Albanien auf dem Land,
             von dem, was er mit seinen Schafen und Ziegen erwirtschaftet.
+
             Während der sozialistischen Diktatur, zwischen 1944 und 1990,
             wurden die Herden jedoch zwangskollektiviert, den Hirten weggenommen
             und in Gemeinschaftseigentum umgewandelt. Nach dem Ende des Regimes
@@ -33441,6 +33443,7 @@ seasons:
         fernsehserien_episode_slug: 612-albanien-die-stimmen-der-schaefer-1618464
         fernsehserien_episode_id: 1618464
         imdb_episode_id: tt26898737
+        youtube_video_id: _5HmdkyxmnE
     -   overall_no: 611
         season_no: 25
         episode_no: 5
@@ -33833,6 +33836,47 @@ seasons:
         fernsehserien_episode_no: 620
         fernsehserien_episode_slug: 620-kambodschas-schwimmende-doerfer-umzug-am-tonle-sap-1646559
         fernsehserien_episode_id: 1646559
+    -   overall_no: 619
+        season_no: 25
+        episode_no: 13
+        title: Istanbul - Stadt der Katzen
+        location_wikidata: Q406
+        coordinates:
+        - 41.01
+        - 28.960277777778
+        description: 'Jeden Morgen verlässt Ayten ihr Zuhause mit mehreren
+            Säcken voll saftigem Hühnchenfleisch, das sie am Vortag liebevoll
+            gekocht hat. Ihr Ziel ist es, ungefähr 100 Katzen in ihrer Nachbarschaft
+            zu füttern. Diese faszinierenden Tiere, um die sie sich so aufopferungsvoll
+            kümmert, haben ihren Lebensraum größtenteils in einem kleinen
+            Garten, der von der Stadtverwaltung zur Verfügung gestellt wurde.
+            Doch Ayten sorgt mit ihren eigenen Mitteln und den großzügigen
+            Spenden der Nachbarschaft dafür, dass es ihnen an nichts mangelt.
+            Sogar ihr Einkommen von ihrem Job an einem Obststand auf dem sonntäglichen
+            Markt fließt komplett in den Kauf von hochwertigem Katzenfutter.
+            Ayten ist jedoch nicht die Einzige, die sich in dieser pulsierenden
+            Metropole um die herrenlosen Katzen kümmert. Viele Menschen in
+            Istanbul teilen ihre Liebe und Sorge für diese Streuner.
+
+            Überall sieht man kleine Hütten, Futternäpfe und Wasserschüsseln,
+            die von engagierten Bürgern aufgestellt wurden. Sie finden sich
+            in Cafés und Bars, in den Schaufenstern von Geschäften und sogar
+            auf parkenden Autos und Motorrädern. Was ist das Geheimnis dieser
+            Stadt und ihrer faszinierenden Beziehung zu den Katzen? Woher
+            kommt diese außergewöhnliche Liebe und Fürsorge in einer Kultur,
+            in der es nicht üblich ist, Tiere in den eigenen Wohnungen zu
+            halten?'
+        summary: Ayten verlässt täglich ihr Zuhause, um rund 100 Streunerkatzen
+            in ihrer Nachbarschaft zu füttern. Gemeinsam mit vielen anderen
+            engagierten Bürgern in Istanbul pflegt sie eine außergewöhnliche
+            Liebe und Fürsorge für diese Tiere, indem sie ihnen Unterkünfte,
+            Futter und Wasser zur Verfügung stellen, obwohl es in der Kultur
+            nicht üblich ist, Tiere in den eigenen Wohnungen zu halten.
+        director: Jeanne Nouchi
+        air_date: '2023-06-28'
+        fernsehserien_episode_no: 621
+        fernsehserien_episode_slug: 621-istanbul-stadt-der-katzen-1658784
+        fernsehserien_episode_id: 1658784
 dvds:
 -   title: Kolumbien - Die rasenden Engel der Linea 5
     release_date: '2007-01-01'
