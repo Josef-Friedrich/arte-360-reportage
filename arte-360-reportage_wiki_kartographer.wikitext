@@ -8786,7 +8786,8 @@
     "properties": {
       "marker-color": "#ff0000",
       "marker-size": "small",
-      "title": "Maine - Hummer oder Wale?"
+      "title": "Maine - Hummer oder Wale?",
+      "description": "https://www.youtube.com/watch?v=S_ZPCN7EYXY"
     },
     "geometry": {
       "type": "Point",

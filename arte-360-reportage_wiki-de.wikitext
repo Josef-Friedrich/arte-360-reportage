@@ -5312,7 +5312,7 @@
 {{Episodenlisteneintrag2
 | NR_GES = 609
 | NR_ST = 3
-| OT = Maine - Hummer oder Wale?<ref>Internetquellen zur Episode ''„Maine - Hummer oder Wale?“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/611-maine-hummer-oder-wale-1613685 611] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/611-maine-hummer-oder-wale-1613685 1613685], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9524040 S25E05] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9524040 9524040], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt26472394 tt26472394]</ref>
+| OT = Maine - Hummer oder Wale?<ref>Internetquellen zur Episode ''„Maine - Hummer oder Wale?“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/611-maine-hummer-oder-wale-1613685 611] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/611-maine-hummer-oder-wale-1613685 1613685], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/9524040 S25E05] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/9524040 9524040], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt26472394 tt26472394], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=S_ZPCN7EYXY S_ZPCN7EYXY]</ref>
 | Feld1 = Pêcher le homard ou protéger les baleines?
 | REG = Friederike Schlumbom
 | EA = 2023-01-28
