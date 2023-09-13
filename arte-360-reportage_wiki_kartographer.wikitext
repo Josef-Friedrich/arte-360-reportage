@@ -8818,7 +8818,8 @@
     "properties": {
       "marker-color": "#ffff00",
       "marker-size": "small",
-      "title": "Laos - Futterblöcke und Büffel-Leasing"
+      "title": "Laos - Futterblöcke und Büffel-Leasing",
+      "description": "https://www.youtube.com/watch?v=-P44t5KcvnU"
     },
     "geometry": {
       "type": "Point",
@@ -8833,7 +8834,8 @@
     "properties": {
       "marker-color": "#ff0000",
       "marker-size": "small",
-      "title": "Freiheit auf Pferderücken - Der lange Weg der Nez Perce"
+      "title": "Freiheit auf Pferderücken - Der lange Weg der Nez Perce",
+      "description": "https://www.youtube.com/watch?v=DfNr1Uu8gB8"
     },
     "geometry": {
       "type": "Point",
@@ -8848,7 +8850,8 @@
     "properties": {
       "marker-color": "#ffffff",
       "marker-size": "small",
-      "title": "Peloponnes - Rückkehr zur Erde"
+      "title": "Peloponnes - Rückkehr zur Erde",
+      "description": "https://www.youtube.com/watch?v=tghXc4mZKBY"
     },
     "geometry": {
       "type": "Point",
@@ -8863,7 +8866,8 @@
     "properties": {
       "marker-color": "#ffff00",
       "marker-size": "small",
-      "title": "Handgemacht in Laos - Rares aus Rattan"
+      "title": "Handgemacht in Laos - Rares aus Rattan",
+      "description": "https://www.youtube.com/watch?v=TGo1sAI9SbY"
     },
     "geometry": {
       "type": "Point",
@@ -8878,7 +8882,8 @@
     "properties": {
       "marker-color": "#ffff00",
       "marker-size": "small",
-      "title": "Leben mit dem Tod - Ahnenkult auf Sulawesi"
+      "title": "Leben mit dem Tod - Ahnenkult auf Sulawesi",
+      "description": "https://www.youtube.com/watch?v=tZ-4ILBzxEU"
     },
     "geometry": {
       "type": "Point",
@@ -8893,7 +8898,8 @@
     "properties": {
       "marker-color": "#ffffff",
       "marker-size": "small",
-      "title": "Die Waschbären von Berlin"
+      "title": "Die Waschbären von Berlin",
+      "description": "https://www.youtube.com/watch?v=dYP_3p6zrEw"
     },
     "geometry": {
       "type": "Point",

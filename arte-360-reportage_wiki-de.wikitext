@@ -5330,7 +5330,7 @@
 {{Episodenlisteneintrag2
 | NR_GES = 611
 | NR_ST = 5
-| OT = Laos - Futterblöcke und Büffel-Leasing<ref>Internetquellen zur Episode ''„Laos - Futterblöcke und Büffel-Leasing“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/613-laos-futterbloecke-und-bueffel-leasing-1620347 613] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/613-laos-futterbloecke-und-bueffel-leasing-1620347 1620347], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt27005233 tt27005233]</ref>
+| OT = Laos - Futterblöcke und Büffel-Leasing<ref>Internetquellen zur Episode ''„Laos - Futterblöcke und Büffel-Leasing“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/613-laos-futterbloecke-und-bueffel-leasing-1620347 613] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/613-laos-futterbloecke-und-bueffel-leasing-1620347 1620347], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt27005233 tt27005233], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=-P44t5KcvnU -P44t5KcvnU]</ref>
 | Feld1 = Les buffles, l’avenir pour le Laos ?
 | REG = Joanna Michna
 | EA = 2023-03-04
@@ -5339,7 +5339,7 @@
 {{Episodenlisteneintrag2
 | NR_GES = 612
 | NR_ST = 6
-| OT = Freiheit auf Pferderücken - Der lange Weg der Nez Perce<ref>Internetquellen zur Episode ''„Freiheit auf Pferderücken - Der lange Weg der Nez Perce“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/614-freiheit-auf-pferderuecken-der-lange-weg-der-nez-perce-1621705 614] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/614-freiheit-auf-pferderuecken-der-lange-weg-der-nez-perce-1621705 1621705], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt27110800 tt27110800]</ref>
+| OT = Freiheit auf Pferderücken - Der lange Weg der Nez Perce<ref>Internetquellen zur Episode ''„Freiheit auf Pferderücken - Der lange Weg der Nez Perce“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/614-freiheit-auf-pferderuecken-der-lange-weg-der-nez-perce-1621705 614] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/614-freiheit-auf-pferderuecken-der-lange-weg-der-nez-perce-1621705 1621705], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt27110800 tt27110800], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=DfNr1Uu8gB8 DfNr1Uu8gB8]</ref>
 | Feld1 = Nez-Percés, chevauchée pour la liberté
 | REG = J. Michael Schumacher
 | EA = 2023-03-11
@@ -5348,7 +5348,7 @@
 {{Episodenlisteneintrag2
 | NR_GES = 613
 | NR_ST = 7
-| OT = Peloponnes - Rückkehr zur Erde<ref>Internetquellen zur Episode ''„Peloponnes - Rückkehr zur Erde“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/615-peloponnes-rueckkehr-zur-erde-1623768 615] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/615-peloponnes-rueckkehr-zur-erde-1623768 1623768], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt27170463 tt27170463]</ref>
+| OT = Peloponnes - Rückkehr zur Erde<ref>Internetquellen zur Episode ''„Peloponnes - Rückkehr zur Erde“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/615-peloponnes-rueckkehr-zur-erde-1623768 615] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/615-peloponnes-rueckkehr-zur-erde-1623768 1623768], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt27170463 tt27170463], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=tghXc4mZKBY tghXc4mZKBY]</ref>
 | Feld1 = Péloponnèse, la pasionaria de l'agroforesterie
 | REG = Marie-Laure Daguenel
 | EA = 2023-03-18
@@ -5357,7 +5357,7 @@
 {{Episodenlisteneintrag2
 | NR_GES = 614
 | NR_ST = 8
-| OT = Handgemacht in Laos - Rares aus Rattan<ref>Internetquellen zur Episode ''„Handgemacht in Laos - Rares aus Rattan“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/616-handgemacht-in-laos-rares-aus-rattan-1625195 616] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/616-handgemacht-in-laos-rares-aus-rattan-1625195 1625195], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt27252897 tt27252897]</ref>
+| OT = Handgemacht in Laos - Rares aus Rattan<ref>Internetquellen zur Episode ''„Handgemacht in Laos - Rares aus Rattan“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/616-handgemacht-in-laos-rares-aus-rattan-1625195 616] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/616-handgemacht-in-laos-rares-aus-rattan-1625195 1625195], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt27252897 tt27252897], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=TGo1sAI9SbY TGo1sAI9SbY]</ref>
 | Feld1 = Laos, la vannerie dans tous ses états
 | REG = Martin Schacht
 | EA = 2023-03-25
@@ -5366,7 +5366,7 @@
 {{Episodenlisteneintrag2
 | NR_GES = 615
 | NR_ST = 9
-| OT = Leben mit dem Tod - Ahnenkult auf Sulawesi<ref>Internetquellen zur Episode ''„Leben mit dem Tod - Ahnenkult auf Sulawesi“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/617-leben-mit-dem-tod-ahnenkult-auf-sulawesi-1634635 617] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/617-leben-mit-dem-tod-ahnenkult-auf-sulawesi-1634635 1634635]</ref>
+| OT = Leben mit dem Tod - Ahnenkult auf Sulawesi<ref>Internetquellen zur Episode ''„Leben mit dem Tod - Ahnenkult auf Sulawesi“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/617-leben-mit-dem-tod-ahnenkult-auf-sulawesi-1634635 617] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/617-leben-mit-dem-tod-ahnenkult-auf-sulawesi-1634635 1634635], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=tZ-4ILBzxEU tZ-4ILBzxEU]</ref>
 | Feld1 = Toraja, le peuple qui fait vivre ses morts
 | REG = Myriam Bou-Saha
 | EA = 2023-05-06
@@ -5375,7 +5375,7 @@
 {{Episodenlisteneintrag2
 | NR_GES = 616
 | NR_ST = 10
-| OT = Die Waschbären von Berlin<ref>Internetquellen zur Episode ''„Die Waschbären von Berlin“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/618-die-waschbaeren-von-berlin-1640104 618] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/618-die-waschbaeren-von-berlin-1640104 1640104]</ref>
+| OT = Die Waschbären von Berlin<ref>Internetquellen zur Episode ''„Die Waschbären von Berlin“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/618-die-waschbaeren-von-berlin-1640104 618] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/618-die-waschbaeren-von-berlin-1640104 1640104], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=dYP_3p6zrEw dYP_3p6zrEw]</ref>
 | Feld1 = Les ratons laveurs, nos nouveaux voisins?
 | REG = Maja Dielhenn
 | EA = 2023-05-20
