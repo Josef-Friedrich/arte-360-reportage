@@ -33884,6 +33884,73 @@ seasons:
         fernsehserien_episode_no: 621
         fernsehserien_episode_slug: 621-istanbul-stadt-der-katzen-1658784
         fernsehserien_episode_id: 1658784
+    -   fernsehserien_episode_no: 622
+        fernsehserien_episode_slug: 622-georgien-die-dorfschule-im-kaukasus-1661786
+        fernsehserien_episode_id: 1661786
+    -   fernsehserien_episode_no: 623
+        fernsehserien_episode_slug: 623-island-seltsame-schaetze-aus-dem-meer-1664145
+        fernsehserien_episode_id: 1664145
+    -   fernsehserien_episode_no: 624
+        fernsehserien_episode_slug: 624-argentinien-die-winzerinnen-von-mendoza-1668117
+        fernsehserien_episode_id: 1668117
+    -   fernsehserien_episode_no: 625
+        fernsehserien_episode_slug: 625-australien-mission-schnabeltier-1670887
+        fernsehserien_episode_id: 1670887
+    -   fernsehserien_episode_no: 626
+        fernsehserien_episode_slug: 626-faeroeer-zu-hause-im-nordatlantik-aus-liebe-zur-schoenheit-1674399
+        fernsehserien_episode_id: 1674399
+    -   fernsehserien_episode_no: 627
+        fernsehserien_episode_slug: 627-indonesien-werft-unter-palmen-indonesiens-pinisis-1678086
+        fernsehserien_episode_id: 1678086
+    -   fernsehserien_episode_no: 628
+        fernsehserien_episode_slug: 628-yabusame-japans-samurai-ladys-1679266
+        fernsehserien_episode_id: 1679266
+    -   fernsehserien_episode_no: 629
+        fernsehserien_episode_slug: 629-das-weisse-gold-von-noirmoutier-1681709
+        fernsehserien_episode_id: 1681709
+    -   fernsehserien_episode_no: 630
+        fernsehserien_episode_slug: 630-neufundland-bleiben-oder-gehen-1692534
+        fernsehserien_episode_id: 1692534
+    -   fernsehserien_episode_no: 631
+        fernsehserien_episode_slug: 631-paris-hauptstadt-der-bienen-1692535
+        fernsehserien_episode_id: 1692535
+    -   fernsehserien_episode_no: 632
+        fernsehserien_episode_slug: 632-vietnam-bruecken-bauen-fuer-bedrohte-affen-1692536
+        fernsehserien_episode_id: 1692536
+    -   fernsehserien_episode_no: 633
+        fernsehserien_episode_slug: 633-connemara-wie-das-land-so-das-pony-1692537
+        fernsehserien_episode_id: 1692537
+    -   fernsehserien_episode_no: 634
+        fernsehserien_episode_slug: 634-normandie-flache-wasser-reiche-natur-1692538
+        fernsehserien_episode_id: 1692538
+    -   fernsehserien_episode_no: 635
+        fernsehserien_episode_slug: 635-cholitas-die-fliegenden-frauen-boliviens-1692539
+        fernsehserien_episode_id: 1692539
+    -   fernsehserien_episode_no: 636
+        fernsehserien_episode_slug: 636-new-york-die-foodtruck-koenige-von-astoria-1692540
+        fernsehserien_episode_id: 1692540
+    -   fernsehserien_episode_no: 637
+        fernsehserien_episode_slug: 637-der-letzte-saeumer-des-piemont-simbabwe-kampf-ums-haar-1695175
+        fernsehserien_episode_id: 1695175
+    -   fernsehserien_episode_no: 638
+        fernsehserien_episode_slug: 638-malediven-im-rhythmus-der-riffmantas-1696890
+        fernsehserien_episode_id: 1696890
+    -   fernsehserien_episode_no: 639
+        fernsehserien_episode_slug: 639-brasiliens-regenwald-zurueck-in-die-zukunft-1697573
+        fernsehserien_episode_id: 1697573
+    -   fernsehserien_episode_no: 640
+        fernsehserien_episode_slug: 640-brasilien-neue-hoffnung-fuer-die-hyazintharas-1700544
+        fernsehserien_episode_id: 1700544
+    -   fernsehserien_episode_no: 641
+        fernsehserien_episode_slug: 641-das-teuerste-stroh-der-welt-1702644
+        fernsehserien_episode_id: 1702644
+    -   fernsehserien_episode_no: 642
+        fernsehserien_episode_slug: 642-hati-bondhu-die-elefantenschuetzer-von-assam-1710832
+        fernsehserien_episode_id: 1710832
+    -   fernsehserien_episode_no: 643
+        fernsehserien_episode_slug: 643-piemont-mit-mulis-ueber-stock-und-stein-1721175
+        fernsehserien_episode_id: 1721175
+
 dvds:
 -   title: Kolumbien - Die rasenden Engel der Linea 5
     release_date: '2007-01-01'
