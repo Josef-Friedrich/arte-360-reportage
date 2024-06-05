@@ -34060,9 +34060,9 @@ seasons:
           Mohammed Afifi ist ein ägyptischer Foodtruck-Betreiber, der große Pläne hat. Er will in Zukunft mal eine ganze Flotte sein Eigen nennen und vielleicht sogar ein Restaurant eröffnen. Einige Foodtruck-Betreiber haben es dagegen bereits geschafft. Der "King of Falafel", der "King Souvlaki" und der "Rey del Taco" betreiben mehrere Imbisswagen, Restaurants und sind Arbeitgeber für Angehörige und Verwandte. Aber auch ihr Weg zum Erfolg war steinig.'
         summary: 'Foodtrucks haben New York im Sturm erobert. Vor allem den Stadtteil Astoria in Queens, denn mehr noch als in anderen Bezirken New Yorks lebt hier bis heute die Idee vom Einwanderungsland Amerika. Stolz behaupten die Bewohner, dass nirgendwo sonst so viele Menschen verschiedener Kulturen und Sprachen eng beieinander leben. Und mit ihnen Speisen und Rezepte aus aller Welt.'
         director: Sascha Just
-    -   fernsehserien_episode_no: 637
-        fernsehserien_episode_slug: 637-der-letzte-saeumer-des-piemont-simbabwe-kampf-ums-haar-1695175
-        fernsehserien_episode_id: 1695175
+    # -   fernsehserien_episode_no: 637
+    #     fernsehserien_episode_slug: 637-der-letzte-saeumer-des-piemont-simbabwe-kampf-ums-haar-1695175
+    #     fernsehserien_episode_id: 1695175
     -   fernsehserien_episode_no: 638
         fernsehserien_episode_slug: 638-malediven-im-rhythmus-der-riffmantas-1696890
         fernsehserien_episode_id: 1696890
