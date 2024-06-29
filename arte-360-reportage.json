@@ -15051,11 +15051,17 @@
           "fernsehserien_episode_slug": "631-paris-hauptstadt-der-bienen-1692535",
           "fernsehserien_episode_id": 1692535,
           "youtube_video_id": "eCPoZupaFWE"
-        },
+        }
+      ]
+    },
+    {
+      "no": 26,
+      "year": 2024,
+      "episodes": [
         {
           "overall_no": 630,
-          "season_no": 25,
-          "episode_no": 24,
+          "season_no": 26,
+          "episode_no": 1,
           "title": "Vietnam: Brücken für bedrohte Affen",
           "description": "Die Halbinsel Son Tra an der Küste Vietnams ist für die Rotschenkligen Kleideraffen der wichtigste Rückzugsort. Trotz der Nähe zur Millionenstadt Da Nang ist der Dschungel hier noch weitgehend intakt, vor allem aufgrund der Geschichte des Ortes. Hier ging einst die US-amerikanische Navy zu Beginn des Vietnamkriegs an Land, danach blieb die Halbinsel aufgrund ihrer strategisch bedeutsamen Lage militärisches Sperrgebiet. So konnten sich die störempfindlichen Kleideraffen hier weitgehend ungestört entwickeln.\nRotschenkel-Kleideraffen gehören zur Primatengruppe der Languren. Es sind reine Vegetarier, sie ernähren sich hauptsächlich von den Blättern der Baumkronen. Einst lebten Rotschenkel-Kleideraffen weit verteilt, aber vor allem durch den verheerenden Krieg sank ihre Zahl bedrohlich. Weite Waldbestände wurden verwüstet, viele hungrige Vietnamesen ernährten sich von Wildtieren, auch von Kleideraffen. Jahrzehnte nach Kriegsende ist der Rotschenkel-Langur eine stark vom Aussterben bedrohte Art.\nEs gibt verschiedene Languren-Arten, aber die Rotschenkel-Languren haben ein einzigartiges Farbenkleid und gelten als die schönsten Primaten der Welt. Auf der Halbinsel Son Tra überwachen Tieraktivisten wie Tuan Bui Van und Luc Nguyen seit Jahren den Bestand der auffallend schönen und geschickten Kletterer. Die Tiere hier müssen überleben, um ihre Art in freier Wildbahn erhalten zu können.\nRotschenkel-Kleideraffen werden ausgewachsen etwa 70 Zentimeter groß und sind äußerst friedliche Tiere. Sie leben in kleinen Gruppen, in denen es meist nur ein Männchen gibt. Der größte Teil ihres Lebens spielt sich in den Wipfeln der Bäume ab, von deren Blättern sie sich ernähren und wo sie sich vor Raubtieren sicher fühlen. Seit jedoch das Militär eine Straße mitten durch den Affenwald gebaut hat, haben viele Languren Schwierigkeiten bei der Nahrungssuche. Tierschützer sind alarmiert. Kann es gelingen, mittels Kletterbrücken die Letzten Ihrer Art in freier Wildbahn zu erhalten?",
           "summary": "Die Rotschenkligen Kleideraffen gelten als die schönsten Primaten der Welt. Doch Wilderei und illegaler Tierhandel haben fast zu ihrer Ausrottung geführt. Nur wenige Tiere konnten in Vietnam überleben. Engagierte Tierschutzaktivist*innen versuchen nun zu retten, was noch zu retten ist.",
@@ -15068,8 +15074,8 @@
         },
         {
           "overall_no": 631,
-          "season_no": 25,
-          "episode_no": 25,
+          "season_no": 26,
+          "episode_no": 2,
           "title": "Connemara: Wie das Land, so das Pony",
           "description": "Connemara liegt am Atlantik im äußersten Westen Irlands. Es ist ein wilder Landstrich, mit windgepeitschten Halbinseln, felsigen Mooren und schroffen Bergen. Diese raue Natur ist das Reich eines faszinierenden Pferdes: des Connemara-Ponys, der einzigen einheimischen Rasse auf Irland. Zu den treuen Vierbeinern empfinden insbesondere die alteingesessenen Bewohner der Region eine tiefe Verbundenheit. Schließlich ist es nicht lange her, dass die Connemara-Ponys den Menschen hier das Überleben sicherten.\nDie kräftigen und widerstandsfähigen Arbeitstiere wurden überall in der Gegend zum Ackerbau und Transport eingesetzt. Sie gehörten mit zur Familie. Zwar sind diese Zeiten längst vorbei, doch noch immer identifizieren sich viele bodenständige Einheimische mit ihren geliebten Ponys.\nConnemara ist die Wiege einer Rasse, die für ihre Ausdauer und Freundlichkeit bekannt ist und bei Wettbewerben in vielen Disziplinen hervorragende Leistungen erbringt: ob in der Rasse-Show oder auf dem Hindernis-Parcours. Verschiedene Kreuzungen mit iberischen Pferden und englischen Vollblütern haben nach und nach das Aussehen dieses muskulösen Ponys geprägt. Inzwischen wächst die Nachfrage unter Züchtern weltweit; selbst in Asien interessiert man sich heute für die großartigen Ponys aus Connemara.\nHöhepunkt des Jahres in Irland ist für Pony-Enthusiasten die Clifden Pony Show. Sie ist eine wahre Institution und das weltweit größte Treffen von Liebhabern des berühmten Connemara-Ponys. Diese jährliche Messe findet im Herzen der kleinen Hauptstadt der Region statt, wo die besten Züchter jedes Jahr darauf hoffen, die höchste Trophäe, eine „rote Rosette“, an den Hals ihres besten Pferdes zu heften. Die Pony Show setzt auch eine irische Tradition fort - die Zuchtschau, ein echter Schönheitswettbewerb, bei dem die vielversprechendsten Connemara-Ponys in verschiedenen Kategorien ausgezeichnet werden. Und wer etwas auf sich hält als Züchter dieser Rasse, der muss hier dabei sein.",
           "summary": "Das Connemara-Pony ist in Irland seit Generationen Kult. Voller Leidenschaft werden rund um diese robuste Pony-Rasse eigene Shows und Reitwettbewerbe abgehalten. Hier treten die edelsten Tiere gegeneinander an – Highlight der Shows ist die in Clifden, der Hauptstadt von Connemara. In diesem Jahr feiert der austragende Verband sein hundertjähriges Jubiläum.",
@@ -15082,8 +15088,8 @@
         },
         {
           "overall_no": 632,
-          "season_no": 25,
-          "episode_no": 26,
+          "season_no": 26,
+          "episode_no": 3,
           "title": "Normandie: Flache Wasser, reiche Natur",
           "continent": "Europa",
           "location_wikidata": "Q463529",
@@ -15102,8 +15108,8 @@
         },
         {
           "overall_no": 633,
-          "season_no": 25,
-          "episode_no": 27,
+          "season_no": 26,
+          "episode_no": 4,
           "title": "Cholitas – Die fliegenden Frauen Boliviens",
           "continent": "Europa",
           "location_wikidata": "Q1491",
@@ -15122,8 +15128,8 @@
         },
         {
           "overall_no": 634,
-          "season_no": 25,
-          "episode_no": 28,
+          "season_no": 26,
+          "episode_no": 5,
           "title": "New York, die Foodtruck-Könige von Astoria",
           "continent": "Amerika",
           "location_wikidata": "Q121765",
@@ -15142,8 +15148,8 @@
         },
         {
           "overall_no": 635,
-          "season_no": 25,
-          "episode_no": 29,
+          "season_no": 26,
+          "episode_no": 6,
           "title": "Malediven, im Rhythmus der Riffmantas",
           "location_wikidata": "Q949513",
           "coordinates": [
@@ -15160,8 +15166,8 @@
         },
         {
           "overall_no": 636,
-          "season_no": 25,
-          "episode_no": 30,
+          "season_no": 26,
+          "episode_no": 7,
           "title": "Brasiliens Regenwald, zurück in die Zukunft",
           "description": "Paulo da Silva Bererra ist unzufrieden. Seit vielen Jahren kommen Fremde in sein kleines Dorf Açaical am Rande des brasilianischen Regenwaldes. Wie seine Nachbarn gehört auch Paulo zum Volk der Munduruku, einer indigenen Gemeinschaft, die seit Generationen in der Region lebt. Doch seit Jahren siedeln sich fremde Landwirte an und stören die indigene Gemeinschaft. Einige Eindringlinge betreiben Rinderfarmen. Auch die Kleinbauern der Munduruku setzen inzwischen auf zweifelhafte Methoden einer einseitigen Landwirtschaft, viele nutzen chemischen Dünger und Unkrautvernichter. Täglich versinkt das Dorf unter einer dicken Staubschicht, verursacht von schweren Lastwagen, mit denen die Ernten der benachbarten Großbetriebe abtransportiert werden. Paulo möchte das ändern und den Indigenen vor allem wieder zu mehr Eigenständigkeit und Selbstbestimmung verhelfen. Zusammen mit der ehemaligen Lehrerin Maria Alves dos Santos macht er sich deshalb auf den Weg in das Dorf Vista Alegre, das seit Jahren eigene Baumschulen anlegt und eine Rückbesinnung auf alte Anbaumethoden und kulturelle Traditionen fördert. Selbst die in Vergessenheit geratene Sprache der Indigenen wird dort wieder gelehrt. Vista Alegre gilt deshalb als Vorbild für andere Dörfer. Hier werden auch Kurse für Menschen aus benachbarten Gemeinschaften angeboten, die es Vista Alegre gleichtun wollen. Ein Angebot, das Paulo und Maria gern annehmen. Am Ende hoffen sie, mit einem reichen Fundus an Wissen und neuen Ideen zurückzukehren, um auch in ihrem Dorf die dringend benötigte Wende zurück in die Zukunft einläuten zu können.",
           "summary": "Die Amazonasregion ist Heimat Tausender Tier- und Pflanzenarten – und mehrerer indigener Völker. Enttäuscht vom modernen Leben, besinnen sie sich auf ihre alte Lebensweise, bauen Maniok und Kakao an und forsten gerodete Flächen mit einheimischen Pflanzenarten auf. Ist die alte Lebensweise ein Weg, um dem drohenden Verschwinden des Regenwaldes entgegenzuwirken?",
@@ -15174,8 +15180,8 @@
         },
         {
           "overall_no": 637,
-          "season_no": 25,
-          "episode_no": 31,
+          "season_no": 26,
+          "episode_no": 8,
           "title": "Brasilien: Neue Hoffnung für die Hyazintharas",
           "description": "Neiva Guedes hat sich vor vielen Jahren in die leuchtend blauen Hyazintharas verliebt, als sie die großen und majestätischen Vögel durch den brasilianischen Regenwald fliegen sah. Von da an widmete sich die engagierte Biologin dem Schutz der Tiere. Und dieser war auch bitter nötig, denn ihre Zahl war dramatisch im Sinken begriffen.\nWährend die Vögel schon immer der moderaten Jagd durch Indigene, die ihre bunten Federn für Kostüme nutzten, und Raubtiere ausgesetzt waren, kam nun noch die verstärkte Abholzung des Regenwaldes hinzu, die den Papageien die Möglichkeit für den Nestbau nahm. Hyazintharas nutzen nämlich einen ganz bestimmten Baum dazu: den Mandovi-Baum. Nur dessen Stamm hat die nötige Dicke und Stabilität, damit die stattlichen Vögel darin ihre Bruthöhlen bauen können.\nNeben der Aufforstung dieser Bäume bietet ihnen Neiva Guedes nun eigens entwickelte Nistkästen, die von den Vögeln gerne akzeptiert werden. Zudem hat sich Neiva auch des Problems angenommen, dass in der Regel nur ein einziges der geschlüpften Küken die ersten Wochen in der Natur überlebt. Noch in der Brutphase erklimmt die Ornithologin mittels Bergsteiger-Equipment die hohen Bäume, entnimmt den Nestern die noch unausgebrüteten Eier und lässt die Jungen im Labor schlüpfen. Sind die dann stark genug, um überleben zu können, schiebt Neiva sie den Eltern wieder unter. Ein gewagtes, aber erfolgversprechendes Projekt, welches den Hyazintharas helfen könnte, auch in Zukunft zu überleben und ihr leuchtend blaues Federkleid in den Weiten des Amazonas zu präsentieren.",
           "summary": "Sie sind die größten Papageien des brasilianischen Regenwalds – und gelten als seine schönsten: Hyazintharas. Doch während der letzten Jahrzehnte sind die spektakulären Papageien seltener geworden. Durch die Abholzung des Regenwaldes gingen den Vögeln ihre Hauptnistplätze verloren, die großen Mandovi-Bäume. Nun jedoch gibt es Hoffnung für die Aras.",
@@ -15188,8 +15194,8 @@
         },
         {
           "overall_no": 638,
-          "season_no": 25,
-          "episode_no": 32,
+          "season_no": 26,
+          "episode_no": 9,
           "title": "Das teuerste Stroh der Welt",
           "continent": "Europa",
           "location_wikidata": "Q1409759",
@@ -15207,8 +15213,8 @@
         },
         {
           "overall_no": 639,
-          "season_no": 25,
-          "episode_no": 33,
+          "season_no": 26,
+          "episode_no": 10,
           "title": "Hati Bondhu, die Elefantenschützer von Assam",
           "continent": "Asien",
           "location_wikidata": "Q117307685",
@@ -15226,8 +15232,8 @@
         },
         {
           "overall_no": 640,
-          "season_no": 25,
-          "episode_no": 34,
+          "season_no": 26,
+          "episode_no": 11,
           "title": "Piemont - Mit Mulis über Stock und Stein",
           "continent": "Europa",
           "location_wikidata": "Q3935572",

@@ -34366,9 +34366,12 @@ seasons:
         fernsehserien_episode_slug: 631-paris-hauptstadt-der-bienen-1692535
         fernsehserien_episode_id: 1692535
         youtube_video_id: eCPoZupaFWE
+-   'no': 26
+    year: 2024
+    episodes:
     -   overall_no: 630
-        season_no: 25
-        episode_no: 24
+        season_no: 26
+        episode_no: 1
         title: 'Vietnam: Brücken für bedrohte Affen'
         description: 'Die Halbinsel Son Tra an der Küste Vietnams ist für
             die Rotschenkligen Kleideraffen der wichtigste Rückzugsort. Trotz
@@ -34416,8 +34419,8 @@ seasons:
         fernsehserien_episode_id: 1692536
         youtube_video_id: uy5BR-8L4N8
     -   overall_no: 631
-        season_no: 25
-        episode_no: 25
+        season_no: 26
+        episode_no: 2
         title: 'Connemara: Wie das Land, so das Pony'
         description: 'Connemara liegt am Atlantik im äußersten Westen Irlands.
             Es ist ein wilder Landstrich, mit windgepeitschten Halbinseln,
@@ -34467,8 +34470,8 @@ seasons:
         fernsehserien_episode_id: 1692537
         youtube_video_id: Vtlv_-OBj5M
     -   overall_no: 632
-        season_no: 25
-        episode_no: 26
+        season_no: 26
+        episode_no: 3
         title: 'Normandie: Flache Wasser, reiche Natur'
         continent: Europa
         location_wikidata: Q463529
@@ -34515,8 +34518,8 @@ seasons:
         fernsehserien_episode_id: 1692538
         youtube_video_id: fxaXRwjaosk
     -   overall_no: 633
-        season_no: 25
-        episode_no: 27
+        season_no: 26
+        episode_no: 4
         title: Cholitas – Die fliegenden Frauen Boliviens
         continent: Europa
         location_wikidata: Q1491
@@ -34563,8 +34566,8 @@ seasons:
         fernsehserien_episode_id: 1692539
         youtube_video_id: cGbP73aIii0
     -   overall_no: 634
-        season_no: 25
-        episode_no: 28
+        season_no: 26
+        episode_no: 5
         title: New York, die Foodtruck-Könige von Astoria
         continent: Amerika
         location_wikidata: Q121765
@@ -34604,8 +34607,8 @@ seasons:
         fernsehserien_episode_id: 1692540
         youtube_video_id: mPcAr-50yTs
     -   overall_no: 635
-        season_no: 25
-        episode_no: 29
+        season_no: 26
+        episode_no: 6
         title: Malediven, im Rhythmus der Riffmantas
         location_wikidata: Q949513
         coordinates:
@@ -34646,8 +34649,8 @@ seasons:
         fernsehserien_episode_id: 1696890
         youtube_video_id: _I9U3FCyFEE
     -   overall_no: 636
-        season_no: 25
-        episode_no: 30
+        season_no: 26
+        episode_no: 7
         title: Brasiliens Regenwald, zurück in die Zukunft
         description: Paulo da Silva Bererra ist unzufrieden. Seit vielen Jahren
             kommen Fremde in sein kleines Dorf Açaical am Rande des brasilianischen
@@ -34687,8 +34690,8 @@ seasons:
         fernsehserien_episode_id: 1697573
         youtube_video_id: Y3VexYvH_oY
     -   overall_no: 637
-        season_no: 25
-        episode_no: 31
+        season_no: 26
+        episode_no: 8
         title: 'Brasilien: Neue Hoffnung für die Hyazintharas'
         description: 'Neiva Guedes hat sich vor vielen Jahren in die leuchtend
             blauen Hyazintharas verliebt, als sie die großen und majestätischen
@@ -34730,8 +34733,8 @@ seasons:
         fernsehserien_episode_id: 1700544
         youtube_video_id: GTHf7uIgMTM
     -   overall_no: 638
-        season_no: 25
-        episode_no: 32
+        season_no: 26
+        episode_no: 9
         title: Das teuerste Stroh der Welt
         continent: Europa
         location_wikidata: Q1409759
@@ -34779,8 +34782,8 @@ seasons:
         fernsehserien_episode_id: 1702644
         youtube_video_id: UZfngvSQveI
     -   overall_no: 639
-        season_no: 25
-        episode_no: 33
+        season_no: 26
+        episode_no: 10
         title: Hati Bondhu, die Elefantenschützer von Assam
         continent: Asien
         location_wikidata: Q117307685
@@ -34829,8 +34832,8 @@ seasons:
         fernsehserien_episode_id: 1710832
         youtube_video_id: SALlndp7hAA
     -   overall_no: 640
-        season_no: 25
-        episode_no: 34
+        season_no: 26
+        episode_no: 11
         title: Piemont - Mit Mulis über Stock und Stein
         continent: Europa
         location_wikidata: Q3935572

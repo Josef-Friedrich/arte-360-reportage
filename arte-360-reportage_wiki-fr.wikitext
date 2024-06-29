@@ -2688,48 +2688,55 @@
 |23
 |
 | Titre inconnu
+|}
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|+Saison 26 — Année 2024
+!width="8%"|N°
+!width="5%"|
+!width="87%"|Titre français
 |-
-|24
+|1
 |
 | Titre inconnu
 |-
-|25
+|2
 |
 | Titre inconnu
 |-
-|26
+|3
 |⚪️
 | Titre inconnu
 |-
-|27
+|4
 |⚪️
 | Titre inconnu
 |-
-|28
+|5
 |🔴
 | Titre inconnu
 |-
-|29
+|6
 |
 | Titre inconnu
 |-
-|30
+|7
 |
 | Titre inconnu
 |-
-|31
+|8
 |
 | Titre inconnu
 |-
-|32
+|9
 |⚪️
 | Titre inconnu
 |-
-|33
+|10
 |🟡
 | Titre inconnu
 |-
-|34
+|11
 |⚪️
 | Titre inconnu
 |}
