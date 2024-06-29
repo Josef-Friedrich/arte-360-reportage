@@ -389,7 +389,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Beruf Grabräuber",
       "description": "https://www.youtube.com/watch?v=lpcnsH66igQ"
@@ -485,7 +485,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Chirurgen am Joystick",
       "description": "https://www.youtube.com/watch?v=GlPBNbgtNpE"
@@ -581,7 +581,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Schwarze Brandung",
       "description": "https://www.youtube.com/watch?v=MQNTxheCFSw"
@@ -613,7 +613,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "SOS auf hoher See",
       "description": "https://www.youtube.com/watch?v=qVKSXlGRLbU"
@@ -885,7 +885,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Die Adern von Berlin",
       "description": "https://www.youtube.com/watch?v=rh-tBQxi6Ro"
@@ -1077,7 +1077,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Stau am Himmel",
       "description": "https://www.youtube.com/watch?v=dvHVBW4rOLY"
@@ -1588,7 +1588,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Die türkischen Hochzeitsmacher",
       "description": "https://www.youtube.com/watch?v=Nhy3yuYYp5s"
@@ -2243,7 +2243,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Eremitage - Palast der Katzen",
       "description": "https://www.youtube.com/watch?v=_hiU5OzkNQ0"
@@ -2626,7 +2626,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Ein Dorfladen reist durch Lettland",
       "description": "https://www.youtube.com/watch?v=wHc_aS93aZc"
@@ -2850,7 +2850,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Russlands Zirkusschule auf Tour",
       "description": "https://www.youtube.com/watch?v=5dS2nHbEqsM"
@@ -2978,7 +2978,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Rom - Das Leben der Komparsen",
       "description": "https://www.youtube.com/watch?v=-M2Nf4GPbHg"
@@ -3250,7 +3250,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Die besten Hütehunde von Wales",
       "description": "https://www.youtube.com/watch?v=B0wdXJ_U7TY"
@@ -3314,7 +3314,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Das Whisky-Geheimnis von Islay",
       "description": "https://www.youtube.com/watch?v=4z_vcFuiwds"
@@ -3442,7 +3442,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Die Narzisseninsel vor Cornwall",
       "description": "https://www.youtube.com/watch?v=2k8K6kPY24U"
@@ -4018,7 +4018,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Eine Fähre nach Afrika",
       "description": "https://www.youtube.com/watch?v=GwUd8KDdUN4"
@@ -4354,7 +4354,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Schottland - Kampf, Clan und Königin",
       "description": "https://www.youtube.com/watch?v=AO5mzpVh6PI"
@@ -4546,7 +4546,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Die letzten Cowboys der Toskana",
       "description": "https://www.youtube.com/watch?v=We74sUq6TL8"
@@ -4690,7 +4690,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Shetland, das Ende des Öls",
       "description": "https://www.youtube.com/watch?v=ReBwYDvW-VM"
@@ -5858,7 +5858,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Die Bergführer vom Mont Blanc",
       "description": "https://www.youtube.com/watch?v=l7mRLjiZ1Tw"
@@ -6322,7 +6322,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Marseille - Kopfüber ins Blau",
       "description": "https://www.youtube.com/watch?v=sVXtF-PwPQY"
@@ -6370,7 +6370,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Zauberhafte Mosel",
       "description": "https://www.youtube.com/watch?v=fHHJoYzQuz8"
@@ -6626,7 +6626,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Frisch vermählt in Estland",
       "description": "https://www.youtube.com/watch?v=OzL34KdYfLM"
@@ -6914,7 +6914,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Geliebtes Korsika - Kampf gegen das Feuer",
       "description": "https://www.youtube.com/watch?v=cMm7vvWgVzY"
@@ -7138,7 +7138,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Jonathan, der Flugakrobat",
       "description": "https://www.youtube.com/watch?v=KxXSeCjQQQk"
@@ -7154,7 +7154,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Harris Tweed - Rückkehr einer Legende",
       "description": "https://www.youtube.com/watch?v=5uVU3J4oXak"

@@ -205,7 +205,7 @@
 | Titre inconnu
 |-
 |9
-|
+|⚪️
 | Titre inconnu
 |-
 |10
@@ -233,7 +233,7 @@
 | Titre inconnu
 |-
 |16
-|
+|⚪️
 | Titre inconnu
 |-
 |17
@@ -257,7 +257,7 @@
 | Titre inconnu
 |-
 |22
-|
+|⚪️
 | Titre inconnu
 |-
 |23
@@ -265,7 +265,7 @@
 | Titre inconnu
 |-
 |24
-|
+|⚪️
 | Titre inconnu
 |-
 |25
@@ -352,7 +352,7 @@
 | Titre inconnu
 |-
 |8
-|
+|⚪️
 | Titre inconnu
 |-
 |9
@@ -400,7 +400,7 @@
 | Titre inconnu
 |-
 |20
-|
+|⚪️
 | Titre inconnu
 |-
 |21
@@ -555,7 +555,7 @@
 | Titre inconnu
 |-
 |29
-|
+|⚪️
 | Titre inconnu
 |-
 |30
@@ -780,7 +780,7 @@
 | Mecaniqueros: Impossible n’Est Pas Cubain
 |-
 |14
-|
+|⚪️
 | Des Chats au Pays des Tsars
 |-
 |15
@@ -898,7 +898,7 @@
 | L'Arche de Noé en Bolivie
 |-
 |5
-|
+|⚪️
 | L'Épicier Volant de Lettonie
 |-
 |6
@@ -978,7 +978,7 @@
 | Alerte aux Alligators
 |-
 |25
-|
+|⚪️
 | Le Cirque de Moscou en Balade
 |-
 |26
@@ -1021,7 +1021,7 @@
 | Mon Bout de Loire
 |-
 |8
-|
+|⚪️
 | Rome, les Petits Rôles de Cinecitta
 |-
 |9
@@ -1096,7 +1096,7 @@
 | Brise-Glace de l’Arctique
 |-
 |2
-|
+|⚪️
 | Chiens, Graines de Champion
 |-
 |3
@@ -1112,7 +1112,7 @@
 | Népal, les Soldats du Toit du Monde
 |-
 |6
-|
+|⚪️
 | Islay — Le Secret du Whisky
 |-
 |7
@@ -1152,7 +1152,7 @@
 | Nouvelle-Zélande — Marathon Extrême
 |-
 |16
-|
+|⚪️
 | Scilly, Îles aux Narcisses
 |-
 |17
@@ -1322,7 +1322,7 @@
 | Maroc, la Face Cachée du Paradis
 |-
 |9
-|
+|⚪️
 | Gibraltar, un Bateau Pour l’Afrique
 |-
 |10
@@ -1413,7 +1413,7 @@
 !width="87%"|Titre français
 |-
 |1
-|
+|⚪️
 | L’Écosse des Clans
 |-
 |2
@@ -1461,7 +1461,7 @@
 | Jérusalem à l’Aube
 |-
 |13
-|
+|⚪️
 | Les Derniers Cowboys de Toscane
 |-
 |14
@@ -1508,7 +1508,7 @@
 | Le Petit Chasseur de l’Arctique
 |-
 |2
-|
+|⚪️
 | Les Îles Shetland, la Force du Vent
 |-
 |3
@@ -1818,7 +1818,7 @@
 | Zanzibar, une Affaire de Femmes
 |-
 |25
-|
+|⚪️
 | La Compagnie des Guides de Chamonix Mont-Blanc
 |-
 |26
@@ -1948,7 +1948,7 @@
 | Santa Cruz del Islote — Une Île Minuscule et Insolite
 |-
 |2
-|
+|⚪️
 | Plongeon de Haut Vol Sur Marseille
 |-
 |3
@@ -1960,7 +1960,7 @@
 | Brice, un Vacher à l’Assaut des Pyrénées
 |-
 |5
-|
+|⚪️
 | La Moselle, au Fil de l’Eau
 |-
 |6
@@ -2024,7 +2024,7 @@
 | Java, la Magie du Théâtre d’Ombres
 |-
 |21
-|
+|⚪️
 | Estonie, les Secrets d’un Mariage Réussi
 |-
 |22
@@ -2103,7 +2103,7 @@
 | SOS ânes sauvages du Kazakhstan
 |-
 |13
-|
+|⚪️
 | Corse, les maquisards du feu
 |-
 |14
@@ -2159,11 +2159,11 @@
 | Pérou, une Laine Qui Vaut de l’Or
 |-
 |27
-|
+|⚪️
 | Jonathan, Acrobate du Ciel
 |-
 |28
-|
+|⚪️
 | En Écosse, sur la route du tweed
 |-
 |29

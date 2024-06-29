@@ -1112,6 +1112,7 @@
           "episode_no": 9,
           "title": "Beruf Grabräuber",
           "topic": "Die Schatzjäger",
+          "continent": "Europa",
           "location_wikidata": "Q1947692",
           "coordinates": [
             37.43083333,
@@ -1280,6 +1281,7 @@
           "episode_no": 16,
           "title": "Chirurgen am Joystick",
           "topic": "Medizin der Zukunft",
+          "continent": "Europa",
           "location_wikidata": "Q2172279",
           "coordinates": [
             52.543554,
@@ -1429,6 +1431,7 @@
           "title": "Schwarze Brandung",
           "subtitle": "Nach der Ölkatastrophe an der bretonischen Küste",
           "topic": "Im Reich der Meere",
+          "continent": "Europa",
           "location_wikidata": "Q1354330",
           "coordinates": [
             47.15,
@@ -1479,6 +1482,7 @@
           "title": "SOS auf hoher See",
           "subtitle": "Moderne Rettungstechnik im Einsatz",
           "topic": "Im Reich der Meere",
+          "continent": "Europa",
           "location_wikidata": "Q24879",
           "coordinates": [
             53.076944444444,
@@ -1959,6 +1963,7 @@
           "episode_no": 8,
           "title": "Die Adern von Berlin",
           "subtitle": "Der Wasserkreislauf einer Metropole",
+          "continent": "Europa",
           "location_wikidata": "Q64",
           "coordinates": [
             52.516667,
@@ -2253,6 +2258,7 @@
           "season_no": 3,
           "episode_no": 20,
           "title": "Stau am Himmel",
+          "continent": "Europa",
           "location_wikidata": "Q14932",
           "coordinates": [
             49.98930555555555,
@@ -3129,6 +3135,7 @@
           "season_no": 4,
           "episode_no": 29,
           "title": "Die türkischen Hochzeitsmacher",
+          "continent": "Europa",
           "location_wikidata": "Q308928",
           "coordinates": [
             52.4875,
@@ -4295,6 +4302,7 @@
           "episode_no": 14,
           "title": "Eremitage - Palast der Katzen",
           "title_fr": "Des Chats au Pays des Tsars",
+          "continent": "Europa",
           "location_wikidata": "Q132783",
           "coordinates": [
             59.940555555555555,
@@ -4914,6 +4922,7 @@
           "episode_no": 5,
           "title": "Ein Dorfladen reist durch Lettland",
           "title_fr": "L'Épicier Volant de Lettonie",
+          "continent": "Europa",
           "location_wikidata": "Q208113",
           "coordinates": [
             56.5225,
@@ -5352,6 +5361,7 @@
           "episode_no": 25,
           "title": "Russlands Zirkusschule auf Tour",
           "title_fr": "Le Cirque de Moscou en Balade",
+          "continent": "Europa",
           "location_wikidata": "Q746304",
           "coordinates": [
             57.189,
@@ -5566,6 +5576,7 @@
           "episode_no": 8,
           "title": "Rom - Das Leben der Komparsen",
           "title_fr": "Rome, les Petits Rôles de Cinecitta",
+          "continent": "Europa",
           "location_wikidata": "Q728399",
           "coordinates": [
             41.85,
@@ -5971,6 +5982,7 @@
           "title": "Die besten Hütehunde von Wales",
           "title_fr": "Chiens, Graines de Champion",
           "alias": "Weltmeister auf vier Pfoten",
+          "continent": "Europa",
           "location_wikidata": "Q25",
           "coordinates": [
             52.35,
@@ -6066,6 +6078,7 @@
           "episode_no": 6,
           "title": "Das Whisky-Geheimnis von Islay",
           "title_fr": "Islay — Le Secret du Whisky",
+          "continent": "Europa",
           "location_wikidata": "Q273",
           "coordinates": [
             55.766666666667,
@@ -6291,6 +6304,7 @@
           "episode_no": 16,
           "title": "Die Narzisseninsel vor Cornwall",
           "title_fr": "Scilly, Îles aux Narcisses",
+          "continent": "Europa",
           "location_wikidata": "Q180209",
           "coordinates": [
             49.9361,
@@ -7215,6 +7229,7 @@
           "episode_no": 9,
           "title": "Eine Fähre nach Afrika",
           "title_fr": "Gibraltar, un Bateau Pour l’Afrique",
+          "continent": "Europa",
           "location_wikidata": "Q36124",
           "coordinates": [
             35.971666666667,
@@ -7725,6 +7740,7 @@
           "episode_no": 1,
           "title": "Schottland - Kampf, Clan und Königin",
           "title_fr": "L’Écosse des Clans",
+          "continent": "Europa",
           "location_wikidata": "Q897175",
           "coordinates": [
             57.01,
@@ -8008,6 +8024,7 @@
           "episode_no": 13,
           "title": "Die letzten Cowboys der Toskana",
           "title_fr": "Les Derniers Cowboys de Toscane",
+          "continent": "Europa",
           "location_wikidata": "Q1233184",
           "coordinates": [
             42.416388888889,
@@ -8245,6 +8262,7 @@
           "episode_no": 2,
           "title": "Shetland, das Ende des Öls",
           "title_fr": "Les Îles Shetland, la Force du Vent",
+          "continent": "Europa",
           "location_wikidata": "Q47134",
           "coordinates": [
             60.35685,
@@ -10043,6 +10061,7 @@
           "title": "Die Bergführer vom Mont Blanc",
           "title_fr": "La Compagnie des Guides de Chamonix Mont-Blanc",
           "alias": "Die Bergführer von Chamonix",
+          "continent": "Europa",
           "location_wikidata": "Q583",
           "coordinates": [
             45.83277777777778,
@@ -10751,6 +10770,7 @@
           "episode_no": 2,
           "title": "Marseille - Kopfüber ins Blau",
           "title_fr": "Plongeon de Haut Vol Sur Marseille",
+          "continent": "Europa",
           "location_wikidata": "Q23482",
           "coordinates": [
             43.296666666667,
@@ -10822,6 +10842,7 @@
           "episode_no": 5,
           "title": "Zauberhafte Mosel",
           "title_fr": "La Moselle, au Fil de l’Eau",
+          "continent": "Europa",
           "location_wikidata": "Q1373950",
           "coordinates": [
             44.248611111111,
@@ -11203,6 +11224,7 @@
           "episode_no": 21,
           "title": "Frisch vermählt in Estland",
           "title_fr": "Estonie, les Secrets d’un Mariage Réussi",
+          "continent": "Europa",
           "location_wikidata": "Q3457185",
           "coordinates": [
             59.121666666667,
@@ -11645,6 +11667,7 @@
           "episode_no": 13,
           "title": "Geliebtes Korsika - Kampf gegen das Feuer",
           "title_fr": "Corse, les maquisards du feu",
+          "continent": "Europa",
           "location_wikidata": "Q3334",
           "coordinates": [
             42.466666666667,
@@ -11997,6 +12020,7 @@
           "title": "Jonathan, der Flugakrobat",
           "title_fr": "Jonathan, Acrobate du Ciel",
           "title_en": "Jonathan, the sky acrobat",
+          "continent": "Europa",
           "location_wikidata": "Q13950",
           "coordinates": [
             49.5,
@@ -12021,6 +12045,7 @@
           "episode_no": 28,
           "title": "Harris Tweed - Rückkehr einer Legende",
           "title_fr": "En Écosse, sur la route du tweed",
+          "continent": "Europa",
           "location_wikidata": "Q123377",
           "coordinates": [
             58,
