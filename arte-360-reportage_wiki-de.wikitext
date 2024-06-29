@@ -195,7 +195,7 @@
 | Feld1 = -
 | REG = Wibke Kämpfer
 | EA = 1999-07-05
-| ZF = Jessica war als Kind anders als die anderen: Sie sprach früh ganze Sätze, konnte mit zweieinhalb lesen und war intellektuell ihren Altersgenossen weit voraus. Ihre Mutter schickte sie auf das schottische Hochbegabten-Internat Cademuir, da sie von ihren Mitschülern als Streberin gemieden wurde. Etwa 2–5% der Kinder haben einen IQ über 130 und gelten als hochbegabt. Oft wird Hochbegabung nicht erkannt, was zu Unterforderung und sozialer Ausgrenzung führt. Cademuir bietet diesen Kindern eine Chance für ein neues Leben.
+| ZF = Jessica war als Kind anders als die anderen: Sie sprach früh ganze Sätze, konnte mit zweieinhalb lesen und war intellektuell ihren Altersgenossen weit voraus. Ihre Mutter schickte sie auf das schottische Hochbegabten-Internat Cademuir, da sie von ihren Mitschülern als Streberin gemieden wurde. Etwa 2–5 % der Kinder haben einen IQ über 130 und gelten als hochbegabt. Oft wird Hochbegabung nicht erkannt, was zu Unterforderung und sozialer Ausgrenzung führt. Cademuir bietet diesen Kindern eine Chance für ein neues Leben.
 }}
 {{Episodenlisteneintrag2
 | NR_GES = 22
@@ -584,7 +584,7 @@
 | Feld1 = -
 | REG = Heidi Mühlenberg
 | EA = 2000-09-06
-| ZF = Täglich sterben weltweit 13.000 Menschen an Durst oder verschmutztem Wasser. Kriege um Trinkwasser nehmen zu. Wissenschaftler und Ingenieure arbeiten daran, die riesigen Wasserreserven der Erde anzuzapfen. 1,4 Milliarden Kubikkilometer Wasser existieren, aber 99,3% sind salziges Meerwasser oder Eis. Die Lösungen zur Gewinnung von Trinkwasser aus den Ozeanen variieren. Auf der Arabischen Halbinsel versorgen Entsalzungsanlagen die Reichen mit Wasser. In Puerto Rico hat José Pichardo mit Unterstützung eines deutschen Ingenieurs solarbetriebene Wasserentsalzungsanlagen entwickelt. Er hofft, dass sie bald auch die Bewohner der Armenviertel von San Juan versorgen können.
+| ZF = Täglich sterben weltweit 13.000 Menschen an Durst oder verschmutztem Wasser. Kriege um Trinkwasser nehmen zu. Wissenschaftler und Ingenieure arbeiten daran, die riesigen Wasserreserven der Erde anzuzapfen. 1,4 Milliarden Kubikkilometer Wasser existieren, aber 99,3 % sind salziges Meerwasser oder Eis. Die Lösungen zur Gewinnung von Trinkwasser aus den Ozeanen variieren. Auf der Arabischen Halbinsel versorgen Entsalzungsanlagen die Reichen mit Wasser. In Puerto Rico hat José Pichardo mit Unterstützung eines deutschen Ingenieurs solarbetriebene Wasserentsalzungsanlagen entwickelt. Er hofft, dass sie bald auch die Bewohner der Armenviertel von San Juan versorgen können.
 }}
 {{Episodenlisteneintrag2
 | NR_GES = 64
@@ -748,7 +748,7 @@
 | Feld1 = Les Prisonniers du Désert
 | REG = Johanna Gibbon
 | EA = 2001-01-05
-| ZF = Im Südwesten der USA erhalten kriminelle und schwererziehbare Jugendliche eine zweite Chance. Die „Anasazi Foundation“ führt therapeutische Survivalkurse in der ausgedörrten Wüste Arizonas durch. Die Temperaturen erreichen bis zu 43 Grad, und das Überleben hängt davon ab, wie man Nahrung und Wasser findet. Zwei Monate lang müssen sich straffällig gewordene Jugendliche behaupten und werden von einem Totonac-Indianer namens Ezekiel Sanchez unterrichtet. Der Kontakt zur Außenwelt ist verboten, und täglich legen sie eine 15 Kilometer lange Strecke in der Wüste zurück. Die Rückfallquote beträgt nur 52%, im Vergleich zu herkömmlichen Strafvollzugsmaßnahmen ist dies zehnmal höher.
+| ZF = Im Südwesten der USA erhalten kriminelle und schwererziehbare Jugendliche eine zweite Chance. Die „Anasazi Foundation“ führt therapeutische Survivalkurse in der ausgedörrten Wüste Arizonas durch. Die Temperaturen erreichen bis zu 43 Grad, und das Überleben hängt davon ab, wie man Nahrung und Wasser findet. Zwei Monate lang müssen sich straffällig gewordene Jugendliche behaupten und werden von einem Totonac-Indianer namens Ezekiel Sanchez unterrichtet. Der Kontakt zur Außenwelt ist verboten, und täglich legen sie eine 15 Kilometer lange Strecke in der Wüste zurück. Die Rückfallquote beträgt nur 52 %, im Vergleich zu herkömmlichen Strafvollzugsmaßnahmen ist dies zehnmal höher.
 }}
 {{Episodenlisteneintrag2
 | NR_GES = 81
@@ -946,7 +946,7 @@
 | Feld1 = -
 | REG = Henning Jaeckisch
 | EA = 2001-10-03
-| ZF = Die Namdeb Diamond Corporation betreibt eine große Diamantenmine in Oranjemund, Namibia. In dieser Region ist Diamantenschmuggel weit verbreitet, wobei Brieftauben als Transportmittel verwendet werden. Die Haltung von Tauben wurde jedoch streng verboten, nachdem eine flugunfähige Taube auf dem Minengelände mit schweren Rohdiamanten entdeckt wurde. Schätzungen zufolge werden bis zu 30% der Diamantenausbeute gestohlen. Das Sperrgebiet in der Namibwüste wurde bereits 1908 von den deutschen Kolonialherren eingerichtet und ist seitdem für die Öffentlichkeit unzugänglich.
+| ZF = Die Namdeb Diamond Corporation betreibt eine große Diamantenmine in Oranjemund, Namibia. In dieser Region ist Diamantenschmuggel weit verbreitet, wobei Brieftauben als Transportmittel verwendet werden. Die Haltung von Tauben wurde jedoch streng verboten, nachdem eine flugunfähige Taube auf dem Minengelände mit schweren Rohdiamanten entdeckt wurde. Schätzungen zufolge werden bis zu 30 % der Diamantenausbeute gestohlen. Das Sperrgebiet in der Namibwüste wurde bereits 1908 von den deutschen Kolonialherren eingerichtet und ist seitdem für die Öffentlichkeit unzugänglich.
 }}
 {{Episodenlisteneintrag2
 | NR_GES = 103
@@ -1554,7 +1554,7 @@
 | NR_GES = 170
 | NR_ST = 19
 | OT = Ein Traum von Schokolade<ref>Internetquellen zur Episode ''„Ein Traum von Schokolade“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/170-ein-traum-von-schokolade-339496 170] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/170-ein-traum-von-schokolade-339496 339496], ''thetvdb.com'': Staffel/Episode [https://thetvdb.com/series/272599-show/episodes/4642041 S06E19] Episoden-ID [https://thetvdb.com/series/272599-show/episodes/4642041 4642041], ''imdb.com'': Titel-ID [https://www.imdb.com/title/tt1350548 tt1350548], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=BxUtrDZX1FI BxUtrDZX1FI]</ref>
-| Feld1 = 100% chocolat
+| Feld1 = 100 % chocolat
 | REG = Jörg Daniel Hissen, Peter Moers
 | EA = 2004-12-30
 }}
@@ -5224,7 +5224,7 @@
 | Feld1 = La soie de mer, trésor de Sardaigne
 | REG = Therese Engels
 | EA = 2022-10-29
-| ZF = Assuntina und Guiseppina Pes bereiten sich auf die große Prozession zu Ehren des heiligen Antiochus vor, dem Schutzpatron Sardiniens. Die jährliche Festa Manna, eine 15 Tage nach Ostern stattfindende Feier, bringt die Einwohner der gesamten Insel zusammen. Die Schwestern stellen Altartücher her oder reparieren alte Tücher. Sie verwenden Reste der seltenen Muschelseide, die aus der Pinna nobilis gewonnen wird, einer vom Aussterben bedrohten Riesenmuschel. Doch die Muschelpopulation ist stark dezimiert. Die Einwohner müssen sich an alternative Materialien wie Maulbeerseide gewöhnen. Assuntina und Guiseppina arbeiten mit großer Sorgfalt, um rechtzeitig fertig zu werden.
+| ZF = Assuntina und Giuseppina Pes bereiten sich auf die große Prozession zu Ehren des heiligen Antiochus vor, dem Schutzpatron Sardiniens. Die jährliche Festa Manna, eine 15 Tage nach Ostern stattfindende Feier, bringt die Einwohner der gesamten Insel zusammen. Die Schwestern stellen Altartücher her oder reparieren alte Tücher. Sie verwenden Reste der seltenen Muschelseide, die aus der Pinna nobilis gewonnen wird, einer vom Aussterben bedrohten Riesenmuschel. Doch die Muschelpopulation ist stark dezimiert. Die Einwohner müssen sich an alternative Materialien wie Maulbeerseide gewöhnen. Assuntina und Giuseppina arbeiten mit großer Sorgfalt, um rechtzeitig fertig zu werden.
 }}
 {{Episodenlisteneintrag2
 | NR_GES = 601

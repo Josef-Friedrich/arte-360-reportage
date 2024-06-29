@@ -718,7 +718,7 @@
 |-
 |19
 |🔴
-| 100% chocolat
+| 100 % chocolat
 |}
 
 {| class="wikitable sortable mw-collapsible mw-collapsed"
