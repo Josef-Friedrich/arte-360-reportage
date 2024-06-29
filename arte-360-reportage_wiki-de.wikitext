@@ -5543,44 +5543,48 @@
 | EA = 
 | ZF = Foodtrucks haben New York im Sturm erobert. Vor allem den Stadtteil Astoria in Queens, denn mehr noch als in anderen Bezirken New Yorks lebt hier bis heute die Idee vom Einwanderungsland Amerika. Stolz behaupten die Bewohner, dass nirgendwo sonst so viele Menschen verschiedener Kulturen und Sprachen eng beieinander leben. Und mit ihnen Speisen und Rezepte aus aller Welt.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 635
 | NR_ST = 29
-| OT = Malediven, im Rhythmus der Riffmantas<ref>Internetquellen zur Episode ''„Malediven, im Rhythmus der Riffmantas“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/638-malediven-im-rhythmus-der-riffmantas-1696890 638] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/638-malediven-im-rhythmus-der-riffmantas-1696890 1696890]</ref>
+| OT = Malediven, im Rhythmus der Riffmantas<ref>Internetquellen zur Episode ''„Malediven, im Rhythmus der Riffmantas“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/638-malediven-im-rhythmus-der-riffmantas-1696890 638] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/638-malediven-im-rhythmus-der-riffmantas-1696890 1696890], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=_I9U3FCyFEE _I9U3FCyFEE]</ref>
 | Feld1 = -
 | REG = -
 | EA = 
+| ZF = Die Malediven – der Archipel im Indischen Ozean ist nicht nur ein Sehnsuchtsort für Urlauber, sondern vor allem gibt es hier einen weltweit einzigartigen Ort, an dem man den gigantischen Mantarochen in großer Zahl hautnah begegnen kann: die Hanifaru-Bucht im Baa-Atoll. Die Riesenrochen sind hier streng geschützt.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 636
 | NR_ST = 30
-| OT = Brasiliens Regenwald, zurück in die Zukunft<ref>Internetquellen zur Episode ''„Brasiliens Regenwald, zurück in die Zukunft“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/639-brasiliens-regenwald-zurueck-in-die-zukunft-1697573 639] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/639-brasiliens-regenwald-zurueck-in-die-zukunft-1697573 1697573]</ref>
+| OT = Brasiliens Regenwald, zurück in die Zukunft<ref>Internetquellen zur Episode ''„Brasiliens Regenwald, zurück in die Zukunft“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/639-brasiliens-regenwald-zurueck-in-die-zukunft-1697573 639] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/639-brasiliens-regenwald-zurueck-in-die-zukunft-1697573 1697573], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=Y3VexYvH_oY Y3VexYvH_oY]</ref>
 | Feld1 = -
-| REG = -
+| REG = Gordian Arneth
 | EA = 
+| ZF = Die Amazonasregion ist Heimat Tausender Tier- und Pflanzenarten – und mehrerer indigener Völker. Enttäuscht vom modernen Leben, besinnen sie sich auf ihre alte Lebensweise, bauen Maniok und Kakao an und forsten gerodete Flächen mit einheimischen Pflanzenarten auf. Ist die alte Lebensweise ein Weg, um dem drohenden Verschwinden des Regenwaldes entgegenzuwirken?
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 637
 | NR_ST = 31
-| OT = Brasilien: Neue Hoffnung für die Hyazintharas<ref>Internetquellen zur Episode ''„Brasilien: Neue Hoffnung für die Hyazintharas“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/640-brasilien-neue-hoffnung-fuer-die-hyazintharas-1700544 640] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/640-brasilien-neue-hoffnung-fuer-die-hyazintharas-1700544 1700544]</ref>
+| OT = Brasilien: Neue Hoffnung für die Hyazintharas<ref>Internetquellen zur Episode ''„Brasilien: Neue Hoffnung für die Hyazintharas“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/640-brasilien-neue-hoffnung-fuer-die-hyazintharas-1700544 640] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/640-brasilien-neue-hoffnung-fuer-die-hyazintharas-1700544 1700544], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=GTHf7uIgMTM GTHf7uIgMTM]</ref>
 | Feld1 = -
-| REG = -
+| REG = Emilie Rozand
 | EA = 
+| ZF = Sie sind die größten Papageien des brasilianischen Regenwalds – und gelten als seine schönsten: Hyazintharas. Doch während der letzten Jahrzehnte sind die spektakulären Papageien seltener geworden. Durch die Abholzung des Regenwaldes gingen den Vögeln ihre Hauptnistplätze verloren, die großen Mandovi-Bäume. Nun jedoch gibt es Hoffnung für die Aras.
 }}
-{{Episodenlisteneintrag
+{{Episodenlisteneintrag2
 | NR_GES = 638
 | NR_ST = 32
-| OT = Das teuerste Stroh der Welt<ref>Internetquellen zur Episode ''„Das teuerste Stroh der Welt“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/641-das-teuerste-stroh-der-welt-1702644 641] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/641-das-teuerste-stroh-der-welt-1702644 1702644]</ref>
+| OT = Das teuerste Stroh der Welt<ref>Internetquellen zur Episode ''„Das teuerste Stroh der Welt“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/641-das-teuerste-stroh-der-welt-1702644 641] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/641-das-teuerste-stroh-der-welt-1702644 1702644], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=UZfngvSQveI UZfngvSQveI]</ref>
 | Feld1 = -
 | REG = -
 | EA = 
+| ZF = Roggenstroh galt in Frankreich lange Zeit als Baumaterial armer Leute. Mit ihm wurden Möbel bespannt oder Dächer gedeckt. Als die maschinelle Massenproduktion neue, dauerhaftere Materialien hervorbrachte, geriet das Stroh in Vergessenheit. Inzwischen wird es von engagierten Handwerkern wiederentdeckt und erlebt eine Renaissance – als teure Einlegearbeit oder prunkvolle Dekoration.
 }}
 {{Episodenlisteneintrag
 | NR_GES = 639
 | NR_ST = 33
-| OT = Hati Bondhu, die Elefantenschützer von Assam<ref>Internetquellen zur Episode ''„Hati Bondhu, die Elefantenschützer von Assam“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/642-hati-bondhu-die-elefantenschuetzer-von-assam-1710832 642] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/642-hati-bondhu-die-elefantenschuetzer-von-assam-1710832 1710832]</ref>
+| OT = Hati Bondhu, die Elefantenschützer von Assam<ref>Internetquellen zur Episode ''„Hati Bondhu, die Elefantenschützer von Assam“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/642-hati-bondhu-die-elefantenschuetzer-von-assam-1710832 642] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/642-hati-bondhu-die-elefantenschuetzer-von-assam-1710832 1710832], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=SALlndp7hAA SALlndp7hAA]</ref>
 | Feld1 = -
-| REG = -
+| REG = Brigitte Kornetzky
 | EA = 
 }}
 {{Episodenlisteneintrag2
