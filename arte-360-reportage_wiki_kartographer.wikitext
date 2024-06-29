@@ -8953,6 +8953,118 @@
         41.01
       ]
     }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "marker-color": "#ffffff",
+      "marker-size": "small",
+      "title": "Normandie: Flache Wasser, reiche Natur",
+      "description": "https://www.youtube.com/watch?v=fxaXRwjaosk"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5,
+        49.5
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "marker-color": "#ffffff",
+      "marker-size": "small",
+      "title": "Cholitas – Die fliegenden Frauen Boliviens",
+      "description": "https://www.youtube.com/watch?v=cGbP73aIii0"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -68.13333333333334,
+        -16.495833333333334
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "marker-color": "#ff0000",
+      "marker-size": "small",
+      "title": "New York, die Foodtruck-Könige von Astoria",
+      "description": "https://www.youtube.com/watch?v=mPcAr-50yTs"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.92382,
+        40.764587
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "marker-color": "#cccccc",
+      "marker-size": "small",
+      "title": "Malediven, im Rhythmus der Riffmantas",
+      "description": "https://www.youtube.com/watch?v=_I9U3FCyFEE"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        72.95,
+        5.1333333333333
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "marker-color": "#ffffff",
+      "marker-size": "small",
+      "title": "Das teuerste Stroh der Welt",
+      "description": "https://www.youtube.com/watch?v=UZfngvSQveI"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.96,
+        46.578333333333
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "marker-color": "#ffff00",
+      "marker-size": "small",
+      "title": "Hati Bondhu, die Elefantenschützer von Assam",
+      "description": "https://www.youtube.com/watch?v=SALlndp7hAA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        92.9011,
+        26.3203
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "marker-color": "#ffffff",
+      "marker-size": "small",
+      "title": "Piemont - Mit Mulis über Stock und Stein",
+      "description": "https://www.youtube.com/watch?v=9lSM-soPWHo"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.313064,
+        44.191151
+      ]
+    }
   }
 ]
 }

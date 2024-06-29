@@ -937,7 +937,7 @@
 | Feld1 = -
 | REG = Marc O. Eberle
 | EA = 2001-10-01
-| ZF = In Nepal glauben jedes Jahr etwa 10.000 Mädchen an das Märchen von gut bezahlter Arbeit in den indischen Großstädten. Schlepperbanden nutzen dies vor allem in den traditionellen Bergregionen aus, und die Mädchen landen als Prostituierte in den großen Rotlichtvierteln. Die Hilfsorganisation Maiti Nepal ist ihre einzige Hoffnung. Bobita Lama, 26, wurde vor vier Jahren von Maiti Nepal gerettet und arbeitet heute selbst für die Organisation. Sie und ihre Kolleginnen befreien verschleppte Mädchen aus den Bordellen, doch die Arbeit ist Sisyphusarbeit: Für jedes gerettete Mädchen gibt es neue, die zur "Einarbeitung" bereitstehen.
+| ZF = In Nepal glauben jedes Jahr etwa 10.000 Mädchen an das Märchen von gut bezahlter Arbeit in den indischen Großstädten. Schlepperbanden nutzen dies vor allem in den traditionellen Bergregionen aus, und die Mädchen landen als Prostituierte in den großen Rotlichtvierteln. Die Hilfsorganisation Maiti Nepal ist ihre einzige Hoffnung. Bobita Lama, 26, wurde vor vier Jahren von Maiti Nepal gerettet und arbeitet heute selbst für die Organisation. Sie und ihre Kolleginnen befreien verschleppte Mädchen aus den Bordellen, doch die Arbeit ist Sisyphusarbeit: Für jedes gerettete Mädchen gibt es neue, die zur „Einarbeitung“ bereitstehen.
 }}
 {{Episodenlisteneintrag2
 | NR_GES = 102
@@ -5415,7 +5415,7 @@
 | Feld1 = -
 | REG = -
 | EA = 2023-09-09
-| ZF = Swanetien ist eine der faszinierendsten und auch abgelegensten Regionen Georgiens. Doch viele Bergbewohner verlassen ihre Heimat, um in den Städten ein besseres Leben zu suchen. Betroffen ist auch Kala, ein kleines, fast 2000 Meter hoch gelegenes Dorf. Der örtliche Schuldirektor befindet sich in einer heiklen Lage. Nur noch 17 Schüler besuchen seine Schule ...
+| ZF = Swanetien ist eine der faszinierendsten und auch abgelegensten Regionen Georgiens. Doch viele Bergbewohner verlassen ihre Heimat, um in den Städten ein besseres Leben zu suchen. Betroffen ist auch Kala, ein kleines, fast 2000 Meter hoch gelegenes Dorf. Der örtliche Schuldirektor befindet sich in einer heiklen Lage. Nur noch 17 Schüler besuchen seine Schule …
 }}
 {{Episodenlisteneintrag2
 | NR_GES = 621
@@ -5487,7 +5487,7 @@
 | Feld1 = -
 | REG = Holger Riedel
 | EA = 2023-12-16
-| ZF = Ein Fischerdorf an der abgelegenen Südküste Neufundlands steht vor der letzten großen Entscheidung: Seine 75 Bewohner müssen wählen, ob sie bleiben oder alle zusammen ihre Heimat für immer verlassen sollen. Die Provinzverwaltung unterstützt die Umsiedlung mit bis zu 270.000 Dollar pro Haushalt, denn die Aufrechterhaltung der öffentlichen Infrastruktur wäre noch teurer ...
+| ZF = Ein Fischerdorf an der abgelegenen Südküste Neufundlands steht vor der letzten großen Entscheidung: Seine 75 Bewohner müssen wählen, ob sie bleiben oder alle zusammen ihre Heimat für immer verlassen sollen. Die Provinzverwaltung unterstützt die Umsiedlung mit bis zu 270.000 Dollar pro Haushalt, denn die Aufrechterhaltung der öffentlichen Infrastruktur wäre noch teurer …
 }}
 {{Episodenlisteneintrag2
 | NR_GES = 629
@@ -5532,7 +5532,7 @@
 | Feld1 = -
 | REG = Carmen Butta
 | EA = 2024-01-20
-| ZF = Mit ihren gewagten Sprüngen und Pirouetten brettern sie gegen hartnäckig fortbestehende Klischees. Ihre Tracht soll provozieren und zeigen, dass den Cholitas heute alles offensteht. Dass sie sich dabei ausgerechnet auf Skateboards schwingen, löst Erstaunen aus. Doch die jungen Bolivianerinnen haben diesen Sport mit Bedacht gewählt ...
+| ZF = Mit ihren gewagten Sprüngen und Pirouetten brettern sie gegen hartnäckig fortbestehende Klischees. Ihre Tracht soll provozieren und zeigen, dass den Cholitas heute alles offensteht. Dass sie sich dabei ausgerechnet auf Skateboards schwingen, löst Erstaunen aus. Doch die jungen Bolivianerinnen haben diesen Sport mit Bedacht gewählt …
 }}
 {{Episodenlisteneintrag2
 | NR_GES = 634

@@ -17667,17 +17667,16 @@ seasons:
             erinnere mich noch: als wir früher im Stadion waren, um ein Spiel
             zu sehen, da hatten wir unser Laguiole und Proviant dabei und
             haben in der Halbzeit unsere Wurst gegessen. Das kann man heute
-            nicht mehr machen…“ sagt Charles Couttier, eine Berühmtheit
-            unter den Messermachern der Auvergne. Das Traditionshandwerk von
-            Thiers bewegt sich ‚auf Messers Schneide’ - verlassen sind die
-            schiefen Gassen mit ihren einst üppigen Schaufensterauslagen,
-            viele ehemals florierende Traditionsbetriebe stehen still. Und
-            doch kämpft eine Handvoll großer Meister um die Zukunft des Taschenmessers
-            - in der Stadt Thiers und auch in Laguiole. Der 43-jährige Cyrill
-            Ganivet ist ein Quereinsteiger in der Branche - noch vor Jahren
-            war er ein hochbezahlter Manager, bis er seinen Job an den Nagel
-            hängte, einen maroden Messerbetrieb übernahm und zu neuer Blüte
-            führte.
+            nicht mehr machen…“ sagt Charles Couttier, eine Berühmtheit unter
+            den Messermachern der Auvergne. Das Traditionshandwerk von Thiers
+            bewegt sich ‚auf Messers Schneide’ - verlassen sind die schiefen
+            Gassen mit ihren einst üppigen Schaufensterauslagen, viele ehemals
+            florierende Traditionsbetriebe stehen still. Und doch kämpft eine
+            Handvoll großer Meister um die Zukunft des Taschenmessers - in
+            der Stadt Thiers und auch in Laguiole. Der 43-jährige Cyrill Ganivet
+            ist ein Quereinsteiger in der Branche - noch vor Jahren war er
+            ein hochbezahlter Manager, bis er seinen Job an den Nagel hängte,
+            einen maroden Messerbetrieb übernahm und zu neuer Blüte führte.
 
             Längst sind die hochwertigen Messer nicht nur als Alltagsgegenstand
             sondern auch unter extravaganten Sammlern und Fans wieder in Mode
@@ -34471,6 +34470,11 @@ seasons:
         season_no: 25
         episode_no: 26
         title: 'Normandie: Flache Wasser, reiche Natur'
+        continent: Europa
+        location_wikidata: Q463529
+        coordinates:
+        - 49.5
+        - -1.5
         description: 'Im Frühling sinkt der Wasserspiegel in den Sümpfen von
             Cotentin, große Teile treten als Landflächen hervor. Der Beginn
             der warmen Jahreszeit bedeutet für die Viehzüchter Christelle
@@ -34514,6 +34518,11 @@ seasons:
         season_no: 25
         episode_no: 27
         title: Cholitas – Die fliegenden Frauen Boliviens
+        continent: Europa
+        location_wikidata: Q1491
+        coordinates:
+        - -16.495833333333334
+        - -68.13333333333334
         description: 'Auf 3.500 Meter über der bolivianischen Millionenstadt
             La Paz erstreckt sich ihr Revier: Pura Pura – das höchstgelegene
             Skate-Gelände der Welt. Mit ihren traditionellen "Pollera"-Röcken
@@ -34557,6 +34566,11 @@ seasons:
         season_no: 25
         episode_no: 28
         title: New York, die Foodtruck-Könige von Astoria
+        continent: Amerika
+        location_wikidata: Q121765
+        coordinates:
+        - 40.764587
+        - -73.92382
         description: 'Astoria liegt am Ufer des East River, der Queens von
             Manhattan trennt. Der Stadtteil mit Blick auf die Manhattan Skyline
             ist eine Welt für sich. Besonders deutlich merkt man das am Speiseangebot.
@@ -34593,6 +34607,10 @@ seasons:
         season_no: 25
         episode_no: 29
         title: Malediven, im Rhythmus der Riffmantas
+        location_wikidata: Q949513
+        coordinates:
+        - 5.1333333333333
+        - 72.95
         description: 'Baa ist eines von 26 Atollen des von 1.196 Inseln durchzogenen
             maledivischen Archipels. Diese traumhafte Inselwelt ist der Arbeitsplatz
             der Manta-Forscherin Elspeth Strike, genannt Ellie, von der britischen
@@ -34715,6 +34733,11 @@ seasons:
         season_no: 25
         episode_no: 32
         title: Das teuerste Stroh der Welt
+        continent: Europa
+        location_wikidata: Q1409759
+        coordinates:
+        - 46.578333333333
+        - 4.96
         description: 'Lison de Caunes hat einen wichtigen Termin bei einem
             Luxusjuwelier in Paris. Die französische Künstlerin und Möbeldesignerin,
             deren Markenzeichen die Arbeit mit dem veredelten Stroh ist, das
@@ -34759,6 +34782,11 @@ seasons:
         season_no: 25
         episode_no: 33
         title: Hati Bondhu, die Elefantenschützer von Assam
+        continent: Asien
+        location_wikidata: Q117307685
+        coordinates:
+        - 26.3203
+        - 92.9011
         description: 'Im nordostindischen Bundesstaat Assam sind die Lebensbedingungen
             für Elefanten wie für Menschen von Konflikten geprägt. Über 30
             Millionen Einwohner ernähren sich hier von Reis und teilen sich
@@ -34804,6 +34832,11 @@ seasons:
         season_no: 25
         episode_no: 34
         title: Piemont - Mit Mulis über Stock und Stein
+        continent: Europa
+        location_wikidata: Q3935572
+        coordinates:
+        - 44.191151
+        - 7.313064
         description: 'Auf 2.300 Meter Höhe im italienischen Piemont liegt
             die Schutzhütte Morelli Buzzi hoch oben in den Seealpen. Hier
             führen keine Wege oder Straßen hoch. Drei Monate im Jahr muss

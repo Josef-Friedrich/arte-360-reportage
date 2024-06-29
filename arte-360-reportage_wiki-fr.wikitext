@@ -2698,15 +2698,15 @@
 | Titre inconnu
 |-
 |26
-|
+|⚪️
 | Titre inconnu
 |-
 |27
-|
+|⚪️
 | Titre inconnu
 |-
 |28
-|
+|🔴
 | Titre inconnu
 |-
 |29
@@ -2722,14 +2722,14 @@
 | Titre inconnu
 |-
 |32
-|
+|⚪️
 | Titre inconnu
 |-
 |33
-|
+|🟡
 | Titre inconnu
 |-
 |34
-|
+|⚪️
 | Titre inconnu
 |}
