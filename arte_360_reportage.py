@@ -248,6 +248,7 @@ class YouTube:
                         related_playlists = content_details["relatedPlaylists"]
                         if "uploads" in related_playlists:
                             return related_playlists["uploads"]
+        return None
 
     def fetch_videos_by_channel(self, channel_id: str) -> PlaylistItemListResponse:
         playlist_id = self.get_playlist_id_of_channel(channel_id)
@@ -369,11 +370,13 @@ class Scraper:
         tag = self.__soup.find(tag_name, **kwargs)
         if tag and isinstance(tag, bs4.Tag):
             return tag
+        return None
 
     def find_str(self, tag_name: str, **kwargs: typing.Any) -> str | None:
         tag = self.find(tag_name, **kwargs)
         if tag:
             return str(tag)
+        return None
 
     def get_text(self, element: typing.Any):
         return bs4.BeautifulSoup(element, "lxml").text
@@ -390,6 +393,7 @@ class FernsehserienScraper(Scraper):
             text = re.sub(r"\s+", " ", text)
             text = text.replace(self.MARKER, "\n")
             return text
+        return None
 
     @property
     def director(self) -> str | None:
@@ -398,6 +402,7 @@ class FernsehserienScraper(Scraper):
             dt = li.find("dt", itemprop="name")
             if dt:
                 return dt.text
+        return None
 
 
 class DataAccessor:
@@ -408,6 +413,7 @@ class DataAccessor:
             if not isinstance(self.data[key], str):
                 raise Exception(f"{key} {self.data[key]} is not string")
             return typing.cast(str, self.data[key])
+        return None
 
     def _get_str_key_safe(self, key: str) -> str:
         value = self._get_str_key(key)
@@ -420,6 +426,7 @@ class DataAccessor:
             if not isinstance(self.data[key], int):
                 raise Exception(f"{key} {self.data[key]} is not int")
             return typing.cast(int, self.data[key])
+        return None
 
     def _get_int_key_safe(self, key: str) -> int:
         value = self._get_int_key(key)
@@ -519,6 +526,7 @@ class Dvd(DataAccessor):
     def episodes(self) -> list[str] | None:
         if "episodes" in self.data and self.data["episodes"]:
             return self.data["episodes"]
+        return None
 
     def export_data(self) -> DvdData:
         return typing.cast(DvdData, super().export_data(DvdData.__annotations__))
@@ -735,6 +743,7 @@ class Episode(DataAccessor):
             description: str = re.sub(r" \(Text: .*\)", "", self.description)
             description = re.sub(r"\s+", " ", description, flags=re.DOTALL)
             return description.strip()
+        return None
 
     @property
     def description_breaks(self) -> str | None:
@@ -743,6 +752,7 @@ class Episode(DataAccessor):
             description: str = self.description.replace("\n", "\n\n")
             description = re.sub(r" \(Text: .*\)", "", description)
             return description.strip()
+        return None
 
     @property
     def description_fernsehserien(self) -> str | None:
@@ -792,6 +802,7 @@ class Episode(DataAccessor):
     def air_date_date(self) -> None | date:
         if "air_date" in self.data and self.data["air_date"]:
             return date.fromisoformat(self.data["air_date"])
+        return None
 
     def format_air_date(self, format: str) -> str:
         d = self.air_date_date

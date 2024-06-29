@@ -33884,219 +33884,727 @@ seasons:
         fernsehserien_episode_no: 621
         fernsehserien_episode_slug: 621-istanbul-stadt-der-katzen-1658784
         fernsehserien_episode_id: 1658784
-    -   fernsehserien_episode_no: 622
+    -   overall_no: 620
+        season_no: 25
+        episode_no: 14
+        title: Georgien - Welcome Teacher!
+        description: 'Lana Dvalishvili hat sich vor Jahren für ein Leben im
+            Bergdorf Kala entschieden. Als die Englischlehrerin damals dem
+            Aufruf des Programms des georgischen Bildungsministeriums folgte,
+            um in der Dorfschule in Kala zu unterrichten, war Englisch im
+            wahrsten Sinne des Wortes für die meisten der Bewohner eine Fremdsprache.
+            Das hat sich geändert. Denn obwohl Lana Dvalishvili den harten
+            Winter nicht mag und ihre Familie und die Stadt oft so vermisst,
+            dass das Heimweh sie überkommt, bleibt sie in dem entlegenen Bergdorf.
+            Und dass, obwohl es der Schule an nahezu allem mangelt, nicht
+            nur an Lehrern. Doch Lana Dvalishvili tut, was sie kann. Wenn
+            das Geld bei den Familien oder in der Schule nicht reicht, kauft
+            sie selbst Bücher und Hefte von ihrem Gehalt, auch wenn sie dafür
+            sparen muss. Inzwischen ist es schon der vierte harte Bergwinter,
+            den sie in Kala überstanden hat. Solange die Kinder an ihrer Seite
+            sind, ihr vertrauen, sie lieben und von ihr lernen, weiß Lana
+            Dvalishvili, dass auch sie es weiter schaffen wird.
+
+            Ihre älteste Schülerin, die 18-jährige Mariam, hofft nicht zuletzt
+            wegen ihrer guten Englischkenntnisse die Aufnahmeprüfungen an
+            der Universität in der Hauptstadt Tiflis zu bestehen. Und den
+            7-jährigen Luka, ihren jüngsten Schüler, unterrichtet Lana bereits
+            seit Beginn der ersten Klasse. Ob und wie es in der Dorfschule
+            im Kaukasus gelingt, zu lernen und zu lehren, welche Herausforderungen
+            und Abenteuer Schüler und Lehrer in Swanetien dabei erwarten,
+            davon erzählt dieser Film.'
+        summary: Swanetien ist eine der faszinierendsten und auch abgelegensten
+            Regionen Georgiens. Doch viele Bergbewohner verlassen ihre Heimat,
+            um in den Städten ein besseres Leben zu suchen. Betroffen ist
+            auch Kala, ein kleines, fast 2000 Meter hoch gelegenes Dorf. Der
+            örtliche Schuldirektor befindet sich in einer heiklen Lage. Nur
+            noch 17 Schüler besuchen seine Schule ...
+        fernsehserien_episode_no: 622
         fernsehserien_episode_slug: 622-georgien-die-dorfschule-im-kaukasus-1661786
         fernsehserien_episode_id: 1661786
-        title: Georgien - Welcome Teacher!
-        description: 'Lana Dvalishvili hat sich vor Jahren für ein Leben im Bergdorf Kala entschieden. Als die Englischlehrerin damals dem Aufruf des Programms des georgischen Bildungsministeriums folgte, um in der Dorfschule in Kala zu unterrichten, war Englisch im wahrsten Sinne des Wortes für die meisten der Bewohner eine Fremdsprache. Das hat sich geändert. Denn obwohl Lana Dvalishvili den harten Winter nicht mag und ihre Familie und die Stadt oft so vermisst, dass das Heimweh sie überkommt, bleibt sie in dem entlegenen Bergdorf. Und dass, obwohl es der Schule an nahezu allem mangelt, nicht nur an Lehrern. Doch Lana Dvalishvili tut, was sie kann. Wenn das Geld bei den Familien oder in der Schule nicht reicht, kauft sie selbst Bücher und Hefte von ihrem Gehalt, auch wenn sie dafür sparen muss. Inzwischen ist es schon der vierte harte Bergwinter, den sie in Kala überstanden hat. Solange die Kinder an ihrer Seite sind, ihr vertrauen, sie lieben und von ihr lernen, weiß Lana Dvalishvili, dass auch sie es weiter schaffen wird.
+    -   overall_no: 621
+        season_no: 25
+        episode_no: 15
+        title: Island - Seltsame Schätze aus dem Meer
+        description: 'Im Fischerdorf Akranes an der isländischen Westküste
+            bereitet sich der alte Fischer Eymar mit seiner kleinen Crew darauf
+            vor, in See zu stechen. Der Fischfang unterliegt hier strengen
+            Fangquoten, die jedes Jahr erneut vom Fischereiministerium festgelegt
+            werden. So sollen die Ressourcen geschützt werden. Die Zahl der
+            Fischer nimmt stetig ab, denn nur noch wenige von ihnen besitzen
+            diese begehrten Fanglizenzen. Sie werden von Generation zu Generation
+            weitervererbt oder aber von den Familien weiterverkauft – zu Preisen,
+            die für junge Nachwuchsfischer oft unerschwinglich sind. So ist
+            der Fischfang in der Hand Weniger.
 
-          Ihre älteste Schülerin, die 18-jährige Mariam, hofft nicht zuletzt wegen ihrer guten Englischkenntnisse die Aufnahmeprüfungen an der Universität in der Hauptstadt Tiflis zu bestehen. Und den 7-jährigen Luka, ihren jüngsten Schüler, unterrichtet Lana bereits seit Beginn der ersten Klasse. Ob und wie es in der Dorfschule im Kaukasus gelingt, zu lernen und zu lehren, welche Herausforderungen und Abenteuer Schüler und Lehrer in Swanetien dabei erwarten, davon erzählt dieser Film.'
-        summary: Swanetien ist eine der faszinierendsten und auch abgelegensten Regionen Georgiens. Doch viele Bergbewohner verlassen ihre Heimat, um in den Städten ein besseres Leben zu suchen. Betroffen ist auch Kala, ein kleines, fast 2000 Meter hoch gelegenes Dorf. Der örtliche Schuldirektor befindet sich in einer heiklen Lage. Nur noch 17 Schüler besuchen seine Schule ...
-        director:
-    -   fernsehserien_episode_no: 623
+            Zu ihnen gehört Bootsbesitzer Eymar, der seit fast 70 Jahren als
+            Fischer arbeitet. Als kleiner, unabhängiger Anbieter hat er Anspruch
+            auf 150 Tonnen Kabeljau und 30 Tonnen Seegurke pro Jahr. Für den
+            Kabeljau braucht er ca. 16 Tage, für die Holothurie vier. Das
+            heißt, dass er in knapp 20 Tagen sein jährliches Soll erfüllt
+            hat und damit auch über die Runden kommt. Vor allem dank der Seegurke
+            und der steigenden Nachfrage nach ihr: Deren Preis ist in den
+            letzten Jahren gestiegen und liegt momentan bei 90 Cent pro Kilogramm.
+            Das rechnet sich bei 30 Tonnen. Abnehmer sind überwiegend Kunden
+            in China, wo die Holothurie als kulinarische Delikatesse angesehen
+            wird. Und auch die Pharmaindustrie interessiert sich für das seltsame
+            Wesen aus der Tiefe. Ein Ende des lukrativen Seegurken-Booms ist
+            nicht in Sicht.'
+        summary: 'Auf den Meeren Islands haben die Fischer jahrhundertelang
+            mit ihren Booten und Schiffen nach immer demselben Schatz gesucht:
+            dem Kabeljau. Seit einigen Jahren aber weckt ein weiterer Meeresschatz
+            Begehrlichkeiten – es ist ein seltsames, unbekanntes und eher
+            hässlich aussehendes Tier: die Seegurke, auch Holothurie genannt.
+            Sie ist der neue Star in den isländischen Gewässern.'
+        director: Vincent Froehly
+        fernsehserien_episode_no: 623
         fernsehserien_episode_slug: 623-island-seltsame-schaetze-aus-dem-meer-1664145
         fernsehserien_episode_id: 1664145
-        title: Island - Seltsame Schätze aus dem Meer
-        description: 'Im Fischerdorf Akranes an der isländischen Westküste bereitet sich der alte Fischer Eymar mit seiner kleinen Crew darauf vor, in See zu stechen. Der Fischfang unterliegt hier strengen Fangquoten, die jedes Jahr erneut vom Fischereiministerium festgelegt werden. So sollen die Ressourcen geschützt werden. Die Zahl der Fischer nimmt stetig ab, denn nur noch wenige von ihnen besitzen diese begehrten Fanglizenzen. Sie werden von Generation zu Generation weitervererbt oder aber von den Familien weiterverkauft – zu Preisen, die für junge Nachwuchsfischer oft unerschwinglich sind. So ist der Fischfang in der Hand Weniger.
-
-          Zu ihnen gehört Bootsbesitzer Eymar, der seit fast 70 Jahren als Fischer arbeitet. Als kleiner, unabhängiger Anbieter hat er Anspruch auf 150 Tonnen Kabeljau und 30 Tonnen Seegurke pro Jahr. Für den Kabeljau braucht er ca. 16 Tage, für die Holothurie vier. Das heißt, dass er in knapp 20 Tagen sein jährliches Soll erfüllt hat und damit auch über die Runden kommt. Vor allem dank der Seegurke und der steigenden Nachfrage nach ihr: Deren Preis ist in den letzten Jahren gestiegen und liegt momentan bei 90 Cent pro Kilogramm. Das rechnet sich bei 30 Tonnen. Abnehmer sind überwiegend Kunden in China, wo die Holothurie als kulinarische Delikatesse angesehen wird. Und auch die Pharmaindustrie interessiert sich für das seltsame Wesen aus der Tiefe. Ein Ende des lukrativen Seegurken-Booms ist nicht in Sicht.'
-        summary: 'Auf den Meeren Islands haben die Fischer jahrhundertelang mit ihren Booten und Schiffen nach immer demselben Schatz gesucht: dem Kabeljau. Seit einigen Jahren aber weckt ein weiterer Meeresschatz Begehrlichkeiten – es ist ein seltsames, unbekanntes und eher hässlich aussehendes Tier: die Seegurke, auch Holothurie genannt. Sie ist der neue Star in den isländischen Gewässern.'
-        director: Vincent Froehly
         youtube_video_id: nez0RgvTkHQ
-    -   fernsehserien_episode_no: 624
+    -   overall_no: 622
+        season_no: 25
+        episode_no: 16
+        title: Argentinien - Die Winzerinnen von Mendoza
+        description: 'Die Gruppe Mujeres de la Viña („die Frauen vom Weinberg“)
+            ist einer der Gründe, für den es sich zu leben lohnt, sagt Federica
+            Agüero nicht ohne Stolz. Die alleinerziehende Mutter hatte einst
+            die Idee, 22 Frauen mit unterschiedlichen, oft tragischen Lebensgeschichten
+            zusammenzubringen. Sie alle besitzen einen kleinen Weinberg, geerbt
+            von ihren Vorfahren oder geschiedenen Ehemännern, die nach der
+            Trennung die besten Weinberge für sich behielten. Doch nur in
+            der Gruppe war es den Frauen möglich, endlich einen eigenen Wein
+            zu produzieren und auf den Markt zu bringen.
+
+            Wein in der Wüstenregion Mendozas zu produzieren, ist nicht einfach.
+            Es bedarf größerer Investitionen, eines ausgeklügelten Wassersystems,
+            und auch das extreme Wetter mit Frost und Hitze stellt hohe Anforderungen
+            an die Traubenbearbeitung. Zehn Körbe voller Trauben – circa 250
+            Kilogramm – muss jede der Frauen jährlich beisteuern, damit sie
+            auf die gut 9.000 notwendigen Flaschen Malbec pro Jahr kommen.
+            Erst dann lohnt sich das Geschäft.
+
+            In Mendoza wird ihr Wein in Restaurants und Weinläden verkauft,
+            auch die Hauptstadt Buenos Aires hat er bereits erreicht. Doch
+            es bleibt der Traum der Winzerinnen vom Interesse aus dem Ausland
+            – dafür allerdings muss die Weinproduktion stabiler werden. In
+            diesem Jahr hat eine bekannte argentinische Werbedesignerin das
+            Etikett für "Apasionadas" entworfen – eine Liaison aus einem Herz
+            und der berühmten Traube. Es steht für das, was die Frauen darstellen
+            wollen: Leidenschaft, Stärke und die unverwüstliche Liebe zu den
+            Weinbergen. Eine Geschichte über starke Frauen und ihren besonderen
+            Wein.'
+        summary: Mendoza ist die wichtigste Weinregion Argentiniens. Hier
+            wächst die Malbec-Traube, aus der der berühmte Rotwein gekeltert
+            wird. Dieser Wein wird seit jeher hauptsächlich von Männern produziert.
+            Doch eine Gruppe engagierter Frauen erfüllt sich nun den Traum
+            vom eigenen Wein. Der Weg dahin war steinig, doch in der starken
+            Gemeinschaft ist aus dem Traum Realität geworden.
+        director: German Kral
+        fernsehserien_episode_no: 624
         fernsehserien_episode_slug: 624-argentinien-die-winzerinnen-von-mendoza-1668117
         fernsehserien_episode_id: 1668117
-        title: 'Argentinien - Die Winzerinnen von Mendoza'
-        description: 'Die Gruppe Mujeres de la Viña („die Frauen vom Weinberg“) ist einer der Gründe, für den es sich zu leben lohnt, sagt Federica Agüero nicht ohne Stolz. Die alleinerziehende Mutter hatte einst die Idee, 22 Frauen mit unterschiedlichen, oft tragischen Lebensgeschichten zusammenzubringen. Sie alle besitzen einen kleinen Weinberg, geerbt von ihren Vorfahren oder geschiedenen Ehemännern, die nach der Trennung die besten Weinberge für sich behielten. Doch nur in der Gruppe war es den Frauen möglich, endlich einen eigenen Wein zu produzieren und auf den Markt zu bringen.
-
-          Wein in der Wüstenregion Mendozas zu produzieren, ist nicht einfach. Es bedarf größerer Investitionen, eines ausgeklügelten Wassersystems, und auch das extreme Wetter mit Frost und Hitze stellt hohe Anforderungen an die Traubenbearbeitung. Zehn Körbe voller Trauben – circa 250 Kilogramm – muss jede der Frauen jährlich beisteuern, damit sie auf die gut 9.000 notwendigen Flaschen Malbec pro Jahr kommen. Erst dann lohnt sich das Geschäft.
-
-          In Mendoza wird ihr Wein in Restaurants und Weinläden verkauft, auch die Hauptstadt Buenos Aires hat er bereits erreicht. Doch es bleibt der Traum der Winzerinnen vom Interesse aus dem Ausland – dafür allerdings muss die Weinproduktion stabiler werden. In diesem Jahr hat eine bekannte argentinische Werbedesignerin das Etikett für "Apasionadas" entworfen – eine Liaison aus einem Herz und der berühmten Traube. Es steht für das, was die Frauen darstellen wollen: Leidenschaft, Stärke und die unverwüstliche Liebe zu den Weinbergen. Eine Geschichte über starke Frauen und ihren besonderen Wein.'
-        summary: Mendoza ist die wichtigste Weinregion Argentiniens. Hier wächst die Malbec-Traube, aus der der berühmte Rotwein gekeltert wird. Dieser Wein wird seit jeher hauptsächlich von Männern produziert. Doch eine Gruppe engagierter Frauen erfüllt sich nun den Traum vom eigenen Wein. Der Weg dahin war steinig, doch in der starken Gemeinschaft ist aus dem Traum Realität geworden.
-        director: German Kral
         youtube_video_id: YJUk9tTub8s
-    -   fernsehserien_episode_no: 625
+    -   overall_no: 623
+        season_no: 25
+        episode_no: 17
+        title: 'Australien: Mission Schnabeltier'
+        description: Gilad Bino hat sein Leben dem Naturschutz und speziell
+            den Schnabeltieren verschrieben. Denn diese Tiere verkörpern für
+            ihn die Einzigartigkeit des australischen Kontinents, der gerade
+            in den letzten Jahren immer wieder von Umweltkatastrophen heimgesucht
+            wurde. Ganze Buschlandschaften brannten nieder, Flüsse trockneten
+            aus oder traten über die Ufer und spülten hinweg, was sich nicht
+            halten konnte. Ein Teil der Natur, wie bestimmte Pflanzenarten,
+            konnte sich mit der Situation arrangieren. Andere, weniger resistente
+            Tierarten verschwinden zusehends. Zu ihnen gehört das Schnabeltier
+            – eine außergewöhnliche Kreatur, die es nur hier gibt. Schnabeltiere
+            bewohnen hauptsächlich Flussläufe, an deren Ufern sie Höhlen bauen.
+            An diesen geschützten Orten legen sie die Eier für ihre Jungen,
+            die sie danach säugen. Zusammen mit dem Ameisenigel gehören sie
+            damit zu den absoluten Ausnahmeerscheinungen in der Natur. Im
+            Royal-Nationalpark, dem ältesten Nationalpark Australiens, gab
+            es einst viele Schnabeltiere. Doch sie verschwanden fast unmerklich.
+            Deshalb ist es jetzt Zeit, sie wieder anzusiedeln, findet Glad
+            Bino. In einem über mehrere Jahre angelegten Forschungsprojekt
+            fängt der Biologe mit seiner Kollegin Tanheal Bruch Tiere in anderen
+            Teilen des Kontinents ein, um sie im Park neu anzusiedeln. Aktionen,
+            die lange vorbereitet wurden und die vor allem nächtliche Einsätze
+            für die Wissenschaftler bedeuten. Denn Schnabeltiere sind nachtaktiv.
+            Mindestens zehn Tiere müssen Gilad und Tanheal fangen, wenn sie
+            eine neue Population im Royal-Nationalpark aufbauen wollen.
+        summary: 'Sie gehören zu den bekanntesten Tieren Australiens: die
+            Schnabeltiere. Ausgestattet mit einem Schnabel und gleichzeitig
+            einem dichten Pelz, eierlegend und trotzdem ihre Jungen säugend,
+            wurden die Tiere wegen ihres Pelzes gejagt und fast ausgerottet.
+            Zwischenzeitlich hatte sich ihr Bestand erholt. Doch neue Bedrohungen
+            setzen den eigentümlichen Tieren erneut zu.'
+        director: Ludovic Petho
+        fernsehserien_episode_no: 625
         fernsehserien_episode_slug: 625-australien-mission-schnabeltier-1670887
         fernsehserien_episode_id: 1670887
-        title: 'Australien: Mission Schnabeltier'
-        description: 'Gilad Bino hat sein Leben dem Naturschutz und speziell den Schnabeltieren verschrieben. Denn diese Tiere verkörpern für ihn die Einzigartigkeit des australischen Kontinents, der gerade in den letzten Jahren immer wieder von Umweltkatastrophen heimgesucht wurde. Ganze Buschlandschaften brannten nieder, Flüsse trockneten aus oder traten über die Ufer und spülten hinweg, was sich nicht halten konnte. Ein Teil der Natur, wie bestimmte Pflanzenarten, konnte sich mit der Situation arrangieren. Andere, weniger resistente Tierarten verschwinden zusehends. Zu ihnen gehört das Schnabeltier – eine außergewöhnliche Kreatur, die es nur hier gibt. Schnabeltiere bewohnen hauptsächlich Flussläufe, an deren Ufern sie Höhlen bauen. An diesen geschützten Orten legen sie die Eier für ihre Jungen, die sie danach säugen. Zusammen mit dem Ameisenigel gehören sie damit zu den absoluten Ausnahmeerscheinungen in der Natur. Im Royal-Nationalpark, dem ältesten Nationalpark Australiens, gab es einst viele Schnabeltiere. Doch sie verschwanden fast unmerklich. Deshalb ist es jetzt Zeit, sie wieder anzusiedeln, findet Glad Bino. In einem über mehrere Jahre angelegten Forschungsprojekt fängt der Biologe mit seiner Kollegin Tanheal Bruch Tiere in anderen Teilen des Kontinents ein, um sie im Park neu anzusiedeln. Aktionen, die lange vorbereitet wurden und die vor allem nächtliche Einsätze für die Wissenschaftler bedeuten. Denn Schnabeltiere sind nachtaktiv. Mindestens zehn Tiere müssen Gilad und Tanheal fangen, wenn sie eine neue Population im Royal-Nationalpark aufbauen wollen.'
-        summary: 'Sie gehören zu den bekanntesten Tieren Australiens: die Schnabeltiere. Ausgestattet mit einem Schnabel und gleichzeitig einem dichten Pelz, eierlegend und trotzdem ihre Jungen säugend, wurden die Tiere wegen ihres Pelzes gejagt und fast ausgerottet. Zwischenzeitlich hatte sich ihr Bestand erholt. Doch neue Bedrohungen setzen den eigentümlichen Tieren erneut zu.'
-        director: Ludovic Petho
         youtube_video_id: gY-5SWOME9A
-    -   fernsehserien_episode_no: 626
+    -   overall_no: 624
+        season_no: 25
+        episode_no: 18
+        title: 'Färöer: Zu Hause im Nordatlantik'
+        description: 'Für die Wikinger, die die Färöer bevölkerten, war der
+            Bootsverkehr zwischen den 18 Inseln überlebenswichtig. Heute ist
+            Rudern Nationalsport und jeden Sommer Ende Juli finden die nationalen
+            Wettkämpfe im Hafen der Hauptstadt Tórshavn statt. Dann treten
+            um die 100 Teams in traditionellen Ruderbooten aus Holz gegeneinander
+            an.
+
+            Steuerfrau Jannie Dam Jacobsen trainiert dreimal wöchentlich ihr
+            Team, sechs Frauen im Alter zwischen 25 und 40 Jahren. Alle haben
+            Familie, sind berufstätig oder studieren. Den kräftezehrenden
+            Sport betreiben sie in ihrer Freizeit mit viel Ausdauer und ebenso
+            viel Leidenschaft. Das Team will den diesjährigen Pokal gewinnen
+            - in seinem blauen Holzboot.
+
+            Anders als Sportboote wird es von Hand gefertigt und weist keinerlei
+            Komfort auf. Wie viele Bewohner der grünen Inseln im Norden verfolgt
+            auch Jóhannis Danielsen gespannt die Wettkämpfe - wenn er dafür
+            die Zeit findet. Der Biologe ist ständig zwischen den 18 Inseln
+            des Färöer Archipels unterwegs. Er erforscht die hier nistenden
+            Seevögel, nimmt Bestandsaufnahmen von Trottellummen und Dreizehenmöwen
+            vor. Regelmäßig bestückt Jóhannis Seevögel mit kleinen Peilsendern,
+            um die Migration der Vögel verfolgen zu können. Per Helikopter
+            hat er auch auf der entlegenen Insel Mykines zu tun, wo nur noch
+            acht Menschen permanent wohnen und die Natur nahezu unberührt
+            geblieben ist.
+
+            Die Sommermonate verbringt auch Hans Meinhard hier, der als letztes
+            Kind auf der Insel aufgewachsen ist. Inzwischen ist er längst
+            erwachsen und lebt nur noch sporadisch auf Mykines. Am liebsten
+            aber würde er für immer auf der schönen und einsamen Insel wohnen.
+            Hier spürt man sie irgendwie noch - die Atmosphäre längst vergangener
+            Wikingerzeiten.
+
+            Farbenfreudige Geschichten, die das Leben schreibt. Reisen, Rituale
+            und Feste mit Menschen aus aller Welt.'
+        summary: Hoch im Norden, im stürmischen Nordatlantik, liegen die Färöer,
+            ein Archipel von 18 Inseln. Die Natur, rau und urtümlich, hat
+            das Leben der Bewohner stark geprägt. Schon als die Wikinger aus
+            dem heutigen Norwegen die Färöer bevölkerten, war der Bootsverkehr
+            zwischen den Inseln überlebenswichtig. Er sicherte vor allem die
+            Grundversorgung der Bewohner durch die Fischerei. Rudern ist heute
+            Nationalsport, und Frauen sind schon lange mit am Start.
+        director: Friederike Schlumbom
+        fernsehserien_episode_no: 626
         fernsehserien_episode_slug: 626-faeroeer-zu-hause-im-nordatlantik-aus-liebe-zur-schoenheit-1674399
         fernsehserien_episode_id: 1674399
-        title: 'Färöer: Zu Hause im Nordatlantik'
-        description: 'Für die Wikinger, die die Färöer bevölkerten, war der Bootsverkehr zwischen den 18 Inseln überlebenswichtig. Heute ist Rudern Nationalsport und jeden Sommer Ende Juli finden die nationalen Wettkämpfe im Hafen der Hauptstadt Tórshavn statt. Dann treten um die 100 Teams in traditionellen Ruderbooten aus Holz gegeneinander an.
-
-          Steuerfrau Jannie Dam Jacobsen trainiert dreimal wöchentlich ihr Team, sechs Frauen im Alter zwischen 25 und 40 Jahren. Alle haben Familie, sind berufstätig oder studieren. Den kräftezehrenden Sport betreiben sie in ihrer Freizeit mit viel Ausdauer und ebenso viel Leidenschaft. Das Team will den diesjährigen Pokal gewinnen - in seinem blauen Holzboot.
-
-          Anders als Sportboote wird es von Hand gefertigt und weist keinerlei Komfort auf. Wie viele Bewohner der grünen Inseln im Norden verfolgt auch Jóhannis Danielsen gespannt die Wettkämpfe - wenn er dafür die Zeit findet. Der Biologe ist ständig zwischen den 18 Inseln des Färöer Archipels unterwegs. Er erforscht die hier nistenden Seevögel, nimmt Bestandsaufnahmen von Trottellummen und Dreizehenmöwen vor. Regelmäßig bestückt Jóhannis Seevögel mit kleinen Peilsendern, um die Migration der Vögel verfolgen zu können. Per Helikopter hat er auch auf der entlegenen Insel Mykines zu tun, wo nur noch acht Menschen permanent wohnen und die Natur nahezu unberührt geblieben ist.
-
-          Die Sommermonate verbringt auch Hans Meinhard hier, der als letztes Kind auf der Insel aufgewachsen ist. Inzwischen ist er längst erwachsen und lebt nur noch sporadisch auf Mykines. Am liebsten aber würde er für immer auf der schönen und einsamen Insel wohnen. Hier spürt man sie irgendwie noch - die Atmosphäre längst vergangener Wikingerzeiten.
-
-          Farbenfreudige Geschichten, die das Leben schreibt. Reisen, Rituale und Feste mit Menschen aus aller Welt.'
-        summary: Hoch im Norden, im stürmischen Nordatlantik, liegen die Färöer, ein Archipel von 18 Inseln. Die Natur, rau und urtümlich, hat das Leben der Bewohner stark geprägt. Schon als die Wikinger aus dem heutigen Norwegen die Färöer bevölkerten, war der Bootsverkehr zwischen den Inseln überlebenswichtig. Er sicherte vor allem die Grundversorgung der Bewohner durch die Fischerei. Rudern ist heute Nationalsport, und Frauen sind schon lange mit am Start.
-        director: Friederike Schlumbom
         youtube_video_id: SFfii7XzU3E
-    -   fernsehserien_episode_no: 627
+    -   overall_no: 625
+        season_no: 25
+        episode_no: 19
+        title: Werft unter Palmen - Indonesiens Pinisis
+        description: 'Syarifuddin hat es wieder einmal geschafft – eines seiner
+            Schiffe ist fertig gebaut und soll die kleine Werft am Strand
+            von Sulawesi verlassen. Monatelang hat der Bootsbauer mit seinen
+            Angestellten an dem Auftrag für einen einheimischen Reeder gearbeitet,
+            ohne schriftlichen Bauplan, ohne moderne Maschinen. Die Bootsbauer
+            geben ihr Wissen nämlich seit jeher mündlich weiter, von einer
+            Generation zur nächsten. So wie es Syarifuddin heute mit seinem
+            Sohn tut. Schon zur niederländischen Kolonialzeit spielten diese
+            Frachtensegler, Pinisi genannt, eine wichtige Rolle.
+
+            Die Bugi-Schoner, wie sie damals auch genannt wurden, sammelten
+            die kostenbaren Waren wie etwa Gewürze ein, die dann mit größeren
+            Handelsschiffen nach Europa gebracht wurden. Auch heute versorgen
+            die traditionellen Lastenschiffe den indonesischen Inselstaat
+            mit Waren des täglichen Bedarfs. Viele sind inzwischen mit einem
+            Motor ausgestattet, was die Handhabung und Lenkung zwar einfacher
+            macht, aber auch droht, die althergebrachte Segelkunst in Vergessenheit
+            geraten zu lassen.
+
+            Immer weniger junge Leute beherrschen diese Technik, und lange
+            schien es, als würde der Beruf des Segelmatrosen dem Untergang
+            geweiht sein. Doch seit einiger Zeit setzt ein Umdenken ein. Sogar
+            junge Frauen interessieren sich neuerdings für eine Tätigkeit
+            an Deck der Segler. Syarifuddin bereitet nun den Stapellauf seines
+            neuesten Schiffes vor. Auch dabei sind wieder Gespür und Erfahrung
+            gefragt. Denn bis zur Wasserung können Wochen vergehen, der Stapellauf
+            ist sowohl vom Wetter als auch den Gezeiten abhängig. Das Schiff
+            wird nämlich per mühsamer Handarbeit auf Rollen Stück für Stück
+            ins Wasser gezogen. So wie es schon Syarifuddins Vorfahren taten.'
+        summary: Pinisis, kleine wendige Frachtensegler, verkehrten bereits
+            zu Zeiten der niederländischen Kolonialisierung zwischen den indonesischen
+            Inseln. Noch immer werden sie wie damals gebaut, am Strand, ohne
+            schriftlichen Bauplan. Eine Einzigartigkeit, die inzwischen zum
+            immateriellen Weltkulturerbe der UNESCO gehört.
+        director: Dietmar Klumpp
+        fernsehserien_episode_no: 627
         fernsehserien_episode_slug: 627-indonesien-werft-unter-palmen-indonesiens-pinisis-1678086
         fernsehserien_episode_id: 1678086
-        title: Werft unter Palmen - Indonesiens Pinisis
-        description: 'Syarifuddin hat es wieder einmal geschafft – eines seiner Schiffe ist fertig gebaut und soll die kleine Werft am Strand von Sulawesi verlassen. Monatelang hat der Bootsbauer mit seinen Angestellten an dem Auftrag für einen einheimischen Reeder gearbeitet, ohne schriftlichen Bauplan, ohne moderne Maschinen. Die Bootsbauer geben ihr Wissen nämlich seit jeher mündlich weiter, von einer Generation zur nächsten. So wie es Syarifuddin heute mit seinem Sohn tut. Schon zur niederländischen Kolonialzeit spielten diese Frachtensegler, Pinisi genannt, eine wichtige Rolle.
-
-          Die Bugi-Schoner, wie sie damals auch genannt wurden, sammelten die kostenbaren Waren wie etwa Gewürze ein, die dann mit größeren Handelsschiffen nach Europa gebracht wurden. Auch heute versorgen die traditionellen Lastenschiffe den indonesischen Inselstaat mit Waren des täglichen Bedarfs. Viele sind inzwischen mit einem Motor ausgestattet, was die Handhabung und Lenkung zwar einfacher macht, aber auch droht, die althergebrachte Segelkunst in Vergessenheit geraten zu lassen.
-
-          Immer weniger junge Leute beherrschen diese Technik, und lange schien es, als würde der Beruf des Segelmatrosen dem Untergang geweiht sein. Doch seit einiger Zeit setzt ein Umdenken ein. Sogar junge Frauen interessieren sich neuerdings für eine Tätigkeit an Deck der Segler. Syarifuddin bereitet nun den Stapellauf seines neuesten Schiffes vor. Auch dabei sind wieder Gespür und Erfahrung gefragt. Denn bis zur Wasserung können Wochen vergehen, der Stapellauf ist sowohl vom Wetter als auch den Gezeiten abhängig. Das Schiff wird nämlich per mühsamer Handarbeit auf Rollen Stück für Stück ins Wasser gezogen. So wie es schon Syarifuddins Vorfahren taten.'
-        summary: Pinisis, kleine wendige Frachtensegler, verkehrten bereits zu Zeiten der niederländischen Kolonialisierung zwischen den indonesischen Inseln. Noch immer werden sie wie damals gebaut, am Strand, ohne schriftlichen Bauplan. Eine Einzigartigkeit, die inzwischen zum immateriellen Weltkulturerbe der UNESCO gehört.
-        director: Dietmar Klumpp
         youtube_video_id: s0Ohg9vxi1U
-    -   fernsehserien_episode_no: 628
+    -   overall_no: 626
+        season_no: 25
+        episode_no: 20
+        title: Yabusame - Japans Samurai-Ladys
+        description: 'Ayuko Kamimura gehört zu den besten Yabusame-Schützen
+            der Welt. Seit ihr Vater vor 22 Jahren Yabusame als Sport neu
+            erfunden hat, ist die 51-Jährige dabei. Ayuko, von allen Amy genannt,
+            ist die erste und bislang einzige Frau, die selbst von den erzkonservativen
+            männlichen Bewahrern der religiösen Yabusame-Zeremonien als Lehrmeisterin
+            anerkannt wird. Ihr Bogen ist knapp zwei Meter lang. Nirgendwo
+            sonst auf der Welt nutzen berittene Schützen so lange Bögen. Einmal
+            im Jahr organisiert sie das Sakura-Turnier, das einzige reine
+            Frauen-Event im Yabusame-Sport.
+
+            In diesem Jahr will sie dort zum letzten Mal vor großem Publikum
+            auftreten, bevor sie den Platz für talentierte Amazonen der jungen
+            Generation räumt. Die Regeln für den Wettkampf sind genau vorgeschrieben:
+            Für eine 100 Meter lange Strecke darf Amy maximal zwölf Sekunden
+            brauchen. Drei Mal muss sie dabei auf eine Scheibe schießen. Treffer,
+            Zeit und Eleganz entscheiden über den Sieg.
+
+            Die Trainingsstunden vor dem Wettkampf sind auch ein Testlauf
+            für Amys beste Schülerinnen. Die Suche nach einer Nachfolgerin
+            liegt ihr besonders am Herzen. Die 20-jährige Aoi Fuse hätte das
+            Zeug zu einer Samurai-Meisterin der nächsten Generation. Fünf
+            Mal hat sie bereits den Titel in der höchsten Klasse, der Profiliga,
+            gewonnen. Aber behält sie auch in diesem Jahr die Nerven, wenn
+            es um alles geht?
+
+            Ausnahmetalent Eri Sakuraba dagegen wird im Frühling zum ersten
+            Mal in der Profiliga antreten. In den unteren Klassen hat die
+            14-Jährige schon als Grundschülerin alle Pokale abgeräumt. Wie
+            aber wird sie bei ihrem ersten großen Wettkampf abschneiden? Ganz
+            egal, welche Reiterin am Ende den Preis mit nach Hause nimmt –
+            es wird auf jeden Fall ein großer Tag für die Samurai-Ladys Japans.'
+        summary: Die legendären japanischen Samurai sind lange ausgestorben,
+            doch ihre Kunst des Yabusame, des berittenen Bogenschießens, hat
+            überlebt. Bisher war das eine reine Männerwelt, doch jetzt haben
+            einige engagierte Frauen eine Revolution angezettelt. Die Reitstallbesitzerin
+            Ayuko Kamimura will Yabusame zu einem internationalen Trendsport
+            des 21. Jahrhunderts auch für Frauen machen.
+        director: Susanne Steffen
+        fernsehserien_episode_no: 628
         fernsehserien_episode_slug: 628-yabusame-japans-samurai-ladys-1679266
         fernsehserien_episode_id: 1679266
-        title: Yabusame - Japans Samurai-Ladys
-        description: 'Ayuko Kamimura gehört zu den besten Yabusame-Schützen der Welt. Seit ihr Vater vor 22 Jahren Yabusame als Sport neu erfunden hat, ist die 51-Jährige dabei. Ayuko, von allen Amy genannt, ist die erste und bislang einzige Frau, die selbst von den erzkonservativen männlichen Bewahrern der religiösen Yabusame-Zeremonien als Lehrmeisterin anerkannt wird. Ihr Bogen ist knapp zwei Meter lang. Nirgendwo sonst auf der Welt nutzen berittene Schützen so lange Bögen. Einmal im Jahr organisiert sie das Sakura-Turnier, das einzige reine Frauen-Event im Yabusame-Sport.
-
-          In diesem Jahr will sie dort zum letzten Mal vor großem Publikum auftreten, bevor sie den Platz für talentierte Amazonen der jungen Generation räumt. Die Regeln für den Wettkampf sind genau vorgeschrieben: Für eine 100 Meter lange Strecke darf Amy maximal zwölf Sekunden brauchen. Drei Mal muss sie dabei auf eine Scheibe schießen. Treffer, Zeit und Eleganz entscheiden über den Sieg.
-
-          Die Trainingsstunden vor dem Wettkampf sind auch ein Testlauf für Amys beste Schülerinnen. Die Suche nach einer Nachfolgerin liegt ihr besonders am Herzen. Die 20-jährige Aoi Fuse hätte das Zeug zu einer Samurai-Meisterin der nächsten Generation. Fünf Mal hat sie bereits den Titel in der höchsten Klasse, der Profiliga, gewonnen. Aber behält sie auch in diesem Jahr die Nerven, wenn es um alles geht?
-
-          Ausnahmetalent Eri Sakuraba dagegen wird im Frühling zum ersten Mal in der Profiliga antreten. In den unteren Klassen hat die 14-Jährige schon als Grundschülerin alle Pokale abgeräumt. Wie aber wird sie bei ihrem ersten großen Wettkampf abschneiden? Ganz egal, welche Reiterin am Ende den Preis mit nach Hause nimmt – es wird auf jeden Fall ein großer Tag für die Samurai-Ladys Japans.'
-        summary: Die legendären japanischen Samurai sind lange ausgestorben, doch ihre Kunst des Yabusame, des berittenen Bogenschießens, hat überlebt. Bisher war das eine reine Männerwelt, doch jetzt haben einige engagierte Frauen eine Revolution angezettelt. Die Reitstallbesitzerin Ayuko Kamimura will Yabusame zu einem internationalen Trendsport des 21. Jahrhunderts auch für Frauen machen.
-        director: Susanne Steffen
         youtube_video_id: Qr21-51Z_vM
-    -   fernsehserien_episode_no: 629
+    -   overall_no: 627
+        season_no: 25
+        episode_no: 21
+        title: Das weiße Gold von Noirmoutier
+        description: 'Es ist Frühlingsanfang, noch liegt die Insel in winterlichem
+            Grau, doch ein junger Mann arbeitet ganz alleine mit einem Holzschieber
+            an seinen riesigen Salzbecken: Arnaud Jégat ist einer von 150
+            Salzproduzenten der Insel vor der französischen Atlantikküste.
+            Sauniers, Salzbauern, werden sie hier genannt. Mit dem Beginn
+            des warmen Wetters ist es Zeit, die Salinen aus dem Winterschlaf
+            zu holen.
+
+            Für die vorbereitenden Arbeiten braucht Arnaud fast das ganze
+            Frühjahr, sorgenvoll blickt er jeden Morgen in den Himmel, denn
+            das Wetter entscheidet über den Erfolg seiner Arbeitsabläufe.
+            Arnaud und seine Frau Audrey leben von der Produktion des groben
+            Salzes, das ein ganzes Jahr getrocknet werden muss, bevor es vermarktet
+            werden kann, und vom Verkauf des feineren, legendären Fleur de
+            Sel.
+
+            Anders als viele ihrer Kollegen haben sich die beiden entschieden,
+            unabhängig zu bleiben. Sie bringen ihr Salz unter dem Namen ihres
+            Salzgartens Le Marais Breteau selbst auf den Markt, und das Paar
+            schließt sich auch keinem Label an: "Ich denke, dass die Leute
+            heute eher darauf achten, meinen Namen zu lesen, mich zu treffen,
+            mich und Audrey ... unseren Betrieb. Ich glaube, das ist unsere
+            beste Auszeichnung." Zu Arnauds Kunden gehört mittlerweile auch
+            eine große Supermarktkette auf dem Festland sowie andere Unternehmen
+            und Privatleute, die die Qualität seines Salzes zu schätzen wissen.'
+        summary: Die Insel Noirmoutier liegt an der Atlantikküste, im Golf
+            von Biskaya. Mit ihren langen, feinen Sandstränden, ihren Pinienwäldern
+            und den weißen Häusern ist sie als kleines Paradies beliebt, weit
+            weg vom Trubel des Großstadtlebens. Noirmoutier steht aber auch
+            für das weltweit berühmte Salz, das hier in den Salzgärten noch
+            fast mittelalterlich geerntet wird.
+        director: Stéphane Nicolle
+        fernsehserien_episode_no: 629
         fernsehserien_episode_slug: 629-das-weisse-gold-von-noirmoutier-1681709
         fernsehserien_episode_id: 1681709
-        title: Das weiße Gold von Noirmoutier
-        description: 'Es ist Frühlingsanfang, noch liegt die Insel in winterlichem Grau, doch ein junger Mann arbeitet ganz alleine mit einem Holzschieber an seinen riesigen Salzbecken: Arnaud Jégat ist einer von 150 Salzproduzenten der Insel vor der französischen Atlantikküste. Sauniers, Salzbauern, werden sie hier genannt. Mit dem Beginn des warmen Wetters ist es Zeit, die Salinen aus dem Winterschlaf zu holen.
-
-          Für die vorbereitenden Arbeiten braucht Arnaud fast das ganze Frühjahr, sorgenvoll blickt er jeden Morgen in den Himmel, denn das Wetter entscheidet über den Erfolg seiner Arbeitsabläufe. Arnaud und seine Frau Audrey leben von der Produktion des groben Salzes, das ein ganzes Jahr getrocknet werden muss, bevor es vermarktet werden kann, und vom Verkauf des feineren, legendären Fleur de Sel.
-
-          Anders als viele ihrer Kollegen haben sich die beiden entschieden, unabhängig zu bleiben. Sie bringen ihr Salz unter dem Namen ihres Salzgartens Le Marais Breteau selbst auf den Markt, und das Paar schließt sich auch keinem Label an: "Ich denke, dass die Leute heute eher darauf achten, meinen Namen zu lesen, mich zu treffen, mich und Audrey ... unseren Betrieb. Ich glaube, das ist unsere beste Auszeichnung." Zu Arnauds Kunden gehört mittlerweile auch eine große Supermarktkette auf dem Festland sowie andere Unternehmen und Privatleute, die die Qualität seines Salzes zu schätzen wissen.'
-        summary: Die Insel Noirmoutier liegt an der Atlantikküste, im Golf von Biskaya. Mit ihren langen, feinen Sandstränden, ihren Pinienwäldern und den weißen Häusern ist sie als kleines Paradies beliebt, weit weg vom Trubel des Großstadtlebens. Noirmoutier steht aber auch für das weltweit berühmte Salz, das hier in den Salzgärten noch fast mittelalterlich geerntet wird.
-        director: Stéphane Nicolle
         youtube_video_id: ILwQDgLDi-c
-    -   fernsehserien_episode_no: 630
+    -   overall_no: 628
+        season_no: 25
+        episode_no: 22
+        title: Neufundland - Bleiben oder gehen?
+        description: 'Neufundland kennt eine lange Geschichte der Umsiedlungen.
+            Beginnend in den 50er Jahren zwang die Regierung die entlegen
+            lebenden Menschen, häufig kanadische Ureinwohner, an zentraler
+            gelegenen Orten zu siedeln. Dort wurden Arbeitskräfte gebraucht.
+            Im Lauf der Jahre wurde die Kritik an den alternativlos verfügten
+            Umsiedlungsprogrammen immer lauter. Doch wirtschaftliche Zwänge
+            setzten sich durch. Angesichts drohender Arbeitslosigkeit wurden
+            Hunderte kleiner Ortschaften aufgegeben. Outports nennt man die
+            einst blühenden Küstenorte. Sie galten als das wahre Neufundland,
+            die Heimat der Entdecker und Gründer, der Stolz der Nation. Gaultois
+            ist einer der letzten Outports in Neufundland. Der Ort lebte bis
+            in die 90er Jahre prächtig vom Kabeljau – bis die Überfischung
+            zu Fangverboten führte und das langsame Sterben von Gaultois einleitete.
+            Für Nostalgie hat die Provinzverwaltung in St. John’s keinen Sinn.
+            Knappe Kassen lässt sie mit spitzem Stift rechnen: Allein die
+            Fährverbindung aufrechtzuerhalten, kostet die Regierung jährlich
+            eine Million Dollar. Schule, Müllabfuhr, Post – all das ist für
+            den Steuerzahler teurer, als wenn jede Familie für die Umsiedlung
+            mit umgerechnet 190.000 Euro entschädigt würde. Die staatliche
+            Förderung gibt es allerdings nur, wenn mindestens 75 Prozent der
+            Bewohner mitmachen und ihre Häuser aufgeben wollen. Auch die Gegner
+            der Umsiedlung müssten dann umsiedeln. Gaultois würde von der
+            Landkarte verschwinden. "360° Reportage" ist dabei, wenn die Gemeinde
+            über das Schicksal von Gaultois entscheidet.'
+        summary: 'Ein Fischerdorf an der abgelegenen Südküste Neufundlands
+            steht vor der letzten großen Entscheidung: Seine 75 Bewohner müssen
+            wählen, ob sie bleiben oder alle zusammen ihre Heimat für immer
+            verlassen sollen. Die Provinzverwaltung unterstützt die Umsiedlung
+            mit bis zu 270.000 Dollar pro Haushalt, denn die Aufrechterhaltung
+            der öffentlichen Infrastruktur wäre noch teurer ...'
+        director: Holger Riedel
+        fernsehserien_episode_no: 630
         fernsehserien_episode_slug: 630-neufundland-bleiben-oder-gehen-1692534
         fernsehserien_episode_id: 1692534
-        title: Neufundland - Bleiben oder gehen?
-        description: 'Neufundland kennt eine lange Geschichte der Umsiedlungen. Beginnend in den 50er Jahren zwang die Regierung die entlegen lebenden Menschen, häufig kanadische Ureinwohner, an zentraler gelegenen Orten zu siedeln. Dort wurden Arbeitskräfte gebraucht. Im Lauf der Jahre wurde die Kritik an den alternativlos verfügten Umsiedlungsprogrammen immer lauter. Doch wirtschaftliche Zwänge setzten sich durch. Angesichts drohender Arbeitslosigkeit wurden Hunderte kleiner Ortschaften aufgegeben. Outports nennt man die einst blühenden Küstenorte. Sie galten als das wahre Neufundland, die Heimat der Entdecker und Gründer, der Stolz der Nation. Gaultois ist einer der letzten Outports in Neufundland. Der Ort lebte bis in die 90er Jahre prächtig vom Kabeljau – bis die Überfischung zu Fangverboten führte und das langsame Sterben von Gaultois einleitete.
-          Für Nostalgie hat die Provinzverwaltung in St. John’s keinen Sinn. Knappe Kassen lässt sie mit spitzem Stift rechnen: Allein die Fährverbindung aufrechtzuerhalten, kostet die Regierung jährlich eine Million Dollar. Schule, Müllabfuhr, Post – all das ist für den Steuerzahler teurer, als wenn jede Familie für die Umsiedlung mit umgerechnet 190.000 Euro entschädigt würde. Die staatliche Förderung gibt es allerdings nur, wenn mindestens 75 Prozent der Bewohner mitmachen und ihre Häuser aufgeben wollen. Auch die Gegner der Umsiedlung müssten dann umsiedeln. Gaultois würde von der Landkarte verschwinden. "360° Reportage" ist dabei, wenn die Gemeinde über das Schicksal von Gaultois entscheidet.'
-        summary: 'Ein Fischerdorf an der abgelegenen Südküste Neufundlands steht vor der letzten großen Entscheidung: Seine 75 Bewohner müssen wählen, ob sie bleiben oder alle zusammen ihre Heimat für immer verlassen sollen. Die Provinzverwaltung unterstützt die Umsiedlung mit bis zu 270.000 Dollar pro Haushalt, denn die Aufrechterhaltung der öffentlichen Infrastruktur wäre noch teurer ...'
-        director: Holger Riedel
         youtube_video_id: cIyBqf4S0io
-    -   fernsehserien_episode_no: 631
+    -   overall_no: 629
+        season_no: 25
+        episode_no: 23
+        title: Paris, Hauptstadt der Bienen
+        description: 'In Paris fällt es den fleißigen Insekten leicht, Nahrung
+            zu finden, auch dank der über das ganze Jahr verteilten Blütezeiten.
+            Die abwechslungsreiche Stadtvegetation bietet den Bienen eine
+            Nahrungsvielfalt, die es auf dem Land aufgrund von Monokulturen
+            häufig nicht mehr gibt. Zudem wurde in Paris entschieden, den
+            Gebrauch von Pestiziden ganz einzustellen.
+
+            Selbst vom Aussterben bedroht, ist die Biene damit zum Symbol
+            des Erhalts der Biodiversität geworden. Eines der Habitate der
+            Honigbienen von Paris existiert schon seit rund 400 Jahren: der
+            Jardin des Plantes, ein botanischer Garten. Hier finden sich,
+            etwas versteckt, Bienenstöcke, die von der Gärtnerin Vanessa Voskoboïnikoff
+            umsorgt werden. Abseits der Öffentlichkeit wähnt man sich weit
+            draußen auf dem Land, und doch ist man mitten im Herzen von Paris.
+            Ruhe ist für die Tiere auch in der Stadt wichtig.
+
+            Die Honigbiene ist ein sogenanntes staatenbildendes Insekt. Sie
+            kann nur in der Gemeinschaft leben. In der Hochsaison zählt ein
+            Bienenstock etwa 50.000 Bienen und produziert im Schnitt 30 Kilogramm
+            Honig. Um zu wissen, wann es Zeit ist zu ernten, überprüfen die
+            Imker mit Hilfe eines Refraktometers den Feuchtigkeitsgehalt.
+
+            Auch der Parc de la Villette beheimatet Bienenstöcke in einem
+            Schulbauernhof. Hier betreibt der junge Imker Pierre Merlet ein
+            engagiertes Bienenprojekt. Er gewinnt Honig und klärt nebenher
+            regelmäßig interessierte Gruppen über das Wohl und die Probleme
+            der Honigbienen auf. Pierre hat die aktuellen ökologischen Herausforderungen
+            im Blick. Er liebt es, sein Wissen und seine Leidenschaft mit
+            anderen zu teilen.'
+        summary: 'Paris zieht nicht nur Menschen an, die Stadt ist auch für
+            Honigbienen ein Zuhause. Etwa 2.000 Bienenvölker halten Imker
+            heute auf den Dächern und in den Gärten der französischen Hauptstadt.
+            Kein Wunder, denn historische Gärten und baumreiche Alleen haben
+            eine enorme Anzahl unterschiedlicher Pflanzen zu bieten. Das Ziel
+            vieler Imker: Sie wollen die so wichtige Honigbiene erhalten.'
+        director: Jean-Baptiste Mathieu
+        fernsehserien_episode_no: 631
         fernsehserien_episode_slug: 631-paris-hauptstadt-der-bienen-1692535
         fernsehserien_episode_id: 1692535
-        title: Paris, Hauptstadt der Bienen
-        description: 'In Paris fällt es den fleißigen Insekten leicht, Nahrung zu finden, auch dank der über das ganze Jahr verteilten Blütezeiten. Die abwechslungsreiche Stadtvegetation bietet den Bienen eine Nahrungsvielfalt, die es auf dem Land aufgrund von Monokulturen häufig nicht mehr gibt. Zudem wurde in Paris entschieden, den Gebrauch von Pestiziden ganz einzustellen.
-
-          Selbst vom Aussterben bedroht, ist die Biene damit zum Symbol des Erhalts der Biodiversität geworden. Eines der Habitate der Honigbienen von Paris existiert schon seit rund 400 Jahren: der Jardin des Plantes, ein botanischer Garten. Hier finden sich, etwas versteckt, Bienenstöcke, die von der Gärtnerin Vanessa Voskoboïnikoff umsorgt werden. Abseits der Öffentlichkeit wähnt man sich weit draußen auf dem Land, und doch ist man mitten im Herzen von Paris. Ruhe ist für die Tiere auch in der Stadt wichtig.
-
-          Die Honigbiene ist ein sogenanntes staatenbildendes Insekt. Sie kann nur in der Gemeinschaft leben. In der Hochsaison zählt ein Bienenstock etwa 50.000 Bienen und produziert im Schnitt 30 Kilogramm Honig. Um zu wissen, wann es Zeit ist zu ernten, überprüfen die Imker mit Hilfe eines Refraktometers den Feuchtigkeitsgehalt.
-
-          Auch der Parc de la Villette beheimatet Bienenstöcke in einem Schulbauernhof. Hier betreibt der junge Imker Pierre Merlet ein engagiertes Bienenprojekt. Er gewinnt Honig und klärt nebenher regelmäßig interessierte Gruppen über das Wohl und die Probleme der Honigbienen auf. Pierre hat die aktuellen ökologischen Herausforderungen im Blick. Er liebt es, sein Wissen und seine Leidenschaft mit anderen zu teilen.'
-        summary: 'Paris zieht nicht nur Menschen an, die Stadt ist auch für Honigbienen ein Zuhause. Etwa 2.000 Bienenvölker halten Imker heute auf den Dächern und in den Gärten der französischen Hauptstadt. Kein Wunder, denn historische Gärten und baumreiche Alleen haben eine enorme Anzahl unterschiedlicher Pflanzen zu bieten. Das Ziel vieler Imker: Sie wollen die so wichtige Honigbiene erhalten.'
-        director: Jean-Baptiste Mathieu
         youtube_video_id: eCPoZupaFWE
-    -   fernsehserien_episode_no: 632
+    -   overall_no: 630
+        season_no: 25
+        episode_no: 24
+        title: 'Vietnam: Brücken für bedrohte Affen'
+        description: 'Die Halbinsel Son Tra an der Küste Vietnams ist für
+            die Rotschenkligen Kleideraffen der wichtigste Rückzugsort. Trotz
+            der Nähe zur Millionenstadt Da Nang ist der Dschungel hier noch
+            weitgehend intakt, vor allem aufgrund der Geschichte des Ortes.
+            Hier ging einst die US-amerikanische Navy zu Beginn des Vietnamkriegs
+            an Land, danach blieb die Halbinsel aufgrund ihrer strategisch
+            bedeutsamen Lage militärisches Sperrgebiet. So konnten sich die
+            störempfindlichen Kleideraffen hier weitgehend ungestört entwickeln.
+
+            Rotschenkel-Kleideraffen gehören zur Primatengruppe der Languren.
+            Es sind reine Vegetarier, sie ernähren sich hauptsächlich von
+            den Blättern der Baumkronen. Einst lebten Rotschenkel-Kleideraffen
+            weit verteilt, aber vor allem durch den verheerenden Krieg sank
+            ihre Zahl bedrohlich. Weite Waldbestände wurden verwüstet, viele
+            hungrige Vietnamesen ernährten sich von Wildtieren, auch von Kleideraffen.
+            Jahrzehnte nach Kriegsende ist der Rotschenkel-Langur eine stark
+            vom Aussterben bedrohte Art.
+
+            Es gibt verschiedene Languren-Arten, aber die Rotschenkel-Languren
+            haben ein einzigartiges Farbenkleid und gelten als die schönsten
+            Primaten der Welt. Auf der Halbinsel Son Tra überwachen Tieraktivisten
+            wie Tuan Bui Van und Luc Nguyen seit Jahren den Bestand der auffallend
+            schönen und geschickten Kletterer. Die Tiere hier müssen überleben,
+            um ihre Art in freier Wildbahn erhalten zu können.
+
+            Rotschenkel-Kleideraffen werden ausgewachsen etwa 70 Zentimeter
+            groß und sind äußerst friedliche Tiere. Sie leben in kleinen Gruppen,
+            in denen es meist nur ein Männchen gibt. Der größte Teil ihres
+            Lebens spielt sich in den Wipfeln der Bäume ab, von deren Blättern
+            sie sich ernähren und wo sie sich vor Raubtieren sicher fühlen.
+            Seit jedoch das Militär eine Straße mitten durch den Affenwald
+            gebaut hat, haben viele Languren Schwierigkeiten bei der Nahrungssuche.
+            Tierschützer sind alarmiert. Kann es gelingen, mittels Kletterbrücken
+            die Letzten Ihrer Art in freier Wildbahn zu erhalten?'
+        summary: Die Rotschenkligen Kleideraffen gelten als die schönsten
+            Primaten der Welt. Doch Wilderei und illegaler Tierhandel haben
+            fast zu ihrer Ausrottung geführt. Nur wenige Tiere konnten in
+            Vietnam überleben. Engagierte Tierschutzaktivist*innen versuchen
+            nun zu retten, was noch zu retten ist.
+        director: Luigi Maria Perotti
+        fernsehserien_episode_no: 632
         fernsehserien_episode_slug: 632-vietnam-bruecken-bauen-fuer-bedrohte-affen-1692536
         fernsehserien_episode_id: 1692536
-        title: 'Vietnam: Brücken für bedrohte Affen'
-        description: 'Die Halbinsel Son Tra an der Küste Vietnams ist für die Rotschenkligen Kleideraffen der wichtigste Rückzugsort. Trotz der Nähe zur Millionenstadt Da Nang ist der Dschungel hier noch weitgehend intakt, vor allem aufgrund der Geschichte des Ortes. Hier ging einst die US-amerikanische Navy zu Beginn des Vietnamkriegs an Land, danach blieb die Halbinsel aufgrund ihrer strategisch bedeutsamen Lage militärisches Sperrgebiet. So konnten sich die störempfindlichen Kleideraffen hier weitgehend ungestört entwickeln.
-
-          Rotschenkel-Kleideraffen gehören zur Primatengruppe der Languren. Es sind reine Vegetarier, sie ernähren sich hauptsächlich von den Blättern der Baumkronen. Einst lebten Rotschenkel-Kleideraffen weit verteilt, aber vor allem durch den verheerenden Krieg sank ihre Zahl bedrohlich. Weite Waldbestände wurden verwüstet, viele hungrige Vietnamesen ernährten sich von Wildtieren, auch von Kleideraffen. Jahrzehnte nach Kriegsende ist der Rotschenkel-Langur eine stark vom Aussterben bedrohte Art.
-
-          Es gibt verschiedene Languren-Arten, aber die Rotschenkel-Languren haben ein einzigartiges Farbenkleid und gelten als die schönsten Primaten der Welt. Auf der Halbinsel Son Tra überwachen Tieraktivisten wie Tuan Bui Van und Luc Nguyen seit Jahren den Bestand der auffallend schönen und geschickten Kletterer. Die Tiere hier müssen überleben, um ihre Art in freier Wildbahn erhalten zu können.
-
-          Rotschenkel-Kleideraffen werden ausgewachsen etwa 70 Zentimeter groß und sind äußerst friedliche Tiere. Sie leben in kleinen Gruppen, in denen es meist nur ein Männchen gibt. Der größte Teil ihres Lebens spielt sich in den Wipfeln der Bäume ab, von deren Blättern sie sich ernähren und wo sie sich vor Raubtieren sicher fühlen. Seit jedoch das Militär eine Straße mitten durch den Affenwald gebaut hat, haben viele Languren Schwierigkeiten bei der Nahrungssuche. Tierschützer sind alarmiert. Kann es gelingen, mittels Kletterbrücken die Letzten Ihrer Art in freier Wildbahn zu erhalten?'
-        summary: Die Rotschenkligen Kleideraffen gelten als die schönsten Primaten der Welt. Doch Wilderei und illegaler Tierhandel haben fast zu ihrer Ausrottung geführt. Nur wenige Tiere konnten in Vietnam überleben. Engagierte Tierschutzaktivist*innen versuchen nun zu retten, was noch zu retten ist.
-        director: Luigi Maria Perotti
         youtube_video_id: uy5BR-8L4N8
-    -   fernsehserien_episode_no: 633
+    -   overall_no: 631
+        season_no: 25
+        episode_no: 25
+        title: 'Connemara: Wie das Land, so das Pony'
+        description: 'Connemara liegt am Atlantik im äußersten Westen Irlands.
+            Es ist ein wilder Landstrich, mit windgepeitschten Halbinseln,
+            felsigen Mooren und schroffen Bergen. Diese raue Natur ist das
+            Reich eines faszinierenden Pferdes: des Connemara-Ponys, der einzigen
+            einheimischen Rasse auf Irland. Zu den treuen Vierbeinern empfinden
+            insbesondere die alteingesessenen Bewohner der Region eine tiefe
+            Verbundenheit. Schließlich ist es nicht lange her, dass die Connemara-Ponys
+            den Menschen hier das Überleben sicherten.
+
+            Die kräftigen und widerstandsfähigen Arbeitstiere wurden überall
+            in der Gegend zum Ackerbau und Transport eingesetzt. Sie gehörten
+            mit zur Familie. Zwar sind diese Zeiten längst vorbei, doch noch
+            immer identifizieren sich viele bodenständige Einheimische mit
+            ihren geliebten Ponys.
+
+            Connemara ist die Wiege einer Rasse, die für ihre Ausdauer und
+            Freundlichkeit bekannt ist und bei Wettbewerben in vielen Disziplinen
+            hervorragende Leistungen erbringt: ob in der Rasse-Show oder auf
+            dem Hindernis-Parcours. Verschiedene Kreuzungen mit iberischen
+            Pferden und englischen Vollblütern haben nach und nach das Aussehen
+            dieses muskulösen Ponys geprägt. Inzwischen wächst die Nachfrage
+            unter Züchtern weltweit; selbst in Asien interessiert man sich
+            heute für die großartigen Ponys aus Connemara.
+
+            Höhepunkt des Jahres in Irland ist für Pony-Enthusiasten die Clifden
+            Pony Show. Sie ist eine wahre Institution und das weltweit größte
+            Treffen von Liebhabern des berühmten Connemara-Ponys. Diese jährliche
+            Messe findet im Herzen der kleinen Hauptstadt der Region statt,
+            wo die besten Züchter jedes Jahr darauf hoffen, die höchste Trophäe,
+            eine „rote Rosette“, an den Hals ihres besten Pferdes zu heften.
+            Die Pony Show setzt auch eine irische Tradition fort - die Zuchtschau,
+            ein echter Schönheitswettbewerb, bei dem die vielversprechendsten
+            Connemara-Ponys in verschiedenen Kategorien ausgezeichnet werden.
+            Und wer etwas auf sich hält als Züchter dieser Rasse, der muss
+            hier dabei sein.'
+        summary: Das Connemara-Pony ist in Irland seit Generationen Kult.
+            Voller Leidenschaft werden rund um diese robuste Pony-Rasse eigene
+            Shows und Reitwettbewerbe abgehalten. Hier treten die edelsten
+            Tiere gegeneinander an – Highlight der Shows ist die in Clifden,
+            der Hauptstadt von Connemara. In diesem Jahr feiert der austragende
+            Verband sein hundertjähriges Jubiläum.
+        director: Marie-Laure Daguenel
+        fernsehserien_episode_no: 633
         fernsehserien_episode_slug: 633-connemara-wie-das-land-so-das-pony-1692537
         fernsehserien_episode_id: 1692537
-        title: 'Connemara: Wie das Land, so das Pony'
-        description: 'Connemara liegt am Atlantik im äußersten Westen Irlands. Es ist ein wilder Landstrich, mit windgepeitschten Halbinseln, felsigen Mooren und schroffen Bergen. Diese raue Natur ist das Reich eines faszinierenden Pferdes: des Connemara-Ponys, der einzigen einheimischen Rasse auf Irland. Zu den treuen Vierbeinern empfinden insbesondere die alteingesessenen Bewohner der Region eine tiefe Verbundenheit. Schließlich ist es nicht lange her, dass die Connemara-Ponys den Menschen hier das Überleben sicherten.
-
-          Die kräftigen und widerstandsfähigen Arbeitstiere wurden überall in der Gegend zum Ackerbau und Transport eingesetzt. Sie gehörten mit zur Familie. Zwar sind diese Zeiten längst vorbei, doch noch immer identifizieren sich viele bodenständige Einheimische mit ihren geliebten Ponys.
-
-          Connemara ist die Wiege einer Rasse, die für ihre Ausdauer und Freundlichkeit bekannt ist und bei Wettbewerben in vielen Disziplinen hervorragende Leistungen erbringt: ob in der Rasse-Show oder auf dem Hindernis-Parcours. Verschiedene Kreuzungen mit iberischen Pferden und englischen Vollblütern haben nach und nach das Aussehen dieses muskulösen Ponys geprägt. Inzwischen wächst die Nachfrage unter Züchtern weltweit; selbst in Asien interessiert man sich heute für die großartigen Ponys aus Connemara.
-
-          Höhepunkt des Jahres in Irland ist für Pony-Enthusiasten die Clifden Pony Show. Sie ist eine wahre Institution und das weltweit größte Treffen von Liebhabern des berühmten Connemara-Ponys. Diese jährliche Messe findet im Herzen der kleinen Hauptstadt der Region statt, wo die besten Züchter jedes Jahr darauf hoffen, die höchste Trophäe, eine „rote Rosette“, an den Hals ihres besten Pferdes zu heften. Die Pony Show setzt auch eine irische Tradition fort - die Zuchtschau, ein echter Schönheitswettbewerb, bei dem die vielversprechendsten Connemara-Ponys in verschiedenen Kategorien ausgezeichnet werden. Und wer etwas auf sich hält als Züchter dieser Rasse, der muss hier dabei sein.'
-        summary: Das Connemara-Pony ist in Irland seit Generationen Kult. Voller Leidenschaft werden rund um diese robuste Pony-Rasse eigene Shows und Reitwettbewerbe abgehalten. Hier treten die edelsten Tiere gegeneinander an – Highlight der Shows ist die in Clifden, der Hauptstadt von Connemara. In diesem Jahr feiert der austragende Verband sein hundertjähriges Jubiläum.
-        director: Marie-Laure Daguenel
         youtube_video_id: Vtlv_-OBj5M
-    -   fernsehserien_episode_no: 634
+    -   overall_no: 632
+        season_no: 25
+        episode_no: 26
+        title: 'Normandie: Flache Wasser, reiche Natur'
+        description: 'Im Frühling sinkt der Wasserspiegel in den Sümpfen von
+            Cotentin, große Teile treten als Landflächen hervor. Der Beginn
+            der warmen Jahreszeit bedeutet für die Viehzüchter Christelle
+            und Valery Ferey Aufbruch – seit November stehen ihre Kühe im
+            Stall, jetzt werden sie wieder auf die Weiden in den Sümpfen in
+            Amfreville getrieben. Diese Tradition gibt es, seit der Mensch
+            in den Sümpfen Viehzucht betreibt, und so treiben auch die Fereys
+            seit Generationen ihre Färsen auf die saftigen, nahrhaften Sumpfweiden.
+            Dank des Grases, dass die Kühe in den kommenden Monaten fressen
+            werden, gewinnt das Landwirte-Paar qualitativ hochwertige Milch,
+            die Christelle auf ihrem Hof zu Camembert verarbeitet.
+
+            Heute ist sie die Einzige, die in dieser Gegend den traditionellen
+            Bauerncamembert herstellt. Dank des Sumpfgrases geben Christelles
+            Kühe eine reichhaltige, cremige Milch, ihre Camemberts bestehen
+            zu 100% aus Rohmilch. Und auch Jocelyn Desmares ganze Leidenschaft
+            gehört den Sümpfen, seinen Pflanzen und Kräutern. Der 57-jährige,
+            ehemalige Agraringenieur lebt und arbeitet hier als Ornithologe
+            und Biologe und kennt wie kein anderer die unendliche Vielfalt
+            der Vogel- und Pflanzenwelt in den Sümpfen, deren Landschaft ihn
+            seit 30 Jahren jeden Sommer wieder verzaubert: „Im Winter werden
+            die Sümpfe ihr Aussehen und ihren Namen ändern. Im Sommer, im
+            Frühling nennt man sie grüne Sümpfe und im Herbst schwellen die
+            Sümpfe mit Wasser an, das gesamte Regenwasser des Einzugsgebiets
+            wird aufgenommen und die Sümpfe werden mit Wasser gefüllt, man
+            spricht von weißen Sümpfen…“.'
+        summary: Die Sümpfe von Cotentin und Bessin in der Normandie sind
+            ausgedehnte Feuchtgebiete aus Sümpfen und Poldern – eingedeichten,
+            flachen Landzungen. Die Landschaft ist im Winter überschwemmt
+            und im Sommer ausgetrocknet, dazu ein Zufluchtsort für Zugvögel,
+            ein riesiges Reservoir biologischer Vielfalt. Doch das Ökosystem
+            ist durch die Dürren und starken Regenfälle der letzten Jahren
+            geschwächt.
+        director: Thomas Delorme, Paul Degeneve
+        fernsehserien_episode_no: 634
         fernsehserien_episode_slug: 634-normandie-flache-wasser-reiche-natur-1692538
         fernsehserien_episode_id: 1692538
-        title: 'Normandie: Flache Wasser, reiche Natur'
-        description: 'Im Frühling sinkt der Wasserspiegel in den Sümpfen von Cotentin, große Teile treten als Landflächen hervor. Der Beginn der warmen Jahreszeit bedeutet für die Viehzüchter Christelle und Valery Ferey Aufbruch – seit November stehen ihre Kühe im Stall, jetzt werden sie wieder auf die Weiden in den Sümpfen in Amfreville getrieben. Diese Tradition gibt es, seit der Mensch in den Sümpfen Viehzucht betreibt, und so treiben auch die Fereys seit Generationen ihre Färsen auf die saftigen, nahrhaften Sumpfweiden. Dank des Grases, dass die Kühe in den kommenden Monaten fressen werden, gewinnt das Landwirte-Paar qualitativ hochwertige Milch, die Christelle auf ihrem Hof zu Camembert verarbeitet.
-
-          Heute ist sie die Einzige, die in dieser Gegend den traditionellen Bauerncamembert herstellt. Dank des Sumpfgrases geben Christelles Kühe eine reichhaltige, cremige Milch, ihre Camemberts bestehen zu 100% aus Rohmilch. Und auch Jocelyn Desmares ganze Leidenschaft gehört den Sümpfen, seinen Pflanzen und Kräutern. Der 57-jährige, ehemalige Agraringenieur lebt und arbeitet hier als Ornithologe und Biologe und kennt wie kein anderer die unendliche Vielfalt der Vogel- und Pflanzenwelt in den Sümpfen, deren Landschaft ihn seit 30 Jahren jeden Sommer wieder verzaubert: „Im Winter werden die Sümpfe ihr Aussehen und ihren Namen ändern. Im Sommer, im Frühling nennt man sie grüne Sümpfe und im Herbst schwellen die Sümpfe mit Wasser an, das gesamte Regenwasser des Einzugsgebiets wird aufgenommen und die Sümpfe werden mit Wasser gefüllt, man spricht von weißen Sümpfen…“.'
-        summary: Die Sümpfe von Cotentin und Bessin in der Normandie sind ausgedehnte Feuchtgebiete aus Sümpfen und Poldern – eingedeichten, flachen Landzungen. Die Landschaft ist im Winter überschwemmt und im Sommer ausgetrocknet, dazu ein Zufluchtsort für Zugvögel, ein riesiges Reservoir biologischer Vielfalt. Doch das Ökosystem ist durch die Dürren und starken Regenfälle der letzten Jahren geschwächt.
-        director: Thomas Delorme, Paul Degeneve
         youtube_video_id: fxaXRwjaosk
-    -   fernsehserien_episode_no: 635
+    -   overall_no: 633
+        season_no: 25
+        episode_no: 27
+        title: Cholitas – Die fliegenden Frauen Boliviens
+        description: 'Auf 3.500 Meter über der bolivianischen Millionenstadt
+            La Paz erstreckt sich ihr Revier: Pura Pura – das höchstgelegene
+            Skate-Gelände der Welt. Mit ihren traditionellen "Pollera"-Röcken
+            wollen die neun Skaterinnen ein Signal senden: Eine Cholita –
+            wie die Nachfahrinnen indigener Stämme in Bolivien oft abfällig
+            genannt werden – kann alles, sogar auf dem Holzbrett dieses westlichen
+            Extremsports balancieren. Sie selbst sind keine Cholitas vom Land,
+            sondern leben als Schülerin und Studentin, Kindergärtnerin, Tätowiererin
+            oder Marketingmanagerin in der Großstadt. Die Polleras haben die
+            jungen Frauen von ihren indigenen Großmüttern geerbt. Bis zu fünf
+            Schichten zählen die weit ausladenden Röcke.
+
+            "Warmis sobre Ruedas" nennen die Skaterinnen ihre Gruppe selbstbewusst
+            – auf Spanisch und in der indigenen Aymara-Sprache bedeutet das:
+            "Frauen auf Rädern". Schon allein die voluminöse Tracht ist eine
+            Herausforderung. Doch es geht um gemeinsamen Spaß, Zusammenhalt
+            und soziales Engagement.
+
+            Die Idee einer Cholitas-Skate-Gruppe kam der mittlerweile in Europa
+            lebenden Aidé, deren Konterfei heute wie eine Ikone über dem Skate-Gelände
+            wacht. Nun setzen ihre Freundinnen das Projekt fort, mit dem Ziel,
+            immer mehr und jüngere Skaterinnen dafür zu begeistern. "Wir wollen
+            vor allem Frauen ermutigen, die sich nicht trauen oder sich schämen
+            und es nicht wagen, aus der traditionellen Rolle auszubrechen",
+            sagen sie. Dieser Herausforderung sind auch die Vorbereitungen
+            gewidmet, mit denen die Gruppe ihr immerhin dreijähriges Jubiläum
+            zelebrieren wird.'
+        summary: Mit ihren gewagten Sprüngen und Pirouetten brettern sie gegen
+            hartnäckig fortbestehende Klischees. Ihre Tracht soll provozieren
+            und zeigen, dass den Cholitas heute alles offensteht. Dass sie
+            sich dabei ausgerechnet auf Skateboards schwingen, löst Erstaunen
+            aus. Doch die jungen Bolivianerinnen haben diesen Sport mit Bedacht
+            gewählt ...
+        director: Carmen Butta
+        fernsehserien_episode_no: 635
         fernsehserien_episode_slug: 635-cholitas-die-fliegenden-frauen-boliviens-1692539
         fernsehserien_episode_id: 1692539
         youtube_video_id: cGbP73aIii0
-        title: Cholitas – Die fliegenden Frauen Boliviens
-        description: 'Auf 3.500 Meter über der bolivianischen Millionenstadt La Paz erstreckt sich ihr Revier: Pura Pura – das höchstgelegene Skate-Gelände der Welt. Mit ihren traditionellen "Pollera"-Röcken wollen die neun Skaterinnen ein Signal senden: Eine Cholita – wie die Nachfahrinnen indigener Stämme in Bolivien oft abfällig genannt werden – kann alles, sogar auf dem Holzbrett dieses westlichen Extremsports balancieren. Sie selbst sind keine Cholitas vom Land, sondern leben als Schülerin und Studentin, Kindergärtnerin, Tätowiererin oder Marketingmanagerin in der Großstadt. Die Polleras haben die jungen Frauen von ihren indigenen Großmüttern geerbt. Bis zu fünf Schichten zählen die weit ausladenden Röcke.
+    -   overall_no: 634
+        season_no: 25
+        episode_no: 28
+        title: New York, die Foodtruck-Könige von Astoria
+        description: 'Astoria liegt am Ufer des East River, der Queens von
+            Manhattan trennt. Der Stadtteil mit Blick auf die Manhattan Skyline
+            ist eine Welt für sich. Besonders deutlich merkt man das am Speiseangebot.
+            Restaurants mit ägyptischer, asiatischer bis zu brasilianischer
+            oder mexikanischer Küche reihen sich dicht an dicht. So ist es
+            kein Wunder, dass Immigranten hier an jeder Ecke aus bunt bemalten
+            Wagen mit eingebauter Küche oder aus kleinen "push carts" genannten
+            Anhängern, Essen nach Art ihrer jeweiligen Heimat servieren. Sie
+            versuchen so, ihren amerikanischen Traum zu verwirklichen: So
+            mancher hier will Foodtruck-König werden. Durchgesetzt haben sich
+            in Astoria vor allem Foodtrucks für arabische Speisen, griechische
+            Souvlaki und mexikanische Tacos.
 
-          "Warmis sobre Ruedas" nennen die Skaterinnen ihre Gruppe selbstbewusst – auf Spanisch und in der indigenen Aymara-Sprache bedeutet das: "Frauen auf Rädern". Schon allein die voluminöse Tracht ist eine Herausforderung. Doch es geht um gemeinsamen Spaß, Zusammenhalt und soziales Engagement.
-
-          Die Idee einer Cholitas-Skate-Gruppe kam der mittlerweile in Europa lebenden Aidé, deren Konterfei heute wie eine Ikone über dem Skate-Gelände wacht. Nun setzen ihre Freundinnen das Projekt fort, mit dem Ziel, immer mehr und jüngere Skaterinnen dafür zu begeistern. "Wir wollen vor allem Frauen ermutigen, die sich nicht trauen oder sich schämen und es nicht wagen, aus der traditionellen Rolle auszubrechen", sagen sie. Dieser Herausforderung sind auch die Vorbereitungen gewidmet, mit denen die Gruppe ihr immerhin dreijähriges Jubiläum zelebrieren wird.'
-        summary: 'Mit ihren gewagten Sprüngen und Pirouetten brettern sie gegen hartnäckig fortbestehende Klischees. Ihre Tracht soll provozieren und zeigen, dass den Cholitas heute alles offensteht. Dass sie sich dabei ausgerechnet auf Skateboards schwingen, löst Erstaunen aus. Doch die jungen Bolivianerinnen haben diesen Sport mit Bedacht gewählt ...'
-        director: Carmen Butta
-    -   fernsehserien_episode_no: 636
+            Mohammed Afifi ist ein ägyptischer Foodtruck-Betreiber, der große
+            Pläne hat. Er will in Zukunft mal eine ganze Flotte sein Eigen
+            nennen und vielleicht sogar ein Restaurant eröffnen. Einige Foodtruck-Betreiber
+            haben es dagegen bereits geschafft. Der "King of Falafel", der
+            "King Souvlaki" und der "Rey del Taco" betreiben mehrere Imbisswagen,
+            Restaurants und sind Arbeitgeber für Angehörige und Verwandte.
+            Aber auch ihr Weg zum Erfolg war steinig.'
+        summary: Foodtrucks haben New York im Sturm erobert. Vor allem den
+            Stadtteil Astoria in Queens, denn mehr noch als in anderen Bezirken
+            New Yorks lebt hier bis heute die Idee vom Einwanderungsland Amerika.
+            Stolz behaupten die Bewohner, dass nirgendwo sonst so viele Menschen
+            verschiedener Kulturen und Sprachen eng beieinander leben. Und
+            mit ihnen Speisen und Rezepte aus aller Welt.
+        director: Sascha Just
+        fernsehserien_episode_no: 636
         fernsehserien_episode_slug: 636-new-york-die-foodtruck-koenige-von-astoria-1692540
         fernsehserien_episode_id: 1692540
         youtube_video_id: mPcAr-50yTs
-        title: New York, die Foodtruck-Könige von Astoria
-        description: 'Astoria liegt am Ufer des East River, der Queens von Manhattan trennt. Der Stadtteil mit Blick auf die Manhattan Skyline ist eine Welt für sich. Besonders deutlich merkt man das am Speiseangebot. Restaurants mit ägyptischer, asiatischer bis zu brasilianischer oder mexikanischer Küche reihen sich dicht an dicht. So ist es kein Wunder, dass Immigranten hier an jeder Ecke aus bunt bemalten Wagen mit eingebauter Küche oder aus kleinen "push carts" genannten Anhängern, Essen nach Art ihrer jeweiligen Heimat servieren. Sie versuchen so, ihren amerikanischen Traum zu verwirklichen: So mancher hier will Foodtruck-König werden. Durchgesetzt haben sich in Astoria vor allem Foodtrucks für arabische Speisen, griechische Souvlaki und mexikanische Tacos.
-
-          Mohammed Afifi ist ein ägyptischer Foodtruck-Betreiber, der große Pläne hat. Er will in Zukunft mal eine ganze Flotte sein Eigen nennen und vielleicht sogar ein Restaurant eröffnen. Einige Foodtruck-Betreiber haben es dagegen bereits geschafft. Der "King of Falafel", der "King Souvlaki" und der "Rey del Taco" betreiben mehrere Imbisswagen, Restaurants und sind Arbeitgeber für Angehörige und Verwandte. Aber auch ihr Weg zum Erfolg war steinig.'
-        summary: 'Foodtrucks haben New York im Sturm erobert. Vor allem den Stadtteil Astoria in Queens, denn mehr noch als in anderen Bezirken New Yorks lebt hier bis heute die Idee vom Einwanderungsland Amerika. Stolz behaupten die Bewohner, dass nirgendwo sonst so viele Menschen verschiedener Kulturen und Sprachen eng beieinander leben. Und mit ihnen Speisen und Rezepte aus aller Welt.'
-        director: Sascha Just
-    # -   fernsehserien_episode_no: 637
-    #     fernsehserien_episode_slug: 637-der-letzte-saeumer-des-piemont-simbabwe-kampf-ums-haar-1695175
-    #     fernsehserien_episode_id: 1695175
-    -   fernsehserien_episode_no: 638
+    -   overall_no: 635
+        season_no: 25
+        episode_no: 29
+        title: Malediven, im Rhythmus der Riffmantas
+        fernsehserien_episode_no: 638
         fernsehserien_episode_slug: 638-malediven-im-rhythmus-der-riffmantas-1696890
         fernsehserien_episode_id: 1696890
-        title: Malediven, im Rhythmus der Riffmantas
-    -   fernsehserien_episode_no: 639
+    -   overall_no: 636
+        season_no: 25
+        episode_no: 30
         title: Brasiliens Regenwald, zurück in die Zukunft
+        fernsehserien_episode_no: 639
         fernsehserien_episode_slug: 639-brasiliens-regenwald-zurueck-in-die-zukunft-1697573
         fernsehserien_episode_id: 1697573
-    -   fernsehserien_episode_no: 640
+    -   overall_no: 637
+        season_no: 25
+        episode_no: 31
+        title: 'Brasilien: Neue Hoffnung für die Hyazintharas'
+        fernsehserien_episode_no: 640
         fernsehserien_episode_slug: 640-brasilien-neue-hoffnung-fuer-die-hyazintharas-1700544
         fernsehserien_episode_id: 1700544
-        title: 'Brasilien: Neue Hoffnung für die Hyazintharas'
-    -   fernsehserien_episode_no: 641
+    -   overall_no: 638
+        season_no: 25
+        episode_no: 32
+        title: Das teuerste Stroh der Welt
+        fernsehserien_episode_no: 641
         fernsehserien_episode_slug: 641-das-teuerste-stroh-der-welt-1702644
         fernsehserien_episode_id: 1702644
-        title: Das teuerste Stroh der Welt
-    -   fernsehserien_episode_no: 642
+    -   overall_no: 639
+        season_no: 25
+        episode_no: 33
+        title: Hati Bondhu, die Elefantenschützer von Assam
+        fernsehserien_episode_no: 642
         fernsehserien_episode_slug: 642-hati-bondhu-die-elefantenschuetzer-von-assam-1710832
         fernsehserien_episode_id: 1710832
-        title: Hati Bondhu, die Elefantenschützer von Assam
-    -   fernsehserien_episode_no: 643
+    -   overall_no: 640
+        season_no: 25
+        episode_no: 34
+        title: Piemont - Mit Mulis über Stock und Stein
+        description: 'Auf 2.300 Meter Höhe im italienischen Piemont liegt
+            die Schutzhütte Morelli Buzzi hoch oben in den Seealpen. Hier
+            führen keine Wege oder Straßen hoch. Drei Monate im Jahr muss
+            der Betreiber der Hütte Wanderern Kost und Logis anbieten. Den
+            Helikopter kann sich der Hüttenwirt nur einmal in der Saison leisten.
+            Da kommen Luciano Ellena und seine Mulis ins Spiel. Er ist der
+            letzte Säumer im Piemont und versorgt die Hütte in den kommenden
+            drei Monaten mit Lebensmitteln. Der aussterbende Beruf war jahrhundertelang
+            der einzige Weg, Waren über schwer zugängliche Alpenpässe zu befördern.
+            Die Säumer transportieren die schweren Lasten auf dem Rücken von
+            Saumtieren. Luciano Ellena widmet sein Leben dem aussterbenden
+            Beruf als Säumer, seit er vor 20 Jahren sein erstes Muli Katty
+            kaufte. Er liebt Mulis seit er denken kann.
+
+            Die robusten Huftiere sind perfekt für die schwierigen Aufstiege
+            geeignet. Sie existieren allerdings nur, weil der Mensch Pferd
+            und Esel miteinander gekreuzt hat. Und ohne Zutun des Menschen
+            würden sie auch nicht weiter existieren: Als Hybriden sind sie
+            nicht fortpflanzungsfähig. Und so arbeitet Luciano nicht nur mit
+            den Mulis – er züchtet sie auch. Seinen Lebensunterhalt bestreitet
+            er ausschließlich mit seinen Mulis, der Sommer zählt zur Hauptsaison.
+            Mal werden die trittsicheren Tiere zum Abgrasen von Wiesen engagiert
+            oder er unternimmt mit Katty als Säumer Transporte ins Gebirge.
+
+            Wie jetzt, wo Hüttenwirt Paolo seine Schutzhütte für die kommenden
+            drei Monate öffnen muss. Doch das Wetter ist unberechenbar und
+            der geplante Lebensmitteltransport des Helikopters zur Hütte droht
+            auszufallen. Zur Eröffnung der Hütte soll Luciano nicht nur mit
+            Muli Katty Lebensmittel zur Hütte transportieren, sondern er will
+            auch seine beste Schülerin Elisa den beschwerlichen Weg mitnehmen.
+            Wie wird sich Elisa mit ihrem Muli schlagen und werden sie rechtzeitig
+            zur Hütteneröffnung oben sein?'
+        summary: 'Es gibt ihn noch, den Beruf des Säumers: In den Seealpen,
+            im italienischen Piemont, liegt auf 2.300 Meter Höhe die Schutzhütte
+            Morelli Buzzi. Drei Monate im Jahr muss der Betreiber der Hütte
+            Wanderern Kost und Logis anbieten. Doch Wege und Straßen gibt
+            es hier keine. Da kommen Luciano Ellena und seine Mulis ins Spiel.
+            Er ist der letzte Säumer und versorgt die Hütte mit Lebensmitteln.'
+        director: Philipp Laudauer
+        fernsehserien_episode_no: 643
         fernsehserien_episode_slug: 643-piemont-mit-mulis-ueber-stock-und-stein-1721175
         fernsehserien_episode_id: 1721175
         youtube_video_id: 9lSM-soPWHo
-        title: Piemont - Mit Mulis über Stock und Stein
-        description: 'Auf 2.300 Meter Höhe im italienischen Piemont liegt die Schutzhütte Morelli Buzzi hoch oben in den Seealpen. Hier führen keine Wege oder Straßen hoch. Drei Monate im Jahr muss der Betreiber der Hütte Wanderern Kost und Logis anbieten. Den Helikopter kann sich der Hüttenwirt nur einmal in der Saison leisten. Da kommen Luciano Ellena und seine Mulis ins Spiel. Er ist der letzte Säumer im Piemont und versorgt die Hütte in den kommenden drei Monaten mit Lebensmitteln. Der aussterbende Beruf war jahrhundertelang der einzige Weg, Waren über schwer zugängliche Alpenpässe zu befördern. Die Säumer transportieren die schweren Lasten auf dem Rücken von Saumtieren.
-          Luciano Ellena widmet sein Leben dem aussterbenden Beruf als Säumer, seit er vor 20 Jahren sein erstes Muli Katty kaufte. Er liebt Mulis seit er denken kann.
-
-          Die robusten Huftiere sind perfekt für die schwierigen Aufstiege geeignet. Sie existieren allerdings nur, weil der Mensch Pferd und Esel miteinander gekreuzt hat. Und ohne Zutun des Menschen würden sie auch nicht weiter existieren: Als Hybriden sind sie nicht fortpflanzungsfähig. Und so arbeitet Luciano nicht nur mit den Mulis – er züchtet sie auch. Seinen Lebensunterhalt bestreitet er ausschließlich mit seinen Mulis, der Sommer zählt zur Hauptsaison. Mal werden die trittsicheren Tiere zum Abgrasen von Wiesen engagiert oder er unternimmt mit Katty als Säumer Transporte ins Gebirge.
-
-          Wie jetzt, wo Hüttenwirt Paolo seine Schutzhütte für die kommenden drei Monate öffnen muss. Doch das Wetter ist unberechenbar und der geplante Lebensmitteltransport des Helikopters zur Hütte droht auszufallen. Zur Eröffnung der Hütte soll Luciano nicht nur mit Muli Katty Lebensmittel zur Hütte transportieren, sondern er will auch seine beste Schülerin Elisa den beschwerlichen Weg mitnehmen. Wie wird sich Elisa mit ihrem Muli schlagen und werden sie rechtzeitig zur Hütteneröffnung oben sein?'
-        summary: 'Es gibt ihn noch, den Beruf des Säumers: In den Seealpen, im italienischen Piemont, liegt auf 2.300 Meter Höhe die Schutzhütte Morelli Buzzi. Drei Monate im Jahr muss der Betreiber der Hütte Wanderern Kost und Logis anbieten. Doch Wege und Straßen gibt es hier keine. Da kommen Luciano Ellena und seine Mulis ins Spiel. Er ist der letzte Säumer und versorgt die Hütte mit Lebensmitteln.'
-        director: Philipp Laudauer
-
 dvds:
 -   title: Kolumbien - Die rasenden Engel der Linea 5
     release_date: '2007-01-01'
