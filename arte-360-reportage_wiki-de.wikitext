@@ -5414,7 +5414,7 @@
 | OT = Georgien - Welcome Teacher!<ref>Internetquellen zur Episode ''„Georgien - Welcome Teacher!“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/622-georgien-die-dorfschule-im-kaukasus-1661786 622] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/622-georgien-die-dorfschule-im-kaukasus-1661786 1661786]</ref>
 | Feld1 = -
 | REG = -
-| EA = 
+| EA = 2023-09-09
 | ZF = Swanetien ist eine der faszinierendsten und auch abgelegensten Regionen Georgiens. Doch viele Bergbewohner verlassen ihre Heimat, um in den Städten ein besseres Leben zu suchen. Betroffen ist auch Kala, ein kleines, fast 2000 Meter hoch gelegenes Dorf. Der örtliche Schuldirektor befindet sich in einer heiklen Lage. Nur noch 17 Schüler besuchen seine Schule ...
 }}
 {{Episodenlisteneintrag2
@@ -5423,7 +5423,7 @@
 | OT = Island - Seltsame Schätze aus dem Meer<ref>Internetquellen zur Episode ''„Island - Seltsame Schätze aus dem Meer“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/623-island-seltsame-schaetze-aus-dem-meer-1664145 623] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/623-island-seltsame-schaetze-aus-dem-meer-1664145 1664145], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=nez0RgvTkHQ nez0RgvTkHQ]</ref>
 | Feld1 = -
 | REG = Vincent Froehly
-| EA = 
+| EA = 2023-09-16
 | ZF = Auf den Meeren Islands haben die Fischer jahrhundertelang mit ihren Booten und Schiffen nach immer demselben Schatz gesucht: dem Kabeljau. Seit einigen Jahren aber weckt ein weiterer Meeresschatz Begehrlichkeiten – es ist ein seltsames, unbekanntes und eher hässlich aussehendes Tier: die Seegurke, auch Holothurie genannt. Sie ist der neue Star in den isländischen Gewässern.
 }}
 {{Episodenlisteneintrag2
@@ -5432,7 +5432,7 @@
 | OT = Argentinien - Die Winzerinnen von Mendoza<ref>Internetquellen zur Episode ''„Argentinien - Die Winzerinnen von Mendoza“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/624-argentinien-die-winzerinnen-von-mendoza-1668117 624] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/624-argentinien-die-winzerinnen-von-mendoza-1668117 1668117], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=YJUk9tTub8s YJUk9tTub8s]</ref>
 | Feld1 = -
 | REG = German Kral
-| EA = 
+| EA = 2023-09-30
 | ZF = Mendoza ist die wichtigste Weinregion Argentiniens. Hier wächst die Malbec-Traube, aus der der berühmte Rotwein gekeltert wird. Dieser Wein wird seit jeher hauptsächlich von Männern produziert. Doch eine Gruppe engagierter Frauen erfüllt sich nun den Traum vom eigenen Wein. Der Weg dahin war steinig, doch in der starken Gemeinschaft ist aus dem Traum Realität geworden.
 }}
 {{Episodenlisteneintrag2
@@ -5441,7 +5441,7 @@
 | OT = Australien: Mission Schnabeltier<ref>Internetquellen zur Episode ''„Australien: Mission Schnabeltier“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/625-australien-mission-schnabeltier-1670887 625] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/625-australien-mission-schnabeltier-1670887 1670887], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=gY-5SWOME9A gY-5SWOME9A]</ref>
 | Feld1 = -
 | REG = Ludovic Petho
-| EA = 
+| EA = 2023-10-21
 | ZF = Sie gehören zu den bekanntesten Tieren Australiens: die Schnabeltiere. Ausgestattet mit einem Schnabel und gleichzeitig einem dichten Pelz, eierlegend und trotzdem ihre Jungen säugend, wurden die Tiere wegen ihres Pelzes gejagt und fast ausgerottet. Zwischenzeitlich hatte sich ihr Bestand erholt. Doch neue Bedrohungen setzen den eigentümlichen Tieren erneut zu.
 }}
 {{Episodenlisteneintrag2
@@ -5450,7 +5450,7 @@
 | OT = Färöer: Zu Hause im Nordatlantik<ref>Internetquellen zur Episode ''„Färöer: Zu Hause im Nordatlantik“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/626-faeroeer-zu-hause-im-nordatlantik-aus-liebe-zur-schoenheit-1674399 626] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/626-faeroeer-zu-hause-im-nordatlantik-aus-liebe-zur-schoenheit-1674399 1674399], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=SFfii7XzU3E SFfii7XzU3E]</ref>
 | Feld1 = -
 | REG = Friederike Schlumbom
-| EA = 
+| EA = 2023-11-04
 | ZF = Hoch im Norden, im stürmischen Nordatlantik, liegen die Färöer, ein Archipel von 18 Inseln. Die Natur, rau und urtümlich, hat das Leben der Bewohner stark geprägt. Schon als die Wikinger aus dem heutigen Norwegen die Färöer bevölkerten, war der Bootsverkehr zwischen den Inseln überlebenswichtig. Er sicherte vor allem die Grundversorgung der Bewohner durch die Fischerei. Rudern ist heute Nationalsport, und Frauen sind schon lange mit am Start.
 }}
 {{Episodenlisteneintrag2
@@ -5459,7 +5459,7 @@
 | OT = Werft unter Palmen - Indonesiens Pinisis<ref>Internetquellen zur Episode ''„Werft unter Palmen - Indonesiens Pinisis“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/627-indonesien-werft-unter-palmen-indonesiens-pinisis-1678086 627] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/627-indonesien-werft-unter-palmen-indonesiens-pinisis-1678086 1678086], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=s0Ohg9vxi1U s0Ohg9vxi1U]</ref>
 | Feld1 = -
 | REG = Dietmar Klumpp
-| EA = 
+| EA = 2023-11-18
 | ZF = Pinisis, kleine wendige Frachtensegler, verkehrten bereits zu Zeiten der niederländischen Kolonialisierung zwischen den indonesischen Inseln. Noch immer werden sie wie damals gebaut, am Strand, ohne schriftlichen Bauplan. Eine Einzigartigkeit, die inzwischen zum immateriellen Weltkulturerbe der UNESCO gehört.
 }}
 {{Episodenlisteneintrag2
@@ -5468,7 +5468,7 @@
 | OT = Yabusame - Japans Samurai-Ladys<ref>Internetquellen zur Episode ''„Yabusame - Japans Samurai-Ladys“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/628-yabusame-japans-samurai-ladys-1679266 628] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/628-yabusame-japans-samurai-ladys-1679266 1679266], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=Qr21-51Z_vM Qr21-51Z_vM]</ref>
 | Feld1 = -
 | REG = Susanne Steffen
-| EA = 
+| EA = 2023-11-25
 | ZF = Die legendären japanischen Samurai sind lange ausgestorben, doch ihre Kunst des Yabusame, des berittenen Bogenschießens, hat überlebt. Bisher war das eine reine Männerwelt, doch jetzt haben einige engagierte Frauen eine Revolution angezettelt. Die Reitstallbesitzerin Ayuko Kamimura will Yabusame zu einem internationalen Trendsport des 21. Jahrhunderts auch für Frauen machen.
 }}
 {{Episodenlisteneintrag2
@@ -5477,7 +5477,7 @@
 | OT = Das weiße Gold von Noirmoutier<ref>Internetquellen zur Episode ''„Das weiße Gold von Noirmoutier“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/629-das-weisse-gold-von-noirmoutier-1681709 629] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/629-das-weisse-gold-von-noirmoutier-1681709 1681709], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=ILwQDgLDi-c ILwQDgLDi-c]</ref>
 | Feld1 = -
 | REG = Stéphane Nicolle
-| EA = 
+| EA = 2023-12-02
 | ZF = Die Insel Noirmoutier liegt an der Atlantikküste, im Golf von Biskaya. Mit ihren langen, feinen Sandstränden, ihren Pinienwäldern und den weißen Häusern ist sie als kleines Paradies beliebt, weit weg vom Trubel des Großstadtlebens. Noirmoutier steht aber auch für das weltweit berühmte Salz, das hier in den Salzgärten noch fast mittelalterlich geerntet wird.
 }}
 {{Episodenlisteneintrag2
@@ -5486,7 +5486,7 @@
 | OT = Neufundland - Bleiben oder gehen?<ref>Internetquellen zur Episode ''„Neufundland - Bleiben oder gehen?“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/630-neufundland-bleiben-oder-gehen-1692534 630] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/630-neufundland-bleiben-oder-gehen-1692534 1692534], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=cIyBqf4S0io cIyBqf4S0io]</ref>
 | Feld1 = -
 | REG = Holger Riedel
-| EA = 
+| EA = 2023-12-16
 | ZF = Ein Fischerdorf an der abgelegenen Südküste Neufundlands steht vor der letzten großen Entscheidung: Seine 75 Bewohner müssen wählen, ob sie bleiben oder alle zusammen ihre Heimat für immer verlassen sollen. Die Provinzverwaltung unterstützt die Umsiedlung mit bis zu 270.000 Dollar pro Haushalt, denn die Aufrechterhaltung der öffentlichen Infrastruktur wäre noch teurer ...
 }}
 {{Episodenlisteneintrag2
@@ -5495,7 +5495,7 @@
 | OT = Paris, Hauptstadt der Bienen<ref>Internetquellen zur Episode ''„Paris, Hauptstadt der Bienen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/631-paris-hauptstadt-der-bienen-1692535 631] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/631-paris-hauptstadt-der-bienen-1692535 1692535], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=eCPoZupaFWE eCPoZupaFWE]</ref>
 | Feld1 = -
 | REG = Jean-Baptiste Mathieu
-| EA = 
+| EA = 2023-12-27
 | ZF = Paris zieht nicht nur Menschen an, die Stadt ist auch für Honigbienen ein Zuhause. Etwa 2.000 Bienenvölker halten Imker heute auf den Dächern und in den Gärten der französischen Hauptstadt. Kein Wunder, denn historische Gärten und baumreiche Alleen haben eine enorme Anzahl unterschiedlicher Pflanzen zu bieten. Das Ziel vieler Imker: Sie wollen die so wichtige Honigbiene erhalten.
 }}
 {{Episodenlisteneintrag2
@@ -5504,7 +5504,7 @@
 | OT = Vietnam: Brücken für bedrohte Affen<ref>Internetquellen zur Episode ''„Vietnam: Brücken für bedrohte Affen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/632-vietnam-bruecken-bauen-fuer-bedrohte-affen-1692536 632] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/632-vietnam-bruecken-bauen-fuer-bedrohte-affen-1692536 1692536], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=uy5BR-8L4N8 uy5BR-8L4N8]</ref>
 | Feld1 = -
 | REG = Luigi Maria Perotti
-| EA = 
+| EA = 2024-01-06
 | ZF = Die Rotschenkligen Kleideraffen gelten als die schönsten Primaten der Welt. Doch Wilderei und illegaler Tierhandel haben fast zu ihrer Ausrottung geführt. Nur wenige Tiere konnten in Vietnam überleben. Engagierte Tierschutzaktivist*innen versuchen nun zu retten, was noch zu retten ist.
 }}
 {{Episodenlisteneintrag2
@@ -5513,7 +5513,7 @@
 | OT = Connemara: Wie das Land, so das Pony<ref>Internetquellen zur Episode ''„Connemara: Wie das Land, so das Pony“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/633-connemara-wie-das-land-so-das-pony-1692537 633] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/633-connemara-wie-das-land-so-das-pony-1692537 1692537], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=Vtlv_-OBj5M Vtlv_-OBj5M]</ref>
 | Feld1 = -
 | REG = Marie-Laure Daguenel
-| EA = 
+| EA = 2024-01-07
 | ZF = Das Connemara-Pony ist in Irland seit Generationen Kult. Voller Leidenschaft werden rund um diese robuste Pony-Rasse eigene Shows und Reitwettbewerbe abgehalten. Hier treten die edelsten Tiere gegeneinander an – Highlight der Shows ist die in Clifden, der Hauptstadt von Connemara. In diesem Jahr feiert der austragende Verband sein hundertjähriges Jubiläum.
 }}
 {{Episodenlisteneintrag2
@@ -5522,7 +5522,7 @@
 | OT = Normandie: Flache Wasser, reiche Natur<ref>Internetquellen zur Episode ''„Normandie: Flache Wasser, reiche Natur“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/634-normandie-flache-wasser-reiche-natur-1692538 634] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/634-normandie-flache-wasser-reiche-natur-1692538 1692538], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=fxaXRwjaosk fxaXRwjaosk]</ref>
 | Feld1 = -
 | REG = Thomas Delorme, Paul Degeneve
-| EA = 
+| EA = 2024-01-13
 | ZF = Die Sümpfe von Cotentin und Bessin in der Normandie sind ausgedehnte Feuchtgebiete aus Sümpfen und Poldern – eingedeichten, flachen Landzungen. Die Landschaft ist im Winter überschwemmt und im Sommer ausgetrocknet, dazu ein Zufluchtsort für Zugvögel, ein riesiges Reservoir biologischer Vielfalt. Doch das Ökosystem ist durch die Dürren und starken Regenfälle der letzten Jahren geschwächt.
 }}
 {{Episodenlisteneintrag2
@@ -5531,7 +5531,7 @@
 | OT = Cholitas – Die fliegenden Frauen Boliviens<ref>Internetquellen zur Episode ''„Cholitas – Die fliegenden Frauen Boliviens“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/635-cholitas-die-fliegenden-frauen-boliviens-1692539 635] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/635-cholitas-die-fliegenden-frauen-boliviens-1692539 1692539], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=cGbP73aIii0 cGbP73aIii0]</ref>
 | Feld1 = -
 | REG = Carmen Butta
-| EA = 
+| EA = 2024-01-20
 | ZF = Mit ihren gewagten Sprüngen und Pirouetten brettern sie gegen hartnäckig fortbestehende Klischees. Ihre Tracht soll provozieren und zeigen, dass den Cholitas heute alles offensteht. Dass sie sich dabei ausgerechnet auf Skateboards schwingen, löst Erstaunen aus. Doch die jungen Bolivianerinnen haben diesen Sport mit Bedacht gewählt ...
 }}
 {{Episodenlisteneintrag2
@@ -5540,7 +5540,7 @@
 | OT = New York, die Foodtruck-Könige von Astoria<ref>Internetquellen zur Episode ''„New York, die Foodtruck-Könige von Astoria“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/636-new-york-die-foodtruck-koenige-von-astoria-1692540 636] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/636-new-york-die-foodtruck-koenige-von-astoria-1692540 1692540], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=mPcAr-50yTs mPcAr-50yTs]</ref>
 | Feld1 = -
 | REG = Sascha Just
-| EA = 
+| EA = 2024-01-27
 | ZF = Foodtrucks haben New York im Sturm erobert. Vor allem den Stadtteil Astoria in Queens, denn mehr noch als in anderen Bezirken New Yorks lebt hier bis heute die Idee vom Einwanderungsland Amerika. Stolz behaupten die Bewohner, dass nirgendwo sonst so viele Menschen verschiedener Kulturen und Sprachen eng beieinander leben. Und mit ihnen Speisen und Rezepte aus aller Welt.
 }}
 {{Episodenlisteneintrag2
@@ -5549,7 +5549,7 @@
 | OT = Malediven, im Rhythmus der Riffmantas<ref>Internetquellen zur Episode ''„Malediven, im Rhythmus der Riffmantas“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/638-malediven-im-rhythmus-der-riffmantas-1696890 638] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/638-malediven-im-rhythmus-der-riffmantas-1696890 1696890], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=_I9U3FCyFEE _I9U3FCyFEE]</ref>
 | Feld1 = -
 | REG = -
-| EA = 
+| EA = 2024-02-17
 | ZF = Die Malediven – der Archipel im Indischen Ozean ist nicht nur ein Sehnsuchtsort für Urlauber, sondern vor allem gibt es hier einen weltweit einzigartigen Ort, an dem man den gigantischen Mantarochen in großer Zahl hautnah begegnen kann: die Hanifaru-Bucht im Baa-Atoll. Die Riesenrochen sind hier streng geschützt.
 }}
 {{Episodenlisteneintrag2
@@ -5558,7 +5558,7 @@
 | OT = Brasiliens Regenwald, zurück in die Zukunft<ref>Internetquellen zur Episode ''„Brasiliens Regenwald, zurück in die Zukunft“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/639-brasiliens-regenwald-zurueck-in-die-zukunft-1697573 639] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/639-brasiliens-regenwald-zurueck-in-die-zukunft-1697573 1697573], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=Y3VexYvH_oY Y3VexYvH_oY]</ref>
 | Feld1 = -
 | REG = Gordian Arneth
-| EA = 
+| EA = 2024-02-24
 | ZF = Die Amazonasregion ist Heimat Tausender Tier- und Pflanzenarten – und mehrerer indigener Völker. Enttäuscht vom modernen Leben, besinnen sie sich auf ihre alte Lebensweise, bauen Maniok und Kakao an und forsten gerodete Flächen mit einheimischen Pflanzenarten auf. Ist die alte Lebensweise ein Weg, um dem drohenden Verschwinden des Regenwaldes entgegenzuwirken?
 }}
 {{Episodenlisteneintrag2
@@ -5567,7 +5567,7 @@
 | OT = Brasilien: Neue Hoffnung für die Hyazintharas<ref>Internetquellen zur Episode ''„Brasilien: Neue Hoffnung für die Hyazintharas“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/640-brasilien-neue-hoffnung-fuer-die-hyazintharas-1700544 640] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/640-brasilien-neue-hoffnung-fuer-die-hyazintharas-1700544 1700544], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=GTHf7uIgMTM GTHf7uIgMTM]</ref>
 | Feld1 = -
 | REG = Emilie Rozand
-| EA = 
+| EA = 2024-03-09
 | ZF = Sie sind die größten Papageien des brasilianischen Regenwalds – und gelten als seine schönsten: Hyazintharas. Doch während der letzten Jahrzehnte sind die spektakulären Papageien seltener geworden. Durch die Abholzung des Regenwaldes gingen den Vögeln ihre Hauptnistplätze verloren, die großen Mandovi-Bäume. Nun jedoch gibt es Hoffnung für die Aras.
 }}
 {{Episodenlisteneintrag2
@@ -5576,7 +5576,7 @@
 | OT = Das teuerste Stroh der Welt<ref>Internetquellen zur Episode ''„Das teuerste Stroh der Welt“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/641-das-teuerste-stroh-der-welt-1702644 641] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/641-das-teuerste-stroh-der-welt-1702644 1702644], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=UZfngvSQveI UZfngvSQveI]</ref>
 | Feld1 = -
 | REG = -
-| EA = 
+| EA = 2024-03-16
 | ZF = Roggenstroh galt in Frankreich lange Zeit als Baumaterial armer Leute. Mit ihm wurden Möbel bespannt oder Dächer gedeckt. Als die maschinelle Massenproduktion neue, dauerhaftere Materialien hervorbrachte, geriet das Stroh in Vergessenheit. Inzwischen wird es von engagierten Handwerkern wiederentdeckt und erlebt eine Renaissance – als teure Einlegearbeit oder prunkvolle Dekoration.
 }}
 {{Episodenlisteneintrag
@@ -5585,7 +5585,7 @@
 | OT = Hati Bondhu, die Elefantenschützer von Assam<ref>Internetquellen zur Episode ''„Hati Bondhu, die Elefantenschützer von Assam“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/642-hati-bondhu-die-elefantenschuetzer-von-assam-1710832 642] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/642-hati-bondhu-die-elefantenschuetzer-von-assam-1710832 1710832], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=SALlndp7hAA SALlndp7hAA]</ref>
 | Feld1 = -
 | REG = Brigitte Kornetzky
-| EA = 
+| EA = 2024-04-20
 }}
 {{Episodenlisteneintrag2
 | NR_GES = 640
@@ -5593,7 +5593,7 @@
 | OT = Piemont - Mit Mulis über Stock und Stein<ref>Internetquellen zur Episode ''„Piemont - Mit Mulis über Stock und Stein“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/643-piemont-mit-mulis-ueber-stock-und-stein-1721175 643] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/643-piemont-mit-mulis-ueber-stock-und-stein-1721175 1721175], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=9lSM-soPWHo 9lSM-soPWHo]</ref>
 | Feld1 = -
 | REG = Philipp Laudauer
-| EA = 
+| EA = 2024-06-07
 | ZF = Es gibt ihn noch, den Beruf des Säumers: In den Seealpen, im italienischen Piemont, liegt auf 2.300 Meter Höhe die Schutzhütte Morelli Buzzi. Drei Monate im Jahr muss der Betreiber der Hütte Wanderern Kost und Logis anbieten. Doch Wege und Straßen gibt es hier keine. Da kommen Luciano Ellena und seine Mulis ins Spiel. Er ist der letzte Säumer und versorgt die Hütte mit Lebensmitteln.
 }}
 }}

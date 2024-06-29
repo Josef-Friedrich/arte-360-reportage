@@ -33888,6 +33888,7 @@ seasons:
         season_no: 25
         episode_no: 14
         title: Georgien - Welcome Teacher!
+        alias: Georgien – Die Dorfschule im Kaukasus
         description: 'Lana Dvalishvili hat sich vor Jahren für ein Leben im
             Bergdorf Kala entschieden. Als die Englischlehrerin damals dem
             Aufruf des Programms des georgischen Bildungsministeriums folgte,
@@ -33919,6 +33920,7 @@ seasons:
             auch Kala, ein kleines, fast 2000 Meter hoch gelegenes Dorf. Der
             örtliche Schuldirektor befindet sich in einer heiklen Lage. Nur
             noch 17 Schüler besuchen seine Schule ...
+        air_date: '2023-09-09'
         fernsehserien_episode_no: 622
         fernsehserien_episode_slug: 622-georgien-die-dorfschule-im-kaukasus-1661786
         fernsehserien_episode_id: 1661786
@@ -33957,6 +33959,7 @@ seasons:
             hässlich aussehendes Tier: die Seegurke, auch Holothurie genannt.
             Sie ist der neue Star in den isländischen Gewässern.'
         director: Vincent Froehly
+        air_date: '2023-09-16'
         fernsehserien_episode_no: 623
         fernsehserien_episode_slug: 623-island-seltsame-schaetze-aus-dem-meer-1664145
         fernsehserien_episode_id: 1664145
@@ -34000,6 +34003,7 @@ seasons:
             vom eigenen Wein. Der Weg dahin war steinig, doch in der starken
             Gemeinschaft ist aus dem Traum Realität geworden.
         director: German Kral
+        air_date: '2023-09-30'
         fernsehserien_episode_no: 624
         fernsehserien_episode_slug: 624-argentinien-die-winzerinnen-von-mendoza-1668117
         fernsehserien_episode_id: 1668117
@@ -34039,6 +34043,7 @@ seasons:
             Zwischenzeitlich hatte sich ihr Bestand erholt. Doch neue Bedrohungen
             setzen den eigentümlichen Tieren erneut zu.'
         director: Ludovic Petho
+        air_date: '2023-10-21'
         fernsehserien_episode_no: 625
         fernsehserien_episode_slug: 625-australien-mission-schnabeltier-1670887
         fernsehserien_episode_id: 1670887
@@ -34090,6 +34095,7 @@ seasons:
             Grundversorgung der Bewohner durch die Fischerei. Rudern ist heute
             Nationalsport, und Frauen sind schon lange mit am Start.
         director: Friederike Schlumbom
+        air_date: '2023-11-04'
         fernsehserien_episode_no: 626
         fernsehserien_episode_slug: 626-faeroeer-zu-hause-im-nordatlantik-aus-liebe-zur-schoenheit-1674399
         fernsehserien_episode_id: 1674399
@@ -34133,6 +34139,7 @@ seasons:
             schriftlichen Bauplan. Eine Einzigartigkeit, die inzwischen zum
             immateriellen Weltkulturerbe der UNESCO gehört.
         director: Dietmar Klumpp
+        air_date: '2023-11-18'
         fernsehserien_episode_no: 627
         fernsehserien_episode_slug: 627-indonesien-werft-unter-palmen-indonesiens-pinisis-1678086
         fernsehserien_episode_id: 1678086
@@ -34179,6 +34186,7 @@ seasons:
             Ayuko Kamimura will Yabusame zu einem internationalen Trendsport
             des 21. Jahrhunderts auch für Frauen machen.
         director: Susanne Steffen
+        air_date: '2023-11-25'
         fernsehserien_episode_no: 628
         fernsehserien_episode_slug: 628-yabusame-japans-samurai-ladys-1679266
         fernsehserien_episode_id: 1679266
@@ -34219,6 +34227,7 @@ seasons:
             für das weltweit berühmte Salz, das hier in den Salzgärten noch
             fast mittelalterlich geerntet wird.
         director: Stéphane Nicolle
+        air_date: '2023-12-02'
         fernsehserien_episode_no: 629
         fernsehserien_episode_slug: 629-das-weisse-gold-von-noirmoutier-1681709
         fernsehserien_episode_id: 1681709
@@ -34258,6 +34267,7 @@ seasons:
             mit bis zu 270.000 Dollar pro Haushalt, denn die Aufrechterhaltung
             der öffentlichen Infrastruktur wäre noch teurer ...'
         director: Holger Riedel
+        air_date: '2023-12-16'
         fernsehserien_episode_no: 630
         fernsehserien_episode_slug: 630-neufundland-bleiben-oder-gehen-1692534
         fernsehserien_episode_id: 1692534
@@ -34302,6 +34312,7 @@ seasons:
             eine enorme Anzahl unterschiedlicher Pflanzen zu bieten. Das Ziel
             vieler Imker: Sie wollen die so wichtige Honigbiene erhalten.'
         director: Jean-Baptiste Mathieu
+        air_date: '2023-12-27'
         fernsehserien_episode_no: 631
         fernsehserien_episode_slug: 631-paris-hauptstadt-der-bienen-1692535
         fernsehserien_episode_id: 1692535
@@ -34350,6 +34361,7 @@ seasons:
             Vietnam überleben. Engagierte Tierschutzaktivist*innen versuchen
             nun zu retten, was noch zu retten ist.
         director: Luigi Maria Perotti
+        air_date: '2024-01-06'
         fernsehserien_episode_no: 632
         fernsehserien_episode_slug: 632-vietnam-bruecken-bauen-fuer-bedrohte-affen-1692536
         fernsehserien_episode_id: 1692536
@@ -34400,6 +34412,7 @@ seasons:
             der Hauptstadt von Connemara. In diesem Jahr feiert der austragende
             Verband sein hundertjähriges Jubiläum.
         director: Marie-Laure Daguenel
+        air_date: '2024-01-07'
         fernsehserien_episode_no: 633
         fernsehserien_episode_slug: 633-connemara-wie-das-land-so-das-pony-1692537
         fernsehserien_episode_id: 1692537
@@ -34442,6 +34455,7 @@ seasons:
             ist durch die Dürren und starken Regenfälle der letzten Jahren
             geschwächt.
         director: Thomas Delorme, Paul Degeneve
+        air_date: '2024-01-13'
         fernsehserien_episode_no: 634
         fernsehserien_episode_slug: 634-normandie-flache-wasser-reiche-natur-1692538
         fernsehserien_episode_id: 1692538
@@ -34484,6 +34498,7 @@ seasons:
             aus. Doch die jungen Bolivianerinnen haben diesen Sport mit Bedacht
             gewählt ...
         director: Carmen Butta
+        air_date: '2024-01-20'
         fernsehserien_episode_no: 635
         fernsehserien_episode_slug: 635-cholitas-die-fliegenden-frauen-boliviens-1692539
         fernsehserien_episode_id: 1692539
@@ -34519,6 +34534,7 @@ seasons:
             verschiedener Kulturen und Sprachen eng beieinander leben. Und
             mit ihnen Speisen und Rezepte aus aller Welt.
         director: Sascha Just
+        air_date: '2024-01-27'
         fernsehserien_episode_no: 636
         fernsehserien_episode_slug: 636-new-york-die-foodtruck-koenige-von-astoria-1692540
         fernsehserien_episode_id: 1692540
@@ -34556,6 +34572,7 @@ seasons:
             hier einen weltweit einzigartigen Ort, an dem man den gigantischen
             Mantarochen in großer Zahl hautnah begegnen kann: die Hanifaru-Bucht
             im Baa-Atoll. Die Riesenrochen sind hier streng geschützt.'
+        air_date: '2024-02-17'
         fernsehserien_episode_no: 638
         fernsehserien_episode_slug: 638-malediven-im-rhythmus-der-riffmantas-1696890
         fernsehserien_episode_id: 1696890
@@ -34596,6 +34613,7 @@ seasons:
             auf. Ist die alte Lebensweise ein Weg, um dem drohenden Verschwinden
             des Regenwaldes entgegenzuwirken?
         director: Gordian Arneth
+        air_date: '2024-02-24'
         fernsehserien_episode_no: 639
         fernsehserien_episode_slug: 639-brasiliens-regenwald-zurueck-in-die-zukunft-1697573
         fernsehserien_episode_id: 1697573
@@ -34638,6 +34656,7 @@ seasons:
             verloren, die großen Mandovi-Bäume. Nun jedoch gibt es Hoffnung
             für die Aras.'
         director: Emilie Rozand
+        air_date: '2024-03-09'
         fernsehserien_episode_no: 640
         fernsehserien_episode_slug: 640-brasilien-neue-hoffnung-fuer-die-hyazintharas-1700544
         fernsehserien_episode_id: 1700544
@@ -34681,6 +34700,7 @@ seasons:
             hervorbrachte, geriet das Stroh in Vergessenheit. Inzwischen wird
             es von engagierten Handwerkern wiederentdeckt und erlebt eine
             Renaissance – als teure Einlegearbeit oder prunkvolle Dekoration.
+        air_date: '2024-03-16'
         fernsehserien_episode_no: 641
         fernsehserien_episode_slug: 641-das-teuerste-stroh-der-welt-1702644
         fernsehserien_episode_id: 1702644
@@ -34725,6 +34745,7 @@ seasons:
             Ein erster wichtiger Erfolg für ein friedliches Miteinander von
             Reisbauern und Rüsselträgern. '
         director: Brigitte Kornetzky
+        air_date: '2024-04-20'
         fernsehserien_episode_no: 642
         fernsehserien_episode_slug: 642-hati-bondhu-die-elefantenschuetzer-von-assam-1710832
         fernsehserien_episode_id: 1710832
@@ -34772,6 +34793,7 @@ seasons:
             es hier keine. Da kommen Luciano Ellena und seine Mulis ins Spiel.
             Er ist der letzte Säumer und versorgt die Hütte mit Lebensmitteln.'
         director: Philipp Laudauer
+        air_date: '2024-06-07'
         fernsehserien_episode_no: 643
         fernsehserien_episode_slug: 643-piemont-mit-mulis-ueber-stock-und-stein-1721175
         fernsehserien_episode_id: 1721175
