@@ -142,7 +142,7 @@
 | Titre inconnu
 |-
 |35
-|
+|🔴
 | Titre inconnu
 |-
 |36
@@ -209,7 +209,7 @@
 | Titre inconnu
 |-
 |10
-|
+|🔴
 | Titre inconnu
 |-
 |11
@@ -245,7 +245,7 @@
 | Titre inconnu
 |-
 |19
-|
+|🔴
 | Titre inconnu
 |-
 |20
@@ -412,7 +412,7 @@
 | Titre inconnu
 |-
 |23
-|
+|🔴
 | Titre inconnu
 |-
 |24
@@ -428,7 +428,7 @@
 | Titre inconnu
 |-
 |27
-|
+|🔴
 | Titre inconnu
 |-
 |28
@@ -443,7 +443,7 @@
 !width="87%"|Titre français
 |-
 |1
-|
+|🔴
 | Titre inconnu
 |-
 |2
@@ -451,7 +451,7 @@
 | Titre inconnu
 |-
 |3
-|
+|🔴
 | Titre inconnu
 |-
 |4
@@ -507,7 +507,7 @@
 | Titre inconnu
 |-
 |17
-|
+|🔴
 | Les Abeilles Tueuses
 |-
 |18
@@ -535,7 +535,7 @@
 | Titre inconnu
 |-
 |24
-|
+|🔴
 | Titre inconnu
 |-
 |25
@@ -894,7 +894,7 @@
 | Kenya, le Village des Femmes
 |-
 |4
-|
+|🔴
 | L'Arche de Noé en Bolivie
 |-
 |5
@@ -914,7 +914,7 @@
 | Bangkok, Insectes Frits à Toute Heure
 |-
 |9
-|
+|🔴
 | Les Enragés du Vol à Voile
 |-
 |10
@@ -997,7 +997,7 @@
 | Chasse aux Sorcières en Tanzanie
 |-
 |2
-|
+|🔴
 | Les Catcheuses de Mexico
 |-
 |3
@@ -1037,7 +1037,7 @@
 | Namibie, Sur les Traces de Darwin
 |-
 |12
-|
+|🔴
 | Nicaragua, la Malédiction des Pêcheurs de Langoustes
 |-
 |13
@@ -1045,7 +1045,7 @@
 | La Brousse en Vélo-Taxi
 |-
 |14
-|
+|🔴
 | New York, le Plus Petit Opéra du Monde
 |-
 |15
@@ -1069,7 +1069,7 @@
 | Jamais Sans Ma Jeep
 |-
 |20
-|
+|🔴
 | Le Dernier Capitaine du Rio de la Plata
 |-
 |21
@@ -1164,7 +1164,7 @@
 | Le Sel des Incas
 |-
 |19
-|
+|🔴
 | Les Bûcherons du Canada
 |-
 |20
@@ -1176,11 +1176,11 @@
 | Japon, les Reines de la Mer
 |-
 |22
-|
+|🔴
 | Maisons Végétales au Paraguay
 |-
 |23
-|
+|🔴
 | Ma Cabane au Costa Rica
 |-
 |24
@@ -1445,7 +1445,7 @@
 | Les Mamas des Bahamas
 |-
 |9
-|
+|🔴
 | Les Campeurs Sauvages de Slab City
 |-
 |10
@@ -1485,11 +1485,11 @@
 | Birmanie, le Moine, le Village et la Lumière
 |-
 |19
-|
+|🔴
 | Bolivie, la Route de la Mort
 |-
 |20
-|
+|🔴
 | Les Pêcheurs de Crabes de la Terre de Feu
 |-
 |21
@@ -1707,7 +1707,7 @@
 | Andalousie, la Tradition de la Transhumance
 |-
 |23
-|
+|🔴
 | Terre-Neuve, les Chasseurs d’Icebergs
 |-
 |24
@@ -1968,7 +1968,7 @@
 | La Volga au Rythme des Cosaques
 |-
 |7
-|
+|🔴
 | Chili, les Phares du Bout du Monde
 |-
 |8
@@ -2135,7 +2135,7 @@
 | Chatuchak, le Plus Grand Marché de Thaïlande
 |-
 |21
-|
+|🔴
 | Argentine, le Retour du Jaguar
 |-
 |22
@@ -2155,7 +2155,7 @@
 | Dans la Taïga, Sur les Traces du Tigre de Sibérie
 |-
 |26
-|
+|🔴
 | Pérou, une Laine Qui Vaut de l’Or
 |-
 |27

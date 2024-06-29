@@ -798,6 +798,7 @@
           "episode_no": 35,
           "title": "Die Seele des Lichts",
           "topic": "Universum des Lichts",
+          "continent": "Amerika",
           "location_wikidata": "Q100",
           "coordinates": [
             42.360277777777775,
@@ -1135,6 +1136,7 @@
           "episode_no": 10,
           "title": "Schätze aus dem All",
           "topic": "Die Schatzjäger",
+          "continent": "Amerika",
           "location_wikidata": "Q189429",
           "coordinates": [
             32.26,
@@ -1351,6 +1353,7 @@
           "episode_no": 19,
           "title": "Geheimnisse der Toten",
           "topic": "Dem Täter auf der Spur",
+          "continent": "Amerika",
           "location_wikidata": "Q43421",
           "coordinates": [
             37.54083333333333,
@@ -2322,6 +2325,7 @@
           "season_no": 3,
           "episode_no": 23,
           "title": "Die Farm der Schmetterlinge",
+          "continent": "Amerika",
           "location_wikidata": "Q800",
           "coordinates": [
             10,
@@ -2418,6 +2422,7 @@
           "season_no": 3,
           "episode_no": 27,
           "title": "Gaucho auf Lebenszeit",
+          "continent": "Amerika",
           "location_wikidata": "Q184382",
           "coordinates": [
             -35,
@@ -2472,6 +2477,7 @@
           "season_no": 4,
           "episode_no": 1,
           "title": "Cunahá - Tod im Regenwald",
+          "continent": "Amerika",
           "location_wikidata": "Q40040",
           "coordinates": [
             -3.9833333333333334,
@@ -2522,6 +2528,7 @@
           "episode_no": 3,
           "title": "Wildreis - Der grüne Schatz der kanadischen Ojibwa-Indianer",
           "alias": "Der Reis des Manitu",
+          "continent": "Amerika",
           "location_wikidata": "Q7332195",
           "coordinates": [
             49.75,
@@ -2850,6 +2857,7 @@
           "episode_no": 17,
           "title": "Die Legende von den Killerbienen",
           "title_fr": "Les Abeilles Tueuses",
+          "continent": "Amerika",
           "location_wikidata": "Q953901",
           "coordinates": [
             -22.722777777778,
@@ -2999,6 +3007,7 @@
           "episode_no": 24,
           "title": "Palmasola - Dorf hinter Gittern",
           "alias": "Palma Sola - Stadt der Mörder",
+          "continent": "Amerika",
           "location_wikidata": "Q460331",
           "coordinates": [
             -17.87389722,
@@ -4880,6 +4889,7 @@
           "episode_no": 4,
           "title": "Boliviens junge Wilde",
           "title_fr": "L'Arche de Noé en Bolivie",
+          "continent": "Amerika",
           "location_wikidata": "Q1491",
           "coordinates": [
             -16.494166666667,
@@ -4996,6 +5006,7 @@
           "episode_no": 9,
           "title": "Die Windreiter der Anden",
           "title_fr": "Les Enragés du Vol à Voile",
+          "continent": "Amerika",
           "location_wikidata": "Q44237",
           "coordinates": [
             -32.883333333333,
@@ -5413,6 +5424,7 @@
           "episode_no": 2,
           "title": "Die Kämpferinnen von Mexiko",
           "title_fr": "Les Catcheuses de Mexico",
+          "continent": "Amerika",
           "location_wikidata": "Q641374",
           "coordinates": [
             19.424722,
@@ -5646,6 +5658,7 @@
           "episode_no": 12,
           "title": "Nicaragua: Fluch der Langustentaucher",
           "title_fr": "Nicaragua, la Malédiction des Pêcheurs de Langoustes",
+          "continent": "Amerika",
           "location_wikidata": "Q811",
           "coordinates": [
             13,
@@ -5693,6 +5706,7 @@
           "episode_no": 14,
           "title": "New York - Die kleinste Oper der Welt",
           "title_fr": "New York, le Plus Petit Opéra du Monde",
+          "continent": "Amerika",
           "location_wikidata": "Q455775",
           "coordinates": [
             40.72867,
@@ -5833,6 +5847,7 @@
           "episode_no": 20,
           "title": "Rio de la Plata - SOS am Silberfluss",
           "title_fr": "Le Dernier Capitaine du Rio de la Plata",
+          "continent": "Amerika",
           "location_wikidata": "Q35827",
           "coordinates": [
             -34.883055555556,
@@ -6347,6 +6362,7 @@
           "episode_no": 19,
           "title": "Die Holzfäller von British Columbia",
           "title_fr": "Les Bûcherons du Canada",
+          "continent": "Amerika",
           "location_wikidata": "Q1973",
           "coordinates": [
             54.5,
@@ -6418,6 +6434,7 @@
           "episode_no": 22,
           "title": "Paraguays neue Häuser",
           "title_fr": "Maisons Végétales au Paraguay",
+          "continent": "Amerika",
           "location_wikidata": "Q733",
           "coordinates": [
             -23.5,
@@ -6442,6 +6459,7 @@
           "episode_no": 23,
           "title": "Ein Baumhaus in Costa Rica",
           "title_fr": "Ma Cabane au Costa Rica",
+          "continent": "Amerika",
           "location_wikidata": "Q2669009",
           "coordinates": [
             9.62083,
@@ -7894,6 +7912,7 @@
           "episode_no": 9,
           "title": "Slab City - wildes Leben in der Wüste",
           "title_fr": "Les Campeurs Sauvages de Slab City",
+          "continent": "Amerika",
           "location_wikidata": "Q1017618",
           "coordinates": [
             33.2575,
@@ -8123,6 +8142,7 @@
           "episode_no": 19,
           "title": "Bolivien: Lebensader Todesstraße",
           "title_fr": "Bolivie, la Route de la Mort",
+          "continent": "Amerika",
           "location_wikidata": "Q385206",
           "coordinates": [
             -16.335906,
@@ -8146,6 +8166,7 @@
           "episode_no": 20,
           "title": "Die Krabbenfischer von Feuerland",
           "title_fr": "Les Pêcheurs de Crabes de la Terre de Feu",
+          "continent": "Amerika",
           "location_wikidata": "Q1141736",
           "coordinates": [
             -55.083333333333,
@@ -9381,6 +9402,7 @@
           "episode_no": 23,
           "title": "Die Eisbergjäger von Neufundland",
           "title_fr": "Terre-Neuve, les Chasseurs d’Icebergs",
+          "continent": "Amerika",
           "location_wikidata": "Q48335",
           "coordinates": [
             48.566388888889,
@@ -10848,6 +10870,7 @@
           "episode_no": 7,
           "title": "Chile - Die Leuchttürme am Ende der Welt",
           "title_fr": "Chili, les Phares du Bout du Monde",
+          "continent": "Amerika",
           "location_wikidata": "Q4078",
           "coordinates": [
             -55.98,
@@ -11819,6 +11842,7 @@
           "title": "Argentinien - Der Jaguar ist zurück",
           "title_fr": "Argentine, le Retour du Jaguar",
           "title_en": "Argentinia - The Jaguar is Back",
+          "continent": "Amerika",
           "location_wikidata": "Q1369974",
           "coordinates": [
             -28.6,
@@ -11947,6 +11971,7 @@
           "title": "Peru, das Goldhaar der Vikunjas",
           "title_fr": "Pérou, une Laine Qui Vaut de l’Or",
           "title_en": "Peru, the golden hair of the vicunas",
+          "continent": "Amerika",
           "location_wikidata": "Q1814203",
           "coordinates": [
             -14.693888888889,

@@ -293,7 +293,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Die Seele des Lichts",
       "description": "https://www.youtube.com/watch?v=gFoyqUu_hAU"
@@ -405,7 +405,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Schätze aus dem All",
       "description": "https://www.youtube.com/watch?v=auISYpA2psM"
@@ -533,7 +533,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Geheimnisse der Toten",
       "description": "https://www.youtube.com/watch?v=bA5xe1HPaLw"
@@ -1125,7 +1125,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Die Farm der Schmetterlinge",
       "description": "https://www.youtube.com/watch?v=bxBVKiUHOpE"
@@ -1189,7 +1189,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Gaucho auf Lebenszeit",
       "description": "https://www.youtube.com/watch?v=cJKLHLFDYXU"
@@ -1221,7 +1221,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Cunahá - Tod im Regenwald",
       "description": "https://www.youtube.com/watch?v=yzGLrkcry6c"
@@ -1253,7 +1253,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Wildreis - Der grüne Schatz der kanadischen Ojibwa-Indianer",
       "description": "https://www.youtube.com/watch?v=JZX6YmRRFkE"
@@ -1460,7 +1460,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Die Legende von den Killerbienen",
       "description": "https://www.youtube.com/watch?v=rw9kCLRBqS4"
@@ -1508,7 +1508,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Palmasola - Dorf hinter Gittern",
       "description": "https://www.youtube.com/watch?v=UwCJCZPcEL0"
@@ -2610,7 +2610,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Boliviens junge Wilde",
       "description": "https://www.youtube.com/watch?v=SfnqxRXIJSo"
@@ -2690,7 +2690,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Die Windreiter der Anden",
       "description": "https://www.youtube.com/watch?v=xkVql_Bm6FM"
@@ -2882,7 +2882,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Die Kämpferinnen von Mexiko",
       "description": "https://www.youtube.com/watch?v=HDZDyBBnqDs"
@@ -3042,7 +3042,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Nicaragua: Fluch der Langustentaucher",
       "description": "https://www.youtube.com/watch?v=bO6BiCVyGug"
@@ -3074,7 +3074,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "New York - Die kleinste Oper der Welt",
       "description": "https://www.youtube.com/watch?v=I-VACV5HkOs"
@@ -3170,7 +3170,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Rio de la Plata - SOS am Silberfluss",
       "description": "https://www.youtube.com/watch?v=IkMvsCA4uo0"
@@ -3490,7 +3490,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Die Holzfäller von British Columbia",
       "description": "https://www.youtube.com/watch?v=MpF684mvA5A"
@@ -3538,7 +3538,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Paraguays neue Häuser",
       "description": "https://www.youtube.com/watch?v=quHXX9_bIjQ"
@@ -3554,7 +3554,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Ein Baumhaus in Costa Rica",
       "description": "https://www.youtube.com/watch?v=JL3N7pLoXFM"
@@ -4482,7 +4482,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Slab City - wildes Leben in der Wüste",
       "description": "https://www.youtube.com/watch?v=T0K8Qv0eupI"
@@ -4626,7 +4626,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Bolivien: Lebensader Todesstraße",
       "description": "https://www.youtube.com/watch?v=JhplvCSCDkQ"
@@ -4642,7 +4642,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Die Krabbenfischer von Feuerland",
       "description": "https://www.youtube.com/watch?v=Y8D9o5YD2dM"
@@ -5442,7 +5442,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Die Eisbergjäger von Neufundland",
       "description": "https://www.youtube.com/watch?v=Jylj5OMHrWk"
@@ -6402,7 +6402,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Chile - Die Leuchttürme am Ende der Welt",
       "description": "https://www.youtube.com/watch?v=u1jaUHMhRwo"
@@ -7042,7 +7042,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Argentinien - Der Jaguar ist zurück",
       "description": "https://www.youtube.com/watch?v=paOkViJRTpg"
@@ -7122,7 +7122,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Peru, das Goldhaar der Vikunjas",
       "description": "https://www.youtube.com/watch?v=vrYNhC0APiQ"
