@@ -106,7 +106,7 @@
 | Titre inconnu
 |-
 |26
-|
+|🔴
 | Titre inconnu
 |-
 |27
@@ -138,7 +138,7 @@
 | Titre inconnu
 |-
 |34
-|
+|🔴
 | Titre inconnu
 |-
 |35
@@ -249,7 +249,7 @@
 | Titre inconnu
 |-
 |20
-|
+|🔴
 | Titre inconnu
 |-
 |21
@@ -261,7 +261,7 @@
 | Titre inconnu
 |-
 |23
-|
+|🔴
 | Titre inconnu
 |-
 |24
@@ -348,7 +348,7 @@
 | Titre inconnu
 |-
 |7
-|
+|🔴
 | Titre inconnu
 |-
 |8
@@ -396,7 +396,7 @@
 | Titre inconnu
 |-
 |19
-|
+|🔴
 | Titre inconnu
 |-
 |20
@@ -483,7 +483,7 @@
 | Titre inconnu
 |-
 |11
-|
+|🔴
 | Titre inconnu
 |-
 |12
@@ -495,7 +495,7 @@
 | Titre inconnu
 |-
 |14
-|
+|🔴
 | Titre inconnu
 |-
 |15
@@ -819,7 +819,7 @@
 | Vivre au-Delà de l'Arctique
 |-
 |6
-|
+|🔴
 | Footballeuses des Andes
 |-
 |7
@@ -926,7 +926,7 @@
 | Katmtchatka, Là où la Terre Tremble
 |-
 |12
-|
+|🔴
 | Venezuela, la vieille dame et la mer
 |-
 |13
@@ -974,7 +974,7 @@
 | Chaussures Made in Wenzhou
 |-
 |24
-|
+|🔴
 | Alerte aux Alligators
 |-
 |25
@@ -1065,7 +1065,7 @@
 | Le Secret des Montres Suisses
 |-
 |19
-|
+|🔴
 | Jamais Sans Ma Jeep
 |-
 |20
@@ -1251,7 +1251,7 @@
 | Bishnoi, les Femmes Qui Allaitent les Gazelles
 |-
 |13
-|
+|🔴
 | Les Malouines, Paradis des Manchots
 |-
 |14
@@ -1338,7 +1338,7 @@
 | Arménie, les Fruits du Paradis
 |-
 |13
-|
+|🔴
 | L’Authentique Panama
 |-
 |14
@@ -1992,11 +1992,11 @@
 | Birmanie: l’Étonnant Pont de Bambou
 |-
 |13
-|
+|🔴
 | Chili, l'incroyable voyage d'une maison des bois
 |-
 |14
-|
+|🔴
 | Cuba — Danse Avec les Orgues de Barbarie
 |-
 |15
@@ -2008,7 +2008,7 @@
 | Zambie, les Nomades du Fleuve
 |-
 |17
-|
+|🔴
 | Le Maté, l’Élixir des Argentins
 |-
 |18
@@ -2040,7 +2040,7 @@
 | Sur les Routes de Glace de Sibérie
 |-
 |25
-|
+|🔴
 | Colombie, les Fous Volants de l’Amazonie
 |-
 |26
@@ -2709,7 +2709,7 @@
 | Titre inconnu
 |-
 |4
-|⚪️
+|🔴
 | Titre inconnu
 |-
 |5

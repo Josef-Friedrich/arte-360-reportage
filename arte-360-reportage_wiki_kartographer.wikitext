@@ -245,7 +245,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Countdown ins Desaster",
       "description": "https://www.youtube.com/watch?v=Re2So-kXO2E"
@@ -277,7 +277,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Die Leuchtkraft der Natur",
       "description": "https://www.youtube.com/watch?v=epuV5ouQ7OA"
@@ -549,7 +549,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Psycho-Detektive",
       "description": "https://www.youtube.com/watch?v=8yaQbw9XjbQ"
@@ -597,7 +597,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Durst nach Meer",
       "description": "https://www.youtube.com/watch?v=WAjs-VrhFNs"
@@ -869,7 +869,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Hollywood auf dem Trockenen",
       "description": "https://www.youtube.com/watch?v=1Xs3akVZkZA"
@@ -1061,7 +1061,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Wasserstoff im Tank",
       "description": "https://www.youtube.com/watch?v=H-U9h4gjRpQ"
@@ -1365,7 +1365,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Sinfonie der Straße",
       "description": "https://www.youtube.com/watch?v=XqG2GkP4BqI"
@@ -1413,7 +1413,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Mumien im Ausverkauf",
       "description": "https://www.youtube.com/watch?v=T_VG6xORqgI"
@@ -2354,7 +2354,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Churubamba - Frauen am Ball",
       "description": "https://www.youtube.com/watch?v=4S_yDEomrcY"
@@ -2738,7 +2738,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Venezuela: Die alte Frau und das Meer",
       "description": "https://www.youtube.com/watch?v=sOtopRXixzg"
@@ -2834,7 +2834,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Alligatorjagd in Florida",
       "description": "https://www.youtube.com/watch?v=Ky2m06TY8NY"
@@ -3154,7 +3154,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Johana - Make-up und Motorenöl",
       "description": "https://www.youtube.com/watch?v=t3FempEGGaw"
@@ -3810,7 +3810,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Falklandinseln - Pinguine auf dem Vormarsch",
       "description": "https://www.youtube.com/watch?v=A_eZDMVKVco"
@@ -4082,7 +4082,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Stilikone Panamahut",
       "description": "https://www.youtube.com/watch?v=FLkf0zJdhFY"
@@ -6498,7 +6498,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Die Minga - Umzug auf Chilenisch",
       "description": "https://www.youtube.com/watch?v=H8MxGlRHRHA"
@@ -6514,7 +6514,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Kuba - Meister der Drehorgeln",
       "description": "https://www.youtube.com/watch?v=tnpfneRKHxY"
@@ -6562,7 +6562,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Mate-Tee - Die Seele Argentiniens",
       "description": "https://www.youtube.com/watch?v=fWvRJ-pbYxI"
@@ -6690,7 +6690,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Kolumbien: DC3 Oldtimer versorgen den Regenwald",
       "description": "https://www.youtube.com/watch?v=VqPIqn1upqs"
@@ -8976,7 +8976,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#ffffff",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Cholitas – Die fliegenden Frauen Boliviens",
       "description": "https://www.youtube.com/watch?v=cGbP73aIii0"

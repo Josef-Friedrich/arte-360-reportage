@@ -605,6 +605,7 @@
           "episode_no": 26,
           "title": "Countdown ins Desaster",
           "topic": "Irren ist menschlich",
+          "continent": "Amerika",
           "location_wikidata": "Q23548",
           "coordinates": [
             38.883079,
@@ -774,6 +775,7 @@
           "episode_no": 34,
           "title": "Die Leuchtkraft der Natur",
           "topic": "Universum des Lichts",
+          "continent": "Amerika",
           "location_wikidata": "Q737624",
           "coordinates": [
             18.1252646,
@@ -1380,6 +1382,7 @@
           "episode_no": 20,
           "title": "Psycho-Detektive",
           "topic": "Dem Täter auf der Spur",
+          "continent": "Amerika",
           "location_wikidata": "Q204315",
           "coordinates": [
             38.521871,
@@ -1457,6 +1460,7 @@
           "title": "Durst nach Meer",
           "subtitle": "Neue Methoden der Trinkwassergewinnung",
           "topic": "Im Reich der Meere",
+          "continent": "Amerika",
           "location_wikidata": "Q41211",
           "coordinates": [
             18.465555555555557,
@@ -1939,6 +1943,7 @@
           "season_no": 3,
           "episode_no": 7,
           "title": "Hollywood auf dem Trockenen",
+          "continent": "Amerika",
           "location_wikidata": "Q335585",
           "coordinates": [
             38.0165908,
@@ -2234,6 +2239,7 @@
           "episode_no": 19,
           "title": "Wasserstoff im Tank",
           "alias": "Wasser im Tank",
+          "continent": "Amerika",
           "location_wikidata": "Q18013",
           "coordinates": [
             38.575277777778,
@@ -2722,6 +2728,7 @@
           "episode_no": 11,
           "title": "Sinfonie der Straße",
           "subtitle": "Kinderorchester in Venezuela",
+          "continent": "Amerika",
           "location_wikidata": "Q1533",
           "coordinates": [
             10.5,
@@ -2793,6 +2800,7 @@
           "season_no": 4,
           "episode_no": 14,
           "title": "Mumien im Ausverkauf",
+          "continent": "Amerika",
           "location_wikidata": "Q260911",
           "coordinates": [
             -6.7629611111111,
@@ -4494,6 +4502,7 @@
           "episode_no": 6,
           "title": "Churubamba - Frauen am Ball",
           "title_fr": "Footballeuses des Andes",
+          "continent": "Amerika",
           "location_wikidata": "Q432238",
           "coordinates": [
             -9.82578,
@@ -5085,6 +5094,7 @@
           "episode_no": 12,
           "title": "Venezuela: Die alte Frau und das Meer",
           "title_fr": "Venezuela, la vieille dame et la mer",
+          "continent": "Amerika",
           "location_wikidata": "Q32411111",
           "coordinates": [
             11.763055555556,
@@ -5338,6 +5348,7 @@
           "episode_no": 24,
           "title": "Alligatorjagd in Florida",
           "title_fr": "Alerte aux Alligators",
+          "continent": "Amerika",
           "location_wikidata": "Q501043",
           "coordinates": [
             27.96,
@@ -5835,6 +5846,7 @@
           "episode_no": 19,
           "title": "Johana - Make-up und Motorenöl",
           "title_fr": "Jamais Sans Ma Jeep",
+          "continent": "Amerika",
           "location_wikidata": "Q739",
           "coordinates": [
             4,
@@ -6861,6 +6873,7 @@
           "episode_no": 13,
           "title": "Falklandinseln - Pinguine auf dem Vormarsch",
           "title_fr": "Les Malouines, Paradis des Manchots",
+          "continent": "Amerika",
           "location_wikidata": "Q9648",
           "coordinates": [
             -51.73,
@@ -7325,6 +7338,7 @@
           "episode_no": 13,
           "title": "Stilikone Panamahut",
           "title_fr": "L’Authentique Panama",
+          "continent": "Amerika",
           "location_wikidata": "Q1014493",
           "coordinates": [
             -1.05,
@@ -11033,6 +11047,7 @@
           "episode_no": 13,
           "title": "Die Minga - Umzug auf Chilenisch",
           "title_fr": "Chili, l'incroyable voyage d'une maison des bois",
+          "continent": "Amerika",
           "location_wikidata": "Q504449",
           "coordinates": [
             -42.676666666667,
@@ -11058,6 +11073,7 @@
           "title": "Kuba - Meister der Drehorgeln",
           "title_fr": "Cuba — Danse Avec les Orgues de Barbarie",
           "alias": "Kuba, der Dreh mit der Orgel",
+          "continent": "Amerika",
           "location_wikidata": "Q115046",
           "coordinates": [
             20.3833,
@@ -11128,6 +11144,7 @@
           "title": "Mate-Tee - Die Seele Argentiniens",
           "title_fr": "Le Maté, l’Élixir des Argentins",
           "alias": "Argentinien: Mate-Tee, die Seele des Landes",
+          "continent": "Amerika",
           "location_wikidata": "Q44798",
           "coordinates": [
             -26.92,
@@ -11322,6 +11339,7 @@
           "episode_no": 25,
           "title": "Kolumbien: DC3 Oldtimer versorgen den Regenwald",
           "title_fr": "Colombie, les Fous Volants de l’Amazonie",
+          "continent": "Amerika",
           "location_wikidata": "Q749224",
           "coordinates": [
             4.1425,
@@ -15115,7 +15133,7 @@
           "season_no": 26,
           "episode_no": 4,
           "title": "Cholitas – Die fliegenden Frauen Boliviens",
-          "continent": "Europa",
+          "continent": "Amerika",
           "location_wikidata": "Q1491",
           "coordinates": [
             -16.495833333333334,
