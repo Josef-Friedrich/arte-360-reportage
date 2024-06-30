@@ -105,7 +105,7 @@ class Yaml:
 class Template(abc.ABC):
     @staticmethod
     @abc.abstractmethod
-    def link(title: str, url: str) -> str:
+    def link(title: str | typing.Any | None, url: str | None) -> str:
         pass
 
     @staticmethod
@@ -128,6 +128,20 @@ class Template(abc.ABC):
     def bold(text: str) -> str:
         pass
 
+    @staticmethod
+    @abc.abstractmethod
+    def caption(caption: str, text: str | None) -> str | None:
+        pass
+
+    @staticmethod
+    def join(separator: str, *args: str | None) -> str:
+        items = [i for i in args if i is not None]
+        return separator.join(items)
+
+    @staticmethod
+    def paragraph(text: str) -> str:
+        return text
+
 
 class Markdown(Template):
     @staticmethod
@@ -135,6 +149,29 @@ class Markdown(Template):
         if not title or not url:
             return ""
         return f"[{str(title)}]({url})"
+
+    @staticmethod
+    def heading(text: str, level: int = 1) -> str:
+        delimiter = "#" * level
+        return f"\n{delimiter} {text}\n"
+
+    @staticmethod
+    def unordered_list(items: list[str]) -> str:
+        return ""
+
+    @staticmethod
+    def ordered_list(items: list[str]) -> str:
+        return ""
+
+    @staticmethod
+    def bold(text: str) -> str:
+        return f"__{text}__"
+
+    @staticmethod
+    def caption(caption: str, text: str | None) -> str | None:
+        if text is None:
+            return None
+        return f"{Markdown.bold(caption + ':')} {text}"
 
     @staticmethod
     def table(header: list[str], rows: list[list[str]]) -> str:
@@ -153,6 +190,162 @@ class Markdown(Template):
         for row in rows:
             rendered_rows.append(_format_row(row))
         return "\n".join(rendered_rows)
+
+
+class Html(Template):
+    @staticmethod
+    def link(title: str | typing.Any | None, url: str | None) -> str:
+        if not title or not url:
+            return ""
+        return f'<a href="{url}">{str(title)}</a>'
+
+    @staticmethod
+    def heading(text: str, level: int = 1) -> str:
+        return f"<h{level}>{text}</h{level}>"
+
+    @staticmethod
+    def unordered_list(items: list[str]) -> str:
+        return ""
+
+    @staticmethod
+    def ordered_list(items: list[str]) -> str:
+        return ""
+
+    @staticmethod
+    def bold(text: str) -> str:
+        return f"<strong>{text}</strong>"
+
+    @staticmethod
+    def caption(caption: str, text: str | None) -> str | None:
+        if text is None:
+            return None
+        return f"<strong>{caption}:</strong> {text}"
+
+    @staticmethod
+    def paragraph(text: str) -> str:
+        return f"<p>{text}</p>\n\n"
+
+
+class Wiki(Template):
+    @staticmethod
+    def ref(content: str | None) -> str:
+        if not content or content == "":
+            return ""
+        return "<ref>" + content + "</ref>"
+
+    @staticmethod
+    def link(title: str | typing.Any | None, url: str | None) -> str:
+        """https://de.wikipedia.org/wiki/Hilfe:Links#Links_zu_externen_Webseiten_(Weblinks,_URLs)"""
+        if not title or not url:
+            return ""
+        return f"[{url} {title}]"
+
+    @staticmethod
+    def heading(text: str, level: int = 1) -> str:
+        level = level + 1
+        delimiter = "=" * level
+        return f"\n{delimiter} {text} {delimiter}\n"
+
+    @staticmethod
+    def ordered_list(items: list[str]) -> str:
+        rendered: list[str] = []
+        for item in items:
+            rendered.append(f"# {item}")
+        return "\n".join(rendered)
+
+    @staticmethod
+    def unordered_list(items: list[str]) -> str:
+        rendered: list[str] = []
+        for item in items:
+            rendered.append(f"* {item}")
+        return "\n".join(rendered)
+
+    @staticmethod
+    def bold(text: str) -> str:
+        return f"'''{text}'''"
+
+    @staticmethod
+    def internetquelle(
+        url: str,
+        titel: str,
+        abruf: str | None = None,
+        website: str | None = None,
+        titel_ergaenzung: str | None = None,
+        herausgeber: str | None = None,
+    ) -> str:
+        """https://de.wikipedia.org/wiki/Vorlage:Internetquelle not usable because of
+        https://de.wikipedia.org/wiki/Hilfe:Vorlagenbeschr%C3%A4nkungen"""
+
+        def format_key_value(key: str, value: str) -> str:
+            return "|" + key + "=" + value
+
+        entries: list[str] = []
+
+        def append(key: str, value: str) -> None:
+            entries.append(format_key_value(key, value))
+
+        append("url", url)
+        append("titel", titel)
+
+        if titel_ergaenzung:
+            append("titelerg", titel_ergaenzung)
+
+        if website:
+            append("werk", website)
+
+        if herausgeber:
+            append("hrsg", herausgeber)
+
+        if not abruf:
+            abruf = date.today().isoformat()
+        append("abruf", abruf)
+
+        markup: str = " ".join(entries)
+        return "{{Internetquelle " + markup + "}}"
+
+    @staticmethod
+    def titel_ergaenzung(episode: Episode) -> str:
+        return f"zur Folge „{episode.title}“"
+
+    @staticmethod
+    def ref_imdb(episode: Episode) -> str:
+        "https://developer.imdb.com/documentation/key-concepts"
+        if not episode.imdb_url or not episode.imdb_episode_id:
+            return ""
+        return Wiki.ref(
+            Wiki.internetquelle(
+                url=episode.imdb_url,
+                titel=f"Episoden-ID (title entity): {episode.imdb_episode_id}",
+                titel_ergaenzung=Wiki.titel_ergaenzung(episode),
+                herausgeber="Internet Movie Database (IMDb)",
+                website="imdb.com",
+            )
+        )
+
+    @staticmethod
+    def ref_fernsehserien(episode: Episode) -> str:
+        if (
+            not episode.fernsehserien_episode_no
+            or not episode.fernsehserien_episode_slug
+            or not episode.fernsehserien_episode_id
+            or not episode.fernsehserien_url
+        ):
+            return ""
+        return Wiki.ref(
+            Wiki.internetquelle(
+                url=episode.fernsehserien_url,
+                titel=f"Fortlaufende-Nr.: {episode.fernsehserien_episode_no}, Episoden-ID: {episode.fernsehserien_episode_id}",
+                titel_ergaenzung=Wiki.titel_ergaenzung(episode),
+                herausgeber="imfernsehen GmbH & Co. KG",
+                website="fernsehserien.de",
+            )
+        )
+
+    @staticmethod
+    def caption(caption: str, text: str | None) -> str | None:
+        if text is None:
+            return None
+        return f"{Wiki.bold(caption + ':')} {text}"
 
 
 ### scraper ###################################################################
@@ -345,7 +538,9 @@ class Wikidata:
     def get_coordinates(self, entity_id: typing.Any):
         entity = self.client.get(entity_id=entity_id, load=True)
         try:
-            coordinate_location = self.client.get(entity_id=typing.cast(typing.Any, "P625"))
+            coordinate_location = self.client.get(
+                entity_id=typing.cast(typing.Any, "P625")
+            )
             coordinate = typing.cast(GlobeCoordinate, entity[coordinate_location])
             return [coordinate.latitude, coordinate.longitude]
         except Exception as e:
@@ -790,7 +985,7 @@ class Episode(DataAccessor):
     def directors(self) -> list[str]:
         if not self.director:
             return []
-        return self.director.split(', ')
+        return self.director.split(", ")
 
     @property
     def air_date(self) -> str:
@@ -859,10 +1054,15 @@ class Episode(DataAccessor):
     @property
     def thetvdb_url(self) -> str | None:
         if not self.thetvdb_episode_id:
-            return
+            return None
         base_url: str = self.tv_show["databases"]["thetvdb"]
         id: int = self.thetvdb_episode_id
         return f"{base_url}/episodes/{id}"
+
+    def link_thetvdb(self, tpl: Template) -> str | None:
+        if self.thetvdb_season_episode and self.thetvdb_url:
+            return tpl.link(self.thetvdb_season_episode, self.thetvdb_url)
+        return None
 
     @property
     def imdb_episode_id(self) -> str | None:
@@ -873,8 +1073,13 @@ class Episode(DataAccessor):
     @property
     def imdb_url(self) -> str | None:
         if not self.imdb_episode_id:
-            return
+            return None
         return f"https://www.imdb.com/title/{self.imdb_episode_id}"
+
+    def link_imdb(self, tpl: Template) -> str | None:
+        if self.imdb_episode_id and self.imdb_url:
+            return tpl.link(self.imdb_episode_id, self.imdb_url)
+        return None
 
     @property
     def fernsehserien_episode_no(self) -> int | None:
@@ -894,10 +1099,15 @@ class Episode(DataAccessor):
     @property
     def fernsehserien_url(self) -> str | None:
         if not self.fernsehserien_episode_slug:
-            return
+            return None
         base_url: str = self.tv_show["databases"]["fernsehserien"]
         slug: str = self.fernsehserien_episode_slug
         return f"{base_url}/folgen/{slug}"
+
+    def link_fernsehserien(self, tpl: Template) -> str | None:
+        if self.fernsehserien_url and self.fernsehserien_episode_no:
+            return tpl.link(self.fernsehserien_episode_no, self.fernsehserien_url)
+        return None
 
     @property
     def youtube_video_id(self) -> str | None:
@@ -908,9 +1118,14 @@ class Episode(DataAccessor):
     @property
     def youtube_url(self) -> str | None:
         if not self.youtube_video_id:
-            return
+            return None
         video_id: str = self.data["youtube_video_id"]
         return f"https://www.youtube.com/watch?v={video_id}"
+
+    def link_youtube(self, tpl: Template) -> str | None:
+        if self.youtube_video_id and self.youtube_url:
+            return tpl.link(self.youtube_video_id, self.youtube_url)
+        return None
 
     # def __get_season_or_episode(self, episode: bool = True) -> int | None:
     #     if not "thetvdb_season_episode" in self.data:
@@ -927,6 +1142,26 @@ class Episode(DataAccessor):
     @property
     def year(self) -> int:
         return int(self.data["air_date"][0:4])
+
+    def generate_map_popup(self, tpl: Template, full: bool = False) -> str:
+        """https://leafletjs.com/reference.html#popup"""
+        output = f"<h2>{self.title}</h2>"
+
+        if self.summary is not None:
+            output += tpl.paragraph(self.summary)
+
+        if full and self.description:
+            output += tpl.paragraph(self.description)
+
+        output += tpl.paragraph(
+            tpl.join(
+                " ",
+                tpl.caption("fernsehserien.de", self.link_fernsehserien(tpl)),
+                tpl.caption("youtube", self.link_youtube(tpl)),
+                tpl.caption("imdb", self.link_imdb(tpl)),
+            )
+        )
+        return output
 
     def export_data(self) -> EpisodeData:
         return typing.cast(
@@ -1039,7 +1274,7 @@ class TvShow:
         self, title: str | None, debug: bool = False
     ) -> Episode | None:
         if not title:
-            return
+            return None
         found: list[str] = difflib.get_close_matches(title, self.titles.keys(), n=1)
         episode = None
         if len(found) > 0:
@@ -1078,7 +1313,6 @@ class TvShow:
         )
 
     def list_directors(self) -> dict[str, int]:
-
         result: dict[str, int] = {}
         directors: list[dict[str, str | int]] = []
         for episode in self.episodes:
@@ -1095,13 +1329,12 @@ class TvShow:
             print(director, result[director])
 
         for name, count in result.items():
-            directors.append({'name': name, 'count': count})
-        directors.sort(key=operator.itemgetter('count'))
+            directors.append({"name": name, "count": count})
+        directors.sort(key=operator.itemgetter("count"))
         for director in directors:
-            print(director['name'], director['count'])
+            print(director["name"], director["count"])
 
         return result
-
 
     def generate_wikitext_dvd(
         self, language: typing.Literal["de", "fr"] = "de"
@@ -1114,8 +1347,6 @@ class TvShow:
         Utils.write_text_file(
             f"{EXPORT_FILENAME}_wiki_de_DVD.wikitext", Wiki.unordered_list(dvd_entries)
         )
-
-
 
     def generate_kartographer(self) -> None:
         """
@@ -1160,7 +1391,7 @@ class TvShow:
                 features.append(feature)
         json_dump: str = Utils.dump_json(features)
         template: str = Utils.read_text_file(".kartographer.wikitext")
-        template = template.replace("\"features\": []", f"\"features\": {json_dump}" )
+        template = template.replace('"features": []', f'"features": {json_dump}')
         Utils.write_text_file(f"{EXPORT_FILENAME}_wiki_kartographer.wikitext", template)
 
     def generate_leaflet(self) -> None:
@@ -1169,13 +1400,15 @@ class TvShow:
             if episode.coordinates:
                 marker_data = {
                     "coordinates": episode.coordinates,
-                    "popup": episode.title,
+                    "popup": episode.generate_map_popup(Html(), True),
                     "color": episode.continent_color,
                 }
                 marker.append(marker_data)
         json_dump: str = Utils.dump_json(marker)
         template: str = Utils.read_text_file(".leaflet.html")
-        template = template.replace("const markers = []", f"const markers = {json_dump}")
+        template = template.replace(
+            "const markers = []", f"const markers = {json_dump}"
+        )
         Utils.write_text_file("karte.html", template)
 
     def show_missing_value(self, key: str) -> None:
@@ -1208,7 +1441,11 @@ class TvShow:
         wikidata = Wikidata()
 
         for episode in self.episodes:
-            if episode.location_wikidata and episode.location_wikidata != "xxx" and not episode.coordinates:
+            if (
+                episode.location_wikidata
+                and episode.location_wikidata != "xxx"
+                and not episode.coordinates
+            ):
                 episode.coordinates = wikidata.get_coordinates(
                     episode.location_wikidata
                 )
@@ -1243,122 +1480,6 @@ class TvShow:
 
 
 tv_show = TvShow()
-
-
-class Wiki(Template):
-    @staticmethod
-    def ref(content: str | None) -> str:
-        if not content or content == "":
-            return ""
-        return "<ref>" + content + "</ref>"
-
-    @staticmethod
-    def link(title: str | typing.Any | None, url: str | None) -> str:
-        """https://de.wikipedia.org/wiki/Hilfe:Links#Links_zu_externen_Webseiten_(Weblinks,_URLs)"""
-        if not title or not url:
-            return ""
-        return f"[{url} {title}]"
-
-    @staticmethod
-    def heading(text: str, level: int = 1) -> str:
-        level = level + 1
-        delimiter = "=" * level
-        return f"\n{delimiter} {text} {delimiter}\n"
-
-    @staticmethod
-    def ordered_list(items: list[str]) -> str:
-        rendered: list[str] = []
-        for item in items:
-            rendered.append(f"# {item}")
-        return "\n".join(rendered)
-
-    @staticmethod
-    def unordered_list(items: list[str]) -> str:
-        rendered: list[str] = []
-        for item in items:
-            rendered.append(f"* {item}")
-        return "\n".join(rendered)
-
-    @staticmethod
-    def bold(text: str) -> str:
-        return f"'''{text}'''"
-
-    @staticmethod
-    def internetquelle(
-        url: str,
-        titel: str,
-        abruf: str | None = None,
-        website: str | None = None,
-        titel_ergaenzung: str | None = None,
-        herausgeber: str | None = None,
-    ) -> str:
-        """https://de.wikipedia.org/wiki/Vorlage:Internetquelle not usable because of
-        https://de.wikipedia.org/wiki/Hilfe:Vorlagenbeschr%C3%A4nkungen"""
-
-        def format_key_value(key: str, value: str) -> str:
-            return "|" + key + "=" + value
-
-        entries: list[str] = []
-
-        def append(key: str, value: str) -> None:
-            entries.append(format_key_value(key, value))
-
-        append("url", url)
-        append("titel", titel)
-
-        if titel_ergaenzung:
-            append("titelerg", titel_ergaenzung)
-
-        if website:
-            append("werk", website)
-
-        if herausgeber:
-            append("hrsg", herausgeber)
-
-        if not abruf:
-            abruf = date.today().isoformat()
-        append("abruf", abruf)
-
-        markup: str = " ".join(entries)
-        return "{{Internetquelle " + markup + "}}"
-
-    @staticmethod
-    def titel_ergaenzung(episode: Episode) -> str:
-        return f"zur Folge „{episode.title}“"
-
-    @staticmethod
-    def ref_imdb(episode: Episode) -> str:
-        "https://developer.imdb.com/documentation/key-concepts"
-        if not episode.imdb_url or not episode.imdb_episode_id:
-            return ""
-        return Wiki.ref(
-            Wiki.internetquelle(
-                url=episode.imdb_url,
-                titel=f"Episoden-ID (title entity): {episode.imdb_episode_id}",
-                titel_ergaenzung=Wiki.titel_ergaenzung(episode),
-                herausgeber="Internet Movie Database (IMDb)",
-                website="imdb.com",
-            )
-        )
-
-    @staticmethod
-    def ref_fernsehserien(episode: Episode) -> str:
-        if (
-            not episode.fernsehserien_episode_no
-            or not episode.fernsehserien_episode_slug
-            or not episode.fernsehserien_episode_id
-            or not episode.fernsehserien_url
-        ):
-            return ""
-        return Wiki.ref(
-            Wiki.internetquelle(
-                url=episode.fernsehserien_url,
-                titel=f"Fortlaufende-Nr.: {episode.fernsehserien_episode_no}, Episoden-ID: {episode.fernsehserien_episode_id}",
-                titel_ergaenzung=Wiki.titel_ergaenzung(episode),
-                herausgeber="imfernsehen GmbH & Co. KG",
-                website="fernsehserien.de",
-            )
-        )
 
 
 class WikiTemplate(abc.ABC):
@@ -1519,7 +1640,6 @@ class WikiDvd:
         date = dvd.release_date_date.strftime("%d.%m.%Y")
         items.append(f"Erscheinungsdatum: {date}")
 
-
         if dvd.duration:
             items.append(f"Abspieldauer in Minuten: {dvd.duration}")
 
@@ -1590,9 +1710,6 @@ def scrape() -> None:
         tv_show.export_to_yaml()
 
 
-
-
-
 def generate_readme() -> None:
     #     header = """
     # # 360-geo-reportage
@@ -1612,27 +1729,7 @@ def generate_readme() -> None:
     # Quelle: https://www.fernsehserien.de/arte-360grad-reportage/episodenguide
     # """
 
-    def link_fernsehserien(episode: Episode) -> str:
-        if not episode.fernsehserien_episode_no:
-            return ""
-        return Markdown.link(
-            episode.fernsehserien_episode_no, episode.fernsehserien_url
-        )
-
-    def link_youtube(episode: Episode) -> str:
-        if not episode.youtube_video_id:
-            return ""
-        return Markdown.link(episode.youtube_video_id, episode.youtube_url)
-
-    def link_imdb(episode: Episode) -> str:
-        if not episode.imdb_episode_id:
-            return ""
-        return Markdown.link(episode.imdb_episode_id, episode.imdb_url)
-
-    def link_thetvdb(episode: Episode) -> str:
-        if not episode.thetvdb_season_episode:
-            return ""
-        return Markdown.link(episode.thetvdb_season_episode, episode.thetvdb_url)
+    tpl = Markdown()
 
     def format_title(episode: Episode) -> str:
         title: str = episode.title
@@ -1643,28 +1740,13 @@ def generate_readme() -> None:
         return title
 
     def format_links(episode: Episode) -> str:
-        links: list[str] = []
-
-        def prefix_caption(caption: str, link: str) -> str:
-            return f"{caption}: {link}"
-
-        def append(caption: str, link: str | None) -> None:
-            if link and link != "":
-                links.append(prefix_caption(caption, link))
-
-        if episode.fernsehserien_episode_no:
-            append("fernsehserien", link_fernsehserien(episode))
-
-        if episode.thetvdb_season_episode:
-            append("thetvdb", link_thetvdb(episode))
-
-        if episode.imdb_episode_id:
-            append("imdb", link_imdb(episode))
-
-        if episode.youtube_video_id:
-            append("youtube", link_youtube(episode))
-
-        return "<br>".join(links)
+        return tpl.join(
+            "<br>",
+            tpl.caption("fernsehserien", episode.link_fernsehserien(tpl)),
+            tpl.caption("thetvdb", episode.link_thetvdb(tpl)),
+            tpl.caption("imdb", episode.link_imdb(tpl)),
+            tpl.caption("youtube", episode.link_youtube(tpl)),
+        )
 
     def assemble_row(episode: Episode) -> list[str]:
         row: list[str] = []
@@ -1681,7 +1763,7 @@ def generate_readme() -> None:
 
     Utils.write_text_file(
         "README.md",
-        Markdown.table(
+        tpl.table(
             ["air_date", "title", "links"],
             rows,
         ),
@@ -1701,7 +1783,7 @@ def get_argument_parser() -> argparse.ArgumentParser:
     parser.add_argument("-j", "--json", action="store_true")
     parser.add_argument("-k", "--kartographer", action="store_true")
     parser.add_argument("-l", "--leaflet", action="store_true")
-    parser.add_argument("-m", "--show-missing-value", metavar='KEY')
+    parser.add_argument("-m", "--show-missing-value", metavar="KEY")
     parser.add_argument("-r", "--readme", action="store_true")
     parser.add_argument("-s", "--scrape", action="store_true")
     parser.add_argument("-t", "--tmp", action="store_true")
