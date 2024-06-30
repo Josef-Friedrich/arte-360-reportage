@@ -1077,7 +1077,12 @@ class Episode(DataAccessor):
 
     def link_thetvdb(self, tpl: Template) -> str | None:
         if self.thetvdb_season_episode and self.thetvdb_url:
-            return tpl.link(self.thetvdb_season_episode, self.thetvdb_url)
+            return (
+                "Staffel/Episode "
+                + tpl.link(self.thetvdb_season_episode, self.thetvdb_url)
+                + " Episoden-ID "
+                + tpl.link(self.thetvdb_episode_id, self.thetvdb_url)
+            )
         return None
 
     @property
@@ -1094,7 +1099,7 @@ class Episode(DataAccessor):
 
     def link_imdb(self, tpl: Template) -> str | None:
         if self.imdb_episode_id and self.imdb_url:
-            return tpl.link(self.imdb_episode_id, self.imdb_url)
+            return "Titel-ID " + tpl.link(self.imdb_episode_id, self.imdb_url)
         return None
 
     @property
@@ -1122,7 +1127,12 @@ class Episode(DataAccessor):
 
     def link_fernsehserien(self, tpl: Template) -> str | None:
         if self.fernsehserien_url and self.fernsehserien_episode_no:
-            return tpl.link(self.fernsehserien_episode_no, self.fernsehserien_url)
+            return (
+                "Folge "
+                + tpl.link(self.fernsehserien_episode_no, self.fernsehserien_url)
+                + " Folgen-ID "
+                + tpl.link(self.fernsehserien_episode_id, self.fernsehserien_url)
+            )
         return None
 
     @property
@@ -1140,7 +1150,7 @@ class Episode(DataAccessor):
 
     def link_youtube(self, tpl: Template) -> str | None:
         if self.youtube_video_id and self.youtube_url:
-            return tpl.link(self.youtube_video_id, self.youtube_url)
+            return "Video-ID " + tpl.link(self.youtube_video_id, self.youtube_url)
         return None
 
     # def __get_season_or_episode(self, episode: bool = True) -> int | None:
@@ -1525,61 +1535,16 @@ class WikiTemplate(abc.ABC):
 class DeWiki(WikiTemplate):
     @staticmethod
     def ref(episode: Episode) -> str:
-        def link_fernsehserien(episode: Episode) -> str:
-            if not episode.fernsehserien_episode_no:
-                return ""
-            return (
-                "Folge "
-                + Wiki.link(episode.fernsehserien_episode_no, episode.fernsehserien_url)
-                + " Folgen-ID "
-                + Wiki.link(episode.fernsehserien_episode_id, episode.fernsehserien_url)
-            )
-
-        def link_youtube(episode: Episode) -> str:
-            if not episode.youtube_video_id:
-                return ""
-            return "Video-ID " + Wiki.link(
-                episode.youtube_video_id, episode.youtube_url
-            )
-
-        def link_imdb(episode: Episode) -> str:
-            if not episode.imdb_episode_id:
-                return ""
-            return "Titel-ID " + Wiki.link(episode.imdb_episode_id, episode.imdb_url)
-
-        def link_thetvdb(episode: Episode) -> str:
-            if not episode.thetvdb_season_episode:
-                return ""
-            return (
-                "Staffel/Episode "
-                + Wiki.link(episode.thetvdb_season_episode, episode.thetvdb_url)
-                + " Episoden-ID "
-                + Wiki.link(episode.thetvdb_episode_id, episode.thetvdb_url)
-            )
-
-        links: list[str] = []
-
-        def prefix_caption(caption: str, link: str) -> str:
-            return f"''{caption}'': {link}"
-
-        def append(caption: str, link: str | None) -> None:
-            if link and link != "":
-                links.append(prefix_caption(caption, link))
-
-        if episode.fernsehserien_episode_no:
-            append("fernsehserien.de", link_fernsehserien(episode))
-
-        if episode.thetvdb_season_episode:
-            append("thetvdb.com", link_thetvdb(episode))
-
-        if episode.imdb_episode_id:
-            append("imdb.com", link_imdb(episode))
-
-        if episode.youtube_video_id:
-            append("youtube.com", link_youtube(episode))
-
+        tpl = Wiki()
         return Wiki.ref(
-            f"Internetquellen zur Episode ''„{episode.title}“'': " + ", ".join(links)
+            f"Internetquellen zur Episode ''„{episode.title}“'': "
+            + tpl.join(
+                ", ",
+                tpl.caption("fernsehserien", episode.link_fernsehserien(tpl)),
+                tpl.caption("thetvdb", episode.link_thetvdb(tpl)),
+                tpl.caption("imdb", episode.link_imdb(tpl)),
+                tpl.caption("youtube", episode.link_youtube(tpl)),
+            )
         )
 
     @staticmethod
