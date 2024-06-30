@@ -7,6 +7,7 @@ from __future__ import annotations
 
 import abc
 import argparse
+from dataclasses import dataclass
 import difflib
 import operator
 import json
@@ -28,6 +29,9 @@ if typing.TYPE_CHECKING:
         PlaylistItemListResponse,
         VideoListResponse,
         YouTubeResource,
+        Video,
+        VideoContentDetails,
+        VideoSnippet,
     )
 
 EXPORT_FILENAME = "arte-360-reportage"
@@ -376,8 +380,13 @@ class YouTube:
         return keys["api_key"]
 
     def __get_youtube_resource(self, key: str) -> YouTubeResource:
-        return build_google_api(
-            self.YOUTUBE_API_SERVICE_NAME, self.YOUTUBE_API_VERSION, developerKey=key
+        return typing.cast(
+            YouTubeResource,
+            build_google_api(
+                self.YOUTUBE_API_SERVICE_NAME,
+                self.YOUTUBE_API_VERSION,
+                developerKey=key,
+            )
         )
 
     def __debug(self, dump: typing.Any) -> None:
@@ -421,7 +430,7 @@ class YouTube:
             if "nextPageToken" not in next_page:
                 result.pop("nextPageToken", None)
             else:
-                next_page_token: str = next_page["nextPageToken"]
+                next_page_token = next_page["nextPageToken"]
 
         return result
 
@@ -457,25 +466,29 @@ class YoutubeVideo:
         self.response = response
 
     @property
-    def video(self):
+    def video(self) -> Video | None:
         if "items" in self.response:
             if len(self.response["items"]) > 0:
                 return self.response["items"][0]
+        return None
 
     @property
-    def snippet(self):
+    def snippet(self) -> VideoSnippet | None:
         if self.video and "snippet" in self.video:
             return self.video["snippet"]
+        return None
 
     @property
-    def content_details(self):
+    def content_details(self) -> VideoContentDetails | None:
         if self.video and "contentDetails" in self.video:
             return self.video["contentDetails"]
+        return None
 
     @property
     def duration(self) -> str | None:
         if self.content_details and "duration" in self.content_details:
             return self.content_details["duration"]
+        return None
 
     @property
     def duration_sec(self) -> int | None:
@@ -488,6 +501,7 @@ class YoutubeVideo:
             match = re.match(r"PT(\d+)M(\d+)S", self.duration)
             if match:
                 return int(match[1]) * 60 + int(match[2])
+        return None
 
     @property
     def title(self):
@@ -601,7 +615,7 @@ class FernsehserienScraper(Scraper):
 
 
 class DataAccessor:
-    data: typing.TypedDict
+    data: dict[str, typing.Any]
 
     def _get_str_key(self, key: str) -> str | None:
         if key in self.data and self.data[key] != "":
@@ -631,9 +645,9 @@ class DataAccessor:
 
     def export_data(self, annotations: dict[str, typing.Any]) -> dict[str, typing.Any]:
         result: dict[str, typing.Any] = {}
-        data = typing.cast(dict[str, typing.Any], self.data)
+        data = self.data
         for key in annotations:
-            if key in data and data[key] != None:
+            if key in data and data[key] is not None:
                 result[key] = self.data[key]
 
         if len(result) != len(self.data):
@@ -677,7 +691,6 @@ class DvdData(typing.TypedDict):
 
 
 class Dvd(DataAccessor):
-    data: DvdData
 
     def __init__(
         self,
@@ -1313,8 +1326,13 @@ class TvShow:
         )
 
     def list_directors(self) -> dict[str, int]:
+        @dataclass
+        class Director:
+            name: str
+            count: int
+
         result: dict[str, int] = {}
-        directors: list[dict[str, str | int]] = []
+        directors: list[Director] = []
         for episode in self.episodes:
             episode.director
             for director in episode.directors:
@@ -1329,10 +1347,10 @@ class TvShow:
             print(director, result[director])
 
         for name, count in result.items():
-            directors.append({"name": name, "count": count})
-        directors.sort(key=operator.itemgetter("count"))
-        for director in directors:
-            print(director["name"], director["count"])
+            directors.append(Director(name, count))
+        directors.sort(key=operator.attrgetter("count"))
+        for d in directors:
+            print(d.name, d.count)
 
         return result
 

@@ -13,14 +13,18 @@ classifiers = [
 
 [tool.poetry.dependencies]
 python = "^3.10"
-google-api-python-client = "^2.87.0"
-google-api-python-client-stubs = "^1.17.0"
-beautifulsoup4 = "^4.12.2"
-requests = "^2.31.0"
-termcolor = "^2.3.0"
-pyyaml = "^6.0.1"
-wikidata = "^0.7.0"
+google-api-python-client = "^2"
+google-api-python-client-stubs = "^1"
+beautifulsoup4 = "^4"
+requests = "^2"
+termcolor = "^2"
+pyyaml = "^6"
+wikidata = "^0"
 
+[tool.poetry.group.dev.dependencies]
+types-beautifulsoup4 = "^4"
+types-requests = "^2"
+types-pyyaml = "^6"
 
 [build-system]
 requires = ["poetry>=1.4.2"]
