@@ -5384,7 +5384,7 @@
 {{Episodenlisteneintrag2
 | NR_GES = 617
 | NR_ST = 11
-| OT = Rapa Nui - Gladiatoren der Südsee<ref>Internetquellen zur Episode ''„Rapa Nui - Gladiatoren der Südsee“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/619-rapa-nui-gladiatoren-der-suedsee-1645452 619] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/619-rapa-nui-gladiatoren-der-suedsee-1645452 1645452]</ref>
+| OT = Rapa Nui - Gladiatoren der Südsee<ref>Internetquellen zur Episode ''„Rapa Nui - Gladiatoren der Südsee“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/619-rapa-nui-gladiatoren-der-suedsee-1645452 619] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/619-rapa-nui-gladiatoren-der-suedsee-1645452 1645452], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=G9a4wBoUGtg G9a4wBoUGtg]</ref>
 | Feld1 = Île de Pâques, les olympiades de Rapa Nui
 | REG = J. Michael Schumacher, Regina Gerhard
 | EA = 2023-06-24
@@ -5393,7 +5393,7 @@
 {{Episodenlisteneintrag2
 | NR_GES = 618
 | NR_ST = 12
-| OT = Kambodschas schwimmende Dörfer - Umzug am Tonle Sap<ref>Internetquellen zur Episode ''„Kambodschas schwimmende Dörfer - Umzug am Tonle Sap“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/620-kambodschas-schwimmende-doerfer-umzug-am-tonle-sap-1646559 620] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/620-kambodschas-schwimmende-doerfer-umzug-am-tonle-sap-1646559 1646559]</ref>
+| OT = Kambodschas schwimmende Dörfer - Umzug am Tonle Sap<ref>Internetquellen zur Episode ''„Kambodschas schwimmende Dörfer - Umzug am Tonle Sap“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/620-kambodschas-schwimmende-doerfer-umzug-am-tonle-sap-1646559 620] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/620-kambodschas-schwimmende-doerfer-umzug-am-tonle-sap-1646559 1646559], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=9rm2itnB7M8 9rm2itnB7M8]</ref>
 | Feld1 = Cambodge, les pêcheurs nomades du Tonlé Sap
 | REG = Martin Schacht
 | EA = 2023-07-01
@@ -5402,7 +5402,7 @@
 {{Episodenlisteneintrag2
 | NR_GES = 619
 | NR_ST = 13
-| OT = Istanbul - Stadt der Katzen<ref>Internetquellen zur Episode ''„Istanbul - Stadt der Katzen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/621-istanbul-stadt-der-katzen-1658784 621] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/621-istanbul-stadt-der-katzen-1658784 1658784]</ref>
+| OT = Istanbul - Stadt der Katzen<ref>Internetquellen zur Episode ''„Istanbul - Stadt der Katzen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/621-istanbul-stadt-der-katzen-1658784 621] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/621-istanbul-stadt-der-katzen-1658784 1658784], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=SlSVDn45hvE SlSVDn45hvE]</ref>
 | Feld1 = -
 | REG = Jeanne Nouchi
 | EA = 2023-06-28
@@ -5411,7 +5411,7 @@
 {{Episodenlisteneintrag2
 | NR_GES = 620
 | NR_ST = 14
-| OT = Georgien - Welcome Teacher!<ref>Internetquellen zur Episode ''„Georgien - Welcome Teacher!“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/622-georgien-die-dorfschule-im-kaukasus-1661786 622] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/622-georgien-die-dorfschule-im-kaukasus-1661786 1661786]</ref>
+| OT = Georgien - Welcome Teacher!<ref>Internetquellen zur Episode ''„Georgien - Welcome Teacher!“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/622-georgien-die-dorfschule-im-kaukasus-1661786 622] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/622-georgien-die-dorfschule-im-kaukasus-1661786 1661786], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=_wCHrOlEBtM _wCHrOlEBtM]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2023-09-09

@@ -8914,7 +8914,8 @@
     "properties": {
       "marker-color": "#ffff00",
       "marker-size": "small",
-      "title": "Rapa Nui - Gladiatoren der Südsee"
+      "title": "Rapa Nui - Gladiatoren der Südsee",
+      "description": "https://www.youtube.com/watch?v=G9a4wBoUGtg"
     },
     "geometry": {
       "type": "Point",
@@ -8929,7 +8930,8 @@
     "properties": {
       "marker-color": "#ffff00",
       "marker-size": "small",
-      "title": "Kambodschas schwimmende Dörfer - Umzug am Tonle Sap"
+      "title": "Kambodschas schwimmende Dörfer - Umzug am Tonle Sap",
+      "description": "https://www.youtube.com/watch?v=9rm2itnB7M8"
     },
     "geometry": {
       "type": "Point",
@@ -8944,7 +8946,8 @@
     "properties": {
       "marker-color": "#cccccc",
       "marker-size": "small",
-      "title": "Istanbul - Stadt der Katzen"
+      "title": "Istanbul - Stadt der Katzen",
+      "description": "https://www.youtube.com/watch?v=SlSVDn45hvE"
     },
     "geometry": {
       "type": "Point",
