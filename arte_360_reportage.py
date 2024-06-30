@@ -144,7 +144,7 @@ class Template(abc.ABC):
 
     @staticmethod
     def paragraph(text: str) -> str:
-        return text
+        return f"\n{text}\n"
 
 
 class Markdown(Template):
@@ -351,6 +351,10 @@ class Wiki(Template):
             return None
         return f"{Wiki.bold(caption + ':')} {text}"
 
+    @staticmethod
+    def paragraph(text: str) -> str:
+        return f"\n{text}\n"
+
 
 ### scraper ###################################################################
 
@@ -386,7 +390,7 @@ class YouTube:
                 self.YOUTUBE_API_SERVICE_NAME,
                 self.YOUTUBE_API_VERSION,
                 developerKey=key,
-            )
+            ),
         )
 
     def __debug(self, dump: typing.Any) -> None:
@@ -691,7 +695,6 @@ class DvdData(typing.TypedDict):
 
 
 class Dvd(DataAccessor):
-
     def __init__(
         self,
         data: DvdData,
@@ -1156,11 +1159,16 @@ class Episode(DataAccessor):
     def year(self) -> int:
         return int(self.data["air_date"][0:4])
 
-    def generate_map_popup(self, tpl: Template, full: bool = False) -> str:
+    def generate_map_popup(
+        self, tpl: Template, include_title: bool = True, full: bool = False
+    ) -> str:
+        output = ""
         """https://leafletjs.com/reference.html#popup"""
-        output = f"<h2>{self.title}</h2>"
 
-        if self.summary is not None:
+        if include_title:
+            output += f"<h2>{self.title}</h2>"
+
+        if self.summary:
             output += tpl.paragraph(self.summary)
 
         if full and self.description:
@@ -1405,7 +1413,9 @@ class TvShow:
                     },
                 }
                 if episode.youtube_url:
-                    feature["properties"]["description"] = episode.youtube_url
+                    feature["properties"]["description"] = episode.generate_map_popup(
+                        Wiki(), include_title=False, full=False
+                    )
                 features.append(feature)
         json_dump: str = Utils.dump_json(features)
         template: str = Utils.read_text_file(".kartographer.wikitext")
