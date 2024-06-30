@@ -34123,6 +34123,7 @@ seasons:
         season_no: 25
         episode_no: 18
         title: 'Färöer: Zu Hause im Nordatlantik'
+        title_fr: Les îles Féroé, un air de bout du monde
         description: 'Für die Wikinger, die die Färöer bevölkerten, war der
             Bootsverkehr zwischen den 18 Inseln überlebenswichtig. Heute ist
             Rudern Nationalsport und jeden Sommer Ende Juli finden die nationalen
@@ -34266,6 +34267,7 @@ seasons:
         season_no: 25
         episode_no: 21
         title: Das weiße Gold von Noirmoutier
+        title_fr: L’or blanc de Noirmoutier
         description: 'Es ist Frühlingsanfang, noch liegt die Insel in winterlichem
             Grau, doch ein junger Mann arbeitet ganz alleine mit einem Holzschieber
             an seinen riesigen Salzbecken: Arnaud Jégat ist einer von 150
@@ -34347,6 +34349,7 @@ seasons:
         season_no: 25
         episode_no: 23
         title: Paris, Hauptstadt der Bienen
+        title_fr: Paris, un jardin pour les abeilles
         description: 'In Paris fällt es den fleißigen Insekten leicht, Nahrung
             zu finden, auch dank der über das ganze Jahr verteilten Blütezeiten.
             Die abwechslungsreiche Stadtvegetation bietet den Bienen eine
@@ -34395,6 +34398,8 @@ seasons:
         season_no: 26
         episode_no: 1
         title: 'Vietnam: Brücken für bedrohte Affen'
+        title_fr: Vietnam, des ponts pour sauver les singes
+        alias: Vietnam, Brücken bauen für bedrohte Affen
         description: 'Die Halbinsel Son Tra an der Küste Vietnams ist für
             die Rotschenkligen Kleideraffen der wichtigste Rückzugsort. Trotz
             der Nähe zur Millionenstadt Da Nang ist der Dschungel hier noch
@@ -34444,6 +34449,7 @@ seasons:
         season_no: 26
         episode_no: 2
         title: 'Connemara: Wie das Land, so das Pony'
+        title_fr: Le poney Connemara, une légende irlandaise
         description: 'Connemara liegt am Atlantik im äußersten Westen Irlands.
             Es ist ein wilder Landstrich, mit windgepeitschten Halbinseln,
             felsigen Mooren und schroffen Bergen. Diese raue Natur ist das
@@ -34543,6 +34549,7 @@ seasons:
         season_no: 26
         episode_no: 4
         title: Cholitas – Die fliegenden Frauen Boliviens
+        title_fr: 'Bolivie : cholitas et skateboardeuses'
         continent: Amerika
         location_wikidata: Q1491
         coordinates:
@@ -34591,6 +34598,7 @@ seasons:
         season_no: 26
         episode_no: 5
         title: New York, die Foodtruck-Könige von Astoria
+        title_fr: New York et ses food trucks
         continent: Amerika
         location_wikidata: Q121765
         coordinates:
@@ -34674,6 +34682,7 @@ seasons:
         season_no: 26
         episode_no: 7
         title: Brasiliens Regenwald, zurück in die Zukunft
+        title_fr: Amazonie, nourrir le lien à la terre
         description: Paulo da Silva Bererra ist unzufrieden. Seit vielen Jahren
             kommen Fremde in sein kleines Dorf Açaical am Rande des brasilianischen
             Regenwaldes. Wie seine Nachbarn gehört auch Paulo zum Volk der
@@ -34807,6 +34816,7 @@ seasons:
         season_no: 26
         episode_no: 10
         title: Hati Bondhu, die Elefantenschützer von Assam
+        title_fr: Inde, les éléphants de la discorde
         continent: Asien
         location_wikidata: Q117307685
         coordinates:
@@ -34857,6 +34867,7 @@ seasons:
         season_no: 26
         episode_no: 11
         title: Piemont - Mit Mulis über Stock und Stein
+        title_fr: Le mulet en montagne, une alternative
         continent: Europa
         location_wikidata: Q3935572
         coordinates:

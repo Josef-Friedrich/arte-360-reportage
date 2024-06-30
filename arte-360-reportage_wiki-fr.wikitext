@@ -2667,7 +2667,7 @@
 |-
 |18
 |
-| Titre inconnu
+| Les îles Féroé, un air de bout du monde
 |-
 |19
 |
@@ -2679,7 +2679,7 @@
 |-
 |21
 |
-| Titre inconnu
+| L’or blanc de Noirmoutier
 |-
 |22
 |
@@ -2687,7 +2687,7 @@
 |-
 |23
 |
-| Titre inconnu
+| Paris, un jardin pour les abeilles
 |}
 
 {| class="wikitable sortable mw-collapsible mw-collapsed"
@@ -2698,11 +2698,11 @@
 |-
 |1
 |
-| Titre inconnu
+| Vietnam, des ponts pour sauver les singes
 |-
 |2
 |
-| Titre inconnu
+| Le poney Connemara, une légende irlandaise
 |-
 |3
 |⚪️
@@ -2710,11 +2710,11 @@
 |-
 |4
 |🔴
-| Titre inconnu
+| Bolivie : cholitas et skateboardeuses
 |-
 |5
 |🔴
-| Titre inconnu
+| New York et ses food trucks
 |-
 |6
 |
@@ -2722,7 +2722,7 @@
 |-
 |7
 |
-| Titre inconnu
+| Amazonie, nourrir le lien à la terre
 |-
 |8
 |
@@ -2734,9 +2734,9 @@
 |-
 |10
 |🟡
-| Titre inconnu
+| Inde, les éléphants de la discorde
 |-
 |11
 |⚪️
-| Titre inconnu
+| Le mulet en montagne, une alternative
 |}

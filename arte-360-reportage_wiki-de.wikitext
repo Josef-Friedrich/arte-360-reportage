@@ -5448,7 +5448,7 @@
 | NR_GES = 624
 | NR_ST = 18
 | OT = Färöer: Zu Hause im Nordatlantik<ref>Internetquellen zur Episode ''„Färöer: Zu Hause im Nordatlantik“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/626-faeroeer-zu-hause-im-nordatlantik-aus-liebe-zur-schoenheit-1674399 626] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/626-faeroeer-zu-hause-im-nordatlantik-aus-liebe-zur-schoenheit-1674399 1674399], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=SFfii7XzU3E SFfii7XzU3E]</ref>
-| Feld1 = -
+| Feld1 = Les îles Féroé, un air de bout du monde
 | REG = Friederike Schlumbom
 | EA = 2023-11-04
 | ZF = Hoch im Norden, im stürmischen Nordatlantik, liegen die Färöer, ein Archipel von 18 Inseln. Die Natur, rau und urtümlich, hat das Leben der Bewohner stark geprägt. Schon als die Wikinger aus dem heutigen Norwegen die Färöer bevölkerten, war der Bootsverkehr zwischen den Inseln überlebenswichtig. Er sicherte vor allem die Grundversorgung der Bewohner durch die Fischerei. Rudern ist heute Nationalsport, und Frauen sind schon lange mit am Start.
@@ -5475,7 +5475,7 @@
 | NR_GES = 627
 | NR_ST = 21
 | OT = Das weiße Gold von Noirmoutier<ref>Internetquellen zur Episode ''„Das weiße Gold von Noirmoutier“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/629-das-weisse-gold-von-noirmoutier-1681709 629] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/629-das-weisse-gold-von-noirmoutier-1681709 1681709], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=ILwQDgLDi-c ILwQDgLDi-c]</ref>
-| Feld1 = -
+| Feld1 = L’or blanc de Noirmoutier
 | REG = Stéphane Nicolle
 | EA = 2023-12-02
 | ZF = Die Insel Noirmoutier liegt an der Atlantikküste, im Golf von Biskaya. Mit ihren langen, feinen Sandstränden, ihren Pinienwäldern und den weißen Häusern ist sie als kleines Paradies beliebt, weit weg vom Trubel des Großstadtlebens. Noirmoutier steht aber auch für das weltweit berühmte Salz, das hier in den Salzgärten noch fast mittelalterlich geerntet wird.
@@ -5493,7 +5493,7 @@
 | NR_GES = 629
 | NR_ST = 23
 | OT = Paris, Hauptstadt der Bienen<ref>Internetquellen zur Episode ''„Paris, Hauptstadt der Bienen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/631-paris-hauptstadt-der-bienen-1692535 631] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/631-paris-hauptstadt-der-bienen-1692535 1692535], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=eCPoZupaFWE eCPoZupaFWE]</ref>
-| Feld1 = -
+| Feld1 = Paris, un jardin pour les abeilles
 | REG = Jean-Baptiste Mathieu
 | EA = 2023-12-27
 | ZF = Paris zieht nicht nur Menschen an, die Stadt ist auch für Honigbienen ein Zuhause. Etwa 2.000 Bienenvölker halten Imker heute auf den Dächern und in den Gärten der französischen Hauptstadt. Kein Wunder, denn historische Gärten und baumreiche Alleen haben eine enorme Anzahl unterschiedlicher Pflanzen zu bieten. Das Ziel vieler Imker: Sie wollen die so wichtige Honigbiene erhalten.
@@ -5513,7 +5513,7 @@
 | NR_GES = 630
 | NR_ST = 1
 | OT = Vietnam: Brücken für bedrohte Affen<ref>Internetquellen zur Episode ''„Vietnam: Brücken für bedrohte Affen“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/632-vietnam-bruecken-bauen-fuer-bedrohte-affen-1692536 632] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/632-vietnam-bruecken-bauen-fuer-bedrohte-affen-1692536 1692536], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=uy5BR-8L4N8 uy5BR-8L4N8]</ref>
-| Feld1 = -
+| Feld1 = Vietnam, des ponts pour sauver les singes
 | REG = Luigi Maria Perotti
 | EA = 2024-01-06
 | ZF = Die Rotschenkligen Kleideraffen gelten als die schönsten Primaten der Welt. Doch Wilderei und illegaler Tierhandel haben fast zu ihrer Ausrottung geführt. Nur wenige Tiere konnten in Vietnam überleben. Engagierte Tierschutzaktivist*innen versuchen nun zu retten, was noch zu retten ist.
@@ -5522,7 +5522,7 @@
 | NR_GES = 631
 | NR_ST = 2
 | OT = Connemara: Wie das Land, so das Pony<ref>Internetquellen zur Episode ''„Connemara: Wie das Land, so das Pony“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/633-connemara-wie-das-land-so-das-pony-1692537 633] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/633-connemara-wie-das-land-so-das-pony-1692537 1692537], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=Vtlv_-OBj5M Vtlv_-OBj5M]</ref>
-| Feld1 = -
+| Feld1 = Le poney Connemara, une légende irlandaise
 | REG = Marie-Laure Daguenel
 | EA = 2024-01-07
 | ZF = Das Connemara-Pony ist in Irland seit Generationen Kult. Voller Leidenschaft werden rund um diese robuste Pony-Rasse eigene Shows und Reitwettbewerbe abgehalten. Hier treten die edelsten Tiere gegeneinander an – Highlight der Shows ist die in Clifden, der Hauptstadt von Connemara. In diesem Jahr feiert der austragende Verband sein hundertjähriges Jubiläum.
@@ -5540,7 +5540,7 @@
 | NR_GES = 633
 | NR_ST = 4
 | OT = Cholitas – Die fliegenden Frauen Boliviens<ref>Internetquellen zur Episode ''„Cholitas – Die fliegenden Frauen Boliviens“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/635-cholitas-die-fliegenden-frauen-boliviens-1692539 635] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/635-cholitas-die-fliegenden-frauen-boliviens-1692539 1692539], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=cGbP73aIii0 cGbP73aIii0]</ref>
-| Feld1 = -
+| Feld1 = Bolivie : cholitas et skateboardeuses
 | REG = Carmen Butta
 | EA = 2024-01-20
 | ZF = Mit ihren gewagten Sprüngen und Pirouetten brettern sie gegen hartnäckig fortbestehende Klischees. Ihre Tracht soll provozieren und zeigen, dass den Cholitas heute alles offensteht. Dass sie sich dabei ausgerechnet auf Skateboards schwingen, löst Erstaunen aus. Doch die jungen Bolivianerinnen haben diesen Sport mit Bedacht gewählt …
@@ -5549,7 +5549,7 @@
 | NR_GES = 634
 | NR_ST = 5
 | OT = New York, die Foodtruck-Könige von Astoria<ref>Internetquellen zur Episode ''„New York, die Foodtruck-Könige von Astoria“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/636-new-york-die-foodtruck-koenige-von-astoria-1692540 636] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/636-new-york-die-foodtruck-koenige-von-astoria-1692540 1692540], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=mPcAr-50yTs mPcAr-50yTs]</ref>
-| Feld1 = -
+| Feld1 = New York et ses food trucks
 | REG = Sascha Just
 | EA = 2024-01-27
 | ZF = Foodtrucks haben New York im Sturm erobert. Vor allem den Stadtteil Astoria in Queens, denn mehr noch als in anderen Bezirken New Yorks lebt hier bis heute die Idee vom Einwanderungsland Amerika. Stolz behaupten die Bewohner, dass nirgendwo sonst so viele Menschen verschiedener Kulturen und Sprachen eng beieinander leben. Und mit ihnen Speisen und Rezepte aus aller Welt.
@@ -5567,7 +5567,7 @@
 | NR_GES = 636
 | NR_ST = 7
 | OT = Brasiliens Regenwald, zurück in die Zukunft<ref>Internetquellen zur Episode ''„Brasiliens Regenwald, zurück in die Zukunft“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/639-brasiliens-regenwald-zurueck-in-die-zukunft-1697573 639] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/639-brasiliens-regenwald-zurueck-in-die-zukunft-1697573 1697573], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=Y3VexYvH_oY Y3VexYvH_oY]</ref>
-| Feld1 = -
+| Feld1 = Amazonie, nourrir le lien à la terre
 | REG = Gordian Arneth
 | EA = 2024-02-24
 | ZF = Die Amazonasregion ist Heimat Tausender Tier- und Pflanzenarten – und mehrerer indigener Völker. Enttäuscht vom modernen Leben, besinnen sie sich auf ihre alte Lebensweise, bauen Maniok und Kakao an und forsten gerodete Flächen mit einheimischen Pflanzenarten auf. Ist die alte Lebensweise ein Weg, um dem drohenden Verschwinden des Regenwaldes entgegenzuwirken?
@@ -5594,7 +5594,7 @@
 | NR_GES = 639
 | NR_ST = 10
 | OT = Hati Bondhu, die Elefantenschützer von Assam<ref>Internetquellen zur Episode ''„Hati Bondhu, die Elefantenschützer von Assam“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/642-hati-bondhu-die-elefantenschuetzer-von-assam-1710832 642] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/642-hati-bondhu-die-elefantenschuetzer-von-assam-1710832 1710832], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=SALlndp7hAA SALlndp7hAA]</ref>
-| Feld1 = -
+| Feld1 = Inde, les éléphants de la discorde
 | REG = Brigitte Kornetzky
 | EA = 2024-04-20
 }}
@@ -5602,7 +5602,7 @@
 | NR_GES = 640
 | NR_ST = 11
 | OT = Piemont - Mit Mulis über Stock und Stein<ref>Internetquellen zur Episode ''„Piemont - Mit Mulis über Stock und Stein“'': ''fernsehserien.de'': Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/643-piemont-mit-mulis-ueber-stock-und-stein-1721175 643] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/643-piemont-mit-mulis-ueber-stock-und-stein-1721175 1721175], ''youtube.com'': Video-ID [https://www.youtube.com/watch?v=9lSM-soPWHo 9lSM-soPWHo]</ref>
-| Feld1 = -
+| Feld1 = Le mulet en montagne, une alternative
 | REG = Philipp Laudauer
 | EA = 2024-06-07
 | ZF = Es gibt ihn noch, den Beruf des Säumers: In den Seealpen, im italienischen Piemont, liegt auf 2.300 Meter Höhe die Schutzhütte Morelli Buzzi. Drei Monate im Jahr muss der Betreiber der Hütte Wanderern Kost und Logis anbieten. Doch Wege und Straßen gibt es hier keine. Da kommen Luciano Ellena und seine Mulis ins Spiel. Er ist der letzte Säumer und versorgt die Hütte mit Lebensmitteln.
