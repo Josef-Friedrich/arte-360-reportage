@@ -357,7 +357,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Im Schatten des Vulkans",
       "description": "\n(Staffel 2 Nr. 4, Fortlaufende Nr. 44; Erstausstrahlung: 13.01.2000)\n\nVulkan „La Soufrière“ auf Montserrat brach nach fast 400 Jahren Ruhe aus. Asche, Lava und pyroklastische Ströme verursachten massive Zerstörung auf der Insel. Das Montserrat Volcano Observatory, geleitet von Simon Young, überwacht den Vulkan und arbeitet an einem Frühwarnsystem. Die Forscher mussten ihren Standort mehrmals verlegen, um der Gefahr zu entgehen.\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=VGLT3ZeQwR0 youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/44-naturgewalten-im-schatten-des-vulkans-339161 fernsehserien.de], [https://thetvdb.com/series/272599-show/episodes/4641916 thetvdb.com]\n"
@@ -373,7 +373,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Casino der Häuptlinge",
       "description": "\n(Staffel 2 Nr. 5, Fortlaufende Nr. 45; Erstausstrahlung: 07.02.2000)\n\nIn Connecticut gibt es das Foxwoods Casino, das als Schloss der Illusionen bezeichnet wird. Es gehört den Mashantucket Pequot Indianern, die das größte Casino der Welt besitzen. Eine Pequot-Frau, die im Reservat lebte, bat kurz vor ihrem Tod ihren Neffen, die verstreuten Pequots zurückzubringen und den Stamm zu erhalten. Ihre ersten Versuche waren erfolglos, aber mit den Einnahmen einer Pizzeria konnten sie eine kleine Bingo-Halle finanzieren, die den Grundstein für ihr heutiges Spiel-Imperium legte. Die weißen Bewohner von Ledyards, die in der Nähe leben, fühlen sich benachteiligt, da die Pequot-Indianer heute der größte Arbeitgeber der Region sind. Außerdem konkurrieren die Pequots ständig mit den Mohikanern, die in der Nachbarschaft ein eigenes Casino betreiben.\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=aONYl3VUqW4 youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/45-spiele-des-lebens-casino-der-haeuptlinge-339162 fernsehserien.de], [https://thetvdb.com/series/272599-show/episodes/4641917 thetvdb.com]\n"
@@ -501,7 +501,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Die Hightech-Polizei",
       "description": "\n(Staffel 2 Nr. 17, Fortlaufende Nr. 57; Erstausstrahlung: 05.06.2000)\n\nDer Polizist des 21. Jahrhunderts ist mit fortschrittlichen Technologien ausgestattet, um potenzielle Angreifer frühzeitig zu entdecken. Mithilfe von Wärmekameras kann er sie identifizieren und mit nicht-tödlichen Schusswaffen außer Gefecht setzen. David Boyd vom „National Institute of Justice“ entwickelt kontinuierlich neue Technologien, um die Arbeit der Polizei effektiver und sicherer zu machen. An der Grenze zu Mexiko in San Diego werden bereits viele dieser Technologien eingesetzt, darunter auch die direkte Untersuchung von DNA-Proben am Tatort. Die amerikanische Polizei forscht zudem an nicht-tödlichen Waffen.\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=OeQIgSeBN5k youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/57-dem-taeter-auf-der-spur-die-hightech-polizei-339170 fernsehserien.de], [https://thetvdb.com/series/272599-show/episodes/4641929 thetvdb.com]\n"
@@ -629,7 +629,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Die Feuerpatrouille",
       "description": "\n(Staffel 2 Nr. 25, Fortlaufende Nr. 65; Erstausstrahlung: 02.10.2000)\n\nJeden Sommer toben verheerende Brände im Süden Frankreichs. Nur Ortskundige können rechtzeitig warnen, da das Gelände bergig und unübersichtlich ist. Serge Abbes ist seit fast zwanzig Jahren Förster bei der staatlichen Waldbehörde „ONF - Office National de Forêt“. Täglich überwacht er einen Waldabschnitt in der Nähe seines Heimatorts im Département Bouches-du-Rhône, einem beliebten Urlaubsgebiet. Er schlägt Alarm und führt im Ernstfall die Feuerwehr direkt in die Gefahrenzone. Im Département gibt es insgesamt 125 „Waldretter“, die Feuerwehrmann und Förster zugleich sind. Die Feuerwachzentrale in Avignon koordiniert die Einsätze. Serge Abbes’ Arbeit bleibt trotz aller Technik und Vorsicht gefährlich, denn nur seine Ortskenntnis, das Funkgerät und etwas Glück helfen ihm, wenn er in einen Brand gerät.\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=4dlXEbKTnKA youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/65-die-geheimnisse-des-waldes-die-feuerpatrouille-339345 fernsehserien.de], [https://thetvdb.com/series/272599-show/episodes/4824561 thetvdb.com]\n"
@@ -645,7 +645,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Der letzte Märchenwald",
       "description": "\n(Staffel 2 Nr. 26, Fortlaufende Nr. 66; Erstausstrahlung: 03.10.2000)\n\nDer Böhmerwald in Tschechien, ein wilder Ort in Europa, ist bedroht. Borkenkäfer vernichten seit den 90er Jahren große Flächen des letzten Märchenwaldes des Kontinents. Die Nationalparkverwaltung wird von der Bevölkerung für die Käferplage verantwortlich gemacht, da die Idee, den Wald nicht wirtschaftlich zu nutzen und die Wildnis nicht zu ordnen, in Tschechien auf Unverständnis stößt. Einige Kommunen haben bereits Waldflächen zurückbekommen und dürfen dort wieder Bäume fällen. Förster Michael Valenta sieht den Böhmerwald in Gefahr, wenn Teile des Parks touristisch genutzt werden, da dies die einzigartige Natur beeinträchtigen könnte.\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=vDFuRMVhqKA youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/66-die-geheimnisse-des-waldes-der-letzte-maerchenwald-339339 fernsehserien.de], [https://thetvdb.com/series/272599-show/episodes/4824562 thetvdb.com]\n"
@@ -677,7 +677,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Die Waldfabrik",
       "description": "\n(Staffel 2 Nr. 28, Fortlaufende Nr. 68; Erstausstrahlung: 05.10.2000)\n\nIn Finnland wird intensiv Holzwirtschaft betrieben, um den Wald als wichtigen Wirtschaftsfaktor zu nutzen. Früher wurde der Wald ähnlich wie Felder bewirtschaftet, was zu einheitlichen, leblosen Baumplantagen führte, die anfällig für Brände und Schädlinge sind. Naturschützer protestieren dagegen, aber die finnische Forstindustrie ist eng mit der Forstbehörde, den Zelluloseherstellern und der Maschinenindustrie verbunden. Daher verkauft ein Waldbesitzer nicht das Holz, sondern nur das Recht zur Holzernte. Dieses System wird „Holzcluster“ genannt. Die effektive und profitorientierte Holzwirtschaft hat in Finnland eine lange Tradition, wobei ein Holzfäller etwa vier Minuten braucht, um eine Kiefer umzulegen und 90 Bäume pro Tag zu fällen, während ein Harvester die gleiche Arbeit in nur einer Minute erledigt.\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=i4IRpDalTSM youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/68-die-geheimnisse-des-waldes-die-waldfabrik-339347 fernsehserien.de], [https://thetvdb.com/series/272599-show/episodes/4824564 thetvdb.com]\n"
@@ -757,7 +757,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Der Rentier-Trek",
       "description": "\n(Staffel 2 Nr. 34, Fortlaufende Nr. 74; Erstausstrahlung: 05.12.2000)\n\nIm Norden Skandinaviens haben die Sami, ein Nomadenvolk, seit Jahrtausenden eine enge Partnerschaft mit den großen Rentierherden. Früher folgten sie den Herden zu Fuß, heute nutzen sie Schneemobile. Trotz Anpassungen ist ihre Lebensweise gefährdet, da Waldbesitzer gegen ihre alten Weiderechte klagen. Nils Peter Gaup ist einer von 4000 modernen norwegischen Sami, die von der Rentierzucht leben. Durch intensive Züchtung ist die Anzahl der Tiere zu hoch, sodass die Hauptnahrung, Flechten, nicht ausreichend nachwachsen kann. Der Staat fordert die Hirten auf, ihre Herden zu verkleinern, was die Existenz der Sami bedroht.\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=kw2Mk9Su7zg youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/74-tiere-im-rampenlicht-der-rentier-trek-339353 fernsehserien.de], [https://thetvdb.com/series/272599-show/episodes/4824570 thetvdb.com]\n"
@@ -789,7 +789,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#000000",
       "marker-size": "small",
       "title": "„Die Frucht, die aus der Dürre kam“",
       "description": "\n(Staffel 3 Nr. 2, Fortlaufende Nr. 78; Erstausstrahlung: 03.01.2001)\n\nDie Wüste Namib im Südwesten Afrikas beherbergt die Topnaar, eines der letzten Wüstenvölker der Welt. Ihre traditionelle Lebensweise ist bedroht, aber die Nara-Melone, eine Frucht, die in der Wüste wächst, könnte ihre Rettung sein. Rudolf Dauseb von den Topnaar möchte die Melone kultivieren und eine Industrie aufbauen, um Arbeitsplätze zu schaffen. Die Frucht hat vielfältige Verwendungsmöglichkeiten, und ihr Samenöl hat einen hohen Nährwert. Die Melone könnte auch in der Kosmetikindustrie genutzt werden, und die Bewässerung der Pflanzen könnte durch Feuchtigkeitskollektoren aus der Luft erfolgen.\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=L1bcEWTOHm4 youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/78-ueberleben-in-der-wueste-die-frucht-die-aus-der-duerre-kam-339357 fernsehserien.de], [https://thetvdb.com/series/272599-show/episodes/4641936 thetvdb.com]\n"
@@ -901,7 +901,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Operation Alpentunnel",
       "description": "\n(Staffel 3 Nr. 9, Fortlaufende Nr. 85; Erstausstrahlung: 09.04.2001)\n\nIn der Schweiz wird seit 1995 der längste Eisenbahntunnel der Welt am Gotthard-Massiv gebaut. Die 57 Kilometer lange Strecke durch die Alpen wird die Reisezeit zwischen Zürich und Mailand von fünf auf zweieinhalb Stunden verkürzen. Spezialisten aus der ganzen Welt arbeiten an diesem gigantischen Projekt, bei dem tausende Menschen Meter um Meter aus dem Berg herausholen, um den ehrgeizigen Gotthard-Basistunnel zu verwirklichen. Maschinen fressen sich an den Eingängen des Tunnels in den Fels, während 24 Millionen Tonnen Abraum anfallen. Der Urner See wird mit dem Abraum aufgefüllt, um das ökologische Gleichgewicht wiederherzustellen. Der erste Hochgeschwindigkeitszug soll 2017 durch den Tunnel fahren - eine nur 16 Minuten lange Fahrt für 57 Kilometer.\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=9DqxNEBmpd8 youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/85-operation-alpentunnel-339367 fernsehserien.de], [https://www.imdb.com/title/tt1007056 imdb.com], [https://thetvdb.com/series/272599-show/episodes/4641943 thetvdb.com]\n"
@@ -1141,7 +1141,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#000000",
       "marker-size": "small",
       "title": "Fährtensucher online",
       "description": "\n(Staffel 3 Nr. 24, Fortlaufende Nr. 100; Erstausstrahlung: 06.09.2001)\n\nDie Buschmänner der Kalahari-Wüste nutzen den Cybertracker, einen kleinen Computer, um Spuren aufzuzeichnen. Sie geben ihre Beobachtungen mithilfe von Symbolen ein, da sie nicht lesen können. Ihr einzigartiges Wissen und ihre Fähigkeit, die Zeichen ihrer Umgebung zu interpretieren, könnten für die Wissenschaft von großer Bedeutung sein, um frühzeitig Klimaveränderungen und Umweltbelastungen zu erkennen. Louis Liebenberg, ein Naturwissenschaftler aus Kapstadt, hat den Cybertracker entwickelt, der es den Ureinwohnern ermöglicht, ihre Beobachtungen festzuhalten.\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=OWZJehCh4hk youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/100-faehrtensucher-online-339420 fernsehserien.de], [https://www.imdb.com/title/tt1007052 imdb.com], [https://thetvdb.com/series/272599-show/episodes/4641958 thetvdb.com]\n"
@@ -1285,7 +1285,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Filmstars im Pelz",
       "description": "\n(Staffel 4 Nr. 5, Fortlaufende Nr. 109; Erstausstrahlung: 04.03.2002)\n\nIn der Nähe von Budapest leitet Zoltán Horkai, 28 Jahre alt, ein Tierasyl, das Tiere aus ganz Osteuropa aufnimmt. Das Asyl wurde ursprünglich für Tiere aus ungarischen Tierfilmen der kommunistischen Ära gebaut. Die World Society for the Protection of Animals (WSPA) unterstützt den Bau der Gehege und einen Teil der Kosten. Horkai finanziert den Rest durch Auftritte seiner tierischen Stars in Filmen. Im Gegensatz zu Hollywood-Tiertrainern ist es ihm wichtig, dass die Tiere in ihrer natürlichen Umgebung zu sehen sind und sich natürlich verhalten.\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=gMcu-RgppR8 youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/109-filmstars-im-pelz-339430 fernsehserien.de], [https://www.imdb.com/title/tt1042935 imdb.com], [https://thetvdb.com/series/272599-show/episodes/4641967 thetvdb.com]\n"
@@ -1397,7 +1397,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Die Bernsteintaucher",
       "description": "\n(Staffel 4 Nr. 13, Fortlaufende Nr. 117; Erstausstrahlung: 07.05.2002)\n\nIn der Ostsee vor Kaliningrad werden die meisten Bernsteinvorkommen weltweit gefördert. Taucher wie Pawel Fedotov suchen dort nach den begehrten Steinen. Mit einem Echolot auf seinem Boot kann er die senkenartigen Stellen im Meer finden, wo sich der Bernstein ansammelt. Obwohl die meisten Steine wertlose Krümel sind, können einige zu Schmuck verarbeitet werden. Obwohl es nur dem Staat erlaubt ist, Bernstein zu fördern und zu verkaufen, toleriert die schlecht bezahlte Polizei Bestechungsgelder. Die Ostsee ist für viele zur wichtigen Einkommensquelle geworden.\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=fGA6Fgc5tgQ youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/117-die-bernsteintaucher-339440 fernsehserien.de], [https://www.imdb.com/title/tt1042928 imdb.com], [https://thetvdb.com/series/272599-show/episodes/4641975 thetvdb.com]\n"
@@ -1540,7 +1540,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Der Blechmusik-Oscar",
       "description": "\n(Staffel 4 Nr. 26, Fortlaufende Nr. 130; Erstausstrahlung: 09.10.2002)\n\nDas Blechmusik-Festival in Guca verwandelt das kleine serbische Dorf in einen Ausnahmezustand. Das einzige Hotel ist schnell ausgebucht, daher schlafen die meisten Musiker und Gäste in Bussen, Zelten oder ihren Autos. Die Einheimischen vermieten ihre Zimmer und nutzen die Küche als Ersatz. Der begehrte Preis „Prva Truba“ lockt die Musiker an, darunter der dreifache Gewinner Milan Mladanovic, der nun seinen Enkel Ekrim den Sieg wünscht. Bei einem Gewinn will Milan die Leitung des Familienorchesters abgeben. Drei Tage lang wird das Festival Guca mit einer schwitzenden, brodelnden und tanzwütigen Atmosphäre erfüllen.\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=mw6CLMWS17k youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/130-der-blechmusik-oscar-339455 fernsehserien.de], [https://www.imdb.com/title/tt1051728 imdb.com], [https://thetvdb.com/series/272599-show/episodes/4641988 thetvdb.com]\n"
@@ -2370,7 +2370,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Chicagos Stahlmänner - Abriss und Wiederaufbau eines Hochofens",
       "description": "\n(Staffel 8 Nr. 7, Fortlaufende Nr. 193; frz. Titel “Les Métallos de Chicago”; Erstausstrahlung: 29.07.2006)\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=Nz8O4PT5AbI youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/195-chicagos-stahlmaenner-abriss-und-wiederaufbau-eines-hochofens-339676 fernsehserien.de], [https://thetvdb.com/series/272599-show/episodes/4642173 thetvdb.com]\n"
@@ -2994,7 +2994,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Kanadas Buschpiloten im Einsatz",
       "description": "\n(Staffel 10 Nr. 9, Fortlaufende Nr. 240; frz. Titel “Pilotes du Nunavik”; Erstausstrahlung: 26.05.2008)\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=dr7OQ8XcdXA youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/242-kanadas-buschpiloten-im-einsatz-339695 fernsehserien.de], [https://thetvdb.com/series/272599-show/episodes/4642267 thetvdb.com]\n"
@@ -3026,7 +3026,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#000000",
       "marker-size": "small",
       "title": "Vom Klassenzimmer in die Kalahari",
       "description": "\n(Staffel 10 Nr. 11, Fortlaufende Nr. 242; frz. Titel “Namibie, Sur les Traces de Darwin”; Erstausstrahlung: 31.07.2008)\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=AB2q4v0rlYo youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/244-vom-klassenzimmer-in-die-kalahari-339699 fernsehserien.de], [https://thetvdb.com/series/272599-show/episodes/4642269 thetvdb.com]\n"
@@ -3266,7 +3266,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#000000",
       "marker-size": "small",
       "title": "Idjwi - Afrikas vergessene Insel",
       "description": "\n(Staffel 11 Nr. 3, Fortlaufende Nr. 257; frz. Titel “Idjwi - l’Île Oubliée”; Erstausstrahlung: 31.01.2009)\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=y_zW09TMKaQ youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/259-idjwi-afrikas-vergessene-insel-339737 fernsehserien.de], [https://www.imdb.com/title/tt1350549 imdb.com], [https://thetvdb.com/series/272599-show/episodes/4642284 thetvdb.com]\n"
@@ -3330,7 +3330,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Biberkrieg in Bayern",
       "description": "\n(Staffel 11 Nr. 7, Fortlaufende Nr. 261; frz. Titel “Bavière — La Guerre aux Castors”; Erstausstrahlung: 18.04.2009)\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=L1QY4QuRJs4 youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/263-biberkrieg-in-bayern-339741 fernsehserien.de], [https://thetvdb.com/series/272599-show/episodes/4642288 thetvdb.com]\n"
@@ -3458,7 +3458,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Die Todesküste von Galicien",
       "description": "\n(Staffel 11 Nr. 17, Fortlaufende Nr. 271; frz. Titel “Galice, Pêcheurs en Danger”; Erstausstrahlung: 13.09.2009)\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=MMsnMfaXpUA youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/273-die-todeskueste-von-galicien-339752 fernsehserien.de], [https://thetvdb.com/series/272599-show/episodes/4642495 thetvdb.com]\n"
@@ -3570,7 +3570,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#000000",
       "marker-size": "small",
       "title": "Ruanda: Land der Frauen",
       "description": "\n(Staffel 11 Nr. 24, Fortlaufende Nr. 278; frz. Titel “Le Rwanda aux Femmes”; Erstausstrahlung: 12.12.2009)\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=cgNXNRjbB8E youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/280-ruanda-land-der-frauen-339952 fernsehserien.de], [https://thetvdb.com/series/272599-show/episodes/4642502 thetvdb.com]\n"
@@ -3586,7 +3586,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Saint-Pierre und Miquelon: Archipel in der Isolation",
       "description": "\n(Staffel 11 Nr. 25, Fortlaufende Nr. 279; frz. Titel “Saint-Pierre-et-Miquelon — L’Archipel Perdu”; Erstausstrahlung: 19.12.2009)\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=z6mots9SAg0 youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/281-saint-pierre-und-miquelon-archipel-in-der-isolation-339954 fernsehserien.de], [https://thetvdb.com/series/272599-show/episodes/4642503 thetvdb.com]\n"
@@ -3874,7 +3874,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Die verrückten Karren des Mister Winfield",
       "description": "\n(Staffel 12 Nr. 18, Fortlaufende Nr. 298; frz. Titel “Gene Winfield, le Mécano de Folles Autos”; Erstausstrahlung: 11.12.2010)\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=Vg9aMMkF7PQ youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/300-die-verrueckten-karren-des-mister-winfield-339970 fernsehserien.de], [https://thetvdb.com/series/272599-show/episodes/4642523 thetvdb.com]\n"
@@ -4034,7 +4034,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Großglockner, König der Hochalpen",
       "description": "\n(Staffel 13 Nr. 10, Fortlaufende Nr. 310; frz. Titel “Vivre au Pied d’un Géant”; Erstausstrahlung: 09.04.2011)\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=7SZoha01QG0 youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/312-grossglockner-koenig-der-hochalpen-339979 fernsehserien.de], [https://www.imdb.com/title/tt5037962 imdb.com], [https://thetvdb.com/series/272599-show/episodes/4642540 thetvdb.com]\n"
@@ -4162,7 +4162,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Rum auf Guadeloupe",
       "description": "\n(Staffel 13 Nr. 18, Fortlaufende Nr. 318; frz. Titel “Guadeloupe, le Meilleur Rhum du Monde”; Erstausstrahlung: 30.07.2011)\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=9N1Qll5w0ng youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/320-rum-auf-guadeloupe-339988 fernsehserien.de], [https://www.imdb.com/title/tt14617222 imdb.com], [https://thetvdb.com/series/272599-show/episodes/4642549 thetvdb.com]\n"
@@ -4322,7 +4322,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#000000",
       "marker-size": "small",
       "title": "Lamu, die Insel der Esel",
       "description": "\n(Staffel 13 Nr. 28, Fortlaufende Nr. 328; frz. Titel “Lamu, l’Île aux Ânes”; Erstausstrahlung: 17.12.2011)\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=Z8Xny07TdXQ youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/330-lamu-die-insel-der-esel-339996 fernsehserien.de], [https://thetvdb.com/series/272599-show/episodes/4642558 thetvdb.com]\n"
@@ -4370,7 +4370,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Die scharfen Klingen der Auvergne",
       "description": "\n(Staffel 14 Nr. 2, Fortlaufende Nr. 331; frz. Titel “L’Auvergne, la Guerre des Couteaux”; Erstausstrahlung: 28.01.2012)\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=Zo2vsTRz4x0 youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/333-die-scharfen-klingen-der-auvergne-339987 fernsehserien.de], [https://thetvdb.com/series/272599-show/episodes/4642563 thetvdb.com]\n"
@@ -4418,7 +4418,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Lappland: Rushhour im hohen Norden",
       "description": "\n(Staffel 14 Nr. 5, Fortlaufende Nr. 334; frz. Titel “La Laponie, le Grand Embouteillage”; Erstausstrahlung: 10.03.2012)\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=MT5oNZ0Y6JY youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/336-lappland-rushhour-im-hohen-norden-340001 fernsehserien.de], [https://thetvdb.com/series/272599-show/episodes/4642566 thetvdb.com]\n"
@@ -4434,7 +4434,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#000000",
       "marker-size": "small",
       "title": "Wildererjagd am Mount Kenya",
       "description": "\n(Staffel 14 Nr. 6, Fortlaufende Nr. 335; frz. Titel “Mont Kenya, la Chasse au Braconnage”; Erstausstrahlung: 24.03.2012)\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=UAGR4vE_i0U youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/337-wildererjagd-am-mount-kenya-340002 fernsehserien.de], [https://thetvdb.com/series/272599-show/episodes/4642567 thetvdb.com]\n"
@@ -4594,7 +4594,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Auf dem Floß durch die Schluchten der Tara",
       "description": "\n(Staffel 14 Nr. 16, Fortlaufende Nr. 345; frz. Titel “Le Dernier Radeau du Monténégro”; Erstausstrahlung: 20.10.2012)\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=H9eSAANUh54 youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/347-auf-dem-floss-durch-die-schluchten-der-tara-506707 fernsehserien.de], [https://thetvdb.com/series/272599-show/episodes/4642582 thetvdb.com]\n"
@@ -5458,7 +5458,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Lettland - das Land der Sänger",
       "description": "\n(Staffel 16 Nr. 24, Fortlaufende Nr. 401; frz. Titel “Lettonie, un Pays Qui Chante”; Erstausstrahlung: 27.12.2014)\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=F7ljNcCsIhA youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/403-lettland-das-land-der-saenger-667601 fernsehserien.de], [https://thetvdb.com/series/272599-show/episodes/5078299 thetvdb.com]\n"
@@ -5874,7 +5874,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Polen, Winter in den Waldkarpaten",
       "description": "\n(Staffel 17 Nr. 26, Fortlaufende Nr. 427; frz. Titel “Pologne, Charme Secret des Basses-Carpates”; Erstausstrahlung: 26.12.2015)\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=tRxGlm8BqbY youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/429-polen-winter-in-den-waldkarpaten-796124 fernsehserien.de], [https://thetvdb.com/series/272599-show/episodes/5455789 thetvdb.com]\n"
@@ -5890,7 +5890,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#000000",
       "marker-size": "small",
       "title": "Kenias Spürhunde - Rettung für die Elefanten",
       "description": "\n(Staffel 18 Nr. 1, Fortlaufende Nr. 428; frz. Titel “Kenya, les Chiens au Secours des Éléphants”; Erstausstrahlung: 02.01.2016)\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=MY6baZRwEL8 youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/430-kenias-spuerhunde-rettung-fuer-die-elefanten-797294 fernsehserien.de], [https://thetvdb.com/series/272599-show/episodes/5464152 thetvdb.com]\n"
@@ -5954,7 +5954,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Cocos Island - Die Insel der Haie",
       "description": "\n(Staffel 18 Nr. 5, Fortlaufende Nr. 432; frz. Titel “Cocos — L’Île des Requins”; Erstausstrahlung: 27.02.2016)\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=A-aSNeoHaGI youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/434-cocos-island-paradies-fuer-haie-807567 fernsehserien.de], [https://thetvdb.com/series/272599-show/episodes/5535287 thetvdb.com]\n"
@@ -6306,7 +6306,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Die Liebenden von Santa Cruz del Islote",
       "description": "\n(Staffel 19 Nr. 1, Fortlaufende Nr. 454; frz. Titel “Santa Cruz del Islote — Une Île Minuscule et Insolite”; Erstausstrahlung: 07.01.2017)\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=UNPolG8VXFo youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/456-die-liebenden-von-santa-cruz-del-islote-1042427 fernsehserien.de], [https://thetvdb.com/series/272599-show/episodes/5904645 thetvdb.com]\n"
@@ -6434,7 +6434,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Spanien - Die Tradition der Menschentürme",
       "description": "\n(Staffel 19 Nr. 9, Fortlaufende Nr. 462; frz. Titel “Catalogne, le Défi des Pyramides Humaines”; Erstausstrahlung: 12.03.2017)\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=8N06lkFAtYI youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/464-spanien-die-tradition-der-menschentuerme-1057317 fernsehserien.de], [https://www.imdb.com/title/tt14564776 imdb.com], [https://thetvdb.com/series/272599-show/episodes/6005142 thetvdb.com]\n"
@@ -6706,7 +6706,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Der Thomanerchor - Leben für die Musik",
       "description": "\n(Staffel 19 Nr. 26, Fortlaufende Nr. 479; frz. Titel “Leipzig, les Légendaires Petits Chanteurs”; Erstausstrahlung: 24.12.2017)\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=931l1cfsbDg youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/481-der-thomanerchor-leben-fuer-die-musik-1151707 fernsehserien.de], [https://www.imdb.com/title/tt26898733 imdb.com], [https://thetvdb.com/series/272599-show/episodes/6468960 thetvdb.com]\n"
@@ -7170,7 +7170,7 @@
   {
     "type": "Feature",
     "properties": {
-      "marker-color": "#cccccc",
+      "marker-color": "#000000",
       "marker-size": "small",
       "title": "Kenia, Let's Dance",
       "description": "\n(Staffel 20 Nr. 29, Fortlaufende Nr. 508; frz. Titel “Kenya, alors on danse”; Erstausstrahlung: 22.12.2018)\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=NOHyqcrRSIo youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/510-kenia-lets-dance-1251215 fernsehserien.de], [https://www.imdb.com/title/tt20231942 imdb.com], [https://thetvdb.com/series/272599-show/episodes/6952756 thetvdb.com]\n"

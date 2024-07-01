@@ -2178,6 +2178,7 @@ seasons:
         episode_no: 4
         title: Im Schatten des Vulkans
         topic: Naturgewalten
+        continent: Amerika
         location_wikidata: Q845239
         coordinates:
         - 16.716666666667
@@ -2223,6 +2224,7 @@ seasons:
         episode_no: 5
         title: Casino der Häuptlinge
         topic: Spiele des Lebens
+        continent: Amerika
         location_wikidata: Q779
         coordinates:
         - 41.6
@@ -2821,6 +2823,7 @@ seasons:
         episode_no: 17
         title: Die Hightech-Polizei
         topic: Dem Täter auf der Spur
+        continent: Amerika
         location_wikidata: Q16552
         coordinates:
         - 32.715
@@ -3241,6 +3244,7 @@ seasons:
         episode_no: 25
         title: Die Feuerpatrouille
         topic: Die Geheimnisse des Waldes
+        continent: Europa
         location_wikidata: Q3240
         coordinates:
         - 43.5
@@ -3294,6 +3298,7 @@ seasons:
         episode_no: 26
         title: Der letzte Märchenwald
         topic: Die Geheimnisse des Waldes
+        continent: Europa
         location_wikidata: Q864799
         coordinates:
         - 49.060643055556
@@ -3393,6 +3398,7 @@ seasons:
         episode_no: 28
         title: Die Waldfabrik
         topic: Die Geheimnisse des Waldes
+        continent: Europa
         location_wikidata: Q33
         coordinates:
         - 65
@@ -3701,6 +3707,7 @@ seasons:
         episode_no: 34
         title: Der Rentier-Trek
         topic: Tiere im Rampenlicht
+        continent: Europa
         location_wikidata: Q62132
         coordinates:
         - 67.9
@@ -3897,6 +3904,7 @@ seasons:
         episode_no: 2
         title: „Die Frucht, die aus der Dürre kam“
         topic: Überleben in der Wüste
+        continent: Afrika
         location_wikidata: Q131377
         coordinates:
         - -23
@@ -4254,6 +4262,7 @@ seasons:
         season_no: 3
         episode_no: 9
         title: Operation Alpentunnel
+        continent: Europa
         location_wikidata: Q193002
         coordinates:
         - 46.6
@@ -4972,6 +4981,7 @@ seasons:
         season_no: 3
         episode_no: 24
         title: Fährtensucher online
+        continent: Afrika
         location_wikidata: Q47700
         coordinates:
         - -23
@@ -5411,6 +5421,7 @@ seasons:
         season_no: 4
         episode_no: 5
         title: Filmstars im Pelz
+        continent: Europa
         location_wikidata: Q1781
         coordinates:
         - 47.498333333333
@@ -5783,6 +5794,7 @@ seasons:
         season_no: 4
         episode_no: 13
         title: Die Bernsteintaucher
+        continent: Europa
         location_wikidata: Q1829
         coordinates:
         - 54.716666666667
@@ -6382,6 +6394,7 @@ seasons:
         season_no: 4
         episode_no: 26
         title: Der Blechmusik-Oscar
+        continent: Europa
         location_wikidata: Q1012774
         coordinates:
         - 43.778055555556
@@ -9686,6 +9699,7 @@ seasons:
         episode_no: 7
         title: Chicagos Stahlmänner - Abriss und Wiederaufbau eines Hochofens
         title_fr: Les Métallos de Chicago
+        continent: Amerika
         location_wikidata: Q1297
         coordinates:
         - 41.85003
@@ -12500,6 +12514,7 @@ seasons:
         episode_no: 9
         title: Kanadas Buschpiloten im Einsatz
         title_fr: Pilotes du Nunavik
+        continent: Amerika
         location_wikidata: Q1074865
         coordinates:
         - 57
@@ -12618,6 +12633,7 @@ seasons:
         episode_no: 11
         title: Vom Klassenzimmer in die Kalahari
         title_fr: Namibie, Sur les Traces de Darwin
+        continent: Afrika
         location_wikidata: Q3935
         coordinates:
         - -22.57
@@ -13494,6 +13510,7 @@ seasons:
         episode_no: 3
         title: Idjwi - Afrikas vergessene Insel
         title_fr: Idjwi - l’Île Oubliée
+        continent: Afrika
         location_wikidata: Q1194327
         coordinates:
         - -2.105
@@ -13710,6 +13727,7 @@ seasons:
         episode_no: 7
         title: Biberkrieg in Bayern
         title_fr: Bavière — La Guerre aux Castors
+        continent: Europa
         location_wikidata: Q704124
         coordinates:
         - 48.966666666667
@@ -14255,6 +14273,7 @@ seasons:
         episode_no: 17
         title: Die Todesküste von Galicien
         title_fr: Galice, Pêcheurs en Danger
+        continent: Europa
         location_wikidata: Q1136401
         coordinates:
         - 43.1
@@ -14655,6 +14674,7 @@ seasons:
         episode_no: 24
         title: 'Ruanda: Land der Frauen'
         title_fr: Le Rwanda aux Femmes
+        continent: Afrika
         location_wikidata: Q1037
         coordinates:
         - -1.9402777777777778
@@ -14701,6 +14721,7 @@ seasons:
         episode_no: 25
         title: 'Saint-Pierre und Miquelon: Archipel in der Isolation'
         title_fr: Saint-Pierre-et-Miquelon — L’Archipel Perdu
+        continent: Amerika
         location_wikidata: Q34617
         coordinates:
         - 46.825
@@ -15758,6 +15779,7 @@ seasons:
         episode_no: 18
         title: Die verrückten Karren des Mister Winfield
         title_fr: Gene Winfield, le Mécano de Folles Autos
+        continent: Amerika
         location_wikidata: Q184355
         coordinates:
         - 35.008333333333
@@ -16444,6 +16466,7 @@ seasons:
         episode_no: 10
         title: Großglockner, König der Hochalpen
         title_fr: Vivre au Pied d’un Géant
+        continent: Europa
         location_wikidata: Q3388
         coordinates:
         - 47.074528
@@ -16912,6 +16935,7 @@ seasons:
         episode_no: 18
         title: Rum auf Guadeloupe
         title_fr: Guadeloupe, le Meilleur Rhum du Monde
+        continent: Amerika
         location_wikidata: Q3118683
         coordinates:
         - 16.15
@@ -17509,6 +17533,7 @@ seasons:
         episode_no: 28
         title: Lamu, die Insel der Esel
         title_fr: Lamu, l’Île aux Ânes
+        continent: Afrika
         location_wikidata: Q783117
         coordinates:
         - -2.2833333333333
@@ -17681,6 +17706,7 @@ seasons:
         episode_no: 2
         title: Die scharfen Klingen der Auvergne
         title_fr: L’Auvergne, la Guerre des Couteaux
+        continent: Europa
         location_wikidata: Q990774
         coordinates:
         - 44.684166666667
@@ -17860,6 +17886,7 @@ seasons:
         episode_no: 5
         title: 'Lappland: Rushhour im hohen Norden'
         title_fr: La Laponie, le Grand Embouteillage
+        continent: Europa
         location_wikidata: Q671330
         coordinates:
         - 66.047522716547
@@ -17917,6 +17944,7 @@ seasons:
         episode_no: 6
         title: Wildererjagd am Mount Kenya
         title_fr: Mont Kenya, la Chasse au Braconnage
+        continent: Afrika
         location_wikidata: Q172070
         coordinates:
         - -0.1
@@ -18507,6 +18535,7 @@ seasons:
         episode_no: 16
         title: Auf dem Floß durch die Schluchten der Tara
         title_fr: Le Dernier Radeau du Monténégro
+        continent: Europa
         location_wikidata: Q730378
         coordinates:
         - 42.594444444444
@@ -21862,6 +21891,7 @@ seasons:
         episode_no: 24
         title: Lettland - das Land der Sänger
         title_fr: Lettonie, un Pays Qui Chante
+        continent: Europa
         location_wikidata: Q840717
         coordinates:
         - 56.887777777778
@@ -23342,6 +23372,7 @@ seasons:
         episode_no: 26
         title: Polen, Winter in den Waldkarpaten
         title_fr: Pologne, Charme Secret des Basses-Carpates
+        continent: Europa
         location_wikidata: Q54175
         coordinates:
         - 49.95
@@ -23393,6 +23424,7 @@ seasons:
         episode_no: 1
         title: Kenias Spürhunde - Rettung für die Elefanten
         title_fr: Kenya, les Chiens au Secours des Éléphants
+        continent: Afrika
         location_wikidata: Q458423
         coordinates:
         - -2.65
@@ -23628,6 +23660,7 @@ seasons:
         title: Cocos Island - Die Insel der Haie
         title_fr: Cocos — L’Île des Requins
         alias: Cocos Island - Paradies für Haie?!
+        continent: Amerika
         location_wikidata: Q215081
         coordinates:
         - 5.5280555555556
@@ -24864,6 +24897,7 @@ seasons:
         episode_no: 1
         title: Die Liebenden von Santa Cruz del Islote
         title_fr: Santa Cruz del Islote — Une Île Minuscule et Insolite
+        continent: Amerika
         location_wikidata: Q1849746
         coordinates:
         - 9.78609
@@ -25290,6 +25324,7 @@ seasons:
         episode_no: 9
         title: Spanien - Die Tradition der Menschentürme
         title_fr: Catalogne, le Défi des Pyramides Humaines
+        continent: Europa
         location_wikidata: Q15088
         coordinates:
         - 41.1175
@@ -26242,6 +26277,7 @@ seasons:
         episode_no: 26
         title: Der Thomanerchor - Leben für die Musik
         title_fr: Leipzig, les Légendaires Petits Chanteurs
+        continent: Europa
         location_wikidata: Q699668
         coordinates:
         - 51.337
@@ -27820,6 +27856,7 @@ seasons:
         episode_no: 29
         title: Kenia, Let's Dance
         title_fr: Kenya, alors on danse
+        continent: Afrika
         location_wikidata: Q579521
         coordinates:
         - -1.3125
