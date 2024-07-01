@@ -2654,11 +2654,11 @@
 | Titre inconnu
 |-
 |15
-|
+|⚪️
 | Titre inconnu
 |-
 |16
-|
+|🔴
 | Titre inconnu
 |-
 |17
@@ -2670,23 +2670,23 @@
 | Les îles Féroé, un air de bout du monde
 |-
 |19
-|
+|🟡
 | Titre inconnu
 |-
 |20
-|
+|🟡
 | Titre inconnu
 |-
 |21
-|
+|⚪️
 | L’or blanc de Noirmoutier
 |-
 |22
-|
+|🔴
 | Titre inconnu
 |-
 |23
-|
+|⚪️
 | Paris, un jardin pour les abeilles
 |}
 
@@ -2697,11 +2697,11 @@
 !width="87%"|Titre français
 |-
 |1
-|
+|🟡
 | Vietnam, des ponts pour sauver les singes
 |-
 |2
-|
+|⚪️
 | Le poney Connemara, une légende irlandaise
 |-
 |3
@@ -2721,7 +2721,7 @@
 | Titre inconnu
 |-
 |7
-|
+|🔴
 | Amazonie, nourrir le lien à la terre
 |-
 |8

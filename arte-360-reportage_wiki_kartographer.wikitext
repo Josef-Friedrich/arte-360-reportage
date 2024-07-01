@@ -8960,6 +8960,198 @@
   {
     "type": "Feature",
     "properties": {
+      "marker-color": "#cccccc",
+      "marker-size": "small",
+      "title": "Georgien - Welcome Teacher!",
+      "description": "\n(Staffel 25 Nr. 14, Fortlaufende Nr. 620; Erstausstrahlung: 09.09.2023)\n\nSwanetien ist eine der faszinierendsten und auch abgelegensten Regionen Georgiens. Doch viele Bergbewohner verlassen ihre Heimat, um in den Städten ein besseres Leben zu suchen. Betroffen ist auch Kala, ein kleines, fast 2000 Meter hoch gelegenes Dorf. Der örtliche Schuldirektor befindet sich in einer heiklen Lage. Nur noch 17 Schüler besuchen seine Schule …\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=_wCHrOlEBtM youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/622-georgien-die-dorfschule-im-kaukasus-1661786 fernsehserien.de], [https://www.imdb.com/title/tt29041334 imdb.com]\n"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.015672,
+        42.917797
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "marker-color": "#ffffff",
+      "marker-size": "small",
+      "title": "Island - Seltsame Schätze aus dem Meer",
+      "description": "\n(Staffel 25 Nr. 15, Fortlaufende Nr. 621; Erstausstrahlung: 16.09.2023)\n\nAuf den Meeren Islands haben die Fischer jahrhundertelang mit ihren Booten und Schiffen nach immer demselben Schatz gesucht: dem Kabeljau. Seit einigen Jahren aber weckt ein weiterer Meeresschatz Begehrlichkeiten – es ist ein seltsames, unbekanntes und eher hässlich aussehendes Tier: die Seegurke, auch Holothurie genannt. Sie ist der neue Star in den isländischen Gewässern.\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=nez0RgvTkHQ youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/623-island-seltsame-schaetze-aus-dem-meer-1664145 fernsehserien.de], [https://www.imdb.com/title/tt29169170 imdb.com]\n"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -22.1,
+        64.316666666667
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "marker-color": "#ff0000",
+      "marker-size": "small",
+      "title": "Argentinien - Die Winzerinnen von Mendoza",
+      "description": "\n(Staffel 25 Nr. 16, Fortlaufende Nr. 622; Erstausstrahlung: 30.09.2023)\n\nMendoza ist die wichtigste Weinregion Argentiniens. Hier wächst die Malbec-Traube, aus der der berühmte Rotwein gekeltert wird. Dieser Wein wird seit jeher hauptsächlich von Männern produziert. Doch eine Gruppe engagierter Frauen erfüllt sich nun den Traum vom eigenen Wein. Der Weg dahin war steinig, doch in der starken Gemeinschaft ist aus dem Traum Realität geworden.\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=YJUk9tTub8s youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/624-argentinien-die-winzerinnen-von-mendoza-1668117 fernsehserien.de], [https://www.imdb.com/title/tt29347087 imdb.com]\n"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -68.8463888888889,
+        -32.89861111111111
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "marker-color": "#cccccc",
+      "marker-size": "small",
+      "title": "Australien: Mission Schnabeltier",
+      "description": "\n(Staffel 25 Nr. 17, Fortlaufende Nr. 623; Erstausstrahlung: 21.10.2023)\n\nSie gehören zu den bekanntesten Tieren Australiens: die Schnabeltiere. Ausgestattet mit einem Schnabel und gleichzeitig einem dichten Pelz, eierlegend und trotzdem ihre Jungen säugend, wurden die Tiere wegen ihres Pelzes gejagt und fast ausgerottet. Zwischenzeitlich hatte sich ihr Bestand erholt. Doch neue Bedrohungen setzen den eigentümlichen Tieren erneut zu.\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=gY-5SWOME9A youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/625-australien-mission-schnabeltier-1670887 fernsehserien.de], [https://www.imdb.com/title/tt29964475 imdb.com]\n"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        151.0511111,
+        -34.13166666666667
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "marker-color": "#cccccc",
+      "marker-size": "small",
+      "title": "Färöer: Zu Hause im Nordatlantik",
+      "description": "\n(Staffel 25 Nr. 18, Fortlaufende Nr. 624; frz. Titel “Les îles Féroé, un air de bout du monde”; Erstausstrahlung: 04.11.2023)\n\nHoch im Norden, im stürmischen Nordatlantik, liegen die Färöer, ein Archipel von 18 Inseln. Die Natur, rau und urtümlich, hat das Leben der Bewohner stark geprägt. Schon als die Wikinger aus dem heutigen Norwegen die Färöer bevölkerten, war der Bootsverkehr zwischen den Inseln überlebenswichtig. Er sicherte vor allem die Grundversorgung der Bewohner durch die Fischerei. Rudern ist heute Nationalsport, und Frauen sind schon lange mit am Start.\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=SFfii7XzU3E youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/626-faeroeer-zu-hause-im-nordatlantik-aus-liebe-zur-schoenheit-1674399 fernsehserien.de]\n"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -6.7833333333333,
+        62
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "marker-color": "#ffff00",
+      "marker-size": "small",
+      "title": "Werft unter Palmen - Indonesiens Pinisis",
+      "description": "\n(Staffel 25 Nr. 19, Fortlaufende Nr. 625; Erstausstrahlung: 18.11.2023)\n\nPinisis, kleine wendige Frachtensegler, verkehrten bereits zu Zeiten der niederländischen Kolonialisierung zwischen den indonesischen Inseln. Noch immer werden sie wie damals gebaut, am Strand, ohne schriftlichen Bauplan. Eine Einzigartigkeit, die inzwischen zum immateriellen Weltkulturerbe der UNESCO gehört.\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=s0Ohg9vxi1U youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/627-indonesien-werft-unter-palmen-indonesiens-pinisis-1678086 fernsehserien.de], [https://www.imdb.com/title/tt30049489 imdb.com]\n"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        121,
+        -2
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "marker-color": "#ffff00",
+      "marker-size": "small",
+      "title": "Yabusame - Japans Samurai-Ladys",
+      "description": "\n(Staffel 25 Nr. 20, Fortlaufende Nr. 626; Erstausstrahlung: 25.11.2023)\n\nDie legendären japanischen Samurai sind lange ausgestorben, doch ihre Kunst des Yabusame, des berittenen Bogenschießens, hat überlebt. Bisher war das eine reine Männerwelt, doch jetzt haben einige engagierte Frauen eine Revolution angezettelt. Die Reitstallbesitzerin Ayuko Kamimura will Yabusame zu einem internationalen Trendsport des 21. Jahrhunderts auch für Frauen machen.\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=Qr21-51Z_vM youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/628-yabusame-japans-samurai-ladys-1679266 fernsehserien.de]\n"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        141.20586111111112,
+        40.61269444444444
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "marker-color": "#ffffff",
+      "marker-size": "small",
+      "title": "Das weiße Gold von Noirmoutier",
+      "description": "\n(Staffel 25 Nr. 21, Fortlaufende Nr. 627; frz. Titel “L’or blanc de Noirmoutier”; Erstausstrahlung: 02.12.2023)\n\nDie Insel Noirmoutier liegt an der Atlantikküste, im Golf von Biskaya. Mit ihren langen, feinen Sandstränden, ihren Pinienwäldern und den weißen Häusern ist sie als kleines Paradies beliebt, weit weg vom Trubel des Großstadtlebens. Noirmoutier steht aber auch für das weltweit berühmte Salz, das hier in den Salzgärten noch fast mittelalterlich geerntet wird.\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=ILwQDgLDi-c youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/629-das-weisse-gold-von-noirmoutier-1681709 fernsehserien.de], [https://www.imdb.com/title/tt30798859 imdb.com]\n"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.2433333333333,
+        47.001388888889
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "marker-color": "#ff0000",
+      "marker-size": "small",
+      "title": "Neufundland - Bleiben oder gehen?",
+      "description": "\n(Staffel 25 Nr. 22, Fortlaufende Nr. 628; Erstausstrahlung: 16.12.2023)\n\nEin Fischerdorf an der abgelegenen Südküste Neufundlands steht vor der letzten großen Entscheidung: Seine 75 Bewohner müssen wählen, ob sie bleiben oder alle zusammen ihre Heimat für immer verlassen sollen. Die Provinzverwaltung unterstützt die Umsiedlung mit bis zu 270.000 Dollar pro Haushalt, denn die Aufrechterhaltung der öffentlichen Infrastruktur wäre noch teurer …\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=cIyBqf4S0io youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/630-neufundland-bleiben-oder-gehen-1692534 fernsehserien.de], [https://www.imdb.com/title/tt30631392 imdb.com]\n"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -55.91666667,
+        47.6
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "marker-color": "#ffffff",
+      "marker-size": "small",
+      "title": "Paris, Hauptstadt der Bienen",
+      "description": "\n(Staffel 25 Nr. 23, Fortlaufende Nr. 629; frz. Titel “Paris, un jardin pour les abeilles”; Erstausstrahlung: 27.12.2023)\n\nParis zieht nicht nur Menschen an, die Stadt ist auch für Honigbienen ein Zuhause. Etwa 2.000 Bienenvölker halten Imker heute auf den Dächern und in den Gärten der französischen Hauptstadt. Kein Wunder, denn historische Gärten und baumreiche Alleen haben eine enorme Anzahl unterschiedlicher Pflanzen zu bieten. Das Ziel vieler Imker: Sie wollen die so wichtige Honigbiene erhalten.\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=eCPoZupaFWE youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/631-paris-hauptstadt-der-bienen-1692535 fernsehserien.de], [https://www.imdb.com/title/tt30631392 imdb.com]\n"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.39056,
+        48.89306
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "marker-color": "#ffff00",
+      "marker-size": "small",
+      "title": "Vietnam: Brücken für bedrohte Affen",
+      "description": "\n(Staffel 26 Nr. 1, Fortlaufende Nr. 630; frz. Titel “Vietnam, des ponts pour sauver les singes”; Erstausstrahlung: 06.01.2024)\n\nDie Rotschenkligen Kleideraffen gelten als die schönsten Primaten der Welt. Doch Wilderei und illegaler Tierhandel haben fast zu ihrer Ausrottung geführt. Nur wenige Tiere konnten in Vietnam überleben. Engagierte Tierschutzaktivist*innen versuchen nun zu retten, was noch zu retten ist.\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=uy5BR-8L4N8 youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/632-vietnam-bruecken-bauen-fuer-bedrohte-affen-1692536 fernsehserien.de]\n"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        108.277,
+        16.116
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "marker-color": "#ffffff",
+      "marker-size": "small",
+      "title": "Connemara: Wie das Land, so das Pony",
+      "description": "\n(Staffel 26 Nr. 2, Fortlaufende Nr. 631; frz. Titel “Le poney Connemara, une légende irlandaise”; Erstausstrahlung: 07.01.2024)\n\nDas Connemara-Pony ist in Irland seit Generationen Kult. Voller Leidenschaft werden rund um diese robuste Pony-Rasse eigene Shows und Reitwettbewerbe abgehalten. Hier treten die edelsten Tiere gegeneinander an – Highlight der Shows ist die in Clifden, der Hauptstadt von Connemara. In diesem Jahr feiert der austragende Verband sein hundertjähriges Jubiläum.\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=Vtlv_-OBj5M youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/633-connemara-wie-das-land-so-das-pony-1692537 fernsehserien.de], [https://www.imdb.com/title/tt30730384 imdb.com]\n"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -9.938003,
+        53.525233
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
       "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Normandie: Flache Wasser, reiche Natur",
@@ -9018,6 +9210,22 @@
       "coordinates": [
         72.95,
         5.1333333333333
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "marker-color": "#ff0000",
+      "marker-size": "small",
+      "title": "Brasiliens Regenwald, zurück in die Zukunft",
+      "description": "\n(Staffel 26 Nr. 7, Fortlaufende Nr. 636; frz. Titel “Amazonie, nourrir le lien à la terre”; Erstausstrahlung: 24.02.2024)\n\nDie Amazonasregion ist Heimat Tausender Tier- und Pflanzenarten – und mehrerer indigener Völker. Enttäuscht vom modernen Leben, besinnen sie sich auf ihre alte Lebensweise, bauen Maniok und Kakao an und forsten gerodete Flächen mit einheimischen Pflanzenarten auf. Ist die alte Lebensweise ein Weg, um dem drohenden Verschwinden des Regenwaldes entgegenzuwirken?\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=Y3VexYvH_oY youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/639-brasiliens-regenwald-zurueck-in-die-zukunft-1697573 fernsehserien.de], [https://www.imdb.com/title/tt31459205 imdb.com]\n"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -54.715691,
+        -2.409415
       ]
     }
   },

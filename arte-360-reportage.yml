@@ -34022,6 +34022,10 @@ seasons:
         episode_no: 14
         title: Georgien - Welcome Teacher!
         alias: Georgien – Die Dorfschule im Kaukasus
+        location_wikidata: Q1011028
+        coordinates:
+        - 42.917797
+        - 43.015672
         description: 'Lana Dvalishvili hat sich vor Jahren für ein Leben im
             Bergdorf Kala entschieden. Als die Englischlehrerin damals dem
             Aufruf des Programms des georgischen Bildungsministeriums folgte,
@@ -34063,6 +34067,11 @@ seasons:
         season_no: 25
         episode_no: 15
         title: Island - Seltsame Schätze aus dem Meer
+        continent: Europa
+        location_wikidata: Q107398
+        coordinates:
+        - 64.316666666667
+        - -22.1
         description: 'Im Fischerdorf Akranes an der isländischen Westküste
             bereitet sich der alte Fischer Eymar mit seiner kleinen Crew darauf
             vor, in See zu stechen. Der Fischfang unterliegt hier strengen
@@ -34104,6 +34113,11 @@ seasons:
         season_no: 25
         episode_no: 16
         title: Argentinien - Die Winzerinnen von Mendoza
+        continent: Amerika
+        location_wikidata: Q44797
+        coordinates:
+        - -32.89861111111111
+        - -68.8463888888889
         description: 'Die Gruppe Mujeres de la Viña („die Frauen vom Weinberg“)
             ist einer der Gründe, für den es sich zu leben lohnt, sagt Federica
             Agüero nicht ohne Stolz. Die alleinerziehende Mutter hatte einst
@@ -34149,6 +34163,10 @@ seasons:
         season_no: 25
         episode_no: 17
         title: 'Australien: Mission Schnabeltier'
+        location_wikidata: Q113523
+        coordinates:
+        - -34.13166666666667
+        - 151.0511111
         description: Gilad Bino hat sein Leben dem Naturschutz und speziell
             den Schnabeltieren verschrieben. Denn diese Tiere verkörpern für
             ihn die Einzigartigkeit des australischen Kontinents, der gerade
@@ -34191,6 +34209,10 @@ seasons:
         episode_no: 18
         title: 'Färöer: Zu Hause im Nordatlantik'
         title_fr: Les îles Féroé, un air de bout du monde
+        location_wikidata: Q10704
+        coordinates:
+        - 62
+        - -6.7833333333333
         description: 'Für die Wikinger, die die Färöer bevölkerten, war der
             Bootsverkehr zwischen den 18 Inseln überlebenswichtig. Heute ist
             Rudern Nationalsport und jeden Sommer Ende Juli finden die nationalen
@@ -34243,6 +34265,11 @@ seasons:
         season_no: 25
         episode_no: 19
         title: Werft unter Palmen - Indonesiens Pinisis
+        continent: Asien
+        location_wikidata: Q3812
+        coordinates:
+        - -2
+        - 121
         description: 'Syarifuddin hat es wieder einmal geschafft – eines seiner
             Schiffe ist fertig gebaut und soll die kleine Werft am Strand
             von Sulawesi verlassen. Monatelang hat der Bootsbauer mit seinen
@@ -34288,6 +34315,11 @@ seasons:
         season_no: 25
         episode_no: 20
         title: Yabusame - Japans Samurai-Ladys
+        continent: Asien
+        location_wikidata: Q646818
+        coordinates:
+        - 40.61269444444444
+        - 141.20586111111112
         description: 'Ayuko Kamimura gehört zu den besten Yabusame-Schützen
             der Welt. Seit ihr Vater vor 22 Jahren Yabusame als Sport neu
             erfunden hat, ist die 51-Jährige dabei. Ayuko, von allen Amy genannt,
@@ -34336,6 +34368,11 @@ seasons:
         episode_no: 21
         title: Das weiße Gold von Noirmoutier
         title_fr: L’or blanc de Noirmoutier
+        continent: Europa
+        location_wikidata: Q656458
+        coordinates:
+        - 47.001388888889
+        - -2.2433333333333
         description: 'Es ist Frühlingsanfang, noch liegt die Insel in winterlichem
             Grau, doch ein junger Mann arbeitet ganz alleine mit einem Holzschieber
             an seinen riesigen Salzbecken: Arnaud Jégat ist einer von 150
@@ -34378,6 +34415,11 @@ seasons:
         season_no: 25
         episode_no: 22
         title: Neufundland - Bleiben oder gehen?
+        continent: Amerika
+        location_wikidata: Q5527680
+        coordinates:
+        - 47.6
+        - -55.91666667
         description: 'Neufundland kennt eine lange Geschichte der Umsiedlungen.
             Beginnend in den 50er Jahren zwang die Regierung die entlegen
             lebenden Menschen, häufig kanadische Ureinwohner, an zentraler
@@ -34420,6 +34462,11 @@ seasons:
         episode_no: 23
         title: Paris, Hauptstadt der Bienen
         title_fr: Paris, un jardin pour les abeilles
+        continent: Europa
+        location_wikidata: Q246448
+        coordinates:
+        - 48.89306
+        - 2.39056
         description: 'In Paris fällt es den fleißigen Insekten leicht, Nahrung
             zu finden, auch dank der über das ganze Jahr verteilten Blütezeiten.
             Die abwechslungsreiche Stadtvegetation bietet den Bienen eine
@@ -34471,6 +34518,11 @@ seasons:
         title: 'Vietnam: Brücken für bedrohte Affen'
         title_fr: Vietnam, des ponts pour sauver les singes
         alias: Vietnam, Brücken bauen für bedrohte Affen
+        continent: Asien
+        location_wikidata: Q7560609
+        coordinates:
+        - 16.116
+        - 108.277
         description: 'Die Halbinsel Son Tra an der Küste Vietnams ist für
             die Rotschenkligen Kleideraffen der wichtigste Rückzugsort. Trotz
             der Nähe zur Millionenstadt Da Nang ist der Dschungel hier noch
@@ -34521,6 +34573,11 @@ seasons:
         episode_no: 2
         title: 'Connemara: Wie das Land, so das Pony'
         title_fr: Le poney Connemara, une légende irlandaise
+        continent: Europa
+        location_wikidata: Q952483
+        coordinates:
+        - 53.525233
+        - -9.938003
         description: 'Connemara liegt am Atlantik im äußersten Westen Irlands.
             Es ist ein wilder Landstrich, mit windgepeitschten Halbinseln,
             felsigen Mooren und schroffen Bergen. Diese raue Natur ist das
@@ -34759,6 +34816,11 @@ seasons:
         episode_no: 7
         title: Brasiliens Regenwald, zurück in die Zukunft
         title_fr: Amazonie, nourrir le lien à la terre
+        continent: Amerika
+        location_wikidata: Q752674
+        coordinates:
+        - -2.409415
+        - -54.715691
         description: Paulo da Silva Bererra ist unzufrieden. Seit vielen Jahren
             kommen Fremde in sein kleines Dorf Açaical am Rande des brasilianischen
             Regenwaldes. Wie seine Nachbarn gehört auch Paulo zum Volk der
