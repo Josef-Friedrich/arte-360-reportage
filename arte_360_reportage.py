@@ -7,31 +7,31 @@ from __future__ import annotations
 
 import abc
 import argparse
-from dataclasses import dataclass
 import difflib
-import operator
 import json
+import operator
 import pathlib
 import re
 import typing
+from dataclasses import dataclass
 from datetime import date
 
 import bs4
 import requests
 import termcolor
 import yaml
-from wikidata.globecoordinate import GlobeCoordinate
-from wikidata.client import Client as WikidataClient
 from googleapiclient.discovery import build as build_google_api  # type: ignore
+from wikidata.client import Client as WikidataClient
+from wikidata.globecoordinate import GlobeCoordinate
 
 if typing.TYPE_CHECKING:
     from googleapiclient._apis.youtube.v3.resources import (  # type: ignore
         PlaylistItemListResponse,
-        VideoListResponse,
-        YouTubeResource,
         Video,
         VideoContentDetails,
+        VideoListResponse,
         VideoSnippet,
+        YouTubeResource,
     )
 
 EXPORT_FILENAME = "arte-360-reportage"
@@ -143,8 +143,10 @@ class Template(abc.ABC):
         return separator.join(items)
 
     @staticmethod
-    def paragraph(text: str) -> str:
-        return f"\n{text}\n"
+    def paragraph(text: str | None) -> str | None:
+        if text:
+            return f"\n{text}\n"
+        return None
 
 
 class Markdown(Template):
@@ -226,8 +228,10 @@ class Html(Template):
         return f"<strong>{caption}:</strong> {text}"
 
     @staticmethod
-    def paragraph(text: str) -> str:
-        return f"<p>{text}</p>\n\n"
+    def paragraph(text: str | None) -> str | None:
+        if text:
+            return f"\n<p>{text}</p>\n"
+        return None
 
 
 class Wiki(Template):
@@ -352,8 +356,10 @@ class Wiki(Template):
         return f"{Wiki.bold(caption + ':')} {text}"
 
     @staticmethod
-    def paragraph(text: str) -> str:
-        return f"\n{text}\n"
+    def paragraph(text: str | None) -> str | None:
+        if text:
+            return f"\n{text}\n"
+        return None
 
 
 ### scraper ###################################################################
@@ -903,6 +909,16 @@ class Episode(DataAccessor):
         return self._get_str_key("continent")
 
     @property
+    def subtitle(self) -> str:
+        output: str = f"Staffel {self.season_no} Nr. {self.episode_no}"
+        output += f", Fortlaufende Nr. {self.overall_no}"
+        if self.title_fr:
+            output += f"; frz. Titel “{self.title_fr}”"
+        if self.air_date_german:
+            output += f"; Erstausstrahlung: {self.air_date_german}"
+        return output
+
+    @property
     def continent_emoji(self) -> str:
         if not self.continent:
             return ""
@@ -1000,22 +1016,26 @@ class Episode(DataAccessor):
         return self.director.split(", ")
 
     @property
-    def air_date(self) -> str:
+    def air_date(self) -> str | None:
         if "air_date" not in self.data or not self.data["air_date"]:
-            return ""
+            return None
         return self.data["air_date"]
 
     @property
-    def air_date_date(self) -> None | date:
+    def air_date_date(self) -> date | None:
         if "air_date" in self.data and self.data["air_date"]:
             return date.fromisoformat(self.data["air_date"])
         return None
 
-    def format_air_date(self, format: str) -> str:
+    def format_air_date(self, format: str) -> str | None:
         d = self.air_date_date
-        if not d:
-            return ""
-        return d.strftime(format)
+        if d:
+            return d.strftime(format)
+        return None
+
+    @property
+    def air_date_german(self) -> str | None:
+        return self.format_air_date("%d.%m.%Y")
 
     @property
     def duration(self) -> int | None:
@@ -1071,14 +1091,17 @@ class Episode(DataAccessor):
         id: int = self.thetvdb_episode_id
         return f"{base_url}/episodes/{id}"
 
-    def link_thetvdb(self, tpl: Template) -> str | None:
+    def link_thetvdb(self, tpl: Template, short: bool = False) -> str | None:
         if self.thetvdb_season_episode and self.thetvdb_url:
-            return (
-                "Staffel/Episode "
-                + tpl.link(self.thetvdb_season_episode, self.thetvdb_url)
-                + " Episoden-ID "
-                + tpl.link(self.thetvdb_episode_id, self.thetvdb_url)
-            )
+            if not short:
+                return (
+                    "Staffel/Episode "
+                    + tpl.link(self.thetvdb_season_episode, self.thetvdb_url)
+                    + " Episoden-ID "
+                    + tpl.link(self.thetvdb_episode_id, self.thetvdb_url)
+                )
+            else:
+                return tpl.link("thetvdb.com", self.thetvdb_url)
         return None
 
     @property
@@ -1094,9 +1117,12 @@ class Episode(DataAccessor):
             return None
         return f"https://www.imdb.com/title/{self.imdb_episode_id}"
 
-    def link_imdb(self, tpl: Template) -> str | None:
+    def link_imdb(self, tpl: Template, short: bool = False) -> str | None:
         if self.imdb_episode_id and self.imdb_url:
-            return "Titel-ID " + tpl.link(self.imdb_episode_id, self.imdb_url)
+            if not short:
+                return "Titel-ID " + tpl.link(self.imdb_episode_id, self.imdb_url)
+            else:
+                return tpl.link("imdb.com", self.imdb_url)
         return None
 
     @property
@@ -1125,14 +1151,17 @@ class Episode(DataAccessor):
         slug: str = self.fernsehserien_episode_slug
         return f"{base_url}/folgen/{slug}"
 
-    def link_fernsehserien(self, tpl: Template) -> str | None:
+    def link_fernsehserien(self, tpl: Template, short: bool = False) -> str | None:
         if self.fernsehserien_url and self.fernsehserien_episode_no:
-            return (
-                "Folge "
-                + tpl.link(self.fernsehserien_episode_no, self.fernsehserien_url)
-                + " Folgen-ID "
-                + tpl.link(self.fernsehserien_episode_id, self.fernsehserien_url)
-            )
+            if not short:
+                return (
+                    "Folge "
+                    + tpl.link(self.fernsehserien_episode_no, self.fernsehserien_url)
+                    + " Folgen-ID "
+                    + tpl.link(self.fernsehserien_episode_id, self.fernsehserien_url)
+                )
+            else:
+                return tpl.link("fernsehserien.de", self.fernsehserien_url)
         return None
 
     @property
@@ -1148,9 +1177,12 @@ class Episode(DataAccessor):
         video_id: str = self.data["youtube_video_id"]
         return f"https://www.youtube.com/watch?v={video_id}"
 
-    def link_youtube(self, tpl: Template) -> str | None:
+    def link_youtube(self, tpl: Template, short: bool = False) -> str | None:
         if self.youtube_video_id and self.youtube_url:
-            return "Video-ID " + tpl.link(self.youtube_video_id, self.youtube_url)
+            if not short:
+                return "Video-ID " + tpl.link(self.youtube_video_id, self.youtube_url)
+            else:
+                return tpl.link("youtube.com", self.youtube_url)
         return None
 
     # def __get_season_or_episode(self, episode: bool = True) -> int | None:
@@ -1172,27 +1204,35 @@ class Episode(DataAccessor):
     def generate_map_popup(
         self, tpl: Template, include_title: bool = True, full: bool = False
     ) -> str:
-        output = ""
+        output: list[str | None] = []
         """https://leafletjs.com/reference.html#popup"""
 
         if include_title:
-            output += f"<h2>{self.title}</h2>"
+            output.append(tpl.heading(self.title, 2))
+
+        output.append(tpl.paragraph(f"({self.subtitle})"))
 
         if self.summary:
-            output += tpl.paragraph(self.summary)
+            output.append(tpl.paragraph(self.summary))
 
-        if full and self.description:
-            output += tpl.paragraph(self.description)
+        if full:
+            output.append(tpl.paragraph(self.description))
 
-        output += tpl.paragraph(
-            tpl.join(
-                " ",
-                tpl.caption("fernsehserien.de", self.link_fernsehserien(tpl)),
-                tpl.caption("youtube", self.link_youtube(tpl)),
-                tpl.caption("imdb", self.link_imdb(tpl)),
+        output.append(
+            tpl.paragraph(
+                tpl.caption(
+                    "Referenzen",
+                    tpl.join(
+                        ", ",
+                        self.link_youtube(tpl, short=True),
+                        self.link_fernsehserien(tpl, short=True),
+                        self.link_imdb(tpl, short=True),
+                        self.link_thetvdb(tpl, short=True),
+                    ),
+                )
             )
         )
-        return output
+        return tpl.join("", *output)
 
     def export_data(self) -> EpisodeData:  # type: ignore
         return super().export_data(EpisodeData.__annotations__)  # type: ignore
@@ -1741,7 +1781,11 @@ def generate_readme() -> None:
 
     def assemble_row(episode: Episode) -> list[str]:
         row: list[str] = []
-        row.append(episode.format_air_date("%a %Y-%m-%d"))
+        date = episode.format_air_date("%a %Y-%m-%d")
+        if not date:
+            row.append("-")
+        else:
+            row.append(date)
         row.append(format_title(episode))
         row.append(format_links(episode))
 

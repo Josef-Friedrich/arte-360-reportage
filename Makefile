@@ -23,6 +23,7 @@ kartographer:
 
 leaflet:
 	$(SCRIPT) --leaflet
+	xdg-open karte.html
 
 readme:
 	$(SCRIPT) --readme
