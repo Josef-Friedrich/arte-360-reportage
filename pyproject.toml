@@ -30,6 +30,5 @@ types-pyyaml = "^6"
 requires = ["poetry>=1.4.2"]
 build-backend = "poetry.masonry.api"
 
-
 [tool.poetry.scripts]
 "arte-360-reportage.py" = "arte_360_reportage:main"

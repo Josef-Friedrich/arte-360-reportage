@@ -8787,7 +8787,7 @@
       "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Maine - Hummer oder Wale?",
-      "description": "\nDie traditionelle Hummerfischerei in Maine ist bedroht, da sich der Golf von Maine erwärmt und die Hummer weiter gen Norden ziehen, während Wale durch die Hummerfallen gefährdet werden. Fischer stehen vor der Entscheidung, aufzuhören oder alternative Methoden und Einnahmequellen zu finden, während Wissenschaftler nach Lösungen suchen, um sowohl die Wale zu schützen als auch die Hummerfischerei fortzusetzen.\n\n'''fernsehserien.de:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/611-maine-hummer-oder-wale-1613685 611] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/611-maine-hummer-oder-wale-1613685 1613685] '''youtube:''' Video-ID [https://www.youtube.com/watch?v=S_ZPCN7EYXY S_ZPCN7EYXY] '''imdb:''' Titel-ID [https://www.imdb.com/title/tt26472394 tt26472394]\n"
+      "description": "\nDie traditionelle Hummerfischerei in Maine ist bedroht, da sich der Golf von Maine erwärmt und die Hummer weiter gen Norden ziehen, während Wale durch die Hummerfallen gefährdet werden. Fischer stehen vor der Entscheidung, aufzuhören oder alternative Methoden und Einnahmequellen zu finden, während Wissenschaftler nach Lösungen suchen, um sowohl die Wale zu schützen als auch die Hummerfischerei fortzusetzen.\n\n'''fernsehserien.de:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/611-maine-hummer-oder-wale-1613685 611] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/611-maine-hummer-oder-wale-1613685 1613685] '''youtube:''' Video-ID [https://www.youtube.com/watch?v=S_ZPCN7EYXY S_ZPCN7EYXY] '''imdb:''' Titel-ID [https://www.imdb.com/title/tt26898737 tt26898737]\n"
     },
     "geometry": {
       "type": "Point",
@@ -8883,7 +8883,7 @@
       "marker-color": "#ffff00",
       "marker-size": "small",
       "title": "Leben mit dem Tod - Ahnenkult auf Sulawesi",
-      "description": "\nIsac und seine Familie auf Sulawesi sind seit Wochen damit beschäftigt, ein provisorisches Dorf für die Bestattungsfeierlichkeiten seiner Mutter zu bauen, doch aufgrund der immensen Kosten können sie erst jetzt, 21 Jahre nach ihrem Tod, die erforderliche Summe aufbringen. In der Zwischenzeit hat eine andere Familie in der Nähe alle Hürden überwunden und ihre Verstorbene in einer aufwendigen Zeremonie ins Jenseits geleitet.\n\n'''fernsehserien.de:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/617-leben-mit-dem-tod-ahnenkult-auf-sulawesi-1634635 617] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/617-leben-mit-dem-tod-ahnenkult-auf-sulawesi-1634635 1634635] '''youtube:''' Video-ID [https://www.youtube.com/watch?v=tZ-4ILBzxEU tZ-4ILBzxEU]\n"
+      "description": "\nIsac und seine Familie auf Sulawesi sind seit Wochen damit beschäftigt, ein provisorisches Dorf für die Bestattungsfeierlichkeiten seiner Mutter zu bauen, doch aufgrund der immensen Kosten können sie erst jetzt, 21 Jahre nach ihrem Tod, die erforderliche Summe aufbringen. In der Zwischenzeit hat eine andere Familie in der Nähe alle Hürden überwunden und ihre Verstorbene in einer aufwendigen Zeremonie ins Jenseits geleitet.\n\n'''fernsehserien.de:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/617-leben-mit-dem-tod-ahnenkult-auf-sulawesi-1634635 617] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/617-leben-mit-dem-tod-ahnenkult-auf-sulawesi-1634635 1634635] '''youtube:''' Video-ID [https://www.youtube.com/watch?v=tZ-4ILBzxEU tZ-4ILBzxEU] '''imdb:''' Titel-ID [https://www.imdb.com/title/tt27704539 tt27704539]\n"
     },
     "geometry": {
       "type": "Point",
@@ -8899,7 +8899,7 @@
       "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Die Waschbären von Berlin",
-      "description": "\nDer Verein „Hauptsache Waschbär“ in Berlin setzt sich für den Schutz und die Regulierung der Waschbärenpopulation ein, indem er wild lebende Waschbären einfängt, kastriert und wieder in die Natur entlässt. Ziel ist es, Schäden in menschlichen Siedlungen zu reduzieren und eine friedliche Koexistenz zwischen Mensch und Waschbär zu ermöglichen.\n\n'''fernsehserien.de:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/618-die-waschbaeren-von-berlin-1640104 618] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/618-die-waschbaeren-von-berlin-1640104 1640104] '''youtube:''' Video-ID [https://www.youtube.com/watch?v=dYP_3p6zrEw dYP_3p6zrEw]\n"
+      "description": "\nDer Verein „Hauptsache Waschbär“ in Berlin setzt sich für den Schutz und die Regulierung der Waschbärenpopulation ein, indem er wild lebende Waschbären einfängt, kastriert und wieder in die Natur entlässt. Ziel ist es, Schäden in menschlichen Siedlungen zu reduzieren und eine friedliche Koexistenz zwischen Mensch und Waschbär zu ermöglichen.\n\n'''fernsehserien.de:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/618-die-waschbaeren-von-berlin-1640104 618] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/618-die-waschbaeren-von-berlin-1640104 1640104] '''youtube:''' Video-ID [https://www.youtube.com/watch?v=dYP_3p6zrEw dYP_3p6zrEw] '''imdb:''' Titel-ID [https://www.imdb.com/title/tt29964475 tt29964475]\n"
     },
     "geometry": {
       "type": "Point",
@@ -8915,7 +8915,7 @@
       "marker-color": "#ffff00",
       "marker-size": "small",
       "title": "Rapa Nui - Gladiatoren der Südsee",
-      "description": "\nWährend der Coronapandemie erlebten die Rapanui zwei Jahre der Abschottung, in denen sie sich auf alte Selbstversorgungsmethoden besannen und erfolgreich Obst und Gemüse anbauten. Das Tapati-Fest wird wieder in vollem Umfang gefeiert, inklusive der Krönung einer neuen Festkönigin, während die amtierende Königin sich auf den Tau'a-Triathlon konzentriert.\n\n'''fernsehserien.de:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/619-rapa-nui-gladiatoren-der-suedsee-1645452 619] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/619-rapa-nui-gladiatoren-der-suedsee-1645452 1645452] '''youtube:''' Video-ID [https://www.youtube.com/watch?v=G9a4wBoUGtg G9a4wBoUGtg]\n"
+      "description": "\nWährend der Coronapandemie erlebten die Rapanui zwei Jahre der Abschottung, in denen sie sich auf alte Selbstversorgungsmethoden besannen und erfolgreich Obst und Gemüse anbauten. Das Tapati-Fest wird wieder in vollem Umfang gefeiert, inklusive der Krönung einer neuen Festkönigin, während die amtierende Königin sich auf den Tau'a-Triathlon konzentriert.\n\n'''fernsehserien.de:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/619-rapa-nui-gladiatoren-der-suedsee-1645452 619] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/619-rapa-nui-gladiatoren-der-suedsee-1645452 1645452] '''youtube:''' Video-ID [https://www.youtube.com/watch?v=G9a4wBoUGtg G9a4wBoUGtg] '''imdb:''' Titel-ID [https://www.imdb.com/title/tt28201824 tt28201824]\n"
     },
     "geometry": {
       "type": "Point",
@@ -8931,7 +8931,7 @@
       "marker-color": "#ffff00",
       "marker-size": "small",
       "title": "Kambodschas schwimmende Dörfer - Umzug am Tonle Sap",
-      "description": "\nDer Wasserstand des Tonle Sap-Sees schwankt um bis zu acht Meter. Während der Trockenzeit im Februar und März zieht sich das Wasser zurück und ermöglicht Renovierungen in den schwimmenden Dörfern, während die Bewohner vom Fischfang und der Landwirtschaft leben.\n\n'''fernsehserien.de:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/620-kambodschas-schwimmende-doerfer-umzug-am-tonle-sap-1646559 620] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/620-kambodschas-schwimmende-doerfer-umzug-am-tonle-sap-1646559 1646559] '''youtube:''' Video-ID [https://www.youtube.com/watch?v=9rm2itnB7M8 9rm2itnB7M8]\n"
+      "description": "\nDer Wasserstand des Tonle Sap-Sees schwankt um bis zu acht Meter. Während der Trockenzeit im Februar und März zieht sich das Wasser zurück und ermöglicht Renovierungen in den schwimmenden Dörfern, während die Bewohner vom Fischfang und der Landwirtschaft leben.\n\n'''fernsehserien.de:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/620-kambodschas-schwimmende-doerfer-umzug-am-tonle-sap-1646559 620] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/620-kambodschas-schwimmende-doerfer-umzug-am-tonle-sap-1646559 1646559] '''youtube:''' Video-ID [https://www.youtube.com/watch?v=9rm2itnB7M8 9rm2itnB7M8] '''imdb:''' Titel-ID [https://www.imdb.com/title/tt29041334 tt29041334]\n"
     },
     "geometry": {
       "type": "Point",
@@ -8963,7 +8963,7 @@
       "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Normandie: Flache Wasser, reiche Natur",
-      "description": "\nDie Sümpfe von Cotentin und Bessin in der Normandie sind ausgedehnte Feuchtgebiete aus Sümpfen und Poldern – eingedeichten, flachen Landzungen. Die Landschaft ist im Winter überschwemmt und im Sommer ausgetrocknet, dazu ein Zufluchtsort für Zugvögel, ein riesiges Reservoir biologischer Vielfalt. Doch das Ökosystem ist durch die Dürren und starken Regenfälle der letzten Jahren geschwächt.\n\n'''fernsehserien.de:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/634-normandie-flache-wasser-reiche-natur-1692538 634] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/634-normandie-flache-wasser-reiche-natur-1692538 1692538] '''youtube:''' Video-ID [https://www.youtube.com/watch?v=fxaXRwjaosk fxaXRwjaosk]\n"
+      "description": "\nDie Sümpfe von Cotentin und Bessin in der Normandie sind ausgedehnte Feuchtgebiete aus Sümpfen und Poldern – eingedeichten, flachen Landzungen. Die Landschaft ist im Winter überschwemmt und im Sommer ausgetrocknet, dazu ein Zufluchtsort für Zugvögel, ein riesiges Reservoir biologischer Vielfalt. Doch das Ökosystem ist durch die Dürren und starken Regenfälle der letzten Jahren geschwächt.\n\n'''fernsehserien.de:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/634-normandie-flache-wasser-reiche-natur-1692538 634] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/634-normandie-flache-wasser-reiche-natur-1692538 1692538] '''youtube:''' Video-ID [https://www.youtube.com/watch?v=fxaXRwjaosk fxaXRwjaosk] '''imdb:''' Titel-ID [https://www.imdb.com/title/tt30853211 tt30853211]\n"
     },
     "geometry": {
       "type": "Point",
@@ -8979,7 +8979,7 @@
       "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "Cholitas – Die fliegenden Frauen Boliviens",
-      "description": "\nMit ihren gewagten Sprüngen und Pirouetten brettern sie gegen hartnäckig fortbestehende Klischees. Ihre Tracht soll provozieren und zeigen, dass den Cholitas heute alles offensteht. Dass sie sich dabei ausgerechnet auf Skateboards schwingen, löst Erstaunen aus. Doch die jungen Bolivianerinnen haben diesen Sport mit Bedacht gewählt …\n\n'''fernsehserien.de:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/635-cholitas-die-fliegenden-frauen-boliviens-1692539 635] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/635-cholitas-die-fliegenden-frauen-boliviens-1692539 1692539] '''youtube:''' Video-ID [https://www.youtube.com/watch?v=cGbP73aIii0 cGbP73aIii0]\n"
+      "description": "\nMit ihren gewagten Sprüngen und Pirouetten brettern sie gegen hartnäckig fortbestehende Klischees. Ihre Tracht soll provozieren und zeigen, dass den Cholitas heute alles offensteht. Dass sie sich dabei ausgerechnet auf Skateboards schwingen, löst Erstaunen aus. Doch die jungen Bolivianerinnen haben diesen Sport mit Bedacht gewählt …\n\n'''fernsehserien.de:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/635-cholitas-die-fliegenden-frauen-boliviens-1692539 635] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/635-cholitas-die-fliegenden-frauen-boliviens-1692539 1692539] '''youtube:''' Video-ID [https://www.youtube.com/watch?v=cGbP73aIii0 cGbP73aIii0] '''imdb:''' Titel-ID [https://www.imdb.com/title/tt31067495 tt31067495]\n"
     },
     "geometry": {
       "type": "Point",
@@ -8995,7 +8995,7 @@
       "marker-color": "#ff0000",
       "marker-size": "small",
       "title": "New York, die Foodtruck-Könige von Astoria",
-      "description": "\nFoodtrucks haben New York im Sturm erobert. Vor allem den Stadtteil Astoria in Queens, denn mehr noch als in anderen Bezirken New Yorks lebt hier bis heute die Idee vom Einwanderungsland Amerika. Stolz behaupten die Bewohner, dass nirgendwo sonst so viele Menschen verschiedener Kulturen und Sprachen eng beieinander leben. Und mit ihnen Speisen und Rezepte aus aller Welt.\n\n'''fernsehserien.de:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/636-new-york-die-foodtruck-koenige-von-astoria-1692540 636] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/636-new-york-die-foodtruck-koenige-von-astoria-1692540 1692540] '''youtube:''' Video-ID [https://www.youtube.com/watch?v=mPcAr-50yTs mPcAr-50yTs]\n"
+      "description": "\nFoodtrucks haben New York im Sturm erobert. Vor allem den Stadtteil Astoria in Queens, denn mehr noch als in anderen Bezirken New Yorks lebt hier bis heute die Idee vom Einwanderungsland Amerika. Stolz behaupten die Bewohner, dass nirgendwo sonst so viele Menschen verschiedener Kulturen und Sprachen eng beieinander leben. Und mit ihnen Speisen und Rezepte aus aller Welt.\n\n'''fernsehserien.de:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/636-new-york-die-foodtruck-koenige-von-astoria-1692540 636] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/636-new-york-die-foodtruck-koenige-von-astoria-1692540 1692540] '''youtube:''' Video-ID [https://www.youtube.com/watch?v=mPcAr-50yTs mPcAr-50yTs] '''imdb:''' Titel-ID [https://www.imdb.com/title/tt31067495 tt31067495]\n"
     },
     "geometry": {
       "type": "Point",
@@ -9011,7 +9011,7 @@
       "marker-color": "#cccccc",
       "marker-size": "small",
       "title": "Malediven, im Rhythmus der Riffmantas",
-      "description": "\nDie Malediven – der Archipel im Indischen Ozean ist nicht nur ein Sehnsuchtsort für Urlauber, sondern vor allem gibt es hier einen weltweit einzigartigen Ort, an dem man den gigantischen Mantarochen in großer Zahl hautnah begegnen kann: die Hanifaru-Bucht im Baa-Atoll. Die Riesenrochen sind hier streng geschützt.\n\n'''fernsehserien.de:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/638-malediven-im-rhythmus-der-riffmantas-1696890 638] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/638-malediven-im-rhythmus-der-riffmantas-1696890 1696890] '''youtube:''' Video-ID [https://www.youtube.com/watch?v=_I9U3FCyFEE _I9U3FCyFEE]\n"
+      "description": "\nDie Malediven – der Archipel im Indischen Ozean ist nicht nur ein Sehnsuchtsort für Urlauber, sondern vor allem gibt es hier einen weltweit einzigartigen Ort, an dem man den gigantischen Mantarochen in großer Zahl hautnah begegnen kann: die Hanifaru-Bucht im Baa-Atoll. Die Riesenrochen sind hier streng geschützt.\n\n'''fernsehserien.de:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/638-malediven-im-rhythmus-der-riffmantas-1696890 638] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/638-malediven-im-rhythmus-der-riffmantas-1696890 1696890] '''youtube:''' Video-ID [https://www.youtube.com/watch?v=_I9U3FCyFEE _I9U3FCyFEE] '''imdb:''' Titel-ID [https://www.imdb.com/title/tt31356155 tt31356155]\n"
     },
     "geometry": {
       "type": "Point",
@@ -9027,7 +9027,7 @@
       "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Das teuerste Stroh der Welt",
-      "description": "\nRoggenstroh galt in Frankreich lange Zeit als Baumaterial armer Leute. Mit ihm wurden Möbel bespannt oder Dächer gedeckt. Als die maschinelle Massenproduktion neue, dauerhaftere Materialien hervorbrachte, geriet das Stroh in Vergessenheit. Inzwischen wird es von engagierten Handwerkern wiederentdeckt und erlebt eine Renaissance – als teure Einlegearbeit oder prunkvolle Dekoration.\n\n'''fernsehserien.de:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/641-das-teuerste-stroh-der-welt-1702644 641] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/641-das-teuerste-stroh-der-welt-1702644 1702644] '''youtube:''' Video-ID [https://www.youtube.com/watch?v=UZfngvSQveI UZfngvSQveI]\n"
+      "description": "\nRoggenstroh galt in Frankreich lange Zeit als Baumaterial armer Leute. Mit ihm wurden Möbel bespannt oder Dächer gedeckt. Als die maschinelle Massenproduktion neue, dauerhaftere Materialien hervorbrachte, geriet das Stroh in Vergessenheit. Inzwischen wird es von engagierten Handwerkern wiederentdeckt und erlebt eine Renaissance – als teure Einlegearbeit oder prunkvolle Dekoration.\n\n'''fernsehserien.de:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/641-das-teuerste-stroh-der-welt-1702644 641] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/641-das-teuerste-stroh-der-welt-1702644 1702644] '''youtube:''' Video-ID [https://www.youtube.com/watch?v=UZfngvSQveI UZfngvSQveI] '''imdb:''' Titel-ID [https://www.imdb.com/title/tt31789749 tt31789749]\n"
     },
     "geometry": {
       "type": "Point",
@@ -9043,7 +9043,7 @@
       "marker-color": "#ffff00",
       "marker-size": "small",
       "title": "Hati Bondhu, die Elefantenschützer von Assam",
-      "description": "\n'''fernsehserien.de:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/642-hati-bondhu-die-elefantenschuetzer-von-assam-1710832 642] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/642-hati-bondhu-die-elefantenschuetzer-von-assam-1710832 1710832] '''youtube:''' Video-ID [https://www.youtube.com/watch?v=SALlndp7hAA SALlndp7hAA]\n"
+      "description": "\n'''fernsehserien.de:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/642-hati-bondhu-die-elefantenschuetzer-von-assam-1710832 642] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/642-hati-bondhu-die-elefantenschuetzer-von-assam-1710832 1710832] '''youtube:''' Video-ID [https://www.youtube.com/watch?v=SALlndp7hAA SALlndp7hAA] '''imdb:''' Titel-ID [https://www.imdb.com/title/tt32165577 tt32165577]\n"
     },
     "geometry": {
       "type": "Point",
@@ -9059,7 +9059,7 @@
       "marker-color": "#ffffff",
       "marker-size": "small",
       "title": "Piemont - Mit Mulis über Stock und Stein",
-      "description": "\nEs gibt ihn noch, den Beruf des Säumers: In den Seealpen, im italienischen Piemont, liegt auf 2.300 Meter Höhe die Schutzhütte Morelli Buzzi. Drei Monate im Jahr muss der Betreiber der Hütte Wanderern Kost und Logis anbieten. Doch Wege und Straßen gibt es hier keine. Da kommen Luciano Ellena und seine Mulis ins Spiel. Er ist der letzte Säumer und versorgt die Hütte mit Lebensmitteln.\n\n'''fernsehserien.de:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/643-piemont-mit-mulis-ueber-stock-und-stein-1721175 643] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/643-piemont-mit-mulis-ueber-stock-und-stein-1721175 1721175] '''youtube:''' Video-ID [https://www.youtube.com/watch?v=9lSM-soPWHo 9lSM-soPWHo]\n"
+      "description": "\nEs gibt ihn noch, den Beruf des Säumers: In den Seealpen, im italienischen Piemont, liegt auf 2.300 Meter Höhe die Schutzhütte Morelli Buzzi. Drei Monate im Jahr muss der Betreiber der Hütte Wanderern Kost und Logis anbieten. Doch Wege und Straßen gibt es hier keine. Da kommen Luciano Ellena und seine Mulis ins Spiel. Er ist der letzte Säumer und versorgt die Hütte mit Lebensmitteln.\n\n'''fernsehserien.de:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/643-piemont-mit-mulis-ueber-stock-und-stein-1721175 643] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/643-piemont-mit-mulis-ueber-stock-und-stein-1721175 1721175] '''youtube:''' Video-ID [https://www.youtube.com/watch?v=9lSM-soPWHo 9lSM-soPWHo] '''imdb:''' Titel-ID [https://www.imdb.com/title/tt32059594 tt32059594]\n"
     },
     "geometry": {
       "type": "Point",
