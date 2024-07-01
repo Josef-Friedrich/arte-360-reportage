@@ -384,14 +384,11 @@ class YouTube:
         return keys["api_key"]
 
     def __get_youtube_resource(self, key: str) -> YouTubeResource:
-        return typing.cast(
-            YouTubeResource,
-            build_google_api(
-                self.YOUTUBE_API_SERVICE_NAME,
-                self.YOUTUBE_API_VERSION,
-                developerKey=key,
-            ),
-        )
+        return build_google_api(
+            self.YOUTUBE_API_SERVICE_NAME,
+            self.YOUTUBE_API_VERSION,
+            developerKey=key,
+        )  # type: ignore
 
     def __debug(self, dump: typing.Any) -> None:
         if self.debug:
@@ -699,7 +696,7 @@ class Dvd(DataAccessor):
         self,
         data: DvdData,
     ) -> None:
-        self.data = data
+        self.data = typing.cast(dict[str, typing.Any], data)
 
     @property
     def title(self) -> str:
@@ -739,8 +736,8 @@ class Dvd(DataAccessor):
             return self.data["episodes"]
         return None
 
-    def export_data(self) -> DvdData:
-        return typing.cast(DvdData, super().export_data(DvdData.__annotations__))
+    def export_data(self) -> DvdData:  # type: ignore
+        return super().export_data(DvdData.__annotations__)  # type: ignore
 
 
 ### episode ###################################################################
@@ -845,7 +842,6 @@ class EpisodeData(typing.TypedDict):
 
 
 class Episode(DataAccessor):
-    data: EpisodeData
     tv_show: TvShowData
 
     def __init__(
@@ -856,7 +852,7 @@ class Episode(DataAccessor):
         season_no: int,
         episode_no: int,
     ) -> None:
-        self.data = data
+        self.data = typing.cast(dict[str, typing.Any], data)
         self.tv_show = tv_show
         self.overall_no = overall_no
         self.season_no = season_no
@@ -1048,7 +1044,7 @@ class Episode(DataAccessor):
     @property
     def coordinates(self) -> list[float] | None:
         if "coordinates" not in self.data:
-            return
+            return None
         return self.data["coordinates"]
 
     @coordinates.setter
@@ -1058,13 +1054,13 @@ class Episode(DataAccessor):
     @property
     def thetvdb_season_episode(self) -> str | None:
         if "thetvdb_season_episode" not in self.data:
-            return
+            return None
         return self.data["thetvdb_season_episode"]
 
     @property
     def thetvdb_episode_id(self) -> int | None:
         if "thetvdb_episode_id" not in self.data:
-            return
+            return None
         return self.data["thetvdb_episode_id"]
 
     @property
@@ -1090,6 +1086,7 @@ class Episode(DataAccessor):
         "For example: ``tt10007904``"
         if "imdb_episode_id" in self.data:
             return self.data["imdb_episode_id"]
+        return None
 
     @property
     def imdb_url(self) -> str | None:
@@ -1106,16 +1103,19 @@ class Episode(DataAccessor):
     def fernsehserien_episode_no(self) -> int | None:
         if "fernsehserien_episode_no" in self.data:
             return self.data["fernsehserien_episode_no"]
+        return None
 
     @property
     def fernsehserien_episode_id(self) -> int | None:
         if "fernsehserien_episode_id" in self.data:
             return self.data["fernsehserien_episode_id"]
+        return None
 
     @property
     def fernsehserien_episode_slug(self) -> str | None:
         if "fernsehserien_episode_slug" in self.data:
             return self.data["fernsehserien_episode_slug"]
+        return None
 
     @property
     def fernsehserien_url(self) -> str | None:
@@ -1138,7 +1138,7 @@ class Episode(DataAccessor):
     @property
     def youtube_video_id(self) -> str | None:
         if "youtube_video_id" not in self.data:
-            return
+            return None
         return self.data["youtube_video_id"]
 
     @property
@@ -1194,10 +1194,8 @@ class Episode(DataAccessor):
         )
         return output
 
-    def export_data(self) -> EpisodeData:
-        return typing.cast(
-            EpisodeData, super().export_data(EpisodeData.__annotations__)
-        )
+    def export_data(self) -> EpisodeData:  # type: ignore
+        return super().export_data(EpisodeData.__annotations__)  # type: ignore
 
 
 ### season ####################################################################
