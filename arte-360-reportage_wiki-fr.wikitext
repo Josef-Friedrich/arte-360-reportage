@@ -229,7 +229,7 @@
 | Titre inconnu
 |-
 |15
-|
+|⚫️
 | Titre inconnu
 |-
 |16
@@ -324,7 +324,7 @@
 !width="87%"|Titre français
 |-
 |1
-|
+|⚫️
 | Titre inconnu
 |-
 |2
@@ -380,7 +380,7 @@
 | Titre inconnu
 |-
 |15
-|
+|⚫️
 | Titre inconnu
 |-
 |16
@@ -424,7 +424,7 @@
 | Titre inconnu
 |-
 |26
-|
+|⚫️
 | Titre inconnu
 |-
 |27
@@ -471,7 +471,7 @@
 | Titre inconnu
 |-
 |8
-|
+|⚫️
 | Titre inconnu
 |-
 |9
@@ -527,7 +527,7 @@
 | Titre inconnu
 |-
 |22
-|
+|⚫️
 | Titre inconnu
 |-
 |23
@@ -551,7 +551,7 @@
 | Titre inconnu
 |-
 |28
-|
+|⚫️
 | Titre inconnu
 |-
 |29
@@ -559,11 +559,11 @@
 | Titre inconnu
 |-
 |30
-|
+|⚫️
 | Titre inconnu
 |-
 |31
-|
+|⚫️
 | Titre inconnu
 |}
 
@@ -594,7 +594,7 @@
 | Titre inconnu
 |-
 |6
-|
+|⚫️
 | Titre inconnu
 |-
 |7
@@ -602,7 +602,7 @@
 | Titre inconnu
 |-
 |8
-|
+|⚫️
 | Titre inconnu
 |-
 |9
@@ -736,7 +736,7 @@
 | Les Virtuoses de la Jungle
 |-
 |3
-|
+|⚫️
 | Le Toubib Touareg
 |-
 |4
@@ -847,7 +847,7 @@
 | Les Cerfs aux Bois de Velours
 |-
 |13
-|
+|⚫️
 | Sur les Toits du Caire
 |-
 |14
@@ -871,7 +871,7 @@
 | Le Triangle d'Or et les Enfants de Bouddha
 |-
 |19
-|
+|⚫️
 | Érythrée, l'Âne de la Dernière Chance
 |}
 
@@ -1029,7 +1029,7 @@
 | Pilotes du Nunavik
 |-
 |10
-|
+|⚫️
 | Pêcheurs de Mauritanie
 |-
 |11
@@ -1041,7 +1041,7 @@
 | Nicaragua, la Malédiction des Pêcheurs de Langoustes
 |-
 |13
-|
+|⚫️
 | La Brousse en Vélo-Taxi
 |-
 |14
@@ -1057,7 +1057,7 @@
 | Japon, la Voie du Thé
 |-
 |17
-|
+|⚫️
 | L’Huile d’Argan — L’Or Blanc du Maroc
 |-
 |18
@@ -1318,7 +1318,7 @@
 | Palawan, l’Empire des Perles
 |-
 |8
-|
+|⚫️
 | Maroc, la Face Cachée du Paradis
 |-
 |9
@@ -1437,7 +1437,7 @@
 | Mont Kenya, la Chasse au Braconnage
 |-
 |7
-|
+|⚫️
 | Tunisie, les Secrets des Pêcheurs de Poulpes
 |-
 |8
@@ -1814,7 +1814,7 @@
 | En Chine, à la Recherche d’Un Mari
 |-
 |24
-|
+|⚫️
 | Zanzibar, une Affaire de Femmes
 |-
 |25
@@ -1885,7 +1885,7 @@
 | Ghana — L’Avenir Est aux Femmes
 |-
 |14
-|
+|⚫️
 | Tunisie, l’Art du Tatouage Berbère
 |-
 |15
@@ -2123,7 +2123,7 @@
 | Nouvelle-Zélande — Les Animaux du Bout du Monde
 |-
 |18
-|
+|⚫️
 | Virunga, les Gorilles en Péril
 |-
 |19
@@ -2147,7 +2147,7 @@
 | Ankara, une Deuxième Vie Pour les Livres
 |-
 |24
-|
+|⚫️
 | Éthiopie — La Guerre des Singes
 |-
 |25

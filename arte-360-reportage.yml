@@ -2719,6 +2719,7 @@ seasons:
         episode_no: 15
         title: Die Jäger des Lassa-Virus
         topic: Medizin der Zukunft
+        continent: Afrika
         location_wikidata: Q1006
         coordinates:
         - 10
@@ -3845,6 +3846,7 @@ seasons:
         episode_no: 1
         title: Timbuktu
         topic: Überleben in der Wüste
+        continent: Afrika
         location_wikidata: Q9427
         coordinates:
         - 16.773333055556
@@ -4541,6 +4543,7 @@ seasons:
         season_no: 3
         episode_no: 15
         title: Die Spur der Wüstenkrokodile
+        continent: Afrika
         location_wikidata: Q1025
         coordinates:
         - 21
@@ -5061,6 +5064,7 @@ seasons:
         season_no: 3
         episode_no: 26
         title: Die Stadt der Diamanten
+        continent: Afrika
         location_wikidata: Q1404518
         coordinates:
         - -28.55
@@ -5537,6 +5541,7 @@ seasons:
         season_no: 4
         episode_no: 8
         title: Safran - Ein blühendes Geschäft
+        continent: Afrika
         location_wikidata: Q1001873
         coordinates:
         - 30.532777777778
@@ -6192,6 +6197,7 @@ seasons:
         season_no: 4
         episode_no: 22
         title: Nashörner unter dem Hammer
+        continent: Afrika
         location_wikidata: Q129867
         coordinates:
         - -28.2486136
@@ -6470,6 +6476,7 @@ seasons:
         season_no: 4
         episode_no: 28
         title: Heiratsmarkt in Marokko
+        continent: Afrika
         location_wikidata: Q2676569
         coordinates:
         - 32.155
@@ -6585,6 +6592,7 @@ seasons:
         season_no: 4
         episode_no: 30
         title: Die Frachtensegler von Madagaskar
+        continent: Afrika
         location_wikidata: Q1019
         coordinates:
         - -20
@@ -6635,6 +6643,7 @@ seasons:
         episode_no: 31
         title: Die Abalone-Wilderer
         subtitle: Der Kampf um den Erhalt einer Seeschneckenart
+        continent: Afrika
         location_wikidata: Q1613480
         coordinates:
         - -34.416667
@@ -6875,6 +6884,7 @@ seasons:
         season_no: 5
         episode_no: 6
         title: Radios gegen Kalaschnikows
+        continent: Afrika
         location_wikidata: Q1032
         coordinates:
         - 17
@@ -6946,6 +6956,7 @@ seasons:
         season_no: 5
         episode_no: 8
         title: Videofabrik Nigeria
+        continent: Afrika
         location_wikidata: Q1033
         coordinates:
         - 9
@@ -8456,6 +8467,7 @@ seasons:
         episode_no: 3
         title: Der Wüstendoktor
         title_fr: Le Toubib Touareg
+        continent: Afrika
         location_wikidata: Q272521
         coordinates:
         - 17.583333333333
@@ -10034,6 +10046,7 @@ seasons:
         episode_no: 13
         title: Die Dächer von Kairo
         title_fr: Sur les Toits du Caire
+        continent: Afrika
         location_wikidata: Q85
         coordinates:
         - 30.044444444444444
@@ -10387,6 +10400,7 @@ seasons:
         episode_no: 19
         title: Eritrea - Ein Esel für die Zukunft
         title_fr: Érythrée, l'Âne de la Dernière Chance
+        continent: Afrika
         location_wikidata: Q986
         coordinates:
         - 15.483333
@@ -12546,6 +12560,7 @@ seasons:
         episode_no: 10
         title: 'Mauretanien: Aufstand der Fischerfrauen'
         title_fr: Pêcheurs de Mauritanie
+        continent: Afrika
         location_wikidata: Q539518
         coordinates:
         - 20.234722
@@ -12720,6 +12735,7 @@ seasons:
         episode_no: 13
         title: 'Uganda: Der Weg zum Fahrradtaxi'
         title_fr: La Brousse en Vélo-Taxi
+        continent: Afrika
         location_wikidata: Q5505
         coordinates:
         - -1
@@ -12954,6 +12970,7 @@ seasons:
         episode_no: 17
         title: Arganöl - Marokkos weißes Gold
         title_fr: L’Huile d’Argan — L’Or Blanc du Maroc
+        continent: Afrika
         location_wikidata: Q1028
         coordinates:
         - 32
@@ -16311,6 +16328,7 @@ seasons:
         episode_no: 8
         title: Marokko - die andere Seite des Paradieses
         title_fr: Maroc, la Face Cachée du Paradis
+        continent: Afrika
         location_wikidata: Q2072102
         coordinates:
         - 34.06111111
@@ -17956,6 +17974,7 @@ seasons:
         episode_no: 7
         title: 'Tunesien: Die Suche nach dem Tintenfisch'
         title_fr: Tunisie, les Secrets des Pêcheurs de Poulpes
+        continent: Afrika
         location_wikidata: Q761460
         coordinates:
         - 34.715555555556
@@ -23210,6 +23229,7 @@ seasons:
         episode_no: 24
         title: Sansibars erstes Frauenorchester
         title_fr: Zanzibar, une Affaire de Femmes
+        continent: Afrika
         location_wikidata: Q1774
         coordinates:
         - -5.9
@@ -24114,6 +24134,7 @@ seasons:
         episode_no: 14
         title: Tunesien - Die Kunst der Berbertattoos
         title_fr: Tunisie, l’Art du Tatouage Berbère
+        continent: Afrika
         location_wikidata: Q3572
         coordinates:
         - 36.800833333333
@@ -27192,6 +27213,7 @@ seasons:
         title: Virunga, der Kampf für die Berggorillas
         title_fr: Virunga, les Gorilles en Péril
         title_en: Virunga - Fighting for Mountain Gorillas
+        continent: Afrika
         location_wikidata: Q223589
         coordinates:
         - -0.5
@@ -27519,7 +27541,7 @@ seasons:
         episode_no: 24
         title: Äthiopiens gefräßige Hochland-Affen
         title_fr: Éthiopie — La Guerre des Singes
-        continent: AfrikaQ504315
+        continent: Afrika
         location_wikidata: Q504315
         coordinates:
         - 13.183333333333
