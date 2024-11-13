@@ -15439,6 +15439,117 @@
           "fernsehserien_episode_id": 1721175,
           "imdb_episode_id": "tt32059594",
           "youtube_video_id": "9lSM-soPWHo"
+        },
+        {
+          "overall_no": 641,
+          "season_no": 26,
+          "episode_no": 12,
+          "title": "Kuba – Die Stunde der Boxerinnen",
+          "air_date": "2024-07-20",
+          "fernsehserien_episode_no": 644,
+          "fernsehserien_episode_slug": "644-kuba-die-stunde-der-boxerinnen-1730843",
+          "fernsehserien_episode_id": 1730843,
+          "youtube_video_id": "EvcrY6LDr84"
+        },
+        {
+          "overall_no": 642,
+          "season_no": 26,
+          "episode_no": 13,
+          "title": "Lappland – Gemeinsam einsam und doch nicht allein",
+          "air_date": "2024-08-31",
+          "fernsehserien_episode_no": 645,
+          "fernsehserien_episode_slug": "645-lappland-gemeinsam-einsam-und-doch-nicht-allein-1739050",
+          "fernsehserien_episode_id": 1739050
+        },
+        {
+          "overall_no": 643,
+          "season_no": 26,
+          "episode_no": 14,
+          "title": "La Réunion: Die Wiederbelebung der kreolischen Gärten",
+          "air_date": "2024-09-14",
+          "fernsehserien_episode_no": 646,
+          "fernsehserien_episode_slug": "646-la-reunion-die-wiederbelebung-der-kreolischen-gaerten-1741707",
+          "fernsehserien_episode_id": 1741707
+        },
+        {
+          "overall_no": 644,
+          "season_no": 26,
+          "episode_no": 15,
+          "title": "Die Muscheltaucherinnen vom Kongo-Delta",
+          "air_date": "2024-09-21",
+          "fernsehserien_episode_no": 647,
+          "fernsehserien_episode_slug": "647-die-muscheltaucherinnen-vom-kongo-delta-1743560",
+          "fernsehserien_episode_id": 1743560
+        },
+        {
+          "overall_no": 645,
+          "season_no": 26,
+          "episode_no": 16,
+          "title": "Der Duft Indiens",
+          "air_date": "2024-09-28",
+          "fernsehserien_episode_no": 648,
+          "fernsehserien_episode_slug": "648-der-duft-indiens-1745423",
+          "fernsehserien_episode_id": 1745423
+        },
+        {
+          "overall_no": 646,
+          "season_no": 26,
+          "episode_no": 17,
+          "title": "Mongolei: Der Pferderetter",
+          "air_date": "2024-10-19",
+          "fernsehserien_episode_no": 649,
+          "fernsehserien_episode_slug": "649-mongolei-der-pferderetter-1754006",
+          "fernsehserien_episode_id": 1754006
+        },
+        {
+          "overall_no": 647,
+          "season_no": 26,
+          "episode_no": 18,
+          "title": "Ein Palast aus Sand: Nepals magische Mandalas",
+          "air_date": "2024-11-09",
+          "fernsehserien_episode_no": 650,
+          "fernsehserien_episode_slug": "650-ein-palast-aus-sand-nepals-magische-mandalas-1755291",
+          "fernsehserien_episode_id": 1755291
+        },
+        {
+          "overall_no": 648,
+          "season_no": 26,
+          "episode_no": 19,
+          "title": "Die Vogelliebhaber von Louisiana",
+          "air_date": "2024-11-16",
+          "fernsehserien_episode_no": 651,
+          "fernsehserien_episode_slug": "651-die-vogelliebhaber-von-louisiana-1757815",
+          "fernsehserien_episode_id": 1757815
+        },
+        {
+          "overall_no": 649,
+          "season_no": 26,
+          "episode_no": 20,
+          "title": "Kintoa, ein Schwein wie kein anderes",
+          "air_date": "2024-11-23",
+          "fernsehserien_episode_no": 652,
+          "fernsehserien_episode_slug": "652-kintoa-ein-schwein-wie-kein-anderes-1759037",
+          "fernsehserien_episode_id": 1759037
+        },
+        {
+          "overall_no": 650,
+          "season_no": 26,
+          "episode_no": 21,
+          "title": "Montevideo, Stadt im Rhythmus des Karnevals",
+          "air_date": "2024-11-30",
+          "fernsehserien_episode_no": 653,
+          "fernsehserien_episode_slug": "653-montevideo-stadt-im-rhythmus-des-karnevals-1760258",
+          "fernsehserien_episode_id": 1760258
+        },
+        {
+          "overall_no": 651,
+          "season_no": 26,
+          "episode_no": 22,
+          "title": "Mexiko City, im Rhythmus des Danzón",
+          "air_date": "2024-12-21",
+          "fernsehserien_episode_no": 654,
+          "fernsehserien_episode_slug": "654-mexiko-city-im-rhythmus-des-danzon-1766213",
+          "fernsehserien_episode_id": 1766213
         }
       ]
     }

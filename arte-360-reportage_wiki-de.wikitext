@@ -5607,4 +5607,92 @@
 | EA = 2024-06-07
 | ZF = Es gibt ihn noch, den Beruf des Säumers: In den Seealpen, im italienischen Piemont, liegt auf 2.300 Meter Höhe die Schutzhütte Morelli Buzzi. Drei Monate im Jahr muss der Betreiber der Hütte Wanderern Kost und Logis anbieten. Doch Wege und Straßen gibt es hier keine. Da kommen Luciano Ellena und seine Mulis ins Spiel. Er ist der letzte Säumer und versorgt die Hütte mit Lebensmitteln.
 }}
+{{Episodenlisteneintrag
+| NR_GES = 641
+| NR_ST = 12
+| OT = Kuba – Die Stunde der Boxerinnen<ref>Internetquellen zur Episode ''„Kuba – Die Stunde der Boxerinnen“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/644-kuba-die-stunde-der-boxerinnen-1730843 644] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/644-kuba-die-stunde-der-boxerinnen-1730843 1730843], '''youtube:''' Video-ID [https://www.youtube.com/watch?v=EvcrY6LDr84 EvcrY6LDr84]</ref>
+| Feld1 = -
+| REG = -
+| EA = 2024-07-20
+}}
+{{Episodenlisteneintrag
+| NR_GES = 642
+| NR_ST = 13
+| OT = Lappland – Gemeinsam einsam und doch nicht allein<ref>Internetquellen zur Episode ''„Lappland – Gemeinsam einsam und doch nicht allein“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/645-lappland-gemeinsam-einsam-und-doch-nicht-allein-1739050 645] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/645-lappland-gemeinsam-einsam-und-doch-nicht-allein-1739050 1739050]</ref>
+| Feld1 = -
+| REG = -
+| EA = 2024-08-31
+}}
+{{Episodenlisteneintrag
+| NR_GES = 643
+| NR_ST = 14
+| OT = La Réunion: Die Wiederbelebung der kreolischen Gärten<ref>Internetquellen zur Episode ''„La Réunion: Die Wiederbelebung der kreolischen Gärten“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/646-la-reunion-die-wiederbelebung-der-kreolischen-gaerten-1741707 646] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/646-la-reunion-die-wiederbelebung-der-kreolischen-gaerten-1741707 1741707]</ref>
+| Feld1 = -
+| REG = -
+| EA = 2024-09-14
+}}
+{{Episodenlisteneintrag
+| NR_GES = 644
+| NR_ST = 15
+| OT = Die Muscheltaucherinnen vom Kongo-Delta<ref>Internetquellen zur Episode ''„Die Muscheltaucherinnen vom Kongo-Delta“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/647-die-muscheltaucherinnen-vom-kongo-delta-1743560 647] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/647-die-muscheltaucherinnen-vom-kongo-delta-1743560 1743560]</ref>
+| Feld1 = -
+| REG = -
+| EA = 2024-09-21
+}}
+{{Episodenlisteneintrag
+| NR_GES = 645
+| NR_ST = 16
+| OT = Der Duft Indiens<ref>Internetquellen zur Episode ''„Der Duft Indiens“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/648-der-duft-indiens-1745423 648] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/648-der-duft-indiens-1745423 1745423]</ref>
+| Feld1 = -
+| REG = -
+| EA = 2024-09-28
+}}
+{{Episodenlisteneintrag
+| NR_GES = 646
+| NR_ST = 17
+| OT = Mongolei: Der Pferderetter<ref>Internetquellen zur Episode ''„Mongolei: Der Pferderetter“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/649-mongolei-der-pferderetter-1754006 649] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/649-mongolei-der-pferderetter-1754006 1754006]</ref>
+| Feld1 = -
+| REG = -
+| EA = 2024-10-19
+}}
+{{Episodenlisteneintrag
+| NR_GES = 647
+| NR_ST = 18
+| OT = Ein Palast aus Sand: Nepals magische Mandalas<ref>Internetquellen zur Episode ''„Ein Palast aus Sand: Nepals magische Mandalas“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/650-ein-palast-aus-sand-nepals-magische-mandalas-1755291 650] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/650-ein-palast-aus-sand-nepals-magische-mandalas-1755291 1755291]</ref>
+| Feld1 = -
+| REG = -
+| EA = 2024-11-09
+}}
+{{Episodenlisteneintrag
+| NR_GES = 648
+| NR_ST = 19
+| OT = Die Vogelliebhaber von Louisiana<ref>Internetquellen zur Episode ''„Die Vogelliebhaber von Louisiana“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/651-die-vogelliebhaber-von-louisiana-1757815 651] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/651-die-vogelliebhaber-von-louisiana-1757815 1757815]</ref>
+| Feld1 = -
+| REG = -
+| EA = 2024-11-16
+}}
+{{Episodenlisteneintrag
+| NR_GES = 649
+| NR_ST = 20
+| OT = Kintoa, ein Schwein wie kein anderes<ref>Internetquellen zur Episode ''„Kintoa, ein Schwein wie kein anderes“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/652-kintoa-ein-schwein-wie-kein-anderes-1759037 652] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/652-kintoa-ein-schwein-wie-kein-anderes-1759037 1759037]</ref>
+| Feld1 = -
+| REG = -
+| EA = 2024-11-23
+}}
+{{Episodenlisteneintrag
+| NR_GES = 650
+| NR_ST = 21
+| OT = Montevideo, Stadt im Rhythmus des Karnevals<ref>Internetquellen zur Episode ''„Montevideo, Stadt im Rhythmus des Karnevals“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/653-montevideo-stadt-im-rhythmus-des-karnevals-1760258 653] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/653-montevideo-stadt-im-rhythmus-des-karnevals-1760258 1760258]</ref>
+| Feld1 = -
+| REG = -
+| EA = 2024-11-30
+}}
+{{Episodenlisteneintrag
+| NR_GES = 651
+| NR_ST = 22
+| OT = Mexiko City, im Rhythmus des Danzón<ref>Internetquellen zur Episode ''„Mexiko City, im Rhythmus des Danzón“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/654-mexiko-city-im-rhythmus-des-danzon-1766213 654] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/654-mexiko-city-im-rhythmus-des-danzon-1766213 1766213]</ref>
+| Feld1 = -
+| REG = -
+| EA = 2024-12-21
+}}
 }}
