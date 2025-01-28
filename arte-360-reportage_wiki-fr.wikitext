@@ -2750,7 +2750,7 @@
 |-
 |14
 |
-| Titre inconnu
+| La Réunion, le renouveau des jardins créoles
 |-
 |15
 |
@@ -2758,11 +2758,11 @@
 |-
 |16
 |
-| Titre inconnu
+| L’Inde, l’autre pays du parfum
 |-
 |17
 |
-| Titre inconnu
+| Mongolie, l’homme qui aimait les chevaux
 |-
 |18
 |
@@ -2781,6 +2781,41 @@
 | Titre inconnu
 |-
 |22
+|
+| Mexique, les amoureux du danzon
+|}
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|+Saison 27 — Année 2025
+!width="8%"|N°
+!width="5%"|
+!width="87%"|Titre français
+|-
+|1
+|
+| Titre inconnu
+|-
+|2
+|
+| Sète, la passion des joutes
+|-
+|3
+|
+| Kitesurf en Bretagne, à l’assaut des phares
+|-
+|4
+|
+| Floride : être sirène, une passion
+|-
+|5
+|
+| Titre inconnu
+|-
+|6
+|
+| Titre inconnu
+|-
+|7
 |
 | Titre inconnu
 |}

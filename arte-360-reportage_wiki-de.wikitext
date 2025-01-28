@@ -5627,7 +5627,7 @@
 | NR_GES = 643
 | NR_ST = 14
 | OT = La Réunion: Die Wiederbelebung der kreolischen Gärten<ref>Internetquellen zur Episode ''„La Réunion: Die Wiederbelebung der kreolischen Gärten“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/646-la-reunion-die-wiederbelebung-der-kreolischen-gaerten-1741707 646] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/646-la-reunion-die-wiederbelebung-der-kreolischen-gaerten-1741707 1741707]</ref>
-| Feld1 = -
+| Feld1 = La Réunion, le renouveau des jardins créoles
 | REG = -
 | EA = 2024-09-14
 }}
@@ -5643,7 +5643,7 @@
 | NR_GES = 645
 | NR_ST = 16
 | OT = Der Duft Indiens<ref>Internetquellen zur Episode ''„Der Duft Indiens“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/648-der-duft-indiens-1745423 648] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/648-der-duft-indiens-1745423 1745423]</ref>
-| Feld1 = -
+| Feld1 = L’Inde, l’autre pays du parfum
 | REG = -
 | EA = 2024-09-28
 }}
@@ -5651,7 +5651,7 @@
 | NR_GES = 646
 | NR_ST = 17
 | OT = Mongolei: Der Pferderetter<ref>Internetquellen zur Episode ''„Mongolei: Der Pferderetter“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/649-mongolei-der-pferderetter-1754006 649] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/649-mongolei-der-pferderetter-1754006 1754006]</ref>
-| Feld1 = -
+| Feld1 = Mongolie, l’homme qui aimait les chevaux
 | REG = -
 | EA = 2024-10-19
 }}
@@ -5691,8 +5691,75 @@
 | NR_GES = 651
 | NR_ST = 22
 | OT = Mexiko City, im Rhythmus des Danzón<ref>Internetquellen zur Episode ''„Mexiko City, im Rhythmus des Danzón“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/654-mexiko-city-im-rhythmus-des-danzon-1766213 654] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/654-mexiko-city-im-rhythmus-des-danzon-1766213 1766213]</ref>
-| Feld1 = -
+| Feld1 = Mexique, les amoureux du danzon
 | REG = -
 | EA = 2024-12-21
+}}
+}}
+
+=== Staffel 27 (2025) ===
+
+{{Episodenlistentabelle|BREITE=100%
+| ZUSAMMENFASSUNG = nein
+| SORTIERBAR = nein
+| REGISSEUR = ja
+| DREHBUCH = nein
+| Feld1 = Französischer Titel
+| INHALT =
+{{Episodenlisteneintrag
+| NR_GES = 652
+| NR_ST = 1
+| OT = Dobralak, ein Dorf kämpft gegen sein Verschwinden<ref>Internetquellen zur Episode ''„Dobralak, ein Dorf kämpft gegen sein Verschwinden“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/656-dobralak-ein-dorf-kaempft-gegen-sein-verschwinden-1769242 656] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/656-dobralak-ein-dorf-kaempft-gegen-sein-verschwinden-1769242 1769242]</ref>
+| Feld1 = -
+| REG = -
+| EA = 2025-01-04
+}}
+{{Episodenlisteneintrag
+| NR_GES = 653
+| NR_ST = 2
+| OT = Das Fischerstechen von Sète<ref>Internetquellen zur Episode ''„Das Fischerstechen von Sète“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/657-das-fischerstechen-von-sete-1770304 657] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/657-das-fischerstechen-von-sete-1770304 1770304]</ref>
+| Feld1 = Sète, la passion des joutes
+| REG = -
+| EA = 2025-01-11
+}}
+{{Episodenlisteneintrag
+| NR_GES = 654
+| NR_ST = 3
+| OT = Bretonische Kitesurf-Challenge<ref>Internetquellen zur Episode ''„Bretonische Kitesurf-Challenge“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/658-bretonische-kitesurf-challenge-1771487 658] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/658-bretonische-kitesurf-challenge-1771487 1771487]</ref>
+| Feld1 = Kitesurf en Bretagne, à l’assaut des phares
+| REG = -
+| EA = 2025-01-18
+}}
+{{Episodenlisteneintrag
+| NR_GES = 655
+| NR_ST = 4
+| OT = Florida: Moderne Nixen schlagen Wellen<ref>Internetquellen zur Episode ''„Florida: Moderne Nixen schlagen Wellen“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/659-florida-moderne-nixen-schlagen-wellen-1772597 659] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/659-florida-moderne-nixen-schlagen-wellen-1772597 1772597]</ref>
+| Feld1 = Floride : être sirène, une passion
+| REG = -
+| EA = 2025-01-25
+}}
+{{Episodenlisteneintrag
+| NR_GES = 656
+| NR_ST = 5
+| OT = Uganda: Hunde der Hoffnung<ref>Internetquellen zur Episode ''„Uganda: Hunde der Hoffnung“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/660-uganda-hunde-der-hoffnung-1777344 660] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/660-uganda-hunde-der-hoffnung-1777344 1777344]</ref>
+| Feld1 = -
+| REG = -
+| EA = 2025-02-22
+}}
+{{Episodenlisteneintrag
+| NR_GES = 657
+| NR_ST = 6
+| OT = Gorgona, gefangen im Paradies<ref>Internetquellen zur Episode ''„Gorgona, gefangen im Paradies“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/661-gorgona-gefangen-im-paradies-1779386 661] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/661-gorgona-gefangen-im-paradies-1779386 1779386]</ref>
+| Feld1 = -
+| REG = -
+| EA = 2025-03-01
+}}
+{{Episodenlisteneintrag
+| NR_GES = 658
+| NR_ST = 7
+| OT = Brasilien: Ein Fisch namens Tainha<ref>Internetquellen zur Episode ''„Brasilien: Ein Fisch namens Tainha“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/662-brasilien-ein-fisch-namens-tainha-1782214 662] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/662-brasilien-ein-fisch-namens-tainha-1782214 1782214]</ref>
+| Feld1 = -
+| REG = -
+| EA = 2025-03-08
 }}
 }}

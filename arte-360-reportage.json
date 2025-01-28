@@ -15466,6 +15466,7 @@
           "season_no": 26,
           "episode_no": 14,
           "title": "La Réunion: Die Wiederbelebung der kreolischen Gärten",
+          "title_fr": "La Réunion, le renouveau des jardins créoles",
           "air_date": "2024-09-14",
           "fernsehserien_episode_no": 646,
           "fernsehserien_episode_slug": "646-la-reunion-die-wiederbelebung-der-kreolischen-gaerten-1741707",
@@ -15486,6 +15487,7 @@
           "season_no": 26,
           "episode_no": 16,
           "title": "Der Duft Indiens",
+          "title_fr": "L’Inde, l’autre pays du parfum",
           "air_date": "2024-09-28",
           "fernsehserien_episode_no": 648,
           "fernsehserien_episode_slug": "648-der-duft-indiens-1745423",
@@ -15496,6 +15498,7 @@
           "season_no": 26,
           "episode_no": 17,
           "title": "Mongolei: Der Pferderetter",
+          "title_fr": "Mongolie, l’homme qui aimait les chevaux",
           "air_date": "2024-10-19",
           "fernsehserien_episode_no": 649,
           "fernsehserien_episode_slug": "649-mongolei-der-pferderetter-1754006",
@@ -15546,10 +15549,90 @@
           "season_no": 26,
           "episode_no": 22,
           "title": "Mexiko City, im Rhythmus des Danzón",
+          "title_fr": "Mexique, les amoureux du danzon",
           "air_date": "2024-12-21",
           "fernsehserien_episode_no": 654,
           "fernsehserien_episode_slug": "654-mexiko-city-im-rhythmus-des-danzon-1766213",
           "fernsehserien_episode_id": 1766213
+        }
+      ]
+    },
+    {
+      "no": 27,
+      "year": 2025,
+      "episodes": [
+        {
+          "overall_no": 652,
+          "season_no": 27,
+          "episode_no": 1,
+          "title": "Dobralak, ein Dorf kämpft gegen sein Verschwinden",
+          "air_date": "2025-01-04",
+          "fernsehserien_episode_no": 656,
+          "fernsehserien_episode_slug": "656-dobralak-ein-dorf-kaempft-gegen-sein-verschwinden-1769242",
+          "fernsehserien_episode_id": 1769242
+        },
+        {
+          "overall_no": 653,
+          "season_no": 27,
+          "episode_no": 2,
+          "title": "Das Fischerstechen von Sète",
+          "title_fr": "Sète, la passion des joutes",
+          "air_date": "2025-01-11",
+          "fernsehserien_episode_no": 657,
+          "fernsehserien_episode_slug": "657-das-fischerstechen-von-sete-1770304",
+          "fernsehserien_episode_id": 1770304
+        },
+        {
+          "overall_no": 654,
+          "season_no": 27,
+          "episode_no": 3,
+          "title": "Bretonische Kitesurf-Challenge",
+          "title_fr": "Kitesurf en Bretagne, à l’assaut des phares",
+          "air_date": "2025-01-18",
+          "fernsehserien_episode_no": 658,
+          "fernsehserien_episode_slug": "658-bretonische-kitesurf-challenge-1771487",
+          "fernsehserien_episode_id": 1771487
+        },
+        {
+          "overall_no": 655,
+          "season_no": 27,
+          "episode_no": 4,
+          "title": "Florida: Moderne Nixen schlagen Wellen",
+          "title_fr": "Floride : être sirène, une passion",
+          "air_date": "2025-01-25",
+          "fernsehserien_episode_no": 659,
+          "fernsehserien_episode_slug": "659-florida-moderne-nixen-schlagen-wellen-1772597",
+          "fernsehserien_episode_id": 1772597
+        },
+        {
+          "overall_no": 656,
+          "season_no": 27,
+          "episode_no": 5,
+          "title": "Uganda: Hunde der Hoffnung",
+          "air_date": "2025-02-22",
+          "fernsehserien_episode_no": 660,
+          "fernsehserien_episode_slug": "660-uganda-hunde-der-hoffnung-1777344",
+          "fernsehserien_episode_id": 1777344
+        },
+        {
+          "overall_no": 657,
+          "season_no": 27,
+          "episode_no": 6,
+          "title": "Gorgona, gefangen im Paradies",
+          "air_date": "2025-03-01",
+          "fernsehserien_episode_no": 661,
+          "fernsehserien_episode_slug": "661-gorgona-gefangen-im-paradies-1779386",
+          "fernsehserien_episode_id": 1779386
+        },
+        {
+          "overall_no": 658,
+          "season_no": 27,
+          "episode_no": 7,
+          "title": "Brasilien: Ein Fisch namens Tainha",
+          "air_date": "2025-03-08",
+          "fernsehserien_episode_no": 662,
+          "fernsehserien_episode_slug": "662-brasilien-ein-fisch-namens-tainha-1782214",
+          "fernsehserien_episode_id": 1782214
         }
       ]
     }
