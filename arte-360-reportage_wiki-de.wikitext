@@ -5612,39 +5612,39 @@
 | NR_ST = 12
 | OT = Kuba – Die Stunde der Boxerinnen<ref>Internetquellen zur Episode ''„Kuba – Die Stunde der Boxerinnen“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/644-kuba-die-stunde-der-boxerinnen-1730843 644] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/644-kuba-die-stunde-der-boxerinnen-1730843 1730843], '''youtube:''' Video-ID [https://www.youtube.com/watch?v=EvcrY6LDr84 EvcrY6LDr84]</ref>
 | Feld1 = -
-| REG = -
+| REG = Joanna Michna & Cordula Stadter
 | EA = 2024-07-20
 }}
 {{Episodenlisteneintrag
 | NR_GES = 642
 | NR_ST = 13
-| OT = Lappland – Gemeinsam einsam und doch nicht allein<ref>Internetquellen zur Episode ''„Lappland – Gemeinsam einsam und doch nicht allein“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/645-lappland-gemeinsam-einsam-und-doch-nicht-allein-1739050 645] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/645-lappland-gemeinsam-einsam-und-doch-nicht-allein-1739050 1739050]</ref>
+| OT = Lappland – Gemeinsam einsam und doch nicht allein<ref>Internetquellen zur Episode ''„Lappland – Gemeinsam einsam und doch nicht allein“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/645-lappland-gemeinsam-einsam-und-doch-nicht-allein-1739050 645] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/645-lappland-gemeinsam-einsam-und-doch-nicht-allein-1739050 1739050], '''youtube:''' Video-ID [https://www.youtube.com/watch?v=qMIlkI5LlHs qMIlkI5LlHs]</ref>
 | Feld1 = -
-| REG = -
+| REG = Olivera Tornau
 | EA = 2024-08-31
 }}
 {{Episodenlisteneintrag
 | NR_GES = 643
 | NR_ST = 14
-| OT = La Réunion: Die Wiederbelebung der kreolischen Gärten<ref>Internetquellen zur Episode ''„La Réunion: Die Wiederbelebung der kreolischen Gärten“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/646-la-reunion-die-wiederbelebung-der-kreolischen-gaerten-1741707 646] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/646-la-reunion-die-wiederbelebung-der-kreolischen-gaerten-1741707 1741707]</ref>
+| OT = La Réunion: Die Wiederbelebung der kreolischen Gärten<ref>Internetquellen zur Episode ''„La Réunion: Die Wiederbelebung der kreolischen Gärten“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/646-la-reunion-die-wiederbelebung-der-kreolischen-gaerten-1741707 646] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/646-la-reunion-die-wiederbelebung-der-kreolischen-gaerten-1741707 1741707], '''youtube:''' Video-ID [https://www.youtube.com/watch?v=mJEmTpPV8wM mJEmTpPV8wM]</ref>
 | Feld1 = La Réunion, le renouveau des jardins créoles
-| REG = -
+| REG = Nina Kormann
 | EA = 2024-09-14
 }}
 {{Episodenlisteneintrag
 | NR_GES = 644
 | NR_ST = 15
-| OT = Die Muscheltaucherinnen vom Kongo-Delta<ref>Internetquellen zur Episode ''„Die Muscheltaucherinnen vom Kongo-Delta“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/647-die-muscheltaucherinnen-vom-kongo-delta-1743560 647] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/647-die-muscheltaucherinnen-vom-kongo-delta-1743560 1743560]</ref>
+| OT = Die Muscheltaucherinnen vom Kongo-Delta<ref>Internetquellen zur Episode ''„Die Muscheltaucherinnen vom Kongo-Delta“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/647-die-muscheltaucherinnen-vom-kongo-delta-1743560 647] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/647-die-muscheltaucherinnen-vom-kongo-delta-1743560 1743560], '''youtube:''' Video-ID [https://www.youtube.com/watch?v=vIuG5AEgn3M vIuG5AEgn3M]</ref>
 | Feld1 = -
-| REG = -
+| REG = Dietmar Klumpp
 | EA = 2024-09-21
 }}
 {{Episodenlisteneintrag
 | NR_GES = 645
 | NR_ST = 16
-| OT = Der Duft Indiens<ref>Internetquellen zur Episode ''„Der Duft Indiens“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/648-der-duft-indiens-1745423 648] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/648-der-duft-indiens-1745423 1745423]</ref>
+| OT = Der Duft Indiens<ref>Internetquellen zur Episode ''„Der Duft Indiens“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/648-der-duft-indiens-1745423 648] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/648-der-duft-indiens-1745423 1745423], '''youtube:''' Video-ID [https://www.youtube.com/watch?v=bOJ6BPYbHUo bOJ6BPYbHUo]</ref>
 | Feld1 = L’Inde, l’autre pays du parfum
-| REG = -
+| REG = Friederike Schlumbom
 | EA = 2024-09-28
 }}
 {{Episodenlisteneintrag

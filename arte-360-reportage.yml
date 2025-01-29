@@ -35065,76 +35065,69 @@ seasons:
         season_no: 26
         episode_no: 12
         title: Kuba – Die Stunde der Boxerinnen
+        description: 'Für Namibia Flores Rodriguez kommt die Aufhebung des
+            Frauenboxverbotes auf Kuba zu spät. Die 47-jährige Faustkämpferin
+            ist inzwischen zu alt, um an internationalen Wettkämpfen teilzunehmen.
+            Dabei ist sie mit Leib und Seele Boxerin und wollte sich nie von
+            Niederlagen entmutigen lassen. Weil sie selbst nicht mehr bei
+            den großen Ausscheidungskämpfen antreten darf, hat sie sich auf
+            die Rolle der Trainerin verlegt. Sie fördert sowohl den Nachwuchs
+            – Jungen wie Mädchen – als auch die Großen. Wie ihre Freundin
+            Yoana Rodriguez Castillo.
+
+            Die Schwergewichtsboxerin ist zwar bereits über 30, hält aber
+            weiter an ihrem Traum fest, eines Tages bei internationalen Wettkämpfen
+            dabei sein zu können. Doch auch wenn dies durch den Wegfall der
+            politischen Schranken nun möglich ist, ist der Weg dorthin voller
+            Hindernisse. Denn in Kuba fehlt es an den einfachsten Trainingsmöglichkeiten
+            und passender Ausrüstung. So bleibt den Boxerinnen auf Kuba nur
+            ihre unermüdliche Leidenschaft und der Enthusiasmus für ihren
+            Sport, mit dem sie die ärgsten Mängel auszugleichen versuchen.
+
+            Um ihnen hierfür einen Raum zu geben, möchte Namibia Flores einen
+            eigenen Boxstall nur für Frauen aufbauen. Ein Novum auf Kuba und
+            eine weitere Herausforderung. Denn wie so vieles auf der Insel
+            ist ein Großteil der Architektur in Havanna marode und einsturzgefährdet.
+            Doch Namibia will nicht aufgeben. Sie sieht enormes Potenzial
+            in ihren Schützlingen und möchte verhindern, dass die jungen Kampfsportlerinnen
+            ähnlich wie sie an unvorteilhaften Rahmenbedingungen scheitern.
+            Noch einmal will Namibia sich nicht geschlagen geben.'
+        director: Joanna Michna & Cordula Stadter
         air_date: '2024-07-20'
         fernsehserien_episode_no: 644
         fernsehserien_episode_slug: 644-kuba-die-stunde-der-boxerinnen-1730843
         fernsehserien_episode_id: 1730843
         youtube_video_id: EvcrY6LDr84
-        director: Joanna Michna & Cordula Stadter
-        description:
-            Für Namibia Flores Rodriguez kommt die Aufhebung des
-            Frauenboxverbotes auf Kuba zu spät. Die 47-jährige Faustkämpferin
-            ist inzwischen zu alt, um an internationalen Wettkämpfen
-            teilzunehmen. Dabei ist sie mit Leib und Seele Boxerin und wollte
-            sich nie von Niederlagen entmutigen lassen. Weil sie selbst nicht
-            mehr bei den großen Ausscheidungskämpfen antreten darf, hat sie sich
-            auf die Rolle der Trainerin verlegt. Sie fördert sowohl den
-            Nachwuchs – Jungen wie Mädchen – als auch die Großen. Wie ihre
-            Freundin Yoana Rodriguez Castillo.
-
-            Die Schwergewichtsboxerin ist zwar bereits über 30, hält aber weiter
-            an ihrem Traum fest, eines Tages bei internationalen Wettkämpfen
-            dabei sein zu können. Doch auch wenn dies durch den Wegfall der
-            politischen Schranken nun möglich ist, ist der Weg dorthin voller
-            Hindernisse. Denn in Kuba fehlt es an den einfachsten
-            Trainingsmöglichkeiten und passender Ausrüstung. So bleibt den
-            Boxerinnen auf Kuba nur ihre unermüdliche Leidenschaft und der
-            Enthusiasmus für ihren Sport, mit dem sie die ärgsten Mängel
-            auszugleichen versuchen.
-
-            Um ihnen hierfür einen Raum zu geben, möchte Namibia Flores einen
-            eigenen Boxstall nur für Frauen aufbauen. Ein Novum auf Kuba und
-            eine weitere Herausforderung. Denn wie so vieles auf der Insel ist
-            ein Großteil der Architektur in Havanna marode und
-            einsturzgefährdet. Doch Namibia will nicht aufgeben. Sie sieht
-            enormes Potenzial in ihren Schützlingen und möchte verhindern, dass
-            die jungen Kampfsportlerinnen ähnlich wie sie an unvorteilhaften
-            Rahmenbedingungen scheitern. Noch einmal will Namibia sich nicht
-            geschlagen geben.
     -   overall_no: 642
         season_no: 26
         episode_no: 13
         title: Lappland – Gemeinsam einsam und doch nicht allein
-        air_date: '2024-08-31'
-        fernsehserien_episode_no: 645
-        fernsehserien_episode_slug: 645-lappland-gemeinsam-einsam-und-doch-nicht-allein-1739050
-        fernsehserien_episode_id: 1739050
-        youtube_video_id: qMIlkI5LlHs
-        director: Olivera Tornau
-        wikidata: Q581920
-        description: >-
-            Dorfhelfer Janne ist für das Wohl der Alten in Lappland
-            unentbehrlich. Täglich fährt er weite Strecken, um deren
-            Leistungsfähigkeit zu erhalten, indem er sie bei alltäglichen Dingen
-            unterstützt. Es ist ein erklärtes Ziel der finnischen Regierung,
-            dass alte Menschen so lange wie möglich in ihrem gewohnten Umfeld
-            wohnen bleiben. Damit das gelingt, braucht es mehr Dorfhelfer*innen.
+        location_wikidata: Q581920
+        coordinates:
+        - 69.9078285
+        - 27.0265413
+        description: 'Dorfhelfer Janne ist für das Wohl der Alten in Lappland
+            unentbehrlich. Täglich fährt er weite Strecken, um deren Leistungsfähigkeit
+            zu erhalten, indem er sie bei alltäglichen Dingen unterstützt.
+            Es ist ein erklärtes Ziel der finnischen Regierung, dass alte
+            Menschen so lange wie möglich in ihrem gewohnten Umfeld wohnen
+            bleiben. Damit das gelingt, braucht es mehr Dorfhelfer*innen.
 
-            Jeden Tag hofft die über 90-jährige Rentnerin Laila, dass sie mehr
-            Aufgaben für Dorfhelfer Janne hätte, damit er sie besuchen kommt.
-            Für viele der abgeschieden lebenden Rentner ist das von großer
-            Bedeutung und oftmals auch lebensnotwendig. Gemeinsame Aktivitäten
-            draußen und Gespräche sind wichtige Bestandteile der Dorfhilfe und
-            halten den Geist der Alten frisch.
+            Jeden Tag hofft die über 90-jährige Rentnerin Laila, dass sie
+            mehr Aufgaben für Dorfhelfer Janne hätte, damit er sie besuchen
+            kommt. Für viele der abgeschieden lebenden Rentner ist das von
+            großer Bedeutung und oftmals auch lebensnotwendig. Gemeinsame
+            Aktivitäten draußen und Gespräche sind wichtige Bestandteile der
+            Dorfhilfe und halten den Geist der Alten frisch.
 
-            Der 85-jährige Niilo betreibt seit seiner Kindheit die
-            Schneehuhn-Jagd. Heute fühlt sich der Rentner sicherer, wenn
-            Dorfhelfer Janne ihn dabei mit dem Schneemobil hoch oben auf dem
-            Fjäll begleitet. In Utsjoki, im Norden Finnlands, steht das Konzept
-            der Dorfhilfe unter den Samen, der indigenen Bevölkerung, für einen
-            respektvollen Umgang mit dem Alter. Die Auszubildende Maiju möchte
-            die erste Dorfhelferin Lapplands werden, deswegen begleitet sie den
-            erfahrenen Dorfhelfer Janne bei seiner Arbeit.
+            Der 85-jährige Niilo betreibt seit seiner Kindheit die Schneehuhn-Jagd.
+            Heute fühlt sich der Rentner sicherer, wenn Dorfhelfer Janne ihn
+            dabei mit dem Schneemobil hoch oben auf dem Fjäll begleitet. In
+            Utsjoki, im Norden Finnlands, steht das Konzept der Dorfhilfe
+            unter den Samen, der indigenen Bevölkerung, für einen respektvollen
+            Umgang mit dem Alter. Die Auszubildende Maiju möchte die erste
+            Dorfhelferin Lapplands werden, deswegen begleitet sie den erfahrenen
+            Dorfhelfer Janne bei seiner Arbeit.
 
             Im Westen Finnlands, an der schwedischen Grenze, war das Konzept
             bislang unbekannt, aber die Kultur des Helfens ist auch hier sehr
@@ -35147,149 +35140,155 @@ seasons:
             Eine Entwicklung, die vielen anderen Ländern Europas in diesem
             Ausmaß noch bevorsteht. Auf der Suche nach Arbeit zieht es jüngere
             Menschen weit weg in die Städte, die Alten bleiben wie vielerorts
-            oft allein zurück. Lange haben der Zusammenhalt in den Familien und
-            eine Kultur des Helfens unter den Samen für die Versorgung der Alten
-            ausgereicht, genügend Pflegeheime gibt es dementsprechend nicht.
-            Jetzt sind die Dorfhelfer für das Wohl in den Gemeinden
+            oft allein zurück. Lange haben der Zusammenhalt in den Familien
+            und eine Kultur des Helfens unter den Samen für die Versorgung
+            der Alten ausgereicht, genügend Pflegeheime gibt es dementsprechend
+            nicht. Jetzt sind die Dorfhelfer für das Wohl in den Gemeinden
             verantwortlich. Sie müssen ihre weit verstreut lebenden Klienten
-            trotz Wind und Wetter und bei bis zu minus 40 Grad Celsius im Winter
-            versorgen.
+            trotz Wind und Wetter und bei bis zu minus 40 Grad Celsius im
+            Winter versorgen.'
+        director: Olivera Tornau
+        air_date: '2024-08-31'
+        fernsehserien_episode_no: 645
+        fernsehserien_episode_slug: 645-lappland-gemeinsam-einsam-und-doch-nicht-allein-1739050
+        fernsehserien_episode_id: 1739050
+        youtube_video_id: qMIlkI5LlHs
     -   overall_no: 643
         season_no: 26
         episode_no: 14
         title: 'La Réunion: Die Wiederbelebung der kreolischen Gärten'
         title_fr: La Réunion, le renouveau des jardins créoles
+        location_wikidata: Q17070
+        coordinates:
+        - -21.114444444444
+        - 55.5325
+        description: 'Auf der französischen Überseeinsel La Réunion sind die
+            so genannten „kreolischen Gärten“ ein wahres Reservoir an biologischer
+            Vielfalt. Doch die fortschreitende Urbanisierung der Insel bedrohen
+            die alte Gartenkultur. Einige kämpfen dagegen an, sie wollen die
+            wertvolle Kultur der Gärten erhalten. Die Idee der Selbstversorgung
+            - wo könnte sie besser funktionieren als hier?
+
+            Die Selbstversorger-Gärten zeichnen sich durch eine „organisierte
+            Unordnung“ aus, die traditionell in mehreren Schichten um das
+            Haus herum angelegt wird und Blumen, tropische Früchte, Gemüse
+            und Heilpflanzen – sowohl einheimische als auch eingeführte Arten
+            – harmonisch kombiniert. Diese Gärten, die einst für den Lebensunterhalt
+            der Sklaven und Siedler unentbehrlich waren, spiegeln die Geschichte
+            der Insel La Réunion wider.
+
+            Paulo Brigy, pensionierter Lehrer, hat einen artenreichen kreolischen
+            Garten rekonstruiert. Seit 14 Jahren bemüht er sich, diese Vielfalt
+            trotz anhaltender Dürreperioden und heftiger Wirbelstürme zu erhalten.
+            Auch Pascale Boyer-Vidal liegt das Gärtnern im Blut. Sie pflegt
+            einen jahrhundertealten Garten mit endemischen Pflanzen, der durch
+            die Invasion einzelner eingeschleppter Arten bedroht ist.
+
+            Auf La Réunion, einer ehemaligen französischen Kolonie und einst
+            strategisch wichtigen Zwischenstation für Seefahrer auf dem Weg
+            nach Indien, wird auch heute noch Zuckerrohr angebaut. Kako und
+            Stéphane Kenkle verwandeln das von der Zuckerrohr-Monokultur ausgelaugte
+            Land in eine Oase der Biodiversität im Sinne des kreolischen Gartens.
+            Angesichts der klimatischen und ökologischen Herausforderungen
+            ist die Vielfalt der kreolischen Gärten der Schlüssel zu ihrer
+            Widerstandsfähigkeit. Inspiriert durch das Wissen und die Praktiken
+            ihrer Vorfahren sorgen die Gärtner für die Weitergabe eines wertvollen
+            kulturellen und botanischen Erbes. Wird die Ernte ihren Mühen
+            gerecht?'
+        director: Nina Kormann
         air_date: '2024-09-14'
         fernsehserien_episode_no: 646
         fernsehserien_episode_slug: 646-la-reunion-die-wiederbelebung-der-kreolischen-gaerten-1741707
         fernsehserien_episode_id: 1741707
         youtube_video_id: mJEmTpPV8wM
-        wikidata: Q17070
-        director: Nina Kormann
-        description: >-
-            Auf der französischen Überseeinsel La Réunion sind die so genannten
-            „kreolischen Gärten“ ein wahres Reservoir an biologischer Vielfalt.
-            Doch die fortschreitende Urbanisierung der Insel bedrohen die alte
-            Gartenkultur. Einige kämpfen dagegen an, sie wollen die wertvolle
-            Kultur der Gärten erhalten. Die Idee der Selbstversorgung - wo
-            könnte sie besser funktionieren als hier?
-
-            Die Selbstversorger-Gärten zeichnen sich durch eine „organisierte
-            Unordnung“ aus, die traditionell in mehreren Schichten um das Haus
-            herum angelegt wird und Blumen, tropische Früchte, Gemüse und
-            Heilpflanzen – sowohl einheimische als auch eingeführte Arten –
-            harmonisch kombiniert. Diese Gärten, die einst für den
-            Lebensunterhalt der Sklaven und Siedler unentbehrlich waren,
-            spiegeln die Geschichte der Insel La Réunion wider.
-
-            Paulo Brigy, pensionierter Lehrer, hat einen artenreichen
-            kreolischen Garten rekonstruiert. Seit 14 Jahren bemüht er sich,
-            diese Vielfalt trotz anhaltender Dürreperioden und heftiger
-            Wirbelstürme zu erhalten. Auch Pascale Boyer-Vidal liegt das
-            Gärtnern im Blut. Sie pflegt einen jahrhundertealten Garten mit
-            endemischen Pflanzen, der durch die Invasion einzelner
-            eingeschleppter Arten bedroht ist.
-
-            Auf La Réunion, einer ehemaligen französischen Kolonie und einst
-            strategisch wichtigen Zwischenstation für Seefahrer auf dem Weg nach
-            Indien, wird auch heute noch Zuckerrohr angebaut. Kako und Stéphane
-            Kenkle verwandeln das von der Zuckerrohr-Monokultur ausgelaugte Land
-            in eine Oase der Biodiversität im Sinne des kreolischen Gartens.
-            Angesichts der klimatischen und ökologischen Herausforderungen ist
-            die Vielfalt der kreolischen Gärten der Schlüssel zu ihrer
-            Widerstandsfähigkeit. Inspiriert durch das Wissen und die Praktiken
-            ihrer Vorfahren sorgen die Gärtner für die Weitergabe eines
-            wertvollen kulturellen und botanischen Erbes. Wird die Ernte ihren
-            Mühen gerecht?
     -   overall_no: 644
         season_no: 26
         episode_no: 15
         title: Die Muscheltaucherinnen vom Kongo-Delta
+        description: 'Bis zu 150 Mal am Tag taucht Marie Velakutshi in die
+            Tiefen des Kongo-Flusses, um Muscheln heraufzuholen. Eine anstrengende
+            und gefährliche Arbeit. Denn die Strömung des Flusses ist stark
+            und droht Marie immer wieder hinauszuziehen. Der jungen Frau bleibt
+            jedoch nichts anderes übrig. Es ist die einzige Arbeit, die sie
+            kennt und mit der sie Geld verdienen kann.
+
+            Mitten im Delta des Kongo-Flusses liegt eine Insel, Kizunga Manianga.
+            Sie ist umgeben von mäandernden Flussarmen und verwunschenen Mangrovenwäldern.
+            Hier leben und arbeiten Muscheltaucherinnen, das Tauchen ist im
+            Fluss-Delta traditionell Frauensache. Die Taucherinnen tragen
+            hohe Verantwortung: Ihre Familien sind auf die Erträge angewiesen;
+            und weil der Fischfang zurückgeht, sind viele Männer fort, um
+            anderswo Geld zu verdienen. Die Muscheln sind für viele Familien
+            die Rettung.
+
+            Marie Velakutshi taucht fast jeden Tag bis zu 150 Mal im trüben
+            Wasser, bis ihre Pirogen voll sind. Die Frauen tauchen bei Ebbe,
+            dann ist das Wasser etwa drei Meter tief; sie haben dabei nur
+            eine Sicht von wenigen Zentimetern. Denn der Kongo ist ein tropischer
+            Schwarzwasserfluss, eingeschwemmte Huminstoffe aus Mooren und
+            humushaltigen Regenwaldböden färben ihn dunkel.
+
+            Tückisch ist aber vor allem die starke Strömung, eine der stärksten
+            der Welt. Wenn Marie zu lange unter Wasser bleibt, treibt sie
+            ab und muss mit dem Fang in den Händen gegen die Strömung anschwimmen,
+            was manchmal schier unmöglich ist. Die Taucherinnen sind deswegen
+            stets an einer Rettungsleine festgemacht.
+
+            Demnächst sollen die Muscheln, die von den Frauen nicht zur Eigenversorgung
+            gebraucht werden, auf dem Markt in der Stadt verkauft werden,
+            wo Marie auch ihre beiden Töchter besuchen möchte. Sie sind bei
+            Verwandten untergebracht, damit sie dort zur Schule gehen können.
+            Marie möchte vermeiden, dass die beiden eines Tages Muscheltaucherinnen
+            werden müssen.'
+        director: Dietmar Klumpp
         air_date: '2024-09-21'
         fernsehserien_episode_no: 647
         fernsehserien_episode_slug: 647-die-muscheltaucherinnen-vom-kongo-delta-1743560
         fernsehserien_episode_id: 1743560
         youtube_video_id: vIuG5AEgn3M
-        director: Dietmar Klumpp
-        description: >-
-            Bis zu 150 Mal am Tag taucht Marie Velakutshi in die Tiefen des
-            Kongo-Flusses, um Muscheln heraufzuholen. Eine anstrengende und
-            gefährliche Arbeit. Denn die Strömung des Flusses ist stark und droht
-            Marie immer wieder hinauszuziehen. Der jungen Frau bleibt jedoch nichts
-            anderes übrig. Es ist die einzige Arbeit, die sie kennt und mit der sie
-            Geld verdienen kann.
-
-            Mitten im Delta des Kongo-Flusses liegt eine Insel, Kizunga Manianga.
-            Sie ist umgeben von mäandernden Flussarmen und verwunschenen
-            Mangrovenwäldern. Hier leben und arbeiten Muscheltaucherinnen, das
-            Tauchen ist im Fluss-Delta traditionell Frauensache. Die Taucherinnen
-            tragen hohe Verantwortung: Ihre Familien sind auf die Erträge
-            angewiesen; und weil der Fischfang zurückgeht, sind viele Männer fort,
-            um anderswo Geld zu verdienen. Die Muscheln sind für viele Familien die
-            Rettung.
-
-            Marie Velakutshi taucht fast jeden Tag bis zu 150 Mal im trüben Wasser,
-            bis ihre Pirogen voll sind. Die Frauen tauchen bei Ebbe, dann ist das
-            Wasser etwa drei Meter tief; sie haben dabei nur eine Sicht von wenigen
-            Zentimetern. Denn der Kongo ist ein tropischer Schwarzwasserfluss,
-            eingeschwemmte Huminstoffe aus Mooren und humushaltigen Regenwaldböden
-            färben ihn dunkel.
-
-            Tückisch ist aber vor allem die starke Strömung, eine der stärksten der
-            Welt. Wenn Marie zu lange unter Wasser bleibt, treibt sie ab und muss
-            mit dem Fang in den Händen gegen die Strömung anschwimmen, was manchmal
-            schier unmöglich ist. Die Taucherinnen sind deswegen stets an einer
-            Rettungsleine festgemacht.
-
-            Demnächst sollen die Muscheln, die von den Frauen nicht zur
-            Eigenversorgung gebraucht werden, auf dem Markt in der Stadt verkauft
-            werden, wo Marie auch ihre beiden Töchter besuchen möchte. Sie sind bei
-            Verwandten untergebracht, damit sie dort zur Schule gehen können. Marie
-            möchte vermeiden, dass die beiden eines Tages Muscheltaucherinnen werden
-            müssen.
-
     -   overall_no: 645
         season_no: 26
         episode_no: 16
         title: Der Duft Indiens
         title_fr: L’Inde, l’autre pays du parfum
+        location_wikidata: Q614890
+        coordinates:
+        - 27.07
+        - 79.92
+        description: 'Im Bundesstaat Uttar Pradesh wird ein kostbarer Rohstoff
+            hergestellt: Attar. In der Parfümhauptstadt Indiens, Kannauj,
+            werden wie vor Jahrhunderten Blütenblätter von Rosen oder Jasmin
+            zusammen mit Sandelholzöl in großen Fässern im Wasserdampfverfahren
+            zu wohlriechenden Essenzen destilliert. Aber auch Gewürze wie
+            Safran, Nelken oder Kardamom liefern wertvolle Düfte.
+
+            Kannauj ist eine der ältesten Städte Indiens und neben Grasse
+            in der französischen Provence einer der wichtigsten Standorte
+            der Parfümherstellung. Düfte sind seit jeher omnipräsent im täglichen
+            Leben in Indien: als Parfüm, als Backzutat oder als Räucherstäbchen.
+            Sadhna Pathak hat das Unternehmen ihres verstorbenen Mannes übernommen
+            und ist gemeinsam mit ihrem Bruder in dritter Generation Attar-Herstellerin
+            von Kannauj. Außerdem besitzt die Familie eine Räucherstäbchenproduktion,
+            in der die Reststoffe aus dem Destillationsprozess verwendet werden.
+            Sadhnas Sohn Aviral soll nun das Unternehmen zukunftsfähig machen,
+            denn die traditionelle Attar-Gewinnung droht zunehmend von synthetisch
+            hergestellten Duftstoffen verdrängt zu werden. Auch Vishal Vijayvargiya,
+            einer der erfolgreichsten Parfümeure in der Bundeshauptstadt Lakhnau,
+            setzt auf synthetische Stoffe, da diese erheblich günstiger und
+            für viele Kunden erschwinglich sind. Außerdem empfinden manche
+            Käufer synthetische Düfte als angenehmer. Der 23-jährige Aviral
+            Pathak setzt darauf, echte und traditionell hergestellte Duftstoffe
+            zu produzieren und daraus attraktive Düfte zu kreieren. Er hofft,
+            dadurch nicht nur das elterliche Unternehmen, sondern auch Kannauj
+            als Parfümhauptstadt zu unterstützen. Wird er sich gegen den Trend
+            zu preislich günstigeren synthetischen Duftstoffen durchsetzen
+            können?'
+        director: Friederike Schlumbom
         air_date: '2024-09-28'
         fernsehserien_episode_no: 648
         fernsehserien_episode_slug: 648-der-duft-indiens-1745423
         fernsehserien_episode_id: 1745423
         youtube_video_id: bOJ6BPYbHUo
-        director: Friederike Schlumbom
-        wikidata: Q614890
-        description: >-
-            Im Bundesstaat Uttar Pradesh wird ein kostbarer Rohstoff
-            hergestellt: Attar. In der Parfümhauptstadt Indiens, Kannauj, werden
-            wie vor Jahrhunderten Blütenblätter von Rosen oder Jasmin zusammen
-            mit Sandelholzöl in großen Fässern im Wasserdampfverfahren zu
-            wohlriechenden Essenzen destilliert. Aber auch Gewürze wie Safran,
-            Nelken oder Kardamom liefern wertvolle Düfte.
-
-            Kannauj ist eine der ältesten Städte Indiens und neben Grasse in der
-            französischen Provence einer der wichtigsten Standorte der
-            Parfümherstellung. Düfte sind seit jeher omnipräsent im täglichen
-            Leben in Indien: als Parfüm, als Backzutat oder als Räucherstäbchen.
-            Sadhna Pathak hat das Unternehmen ihres verstorbenen Mannes
-            übernommen und ist gemeinsam mit ihrem Bruder in dritter Generation
-            Attar-Herstellerin von Kannauj. Außerdem besitzt die Familie eine
-            Räucherstäbchenproduktion, in der die Reststoffe aus dem
-            Destillationsprozess verwendet werden. Sadhnas Sohn Aviral soll nun
-            das Unternehmen zukunftsfähig machen, denn die traditionelle
-            Attar-Gewinnung droht zunehmend von synthetisch hergestellten
-            Duftstoffen verdrängt zu werden. Auch Vishal Vijayvargiya, einer der
-            erfolgreichsten Parfümeure in der Bundeshauptstadt Lakhnau, setzt
-            auf synthetische Stoffe, da diese erheblich günstiger und für viele
-            Kunden erschwinglich sind. Außerdem empfinden manche Käufer
-            synthetische Düfte als angenehmer. Der 23-jährige Aviral Pathak
-            setzt darauf, echte und traditionell hergestellte Duftstoffe zu
-            produzieren und daraus attraktive Düfte zu kreieren. Er hofft,
-            dadurch nicht nur das elterliche Unternehmen, sondern auch Kannauj
-            als Parfümhauptstadt zu unterstützen. Wird er sich gegen den Trend
-            zu preislich günstigeren synthetischen Duftstoffen durchsetzen
-            können?
     -   overall_no: 646
         season_no: 26
         episode_no: 17

@@ -9276,6 +9276,54 @@
         44.191151
       ]
     }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "marker-color": "#cccccc",
+      "marker-size": "small",
+      "title": "Lappland – Gemeinsam einsam und doch nicht allein",
+      "description": "\n(Staffel 26 Nr. 13, Fortlaufende Nr. 642; Erstausstrahlung: 31.08.2024)\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=qMIlkI5LlHs youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/645-lappland-gemeinsam-einsam-und-doch-nicht-allein-1739050 fernsehserien.de]\n"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        27.0265413,
+        69.9078285
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "marker-color": "#cccccc",
+      "marker-size": "small",
+      "title": "La Réunion: Die Wiederbelebung der kreolischen Gärten",
+      "description": "\n(Staffel 26 Nr. 14, Fortlaufende Nr. 643; frz. Titel “La Réunion, le renouveau des jardins créoles”; Erstausstrahlung: 14.09.2024)\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=mJEmTpPV8wM youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/646-la-reunion-die-wiederbelebung-der-kreolischen-gaerten-1741707 fernsehserien.de]\n"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        55.5325,
+        -21.114444444444
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "marker-color": "#cccccc",
+      "marker-size": "small",
+      "title": "Der Duft Indiens",
+      "description": "\n(Staffel 26 Nr. 16, Fortlaufende Nr. 645; frz. Titel “L’Inde, l’autre pays du parfum”; Erstausstrahlung: 28.09.2024)\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=bOJ6BPYbHUo youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/648-der-duft-indiens-1745423 fernsehserien.de]\n"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        79.92,
+        27.07
+      ]
+    }
   }
 ]
 }
