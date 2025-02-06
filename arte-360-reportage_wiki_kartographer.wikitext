@@ -9315,7 +9315,7 @@
       "marker-color": "#cccccc",
       "marker-size": "small",
       "title": "Der Duft Indiens",
-      "description": "\n(Staffel 26 Nr. 16, Fortlaufende Nr. 645; frz. Titel “L’Inde, l’autre pays du parfum”; Erstausstrahlung: 28.09.2024)\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=bOJ6BPYbHUo youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/648-der-duft-indiens-1745423 fernsehserien.de]\n"
+      "description": "\n(Staffel 26 Nr. 16, Fortlaufende Nr. 645; frz. Titel “L’Inde, l’autre pays du parfum”; Erstausstrahlung: 28.09.2024)\n\n'''Referenzen:''' [https://www.youtube.com/watch?v=bOJ6BPYbHUo youtube.com], [https://www.fernsehserien.de/arte-360grad-reportage/folgen/648-der-duft-indiens-1745423 fernsehserien.de], [https://www.imdb.com/title/tt33507348 imdb.com]\n"
     },
     "geometry": {
       "type": "Point",
