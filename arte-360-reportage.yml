@@ -35418,6 +35418,84 @@ seasons:
         fernsehserien_episode_no: 662
         fernsehserien_episode_slug: 662-brasilien-ein-fisch-namens-tainha-1782214
         fernsehserien_episode_id: 1782214
+    -   title: 'Kenia: Giraffen als Botschafter des Friedens'
+        air_date: '2025-07-12'
+        fernsehserien_episode_no: 663
+        fernsehserien_episode_slug: 663-kenia-giraffen-als-botschafter-des-friedens-1808542
+        fernsehserien_episode_id: 1808542
+    -   title: 'Mosambik, eine Insel mit Vergangenheit'
+        air_date: '2025-09-06'
+        fernsehserien_episode_no: 664
+        fernsehserien_episode_slug: 664-mosambik-eine-insel-mit-vergangenheit-1821158
+        fernsehserien_episode_id: 1821158
+    -   title: 'La lutte, der magische Ringkampf des Senegal'
+        air_date: '2025-09-13'
+        fernsehserien_episode_no: 665
+        fernsehserien_episode_slug: 665-la-lutte-der-magische-ringkampf-des-senegal-1822299
+        fernsehserien_episode_id: 1822299
+    -   title: 'Belfasts neue Wandgemälde'
+        air_date: '2025-09-20'
+        fernsehserien_episode_no: 666
+        fernsehserien_episode_slug: 666-belfasts-neue-wandgemaelde-1824179
+        fernsehserien_episode_id: 1824179
+    -   title: 'Indonesien: Ein Dorf kämpft gegen die Fluten'
+        air_date: '2025-09-27'
+        fernsehserien_episode_no: 667
+        fernsehserien_episode_slug: 667-indonesien-ein-dorf-kaempft-gegen-die-fluten-1825408
+        fernsehserien_episode_id: 1825408
+    -   title: 'Georgien: Die Schäferhunde der Mönche'
+        air_date: '2025-10-11'
+        fernsehserien_episode_no: 668
+        fernsehserien_episode_slug: 668-georgien-die-schaeferhunde-der-moenche-1828382
+        fernsehserien_episode_id: 1828382
+    -   title: 'Argentinien, unterwegs mit dem Anden-Doktor'
+        air_date: '2025-10-18'
+        fernsehserien_episode_no: 669
+        fernsehserien_episode_slug: 669-argentinien-unterwegs-mit-dem-anden-doktor-1830530
+        fernsehserien_episode_id: 1830530
+    -   title: 'Kirgistan: Hoffnung für die Schneeleoparden'
+        air_date: '2025-10-24'
+        fernsehserien_episode_no: 670
+        fernsehserien_episode_slug: 670-kirgistan-hoffnung-fuer-die-schneeleoparden-1831300
+        fernsehserien_episode_id: 1831300
+    -   title: 'Japan: Das Erbe der Samurai'
+        air_date: '2025-10-25'
+        fernsehserien_episode_no: 671
+        fernsehserien_episode_slug: 671-japan-das-erbe-der-samurai-1831589
+        fernsehserien_episode_id: 1831589
+    -   title: 'Türkei: Die Kühe von Tahpur'
+        air_date: '2025-11-08'
+        fernsehserien_episode_no: 672
+        fernsehserien_episode_slug: 672-tuerkei-die-kuehe-von-tahpur-1837489
+        fernsehserien_episode_id: 1837489
+    -   title: 'Peru: Stachellose Bienen, Retter des Regenwaldes'
+        air_date: '2025-11-29'
+        fernsehserien_episode_no: 673
+        fernsehserien_episode_slug: 673-peru-stachellose-bienen-retter-des-regenwaldes-1841870
+        fernsehserien_episode_id: 1841870
+    -   title: 'Simbabwe: Die magischen Hände von Harare'
+        air_date: '2025-12-06'
+        fernsehserien_episode_no: 674
+        fernsehserien_episode_slug: 674-simbabwe-die-magischen-haende-von-harare-1842556
+        fernsehserien_episode_id: 1842556
+    -   title: 'Portugal: Die Regatta der Moliceiros'
+        air_date: '2025-12-20'
+        fernsehserien_episode_no: 675
+        fernsehserien_episode_slug: 675-portugal-die-regatta-der-moliceiros-1847864
+        fernsehserien_episode_id: 1847864
+-   'no': 28
+    year: 2026
+    episodes:
+    -   title: 'Borneo, wo junge Orang-Utans leben lernen'
+        air_date: '2026-01-10'
+        fernsehserien_episode_no: 676
+        fernsehserien_episode_slug: 676-borneo-wo-junge-orang-utans-leben-lernen-1849690
+        fernsehserien_episode_id: 1849690
+    -   title: 'Nase an Nase mit den Pyrenäen-Bären'
+        air_date: '2026-01-24'
+        fernsehserien_episode_no: 677
+        fernsehserien_episode_slug: 677-nase-an-nase-mit-den-pyrenaeen-baeren-1853970
+        fernsehserien_episode_id: 1853970
 dvds:
 -   title: Kolumbien - Die rasenden Engel der Linea 5
     release_date: '2007-01-01'
