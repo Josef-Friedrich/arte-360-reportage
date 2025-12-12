@@ -5650,7 +5650,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 646
 | NR_ST = 17
-| OT = Mongolei: Der Pferderetter<ref>Internetquellen zur Episode ''„Mongolei: Der Pferderetter“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/649-mongolei-der-pferderetter-1754006 649] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/649-mongolei-der-pferderetter-1754006 1754006], '''imdb:''' Titel-ID [https://www.imdb.com/title/tt34110780 tt34110780]</ref>
+| OT = Mongolei: Der Pferderetter<ref>Internetquellen zur Episode ''„Mongolei: Der Pferderetter“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/649-mongolei-der-pferderetter-1754006 649] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/649-mongolei-der-pferderetter-1754006 1754006], '''imdb:''' Titel-ID [https://www.imdb.com/title/tt34110780 tt34110780], '''youtube:''' Video-ID [https://www.youtube.com/watch?v=AAecyTylq7I AAecyTylq7I]</ref>
 | Feld1 = Mongolie, l’homme qui aimait les chevaux
 | REG = -
 | EA = 2024-10-19
@@ -5658,7 +5658,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 647
 | NR_ST = 18
-| OT = Ein Palast aus Sand: Nepals magische Mandalas<ref>Internetquellen zur Episode ''„Ein Palast aus Sand: Nepals magische Mandalas“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/650-ein-palast-aus-sand-nepals-magische-mandalas-1755291 650] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/650-ein-palast-aus-sand-nepals-magische-mandalas-1755291 1755291], '''imdb:''' Titel-ID [https://www.imdb.com/title/tt34515803 tt34515803]</ref>
+| OT = Ein Palast aus Sand: Nepals magische Mandalas<ref>Internetquellen zur Episode ''„Ein Palast aus Sand: Nepals magische Mandalas“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/650-ein-palast-aus-sand-nepals-magische-mandalas-1755291 650] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/650-ein-palast-aus-sand-nepals-magische-mandalas-1755291 1755291], '''imdb:''' Titel-ID [https://www.imdb.com/title/tt34515803 tt34515803], '''youtube:''' Video-ID [https://www.youtube.com/watch?v=OrNROARt9gI OrNROARt9gI]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2024-11-09
@@ -5666,7 +5666,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 648
 | NR_ST = 19
-| OT = Die Vogelliebhaber von Louisiana<ref>Internetquellen zur Episode ''„Die Vogelliebhaber von Louisiana“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/651-die-vogelliebhaber-von-louisiana-1757815 651] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/651-die-vogelliebhaber-von-louisiana-1757815 1757815], '''imdb:''' Titel-ID [https://www.imdb.com/title/tt34623009 tt34623009]</ref>
+| OT = Die Vogelliebhaber von Louisiana<ref>Internetquellen zur Episode ''„Die Vogelliebhaber von Louisiana“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/651-die-vogelliebhaber-von-louisiana-1757815 651] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/651-die-vogelliebhaber-von-louisiana-1757815 1757815], '''imdb:''' Titel-ID [https://www.imdb.com/title/tt34623009 tt34623009], '''youtube:''' Video-ID [https://www.youtube.com/watch?v=EQ3El0nA2W4 EQ3El0nA2W4]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2024-11-16
@@ -5674,7 +5674,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 649
 | NR_ST = 20
-| OT = Kintoa, ein Schwein wie kein anderes<ref>Internetquellen zur Episode ''„Kintoa, ein Schwein wie kein anderes“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/652-kintoa-ein-schwein-wie-kein-anderes-1759037 652] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/652-kintoa-ein-schwein-wie-kein-anderes-1759037 1759037], '''imdb:''' Titel-ID [https://www.imdb.com/title/tt34734877 tt34734877]</ref>
+| OT = Kintoa, ein Schwein wie kein anderes<ref>Internetquellen zur Episode ''„Kintoa, ein Schwein wie kein anderes“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/652-kintoa-ein-schwein-wie-kein-anderes-1759037 652] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/652-kintoa-ein-schwein-wie-kein-anderes-1759037 1759037], '''imdb:''' Titel-ID [https://www.imdb.com/title/tt34734877 tt34734877], '''youtube:''' Video-ID [https://www.youtube.com/watch?v=vRs-pgwJJ-0 vRs-pgwJJ-0]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2024-11-23
@@ -5682,7 +5682,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 650
 | NR_ST = 21
-| OT = Montevideo, Stadt im Rhythmus des Karnevals<ref>Internetquellen zur Episode ''„Montevideo, Stadt im Rhythmus des Karnevals“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/653-montevideo-stadt-im-rhythmus-des-karnevals-1760258 653] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/653-montevideo-stadt-im-rhythmus-des-karnevals-1760258 1760258], '''imdb:''' Titel-ID [https://www.imdb.com/title/tt34816301 tt34816301]</ref>
+| OT = Montevideo, Stadt im Rhythmus des Karnevals<ref>Internetquellen zur Episode ''„Montevideo, Stadt im Rhythmus des Karnevals“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/653-montevideo-stadt-im-rhythmus-des-karnevals-1760258 653] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/653-montevideo-stadt-im-rhythmus-des-karnevals-1760258 1760258], '''imdb:''' Titel-ID [https://www.imdb.com/title/tt34816301 tt34816301], '''youtube:''' Video-ID [https://www.youtube.com/watch?v=e17TJ6rGEUs e17TJ6rGEUs]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2024-11-30
@@ -5690,7 +5690,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 651
 | NR_ST = 22
-| OT = Mexiko City, im Rhythmus des Danzón<ref>Internetquellen zur Episode ''„Mexiko City, im Rhythmus des Danzón“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/654-mexiko-city-im-rhythmus-des-danzon-1766213 654] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/654-mexiko-city-im-rhythmus-des-danzon-1766213 1766213], '''imdb:''' Titel-ID [https://www.imdb.com/title/tt35090986 tt35090986]</ref>
+| OT = Mexiko City, im Rhythmus des Danzón<ref>Internetquellen zur Episode ''„Mexiko City, im Rhythmus des Danzón“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/654-mexiko-city-im-rhythmus-des-danzon-1766213 654] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/654-mexiko-city-im-rhythmus-des-danzon-1766213 1766213], '''imdb:''' Titel-ID [https://www.imdb.com/title/tt35090986 tt35090986], '''youtube:''' Video-ID [https://www.youtube.com/watch?v=ogtjw1LmC_U ogtjw1LmC_U]</ref>
 | Feld1 = Mexique, les amoureux du danzon
 | REG = -
 | EA = 2024-12-21
@@ -5698,7 +5698,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 652
 | NR_ST = 23
-| OT = Tatianas Tanz: Akrobatik auf dem Hochseil<ref>Internetquellen zur Episode ''„Tatianas Tanz: Akrobatik auf dem Hochseil“'': '''imdb:''' Titel-ID [https://www.imdb.com/title/tt35183231 tt35183231]</ref>
+| OT = Tatianas Tanz: Akrobatik auf dem Hochseil<ref>Internetquellen zur Episode ''„Tatianas Tanz: Akrobatik auf dem Hochseil“'': '''imdb:''' Titel-ID [https://www.imdb.com/title/tt35183231 tt35183231], '''youtube:''' Video-ID [https://www.youtube.com/watch?v=KX-PQVyIgtI KX-PQVyIgtI]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2024-12-28
@@ -5733,7 +5733,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 655
 | NR_ST = 3
-| OT = Bretonische Kitesurf-Challenge<ref>Internetquellen zur Episode ''„Bretonische Kitesurf-Challenge“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/658-bretonische-kitesurf-challenge-1771487 658] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/658-bretonische-kitesurf-challenge-1771487 1771487], '''imdb:''' Titel-ID [https://www.imdb.com/title/tt35465489 tt35465489]</ref>
+| OT = Bretonische Kitesurf-Challenge<ref>Internetquellen zur Episode ''„Bretonische Kitesurf-Challenge“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/658-bretonische-kitesurf-challenge-1771487 658] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/658-bretonische-kitesurf-challenge-1771487 1771487], '''imdb:''' Titel-ID [https://www.imdb.com/title/tt35465489 tt35465489], '''youtube:''' Video-ID [https://www.youtube.com/watch?v=GaPYkbmhPQs GaPYkbmhPQs]</ref>
 | Feld1 = Kitesurf en Bretagne, à l’assaut des phares
 | REG = -
 | EA = 2025-01-18
@@ -5749,7 +5749,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 657
 | NR_ST = 5
-| OT = Uganda: Hunde der Hoffnung<ref>Internetquellen zur Episode ''„Uganda: Hunde der Hoffnung“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/660-uganda-hunde-der-hoffnung-1777344 660] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/660-uganda-hunde-der-hoffnung-1777344 1777344]</ref>
+| OT = Uganda: Hunde der Hoffnung<ref>Internetquellen zur Episode ''„Uganda: Hunde der Hoffnung“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/660-uganda-hunde-der-hoffnung-1777344 660] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/660-uganda-hunde-der-hoffnung-1777344 1777344], '''youtube:''' Video-ID [https://www.youtube.com/watch?v=lV1qFNrgJ50 lV1qFNrgJ50]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2025-02-22
@@ -5757,7 +5757,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 658
 | NR_ST = 6
-| OT = Gorgona, gefangen im Paradies<ref>Internetquellen zur Episode ''„Gorgona, gefangen im Paradies“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/661-gorgona-gefangen-im-paradies-1779386 661] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/661-gorgona-gefangen-im-paradies-1779386 1779386]</ref>
+| OT = Gorgona, gefangen im Paradies<ref>Internetquellen zur Episode ''„Gorgona, gefangen im Paradies“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/661-gorgona-gefangen-im-paradies-1779386 661] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/661-gorgona-gefangen-im-paradies-1779386 1779386], '''youtube:''' Video-ID [https://www.youtube.com/watch?v=fiJPRuFLUEs fiJPRuFLUEs]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2025-03-01
@@ -5773,7 +5773,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 660
 | NR_ST = 8
-| OT = Kenia: Giraffen als Botschafter des Friedens<ref>Internetquellen zur Episode ''„Kenia: Giraffen als Botschafter des Friedens“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/663-kenia-giraffen-als-botschafter-des-friedens-1808542 663] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/663-kenia-giraffen-als-botschafter-des-friedens-1808542 1808542]</ref>
+| OT = Kenia: Giraffen als Botschafter des Friedens<ref>Internetquellen zur Episode ''„Kenia: Giraffen als Botschafter des Friedens“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/663-kenia-giraffen-als-botschafter-des-friedens-1808542 663] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/663-kenia-giraffen-als-botschafter-des-friedens-1808542 1808542], '''youtube:''' Video-ID [https://www.youtube.com/watch?v=KhUyjtOrLQ8 KhUyjtOrLQ8]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2025-07-12
@@ -5781,7 +5781,7 @@
 {{Episodenlisteneintrag
 | NR_GES = 661
 | NR_ST = 9
-| OT = Mosambik, eine Insel mit Vergangenheit<ref>Internetquellen zur Episode ''„Mosambik, eine Insel mit Vergangenheit“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/664-mosambik-eine-insel-mit-vergangenheit-1821158 664] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/664-mosambik-eine-insel-mit-vergangenheit-1821158 1821158]</ref>
+| OT = Mosambik, eine Insel mit Vergangenheit<ref>Internetquellen zur Episode ''„Mosambik, eine Insel mit Vergangenheit“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/664-mosambik-eine-insel-mit-vergangenheit-1821158 664] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/664-mosambik-eine-insel-mit-vergangenheit-1821158 1821158], '''youtube:''' Video-ID [https://www.youtube.com/watch?v=wohvODrJthk wohvODrJthk]</ref>
 | Feld1 = -
 | REG = -
 | EA = 2025-09-06

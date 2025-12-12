@@ -35300,6 +35300,7 @@ seasons:
         fernsehserien_episode_slug: 649-mongolei-der-pferderetter-1754006
         fernsehserien_episode_id: 1754006
         imdb_episode_id: tt34110780
+        youtube_video_id: AAecyTylq7I
     -   overall_no: 647
         season_no: 26
         episode_no: 18
@@ -35309,6 +35310,7 @@ seasons:
         fernsehserien_episode_slug: 650-ein-palast-aus-sand-nepals-magische-mandalas-1755291
         fernsehserien_episode_id: 1755291
         imdb_episode_id: tt34515803
+        youtube_video_id: OrNROARt9gI
     -   overall_no: 648
         season_no: 26
         episode_no: 19
@@ -35318,6 +35320,7 @@ seasons:
         fernsehserien_episode_slug: 651-die-vogelliebhaber-von-louisiana-1757815
         fernsehserien_episode_id: 1757815
         imdb_episode_id: tt34623009
+        youtube_video_id: EQ3El0nA2W4
     -   overall_no: 649
         season_no: 26
         episode_no: 20
@@ -35327,6 +35330,7 @@ seasons:
         fernsehserien_episode_slug: 652-kintoa-ein-schwein-wie-kein-anderes-1759037
         fernsehserien_episode_id: 1759037
         imdb_episode_id: tt34734877
+        youtube_video_id: vRs-pgwJJ-0
     -   overall_no: 650
         season_no: 26
         episode_no: 21
@@ -35336,6 +35340,7 @@ seasons:
         fernsehserien_episode_slug: 653-montevideo-stadt-im-rhythmus-des-karnevals-1760258
         fernsehserien_episode_id: 1760258
         imdb_episode_id: tt34816301
+        youtube_video_id: e17TJ6rGEUs
     -   overall_no: 651
         season_no: 26
         episode_no: 22
@@ -35346,12 +35351,14 @@ seasons:
         fernsehserien_episode_slug: 654-mexiko-city-im-rhythmus-des-danzon-1766213
         fernsehserien_episode_id: 1766213
         imdb_episode_id: tt35090986
+        youtube_video_id: ogtjw1LmC_U
     -   overall_no: 652
         season_no: 26
         episode_no: 23
         title: 'Tatianas Tanz: Akrobatik auf dem Hochseil'
         air_date: '2024-12-28'
         imdb_episode_id: tt35183231
+        youtube_video_id: KX-PQVyIgtI
 -   'no': 27
     year: 2025
     episodes:
@@ -35384,6 +35391,7 @@ seasons:
         fernsehserien_episode_slug: 658-bretonische-kitesurf-challenge-1771487
         fernsehserien_episode_id: 1771487
         imdb_episode_id: tt35465489
+        youtube_video_id: GaPYkbmhPQs
     -   overall_no: 656
         season_no: 27
         episode_no: 4
@@ -35411,6 +35419,7 @@ seasons:
         fernsehserien_episode_no: 661
         fernsehserien_episode_slug: 661-gorgona-gefangen-im-paradies-1779386
         fernsehserien_episode_id: 1779386
+        youtube_video_id: fiJPRuFLUEs
     -   overall_no: 659
         season_no: 27
         episode_no: 7
@@ -35427,6 +35436,7 @@ seasons:
         fernsehserien_episode_no: 663
         fernsehserien_episode_slug: 663-kenia-giraffen-als-botschafter-des-friedens-1808542
         fernsehserien_episode_id: 1808542
+        youtube_video_id: KhUyjtOrLQ8
     -   overall_no: 661
         season_no: 27
         episode_no: 9
@@ -35435,6 +35445,7 @@ seasons:
         fernsehserien_episode_no: 664
         fernsehserien_episode_slug: 664-mosambik-eine-insel-mit-vergangenheit-1821158
         fernsehserien_episode_id: 1821158
+        youtube_video_id: wohvODrJthk
     -   overall_no: 662
         season_no: 27
         episode_no: 10
