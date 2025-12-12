@@ -5770,4 +5770,135 @@
 | REG = -
 | EA = 2025-03-08
 }}
+{{Episodenlisteneintrag
+| NR_GES = 660
+| NR_ST = 8
+| OT = Kenia: Giraffen als Botschafter des Friedens<ref>Internetquellen zur Episode ''„Kenia: Giraffen als Botschafter des Friedens“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/663-kenia-giraffen-als-botschafter-des-friedens-1808542 663] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/663-kenia-giraffen-als-botschafter-des-friedens-1808542 1808542]</ref>
+| Feld1 = -
+| REG = -
+| EA = 2025-07-12
+}}
+{{Episodenlisteneintrag
+| NR_GES = 661
+| NR_ST = 9
+| OT = Mosambik, eine Insel mit Vergangenheit<ref>Internetquellen zur Episode ''„Mosambik, eine Insel mit Vergangenheit“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/664-mosambik-eine-insel-mit-vergangenheit-1821158 664] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/664-mosambik-eine-insel-mit-vergangenheit-1821158 1821158]</ref>
+| Feld1 = -
+| REG = -
+| EA = 2025-09-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 662
+| NR_ST = 10
+| OT = La lutte, der magische Ringkampf des Senegal<ref>Internetquellen zur Episode ''„La lutte, der magische Ringkampf des Senegal“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/665-la-lutte-der-magische-ringkampf-des-senegal-1822299 665] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/665-la-lutte-der-magische-ringkampf-des-senegal-1822299 1822299]</ref>
+| Feld1 = -
+| REG = -
+| EA = 2025-09-13
+}}
+{{Episodenlisteneintrag
+| NR_GES = 663
+| NR_ST = 11
+| OT = Belfasts neue Wandgemälde<ref>Internetquellen zur Episode ''„Belfasts neue Wandgemälde“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/666-belfasts-neue-wandgemaelde-1824179 666] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/666-belfasts-neue-wandgemaelde-1824179 1824179]</ref>
+| Feld1 = -
+| REG = -
+| EA = 2025-09-20
+}}
+{{Episodenlisteneintrag
+| NR_GES = 664
+| NR_ST = 12
+| OT = Indonesien: Ein Dorf kämpft gegen die Fluten<ref>Internetquellen zur Episode ''„Indonesien: Ein Dorf kämpft gegen die Fluten“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/667-indonesien-ein-dorf-kaempft-gegen-die-fluten-1825408 667] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/667-indonesien-ein-dorf-kaempft-gegen-die-fluten-1825408 1825408]</ref>
+| Feld1 = -
+| REG = -
+| EA = 2025-09-27
+}}
+{{Episodenlisteneintrag
+| NR_GES = 665
+| NR_ST = 13
+| OT = Georgien: Die Schäferhunde der Mönche<ref>Internetquellen zur Episode ''„Georgien: Die Schäferhunde der Mönche“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/668-georgien-die-schaeferhunde-der-moenche-1828382 668] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/668-georgien-die-schaeferhunde-der-moenche-1828382 1828382]</ref>
+| Feld1 = -
+| REG = -
+| EA = 2025-10-11
+}}
+{{Episodenlisteneintrag
+| NR_GES = 666
+| NR_ST = 14
+| OT = Argentinien, unterwegs mit dem Anden-Doktor<ref>Internetquellen zur Episode ''„Argentinien, unterwegs mit dem Anden-Doktor“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/669-argentinien-unterwegs-mit-dem-anden-doktor-1830530 669] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/669-argentinien-unterwegs-mit-dem-anden-doktor-1830530 1830530]</ref>
+| Feld1 = -
+| REG = -
+| EA = 2025-10-18
+}}
+{{Episodenlisteneintrag
+| NR_GES = 667
+| NR_ST = 15
+| OT = Kirgistan: Hoffnung für die Schneeleoparden<ref>Internetquellen zur Episode ''„Kirgistan: Hoffnung für die Schneeleoparden“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/670-kirgistan-hoffnung-fuer-die-schneeleoparden-1831300 670] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/670-kirgistan-hoffnung-fuer-die-schneeleoparden-1831300 1831300]</ref>
+| Feld1 = -
+| REG = -
+| EA = 2025-10-24
+}}
+{{Episodenlisteneintrag
+| NR_GES = 668
+| NR_ST = 16
+| OT = Japan: Das Erbe der Samurai<ref>Internetquellen zur Episode ''„Japan: Das Erbe der Samurai“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/671-japan-das-erbe-der-samurai-1831589 671] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/671-japan-das-erbe-der-samurai-1831589 1831589]</ref>
+| Feld1 = -
+| REG = -
+| EA = 2025-10-25
+}}
+{{Episodenlisteneintrag
+| NR_GES = 669
+| NR_ST = 17
+| OT = Türkei: Die Kühe von Tahpur<ref>Internetquellen zur Episode ''„Türkei: Die Kühe von Tahpur“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/672-tuerkei-die-kuehe-von-tahpur-1837489 672] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/672-tuerkei-die-kuehe-von-tahpur-1837489 1837489]</ref>
+| Feld1 = -
+| REG = -
+| EA = 2025-11-08
+}}
+{{Episodenlisteneintrag
+| NR_GES = 670
+| NR_ST = 18
+| OT = Peru: Stachellose Bienen, Retter des Regenwaldes<ref>Internetquellen zur Episode ''„Peru: Stachellose Bienen, Retter des Regenwaldes“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/673-peru-stachellose-bienen-retter-des-regenwaldes-1841870 673] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/673-peru-stachellose-bienen-retter-des-regenwaldes-1841870 1841870]</ref>
+| Feld1 = -
+| REG = -
+| EA = 2025-11-29
+}}
+{{Episodenlisteneintrag
+| NR_GES = 671
+| NR_ST = 19
+| OT = Simbabwe: Die magischen Hände von Harare<ref>Internetquellen zur Episode ''„Simbabwe: Die magischen Hände von Harare“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/674-simbabwe-die-magischen-haende-von-harare-1842556 674] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/674-simbabwe-die-magischen-haende-von-harare-1842556 1842556]</ref>
+| Feld1 = -
+| REG = -
+| EA = 2025-12-06
+}}
+{{Episodenlisteneintrag
+| NR_GES = 672
+| NR_ST = 20
+| OT = Portugal: Die Regatta der Moliceiros<ref>Internetquellen zur Episode ''„Portugal: Die Regatta der Moliceiros“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/675-portugal-die-regatta-der-moliceiros-1847864 675] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/675-portugal-die-regatta-der-moliceiros-1847864 1847864]</ref>
+| Feld1 = -
+| REG = -
+| EA = 2025-12-20
+}}
+}}
+
+=== Staffel 28 (2026) ===
+
+{{Episodenlistentabelle|BREITE=100%
+| ZUSAMMENFASSUNG = nein
+| SORTIERBAR = nein
+| REGISSEUR = ja
+| DREHBUCH = nein
+| Feld1 = Französischer Titel
+| INHALT =
+{{Episodenlisteneintrag
+| NR_GES = 673
+| NR_ST = 1
+| OT = Borneo, wo junge Orang-Utans leben lernen<ref>Internetquellen zur Episode ''„Borneo, wo junge Orang-Utans leben lernen“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/676-borneo-wo-junge-orang-utans-leben-lernen-1849690 676] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/676-borneo-wo-junge-orang-utans-leben-lernen-1849690 1849690]</ref>
+| Feld1 = -
+| REG = -
+| EA = 2026-01-10
+}}
+{{Episodenlisteneintrag
+| NR_GES = 674
+| NR_ST = 2
+| OT = Nase an Nase mit den Pyrenäen-Bären<ref>Internetquellen zur Episode ''„Nase an Nase mit den Pyrenäen-Bären“'': '''fernsehserien:''' Folge [https://www.fernsehserien.de/arte-360grad-reportage/folgen/677-nase-an-nase-mit-den-pyrenaeen-baeren-1853970 677] Folgen-ID [https://www.fernsehserien.de/arte-360grad-reportage/folgen/677-nase-an-nase-mit-den-pyrenaeen-baeren-1853970 1853970]</ref>
+| Feld1 = -
+| REG = -
+| EA = 2026-01-24
+}}
 }}
